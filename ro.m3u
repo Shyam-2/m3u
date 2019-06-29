@@ -1,247 +1,301 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20085.m3u8
-#EXTINF:-1,6 TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20020.m3u8
-#EXTINF:-1,Acasa Gold TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20084.m3u8
-#EXTINF:-1,ACASA MOLDAVIA TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20019.m3u8
-#EXTINF:-1,Acasa Tv
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20083.m3u8
-#EXTINF:-1,ACUM TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20018.m3u8
-#EXTINF:-1,Alfa & Omega Tv
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20017.m3u8
-#EXTINF:-1,Alpha Media TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20016.m3u8
-#EXTINF:-1,Antena 1
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20082.m3u8
-#EXTINF:-1,Antena 1 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20116.m3u8
-#EXTINF:-1,Antena 3
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20081.m3u8
-#EXTINF:-1,Antena 3 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20115.m3u8
-#EXTINF:-1,Antena Stars
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20080.m3u8
-#EXTINF:-1,Antena STARS HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20114.m3u8
-#EXTINF:-1,ATV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20015.m3u8
-#EXTINF:-1,AXN
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20079.m3u8
-#EXTINF:-1,AXN White
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20078.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20112.m3u8
-#EXTINF:-1,B1 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20111.m3u8
+#EXTINF:-1, 1 Music Channel
+http://thenew.tv:8000/live/Denver/Broncos/72219.m3u8
+#EXTINF:-1, Acasa HD
+http://thenew.tv:8000/live/Denver/Broncos/72218.m3u8
+#EXTINF:-1, Agro TV
+http://thenew.tv:8000/live/Denver/Broncos/72217.m3u8
+#EXTINF:-1, AMC
+http://thenew.tv:8000/live/Denver/Broncos/72216.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+http://thenew.tv:8000/live/Denver/Broncos/72215.m3u8
+#EXTINF:-1, Antena 1 HD
+http://thenew.tv:8000/live/Denver/Broncos/72214.m3u8
+#EXTINF:-1, Antena 3 HD
+http://thenew.tv:8000/live/Denver/Broncos/72213.m3u8
+#EXTINF:-1, Antena International
+http://thenew.tv:8000/live/Denver/Broncos/72212.m3u8
+#EXTINF:-1, Antena Star HD
+http://thenew.tv:8000/live/Denver/Broncos/72211.m3u8
+#EXTINF:-1, Arena Sport 1
+http://thenew.tv:8000/live/Denver/Broncos/72210.m3u8
+#EXTINF:-1, Arena Sport 2 HD
+http://thenew.tv:8000/live/Denver/Broncos/72209.m3u8
+#EXTINF:-1, Arena Sport 3 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72208.m3u8
+#EXTINF:-1, Arena Sport 4 HD
+http://thenew.tv:8000/live/Denver/Broncos/72207.m3u8
+#EXTINF:-1, Arenat 4
+http://thenew.tv:8000/live/Denver/Broncos/72206.m3u8
+#EXTINF:-1, Auto Motor Sport FHD
+http://thenew.tv:8000/live/Denver/Broncos/72205.m3u8
+#EXTINF:-1, AXN BLACK
+http://thenew.tv:8000/live/Denver/Broncos/72204.m3u8
+#EXTINF:-1, AXN White HD
+http://thenew.tv:8000/live/Denver/Broncos/72203.m3u8
+#EXTINF:-1, B1 HD
+http://thenew.tv:8000/live/Denver/Broncos/72202.m3u8
+#EXTINF:-1, BBC Earth HD
+http://thenew.tv:8000/live/Denver/Broncos/72201.m3u8
+#EXTINF:-1, Boomerang
+http://thenew.tv:8000/live/Denver/Broncos/72200.m3u8
+#EXTINF:-1, Cartoon Network
+http://thenew.tv:8000/live/Denver/Broncos/72198.m3u8
+#EXTINF:-1, Cinemax 2 HD
+http://thenew.tv:8000/live/Denver/Broncos/72197.m3u8
+#EXTINF:-1, Cinemax HD
+http://thenew.tv:8000/live/Denver/Broncos/72196.m3u8
+#EXTINF:-1, CINEMAX RO
+http://thenew.tv:8000/live/Denver/Broncos/72262.m3u8
+#EXTINF:-1, DIBI TV
+http://thenew.tv:8000/live/Denver/Broncos/72195.m3u8
+#EXTINF:-1, Digi 24 HD
+http://thenew.tv:8000/live/Denver/Broncos/72194.m3u8
+#EXTINF:-1, Digi ANIMAL WORLD HD
+http://thenew.tv:8000/live/Denver/Broncos/72193.m3u8
+#EXTINF:-1, Digi FILM HD
+http://thenew.tv:8000/live/Denver/Broncos/72192.m3u8
+#EXTINF:-1, Digi Film NOW HD
+http://thenew.tv:8000/live/Denver/Broncos/72191.m3u8
+#EXTINF:-1, Digi Life
+http://thenew.tv:8000/live/Denver/Broncos/72190.m3u8
+#EXTINF:-1, Digi Sport 1 HD
+http://thenew.tv:8000/live/Denver/Broncos/72189.m3u8
+#EXTINF:-1, Digi Sport 2 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72188.m3u8
+#EXTINF:-1, Digi Sport 3 HD
+http://thenew.tv:8000/live/Denver/Broncos/72187.m3u8
+#EXTINF:-1, DIGI SPORT 4 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72186.m3u8
+#EXTINF:-1, Digi Sport 4 HD
+http://thenew.tv:8000/live/Denver/Broncos/72185.m3u8
+#EXTINF:-1, Digi WORLD HD
+http://thenew.tv:8000/live/Denver/Broncos/72184.m3u8
+#EXTINF:-1, Discovery Channel
+http://thenew.tv:8000/live/Denver/Broncos/72183.m3u8
+#EXTINF:-1, Discovery Science HD
+http://thenew.tv:8000/live/Denver/Broncos/72182.m3u8
+#EXTINF:-1, Disney Channel
+http://thenew.tv:8000/live/Denver/Broncos/72181.m3u8
+#EXTINF:-1, Disney Junior
+http://thenew.tv:8000/live/Denver/Broncos/72180.m3u8
+#EXTINF:-1, Etno HD
+http://thenew.tv:8000/live/Denver/Broncos/72179.m3u8
+#EXTINF:-1, FAVORIT TV
+http://thenew.tv:8000/live/Denver/Broncos/72176.m3u8
+#EXTINF:-1, Film Cafe
+http://thenew.tv:8000/live/Denver/Broncos/72175.m3u8
+#EXTINF:-1, Fishing & Hunting HD
+http://thenew.tv:8000/live/Denver/Broncos/72174.m3u8
+#EXTINF:-1, Fix & Foxi
+http://thenew.tv:8000/live/Denver/Broncos/72173.m3u8
+#EXTINF:-1, Food Network HD
+http://thenew.tv:8000/live/Denver/Broncos/72172.m3u8
+#EXTINF:-1, HAPPY CHANNEL HD
+http://thenew.tv:8000/live/Denver/Broncos/72171.m3u8
+#EXTINF:-1, HBO 2 HD
+http://thenew.tv:8000/live/Denver/Broncos/72170.m3u8
+#EXTINF:-1, HBO 3 HD
+http://thenew.tv:8000/live/Denver/Broncos/72169.m3u8
+#EXTINF:-1, HBO HD
+http://thenew.tv:8000/live/Denver/Broncos/72168.m3u8
+#EXTINF:-1, History Channel
+http://thenew.tv:8000/live/Denver/Broncos/72167.m3u8
+#EXTINF:-1, Kanal D HD
+http://thenew.tv:8000/live/Denver/Broncos/72166.m3u8
+#EXTINF:-1, KISS TV HD
+http://thenew.tv:8000/live/Denver/Broncos/72165.m3u8
+#EXTINF:-1, Look Plus HD
+http://thenew.tv:8000/live/Denver/Broncos/72164.m3u8
+#EXTINF:-1, Look Sport TV FHD
+http://thenew.tv:8000/live/Denver/Broncos/72163.m3u8
+#EXTINF:-1, Mania TV
+http://thenew.tv:8000/live/Denver/Broncos/72162.m3u8
+#EXTINF:-1, MegaMax HD
+http://thenew.tv:8000/live/Denver/Broncos/72161.m3u8
+#EXTINF:-1, Minimax
+http://thenew.tv:8000/live/Denver/Broncos/72160.m3u8
+#EXTINF:-1, MTV Rocks
+http://thenew.tv:8000/live/Denver/Broncos/72159.m3u8
+#EXTINF:-1, Music 1 Channel
+http://thenew.tv:8000/live/Denver/Broncos/72158.m3u8
+#EXTINF:-1, NAT GEO
+http://thenew.tv:8000/live/Denver/Broncos/72157.m3u8
+#EXTINF:-1, NAT GEO Wild HD
+http://thenew.tv:8000/live/Denver/Broncos/72156.m3u8
+#EXTINF:-1, National TV
+http://thenew.tv:8000/live/Denver/Broncos/72155.m3u8
+#EXTINF:-1, Neptun TV
+http://thenew.tv:8000/live/Denver/Broncos/72154.m3u8
+#EXTINF:-1, Nick Junior
+http://thenew.tv:8000/live/Denver/Broncos/72153.m3u8
+#EXTINF:-1, Nickelodeon HD
+http://thenew.tv:8000/live/Denver/Broncos/72152.m3u8
+#EXTINF:-1, Paramount Channel
+http://thenew.tv:8000/live/Denver/Broncos/72151.m3u8
+#EXTINF:-1, Pink Romance
+http://thenew.tv:8000/live/Denver/Broncos/72150.m3u8
+#EXTINF:-1, Prima
+http://thenew.tv:8000/live/Denver/Broncos/72149.m3u8
+#EXTINF:-1, Prima Cool
+http://thenew.tv:8000/live/Denver/Broncos/72148.m3u8
+#EXTINF:-1, PRO 2 HD
+http://thenew.tv:8000/live/Denver/Broncos/72147.m3u8
+#EXTINF:-1, Pro Cinema HD
+http://thenew.tv:8000/live/Denver/Broncos/72146.m3u8
+#EXTINF:-1, PRO GOLD
+http://thenew.tv:8000/live/Denver/Broncos/72145.m3u8
+#EXTINF:-1, PRO TV
+http://thenew.tv:8000/live/Denver/Broncos/72144.m3u8
+#EXTINF:-1, PRO TV International
+http://thenew.tv:8000/live/Denver/Broncos/72143.m3u8
+#EXTINF:-1, PRO X HD
+http://thenew.tv:8000/live/Denver/Broncos/72142.m3u8
+#EXTINF:-1, PROCINEMA
+http://thenew.tv:8000/live/Denver/Broncos/72259.m3u8
+#EXTINF:-1, Realite TV
+http://thenew.tv:8000/live/Denver/Broncos/72141.m3u8
+#EXTINF:-1, RO TVR 3
+http://thenew.tv:8000/live/Denver/Broncos/72140.m3u8
+#EXTINF:-1, Romania TV
+http://thenew.tv:8000/live/Denver/Broncos/72139.m3u8
+#EXTINF:-1, STARS
+http://thenew.tv:8000/live/Denver/Broncos/72138.m3u8
+#EXTINF:-1, SUPERTENNIS HD
+http://thenew.tv:8000/live/Denver/Broncos/72137.m3u8
+#EXTINF:-1, Taraf HD
+http://thenew.tv:8000/live/Denver/Broncos/72136.m3u8
+#EXTINF:-1, Tele Moldova Plus
+http://thenew.tv:8000/live/Denver/Broncos/72135.m3u8
+#EXTINF:-1, TELEKOM SPORT 1 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72134.m3u8
+#EXTINF:-1, TELEKOM SPORT 2 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72133.m3u8
+#EXTINF:-1, TELEKOM SPORT 3 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72132.m3u8
+#EXTINF:-1, TELEKOM SPORT 4 FHD
+http://thenew.tv:8000/live/Denver/Broncos/72131.m3u8
+#EXTINF:-1, TELESHOP TV
+http://thenew.tv:8000/live/Denver/Broncos/72130.m3u8
+#EXTINF:-1, The Fishing & Hunting
+http://thenew.tv:8000/live/Denver/Broncos/72129.m3u8
+#EXTINF:-1, TLC
+http://thenew.tv:8000/live/Denver/Broncos/72128.m3u8
+#EXTINF:-1, TNT
+http://thenew.tv:8000/live/Denver/Broncos/72127.m3u8
+#EXTINF:-1, Travel Channel FHD
+http://thenew.tv:8000/live/Denver/Broncos/72126.m3u8
+#EXTINF:-1, TRINITAS TV
+http://thenew.tv:8000/live/Denver/Broncos/72125.m3u8
+#EXTINF:-1, TV 1000 HD
+http://thenew.tv:8000/live/Denver/Broncos/72124.m3u8
+#EXTINF:-1, TV Paprika
+http://thenew.tv:8000/live/Denver/Broncos/72123.m3u8
+#EXTINF:-1, TV5 Monde
+http://thenew.tv:8000/live/Denver/Broncos/72122.m3u8
+#EXTINF:-1, TVR 1 HD
+http://thenew.tv:8000/live/Denver/Broncos/72121.m3u8
+#EXTINF:-1, TVR 2 HD
+http://thenew.tv:8000/live/Denver/Broncos/72120.m3u8
+#EXTINF:-1, TVR 3 HD
+http://thenew.tv:8000/live/Denver/Broncos/72119.m3u8
+#EXTINF:-1, TVR HD
+http://thenew.tv:8000/live/Denver/Broncos/72118.m3u8
+#EXTINF:-1, TVR International
+http://thenew.tv:8000/live/Denver/Broncos/72117.m3u8
+#EXTINF:-1, UTV HD
+http://thenew.tv:8000/live/Denver/Broncos/72116.m3u8
+#EXTINF:-1, VIASAT EXPLORER
+http://thenew.tv:8000/live/Denver/Broncos/72115.m3u8
+#EXTINF:-1, Viasat History FHD
+http://thenew.tv:8000/live/Denver/Broncos/72114.m3u8
+#EXTINF:-1, Viasat Nature
+http://thenew.tv:8000/live/Denver/Broncos/72113.m3u8
+#EXTINF:-1, ZU TV HD
+http://thenew.tv:8000/live/Denver/Broncos/72112.m3u8
+#EXTINF:-1,ANTENA  STARS
+http://thenew.tv:8000/live/Denver/Broncos/72248.m3u8
+#EXTINF:-1,AXN  ROMANIA
+http://thenew.tv:8000/live/Denver/Broncos/72244.m3u8
+#EXTINF:-1,AXN  WHITE
+http://thenew.tv:8000/live/Denver/Broncos/72241.m3u8
 #EXTINF:-1,B1 Tv
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20077.m3u8
-#EXTINF:-1,Bit TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20014.m3u8
-#EXTINF:-1,Cinemax
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20076.m3u8
-#EXTINF:-1,Cinemax 2
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20075.m3u8
-#EXTINF:-1,Credo TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20013.m3u8
-#EXTINF:-1,Cromtel TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20012.m3u8
-#EXTINF:-1,Cromtel TV HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20074.m3u8
-#EXTINF:-1,Dibi Tv
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20011.m3u8
-#EXTINF:-1,DIGI 24 Craiova
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20110.m3u8
-#EXTINF:-1,Digi 24 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20109.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72237.m3u8
+#EXTINF:-1,CINEMAX  2
+http://thenew.tv:8000/live/Denver/Broncos/72234.m3u8
+#EXTINF:-1,DIGI  WORLD
+http://thenew.tv:8000/live/Denver/Broncos/72264.m3u8
+#EXTINF:-1,Digi 24
+http://thenew.tv:8000/live/Denver/Broncos/72258.m3u8
 #EXTINF:-1,Digi Animal World
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20073.m3u8
-#EXTINF:-1,DIGI FILM
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20072.m3u8
-#EXTINF:-1,Digi Film HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20108.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72253.m3u8
 #EXTINF:-1,Digi Life
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20071.m3u8
-#EXTINF:-1,Digi Life HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20107.m3u8
-#EXTINF:-1,Digi Sport 1
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20070.m3u8
-#EXTINF:-1,DIGI SPORT 1 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20106.m3u8
-#EXTINF:-1,Digi Sport 2
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20069.m3u8
-#EXTINF:-1,Digi Sport 2 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20105.m3u8
-#EXTINF:-1,Digi Sport 3
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20068.m3u8
-#EXTINF:-1,Digi Sport 3 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20104.m3u8
-#EXTINF:-1,Digi Sport 4
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20067.m3u8
-#EXTINF:-1,Digi Sport 4 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20103.m3u8
-#EXTINF:-1,Digi World
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20066.m3u8
-#EXTINF:-1,Digi World HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20096.m3u8
-#EXTINF:-1,Digi24 TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20009.m3u8
-#EXTINF:-1,Disney Channel
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20065.m3u8
-#EXTINF:-1,Disney Junior
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20064.m3u8
-#EXTINF:-1,Etno TV HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20063.m3u8
-#EXTINF:-1,Eurosport 1
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20062.m3u8
-#EXTINF:-1,Eurosport 2
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20061.m3u8
-#EXTINF:-1,Favorit TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20060.m3u8
-#EXTINF:-1,Film Cafe
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20059.m3u8
-#EXTINF:-1,Happy Channel
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20058.m3u8
-#EXTINF:-1,HBO
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20057.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72251.m3u8
+#EXTINF:-1,DISNEY  JUNIOR
+http://thenew.tv:8000/live/Denver/Broncos/72260.m3u8
+#EXTINF:-1,Etno Tv
+http://thenew.tv:8000/live/Denver/Broncos/72255.m3u8
+#EXTINF:-1,FAVORTI  TV
+http://thenew.tv:8000/live/Denver/Broncos/72263.m3u8
+#EXTINF:-1,FISHING &  HUNTING
+http://thenew.tv:8000/live/Denver/Broncos/72257.m3u8
+#EXTINF:-1,HAPPY  CHANNEL
+http://thenew.tv:8000/live/Denver/Broncos/72252.m3u8
+#EXTINF:-1,HBO  ROMANIA
+http://thenew.tv:8000/live/Denver/Broncos/72250.m3u8
 #EXTINF:-1,HBO 2
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20056.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72247.m3u8
 #EXTINF:-1,HBO 3
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20055.m3u8
-#EXTINF:-1,History Channel
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20054.m3u8
-#EXTINF:-1,HIT CH
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20008.m3u8
-#EXTINF:-1,Hora TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20053.m3u8
-#EXTINF:-1,Iasi TV Life
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20007.m3u8
-#EXTINF:-1,INFORMATIA TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20006.m3u8
-#EXTINF:-1,Intermedia TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20005.m3u8
-#EXTINF:-1,Kanal D
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20052.m3u8
-#EXTINF:-1,KANAL D HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20095.m3u8
-#EXTINF:-1,Kiss TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20004.m3u8
-#EXTINF:-1,LASI TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20003.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72243.m3u8
+#EXTINF:-1,HBO Romania
+http://thenew.tv:8000/live/Denver/Broncos/72242.m3u8
+#EXTINF:-1,HISTORY  CHANNELH
+http://thenew.tv:8000/live/Denver/Broncos/72239.m3u8
+#EXTINF:-1,KANAL  D
+http://thenew.tv:8000/live/Denver/Broncos/72236.m3u8
+#EXTINF:-1,KISS TV
+http://thenew.tv:8000/live/Denver/Broncos/72235.m3u8
+#EXTINF:-1,LOOK  TV
+http://thenew.tv:8000/live/Denver/Broncos/72233.m3u8
 #EXTINF:-1,Look Plus
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20051.m3u8
-#EXTINF:-1,Look Sport
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20050.m3u8
-#EXTINF:-1,Megamax
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20049.m3u8
-#EXTINF:-1,Minimax
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20048.m3u8
-#EXTINF:-1,MISA TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20002.m3u8
-#EXTINF:-1,Music Channel
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20047.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20046.m3u8
-#EXTINF:-1,National 24 Plus
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20045.m3u8
-#EXTINF:-1,National Geographic
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20044.m3u8
-#EXTINF:-1,National TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20043.m3u8
-#EXTINF:-1,NeptunTV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20042.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72232.m3u8
+#EXTINF:-1,MEGAMAZ
+http://thenew.tv:8000/live/Denver/Broncos/72231.m3u8
+#EXTINF:-1,MUSIC CHANEL  ONE
+http://thenew.tv:8000/live/Denver/Broncos/72230.m3u8
+#EXTINF:-1,MUSIC CHANNEL HU
+http://thenew.tv:8000/live/Denver/Broncos/72229.m3u8
+#EXTINF:-1,MUSIC CHANNEL ONE1
+http://thenew.tv:8000/live/Denver/Broncos/72228.m3u8
+#EXTINF:-1,NATIONAL  GEOGRAPHIC
+http://thenew.tv:8000/live/Denver/Broncos/72227.m3u8
+#EXTINF:-1,NATIONAL  TV
+http://thenew.tv:8000/live/Denver/Broncos/72226.m3u8
+#EXTINF:-1,NATIONAL GEO WILD
+http://thenew.tv:8000/live/Denver/Broncos/72225.m3u8
 #EXTINF:-1,Nickelodeon
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20041.m3u8
-#EXTINF:-1,Prima TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20094.m3u8
-#EXTINF:-1,Pro Cinema HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20093.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72224.m3u8
+#EXTINF:-1,PRIMA  TV
+http://thenew.tv:8000/live/Denver/Broncos/72223.m3u8
 #EXTINF:-1,PRO TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20001.m3u8
-#EXTINF:-1,PRO TV NEWS
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20000.m3u8
-#EXTINF:-1,Pro X
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20040.m3u8
-#EXTINF:-1,ProTV HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20092.m3u8
-#EXTINF:-1,REALITATAE TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20091.m3u8
-#EXTINF:-1,Realitatea Plus TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19999.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72222.m3u8
 #EXTINF:-1,Realitatea Tv
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20039.m3u8
-#EXTINF:-1,Romania Tv
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20038.m3u8
-#EXTINF:-1,Romania TV HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20090.m3u8
-#EXTINF:-1,Sangeorz TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19998.m3u8
-#EXTINF:-1,Somax TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19997.m3u8
-#EXTINF:-1,Speranta TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19996.m3u8
-#EXTINF:-1,Suceava TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19995.m3u8
-#EXTINF:-1,Taraf TV HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20037.m3u8
-#EXTINF:-1,Tele M
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19994.m3u8
-#EXTINF:-1,TELE MOLDOVA
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19993.m3u8
-#EXTINF:-1,Telekom Sport 1 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20036.m3u8
-#EXTINF:-1,Telekom Sport 1 HD (On-Demand)
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20102.m3u8
-#EXTINF:-1,Telekom Sport 2 HD (On-Demand)
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20101.m3u8
-#EXTINF:-1,TELEKOM SPORT 3 HD (On-Demand)
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20100.m3u8
-#EXTINF:-1,TELEKOM SPORT 4 HD (On-Demand)
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20099.m3u8
-#EXTINF:-1,Telekom Sport 5 HD (On-Demand)
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20098.m3u8
-#EXTINF:-1,Telekom Sport 6 HD (On-Demand)
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20097.m3u8
-#EXTINF:-1,Telestar 1
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19992.m3u8
-#EXTINF:-1,Travel Mix
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20030.m3u8
-#EXTINF:-1,Travel Mix TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19991.m3u8
-#EXTINF:-1,TV 1000
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20029.m3u8
-#EXTINF:-1,TV 1000 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20089.m3u8
-#EXTINF:-1,TV Buzau
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19990.m3u8
-#EXTINF:-1,TV Paprika
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20028.m3u8
-#EXTINF:-1,TV PUBLIKA
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19989.m3u8
-#EXTINF:-1,TV5 Monde
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20086.m3u8
-#EXTINF:-1,TVR
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19988.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72221.m3u8
+#EXTINF:-1,ROMANIA  TV
+http://thenew.tv:8000/live/Denver/Broncos/72220.m3u8
+#EXTINF:-1,Taraf Tv
+http://thenew.tv:8000/live/Denver/Broncos/72261.m3u8
+#EXTINF:-1,TNT
+http://thenew.tv:8000/live/Denver/Broncos/72256.m3u8
+#EXTINF:-1,TV1000
+http://thenew.tv:8000/live/Denver/Broncos/72254.m3u8
+#EXTINF:-1,TV5 MONDE
+http://thenew.tv:8000/live/Denver/Broncos/72249.m3u8
 #EXTINF:-1,TVR 1
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20027.m3u8
-#EXTINF:-1,TVR 1 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20088.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72246.m3u8
 #EXTINF:-1,TVR 2
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20026.m3u8
-#EXTINF:-1,TVR 2 HD
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20087.m3u8
-#EXTINF:-1,TVR International
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20025.m3u8
-#EXTINF:-1,U TV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20024.m3u8
-#EXTINF:-1,UTV
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/19987.m3u8
-#EXTINF:-1,Viasat Explore
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20023.m3u8
-#EXTINF:-1,Viasat History
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20022.m3u8
-#EXTINF:-1,Viasat Nature
-http://quisqueyatv.live:25461/live/juanjesus/7CXVhJloUh/20021.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/72245.m3u8
+#EXTINF:-1,VIASAT  HISTORY
+http://thenew.tv:8000/live/Denver/Broncos/72240.m3u8
+#EXTINF:-1,VIASAT  NATURE
+http://thenew.tv:8000/live/Denver/Broncos/72238.m3u8
