@@ -1,189 +1,343 @@
 #EXTM3U
-#EXTINF:-1,#0
-http://vlc.news:9000/live/1234/7788/61333.m3u8
-#EXTINF:-1,24 HORAS
-http://vlc.news:9000/live/1234/7788/61332.m3u8
-#EXTINF:-1,A&E
-http://vlc.news:9000/live/1234/7788/61331.m3u8
-#EXTINF:-1,AMC
-http://vlc.news:9000/live/1234/7788/61330.m3u8
-#EXTINF:-1,ANTENA 3
-http://vlc.news:9000/live/1234/7788/61329.m3u8
-#EXTINF:-1,ARAGON TV
-http://vlc.news:9000/live/1234/7788/61328.m3u8
-#EXTINF:-1,AXN
-http://vlc.news:9000/live/1234/7788/61327.m3u8
-#EXTINF:-1,AXN  WHITE
-http://vlc.news:9000/live/1234/7788/61326.m3u8
-#EXTINF:-1,BARCA TV
-http://vlc.news:9000/live/1234/7788/61325.m3u8
-#EXTINF:-1,BEIN LA LIGA
-http://vlc.news:9000/live/1234/7788/61324.m3u8
-#EXTINF:-1,BEIN SPORT
-http://vlc.news:9000/live/1234/7788/61323.m3u8
-#EXTINF:-1,BOING
-http://vlc.news:9000/live/1234/7788/61322.m3u8
-#EXTINF:-1,CALLE 13
-http://vlc.news:9000/live/1234/7788/61321.m3u8
-#EXTINF:-1,CANAL  PANDA
-http://vlc.news:9000/live/1234/7788/61320.m3u8
-#EXTINF:-1,CANAL COCINA
-http://vlc.news:9000/live/1234/7788/61319.m3u8
-#EXTINF:-1,CANAL DECASA
-http://vlc.news:9000/live/1234/7788/61318.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://vlc.news:9000/live/1234/7788/61317.m3u8
-#EXTINF:-1,CANAL ORBE21
-http://vlc.news:9000/live/1234/7788/61316.m3u8
-#EXTINF:-1,CANAL SUR A.
-http://vlc.news:9000/live/1234/7788/61315.m3u8
-#EXTINF:-1,CAZA Y PESCA
-http://vlc.news:9000/live/1234/7788/61314.m3u8
-#EXTINF:-1,CLAN TVE
-http://vlc.news:9000/live/1234/7788/61313.m3u8
-#EXTINF:-1,CLASSICA
-http://vlc.news:9000/live/1234/7788/61312.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://vlc.news:9000/live/1234/7788/61311.m3u8
-#EXTINF:-1,COSMO
-http://vlc.news:9000/live/1234/7788/61310.m3u8
-#EXTINF:-1,CRIMEN  INVES
-http://vlc.news:9000/live/1234/7788/61309.m3u8
-#EXTINF:-1,CUATRO
-http://vlc.news:9000/live/1234/7788/61308.m3u8
-#EXTINF:-1,DISCOVERY ESP
-http://vlc.news:9000/live/1234/7788/61307.m3u8
-#EXTINF:-1,DISNEY  CHANNEL
-http://vlc.news:9000/live/1234/7788/61306.m3u8
-#EXTINF:-1,DISNEY  JUNIOR
-http://vlc.news:9000/live/1234/7788/61305.m3u8
-#EXTINF:-1,DISNEY XD
-http://vlc.news:9000/live/1234/7788/61304.m3u8
-#EXTINF:-1,DIVINITY
-http://vlc.news:9000/live/1234/7788/61303.m3u8
-#EXTINF:-1,DKISS
-http://vlc.news:9000/live/1234/7788/61302.m3u8
-#EXTINF:-1,DMAX
-http://vlc.news:9000/live/1234/7788/61301.m3u8
-#EXTINF:-1,ENERGY
-http://vlc.news:9000/live/1234/7788/61300.m3u8
-#EXTINF:-1,LA 1 HD
-http://vlc.news:9000/live/1234/7788/61334.m3u8
-#EXTINF:-1,EUROSPORT  1
-http://vlc.news:9000/live/1234/7788/61299.m3u8
-#EXTINF:-1,EUROSPORT  2
-http://vlc.news:9000/live/1234/7788/61298.m3u8
+#EXTINF:-1,#0 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17294.m3u8
+#EXTINF:-1,24H
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17251.m3u8
+#EXTINF:-1,3/24 CAT
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17215.m3u8
+#EXTINF:-1,33 CAT
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17214.m3u8
+#EXTINF:-1,7 TV Murcia
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17250.m3u8
+#EXTINF:-1,8TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17213.m3u8
+#EXTINF:-1,A3series HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17249.m3u8
+#EXTINF:-1,AE
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17276.m3u8
+#EXTINF:-1,AMC HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17293.m3u8
+#EXTINF:-1,Andalucia TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17212.m3u8
+#EXTINF:-1,Antena 3 Full HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17444.m3u8
+#EXTINF:-1,Antena 3 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11254.m3u8
+#EXTINF:-1,Antena 3 HQ
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17442.m3u8
+#EXTINF:-1,Antena 3 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17248.m3u8
+#EXTINF:-1,Aragon TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17211.m3u8
+#EXTINF:-1,AXN SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17292.m3u8
+#EXTINF:-1,AXN White SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17291.m3u8
+#EXTINF:-1,Baby TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17260.m3u8
+#EXTINF:-1,Barca TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17338.m3u8
+#EXTINF:-1,Bein Sports LaLiga SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17330.m3u8
+#EXTINF:-1,BeMad TV HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17247.m3u8
+#EXTINF:-1,Betis TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17329.m3u8
+#EXTINF:-1,Boing
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17246.m3u8
+#EXTINF:-1,Calle 13
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17290.m3u8
+#EXTINF:-1,Canal Cocina
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17265.m3u8
+#EXTINF:-1,Canal Costa TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17245.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17210.m3u8
+#EXTINF:-1,Canal Panda
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17259.m3u8
+#EXTINF:-1,Canal Parlamento
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17244.m3u8
+#EXTINF:-1,Canal Sur
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17209.m3u8
+#EXTINF:-1,Canal Sur Cocina
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17208.m3u8
+#EXTINF:-1,Canal Sur La Banda TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17207.m3u8
+#EXTINF:-1,Canal Sur Turismo
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17206.m3u8
+#EXTINF:-1,Castilla La Mancha Media
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17205.m3u8
+#EXTINF:-1,Caza y Pesca HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17337.m3u8
+#EXTINF:-1,Caza y Pesca
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16759.m3u8
+#EXTINF:-1,Cine 3D
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17336.m3u8
+#EXTINF:-1,Clan TVE
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17243.m3u8
+#EXTINF:-1,Classica
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17335.m3u8
+#EXTINF:-1,Comedy Central SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17289.m3u8
+#EXTINF:-1,Cosmo TV SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17288.m3u8
+#EXTINF:-1,Crime & Investigation
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17264.m3u8
+#EXTINF:-1,Cuatro HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17242.m3u8
+#EXTINF:-1,Cuatro SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17241.m3u8
+#EXTINF:-1,Decasa
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17263.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17275.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17274.m3u8
+#EXTINF:-1,Discovery Max
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17240.m3u8
+#EXTINF:-1,Disney Channel HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17258.m3u8
+#EXTINF:-1,Disney Channel SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17257.m3u8
+#EXTINF:-1,Disney Junior
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17256.m3u8
+#EXTINF:-1,Disney XD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17255.m3u8
+#EXTINF:-1,Divinity
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17239.m3u8
+#EXTINF:-1,Dkiss
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17262.m3u8
+#EXTINF:-1,DW en Español
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17204.m3u8
+#EXTINF:-1,El Garaje TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17261.m3u8
+#EXTINF:-1,Energy
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17238.m3u8
+#EXTINF:-1,Esport 3 CAT
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17328.m3u8
+#EXTINF:-1,ETB Sat
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17203.m3u8
+#EXTINF:-1,Euronews HD en Español
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17202.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17320.m3u8
+#EXTINF:-1,Eurosport 1 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17319.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16758.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17318.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16757.m3u8
+#EXTINF:-1,Extremadura TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17201.m3u8
 #EXTINF:-1,FDF
-http://vlc.news:9000/live/1234/7788/61297.m3u8
-#EXTINF:-1,FOX
-http://vlc.news:9000/live/1234/7788/61296.m3u8
-#EXTINF:-1,FOX LIFE
-http://vlc.news:9000/live/1234/7788/61295.m3u8
-#EXTINF:-1,GOL
-http://vlc.news:9000/live/1234/7788/61294.m3u8
-#EXTINF:-1,HISTORIA ESP
-http://vlc.news:9000/live/1234/7788/61293.m3u8
-#EXTINF:-1,HOLLYWOOD ESP
-http://vlc.news:9000/live/1234/7788/61292.m3u8
-#EXTINF:-1,IBERALIA TV
-http://vlc.news:9000/live/1234/7788/61291.m3u8
-#EXTINF:-1,LA 1
-http://vlc.news:9000/live/1234/7788/61290.m3u8
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17237.m3u8
+#EXTINF:-1,Fox HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17287.m3u8
+#EXTINF:-1,Fox Life SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17286.m3u8
+#EXTINF:-1,Fox SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17285.m3u8
+#EXTINF:-1,Galicia TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17200.m3u8
+#EXTINF:-1,Gol HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17236.m3u8
+#EXTINF:-1,Gol SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17235.m3u8
+#EXTINF:-1,GOL Tv
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16756.m3u8
+#EXTINF:-1,Granada Channel TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17234.m3u8
+#EXTINF:-1,Hispan TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17199.m3u8
+#EXTINF:-1,Historia HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17273.m3u8
+#EXTINF:-1,Hollywood HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17309.m3u8
+#EXTINF:-1,IB3 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13198.m3u8
+#EXTINF:-1,Iberalia
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17334.m3u8
+#EXTINF:-1,intereconomia
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17233.m3u8
+#EXTINF:-1,LA 1 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17232.m3u8
+#EXTINF:-1,LA 1 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17231.m3u8
 #EXTINF:-1,LA 2
-http://vlc.news:9000/live/1234/7788/61289.m3u8
-#EXTINF:-1,LA LIGA TV
-http://vlc.news:9000/live/1234/7788/61288.m3u8
-#EXTINF:-1,LA SEXTA
-http://vlc.news:9000/live/1234/7788/61287.m3u8
-#EXTINF:-1,LAS ESTRELLAS
-http://vlc.news:9000/live/1234/7788/61286.m3u8
-#EXTINF:-1,M. ACCION
-http://vlc.news:9000/live/1234/7788/61285.m3u8
-#EXTINF:-1,M. CINE ESPANOL
-http://vlc.news:9000/live/1234/7788/61284.m3u8
-#EXTINF:-1,M. COMEDIA
-http://vlc.news:9000/live/1234/7788/61283.m3u8
-#EXTINF:-1,M. DCINE
-http://vlc.news:9000/live/1234/7788/61282.m3u8
-#EXTINF:-1,M. DEPORTES 1
-http://vlc.news:9000/live/1234/7788/61281.m3u8
-#EXTINF:-1,M. DEPORTES 2
-http://vlc.news:9000/live/1234/7788/61280.m3u8
-#EXTINF:-1,M. DRAMA HD
-http://vlc.news:9000/live/1234/7788/61279.m3u8
-#EXTINF:-1,M. ESTRENOS
-http://vlc.news:9000/live/1234/7788/61278.m3u8
-#EXTINF:-1,M. FORMULA 1
-http://vlc.news:9000/live/1234/7788/61277.m3u8
-#EXTINF:-1,M. FUTBOL HD
-http://vlc.news:9000/live/1234/7788/61276.m3u8
-#EXTINF:-1,M. GOLF
-http://vlc.news:9000/live/1234/7788/61275.m3u8
-#EXTINF:-1,M. LCAMPEON 1
-http://vlc.news:9000/live/1234/7788/61274.m3u8
-#EXTINF:-1,M. LCAMPEON 2
-http://vlc.news:9000/live/1234/7788/61273.m3u8
-#EXTINF:-1,M. LCAMPEON 3
-http://vlc.news:9000/live/1234/7788/61272.m3u8
-#EXTINF:-1,M. LCAMPEON 5
-http://vlc.news:9000/live/1234/7788/61271.m3u8
-#EXTINF:-1,M. LCAMPEON 8
-http://vlc.news:9000/live/1234/7788/61270.m3u8
-#EXTINF:-1,M. MOTOGP HD
-http://vlc.news:9000/live/1234/7788/61269.m3u8
-#EXTINF:-1,M. PARTIDAZO
-http://vlc.news:9000/live/1234/7788/61268.m3u8
-#EXTINF:-1,M. SERIES
-http://vlc.news:9000/live/1234/7788/61267.m3u8
-#EXTINF:-1,M. SERIES XTRA
-http://vlc.news:9000/live/1234/7788/61266.m3u8
-#EXTINF:-1,M. XTRA
-http://vlc.news:9000/live/1234/7788/61265.m3u8
-#EXTINF:-1,MEGA
-http://vlc.news:9000/live/1234/7788/61264.m3u8
-#EXTINF:-1,MEZZO
-http://vlc.news:9000/live/1234/7788/61263.m3u8
-#EXTINF:-1,MTV ESPANA
-http://vlc.news:9000/live/1234/7788/61262.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://vlc.news:9000/live/1234/7788/61261.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://vlc.news:9000/live/1234/7788/61260.m3u8
-#EXTINF:-1,NATIONAL GEO WILD
-http://vlc.news:9000/live/1234/7788/61259.m3u8
-#EXTINF:-1,NEOX
-http://vlc.news:9000/live/1234/7788/61258.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://vlc.news:9000/live/1234/7788/61257.m3u8
-#EXTINF:-1,NICKELODEON  HD
-http://vlc.news:9000/live/1234/7788/61256.m3u8
-#EXTINF:-1,NOVA
-http://vlc.news:9000/live/1234/7788/61255.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://vlc.news:9000/live/1234/7788/61254.m3u8
-#EXTINF:-1,REAL  MADRID
-http://vlc.news:9000/live/1234/7788/61253.m3u8
-#EXTINF:-1,SUNDANCE
-http://vlc.news:9000/live/1234/7788/61252.m3u8
-#EXTINF:-1,SYFY  HD
-http://vlc.news:9000/live/1234/7788/61251.m3u8
-#EXTINF:-1,TCM
-http://vlc.news:9000/live/1234/7788/61250.m3u8
-#EXTINF:-1,TELE NOVELAS
-http://vlc.news:9000/live/1234/7788/61249.m3u8
-#EXTINF:-1,TELECINCO
-http://vlc.news:9000/live/1234/7788/61248.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://vlc.news:9000/live/1234/7788/61247.m3u8
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17230.m3u8
+#EXTINF:-1,La 8 Mediterráneo
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17198.m3u8
+#EXTINF:-1,La Liga TV BAR SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17327.m3u8
+#EXTINF:-1,La Liga TV HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16755.m3u8
+#EXTINF:-1,La Otra
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17197.m3u8
+#EXTINF:-1,La Sexta Full HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17437.m3u8
+#EXTINF:-1,La Sexta HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/4315.m3u8
+#EXTINF:-1,La Sexta SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17229.m3u8
+#EXTINF:-1,LaLiga 1|2|3 TV HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17326.m3u8
+#EXTINF:-1,LaLiga 123 TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16754.m3u8
+#EXTINF:-1,Lancelot TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17196.m3u8
+#EXTINF:-1,Levante TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17195.m3u8
+#EXTINF:-1,Libertad Digital
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17228.m3u8
+#EXTINF:-1,LTC
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17227.m3u8
+#EXTINF:-1,M Liga de Campeones HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17332.m3u8
+#EXTINF:-1,M Liga de Campeones SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17331.m3u8
+#EXTINF:-1,Mega SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17226.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17190.m3u8
+#EXTINF:-1,Movistar  Accion HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17308.m3u8
+#EXTINF:-1,Movistar  Accion SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17307.m3u8
+#EXTINF:-1,Movistar  Cine N
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17306.m3u8
+#EXTINF:-1,Movistar  Comedia HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17305.m3u8
+#EXTINF:-1,Movistar  Comedia SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17304.m3u8
+#EXTINF:-1,Movistar  Dcine HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17303.m3u8
+#EXTINF:-1,Movistar  Dcine SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17302.m3u8
+#EXTINF:-1,Movistar  Deportes 1 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17317.m3u8
+#EXTINF:-1,Movistar  Deportes 1 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17316.m3u8
+#EXTINF:-1,Movistar  Deportes 2 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17315.m3u8
+#EXTINF:-1,Movistar  Deportes 2 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17314.m3u8
+#EXTINF:-1,Movistar  Disney
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17301.m3u8
+#EXTINF:-1,Movistar  eSports HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17313.m3u8
+#EXTINF:-1,Movistar  Estrenos HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17300.m3u8
+#EXTINF:-1,Movistar  Estrenos SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17299.m3u8
+#EXTINF:-1,Movistar  Formula 1 SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17312.m3u8
+#EXTINF:-1,Movistar  Futbol HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17325.m3u8
+#EXTINF:-1,Movistar  Futbol SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17324.m3u8
+#EXTINF:-1,Movistar  Golf
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17311.m3u8
+#EXTINF:-1,Movistar  Series SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17284.m3u8
+#EXTINF:-1,Movistar  Series Xtra SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17283.m3u8
+#EXTINF:-1,Movistar  Xtra
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17298.m3u8
+#EXTINF:-1,Movistar  Xtra HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17297.m3u8
+#EXTINF:-1,Movistar F1 FHD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16753.m3u8
+#EXTINF:-1,Movistar Futbol HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16752.m3u8
+#EXTINF:-1,Movistar Golf FHD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16751.m3u8
+#EXTINF:-1,Movistar Partidazo FHD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16750.m3u8
+#EXTINF:-1,MTV Espana
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17282.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17272.m3u8
+#EXTINF:-1,Nat Geo Wild SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17271.m3u8
+#EXTINF:-1,National Geoghraphic HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17270.m3u8
+#EXTINF:-1,National Geoghraphic SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17269.m3u8
+#EXTINF:-1,Neox
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17225.m3u8
+#EXTINF:-1,Nick JR
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17254.m3u8
+#EXTINF:-1,Nickelodeon
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17253.m3u8
+#EXTINF:-1,Nonstopeople
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17281.m3u8
+#EXTINF:-1,Nova
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17224.m3u8
+#EXTINF:-1,Odisea SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17268.m3u8
+#EXTINF:-1,Onda Azul
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17194.m3u8
+#EXTINF:-1,Paramount Channel
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17223.m3u8
+#EXTINF:-1,Real Madrid HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17323.m3u8
+#EXTINF:-1,Real Madrid SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17322.m3u8
+#EXTINF:-1,Real Madrid TV FHD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16749.m3u8
+#EXTINF:-1,RT HD en Español
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17193.m3u8
+#EXTINF:-1,Sevilla FC
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17321.m3u8
+#EXTINF:-1,Sundance TV
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17296.m3u8
+#EXTINF:-1,Super3
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17252.m3u8
+#EXTINF:-1,SYFY HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17280.m3u8
+#EXTINF:-1,SyFy SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17279.m3u8
+#EXTINF:-1,TCM SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17295.m3u8
+#EXTINF:-1,Telecinco SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17222.m3u8
+#EXTINF:-1,Teledeporte
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17221.m3u8
+#EXTINF:-1,TELEDEPORTE HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16748.m3u8
+#EXTINF:-1,Teledeporte SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17220.m3u8
+#EXTINF:-1,TeleMadrid
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17192.m3u8
+#EXTINF:-1,Telesur HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17219.m3u8
 #EXTINF:-1,TEN
-http://vlc.news:9000/live/1234/7788/61246.m3u8
-#EXTINF:-1,TNT
-http://vlc.news:9000/live/1234/7788/61245.m3u8
-#EXTINF:-1,TOROS
-http://vlc.news:9000/live/1234/7788/61244.m3u8
-#EXTINF:-1,TV GALICIA
-http://vlc.news:9000/live/1234/7788/61243.m3u8
-#EXTINF:-1,TVE INT.
-http://vlc.news:9000/live/1234/7788/61242.m3u8
-#EXTINF:-1,VIAJAR
-http://vlc.news:9000/live/1234/7788/61241.m3u8
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17218.m3u8
+#EXTINF:-1,TNT HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17278.m3u8
+#EXTINF:-1,TNT SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17277.m3u8
+#EXTINF:-1,Toros
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17333.m3u8
+#EXTINF:-1,Toros *
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13065.m3u8
+#EXTINF:-1,TOROS TV HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16747.m3u8
+#EXTINF:-1,Trece
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17217.m3u8
+#EXTINF:-1,TV Canaria
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17216.m3u8
+#EXTINF:-1,TV3. CAT HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13190.m3u8
+#EXTINF:-1,VH1
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17189.m3u8
+#EXTINF:-1,VH1 Classic
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17188.m3u8
+#EXTINF:-1,Viajar HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17267.m3u8
+#EXTINF:-1,Viajar SD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17266.m3u8
+#EXTINF:-1,XTRM
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17191.m3u8
