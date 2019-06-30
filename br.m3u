@@ -1,85 +1,99 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://vlc.news:9000/live/1234/7788/57855.m3u8
-#EXTINF:-1,Animal Planet HD
-http://vlc.news:9000/live/1234/7788/57853.m3u8
-#EXTINF:-1,Arte HD
-http://vlc.news:9000/live/1234/7788/57852.m3u8
-#EXTINF:-1,AXN HD
-http://vlc.news:9000/live/1234/7788/57851.m3u8
-#EXTINF:-1,Canal Sony HD
-http://vlc.news:9000/live/1234/7788/57842.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://vlc.news:9000/live/1234/7788/57841.m3u8
-#EXTINF:-1,Cinemax HD
-http://vlc.news:9000/live/1234/7788/57840.m3u8
-#EXTINF:-1,Combate HD
-http://vlc.news:9000/live/1234/7788/57839.m3u8
-#EXTINF:-1,Disney Channel HD
-http://vlc.news:9000/live/1234/7788/57829.m3u8
-#EXTINF:-1,Disney Junior HD
-http://vlc.news:9000/live/1234/7788/57828.m3u8
-#EXTINF:-1,FOX
-http://vlc.news:9000/live/1234/7788/57822.m3u8
-#EXTINF:-1,Fox Life HD
-http://vlc.news:9000/live/1234/7788/57821.m3u8
-#EXTINF:-1,Globo News HD
-http://vlc.news:9000/live/1234/7788/57811.m3u8
-#EXTINF:-1,Globo Nordeste HD
-http://vlc.news:9000/live/1234/7788/57810.m3u8
-#EXTINF:-1,Globo RJ HD
-http://vlc.news:9000/live/1234/7788/57808.m3u8
-#EXTINF:-1,Globo SP HD
-http://vlc.news:9000/live/1234/7788/57807.m3u8
-#EXTINF:-1,Globosat HD
-http://vlc.news:9000/live/1234/7788/57805.m3u8
-#EXTINF:-1,Gloob HD
-http://vlc.news:9000/live/1234/7788/57804.m3u8
-#EXTINF:-1,GNT HD
-http://vlc.news:9000/live/1234/7788/57803.m3u8
-#EXTINF:-1,H2 HD
-http://vlc.news:9000/live/1234/7788/57802.m3u8
-#EXTINF:-1,HBO HD
-http://vlc.news:9000/live/1234/7788/57797.m3u8
-#EXTINF:-1,Max Prime HD
-http://vlc.news:9000/live/1234/7788/57791.m3u8
-#EXTINF:-1,Max Up HD
-http://vlc.news:9000/live/1234/7788/57788.m3u8
-#EXTINF:-1,MTV HD
-http://vlc.news:9000/live/1234/7788/57786.m3u8
-#EXTINF:-1,NatGeo Wild HD
-http://vlc.news:9000/live/1234/7788/57784.m3u8
-#EXTINF:-1,National Geographic HD
-http://vlc.news:9000/live/1234/7788/57783.m3u8
-#EXTINF:-1,Nick Jr HD
-http://vlc.news:9000/live/1234/7788/57782.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://vlc.news:9000/live/1234/7788/57781.m3u8
-#EXTINF:-1,Paramount HD
-http://vlc.news:9000/live/1234/7788/57778.m3u8
-#EXTINF:-1,Premiere CLUBES HD
-http://vlc.news:9000/live/1234/7788/57770.m3u8
-#EXTINF:-1,RECORD CAMPINAS HD
-http://vlc.news:9000/live/1234/7788/57768.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://vlc.news:9000/live/1234/7788/57757.m3u8
-#EXTINF:-1,SyFy HD
-http://vlc.news:9000/live/1234/7788/57756.m3u8
-#EXTINF:-1,TBS HD
-http://vlc.news:9000/live/1234/7788/57755.m3u8
-#EXTINF:-1,Telecine Action HD
-http://vlc.news:9000/live/1234/7788/57753.m3u8
-#EXTINF:-1,Telecine Fun HD
-http://vlc.news:9000/live/1234/7788/57751.m3u8
-#EXTINF:-1,Telecine Pipoca HD
-http://vlc.news:9000/live/1234/7788/57750.m3u8
-#EXTINF:-1,Telecine Premium HD
-http://vlc.news:9000/live/1234/7788/57749.m3u8
-#EXTINF:-1,Telecine Touch HD
-http://vlc.news:9000/live/1234/7788/57748.m3u8
-#EXTINF:-1,TV CULTURA HD
-http://vlc.news:9000/live/1234/7788/57740.m3u8
-#EXTINF:-1,Warner Channel HD
-http://vlc.news:9000/live/1234/7788/57734.m3u8
-#EXTINF:-1,Woohoo HD
-http://vlc.news:9000/live/1234/7788/57733.m3u8
+#EXTINF:-1,A&E
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19557.m3u8
+#EXTINF:-1,Animal Planet
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19556.m3u8
+#EXTINF:-1,AXN
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19555.m3u8
+#EXTINF:-1,Boomerang
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19554.m3u8
+#EXTINF:-1,Canal Sony
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19553.m3u8
+#EXTINF:-1,Cartoon Network
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19552.m3u8
+#EXTINF:-1,Cinemax
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19551.m3u8
+#EXTINF:-1,Comedy Central
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19550.m3u8
+#EXTINF:-1,Discovery
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19549.m3u8
+#EXTINF:-1,Discovery Civilization
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19548.m3u8
+#EXTINF:-1,Discovery Home Health
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19547.m3u8
+#EXTINF:-1,Discovery Turbo
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19546.m3u8
+#EXTINF:-1,Disney
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19545.m3u8
+#EXTINF:-1,Disney Jr
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19544.m3u8
+#EXTINF:-1,Disney XD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19543.m3u8
+#EXTINF:-1,E!
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19527.m3u8
+#EXTINF:-1,ESPN Brasil
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19526.m3u8
+#EXTINF:-1,ESPN HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19525.m3u8
+#EXTINF:-1,ESPN plus
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19524.m3u8
+#EXTINF:-1,Fox
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19542.m3u8
+#EXTINF:-1,Fox Life
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19541.m3u8
+#EXTINF:-1,FOX Sports 1
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19523.m3u8
+#EXTINF:-1,Fox Sports 2
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19522.m3u8
+#EXTINF:-1,Globo News
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19521.m3u8
+#EXTINF:-1,Globo Premium
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19520.m3u8
+#EXTINF:-1,H2
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19534.m3u8
+#EXTINF:-1,HBO
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19540.m3u8
+#EXTINF:-1,HBO 2
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19539.m3u8
+#EXTINF:-1,HBO Family
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19538.m3u8
+#EXTINF:-1,HBO Plus
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19537.m3u8
+#EXTINF:-1,HBO Signature
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19536.m3u8
+#EXTINF:-1,History
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19535.m3u8
+#EXTINF:-1,Investiga
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19519.m3u8
+#EXTINF:-1,Max
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19518.m3u8
+#EXTINF:-1,Max Prime
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19517.m3u8
+#EXTINF:-1,National Geographic
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19533.m3u8
+#EXTINF:-1,Nick
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19515.m3u8
+#EXTINF:-1,Nick Jr
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19514.m3u8
+#EXTINF:-1,Paramount
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19513.m3u8
+#EXTINF:-1,Space
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19532.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16768.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16767.m3u8
+#EXTINF:-1,Syfy
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19531.m3u8
+#EXTINF:-1,TNT
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19530.m3u8
+#EXTINF:-1,TNT Series
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19529.m3u8
+#EXTINF:-1,TV BRASIL CENTRAL
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19512.m3u8
+#EXTINF:-1,TV Globo
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19511.m3u8
+#EXTINF:-1,Universal
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19510.m3u8
+#EXTINF:-1,Warner
+http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19528.m3u8
