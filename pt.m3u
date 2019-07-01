@@ -1,53 +1,219 @@
 #EXTM3U
-#EXTINF:-1,PT ALTO ADIGE TV
-http://vlc.news:9000/live/1234/7788/60016.m3u8
-#EXTINF:-1,PT AMC
-http://vlc.news:9000/live/1234/7788/60017.m3u8
-#EXTINF:-1,PT AXN
-http://vlc.news:9000/live/1234/7788/60018.m3u8
-#EXTINF:-1,PT AXN Black
-http://vlc.news:9000/live/1234/7788/60019.m3u8
-#EXTINF:-1,PT BENFICA TV 1
-http://vlc.news:9000/live/1234/7788/60021.m3u8
-#EXTINF:-1,PT BENFICA TV 2
-http://vlc.news:9000/live/1234/7788/60022.m3u8
-#EXTINF:-1,PT CANALE 7
-http://vlc.news:9000/live/1234/7788/60023.m3u8
-#EXTINF:-1,PT SKY TG24
-http://vlc.news:9000/live/1234/7788/60024.m3u8
-#EXTINF:-1,PT SPORT TV 1
-http://vlc.news:9000/live/1234/7788/60025.m3u8
-#EXTINF:-1,PT SPORT TV 2
-http://vlc.news:9000/live/1234/7788/60026.m3u8
-#EXTINF:-1,PT SPORT TV 3
-http://vlc.news:9000/live/1234/7788/60027.m3u8
-#EXTINF:-1,PT SPORT TV 4
-http://vlc.news:9000/live/1234/7788/60028.m3u8
-#EXTINF:-1,ELE 8
-http://vlc.news:9000/live/1234/7788/60031.m3u8
-#EXTINF:-1,ELE ARENA
-http://vlc.news:9000/live/1234/7788/60032.m3u8
-#EXTINF:-1,ELE MILANO
-http://vlc.news:9000/live/1234/7788/60033.m3u8
-#EXTINF:-1,ELE MONTE NEVE
-http://vlc.news:9000/live/1234/7788/60034.m3u8
-#EXTINF:-1,ELE MONTE NEVE 3
-http://vlc.news:9000/live/1234/7788/60035.m3u8
-#EXTINF:-1,ELE PAVIA
-http://vlc.news:9000/live/1234/7788/60036.m3u8
-#EXTINF:-1,ELESTAR
-http://vlc.news:9000/live/1234/7788/60037.m3u8
-#EXTINF:-1,ELEVITROLA
-http://vlc.news:9000/live/1234/7788/60038.m3u8
-#EXTINF:-1,ELPIN TV
-http://vlc.news:9000/live/1234/7788/60039.m3u8
-#EXTINF:-1,RENTINO TV
-http://vlc.news:9000/live/1234/7788/60040.m3u8
-#EXTINF:-1,SN
-http://vlc.news:9000/live/1234/7788/60041.m3u8
-#EXTINF:-1,SN 2
-http://vlc.news:9000/live/1234/7788/60042.m3u8
-#EXTINF:-1,V 2000
-http://vlc.news:9000/live/1234/7788/60043.m3u8
-#EXTINF:-1,V3
-http://vlc.news:9000/live/1234/7788/60044.m3u8
+#EXTINF:-1,24 KITCHEN
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94628.m3u8
+#EXTINF:-1,A Bola TV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94627.m3u8
+#EXTINF:-1,A&E
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94626.m3u8
+#EXTINF:-1,AMC
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94625.m3u8
+#EXTINF:-1,AMC HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94624.m3u8
+#EXTINF:-1,ARTV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94623.m3u8
+#EXTINF:-1,AXN HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94622.m3u8
+#EXTINF:-1,AXN White HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94621.m3u8
+#EXTINF:-1,Baby First
+http://taffy.link:8080/shauntest/shauntest/284
+#EXTINF:-1,Baby TV
+http://taffy.link:8080/shauntest/shauntest/284
+#EXTINF:-1,Benfica TV 1
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94618.m3u8
+#EXTINF:-1,Benfica TV 1 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94617.m3u8
+#EXTINF:-1,Biggs
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94616.m3u8
+#EXTINF:-1,C-Music
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94615.m3u8
+#EXTINF:-1,Caça e Pesca
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94614.m3u8
+#EXTINF:-1,Caçavision
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94613.m3u8
+#EXTINF:-1,Canal Panda
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94612.m3u8
+#EXTINF:-1,Canal Q
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94611.m3u8
+#EXTINF:-1,Cancao Nova
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94610.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94609.m3u8
+#EXTINF:-1,CBS Reality
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94608.m3u8
+#EXTINF:-1,Cine Mundo
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94607.m3u8
+#EXTINF:-1,CMTV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94606.m3u8
+#EXTINF:-1,Discovery Channel
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94605.m3u8
+#EXTINF:-1,Discovery Showcase
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94604.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94603.m3u8
+#EXTINF:-1,Disney junior
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94602.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94601.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94600.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94599.m3u8
+#EXTINF:-1,Eurosport News
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94598.m3u8
+#EXTINF:-1,FOX COMEDY
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94597.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94596.m3u8
+#EXTINF:-1,Fox Crime
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94595.m3u8
+#EXTINF:-1,FOX Crime HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94594.m3u8
+#EXTINF:-1,Fox HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94593.m3u8
+#EXTINF:-1,Fox Life
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94592.m3u8
+#EXTINF:-1,FOX Life HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94591.m3u8
+#EXTINF:-1,Fox Movies
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94590.m3u8
+#EXTINF:-1,FOX Movies HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94589.m3u8
+#EXTINF:-1,Fuel TV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94588.m3u8
+#EXTINF:-1,Globo
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94587.m3u8
+#EXTINF:-1,Globo Premium
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94586.m3u8
+#EXTINF:-1,Historia
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94585.m3u8
+#EXTINF:-1,Hollywood
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94584.m3u8
+#EXTINF:-1,Hollywood HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94583.m3u8
+#EXTINF:-1,JimJam
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94582.m3u8
+#EXTINF:-1,Kombat Sports
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94581.m3u8
+#EXTINF:-1,Localvisao TV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94580.m3u8
+#EXTINF:-1,MCM POP
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94579.m3u8
+#EXTINF:-1,MCM TOP
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94578.m3u8
+#EXTINF:-1,MCS Extreme
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94577.m3u8
+#EXTINF:-1,MCS Lifestyle
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94576.m3u8
+#EXTINF:-1,Motors TV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94575.m3u8
+#EXTINF:-1,Motorvision HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94574.m3u8
+#EXTINF:-1,MOV HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94573.m3u8
+#EXTINF:-1,MTV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94572.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94571.m3u8
+#EXTINF:-1,National Geographic
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94570.m3u8
+#EXTINF:-1,NICKELODEON
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94569.m3u8
+#EXTINF:-1,Odisseia
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94568.m3u8
+#EXTINF:-1,Panda
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94567.m3u8
+#EXTINF:-1,PFC
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94566.m3u8
+#EXTINF:-1,Porto Canal
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94565.m3u8
+#EXTINF:-1,Record News
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94564.m3u8
+#EXTINF:-1,RTP 1
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94563.m3u8
+#EXTINF:-1,RTP 1 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94562.m3u8
+#EXTINF:-1,RTP 2 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94561.m3u8
+#EXTINF:-1,RTP 3
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94560.m3u8
+#EXTINF:-1,RTP Acores
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94559.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94558.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94557.m3u8
+#EXTINF:-1,RTP Memoria
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94556.m3u8
+#EXTINF:-1,SIC
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94555.m3u8
+#EXTINF:-1,SIC CARAS
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94554.m3u8
+#EXTINF:-1,SIC HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94553.m3u8
+#EXTINF:-1,SIC KIDS
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94552.m3u8
+#EXTINF:-1,SIC MULHER
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94551.m3u8
+#EXTINF:-1,SIC Noticias
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94550.m3u8
+#EXTINF:-1,SIC Radical
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94549.m3u8
+#EXTINF:-1,SIC Radical HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94548.m3u8
+#EXTINF:-1,Sport TV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94547.m3u8
+#EXTINF:-1,Sport TV 1 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94546.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94545.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94544.m3u8
+#EXTINF:-1,Sport TV 4 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94543.m3u8
+#EXTINF:-1,Sport TV 5 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94542.m3u8
+#EXTINF:-1,Sporting TV HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94541.m3u8
+#EXTINF:-1,SYFY
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94540.m3u8
+#EXTINF:-1,TLC
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94539.m3u8
+#EXTINF:-1,Toros TV
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94538.m3u8
+#EXTINF:-1,Trace Urban
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94537.m3u8
+#EXTINF:-1,Travel Channel
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94536.m3u8
+#EXTINF:-1,TV Record
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94535.m3u8
+#EXTINF:-1,TV SERIES
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94534.m3u8
+#EXTINF:-1,TV Series HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94533.m3u8
+#EXTINF:-1,TVCine 1
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94532.m3u8
+#EXTINF:-1,TVCine 1 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94531.m3u8
+#EXTINF:-1,TVCine 2
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94530.m3u8
+#EXTINF:-1,TVCine 2 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94529.m3u8
+#EXTINF:-1,TVCine 3
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94528.m3u8
+#EXTINF:-1,TVCine 3 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94527.m3u8
+#EXTINF:-1,TVCine 4
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94526.m3u8
+#EXTINF:-1,TVCine 4 HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94525.m3u8
+#EXTINF:-1,TVI
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94524.m3u8
+#EXTINF:-1,TVI 24
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94523.m3u8
+#EXTINF:-1,TVI HD
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94522.m3u8
+#EXTINF:-1,TVI REALITY
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94521.m3u8
+#EXTINF:-1,VH1
+http://pawpal.ddns.net:25461/live/Wayne/Wayne123/94520.m3u8
