@@ -1,531 +1,357 @@
 #EXTM3U
 #EXTINF:-1,13EME RUE HD
-http://p5.giffy.be:8080/live/bob/Bob321/112165.m3u8
-#EXTINF:-1,13EME RUE  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112049.m3u8
-#EXTINF:-1,6TER  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112194.m3u8
-#EXTINF:-1,6TER  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112048.m3u8
-#EXTINF:-1,A LA CARTE 2 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112148.m3u8
-#EXTINF:-1,A LA CARTE 4  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112146.m3u8
-#EXTINF:-1,AB MOTEURS  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112095.m3u8
-#EXTINF:-1,AB MOTEURS  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112047.m3u8
+http://vlc.news:9000/live/1234/7788/61018.m3u8
+#EXTINF:-1,6TER
+http://vlc.news:9000/live/1234/7788/60969.m3u8
 #EXTINF:-1,AB1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112066.m3u8
-#EXTINF:-1,AB1 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112046.m3u8
+http://vlc.news:9000/live/1234/7788/61020.m3u8
+#EXTINF:-1,AB3
+http://vlc.news:9000/live/1234/7788/60970.m3u8
 #EXTINF:-1,AB3 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112065.m3u8
-#EXTINF:-1,AB3 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112045.m3u8
+http://vlc.news:9000/live/1234/7788/61021.m3u8
+#EXTINF:-1,ABXplore HD
+http://vlc.news:9000/live/1234/7788/61022.m3u8
+#EXTINF:-1,ACTION
+http://vlc.news:9000/live/1234/7788/60971.m3u8
 #EXTINF:-1,ACTION HD
-http://p5.giffy.be:8080/live/bob/Bob321/112163.m3u8
-#EXTINF:-1,ACTION  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112044.m3u8
-#EXTINF:-1,ALTICE STUDIO  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112043.m3u8
-#EXTINF:-1,ANIMAUX  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112076.m3u8
-#EXTINF:-1,ANIMAUX  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112042.m3u8
-#EXTINF:-1,ARTE HD
-http://p5.giffy.be:8080/live/bob/Bob321/112204.m3u8
-#EXTINF:-1,ARTE SD
-http://p5.giffy.be:8080/live/bob/Bob321/112041.m3u8
-#EXTINF:-1,BASHMENT CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111948.m3u8
-#EXTINF:-1,BBLACK AFRICA  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112040.m3u8
-#EXTINF:-1,BBLACK CLASSIK  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112039.m3u8
-#EXTINF:-1,BEIN SPORT 1 FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112118.m3u8
-#EXTINF:-1,BEIN SPORT 2 FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112117.m3u8
-#EXTINF:-1,BEIN SPORT 3 FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112116.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 10 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112109.m3u8
-#EXTINF:-1, BEIN SPORT MAX FR 5  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112114.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 6  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112113.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 7  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112112.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 8  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112111.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 9 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112110.m3u8
-#EXTINF:-1,BET  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112061.m3u8
-#EXTINF:-1,BFM HD
-http://p5.giffy.be:8080/live/bob/Bob321/112125.m3u8
-#EXTINF:-1,BFM SPORT  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112124.m3u8
-#EXTINF:-1,BFMTV SD
-http://p5.giffy.be:8080/live/bob/Bob321/112038.m3u8
-#EXTINF:-1,BOING  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112131.m3u8
-#EXTINF:-1,BOING SD
-http://p5.giffy.be:8080/live/bob/Bob321/112037.m3u8
-#EXTINF:-1,BOOMERANG FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112133.m3u8
-#EXTINF:-1,BOOMERANG SD
-http://p5.giffy.be:8080/live/bob/Bob321/112036.m3u8
-#EXTINF:-1,C 8 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112073.m3u8
+http://vlc.news:9000/live/1234/7788/61023.m3u8
+#EXTINF:-1,ALACARTE 2
+http://vlc.news:9000/live/1234/7788/60972.m3u8
+#EXTINF:-1,ALACARTE 3
+http://vlc.news:9000/live/1234/7788/60973.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://vlc.news:9000/live/1234/7788/61024.m3u8
+#EXTINF:-1,ARTE
+http://vlc.news:9000/live/1234/7788/61025.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://vlc.news:9000/live/1234/7788/60974.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://vlc.news:9000/live/1234/7788/61027.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://vlc.news:9000/live/1234/7788/60975.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://vlc.news:9000/live/1234/7788/61028.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://vlc.news:9000/live/1234/7788/60976.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://vlc.news:9000/live/1234/7788/61029.m3u8
+#EXTINF:-1,Bein Sports Max 10
+http://vlc.news:9000/live/1234/7788/60977.m3u8
+#EXTINF:-1,Bein Sports Max 4
+http://vlc.news:9000/live/1234/7788/60978.m3u8
+#EXTINF:-1,Bein Sports Max 5
+http://vlc.news:9000/live/1234/7788/60979.m3u8
+#EXTINF:-1,Bein Sports Max 6
+http://vlc.news:9000/live/1234/7788/60980.m3u8
+#EXTINF:-1,Bein Sports Max 7
+http://vlc.news:9000/live/1234/7788/60981.m3u8
+#EXTINF:-1,Bein Sports Max 8
+http://vlc.news:9000/live/1234/7788/60982.m3u8
+#EXTINF:-1,Bein Sports Max 9
+http://vlc.news:9000/live/1234/7788/60983.m3u8
+#EXTINF:-1,BFM BUSINESS
+http://vlc.news:9000/live/1234/7788/61030.m3u8
+#EXTINF:-1,BFM TV
+http://vlc.news:9000/live/1234/7788/61031.m3u8
+#EXTINF:-1,BOOMERANG
+http://vlc.news:9000/live/1234/7788/61032.m3u8
+#EXTINF:-1,C8
+http://vlc.news:9000/live/1234/7788/61033.m3u8
 #EXTINF:-1,C8 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112203.m3u8
-#EXTINF:-1,C8 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112035.m3u8
-#EXTINF:-1,CANAL 11 (HAITI)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111946.m3u8
+http://vlc.news:9000/live/1234/7788/61034.m3u8
+#EXTINF:-1,CANAL
+http://vlc.news:9000/live/1234/7788/61035.m3u8
+#EXTINF:-1,CANAL CINEMA
+http://vlc.news:9000/live/1234/7788/60984.m3u8
 #EXTINF:-1,CANAL CINEMA HD
-http://p5.giffy.be:8080/live/bob/Bob321/112184.m3u8
-#EXTINF:-1,CANAL CINEMA  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112034.m3u8
-#EXTINF:-1,CANAL EMOTION  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112179.m3u8
-#EXTINF:-1,CANAL FAMILY HD
-http://p5.giffy.be:8080/live/bob/Bob321/112140.m3u8
-#EXTINF:-1,CANAL FAMILY  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112033.m3u8
+http://vlc.news:9000/live/1234/7788/61036.m3u8
+#EXTINF:-1,CANAL DECALE
+http://vlc.news:9000/live/1234/7788/61037.m3u8
+#EXTINF:-1,CANAL FAMILY
+http://vlc.news:9000/live/1234/7788/61039.m3u8
+#EXTINF:-1,CANAL FHD
+http://vlc.news:9000/live/1234/7788/61042.m3u8
 #EXTINF:-1,CANAL HD
-http://p5.giffy.be:8080/live/bob/Bob321/112205.m3u8
-#EXTINF:-1,CANAL JUNIOR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112137.m3u8
-#EXTINF:-1,CANAL JUNIOR  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112032.m3u8
-#EXTINF:-1,CANAL NEWS  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112121.m3u8
-#EXTINF:-1,CANAL PREMIER  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112181.m3u8
-#EXTINF:-1,CANAL  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112031.m3u8
-#EXTINF:-1,CANAL SERIES  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112182.m3u8
-#EXTINF:-1,CANAL SERIES  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112030.m3u8
+http://vlc.news:9000/live/1234/7788/61043.m3u8
+#EXTINF:-1,CANAL J HD
+http://vlc.news:9000/live/1234/7788/61044.m3u8
+#EXTINF:-1,Canal Series
+http://vlc.news:9000/live/1234/7788/60985.m3u8
+#EXTINF:-1,CANAL SERIES HD
+http://vlc.news:9000/live/1234/7788/61045.m3u8
+#EXTINF:-1,CANAL SPORT
+http://vlc.news:9000/live/1234/7788/60986.m3u8
 #EXTINF:-1,CANAL SPORT HD
-http://p5.giffy.be:8080/live/bob/Bob321/112120.m3u8
-#EXTINF:-1,CANAL SPORT SD
-http://p5.giffy.be:8080/live/bob/Bob321/112029.m3u8
-#EXTINF:-1,CARTOON NETWORK FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112135.m3u8
-#EXTINF:-1,CARTOON NETWORK  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112028.m3u8
-#EXTINF:-1,CATCH 2 HD (ST LUCIA)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111945.m3u8
-#EXTINF:-1,CATCH TV HD (ST LUCIA)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111944.m3u8
-#EXTINF:-1,CBC TV (BARBADOS) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111943.m3u8
-#EXTINF:-1,CDM INTERNATIONAL(PURETI RICO)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111942.m3u8
-#EXTINF:-1,CHANNEL 8 (US VIRGIN ISLANDS) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111941.m3u8
-#EXTINF:-1,CHASSE ET PECHE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112074.m3u8
-#EXTINF:-1,CHASSE&PECHE  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112027.m3u8
-#EXTINF:-1,CHERIE 25 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112191.m3u8
-#EXTINF:-1,CHERIE25  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112026.m3u8
+http://vlc.news:9000/live/1234/7788/61046.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://vlc.news:9000/live/1234/7788/61047.m3u8
+#EXTINF:-1,CENI POLAR
+http://vlc.news:9000/live/1234/7788/60987.m3u8
+#EXTINF:-1,CHASSE ET PECHE
+http://vlc.news:9000/live/1234/7788/60988.m3u8
+#EXTINF:-1,CHERIE 25
+http://vlc.news:9000/live/1234/7788/61049.m3u8
+#EXTINF:-1,Cine Classic
+http://vlc.news:9000/live/1234/7788/60989.m3u8
 #EXTINF:-1,CINE CLASSIC HD
-http://p5.giffy.be:8080/live/bob/Bob321/112178.m3u8
-#EXTINF:-1,CINE CLASSIC  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112025.m3u8
-#EXTINF:-1,CINE CLUB SD
-http://p5.giffy.be:8080/live/bob/Bob321/112024.m3u8
-#EXTINF:-1,CINE EMOTION  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112023.m3u8
-#EXTINF:-1,CINE FAMIZ  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112177.m3u8
-#EXTINF:-1,CINE FAMIZ SD
-http://p5.giffy.be:8080/live/bob/Bob321/112022.m3u8
-#EXTINF:-1,CINE FRISSON HD
-http://p5.giffy.be:8080/live/bob/Bob321/112180.m3u8
-#EXTINF:-1,CINE FRISSON SD
-http://p5.giffy.be:8080/live/bob/Bob321/112021.m3u8
-#EXTINF:-1,CINE FX HD
-http://p5.giffy.be:8080/live/bob/Bob321/112176.m3u8
-#EXTINF:-1,CINE POLAR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112175.m3u8
-#EXTINF:-1,CINE PREMIER  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112020.m3u8
-#EXTINF:-1,CNC 3 (TRINIDAD)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111940.m3u8
-#EXTINF:-1,CNEWS  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112019.m3u8
-#EXTINF:-1,COLOUR VISION HD  (DOMINICAN REPUBLIC) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111939.m3u8
-#EXTINF:-1,COMEDIE   HD
-http://p5.giffy.be:8080/live/bob/Bob321/112067.m3u8
-#EXTINF:-1,COMEDIE SD
-http://p5.giffy.be:8080/live/bob/Bob321/112018.m3u8
-#EXTINF:-1,CRIME DISTRICT SD
-http://p5.giffy.be:8080/live/bob/Bob321/112017.m3u8
+http://vlc.news:9000/live/1234/7788/61051.m3u8
+#EXTINF:-1,CINE CLUB
+http://vlc.news:9000/live/1234/7788/61052.m3u8
+#EXTINF:-1,CINE EMOTION
+http://vlc.news:9000/live/1234/7788/61054.m3u8
+#EXTINF:-1,CINE FAMIZ
+http://vlc.news:9000/live/1234/7788/61056.m3u8
+#EXTINF:-1,CINE FRISSON
+http://vlc.news:9000/live/1234/7788/61058.m3u8
+#EXTINF:-1,CINE FX
+http://vlc.news:9000/live/1234/7788/60990.m3u8
+#EXTINF:-1,CINE PREMIER
+http://vlc.news:9000/live/1234/7788/61060.m3u8
+#EXTINF:-1,CNA TV
+http://vlc.news:9000/live/1234/7788/60991.m3u8
+#EXTINF:-1,CNEWS HD
+http://vlc.news:9000/live/1234/7788/61062.m3u8
+#EXTINF:-1,COMEDIE HD
+http://vlc.news:9000/live/1234/7788/61063.m3u8
+#EXTINF:-1,Comedy Central HD
+http://vlc.news:9000/live/1234/7788/61064.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://vlc.news:9000/live/1234/7788/61065.m3u8
+#EXTINF:-1,CSTAR
+http://vlc.news:9000/live/1234/7788/61066.m3u8
 #EXTINF:-1,CSTAR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112196.m3u8
-#EXTINF:-1,CSTAR  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112016.m3u8
-#EXTINF:-1,DISCOVERY FAMILY SD
-http://p5.giffy.be:8080/live/bob/Bob321/112015.m3u8
-#EXTINF:-1,DISCOVERY FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112089.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112014.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112088.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112013.m3u8
-#EXTINF:-1,DISCOVERY SD
-http://p5.giffy.be:8080/live/bob/Bob321/112012.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://p5.giffy.be:8080/live/bob/Bob321/112142.m3u8
-#EXTINF:-1,DISNEY CHANNEL SD
-http://p5.giffy.be:8080/live/bob/Bob321/112011.m3u8
-#EXTINF:-1,DISNEY CHANNEL1  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112010.m3u8
+http://vlc.news:9000/live/1234/7788/61067.m3u8
+#EXTINF:-1,Discovery
+http://vlc.news:9000/live/1234/7788/60992.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://vlc.news:9000/live/1234/7788/61068.m3u8
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://vlc.news:9000/live/1234/7788/61069.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://vlc.news:9000/live/1234/7788/61070.m3u8
+#EXTINF:-1,Discovery Science
+http://vlc.news:9000/live/1234/7788/60993.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://vlc.news:9000/live/1234/7788/61071.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://vlc.news:9000/live/1234/7788/61072.m3u8
 #EXTINF:-1,DISNEY CINEMA HD
-http://p5.giffy.be:8080/live/bob/Bob321/112143.m3u8
-#EXTINF:-1,DISNEY CINEMA SD
-http://p5.giffy.be:8080/live/bob/Bob321/112009.m3u8
-#EXTINF:-1,DISNEY JUNIOR  FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112138.m3u8
+http://vlc.news:9000/live/1234/7788/61073.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://vlc.news:9000/live/1234/7788/61074.m3u8
 #EXTINF:-1,DISNEY XD HD
-http://p5.giffy.be:8080/live/bob/Bob321/112132.m3u8
-#EXTINF:-1,DISNEY XD  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112007.m3u8
-#EXTINF:-1,E! ENTER  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112006.m3u8
-#EXTINF:-1,E! FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112060.m3u8
-#EXTINF:-1,ELLE GIRL  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112062.m3u8
-#EXTINF:-1,EQUIDIA  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112092.m3u8
-#EXTINF:-1,EQUIDIA LIVE  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112005.m3u8
-#EXTINF:-1,EQUIPE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112101.m3u8
-#EXTINF:-1,EQUIPE21 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112004.m3u8
+http://vlc.news:9000/live/1234/7788/61075.m3u8
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://vlc.news:9000/live/1234/7788/61076.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://vlc.news:9000/live/1234/7788/61077.m3u8
+#EXTINF:-1,EQUIDIA
+http://vlc.news:9000/live/1234/7788/61078.m3u8
 #EXTINF:-1,EURONEWS HD
-http://p5.giffy.be:8080/live/bob/Bob321/112108.m3u8
-#EXTINF:-1,EUROSPORT 1  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112003.m3u8
-#EXTINF:-1,EUROSPORT 2 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112002.m3u8
-#EXTINF:-1,EUROSPORT FR 1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112107.m3u8
-#EXTINF:-1,EUROSPORTFR 2 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112106.m3u8
-#EXTINF:-1,FOOT  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112094.m3u8
+http://vlc.news:9000/live/1234/7788/61079.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://vlc.news:9000/live/1234/7788/61080.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://vlc.news:9000/live/1234/7788/61081.m3u8
+#EXTINF:-1,FOOT 24/24 HD
+http://vlc.news:9000/live/1234/7788/61082.m3u8
+#EXTINF:-1,FOX Cinema HD
+http://vlc.news:9000/live/1234/7788/60994.m3u8
+#EXTINF:-1,FRANCE 2
+http://vlc.news:9000/live/1234/7788/61083.m3u8
 #EXTINF:-1,FRANCE 2 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112210.m3u8
-#EXTINF:-1,FRANCE 2  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112001.m3u8
+http://vlc.news:9000/live/1234/7788/61084.m3u8
 #EXTINF:-1,FRANCE 24 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112119.m3u8
-#EXTINF:-1,FRANCE 3 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112209.m3u8
-#EXTINF:-1,FRANCE 3 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112000.m3u8
-#EXTINF:-1,FRANCE 4 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112208.m3u8
-#EXTINF:-1,FRANCE 4 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111999.m3u8
-#EXTINF:-1,FRANCE 5 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112207.m3u8
-#EXTINF:-1,FRANCE 5 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111998.m3u8
-#EXTINF:-1,FRANCE O HD.
-http://p5.giffy.be:8080/live/bob/Bob321/112206.m3u8
-#EXTINF:-1,FRANCE O  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111997.m3u8
+http://vlc.news:9000/live/1234/7788/61085.m3u8
+#EXTINF:-1,FRANCE 3
+http://vlc.news:9000/live/1234/7788/61086.m3u8
+#EXTINF:-1,FRANCE 4
+http://vlc.news:9000/live/1234/7788/61088.m3u8
+#EXTINF:-1,FRANCE 5
+http://vlc.news:9000/live/1234/7788/61090.m3u8
+#EXTINF:-1,FRANCE INFO
+http://vlc.news:9000/live/1234/7788/61092.m3u8
+#EXTINF:-1,FRANCE O
+http://vlc.news:9000/live/1234/7788/61094.m3u8
 #EXTINF:-1,GAME ONE HD
-http://p5.giffy.be:8080/live/bob/Bob321/112141.m3u8
-#EXTINF:-1,GAMEONE SD
-http://p5.giffy.be:8080/live/bob/Bob321/111996.m3u8
-#EXTINF:-1,GBN (GRENADA) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111938.m3u8
-#EXTINF:-1,GIRONDINS TV  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112059.m3u8
-#EXTINF:-1,GOLF FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112098.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
-http://p5.giffy.be:8080/live/bob/Bob321/112097.m3u8
-#EXTINF:-1,GOLF CHANNEL  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111995.m3u8
-#EXTINF:-1,GONG SD
-http://p5.giffy.be:8080/live/bob/Bob321/111994.m3u8
-#EXTINF:-1,GONG TV HD
-http://p5.giffy.be:8080/live/bob/Bob321/112162.m3u8
-#EXTINF:-1,GOOD NEWS TV  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111937.m3u8
-#EXTINF:-1,GRENADA FAMILY NETWORK (GRENADA)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111936.m3u8
-#EXTINF:-1,GULLI HD
-http://p5.giffy.be:8080/live/bob/Bob321/112144.m3u8
-#EXTINF:-1,GULLI  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111993.m3u8
-#EXTINF:-1,HISTOIRE FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112084.m3u8
-#EXTINF:-1,HOPE CHANNEL(PUERTO RICO)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111935.m3u8
-#EXTINF:-1,I24 NEWS HD
-http://p5.giffy.be:8080/live/bob/Bob321/112122.m3u8
+http://vlc.news:9000/live/1234/7788/61096.m3u8
+#EXTINF:-1,Golf Channel
+http://vlc.news:9000/live/1234/7788/60995.m3u8
+#EXTINF:-1,GOLF HD
+http://vlc.news:9000/live/1234/7788/61098.m3u8
+#EXTINF:-1,GULLI
+http://vlc.news:9000/live/1234/7788/61099.m3u8
+#EXTINF:-1,HISTOIRE
+http://vlc.news:9000/live/1234/7788/61100.m3u8
+#EXTINF:-1,INFOSPOR
+http://vlc.news:9000/live/1234/7788/60996.m3u8
+#EXTINF:-1,INFOSPORT
+http://vlc.news:9000/live/1234/7788/60997.m3u8
 #EXTINF:-1,INFOSPORT HD
-http://p5.giffy.be:8080/live/bob/Bob321/112099.m3u8
-#EXTINF:-1,ISLAND LUCK TV (BAHAMAS) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111934.m3u8
-#EXTINF:-1,J-ONE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112058.m3u8
-#EXTINF:-1,KTO (HAITI) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111933.m3u8
-#EXTINF:-1,L EQUIPE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112100.m3u8
-#EXTINF:-1,LA VOZ DE MARIA (DOMINICAN REPUBLIC) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111932.m3u8
-#EXTINF:-1,LCI  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112123.m3u8
-#EXTINF:-1,LCI SD
-http://p5.giffy.be:8080/live/bob/Bob321/111991.m3u8
-#EXTINF:-1,LCP SD
-http://p5.giffy.be:8080/live/bob/Bob321/111990.m3u8
+http://vlc.news:9000/live/1234/7788/61101.m3u8
+#EXTINF:-1,J-ONE HD
+http://vlc.news:9000/live/1234/7788/61102.m3u8
+#EXTINF:-1,L' EQUIPE 21 HD
+http://vlc.news:9000/live/1234/7788/61103.m3u8
+#EXTINF:-1,LA CHAINE METEO
+http://vlc.news:9000/live/1234/7788/61104.m3u8
+#EXTINF:-1,LA CHAINE NORMANDIE
+http://vlc.news:9000/live/1234/7788/60998.m3u8
+#EXTINF:-1,LCI HD
+http://vlc.news:9000/live/1234/7788/61105.m3u8
+#EXTINF:-1,Lequipe 21
+http://vlc.news:9000/live/1234/7788/60999.m3u8
+#EXTINF:-1,M6
+http://vlc.news:9000/live/1234/7788/61106.m3u8
 #EXTINF:-1,M6 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112202.m3u8
-#EXTINF:-1,M6 MUSIC  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112057.m3u8
-#EXTINF:-1,M6 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111989.m3u8
+http://vlc.news:9000/live/1234/7788/61107.m3u8
+#EXTINF:-1,M6 MUSIC
+http://vlc.news:9000/live/1234/7788/61000.m3u8
 #EXTINF:-1,MANGAS HD
-http://p5.giffy.be:8080/live/bob/Bob321/112139.m3u8
-#EXTINF:-1,MANGAS SD
-http://p5.giffy.be:8080/live/bob/Bob321/111988.m3u8
-#EXTINF:-1,MCM TOP SD
-http://p5.giffy.be:8080/live/bob/Bob321/111987.m3u8
-#EXTINF:-1,MOTORSPORT TV HD
-http://p5.giffy.be:8080/live/bob/Bob321/112096.m3u8
-#EXTINF:-1,MOTOSPORT TV SD
-http://p5.giffy.be:8080/live/bob/Bob321/111986.m3u8
-#EXTINF:-1,MYCUISINE SD
-http://p5.giffy.be:8080/live/bob/Bob321/111985.m3u8
-#EXTINF:-1,NAT GEO SD
-http://p5.giffy.be:8080/live/bob/Bob321/111984.m3u8
-#EXTINF:-1,NATIONAL GEO WILD FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112090.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112091.m3u8
-#EXTINF:-1,NICKLODEON FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112134.m3u8
-#EXTINF:-1,NICKELODEON JUNIOR FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112136.m3u8
-#EXTINF:-1,NICKELODEN JUNIOR  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111982.m3u8
-#EXTINF:-1,NICKELODEON  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111981.m3u8
-#EXTINF:-1,NICKELODEON1  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111980.m3u8
-#EXTINF:-1,NRJ 12 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112197.m3u8
-#EXTINF:-1,NRJ HITS  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112056.m3u8
-#EXTINF:-1,NRJ12 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111978.m3u8
-#EXTINF:-1,NT 1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112055.m3u8
-#EXTINF:-1,NT1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112054.m3u8
-#EXTINF:-1,NUMERO 23 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112193.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://p5.giffy.be:8080/live/bob/Bob321/112174.m3u8
-#EXTINF:-1,OCS CHOC  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111977.m3u8
-#EXTINF:-1,OCS CITY HD
-http://p5.giffy.be:8080/live/bob/Bob321/112173.m3u8
-#EXTINF:-1,OCS CITY SD
-http://p5.giffy.be:8080/live/bob/Bob321/111976.m3u8
-#EXTINF:-1,OCS GEANT HD
-http://p5.giffy.be:8080/live/bob/Bob321/112172.m3u8
-#EXTINF:-1,OCS GEANTS SD
-http://p5.giffy.be:8080/live/bob/Bob321/111975.m3u8
-#EXTINF:-1,OCS GO CINE 1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112161.m3u8
-#EXTINF:-1,OCS GO CINE 2 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112160.m3u8
-#EXTINF:-1,OCS GO CINE 5 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112157.m3u8
-#EXTINF:-1,OCS MAX HD
-http://p5.giffy.be:8080/live/bob/Bob321/112171.m3u8
-#EXTINF:-1,OCS MAX  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111974.m3u8
-#EXTINF:-1,OL TV  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112053.m3u8
-#EXTINF:-1,ORANGE CINE 1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112156.m3u8
-#EXTINF:-1,ORANGE CINE 3 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112154.m3u8
-#EXTINF:-1,ORANGE CINE 4 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112153.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111973.m3u8
-#EXTINF:-1,PARAMOUNT FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112164.m3u8
-#EXTINF:-1,PARIS PREMIER  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112190.m3u8
-#EXTINF:-1,PARIS PREMIER  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111972.m3u8
-#EXTINF:-1,PIWI  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112127.m3u8
-#EXTINF:-1,PIWI  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111971.m3u8
-#EXTINF:-1,PLANET AE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112086.m3u8
-#EXTINF:-1,PLANET CI  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112085.m3u8
-#EXTINF:-1,PLANET  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112087.m3u8
-#EXTINF:-1,PLANETE SD
-http://p5.giffy.be:8080/live/bob/Bob321/111968.m3u8
-#EXTINF:-1,RMC DECOUVERTE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112192.m3u8
-#EXTINF:-1,RMC DECOUVERTE SD
-http://p5.giffy.be:8080/live/bob/Bob321/111967.m3u8
-#EXTINF:-1,RMC SPORT 1 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111966.m3u8
-#EXTINF:-1,RMC SPORT 2  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111965.m3u8
-#EXTINF:-1,RMC SPORT 3 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111964.m3u8
-#EXTINF:-1,RMC SPORT 4 SD
-http://p5.giffy.be:8080/live/bob/Bob321/111963.m3u8
-#EXTINF:-1,RMC SPORT NEWS  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111962.m3u8
-#EXTINF:-1,RMC STORY  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111961.m3u8
-#EXTINF:-1,ROUGE HD
-http://p5.giffy.be:8080/live/bob/Bob321/112051.m3u8
-#EXTINF:-1,RTH TV (HAITI) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111930.m3u8
-#EXTINF:-1,RTL9 FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112064.m3u8
-#EXTINF:-1,RTL9 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112063.m3u8
-#EXTINF:-1,RTNH (HAIT) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111929.m3u8
-#EXTINF:-1,SCIENCE & VIE TV HD
-http://p5.giffy.be:8080/live/bob/Bob321/112077.m3u8
-#EXTINF:-1,SCIENCE&VIE SD
-http://p5.giffy.be:8080/live/bob/Bob321/111959.m3u8
-#EXTINF:-1,SEASONS HD
-http://p5.giffy.be:8080/live/bob/Bob321/112075.m3u8
-#EXTINF:-1,SERIE CLUB
-http://p5.giffy.be:8080/live/bob/Bob321/112170.m3u8
+http://vlc.news:9000/live/1234/7788/61108.m3u8
+#EXTINF:-1,MCM
+http://vlc.news:9000/live/1234/7788/61109.m3u8
+#EXTINF:-1,MCM TOP
+http://vlc.news:9000/live/1234/7788/61110.m3u8
+#EXTINF:-1,MEZZO
+http://vlc.news:9000/live/1234/7788/61111.m3u8
+#EXTINF:-1,MTV DANCE
+http://vlc.news:9000/live/1234/7788/61112.m3u8
+#EXTINF:-1,MTV HD
+http://vlc.news:9000/live/1234/7788/61113.m3u8
+#EXTINF:-1,MTV HITS
+http://vlc.news:9000/live/1234/7788/61114.m3u8
+#EXTINF:-1,MTV ROCK
+http://vlc.news:9000/live/1234/7788/61115.m3u8
+#EXTINF:-1,National Geographic Channel HD
+http://vlc.news:9000/live/1234/7788/61116.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://vlc.news:9000/live/1234/7788/61117.m3u8
+#EXTINF:-1,NICKELODEON
+http://vlc.news:9000/live/1234/7788/61001.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR
+http://vlc.news:9000/live/1234/7788/61118.m3u8
+#EXTINF:-1,NICKELODEON TEEN
+http://vlc.news:9000/live/1234/7788/61119.m3u8
+#EXTINF:-1,NRJ 12
+http://vlc.news:9000/live/1234/7788/61120.m3u8
+#EXTINF:-1,NRJ HITS
+http://vlc.news:9000/live/1234/7788/61122.m3u8
+#EXTINF:-1,OCS CHOC
+http://vlc.news:9000/live/1234/7788/61123.m3u8
+#EXTINF:-1,OCS CITY
+http://vlc.news:9000/live/1234/7788/61125.m3u8
+#EXTINF:-1,OCS GEANTS
+http://vlc.news:9000/live/1234/7788/61127.m3u8
+#EXTINF:-1,OCS MAX
+http://vlc.news:9000/live/1234/7788/61129.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://vlc.news:9000/live/1234/7788/61131.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://vlc.news:9000/live/1234/7788/61132.m3u8
+#EXTINF:-1,PIWI HD
+http://vlc.news:9000/live/1234/7788/61133.m3u8
+#EXTINF:-1,PLANETE AE HD
+http://vlc.news:9000/live/1234/7788/61134.m3u8
+#EXTINF:-1,PLANETE CI
+http://vlc.news:9000/live/1234/7788/61002.m3u8
+#EXTINF:-1,PLANETE CI HD
+http://vlc.news:9000/live/1234/7788/61135.m3u8
+#EXTINF:-1,PLANETE HD
+http://vlc.news:9000/live/1234/7788/61136.m3u8
+#EXTINF:-1,POLAR HD
+http://vlc.news:9000/live/1234/7788/61137.m3u8
+#EXTINF:-1,RMC DECOUVERTE
+http://vlc.news:9000/live/1234/7788/61003.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://vlc.news:9000/live/1234/7788/61138.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://vlc.news:9000/live/1234/7788/61139.m3u8
+#EXTINF:-1,RMC Sport 2 HD
+http://vlc.news:9000/live/1234/7788/61140.m3u8
+#EXTINF:-1,RMC Sport 3 HD
+http://vlc.news:9000/live/1234/7788/61141.m3u8
+#EXTINF:-1,RMC Sport 4 HD
+http://vlc.news:9000/live/1234/7788/61142.m3u8
+#EXTINF:-1,RMC Sport Access 1 HD
+http://vlc.news:9000/live/1234/7788/61143.m3u8
+#EXTINF:-1,RMC Sport Access 2 HD
+http://vlc.news:9000/live/1234/7788/61144.m3u8
+#EXTINF:-1,RMC Sport Access 3 HD
+http://vlc.news:9000/live/1234/7788/61145.m3u8
+#EXTINF:-1,RMC SPORTS 1
+http://vlc.news:9000/live/1234/7788/61004.m3u8
+#EXTINF:-1,RMC SPORTS 2
+http://vlc.news:9000/live/1234/7788/61005.m3u8
+#EXTINF:-1,RMC SPORTS 3
+http://vlc.news:9000/live/1234/7788/61006.m3u8
+#EXTINF:-1,RMC Story
+http://vlc.news:9000/live/1234/7788/61146.m3u8
+#EXTINF:-1,RT FRANCE
+http://vlc.news:9000/live/1234/7788/61147.m3u8
+#EXTINF:-1,RTL 9
+http://vlc.news:9000/live/1234/7788/61148.m3u8
+#EXTINF:-1,RTL 9 HD
+http://vlc.news:9000/live/1234/7788/61149.m3u8
+#EXTINF:-1,RTS Deux
+http://vlc.news:9000/live/1234/7788/61008.m3u8
+#EXTINF:-1,Science & Vie
+http://vlc.news:9000/live/1234/7788/61009.m3u8
+#EXTINF:-1,SCIENCE ET VIE TV
+http://vlc.news:9000/live/1234/7788/61150.m3u8
 #EXTINF:-1,SERIE CLUB HD
-http://p5.giffy.be:8080/live/bob/Bob321/112169.m3u8
-#EXTINF:-1,SERIE CLUB  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111958.m3u8
-#EXTINF:-1,SFR SPORT1  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112105.m3u8
-#EXTINF:-1,SFR SPORT 2 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112104.m3u8
-#EXTINF:-1,SFR SPORT 3 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112103.m3u8
-#EXTINF:-1,SFR SPORT 5 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112102.m3u8
-#EXTINF:-1,SNB TELECABDENA CTNI (PUERTO RICO) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111928.m3u8
-#EXTINF:-1,SUNDANCE  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111957.m3u8
-#EXTINF:-1,SUNDANCE TV  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112189.m3u8
-#EXTINF:-1,SUPER TV 55 (DOMINICAN REPUBLIC)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111925.m3u8
-#EXTINF:-1,SYFY FR HD
-http://p5.giffy.be:8080/live/bob/Bob321/112168.m3u8
-#EXTINF:-1,SYFY HD FR
-http://p5.giffy.be:8080/live/bob/Bob321/112167.m3u8
-#EXTINF:-1,SYFY  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111956.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://p5.giffy.be:8080/live/bob/Bob321/112166.m3u8
-#EXTINF:-1,TCM CINEMA SD
-http://p5.giffy.be:8080/live/bob/Bob321/111955.m3u8
-#EXTINF:-1,TELE BOSTON (HAITI) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111924.m3u8
-#EXTINF:-1,TELE GINEN (HAITI) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111923.m3u8
+http://vlc.news:9000/live/1234/7788/61151.m3u8
+#EXTINF:-1,SFR SPORT 1
+http://vlc.news:9000/live/1234/7788/61010.m3u8
+#EXTINF:-1,SFR SPORT 2
+http://vlc.news:9000/live/1234/7788/61011.m3u8
+#EXTINF:-1,SFR SPORT 3
+http://vlc.news:9000/live/1234/7788/61012.m3u8
+#EXTINF:-1,SFR SPORT 5
+http://vlc.news:9000/live/1234/7788/61013.m3u8
+#EXTINF:-1,Syfy
+http://vlc.news:9000/live/1234/7788/61014.m3u8
+#EXTINF:-1,SYFY HD
+http://vlc.news:9000/live/1234/7788/61152.m3u8
+#EXTINF:-1,TCM CINEMA
+http://vlc.news:9000/live/1234/7788/61153.m3u8
 #EXTINF:-1,TELETOON  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112128.m3u8
-#EXTINF:-1,TELEUNIVERSO HD (DOMINICAN REPUBLIC)  CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111927.m3u8
-#EXTINF:-1,TEVA  FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112050.m3u8
-#EXTINF:-1,TEVA  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112068.m3u8
-#EXTINF:-1,TEVA  SD
-http://p5.giffy.be:8080/live/bob/Bob321/111953.m3u8
+http://vlc.news:9000/live/1234/7788/61155.m3u8
+#EXTINF:-1,TEVA
+http://vlc.news:9000/live/1234/7788/61156.m3u8
+#EXTINF:-1,TF1
+http://vlc.news:9000/live/1234/7788/61015.m3u8
 #EXTINF:-1,TF1 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112211.m3u8
-#EXTINF:-1,TF1 SERIES FILMS HD
-http://p5.giffy.be:8080/live/bob/Bob321/112195.m3u8
-#EXTINF:-1,TF1 SERIES FILMS SD
-http://p5.giffy.be:8080/live/bob/Bob321/111951.m3u8
+http://vlc.news:9000/live/1234/7788/61157.m3u8
+#EXTINF:-1,TF1 SERIES FILMS
+http://vlc.news:9000/live/1234/7788/61158.m3u8
+#EXTINF:-1,TFX
+http://vlc.news:9000/live/1234/7788/61160.m3u8
 #EXTINF:-1,TFX HD
-http://p5.giffy.be:8080/live/bob/Bob321/112199.m3u8
-#EXTINF:-1,TFX SD
-http://p5.giffy.be:8080/live/bob/Bob321/112198.m3u8
-#EXTINF:-1,TIJI HD
-http://p5.giffy.be:8080/live/bob/Bob321/112130.m3u8
-#EXTINF:-1,TIJI SD
-http://p5.giffy.be:8080/live/bob/Bob321/112129.m3u8
-#EXTINF:-1,TMC FR  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112201.m3u8
-#EXTINF:-1,TMC SD
-http://p5.giffy.be:8080/live/bob/Bob321/112200.m3u8
-#EXTINF:-1,TOUTE HISTOIRE  SD
-http://p5.giffy.be:8080/live/bob/Bob321/112082.m3u8
-#EXTINF:-1,TOUTE I'HISTOIRE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112083.m3u8
-#EXTINF:-1,TRACE AFRICA SD
-http://p5.giffy.be:8080/live/bob/Bob321/111950.m3u8
-#EXTINF:-1,TRACE SPORT STARS  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112093.m3u8
-#EXTINF:-1,TREK HD
-http://p5.giffy.be:8080/live/bob/Bob321/112081.m3u8
-#EXTINF:-1,TREK SD
-http://p5.giffy.be:8080/live/bob/Bob321/112080.m3u8
+http://vlc.news:9000/live/1234/7788/61161.m3u8
+#EXTINF:-1,TIJI
+http://vlc.news:9000/live/1234/7788/61162.m3u8
+#EXTINF:-1,TMC
+http://vlc.news:9000/live/1234/7788/61016.m3u8
+#EXTINF:-1,TMC HD
+http://vlc.news:9000/live/1234/7788/61163.m3u8
+#EXTINF:-1,TOONAMI
+http://vlc.news:9000/live/1234/7788/61164.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+http://vlc.news:9000/live/1234/7788/61165.m3u8
+#EXTINF:-1,TV 5 MOND
+http://vlc.news:9000/live/1234/7788/61017.m3u8
 #EXTINF:-1,TV BREIZH HD
-http://p5.giffy.be:8080/live/bob/Bob321/112188.m3u8
-#EXTINF:-1,TV BREIZH SD
-http://p5.giffy.be:8080/live/bob/Bob321/112185.m3u8
-#EXTINF:-1,TV5 MONDE EUROPE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112070.m3u8
+http://vlc.news:9000/live/1234/7788/61166.m3u8
 #EXTINF:-1,TV5 MONDE HD
-http://p5.giffy.be:8080/live/bob/Bob321/112069.m3u8
-#EXTINF:-1,USHUAIA SD
-http://p5.giffy.be:8080/live/bob/Bob321/112186.m3u8
-#EXTINF:-1,USHUAIA TV HD
-http://p5.giffy.be:8080/live/bob/Bob321/112187.m3u8
-#EXTINF:-1,VOYAGE  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112079.m3u8
-#EXTINF:-1,VOYAGES SD
-http://p5.giffy.be:8080/live/bob/Bob321/112078.m3u8
-#EXTINF:-1,W9 HD
-http://p5.giffy.be:8080/live/bob/Bob321/112072.m3u8
-#EXTINF:-1,W9 SD
-http://p5.giffy.be:8080/live/bob/Bob321/112071.m3u8
-#EXTINF:-1,WEO TV  HD
-http://p5.giffy.be:8080/live/bob/Bob321/112052.m3u8
-#EXTINF:-1,WSVI TV (US VIRGIN ISLANDS) CAR
-http://p5.giffy.be:8080/live/bob/Bob321/111926.m3u8
+http://vlc.news:9000/live/1234/7788/61167.m3u8
+#EXTINF:-1,USHUAIA TV
+http://vlc.news:9000/live/1234/7788/61168.m3u8
+#EXTINF:-1,VH1
+http://vlc.news:9000/live/1234/7788/61169.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://vlc.news:9000/live/1234/7788/61170.m3u8
+#EXTINF:-1,VOYAGE HD
+http://vlc.news:9000/live/1234/7788/61171.m3u8
+#EXTINF:-1,W9
+http://vlc.news:9000/live/1234/7788/61172.m3u8
