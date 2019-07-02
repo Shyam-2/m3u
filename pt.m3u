@@ -1,241 +1,521 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7762.m3u8
-#EXTINF:-1,RTP 2
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7761.m3u8
-#EXTINF:-1,RTP 3
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7803.m3u8
-#EXTINF:-1,RTP Memoria
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7807.m3u8
-#EXTINF:-1,RTP Ãfrica
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7805.m3u8
-#EXTINF:-1,RTP Madeira
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7806.m3u8
-#EXTINF:-1,RTP Acores
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7804.m3u8
-#EXTINF:-1,SIC HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7760.m3u8
-#EXTINF:-1,SIC
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15376.m3u8
-#EXTINF:-1,SIC Radical
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15380.m3u8
-#EXTINF:-1,SIC Caras
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15377.m3u8
-#EXTINF:-1,SIC Mulher
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15379.m3u8
-#EXTINF:-1,Tvi 24
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7752.m3u8
-#EXTINF:-1,TVI
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7744.m3u8
-#EXTINF:-1,TVI FICCAO
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7751.m3u8
-#EXTINF:-1,Porto Canal
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7763.m3u8
-#EXTINF:-1,TPA Angola
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7808.m3u8
-#EXTINF:-1,TV Globo Premium
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7818.m3u8
-#EXTINF:-1,Cancao Nova
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15381.m3u8
-#EXTINF:-1,FTV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15372.m3u8
-#EXTINF:-1,Fuel TV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15373.m3u8
-#EXTINF:-1,Globo
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15362.m3u8
-#EXTINF:-1,Globo Premium
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15374.m3u8
-#EXTINF:-1,TVE Internacional
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15382.m3u8
-#EXTINF:-1,MOV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7766.m3u8
-#EXTINF:-1,=====  Desporto =====
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13830.m3u8
-#EXTINF:-1,Eleven Sport 1 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21586.m3u8
-#EXTINF:-1,Eleven Sport 2 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21585.m3u8
-#EXTINF:-1,Eleven Sport 3 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21584.m3u8
-#EXTINF:-1,Eleven Sport 4 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21583.m3u8
-#EXTINF:-1,Eleven Sport 5 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21582.m3u8
-#EXTINF:-1,Eleven Sport 6 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21581.m3u8
-#EXTINF:-1,SPORT TV +
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15368.m3u8
-#EXTINF:-1,SPORT TV + HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7816.m3u8
-#EXTINF:-1,SPORTTV 1 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7758.m3u8
-#EXTINF:-1,SPORTTV 1 SD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8469.m3u8
-#EXTINF:-1,SPORTTV 2 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7746.m3u8
-#EXTINF:-1,SPORTTV 2 SD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8470.m3u8
-#EXTINF:-1,SPORTTV 3 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7757.m3u8
-#EXTINF:-1,SPORTTV 3 SD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8471.m3u8
-#EXTINF:-1,SPORTTV 4 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7756.m3u8
-#EXTINF:-1,SPORTTV 5 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7745.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7769.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7743.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7739.m3u8
-#EXTINF:-1,BTV 1 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7742.m3u8
-#EXTINF:-1,SPORTING TV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7759.m3u8
-#EXTINF:-1,Motors TV HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7822.m3u8
-#EXTINF:-1,PFC
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7764.m3u8
-#EXTINF:-1,Caca & Pesca
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7833.m3u8
-#EXTINF:-1,ABOLA TV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7771.m3u8
-#EXTINF:-1,Kombat Sport
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/18298.m3u8
-#EXTINF:-1,NBA TV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/18297.m3u8
-#EXTINF:-1,====== Documentários ======
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13828.m3u8
-#EXTINF:-1,National Geographic HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8406.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7821.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15360.m3u8
-#EXTINF:-1,Discovery Channel
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13858.m3u8
-#EXTINF:-1,Odisseia
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7765.m3u8
-#EXTINF:-1,Travel Channel HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8407.m3u8
-#EXTINF:-1,Historia
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15363.m3u8
-#EXTINF:-1,Canal Historia
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7832.m3u8
-#EXTINF:-1,===== Infantil =====
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13832.m3u8
-#EXTINF:-1,CANAL PANDA
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7815.m3u8
-#EXTINF:-1,Nickelodeon
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7812.m3u8
-#EXTINF:-1,Baby First
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15358.m3u8
-#EXTINF:-1,Baby Tv
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15359.m3u8
-#EXTINF:-1,Biggs
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15370.m3u8
-#EXTINF:-1,Panda Biggs
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7811.m3u8
-#EXTINF:-1,SIC Kids HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7810.m3u8
-#EXTINF:-1,SIC K
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15378.m3u8
-#EXTINF:-1,Cartoon NetWork
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7814.m3u8
-#EXTINF:-1,Disney Channel
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7813.m3u8
-#EXTINF:-1,Disney Junior
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7747.m3u8
-#EXTINF:-1,=====  Filmes e Séries =====
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13836.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7809.m3u8
-#EXTINF:-1,TVCINE 2 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7755.m3u8
-#EXTINF:-1,TVCINE 3 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7754.m3u8
-#EXTINF:-1,TVCINE 4 HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7753.m3u8
-#EXTINF:-1,Hollywood HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7767.m3u8
-#EXTINF:-1,AMC
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15357.m3u8
-#EXTINF:-1,FOX Movies
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7824.m3u8
-#EXTINF:-1,AXN HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7830.m3u8
-#EXTINF:-1,AXN WHITE
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7748.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15994.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7749.m3u8
-#EXTINF:-1,CINEMUNDO
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7740.m3u8
-#EXTINF:-1,FOX Crime HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7826.m3u8
-#EXTINF:-1,FOX HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7768.m3u8
-#EXTINF:-1,Fox Life HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7825.m3u8
-#EXTINF:-1,FOX COMEDY
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8473.m3u8
-#EXTINF:-1,FX
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7823.m3u8
-#EXTINF:-1,TVC Series HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15993.m3u8
-#EXTINF:-1,SyFy
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7819.m3u8
-#EXTINF:-1,===== Entretenimento =====
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13831.m3u8
+#EXTINF:-1,Fox Crime | UHD
+http://thenew.tv:8000/live/Denver/Broncos/78002.m3u8
+#EXTINF:-1,24 KITCHEN | HD*
+http://thenew.tv:8000/live/Denver/Broncos/78001.m3u8
+#EXTINF:-1,A BOLA TV | SD*
+http://thenew.tv:8000/live/Denver/Broncos/78000.m3u8
+#EXTINF:-1,A&E | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77999.m3u8
+#EXTINF:-1,AXN | HD*
+http://thenew.tv:8000/live/Denver/Broncos/77998.m3u8
+#EXTINF:-1,AXN | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77997.m3u8
+#EXTINF:-1,AXN BLACK | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77996.m3u8
+#EXTINF:-1,AXN WHITE | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77995.m3u8
+#EXTINF:-1,AXN WHITE | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77994.m3u8
+#EXTINF:-1,BABY TV | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77993.m3u8
+#EXTINF:-1,BTV 1 | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77992.m3u8
+#EXTINF:-1,CARTOON  NETWORK | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77991.m3u8
+#EXTINF:-1,Casa & Pesca | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77990.m3u8
+#EXTINF:-1,CBS REALITY | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77989.m3u8
+#EXTINF:-1,CINEMUNDO | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77988.m3u8
+#EXTINF:-1,CM TV | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77987.m3u8
+#EXTINF:-1,Discovery Channel | SD
+http://thenew.tv:8000/live/Denver/Broncos/77986.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE | HD *
+http://thenew.tv:8000/live/Denver/Broncos/77985.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE | UHD *
+http://thenew.tv:8000/live/Denver/Broncos/77984.m3u8
+#EXTINF:-1,Disney Channel | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77983.m3u8
+#EXTINF:-1,Disney Junior | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77982.m3u8
+#EXTINF:-1,FOX Comedy | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77981.m3u8
+#EXTINF:-1,FOX Life | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77980.m3u8
+#EXTINF:-1,FOX LIFE | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77979.m3u8
+#EXTINF:-1,FOX Movies | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77978.m3u8
+#EXTINF:-1,FOX Movies | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77977.m3u8
+#EXTINF:-1,FOX TV*
+http://thenew.tv:8000/live/Denver/Broncos/77976.m3u8
+#EXTINF:-1,FUEL TV | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77975.m3u8
+#EXTINF:-1,FUEL TV*
+http://thenew.tv:8000/live/Denver/Broncos/77974.m3u8
+#EXTINF:-1,GLOBO | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77973.m3u8
+#EXTINF:-1,Historia | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77972.m3u8
+#EXTINF:-1,HOLLYWOOD | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77971.m3u8
+#EXTINF:-1,HOLLYWOOD*
+http://thenew.tv:8000/live/Denver/Broncos/77970.m3u8
+#EXTINF:-1,JIM JAM | SD
+http://thenew.tv:8000/live/Denver/Broncos/77969.m3u8
+#EXTINF:-1,MCS EXTREME*
+http://thenew.tv:8000/live/Denver/Broncos/77968.m3u8
+#EXTINF:-1,MOTORVISION TV | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77967.m3u8
+#EXTINF:-1,MOV | SD
+http://thenew.tv:8000/live/Denver/Broncos/77966.m3u8
+#EXTINF:-1,MTV Portugal | SD
+http://thenew.tv:8000/live/Denver/Broncos/77965.m3u8
+#EXTINF:-1,MTV PORTUGAL | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77964.m3u8
+#EXTINF:-1,Nat Geo Wild | SD
+http://thenew.tv:8000/live/Denver/Broncos/77963.m3u8
+#EXTINF:-1,Nat Geo Wild | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77962.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77961.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77960.m3u8
+#EXTINF:-1,NICKELODEON | SD
+http://thenew.tv:8000/live/Denver/Broncos/77959.m3u8
+#EXTINF:-1,ODISSEIA | SD
+http://thenew.tv:8000/live/Denver/Broncos/77958.m3u8
+#EXTINF:-1,Panda Biggs | SD
+http://thenew.tv:8000/live/Denver/Broncos/77957.m3u8
+#EXTINF:-1,PFC | SD
+http://thenew.tv:8000/live/Denver/Broncos/77956.m3u8
+#EXTINF:-1,PORTO CANAL | SD
+http://thenew.tv:8000/live/Denver/Broncos/77955.m3u8
+#EXTINF:-1,RTP 1 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77954.m3u8
+#EXTINF:-1,RTP 2 | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77953.m3u8
+#EXTINF:-1,RTP 3 | SD
+http://thenew.tv:8000/live/Denver/Broncos/77952.m3u8
+#EXTINF:-1,RTP ACORES | SD
+http://thenew.tv:8000/live/Denver/Broncos/77951.m3u8
+#EXTINF:-1,RTP AFRICA | SD
+http://thenew.tv:8000/live/Denver/Broncos/77950.m3u8
+#EXTINF:-1,RTP MADEIRA | SD
+http://thenew.tv:8000/live/Denver/Broncos/77949.m3u8
+#EXTINF:-1,RTP MEMORIA | SD
+http://thenew.tv:8000/live/Denver/Broncos/77948.m3u8
+#EXTINF:-1,SIC MULHER | SD
+http://thenew.tv:8000/live/Denver/Broncos/77947.m3u8
+#EXTINF:-1,SIC NOTICIAS | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77946.m3u8
+#EXTINF:-1,SIC RADICAL | SD
+http://thenew.tv:8000/live/Denver/Broncos/77945.m3u8
+#EXTINF:-1,SIC RADICAL | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77944.m3u8
+#EXTINF:-1,SyFy | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77943.m3u8
+#EXTINF:-1,TLC | SD
+http://thenew.tv:8000/live/Denver/Broncos/77942.m3u8
+#EXTINF:-1,TV CINE 2 | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77941.m3u8
+#EXTINF:-1,TV CINE 3 | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77940.m3u8
+#EXTINF:-1,TV CINE 4 | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77939.m3u8
+#EXTINF:-1,TV Cinema 1  | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77938.m3u8
+#EXTINF:-1,TV Cinema 2  | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77937.m3u8
+#EXTINF:-1,TV Cinema 3 | UHD*
+http://thenew.tv:8000/live/Denver/Broncos/77936.m3u8
+#EXTINF:-1,TV SERIES | SD
+http://thenew.tv:8000/live/Denver/Broncos/77935.m3u8
+#EXTINF:-1,TVC 1
+http://thenew.tv:8000/live/Denver/Broncos/77934.m3u8
+#EXTINF:-1,TVI 24 | SD
+http://thenew.tv:8000/live/Denver/Broncos/77933.m3u8
+#EXTINF:-1,TVI Ficcao | SD
+http://thenew.tv:8000/live/Denver/Broncos/77932.m3u8
+#EXTINF:-1,TVI REALITY | SD
+http://thenew.tv:8000/live/Denver/Broncos/77931.m3u8
+#EXTINF:-1,24 KITCHEN | SD
+http://thenew.tv:8000/live/Denver/Broncos/77930.m3u8
 #EXTINF:-1,A&E
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7837.m3u8
-#EXTINF:-1,E! Entertaunment
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7828.m3u8
-#EXTINF:-1,TVI REALITY
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8494.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/77929.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://thenew.tv:8000/live/Denver/Broncos/77928.m3u8
+#EXTINF:-1,ALJAZEERA
+http://thenew.tv:8000/live/Denver/Broncos/77927.m3u8
+#EXTINF:-1,AMC | HD
+http://thenew.tv:8000/live/Denver/Broncos/77926.m3u8
+#EXTINF:-1,AMC | SD
+http://thenew.tv:8000/live/Denver/Broncos/77925.m3u8
+#EXTINF:-1,AMC | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77924.m3u8
+#EXTINF:-1,AR TV
+http://thenew.tv:8000/live/Denver/Broncos/77923.m3u8
+#EXTINF:-1,ARTE
+http://thenew.tv:8000/live/Denver/Broncos/77922.m3u8
+#EXTINF:-1,AXN | HD
+http://thenew.tv:8000/live/Denver/Broncos/77921.m3u8
+#EXTINF:-1,AXN | SD
+http://thenew.tv:8000/live/Denver/Broncos/77920.m3u8
+#EXTINF:-1,AXN BLACK | HD
+http://thenew.tv:8000/live/Denver/Broncos/77919.m3u8
+#EXTINF:-1,AXN BLACK | SD
+http://thenew.tv:8000/live/Denver/Broncos/77918.m3u8
+#EXTINF:-1,AXN WHITE | HD
+http://thenew.tv:8000/live/Denver/Broncos/77917.m3u8
+#EXTINF:-1,AXN WHITE | SD
+http://thenew.tv:8000/live/Denver/Broncos/77916.m3u8
+#EXTINF:-1,BABY FIRST
+http://thenew.tv:8000/live/Denver/Broncos/77915.m3u8
+#EXTINF:-1,BABY TV
+http://thenew.tv:8000/live/Denver/Broncos/77914.m3u8
+#EXTINF:-1,BARÇA TV
+http://thenew.tv:8000/live/Denver/Broncos/77913.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT
+http://thenew.tv:8000/live/Denver/Broncos/77912.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://thenew.tv:8000/live/Denver/Broncos/77911.m3u8
+#EXTINF:-1,BLOOMBERG
+http://thenew.tv:8000/live/Denver/Broncos/77910.m3u8
+#EXTINF:-1,BNT World
+http://thenew.tv:8000/live/Denver/Broncos/77909.m3u8
+#EXTINF:-1,BTV 1 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77908.m3u8
+#EXTINF:-1,BTV 1 | SD
+http://thenew.tv:8000/live/Denver/Broncos/77907.m3u8
+#EXTINF:-1,BTV 1 | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77906.m3u8
+#EXTINF:-1,BVN
+http://thenew.tv:8000/live/Denver/Broncos/77905.m3u8
+#EXTINF:-1,CACA E PESCA | HD
+http://thenew.tv:8000/live/Denver/Broncos/77904.m3u8
+#EXTINF:-1,CACA E PESCA | SD
+http://thenew.tv:8000/live/Denver/Broncos/77903.m3u8
+#EXTINF:-1,CANÇAO NOVA
+http://thenew.tv:8000/live/Denver/Broncos/77902.m3u8
+#EXTINF:-1,CAPELINHA DAS APARIÇÕES
+http://thenew.tv:8000/live/Denver/Broncos/77901.m3u8
+#EXTINF:-1,CBS REALITY
+http://thenew.tv:8000/live/Denver/Broncos/77900.m3u8
+#EXTINF:-1,CCTV4
+http://thenew.tv:8000/live/Denver/Broncos/77899.m3u8
+#EXTINF:-1,CGTN
+http://thenew.tv:8000/live/Denver/Broncos/77898.m3u8
+#EXTINF:-1,CHELSEA TV
+http://thenew.tv:8000/live/Denver/Broncos/77897.m3u8
+#EXTINF:-1,CINEMUNDO
+http://thenew.tv:8000/live/Denver/Broncos/77896.m3u8
+#EXTINF:-1,CMTV | HD
+http://thenew.tv:8000/live/Denver/Broncos/77895.m3u8
+#EXTINF:-1,CMTV | SD
+http://thenew.tv:8000/live/Denver/Broncos/77894.m3u8
+#EXTINF:-1,CNBC
+http://thenew.tv:8000/live/Denver/Broncos/77893.m3u8
+#EXTINF:-1,CNN
+http://thenew.tv:8000/live/Denver/Broncos/77892.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+http://thenew.tv:8000/live/Denver/Broncos/77891.m3u8
+#EXTINF:-1,DEUTSCHE WELLE
+http://thenew.tv:8000/live/Denver/Broncos/77890.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | HD
+http://thenew.tv:8000/live/Denver/Broncos/77889.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | SD
+http://thenew.tv:8000/live/Denver/Broncos/77888.m3u8
+#EXTINF:-1,DISNEY CHANNEL | HD
+http://thenew.tv:8000/live/Denver/Broncos/77887.m3u8
+#EXTINF:-1,DISNEY CHANNEL | SD
+http://thenew.tv:8000/live/Denver/Broncos/77886.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://thenew.tv:8000/live/Denver/Broncos/77885.m3u8
+#EXTINF:-1,DOG TV
+http://thenew.tv:8000/live/Denver/Broncos/77884.m3u8
+#EXTINF:-1,DW
+http://thenew.tv:8000/live/Denver/Broncos/77883.m3u8
+#EXTINF:-1,E! ENTERTAINMENT | HD
+http://thenew.tv:8000/live/Denver/Broncos/77882.m3u8
+#EXTINF:-1,E! ENTERTAINMENT | SD
+http://thenew.tv:8000/live/Denver/Broncos/77881.m3u8
+#EXTINF:-1,EURONEWS
+http://thenew.tv:8000/live/Denver/Broncos/77880.m3u8
+#EXTINF:-1,FOX | SD
+http://thenew.tv:8000/live/Denver/Broncos/77879.m3u8
+#EXTINF:-1,FOX | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77878.m3u8
+#EXTINF:-1,FOX COMEDY | HD
+http://thenew.tv:8000/live/Denver/Broncos/77877.m3u8
+#EXTINF:-1,FOX Comedy | SD
+http://thenew.tv:8000/live/Denver/Broncos/77876.m3u8
+#EXTINF:-1,FOX CRIME | HD
+http://thenew.tv:8000/live/Denver/Broncos/77875.m3u8
+#EXTINF:-1,FOX LIFE | HD
+http://thenew.tv:8000/live/Denver/Broncos/77874.m3u8
+#EXTINF:-1,FOX LIFE | SD
+http://thenew.tv:8000/live/Denver/Broncos/77873.m3u8
+#EXTINF:-1,FOX MOVIES | SD
+http://thenew.tv:8000/live/Denver/Broncos/77872.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://thenew.tv:8000/live/Denver/Broncos/77871.m3u8
+#EXTINF:-1,FOX NEWS | SD
+http://thenew.tv:8000/live/Denver/Broncos/77870.m3u8
+#EXTINF:-1,FRANCE 24 (INGLES)
+http://thenew.tv:8000/live/Denver/Broncos/77869.m3u8
+#EXTINF:-1,FTV | HD
+http://thenew.tv:8000/live/Denver/Broncos/77868.m3u8
+#EXTINF:-1,FUEL TV | HD
+http://thenew.tv:8000/live/Denver/Broncos/77867.m3u8
+#EXTINF:-1,FUEL TV | SD
+http://thenew.tv:8000/live/Denver/Broncos/77866.m3u8
+#EXTINF:-1,GLOBO PORTUGAL
+http://thenew.tv:8000/live/Denver/Broncos/77865.m3u8
+#EXTINF:-1,GLOBO PREMIUM | HD
+http://thenew.tv:8000/live/Denver/Broncos/77864.m3u8
+#EXTINF:-1,Globo Premium | SD
+http://thenew.tv:8000/live/Denver/Broncos/77863.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://thenew.tv:8000/live/Denver/Broncos/77862.m3u8
+#EXTINF:-1,HOLLYWOOD | HD
+http://thenew.tv:8000/live/Denver/Broncos/77861.m3u8
+#EXTINF:-1,I24 NEWS
+http://thenew.tv:8000/live/Denver/Broncos/77860.m3u8
+#EXTINF:-1,iConcerts HD
+http://thenew.tv:8000/live/Denver/Broncos/77859.m3u8
+#EXTINF:-1,KURIAKOS TV
+http://thenew.tv:8000/live/Denver/Broncos/77858.m3u8
+#EXTINF:-1,LOCALVISAO TV | HD
+http://thenew.tv:8000/live/Denver/Broncos/77857.m3u8
+#EXTINF:-1,LUXE TV HD
+http://thenew.tv:8000/live/Denver/Broncos/77856.m3u8
+#EXTINF:-1,LUXU TV
+http://thenew.tv:8000/live/Denver/Broncos/77855.m3u8
+#EXTINF:-1,M6
+http://thenew.tv:8000/live/Denver/Broncos/77854.m3u8
+#EXTINF:-1,MAS CHIC
+http://thenew.tv:8000/live/Denver/Broncos/77853.m3u8
+#EXTINF:-1,MCM TOP
+http://thenew.tv:8000/live/Denver/Broncos/77852.m3u8
+#EXTINF:-1,MEZZO
+http://thenew.tv:8000/live/Denver/Broncos/77851.m3u8
+#EXTINF:-1,MEZZO LIVE | HD
+http://thenew.tv:8000/live/Denver/Broncos/77850.m3u8
+#EXTINF:-1,MOTORS TV
+http://thenew.tv:8000/live/Denver/Broncos/77849.m3u8
+#EXTINF:-1,MOTORSPORT TV
+http://thenew.tv:8000/live/Denver/Broncos/77848.m3u8
+#EXTINF:-1,MOTORVISION | HD
+http://thenew.tv:8000/live/Denver/Broncos/77847.m3u8
+#EXTINF:-1,MTV DANCE
+http://thenew.tv:8000/live/Denver/Broncos/77846.m3u8
+#EXTINF:-1,MTV Music
+http://thenew.tv:8000/live/Denver/Broncos/77845.m3u8
+#EXTINF:-1,MTV PORTUGAL | HD
+http://thenew.tv:8000/live/Denver/Broncos/77844.m3u8
+#EXTINF:-1,MTV PORTUGAL | SD
+http://thenew.tv:8000/live/Denver/Broncos/77843.m3u8
+#EXTINF:-1,MTV Rocks
+http://thenew.tv:8000/live/Denver/Broncos/77842.m3u8
+#EXTINF:-1,MVM
+http://thenew.tv:8000/live/Denver/Broncos/77841.m3u8
+#EXTINF:-1,MyZen TV
+http://thenew.tv:8000/live/Denver/Broncos/77840.m3u8
+#EXTINF:-1,NAT GEO WILD | SD
+http://thenew.tv:8000/live/Denver/Broncos/77839.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77838.m3u8
+#EXTINF:-1,NHK World TV
+http://thenew.tv:8000/live/Denver/Broncos/77837.m3u8
+#EXTINF:-1,NICK JR
+http://thenew.tv:8000/live/Denver/Broncos/77836.m3u8
+#EXTINF:-1,NICKELODEON
+http://thenew.tv:8000/live/Denver/Broncos/77835.m3u8
+#EXTINF:-1,ODISSEIA
+http://thenew.tv:8000/live/Denver/Broncos/77834.m3u8
+#EXTINF:-1,OUTDOOR | HD
+http://thenew.tv:8000/live/Denver/Broncos/77833.m3u8
+#EXTINF:-1,PANDA
+http://thenew.tv:8000/live/Denver/Broncos/77832.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://thenew.tv:8000/live/Denver/Broncos/77831.m3u8
+#EXTINF:-1,PENTHOUSE | HD
+http://thenew.tv:8000/live/Denver/Broncos/77830.m3u8
+#EXTINF:-1,PFC
+http://thenew.tv:8000/live/Denver/Broncos/77829.m3u8
+#EXTINF:-1,Phoenix CNE
+http://thenew.tv:8000/live/Denver/Broncos/77828.m3u8
+#EXTINF:-1,Phoenix InfoNews
+http://thenew.tv:8000/live/Denver/Broncos/77827.m3u8
+#EXTINF:-1,PORTO CANAL | HD
+http://thenew.tv:8000/live/Denver/Broncos/77826.m3u8
+#EXTINF:-1,PORTO CANAL| SD
+http://thenew.tv:8000/live/Denver/Broncos/77825.m3u8
+#EXTINF:-1,Rai News 24
+http://thenew.tv:8000/live/Denver/Broncos/77824.m3u8
+#EXTINF:-1,RECORD NEWS
+http://thenew.tv:8000/live/Denver/Broncos/77823.m3u8
+#EXTINF:-1,RTL
+http://thenew.tv:8000/live/Denver/Broncos/77822.m3u8
+#EXTINF:-1,RTP | SD
+http://thenew.tv:8000/live/Denver/Broncos/77821.m3u8
+#EXTINF:-1,RTP 2 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77820.m3u8
+#EXTINF:-1,RTP 2 | SD
+http://thenew.tv:8000/live/Denver/Broncos/77819.m3u8
+#EXTINF:-1,RTP 2 | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77818.m3u8
+#EXTINF:-1,RTP 3
+http://thenew.tv:8000/live/Denver/Broncos/77817.m3u8
+#EXTINF:-1,RTP AÇORES
+http://thenew.tv:8000/live/Denver/Broncos/77816.m3u8
+#EXTINF:-1,RTP AFRICA
+http://thenew.tv:8000/live/Denver/Broncos/77815.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://thenew.tv:8000/live/Denver/Broncos/77814.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://thenew.tv:8000/live/Denver/Broncos/77813.m3u8
+#EXTINF:-1,RTP3 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77812.m3u8
+#EXTINF:-1,RTR-Planeta
+http://thenew.tv:8000/live/Denver/Broncos/77811.m3u8
+#EXTINF:-1,SBT BRASIL
+http://thenew.tv:8000/live/Denver/Broncos/77810.m3u8
+#EXTINF:-1,SET ASIA
+http://thenew.tv:8000/live/Denver/Broncos/77809.m3u8
+#EXTINF:-1,SEXTREME
+http://thenew.tv:8000/live/Denver/Broncos/77808.m3u8
+#EXTINF:-1,SIC | HD
+http://thenew.tv:8000/live/Denver/Broncos/77807.m3u8
+#EXTINF:-1,SIC CARAS | HD
+http://thenew.tv:8000/live/Denver/Broncos/77806.m3u8
+#EXTINF:-1,SIC CARAS | SD
+http://thenew.tv:8000/live/Denver/Broncos/77805.m3u8
+#EXTINF:-1,SIC KIDS
+http://thenew.tv:8000/live/Denver/Broncos/77804.m3u8
+#EXTINF:-1,SIC MULHER
+http://thenew.tv:8000/live/Denver/Broncos/77803.m3u8
+#EXTINF:-1,SIC MULHER | HD
+http://thenew.tv:8000/live/Denver/Broncos/77802.m3u8
+#EXTINF:-1,SIC NOTICIAS | HD
+http://thenew.tv:8000/live/Denver/Broncos/77801.m3u8
+#EXTINF:-1,SIC NOTICIAS | SD
+http://thenew.tv:8000/live/Denver/Broncos/77800.m3u8
+#EXTINF:-1,SIC RADICAL | HD
+http://thenew.tv:8000/live/Denver/Broncos/77799.m3u8
+#EXTINF:-1,Sic SD*
+http://thenew.tv:8000/live/Denver/Broncos/77798.m3u8
+#EXTINF:-1,SKY NEWS
+http://thenew.tv:8000/live/Denver/Broncos/77797.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://thenew.tv:8000/live/Denver/Broncos/80644.m3u8
+#EXTINF:-1,SPORT TV 2
+http://thenew.tv:8000/live/Denver/Broncos/80643.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://thenew.tv:8000/live/Denver/Broncos/80642.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://thenew.tv:8000/live/Denver/Broncos/80641.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://thenew.tv:8000/live/Denver/Broncos/80640.m3u8
+#EXTINF:-1,SPORT TV 5
+http://thenew.tv:8000/live/Denver/Broncos/80639.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://thenew.tv:8000/live/Denver/Broncos/80638.m3u8
+#EXTINF:-1,SUPER RTL
+http://thenew.tv:8000/live/Denver/Broncos/77796.m3u8
+#EXTINF:-1,SYfY
+http://thenew.tv:8000/live/Denver/Broncos/77795.m3u8
+#EXTINF:-1,SYFY | HD
+http://thenew.tv:8000/live/Denver/Broncos/77794.m3u8
+#EXTINF:-1,TCV INTERNACIONAL
+http://thenew.tv:8000/live/Denver/Broncos/77793.m3u8
+#EXTINF:-1,TeleSUR
+http://thenew.tv:8000/live/Denver/Broncos/77792.m3u8
+#EXTINF:-1,Tiji
+http://thenew.tv:8000/live/Denver/Broncos/77791.m3u8
 #EXTINF:-1,TLC
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15369.m3u8
-#EXTINF:-1,CBS Reality
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7831.m3u8
-#EXTINF:-1,Crime Investigation
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/18299.m3u8
-#EXTINF:-1,Dog TV FHD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/18296.m3u8
-#EXTINF:-1,Fine Living FHD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/18294.m3u8
-#EXTINF:-1,Food Network HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/18295.m3u8
-#EXTINF:-1,TVI Reality Mosaico
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21437.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 2
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21439.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 3
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/21440.m3u8
-#EXTINF:-1,MCM Pop
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15365.m3u8
-#EXTINF:-1,MCM Top
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15366.m3u8
-#EXTINF:-1,Motorvision
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15364.m3u8
-#EXTINF:-1,MTV Portugal
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15367.m3u8
-#EXTINF:-1,Afro Music
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7750.m3u8
-#EXTINF:-1,===== Lifestyle =====
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13835.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8408.m3u8
-#EXTINF:-1,===== Informação =====
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/13833.m3u8
-#EXTINF:-1,Record News
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15375.m3u8
-#EXTINF:-1,SIC Noticias HD
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/8409.m3u8
-#EXTINF:-1,SIC Noticias
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7820.m3u8
-#EXTINF:-1,CMTV
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/7829.m3u8
-#EXTINF:-1,EUroNews
-http://94.242.54.68:6500/live/y31yU1hWDu/1y7HF0j94U/15361.m3u8
+http://thenew.tv:8000/live/Denver/Broncos/77790.m3u8
+#EXTINF:-1,TOROS TV | HD
+http://thenew.tv:8000/live/Denver/Broncos/77789.m3u8
+#EXTINF:-1,TOROS TV | SD
+http://thenew.tv:8000/live/Denver/Broncos/77788.m3u8
+#EXTINF:-1,TPA INTERNACIONAL
+http://thenew.tv:8000/live/Denver/Broncos/77787.m3u8
+#EXTINF:-1,TRACE URBAN | HD
+http://thenew.tv:8000/live/Denver/Broncos/77786.m3u8
+#EXTINF:-1,TRACE URBAN | SD
+http://thenew.tv:8000/live/Denver/Broncos/77785.m3u8
+#EXTINF:-1,TRAVEL CHANNEL | HD
+http://thenew.tv:8000/live/Denver/Broncos/77784.m3u8
+#EXTINF:-1,TRAVEL CHANNEL | SD
+http://thenew.tv:8000/live/Denver/Broncos/77783.m3u8
+#EXTINF:-1,TV CINE 1 | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77782.m3u8
+#EXTINF:-1,TV GALICIA
+http://thenew.tv:8000/live/Denver/Broncos/77781.m3u8
+#EXTINF:-1,TV GLOBO PREMIUM | SD
+http://thenew.tv:8000/live/Denver/Broncos/77780.m3u8
+#EXTINF:-1,TV RECORD | HD
+http://thenew.tv:8000/live/Denver/Broncos/77779.m3u8
+#EXTINF:-1,TV RECORD | SD
+http://thenew.tv:8000/live/Denver/Broncos/77778.m3u8
+#EXTINF:-1,TV SERIES | HD
+http://thenew.tv:8000/live/Denver/Broncos/77777.m3u8
+#EXTINF:-1,TV5 MONDE
+http://thenew.tv:8000/live/Denver/Broncos/77776.m3u8
+#EXTINF:-1,TV5MONDE
+http://thenew.tv:8000/live/Denver/Broncos/77775.m3u8
+#EXTINF:-1,TVCINE 1 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77774.m3u8
+#EXTINF:-1,TVCINE 2 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77773.m3u8
+#EXTINF:-1,TVCINE 3 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77772.m3u8
+#EXTINF:-1,TVCINE 4 | HD
+http://thenew.tv:8000/live/Denver/Broncos/77771.m3u8
+#EXTINF:-1,TVCINE 4 | SD
+http://thenew.tv:8000/live/Denver/Broncos/77770.m3u8
+#EXTINF:-1,TVE 24 HORAS
+http://thenew.tv:8000/live/Denver/Broncos/77769.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://thenew.tv:8000/live/Denver/Broncos/77768.m3u8
+#EXTINF:-1,TVI | SD*
+http://thenew.tv:8000/live/Denver/Broncos/77767.m3u8
+#EXTINF:-1,TVI | UHD
+http://thenew.tv:8000/live/Denver/Broncos/77766.m3u8
+#EXTINF:-1,TVI 24
+http://thenew.tv:8000/live/Denver/Broncos/77765.m3u8
+#EXTINF:-1,TVI FICÇAO
+http://thenew.tv:8000/live/Denver/Broncos/77764.m3u8
+#EXTINF:-1,TVI REALITY
+http://thenew.tv:8000/live/Denver/Broncos/77763.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 1
+http://thenew.tv:8000/live/Denver/Broncos/77762.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 2
+http://thenew.tv:8000/live/Denver/Broncos/77761.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 4
+http://thenew.tv:8000/live/Denver/Broncos/77760.m3u8
+#EXTINF:-1,TVI REALITY MOSAICO
+http://thenew.tv:8000/live/Denver/Broncos/77759.m3u8
+#EXTINF:-1,TVR International
+http://thenew.tv:8000/live/Denver/Broncos/77758.m3u8
+#EXTINF:-1,VH1
+http://thenew.tv:8000/live/Denver/Broncos/77757.m3u8
+#EXTINF:-1,VH1 CLASSIC |SD
+http://thenew.tv:8000/live/Denver/Broncos/77756.m3u8
+#EXTINF:-1,Zee TV
+http://thenew.tv:8000/live/Denver/Broncos/77755.m3u8
+#EXTINF:-1,PT::A BOLA TV
+http://thenew.tv:8000/live/Denver/Broncos/77754.m3u8
+#EXTINF:-1,PT::Odisseia HD
+http://thenew.tv:8000/live/Denver/Broncos/77753.m3u8
+#EXTINF:-1,PT::REDE TV
+http://thenew.tv:8000/live/Denver/Broncos/77752.m3u8
+#EXTINF:-1,PT::SIC NOTICIAS
+http://thenew.tv:8000/live/Denver/Broncos/77751.m3u8
+#EXTINF:-1,PT::TVI REALITY CAMARA 3
+http://thenew.tv:8000/live/Denver/Broncos/77750.m3u8
