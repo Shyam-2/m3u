@@ -1,16 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="",2+2
+https://7streams.pro/lba/123/g7/2plus2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2x2_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB._%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg/330px-2x2_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB._%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg" group-title="",2X2
 http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
 #EXTINF:-1 tvg-id="Podmoskovie.ru " tvg-name="360 Подмосковье" tvg-logo="" group-title="",360
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Podmoskovie.ru" tvg-name="360 Подмосковье" tvg-logo="" group-title="General",360 [576p]
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="",360°
 http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="",360°
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png" group-title="",360° Новости
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",43 Канал HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.piter.tv/img/47channel/logo.png" group-title="",47 канал
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="",5 канал
+http://78.29.1.71/live/5kanal/copy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",53 [480p]
 http://ott-cdn.ucom.am/s53/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.issueno206.com/wp-content/uploads/2015/04/rot-neu.jpg" group-title="",7 TV
@@ -37,8 +45,12 @@ http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 https://strm.yandex.ru/kal/acb/acb0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Akudji TV [720p]
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://crushgame.ru/channels_logos/Films/amedia_1.png" group-title="",Amedia 1
+http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="",Amedia 2
 http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 tvg-id="amediapremium.ru" tvg-name="Amedia Premium" tvg-logo="" group-title="Movies",Amedia Premium [480p]
+http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 tvg-id="amediapremium.ru" tvg-name="Amedia Premium" tvg-logo="" group-title="Movies",Amedia Premium [480p]
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.company/assets/images/clients/amediateka_logo.png" group-title="",Amediateka HBO
@@ -47,6 +59,10 @@ http://persik.by/stream/2944/263250/643.m3u8
 http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://afontovo.ru/bitrix/templates/dvt.afontovo.ru/img.src/logo.png" group-title="",AАфонтово
 http://xstream.afontovo.ru/afontovo_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ntvplus.ru/files/image/01/24/76/channel!qsx.png" group-title="",Bollywood
+http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="",Boomerang Россия
+http://stream.euroasia.lfstrm.tv/boomerang/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shop",Boutique TV [576p]
 http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Bridge.ru" tvg-name="Bridge TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bridge_tv_ru.jpg" group-title="Music",Bridge TV

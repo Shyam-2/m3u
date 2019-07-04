@@ -1,579 +1,151 @@
 #EXTM3U
-#EXTINF:-1,RTS Un HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21230.m3u8
-#EXTINF:-1,RTS Deux HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21229.m3u8
-#EXTINF:-1,TF1
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21228.m3u8
-#EXTINF:-1,TF1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21227.m3u8
-#EXTINF:-1,TF1 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19536.m3u8
-#EXTINF:-1,France 2
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21226.m3u8
-#EXTINF:-1,France 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21225.m3u8
-#EXTINF:-1,France 3
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21224.m3u8
-#EXTINF:-1,France 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21223.m3u8
-#EXTINF:-1,France 4 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21222.m3u8
-#EXTINF:-1,France 5
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21221.m3u8
-#EXTINF:-1,M6
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21220.m3u8
-#EXTINF:-1,M6 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19567.m3u8
-#EXTINF:-1,Syfy
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21218.m3u8
-#EXTINF:-1,Syfy FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19539.m3u8
-#EXTINF:-1,NT1 (TFX)
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21217.m3u8
-#EXTINF:-1,NT1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21216.m3u8
-#EXTINF:-1,W9 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21215.m3u8
-#EXTINF:-1,W9 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19523.m3u8
-#EXTINF:-1,HD1
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21214.m3u8
-#EXTINF:-1,TF1 Series Film FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19535.m3u8
-#EXTINF:-1,C-8 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21213.m3u8
-#EXTINF:-1,C8 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19601.m3u8
-#EXTINF:-1,C-Star
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21212.m3u8
-#EXTINF:-1,C-Star HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21211.m3u8
-#EXTINF:-1,6ter
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21210.m3u8
-#EXTINF:-1,6ter HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21209.m3u8
-#EXTINF:-1,6ter FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19614.m3u8
-#EXTINF:-1,RTL 9
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21208.m3u8
-#EXTINF:-1,RTL 9 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19541.m3u8
-#EXTINF:-1,Chérie 25
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21207.m3u8
-#EXTINF:-1,Chérie 25 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19591.m3u8
-#EXTINF:-1,13eme Rue
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21206.m3u8
-#EXTINF:-1,13eme Rue FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19615.m3u8
-#EXTINF:-1,AB1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21205.m3u8
-#EXTINF:-1,AB3
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21204.m3u8
-#EXTINF:-1,NRJ 12
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21203.m3u8
-#EXTINF:-1,E!
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21202.m3u8
-#EXTINF:-1,Elle Girl HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21201.m3u8
-#EXTINF:-1,Elle Girl FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19578.m3u8
-#EXTINF:-1,Seasons HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21200.m3u8
-#EXTINF:-1,serieclub
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21199.m3u8
-#EXTINF:-1,serie Club FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19522.m3u8
-#EXTINF:-1,Comédie+
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21198.m3u8
-#EXTINF:-1,CANAL+ HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21197.m3u8
-#EXTINF:-1,CANAL+ FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19598.m3u8
-#EXTINF:-1,CANAL+ Cinema HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21196.m3u8
-#EXTINF:-1,CANAL+ Cinema FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19600.m3u8
-#EXTINF:-1,CANAL+ Decale HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21195.m3u8
-#EXTINF:-1,CANAL+ Décalé FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19599.m3u8
-#EXTINF:-1,CANAL+ Family HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21194.m3u8
-#EXTINF:-1,CANAL+ Family FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19597.m3u8
-#EXTINF:-1,CANAL+ Series HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21193.m3u8
-#EXTINF:-1,CANAL+ Series FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19596.m3u8
-#EXTINF:-1,Ciné FX HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21192.m3u8
-#EXTINF:-1,Ciné Polar
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21191.m3u8
-#EXTINF:-1,Ciné Polar HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/32297.m3u8
-#EXTINF:-1,Ciné+ Classic FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21190.m3u8
-#EXTINF:-1,Ciné+ Club FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19589.m3u8
-#EXTINF:-1,Ciné Emotion HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21189.m3u8
-#EXTINF:-1,Ciné+ Emotion FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19588.m3u8
-#EXTINF:-1,Ciné+ Famiz
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21188.m3u8
-#EXTINF:-1,Ciné+ Famiz HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21187.m3u8
-#EXTINF:-1,Ciné+ Frisson HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21186.m3u8
-#EXTINF:-1,Ciné+ Frisson FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19587.m3u8
-#EXTINF:-1,Ciné Premier HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21185.m3u8
-#EXTINF:-1,Ciné+ Premier FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19586.m3u8
-#EXTINF:-1,Canal Play 1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21184.m3u8
-#EXTINF:-1,Canal Play 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21183.m3u8
-#EXTINF:-1,Canal Play 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21182.m3u8
-#EXTINF:-1,Canal Play 4 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21181.m3u8
-#EXTINF:-1,Canal Play 5 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21180.m3u8
-#EXTINF:-1,A La Carte 1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21179.m3u8
-#EXTINF:-1,A La Carte 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21178.m3u8
-#EXTINF:-1,A La Carte 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21177.m3u8
-#EXTINF:-1,A La Carte 4 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21176.m3u8
-#EXTINF:-1,A La Carte 5 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21175.m3u8
-#EXTINF:-1,OCS Choc
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21174.m3u8
-#EXTINF:-1,OCS City
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21173.m3u8
-#EXTINF:-1,OCS City FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19553.m3u8
-#EXTINF:-1,OCS Geants
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21172.m3u8
-#EXTINF:-1,OCS Geants FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19552.m3u8
-#EXTINF:-1,OCS Max
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21171.m3u8
-#EXTINF:-1,OCS MAX FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19551.m3u8
-#EXTINF:-1,OCS Go Cinema 1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21170.m3u8
-#EXTINF:-1,OCS Go Cinema 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21169.m3u8
-#EXTINF:-1,OCS Go Cinema 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21168.m3u8
-#EXTINF:-1,OCS Go Cinema 4 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21167.m3u8
-#EXTINF:-1,OCS Go Cinema 5 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21166.m3u8
-#EXTINF:-1,Orange Cinema 1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21165.m3u8
-#EXTINF:-1,Orange Cinema 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21164.m3u8
-#EXTINF:-1,Orange Cinema 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21163.m3u8
-#EXTINF:-1,Orange Cinema 4 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21162.m3u8
-#EXTINF:-1,Orange Cinema 5 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21161.m3u8
-#EXTINF:-1,Orange Cinema HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21160.m3u8
-#EXTINF:-1,Orange Cinema Action HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21159.m3u8
-#EXTINF:-1,Orange Cinema Aventure HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21158.m3u8
-#EXTINF:-1,Orange Cinema Horreur HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21157.m3u8
-#EXTINF:-1,Orange Comment C'Est Fait HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21156.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21153.m3u8
-#EXTINF:-1,Paramount Channel FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19546.m3u8
-#EXTINF:-1,PARAMOUNT DECALE FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19547.m3u8
-#EXTINF:-1,TCM Cinéma HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21152.m3u8
-#EXTINF:-1,TCM Cinéma FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19538.m3u8
-#EXTINF:-1,TMC
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21151.m3u8
-#EXTINF:-1,Boing
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21150.m3u8
-#EXTINF:-1,Boing FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19602.m3u8
-#EXTINF:-1,Boomerang
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21149.m3u8
-#EXTINF:-1,Cartoon Network
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21148.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19592.m3u8
-#EXTINF:-1,Gulli HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21147.m3u8
-#EXTINF:-1,Gulli FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19572.m3u8
-#EXTINF:-1,Nickelodeon FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19554.m3u8
-#EXTINF:-1,NICKELODEON 4 TEEN HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19558.m3u8
-#EXTINF:-1,Piwi HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21144.m3u8
-#EXTINF:-1,Piwi+ FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19545.m3u8
-#EXTINF:-1,téléTOON+
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21143.m3u8
-#EXTINF:-1,téléTOON+ HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/32296.m3u8
-#EXTINF:-1,TELETOON +1 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19537.m3u8
-#EXTINF:-1,Zouzous
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21142.m3u8
-#EXTINF:-1,TOONAMI FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19534.m3u8
-#EXTINF:-1,Tiji HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21141.m3u8
-#EXTINF:-1,Canal J
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21140.m3u8
-#EXTINF:-1,Disney Channel HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21139.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19582.m3u8
-#EXTINF:-1,Disney Channel +1
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21138.m3u8
-#EXTINF:-1,DISNEY CHANNEL +1 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19585.m3u8
-#EXTINF:-1,Disney Cinema
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21137.m3u8
-#EXTINF:-1,Disney Cinema HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21136.m3u8
-#EXTINF:-1,Disney Cinema FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19581.m3u8
-#EXTINF:-1,Disney Junior HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21135.m3u8
-#EXTINF:-1,Disney Junior FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19580.m3u8
-#EXTINF:-1,Disney XD HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21134.m3u8
-#EXTINF:-1,Disney XD FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19579.m3u8
-#EXTINF:-1,Mangas HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21133.m3u8
-#EXTINF:-1,J-One
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21132.m3u8
-#EXTINF:-1,Game One
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21131.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21130.m3u8
-#EXTINF:-1,Discovery FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19584.m3u8
-#EXTINF:-1,Discovery Science HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21129.m3u8
-#EXTINF:-1,Discovery Science FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19583.m3u8
-#EXTINF:-1,Planète+ HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21127.m3u8
-#EXTINF:-1,Planète+ A&E HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21126.m3u8
-#EXTINF:-1,Planète+ CI HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21125.m3u8
-#EXTINF:-1,National Geographic HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21124.m3u8
-#EXTINF:-1,Nat Geo FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19556.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21123.m3u8
-#EXTINF:-1,Nat Geo Wild FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19555.m3u8
-#EXTINF:-1,Action
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21122.m3u8
-#EXTINF:-1,Action FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/47338.m3u8
-#EXTINF:-1,Animaux HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21121.m3u8
-#EXTINF:-1,Animaux FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19609.m3u8
-#EXTINF:-1,Arte
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21120.m3u8
-#EXTINF:-1,Arte HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/47337.m3u8
-#EXTINF:-1,AB Moteurs
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21119.m3u8
-#EXTINF:-1,Be Curious TV FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/47339.m3u8
-#EXTINF:-1,Chasse et Pêche
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21118.m3u8
-#EXTINF:-1,KTO
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21117.m3u8
-#EXTINF:-1,M6 Music
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21116.m3u8
-#EXTINF:-1,MCM
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21115.m3u8
-#EXTINF:-1,MCM FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19566.m3u8
-#EXTINF:-1,MCM TOP HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19565.m3u8
-#EXTINF:-1,Mezzo Live HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21114.m3u8
-#EXTINF:-1,MEZZO LIVE FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19564.m3u8
-#EXTINF:-1,MTV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21113.m3u8
-#EXTINF:-1,MTV FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19563.m3u8
-#EXTINF:-1,MTV Base
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21112.m3u8
-#EXTINF:-1,MTV Hits
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21111.m3u8
-#EXTINF:-1,MTV HITS FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19562.m3u8
-#EXTINF:-1,NRJ Hits
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21109.m3u8
-#EXTINF:-1,Trace Urban
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21108.m3u8
-#EXTINF:-1,RMC Sport 1
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/49956.m3u8
-#EXTINF:-1,RMC Sport 2
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/49955.m3u8
-#EXTINF:-1,RMC Sport 3
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/49954.m3u8
-#EXTINF:-1,RMC Sport 4
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/49953.m3u8
-#EXTINF:-1,beIN SPORTS 1
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21107.m3u8
-#EXTINF:-1,beIN SPORTS 1 SD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21106.m3u8
-#EXTINF:-1,beIN SPORTS 1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21105.m3u8
-#EXTINF:-1,beIN SPORTS 2
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21104.m3u8
-#EXTINF:-1,beIN SPORTS 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21103.m3u8
-#EXTINF:-1,beIN SPORTS 2 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19505.m3u8
-#EXTINF:-1,beIN SPORTS 3
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21102.m3u8
-#EXTINF:-1,beIN SPORTS 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21101.m3u8
-#EXTINF:-1,beIN SPORTS MAX 4 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21100.m3u8
-#EXTINF:-1,beIN Sports MAX 4 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19503.m3u8
-#EXTINF:-1,beIN SPORTS MAX 5 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21099.m3u8
-#EXTINF:-1,beIN Sports MAX 5 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19502.m3u8
-#EXTINF:-1,beIN SPORTS MAX 6 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21098.m3u8
-#EXTINF:-1,beIN Sports MAX 6 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19501.m3u8
-#EXTINF:-1,beIN SPORTS MAX 7 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21097.m3u8
-#EXTINF:-1,beIN Sports MAX 7 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19500.m3u8
-#EXTINF:-1,beIN SPORTS MAX 8
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21096.m3u8
-#EXTINF:-1,beIN SPORTS MAX 8 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21095.m3u8
-#EXTINF:-1,beIN Sports MAX 8 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19499.m3u8
-#EXTINF:-1,beIN Sports MAX 9 FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19498.m3u8
-#EXTINF:-1,Equidia Life
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21094.m3u8
-#EXTINF:-1,Equidia Live HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21093.m3u8
-#EXTINF:-1,BFM Sport FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19605.m3u8
-#EXTINF:-1,CANAL+ Sport HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21092.m3u8
-#EXTINF:-1,CANAL+ Sport FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19595.m3u8
-#EXTINF:-1,ciné CLASSIC HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40588.m3u8
-#EXTINF:-1,ciné FAMIZ HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40583.m3u8
-#EXTINF:-1,Eurosport 1
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19577.m3u8
-#EXTINF:-1,Eurosport 2
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19576.m3u8
-#EXTINF:-1,FOOT+ 24/24
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21089.m3u8
-#EXTINF:-1,GOLF+ HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21088.m3u8
-#EXTINF:-1,GOLF+ FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19574.m3u8
-#EXTINF:-1,TRACE SPORT STARS FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19532.m3u8
-#EXTINF:-1,InfoSport+
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21087.m3u8
-#EXTINF:-1,SFR Sport 1 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21086.m3u8
-#EXTINF:-1,SFR Sport 2 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21085.m3u8
-#EXTINF:-1,SFR Sport 3 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21084.m3u8
-#EXTINF:-1,C-News
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21083.m3u8
-#EXTINF:-1,C-News FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19594.m3u8
-#EXTINF:-1,Euronews
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21082.m3u8
-#EXTINF:-1,France 24
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21081.m3u8
-#EXTINF:-1,France Info
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21080.m3u8
-#EXTINF:-1,France Ô
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21079.m3u8
-#EXTINF:-1,i24NEWS
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21078.m3u8
-#EXTINF:-1,i24NEWS (B)
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/50264.m3u8
-#EXTINF:-1,Africa 24
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21077.m3u8
-#EXTINF:-1,Alsace 20
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21076.m3u8
-#EXTINF:-1,ILTV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21075.m3u8
-#EXTINF:-1,Histoire
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21074.m3u8
-#EXTINF:-1,Histoire FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19571.m3u8
-#EXTINF:-1,Canal Alpha JU
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21073.m3u8
-#EXTINF:-1,L'Equipe 21 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21072.m3u8
-#EXTINF:-1,MY CUISINE FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19561.m3u8
-#EXTINF:-1,BFM Business HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21071.m3u8
-#EXTINF:-1,BFM Business FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19606.m3u8
-#EXTINF:-1,BFM TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21070.m3u8
-#EXTINF:-1,BFM TV HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/50504.m3u8
-#EXTINF:-1,A+ FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19613.m3u8
-#EXTINF:-1,ALTICE STUDIO FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19612.m3u8
-#EXTINF:-1,Bet HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21069.m3u8
-#EXTINF:-1,BET FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19607.m3u8
-#EXTINF:-1,BRAVA FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19604.m3u8
-#EXTINF:-1,Weo HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21068.m3u8
-#EXTINF:-1,Clubbing TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21067.m3u8
-#EXTINF:-1,CRIME DISTRICT FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19593.m3u8
-#EXTINF:-1,eNORME TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21065.m3u8
-#EXTINF:-1,La Chaine Normande HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19569.m3u8
-#EXTINF:-1,La Chaîne Normande TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21064.m3u8
-#EXTINF:-1,La Une HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21063.m3u8
-#EXTINF:-1,LUXE TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19568.m3u8
-#EXTINF:-1,M6 Boutique
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21062.m3u8
-#EXTINF:-1,Numéro 23
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21061.m3u8
-#EXTINF:-1,Ofive TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21060.m3u8
-#EXTINF:-1,OLTV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21059.m3u8
-#EXTINF:-1,OLTV FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19550.m3u8
-#EXTINF:-1,OM TV HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19549.m3u8
-#EXTINF:-1,ONE TV FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19548.m3u8
-#EXTINF:-1,Paris Premiere
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21058.m3u8
-#EXTINF:-1,RFM HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21057.m3u8
-#EXTINF:-1,RFM TV HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19542.m3u8
-#EXTINF:-1,RMC Decouverte HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21056.m3u8
-#EXTINF:-1,Science & Vie TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21055.m3u8
-#EXTINF:-1,Stingray Brava
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21054.m3u8
-#EXTINF:-1,Toute l'Histoire
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21053.m3u8
-#EXTINF:-1,TRACE AFRICA HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19533.m3u8
-#EXTINF:-1,TRACE TROPICAL FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19531.m3u8
-#EXTINF:-1,Trek HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21052.m3u8
-#EXTINF:-1,Trek FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19527.m3u8
-#EXTINF:-1,TV Breizh
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21051.m3u8
-#EXTINF:-1,TV Breizh HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21050.m3u8
-#EXTINF:-1,TV5 Monde
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21049.m3u8
-#EXTINF:-1,TV5 Monde FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19529.m3u8
-#EXTINF:-1,TV8 MONT BLANC FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19528.m3u8
-#EXTINF:-1,téva
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21048.m3u8
-#EXTINF:-1,téva HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21047.m3u8
-#EXTINF:-1,Ushuaïa TV
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21046.m3u8
-#EXTINF:-1,Ushuaia FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19526.m3u8
-#EXTINF:-1,Voyage
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21045.m3u8
-#EXTINF:-1,Vosges Télévision HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21044.m3u8
-#EXTINF:-1,Voyage FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/19524.m3u8
-#EXTINF:-1,CANAL 31 HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21043.m3u8
-#EXTINF:-1,Cherie25
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40590.m3u8
-#EXTINF:-1,SYFY HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40643.m3u8
-#EXTINF:-1,TeleToon + FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40639.m3u8
-#EXTINF:-1,TIJI FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40636.m3u8
-#EXTINF:-1,TMC HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40634.m3u8
-#EXTINF:-1,TV5 MONDE HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/40629.m3u8
-#EXTINF:-1,GIRONDINS TV HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21042.m3u8
-#EXTINF:-1,GONG MAX HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21041.m3u8
-#EXTINF:-1,MOTORSPORT TV HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21039.m3u8
-#EXTINF:-1,NOLLYWOOD HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21038.m3u8
-#EXTINF:-1,PORTAIL CANALPLAY HD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/21037.m3u8
-#EXTINF:-1,Discovery Investigation FHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/61179.m3u8
-#EXTINF:-1,VIP TF1 UHD
-http://config.streamstv.me:8080/live/ZsIlThUSA9/ldzfZeKNsu/73410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xSN4Br1.png" group-title="FRANCE",24/7 Scenes de Menages
+http://opus.cf/allfrtvstrm/tkn/scenes/i/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alsace 20" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1051.png" group-title="Internationals",Alsace 20
+http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
+#EXTINF:-1 tvg-id="Alsace20" tvg-name="Alsace20" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png" group-title="France-Belgium-WebTV",Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ASSEMBLEE NATIONALE DU QUEBEC [270p]
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blackbeautyfair.com/wp-content/uploads/2015/08/logo_bblack_africa-820x442.png" group-title="FRANCE",Bblack! Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/vjdid.com/wp-content/uploads/2017/10/logo-bblack-caribbean-contour-noir.png" group-title="FRANCE",Bblack! Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3784017_logo_beblack_classik.png" group-title="France(français)",BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/fr/BeinSports1.fr.png" group-title="French Sports",beIN Français 1
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/fr/BeinSports3.fr.png" group-title="French Sports",beIN Français 3
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/fr/Bein4Max.fr.png" group-title="French Sports",beIN Français Max 4
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="France(français)",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/200px-CGTN_-_fran%C3%A7ais.png" group-title="France(français)",CGTN France
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",CPAC [720p]
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.d5tv.fr/fond-d5-v3.png" group-title="France(français)",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/990umt.jpg" group-title="FRANCE",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/1sxgr6.jpg" group-title="FRANCE",DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/14loi6w.jpg" group-title="FRANCE",DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zaplist.streamedias.online/wp-content/uploads/2017/12/DJING-FRENCH-TOUCH.jpg" group-title="FRANCE",DJing French Touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/100_1447183258.png" group-title="FRANCE",DJing Hot Hot Hot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zaplist.streamedias.online/wp-content/uploads/2017/12/DJING-300x155.jpg" group-title="FRANCE",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/av505u.jpg" group-title="FRANCE",DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/efo41x.jpg" group-title="FRANCE",DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EQUIPE FRANCIA
+http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="FASHION",FASHION DESTINATION
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION MIDDLE" tvg-logo="https://i.pinimg.com/236x/3b/8a/2c/3b8a2cb8e99423468cf0fb826888731b--fashion-tv-fasion.jpg" group-title="LIFESTYLE",FASHION MIDDLE
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION MIDNITE" tvg-logo="https://i.pinimg.com/236x/3b/8a/2c/3b8a2cb8e99423468cf0fb826888731b--fashion-tv-fasion.jpg" group-title="LIFESTYLE",FASHION MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION PG13" tvg-logo="https://i.pinimg.com/236x/3b/8a/2c/3b8a2cb8e99423468cf0fb826888731b--fashion-tv-fasion.jpg" group-title="LIFESTYLE",FASHION PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION PG16" tvg-logo="https://i.pinimg.com/236x/3b/8a/2c/3b8a2cb8e99423468cf0fb826888731b--fashion-tv-fasion.jpg" group-title="LIFESTYLE",FASHION PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="FASHION",FASHION TOP MODEL
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNITE" tvg-logo="data:image/png;base64,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" group-title="LIFESTYLE",FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_cinema.jpg" group-title="India PREMIUM-SERVER1",FOX Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-1)
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",FRANCE 24 [480p]
+http://ott-cdn.ucom.am/s25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",FRANCE 24 [EN][480p]
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FRANCOPHONIE 24 [360p]
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fashion",FTV [480p]
+http://ott-cdn.ucom.am/s30/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fashion",FTV [EN][1080p]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fashion",FTV PHOTOSHOOTS [EN][1080p]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cartoon",GONG [360p]
+http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cartoon",GONG [480p]
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/fr/GONGMAX.png" group-title="FRANCE",GONG MAX
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",GONG MAX [720p]
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",GONG TV
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Grand Lille TV [720p]
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",Hidayah-French
+http://62.210.141.179:8000/live/ibrahim/123456/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.don-bosco.net/images/stories/articles/actualites2/2015/01-janvier/petites/KTOTV_Salesiens_Bosco.jpg" group-title="RELIGION",KTO (France)
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE",L'Equipe 21
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="FRANCE",MCM Top
+http://ott-cdn.ucom.am/s49/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MCM Top [480p]
+http://92.43.140.249/s49/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCE",Mezzo
+http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Mezzo TV [480p]
+http://92.43.140.249/s35/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",NRJ
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",NRJ HITS [720p]
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",NRJ HITS [720p]
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",NRJ Hits TV (French)
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/200px-RT-France-logo.svg.png" group-title="France(français)",RT français
+http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="France-Belgium-WebTV",Tebeo
+http://live2.awedia.com/hls/tebeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="FRANCE",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="FRANCE",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="FRANCE",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-toca.png" group-title="FRANCE",Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="FRANCE",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5 MONDE EUROPE
+http://ott-cdn.ucom.am/s75/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5 MONDE INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5 MONDE INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="France(français)",TV5 MONDE Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="France(français)",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="FRANCE",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="France(français)",TVM Est parisien
+https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",时尚
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
