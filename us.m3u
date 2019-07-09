@@ -1,211 +1,1367 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
-#EXTINF:-1,US ABC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
-#EXTINF:-1,ABC NEWS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2249.m3u8
-#EXTINF:-1,AFN SPORTS 1
-http://voxtv.dynns.com:8000/live/USA/USA/2250.m3u8
-#EXTINF:-1,AFN SPORTS 2
-http://voxtv.dynns.com:8000/live/USA/USA/2251.m3u8
-#EXTINF:-1,AMAZING DISCOVERIES HD
-http://voxtv.dynns.com:8000/live/USA/USA/2253.m3u8
-#EXTINF:-1,AMC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2252.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://voxtv.dynns.com:8000/live/USA/USA/2254.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2352.m3u8
-#EXTINF:-1,BLOOMBERG EUROPE
-http://voxtv.dynns.com:8000/live/USA/USA/2256.m3u8
-#EXTINF:-1,BLOOMBERG TV
-http://voxtv.dynns.com:8000/live/USA/USA/2257.m3u8
+#EXTINF:-1,G: SKY-ACTION FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/406.m3u8
+#EXTINF:-1,Sky Cinema Action FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/405.m3u8
+#EXTINF:-1,Sky Cinema Action HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/404.m3u8
+#EXTINF:-1,Sky Cinema Action&Adventure
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/403.m3u8
+#EXTINF:-1,SKY-COMEDY HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/402.m3u8
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/401.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/400.m3u8
+#EXTINF:-1,Sky Cinema Comedy
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/399.m3u8
+#EXTINF:-1,SKY-DISNEY FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/398.m3u8
+#EXTINF:-1,Sky Cinema Disney FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/397.m3u8
+#EXTINF:-1,Sky Cinema Disney HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/396.m3u8
+#EXTINF:-1,Sky Cinema Disney
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/395.m3u8
+#EXTINF:-1,SKY-DRAMA FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/394.m3u8
+#EXTINF:-1,Sky Cinema Drama&Romance FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/393.m3u8
+#EXTINF:-1,Sky Cinema Drama&Romance HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/392.m3u8
+#EXTINF:-1,Sky Cinema Drama&Romance 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/391.m3u8
+#EXTINF:-1,SKY-SUPERHERO FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/386.m3u8
+#EXTINF:-1,Sky Cinema Hero FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/385.m3u8
+#EXTINF:-1,Sky Cinema Hero HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/384.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/380.m3u8
+#EXTINF:-1,SKY-HITS FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/383.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/382.m3u8
+#EXTINF:-1,Sky Cinema Hits HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/381.m3u8
+#EXTINF:-1,SKY-PREMIERE HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/379.m3u8
+#EXTINF:-1,Sky Cinema Premier FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/378.m3u8
+#EXTINF:-1,Sky Cinema Premier HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/377.m3u8
+#EXTINF:-1,Sky Cinema Premier
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/376.m3u8
+#EXTINF:-1,SKY-FAMILY HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/390.m3u8
+#EXTINF:-1,Sky Cinema Family FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/389.m3u8
+#EXTINF:-1,Sky Cinema Family HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/388.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/387.m3u8
+#EXTINF:-1,SKY-HALLOWEEN FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/375.m3u8
+#EXTINF:-1,Sky Cinema SciFi&Horror FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/374.m3u8
+#EXTINF:-1,Sky Cinema SciFi&Horror HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/373.m3u8
+#EXTINF:-1,Sky Cinema SciFi&Horror
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/372.m3u8
+#EXTINF:-1,SKY-SELECT FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/371.m3u8
+#EXTINF:-1,Sky Cinema Select FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/370.m3u8
+#EXTINF:-1,Sky Cinema Select HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/369.m3u8
+#EXTINF:-1,SKY-THRILLER FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/368.m3u8
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/367.m3u8
+#EXTINF:-1,Sky Cinema Thriller HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/366.m3u8
+#EXTINF:-1,Sky Cinema Thriller
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/365.m3u8
+#EXTINF:-1,Sky-TCM FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/364.m3u8
+#EXTINF:-1,horror channel
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/356.m3u8
+#EXTINF:-1,Movies24
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/359.m3u8
+#EXTINF:-1,movies4men
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/358.m3u8
+#EXTINF:-1,G: Sky Sports Arena FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/771.m3u8
+#EXTINF:-1,SkySptsArena (50FPS)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/476.m3u8
+#EXTINF:-1,SkySptsArena HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/475.m3u8
+#EXTINF:-1,Sky Sports Arena HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/474.m3u8
+#EXTINF:-1,Sky Sports Arena SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/473.m3u8
+#EXTINF:-1,G: Sky Sports Arena
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/762.m3u8
+#EXTINF:-1,SkySptsAction HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/414.m3u8
+#EXTINF:-1,SkySportsAction HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/413.m3u8
+#EXTINF:-1,SkySptsAction
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/412.m3u8
+#EXTINF:-1,G: Sky Sports Cricket FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/770.m3u8
+#EXTINF:-1,SkySptsCricket HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/469.m3u8
+#EXTINF:-1,Sky Sports Cricket HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/468.m3u8
+#EXTINF:-1,SkySptsCricket
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/466.m3u8
+#EXTINF:-1,G: Sky Sports Cricket
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/761.m3u8
+#EXTINF:-1,Sky Sports Cricket SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/467.m3u8
+#EXTINF:-1,G: Sky Sports F1 FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/769.m3u8
+#EXTINF:-1,SkySptsF1 HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/462.m3u8
+#EXTINF:-1,Sky Sports F1 HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/461.m3u8
+#EXTINF:-1,SkySptsF1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/460.m3u8
+#EXTINF:-1,G: Sky Sports F1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/760.m3u8
+#EXTINF:-1,Sky Sports F1 SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/459.m3u8
+#EXTINF:-1,G: Sky Sports Football FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/768.m3u8
+#EXTINF:-1,SkySptsFootball FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/456.m3u8
+#EXTINF:-1,SkySptsFootball HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/455.m3u8
+#EXTINF:-1,Sky Sports Football HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/454.m3u8
+#EXTINF:-1,SkySptsFootball
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/453.m3u8
+#EXTINF:-1,G: Sky Sports Football
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/759.m3u8
+#EXTINF:-1,Sky Sports Football SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/452.m3u8
+#EXTINF:-1,G: Sky Sports Golf FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/767.m3u8
+#EXTINF:-1,Sky Sports Golf FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/451.m3u8
+#EXTINF:-1,SkySptsGolf FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/449.m3u8
+#EXTINF:-1,SkySptsGolf HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/448.m3u8
+#EXTINF:-1,SkySptsGolf
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/446.m3u8
+#EXTINF:-1,G: Sky Sports Golf
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/758.m3u8
+#EXTINF:-1,Sky Sports Golf SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/445.m3u8
+#EXTINF:-1,G: Sky Sports Main Event FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/766.m3u8
+#EXTINF:-1,Sky Sports Main Event FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/444.m3u8
+#EXTINF:-1,SkySptsMainEvent FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/442.m3u8
+#EXTINF:-1,SkySptsMainEvent HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/441.m3u8
+#EXTINF:-1,Sky Sports Main Event HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/440.m3u8
+#EXTINF:-1,SkySptsMainEvent
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/439.m3u8
+#EXTINF:-1,G: Sky Sports Main Event
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/757.m3u8
+#EXTINF:-1,Sky Sports Main Event SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/438.m3u8
+#EXTINF:-1,G: Sky Sports Mix FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/765.m3u8
+#EXTINF:-1,Sky Sports Mix FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/437.m3u8
+#EXTINF:-1,SkySptsMix FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/436.m3u8
+#EXTINF:-1,SkySptsMix HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/435.m3u8
+#EXTINF:-1,Sky Sports Mix HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/434.m3u8
+#EXTINF:-1,SkySptsMix
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/433.m3u8
+#EXTINF:-1,Sky Sports Mix SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/432.m3u8
+#EXTINF:-1,G: Sky Sports News FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/764.m3u8
+#EXTINF:-1,Sky Sports News FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/431.m3u8
+#EXTINF:-1,Sky Sports News HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/430.m3u8
+#EXTINF:-1,SkySptsNews HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/429.m3u8
+#EXTINF:-1,SkySptsNews
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/427.m3u8
+#EXTINF:-1,G: Sky Sports News
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/756.m3u8
+#EXTINF:-1,Sky Sports News local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/428.m3u8
+#EXTINF:-1,Sky Sports News SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/426.m3u8
+#EXTINF:-1,G: Sky Sports Premier League FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/773.m3u8
+#EXTINF:-1,Sky Sports Premier League FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/425.m3u8
+#EXTINF:-1,SkySptsPremLeague FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/423.m3u8
+#EXTINF:-1,SkySptsPremLeague HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/422.m3u8
+#EXTINF:-1,SkySptsPremLeague
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/420.m3u8
+#EXTINF:-1,G: Sky Sports Premier League
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/755.m3u8
+#EXTINF:-1,G:Sky Sports Racing FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25484.m3u8
+#EXTINF:-1,Sky Sports Racing FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/409.m3u8
+#EXTINF:-1,Sky Sports Racing HD.
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/408.m3u8
+#EXTINF:-1,Sky Sports Racing SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/407.m3u8
+#EXTINF:-1,G: Sky Sports USA FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/772.m3u8
+#EXTINF:-1,Sky Sports USA FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/417.m3u8
+#EXTINF:-1,G: Sky Sports USA
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/763.m3u8
+#EXTINF:-1,Sky Sports USA SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/411.m3u8
+#EXTINF:-1,Sky Red Button 01
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5132.m3u8
+#EXTINF:-1,Sky Red Button 02
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5131.m3u8
+#EXTINF:-1,Sky Red Button 03
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5130.m3u8
+#EXTINF:-1,Sky Red Button 04
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5129.m3u8
+#EXTINF:-1,Sky Red Button 05
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5128.m3u8
+#EXTINF:-1,Sky Red Button 06
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5127.m3u8
+#EXTINF:-1,Sky Red Button 07
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5126.m3u8
+#EXTINF:-1,Sky Red Button 08
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5125.m3u8
+#EXTINF:-1,Sky Red Button 09
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5124.m3u8
+#EXTINF:-1,Animal Planet
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/534.m3u8
+#EXTINF:-1,Animal Planet (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/535.m3u8
+#EXTINF:-1,Discovery HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/531.m3u8
+#EXTINF:-1,Discovery
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/530.m3u8
+#EXTINF:-1,Discovery (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/532.m3u8
+#EXTINF:-1,Discovery history
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/527.m3u8
+#EXTINF:-1,DiscoveryHistory local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/526.m3u8
+#EXTINF:-1,Discovery home and health
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/521.m3u8
+#EXTINF:-1,Discovery Home & Health (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/522.m3u8
+#EXTINF:-1,Discovery Science
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/525.m3u8
+#EXTINF:-1,DiscoveryScience local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/524.m3u8
+#EXTINF:-1,Discovery turbo
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/529.m3u8
+#EXTINF:-1,DiscoveryTurbo local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/528.m3u8
+#EXTINF:-1,Discovery Shed
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/523.m3u8
+#EXTINF:-1,Discovery-Investigation (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/509.m3u8
+#EXTINF:-1,DMAX
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/520.m3u8
+#EXTINF:-1,DMAX 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/315.m3u8
+#EXTINF:-1,ID
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/510.m3u8
+#EXTINF:-1,History
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/519.m3u8
+#EXTINF:-1,History backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/518.m3u8
+#EXTINF:-1,H2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/517.m3u8
+#EXTINF:-1,History 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/516.m3u8
+#EXTINF:-1,G:Nat Geo FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25482.m3u8
+#EXTINF:-1,Nat Geo FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/515.m3u8
+#EXTINF:-1,Nat Geo HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/514.m3u8
+#EXTINF:-1,G:Nat Geo Wild FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25481.m3u8
+#EXTINF:-1,Nat Geo Wild FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/513.m3u8
+#EXTINF:-1,Nat Geo Wild HD 720
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/512.m3u8
+#EXTINF:-1,G: Baby TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/806.m3u8
+#EXTINF:-1,Baby TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/562.m3u8
+#EXTINF:-1,Baby TV backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/561.m3u8
 #EXTINF:-1,Boomerang
-http://voxtv.dynns.com:8000/live/USA/USA/2258.m3u8
-#EXTINF:-1,BRAVO HD
-http://voxtv.dynns.com:8000/live/USA/USA/2259.m3u8
-#EXTINF:-1,BYU TV
-http://voxtv.dynns.com:8000/live/USA/USA/2255.m3u8
-#EXTINF:-1,C-SPAN 1
-http://voxtv.dynns.com:8000/live/USA/USA/2260.m3u8
-#EXTINF:-1,C-SPAN 2
-http://voxtv.dynns.com:8000/live/USA/USA/2261.m3u8
-#EXTINF:-1,C-SPAN 3
-http://voxtv.dynns.com:8000/live/USA/USA/2262.m3u8
-#EXTINF:-1,CA SPORTSNET 360 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2263.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2270.m3u8
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/560.m3u8
+#EXTINF:-1,G : Cartoon Network FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/808.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/558.m3u8
+#EXTINF:-1,Cartoon Network
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/557.m3u8
+#EXTINF:-1,Cartoon Network backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/556.m3u8
+#EXTINF:-1,G: Cartoonito (NOT 24)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/807.m3u8
+#EXTINF:-1,Cartoonito (Not 24/7)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/554.m3u8
+#EXTINF:-1,Cbeeies local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/555.m3u8
+#EXTINF:-1,G: Disney Channel FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/814.m3u8
+#EXTINF:-1,G: Disney Channel
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/811.m3u8
+#EXTINF:-1,Disney Channel
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/553.m3u8
+#EXTINF:-1,Disney Channel backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/552.m3u8
+#EXTINF:-1,G: Disney Junior FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/813.m3u8
+#EXTINF:-1,G: Disney Junior
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/810.m3u8
+#EXTINF:-1,Disney Junior
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/551.m3u8
+#EXTINF:-1,Disney Junior backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/550.m3u8
+#EXTINF:-1,G : Disney XD FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/812.m3u8
+#EXTINF:-1,G: Disney XD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/809.m3u8
+#EXTINF:-1,Disney XD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/549.m3u8
+#EXTINF:-1,G : Nick Jr Too
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/805.m3u8
+#EXTINF:-1,Nick Jr Too
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/546.m3u8
+#EXTINF:-1,Nick jr too backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/545.m3u8
+#EXTINF:-1,G : Nick Junior
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/804.m3u8
+#EXTINF:-1,Nick Junior
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/548.m3u8
+#EXTINF:-1,Nick Junior backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/547.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/543.m3u8
+#EXTINF:-1,Nickelodeon Europe
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/544.m3u8
+#EXTINF:-1,Nickelodeon
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/542.m3u8
+#EXTINF:-1,Nicktoons
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/541.m3u8
+#EXTINF:-1,UFC FIGHT PASS
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/37371.m3u8
+#EXTINF:-1,BT Sport 1 1080 50fps (not 24/7)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/504.m3u8
+#EXTINF:-1,G: BT Sports 1 FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/779.m3u8
+#EXTINF:-1,BT SPORTS FHD 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/503.m3u8
+#EXTINF:-1,BTSports 1 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/501.m3u8
+#EXTINF:-1,BTSport 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/500.m3u8
+#EXTINF:-1,G: BT Sports 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/776.m3u8
+#EXTINF:-1,BTSports 1 (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/499.m3u8
+#EXTINF:-1,BT Sport 2 1080 50fps (not 24/7)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/498.m3u8
+#EXTINF:-1,G: BT Sports 2 FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/778.m3u8
+#EXTINF:-1,BT SPORTS FHD 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/497.m3u8
+#EXTINF:-1,BT Sport 2 720p
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/496.m3u8
+#EXTINF:-1,BTSports 2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/495.m3u8
+#EXTINF:-1,BTSport 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/494.m3u8
+#EXTINF:-1,G: BT Sports 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/775.m3u8
+#EXTINF:-1,BtSports 2 (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/493.m3u8
+#EXTINF:-1,BT Sport 3 1080 50fps (not 24/7)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/492.m3u8
+#EXTINF:-1,G: BT Sports 3 FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/777.m3u8
+#EXTINF:-1,BT SPORTS FHD 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/491.m3u8
+#EXTINF:-1,BT Sport 3 720p
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/490.m3u8
+#EXTINF:-1,BTSports 3 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/489.m3u8
+#EXTINF:-1,BTSport 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/488.m3u8
+#EXTINF:-1,G: BT Sports 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/774.m3u8
+#EXTINF:-1,BTSports 3 (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/487.m3u8
+#EXTINF:-1,G: MUTV FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/816.m3u8
+#EXTINF:-1,MUTV FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/574.m3u8
+#EXTINF:-1,MUTV backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/573.m3u8
+#EXTINF:-1,BBC One NI HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/352.m3u8
+#EXTINF:-1,BBC One HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/353.m3u8
+#EXTINF:-1,BBC 1 local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/351.m3u8
+#EXTINF:-1,G: BBC1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/686.m3u8
+#EXTINF:-1,BBC2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/350.m3u8
+#EXTINF:-1,BBC 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/349.m3u8
+#EXTINF:-1,BBC 2 local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/348.m3u8
+#EXTINF:-1,G: BBC2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/685.m3u8
+#EXTINF:-1,BBC Four HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/347.m3u8
+#EXTINF:-1,Channel 4 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/346.m3u8
+#EXTINF:-1,Channel 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/344.m3u8
+#EXTINF:-1,Channel 4 local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/345.m3u8
+#EXTINF:-1,G: Channel 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/684.m3u8
+#EXTINF:-1,Channel 5 HD local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/342.m3u8
+#EXTINF:-1,Channel 5 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/343.m3u8
+#EXTINF:-1,Channel 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/341.m3u8
+#EXTINF:-1,G: Channel 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/683.m3u8
+#EXTINF:-1,G: Channel 5 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/638.m3u8
+#EXTINF:-1,G: ITV FHD 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/595.m3u8
+#EXTINF:-1,ITV 1 HD local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/340.m3u8
+#EXTINF:-1,G: ITV1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/681.m3u8
+#EXTINF:-1,ITV 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/339.m3u8
+#EXTINF:-1,ITV1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/338.m3u8
+#EXTINF:-1,G : ITV1  1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/610.m3u8
+#EXTINF:-1,G: ITV FHD 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/594.m3u8
+#EXTINF:-1,ITV 2 HD local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/336.m3u8
+#EXTINF:-1,ITV2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/335.m3u8
+#EXTINF:-1,G: ITV2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/680.m3u8
+#EXTINF:-1,G: ITV2 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/609.m3u8
+#EXTINF:-1,G: ITV FHD 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/593.m3u8
+#EXTINF:-1,ITV 3 HD local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/334.m3u8
+#EXTINF:-1,ITV3 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/333.m3u8
+#EXTINF:-1,G: ITV3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/679.m3u8
+#EXTINF:-1,G: ITV3 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/608.m3u8
+#EXTINF:-1,G: ITV FHD 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/592.m3u8
+#EXTINF:-1,ITV4 FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/332.m3u8
+#EXTINF:-1,ITV 4 HD locals
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/331.m3u8
+#EXTINF:-1,G: ITV4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/678.m3u8
+#EXTINF:-1,G: ITV4 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/607.m3u8
+#EXTINF:-1,ITV4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/330.m3u8
+#EXTINF:-1,G: ITV BE
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/677.m3u8
+#EXTINF:-1,ITVBe
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/329.m3u8
+#EXTINF:-1,G: ITVBe 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/606.m3u8
+#EXTINF:-1,4Seven FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/355.m3u8
+#EXTINF:-1,4Seven
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/354.m3u8
+#EXTINF:-1,G: More 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/676.m3u8
+#EXTINF:-1,G: More4 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/605.m3u8
+#EXTINF:-1,G: E4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/682.m3u8
+#EXTINF:-1,G: E4 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/637.m3u8
+#EXTINF:-1,G: STV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/604.m3u8
+#EXTINF:-1,CBS Action local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/328.m3u8
+#EXTINF:-1,CBS Drama local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/327.m3u8
+#EXTINF:-1,CBS Reality local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/326.m3u8
+#EXTINF:-1,G: E!
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25491.m3u8
+#EXTINF:-1,Eden HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/311.m3u8
+#EXTINF:-1,Eden
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/310.m3u8
+#EXTINF:-1,Eden (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/309.m3u8
+#EXTINF:-1,5Star local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/312.m3u8
+#EXTINF:-1,Alibi HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/314.m3u8
+#EXTINF:-1,Alibi (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/313.m3u8
+#EXTINF:-1,Good Food HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/303.m3u8
+#EXTINF:-1,Good Food (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/302.m3u8
+#EXTINF:-1,GOLD local
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/308.m3u8
+#EXTINF:-1,Gold (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/307.m3u8
+#EXTINF:-1,Home
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/298.m3u8
+#EXTINF:-1,Home & Health
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/297.m3u8
+#EXTINF:-1,Lifetime HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/281.m3u8
+#EXTINF:-1,Sky 1 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/296.m3u8
+#EXTINF:-1,G: Sky One
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/673.m3u8
+#EXTINF:-1,Sky 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/295.m3u8
+#EXTINF:-1,Sky1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/294.m3u8
+#EXTINF:-1,G: Sky Two
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/672.m3u8
+#EXTINF:-1,Sky 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/293.m3u8
+#EXTINF:-1,Sky2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/292.m3u8
+#EXTINF:-1,G: Sky Atlantic FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/591.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/291.m3u8
+#EXTINF:-1,Sky Atlantic
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/290.m3u8
+#EXTINF:-1,G: Sky Atlantic
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/671.m3u8
+#EXTINF:-1,Sky Arts HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/287.m3u8
+#EXTINF:-1,Sky Arts
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/286.m3u8
+#EXTINF:-1,Sky Living HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/289.m3u8
+#EXTINF:-1,Sky Living
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/288.m3u8
+#EXTINF:-1,Universal HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/280.m3u8
+#EXTINF:-1,Universal (local)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/279.m3u8
+#EXTINF:-1,W HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/278.m3u8
+#EXTINF:-1,G:Pick TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25478.m3u8
+#EXTINF:-1,G: BBC One Cambridge
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/670.m3u8
+#EXTINF:-1,G: BBC One Channel Islands
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/669.m3u8
+#EXTINF:-1,G: BBC One East
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/668.m3u8
+#EXTINF:-1,G: BBC One East Midlands
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/667.m3u8
+#EXTINF:-1,G: BBC One London
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/666.m3u8
+#EXTINF:-1,G: BBC One North East and Cumbria
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/665.m3u8
+#EXTINF:-1,G: BBC One North West
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/664.m3u8
+#EXTINF:-1,G: BBC One Northern Ireland
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/663.m3u8
+#EXTINF:-1,G:BBC One Oxford
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/662.m3u8
+#EXTINF:-1,G: BBC One Scotland
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/661.m3u8
+#EXTINF:-1,G: BBC One South
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/660.m3u8
+#EXTINF:-1,G: BBC One South East
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/659.m3u8
+#EXTINF:-1,G: BBC One South West
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/658.m3u8
+#EXTINF:-1,G: BBC One Wales
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/657.m3u8
+#EXTINF:-1,G: BBC One West
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/656.m3u8
+#EXTINF:-1,G: BBC One West Midlands
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/655.m3u8
+#EXTINF:-1,G: BBC One Yorks
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/654.m3u8
+#EXTINF:-1,G: BBC One Yorkshire & Lincolnshire
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/653.m3u8
+#EXTINF:-1,G: BBC Parliament
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/652.m3u8
+#EXTINF:-1,G: BBC Red Button 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/651.m3u8
+#EXTINF:-1,G: BBC Two England
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/650.m3u8
+#EXTINF:-1,G: BBC Two Northern Ireland
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/649.m3u8
+#EXTINF:-1,G: BBC Two Scotland
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/648.m3u8
+#EXTINF:-1,G: BBC Two Wales
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/647.m3u8
+#EXTINF:-1,G: STV Central West
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/603.m3u8
+#EXTINF:-1,G: STV North
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/602.m3u8
+#EXTINF:-1,G: TV Border Scotland
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/601.m3u8
+#EXTINF:-1,G: UTV 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/600.m3u8
+#EXTINF:-1,G: UTV Ulster
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/599.m3u8
+#EXTINF:-1,G: LFC HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/815.m3u8
+#EXTINF:-1,LFC  TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/576.m3u8
+#EXTINF:-1,LFC TV backup
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/575.m3u8
+#EXTINF:-1,Racing UK HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/571.m3u8
+#EXTINF:-1,Racing UK
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/570.m3u8
+#EXTINF:-1,G:Racing UK
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/569.m3u8
+#EXTINF:-1,Premier Sports
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/572.m3u8
+#EXTINF:-1,Horse & County UK
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5634.m3u8
+#EXTINF:-1,G:FreeSports
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25480.m3u8
+#EXTINF:-1,G:Front Runner
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/25479.m3u8
+#EXTINF:-1,Premier Sports 1 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/37279.m3u8
+#EXTINF:-1,Premier Sports 2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/37280.m3u8
+#EXTINF:-1,MTV FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/189.m3u8
+#EXTINF:-1,MTV Base
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/188.m3u8
+#EXTINF:-1,MTV Classic
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/187.m3u8
+#EXTINF:-1,MTV Dance
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/186.m3u8
+#EXTINF:-1,MTV Hits
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/185.m3u8
+#EXTINF:-1,MTV Music
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/184.m3u8
+#EXTINF:-1,MTV Rocks
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/183.m3u8
+#EXTINF:-1,VH1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/182.m3u8
+#EXTINF:-1,G: B4U Music
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/907.m3u8
+#EXTINF:-1,G : Box Hits
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/901.m3u8
+#EXTINF:-1,G: Box Upfront
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/900.m3u8
+#EXTINF:-1,G: Chart Show TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/906.m3u8
+#EXTINF:-1,G: Clubland
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/905.m3u8
+#EXTINF:-1,G : Kerrang
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/899.m3u8
+#EXTINF:-1,G : Kiss TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/898.m3u8
+#EXTINF:-1,G : Magic
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/897.m3u8
+#EXTINF:-1,G : Now Music
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/902.m3u8
+#EXTINF:-1,G: Now 80's
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/904.m3u8
+#EXTINF:-1,G: The Box
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/896.m3u8
+#EXTINF:-1,G: The Vault
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/903.m3u8
+#EXTINF:-1,G: BBC News FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/692.m3u8
+#EXTINF:-1,G: BBC World News HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/694.m3u8
+#EXTINF:-1,G: Sky News FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/696.m3u8
+#EXTINF:-1,G: Sky News
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/695.m3u8
+#EXTINF:-1,G: Rte News
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/689.m3u8
+#EXTINF:-1,G: RT News HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/691.m3u8
+#EXTINF:-1,G: Bloomberg FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/693.m3u8
+#EXTINF:-1,G: CNBC
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/688.m3u8
+#EXTINF:-1,G: CNN
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/687.m3u8
+#EXTINF:-1,G: Euro News
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/690.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 1 CRO
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/229.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 1 SRB
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/228.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 2 CRO
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/227.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 2 SRB
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/226.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 3 CRO
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/225.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 3 SRB
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/224.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 4 CRO
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/223.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 4 SRB
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/222.m3u8
+#EXTINF:-1,3PM EPL: ARENA SPORT 5 CRO
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/221.m3u8
+#EXTINF:-1,CA : SPORTS NET 360 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/203.m3u8
+#EXTINF:-1,CA : SPORTS NET EAST HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/201.m3u8
+#EXTINF:-1,CA : SPORTS NET ONE HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/199.m3u8
+#EXTINF:-1,CA : SPORTS NET ONTARIO HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/197.m3u8
+#EXTINF:-1,CA : SPORTS NET PACIFIC HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/195.m3u8
+#EXTINF:-1,CA : SPORTS NET WEST HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/193.m3u8
+#EXTINF:-1,CA : SPORTS NET WORLD HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/191.m3u8
+#EXTINF:-1,CA: SPORTSNET 360
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/202.m3u8
+#EXTINF:-1,CA: SPORTSNET EAST
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/200.m3u8
+#EXTINF:-1,CA: SPORTSNET ONE
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/198.m3u8
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/196.m3u8
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/194.m3u8
+#EXTINF:-1,CA: SPORTSNET WEST
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/192.m3u8
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/190.m3u8
+#EXTINF:-1,G: Eleven La Liga FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/799.m3u8
+#EXTINF:-1,G: Eleven La Liga SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/803.m3u8
+#EXTINF:-1,G: Eleven Sports 1 SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/802.m3u8
+#EXTINF:-1,G Eleven Sports 2 FHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/800.m3u8
+#EXTINF:-1,G: Eleven Sports 2 SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/801.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/207.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/204.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/220.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/219.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/218.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/217.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/216.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS 6
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/215.m3u8
+#EXTINF:-1,MM: SKYNET SPORTS HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/214.m3u8
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/208.m3u8
+#EXTINF:-1,USA: FOX SPORTS 2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/205.m3u8
+#EXTINF:-1,F1 - Data Channel
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2808.m3u8
+#EXTINF:-1,F1 - Driver Tracker Channel
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2807.m3u8
+#EXTINF:-1,F1 - Pit Lane Channel
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2806.m3u8
+#EXTINF:-1,F1 - Practise / Qualifying / Main Race
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2809.m3u8
+#EXTINF:-1,F1 TV : Alexander Albon Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2792.m3u8
+#EXTINF:-1,F1 TV : Daniel Ricciardo Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2794.m3u8
+#EXTINF:-1,F1 TV : George Russell Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2788.m3u8
+#EXTINF:-1,F1 TV : Lance Stroll Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2789.m3u8
+#EXTINF:-1,F1 TV : Lando Norris Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2787.m3u8
+#EXTINF:-1,F1 TV : Pierre Gasly Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2795.m3u8
+#EXTINF:-1,F1 TV : Romain Grosjean Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2791.m3u8
+#EXTINF:-1,F1 TV : Sebastian Vettel Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2790.m3u8
+#EXTINF:-1,F1 TV : Valtteri Bottas Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2786.m3u8
+#EXTINF:-1,Formula 1 -  Sergey Sirotkin Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2798.m3u8
+#EXTINF:-1,Formula 1 - Antonio Giovinazzi Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2804.m3u8
+#EXTINF:-1,Formula 1 - Carlos Sainz Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2801.m3u8
+#EXTINF:-1,Formula 1 - Charles Leclerc Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2799.m3u8
+#EXTINF:-1,Formula 1 - Max Verstappen Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2803.m3u8
+#EXTINF:-1,Formula 1 - Nico Hulkenberg Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2805.m3u8
+#EXTINF:-1,Formula 1 - Robert Kubica Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2802.m3u8
+#EXTINF:-1,Formula 1 -Kevin Magnussen Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2800.m3u8
+#EXTINF:-1,Formula 1 -Kimi Räikkönen Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2796.m3u8
+#EXTINF:-1,Formula 1 -Lewis Hamilton Helmet Camera
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2797.m3u8
+#EXTINF:-1,Fox Soccer Match Pass 1 (Match Time Only)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2929.m3u8
+#EXTINF:-1,Fox Soccer Match Pass 2 (Match Time Only)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2928.m3u8
+#EXTINF:-1,Fox Soccer Match Pass 3 (Match Time Only)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2927.m3u8
+#EXTINF:-1,Fox Soccer Match Pass 4 (Match Time Only)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2926.m3u8
+#EXTINF:-1,Fox Soccer Match Pass 5 (Match time only)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2925.m3u8
+#EXTINF:-1,MLB Extra Innings 1  AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2843.m3u8
+#EXTINF:-1,MLB Extra Innings 1 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2842.m3u8
+#EXTINF:-1,MLB Extra Innings 2 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2827.m3u8
+#EXTINF:-1,MLB Extra Innings 2 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2826.m3u8
+#EXTINF:-1,MLB Extra Innings 3 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2825.m3u8
+#EXTINF:-1,MLB Extra Innings 3 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2824.m3u8
+#EXTINF:-1,MLB Extra Innings 4 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2823.m3u8
+#EXTINF:-1,MLB Extra Innings 4 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2822.m3u8
+#EXTINF:-1,MLB Extra Innings 5 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2821.m3u8
+#EXTINF:-1,MLB Extra Innings 5 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2820.m3u8
+#EXTINF:-1,MLB Extra Innings 6 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2819.m3u8
+#EXTINF:-1,MLB Extra Innings 6 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2818.m3u8
+#EXTINF:-1,MLB Extra Innings 7 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2817.m3u8
+#EXTINF:-1,MLB Extra Innings 7 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2816.m3u8
+#EXTINF:-1,MLB Extra Innings 8 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2815.m3u8
+#EXTINF:-1,MLB Extra Innings 8 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2814.m3u8
+#EXTINF:-1,MLB Extra Innings 9 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2813.m3u8
+#EXTINF:-1,MLB Extra Innings 9 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2812.m3u8
+#EXTINF:-1,MLB Extra Innings 10 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2841.m3u8
+#EXTINF:-1,MLB Extra Innings 10 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2840.m3u8
+#EXTINF:-1,MLB Extra Innings 11 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2839.m3u8
+#EXTINF:-1,MLB Extra Innings 11 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2838.m3u8
+#EXTINF:-1,MLB Extra Innings 12 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2837.m3u8
+#EXTINF:-1,MLB Extra Innings 12 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2836.m3u8
+#EXTINF:-1,MLB Extra Innings 13 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2835.m3u8
+#EXTINF:-1,MLB Extra Innings 13 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2834.m3u8
+#EXTINF:-1,MLB Extra Innings 14 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2833.m3u8
+#EXTINF:-1,MLB Extra Innings 14 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2832.m3u8
+#EXTINF:-1,MLB Extra Innings 15 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2831.m3u8
+#EXTINF:-1,MLB Extra Innings 15 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2830.m3u8
+#EXTINF:-1,MLB Extra Innings 16 AWAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2829.m3u8
+#EXTINF:-1,MLB Extra Innings 16 HOME
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2828.m3u8
+#EXTINF:-1,NBA PASS 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2924.m3u8
+#EXTINF:-1,NBA PASS 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2920.m3u8
+#EXTINF:-1,NBA PASS 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2919.m3u8
+#EXTINF:-1,NBA PASS 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2918.m3u8
+#EXTINF:-1,NBA PASS 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2917.m3u8
+#EXTINF:-1,NBA PASS 6
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2916.m3u8
+#EXTINF:-1,NBA PASS 7
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2915.m3u8
+#EXTINF:-1,NBA PASS 8
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2914.m3u8
+#EXTINF:-1,NBA PASS 9
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2913.m3u8
+#EXTINF:-1,NBA PASS 10
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2923.m3u8
+#EXTINF:-1,NBA PASS 11
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2922.m3u8
+#EXTINF:-1,NBA PASS 12
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2921.m3u8
+#EXTINF:-1,NBA PASS 13
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2811.m3u8
+#EXTINF:-1,NBA PASS 14
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2810.m3u8
+#EXTINF:-1,NBC Sports Bay Area
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2912.m3u8
+#EXTINF:-1,NBC Sports Boston
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2911.m3u8
+#EXTINF:-1,NBC Sports California
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2910.m3u8
+#EXTINF:-1,NBC Sports Chicago
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2909.m3u8
+#EXTINF:-1,NBC Sports Network HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2908.m3u8
+#EXTINF:-1,NBC Sports Northwest
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2907.m3u8
+#EXTINF:-1,NBC Sports Philadelphia
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2906.m3u8
+#EXTINF:-1,NFL Arena 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2905.m3u8
+#EXTINF:-1,NFL Arena 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2898.m3u8
+#EXTINF:-1,NFL Arena 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2897.m3u8
+#EXTINF:-1,NFL Arena 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2896.m3u8
+#EXTINF:-1,NFL Arena 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2895.m3u8
+#EXTINF:-1,NFL Arena 6:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2894.m3u8
+#EXTINF:-1,NFL Arena 7:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2893.m3u8
+#EXTINF:-1,NFL Arena 8:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2892.m3u8
+#EXTINF:-1,NFL Arena 9:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2891.m3u8
+#EXTINF:-1,NFL Arena 10:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2904.m3u8
+#EXTINF:-1,NFL Arena 11:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2903.m3u8
+#EXTINF:-1,NFL Arena 12:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2902.m3u8
+#EXTINF:-1,NFL Arena 13:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2901.m3u8
+#EXTINF:-1,NFL Arena 14:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2900.m3u8
+#EXTINF:-1,NFL Arena 15:
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2899.m3u8
+#EXTINF:-1,NHL PASS HD 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2890.m3u8
+#EXTINF:-1,NHL PASS HD 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2885.m3u8
+#EXTINF:-1,NHL PASS HD 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2884.m3u8
+#EXTINF:-1,NHL PASS HD 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2883.m3u8
+#EXTINF:-1,NHL PASS HD 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2882.m3u8
+#EXTINF:-1,NHL PASS HD 6
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2881.m3u8
+#EXTINF:-1,NHL PASS HD 7
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2880.m3u8
+#EXTINF:-1,NHL PASS HD 8
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2879.m3u8
+#EXTINF:-1,NHL PASS HD 9
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2878.m3u8
+#EXTINF:-1,NHL PASS HD 10
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2889.m3u8
+#EXTINF:-1,NHL PASS HD 11
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2888.m3u8
+#EXTINF:-1,NHL PASS HD 12
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2887.m3u8
+#EXTINF:-1,NHL PASS HD 13
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2886.m3u8
+#EXTINF:-1,USA : ESPN (E)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2877.m3u8
+#EXTINF:-1,USA : ESPN 2 (E)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2876.m3u8
+#EXTINF:-1,USA : ESPN NEWS (E)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2875.m3u8
+#EXTINF:-1,USA : ESPN PLUS 01
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2874.m3u8
+#EXTINF:-1,USA : ESPN PLUS 02
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2873.m3u8
+#EXTINF:-1,USA : ESPN PLUS 03
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2872.m3u8
+#EXTINF:-1,USA : ESPN PLUS 04
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2871.m3u8
+#EXTINF:-1,USA : ESPN PLUS 05
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2870.m3u8
+#EXTINF:-1,USA : ESPN PLUS 06
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2869.m3u8
+#EXTINF:-1,USA : ESPN PLUS 07
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2868.m3u8
+#EXTINF:-1,USA : ESPN PLUS 08
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2867.m3u8
+#EXTINF:-1,USA : ESPN PLUS 09
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2866.m3u8
+#EXTINF:-1,USA : ESPN PLUS 10
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2865.m3u8
+#EXTINF:-1,USA : ESPN PLUS 11
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2864.m3u8
+#EXTINF:-1,USA : ESPN PLUS 12
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2863.m3u8
+#EXTINF:-1,USA : ESPN PLUS 13
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2862.m3u8
+#EXTINF:-1,USA : ESPN PLUS 14
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2861.m3u8
+#EXTINF:-1,USA : ESPN PLUS 15
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2860.m3u8
+#EXTINF:-1,USA : ESPN PLUS 16
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2859.m3u8
+#EXTINF:-1,USA : ESPN PLUS 17
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2858.m3u8
+#EXTINF:-1,USA : ESPN PLUS 18
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2857.m3u8
+#EXTINF:-1,USA : ESPN PLUS 19
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2856.m3u8
+#EXTINF:-1,USA : ESPN PLUS 20
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2855.m3u8
+#EXTINF:-1,USA : ESPN U (E)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2854.m3u8
+#EXTINF:-1,USA: ESPN COLLEGE EXTRA 1 | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2853.m3u8
+#EXTINF:-1,USA: ESPN COLLEGE EXTRA 2 | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2852.m3u8
+#EXTINF:-1,USA: ESPN COLLEGE EXTRA 3 | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2851.m3u8
+#EXTINF:-1,USA: ESPN COLLEGE EXTRA 4 | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2850.m3u8
+#EXTINF:-1,USA: ESPN COLLEGE EXTRA 5 | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2849.m3u8
+#EXTINF:-1,USA: ESPN COLLEGE EXTRA 6 | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2848.m3u8
+#EXTINF:-1,USA: ESPN HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2847.m3u8
+#EXTINF:-1,USA: ESPN U
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2846.m3u8
+#EXTINF:-1,USA: ESPN U HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2845.m3u8
+#EXTINF:-1,USA: WORLD FISHING NETWORK
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/2844.m3u8
+#EXTINF:-1,AFL 24/7 | UHD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3343.m3u8
+#EXTINF:-1,AFL LIVE 1 | UHD: Richmond Tigers Richmond v Collingwood Magpies Collingwood (Thu 28/03 8:20AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3342.m3u8
+#EXTINF:-1,AFL LIVE 2 | UHD: Sydney Swans Sydney v Adelaide Crows Adelaide (Fri 29/03 8:50AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3341.m3u8
+#EXTINF:-1,AFL LIVE 3 | UHD: Essendon Bombers Essendon v St Kilda Saints St Kilda (Sat 30/03 5:35AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3340.m3u8
+#EXTINF:-1,AFL LIVE 4 | UHD: Port Adelaide Power Port Adelaide v Carlton Blues Carlton (Sat 30/03 6:10AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3339.m3u8
+#EXTINF:-1,AFL LIVE 5 | UHD: Geelong Cats Geelong v Melbourne Demons Melbourne (Sat 30/03 8:25AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3338.m3u8
+#EXTINF:-1,AFL LIVE 6 | UHD: West Coast Eagles West Coast v Greater Western Sydney Giants Greater Western Sydney (Sat 30/03 9:10AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3337.m3u8
+#EXTINF:-1,AFL LIVE 7 | UHD: North Melbourne Kangaroos North Melbourne v Brisbane Lions Brisbane (Sun 31/03 2:10AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3336.m3u8
+#EXTINF:-1,AFL LIVE 8 | UHD: Hawthorn Hawks Hawthorn v Western Bulldogs Bulldogs (Sun 31/03 4:20AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3335.m3u8
+#EXTINF:-1,AFL LIVE 9 | UHD: Gold Coast Suns Gold Coast v Fremantle Dockers Fremantle (Sun 31/03 5:40AM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3334.m3u8
+#EXTINF:-1,Betfred TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3263.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Flat Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3262.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3261.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Grand National}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3260.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Greyhounds}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3259.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Match Day}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3258.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Motor Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3257.m3u8
+#EXTINF:-1,Boyle Sports {Virtual National Hunt}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3256.m3u8
+#EXTINF:-1,Boyle Sports {Virtual Rush Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3255.m3u8
+#EXTINF:-1,iFollow | EFL 1: Aston Villa v Blackburn Rovers (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3044.m3u8
+#EXTINF:-1,iFollow | EFL 2: Swansea City vs Brentford (02/04-7:45PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3040.m3u8
+#EXTINF:-1,iFollow | EFL 3: Ipswich Town v Hull City (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3039.m3u8
+#EXTINF:-1,iFollow | EFL 4: Leeds United v Millwall (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3038.m3u8
+#EXTINF:-1,iFollow | EFL 5: Nottingham Forest v Swansea City (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3037.m3u8
+#EXTINF:-1,iFollow | EFL 6: QPR v Bolton Wanderers (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3036.m3u8
+#EXTINF:-1,iFollow | EFL 7: Reading v Preston North End (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3035.m3u8
+#EXTINF:-1,iFollow | EFL 8: Sheffield United v Bristol City (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3034.m3u8
+#EXTINF:-1,iFollow | EFL 9: Stoke City v Sheffield Wednesday (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3033.m3u8
+#EXTINF:-1,iFollow | EFL 10: Wigan Athletic v Brentford (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3054.m3u8
+#EXTINF:-1,iFollow | EFL 11: Middlesbrough v Norwich City (30/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3053.m3u8
+#EXTINF:-1,iFollow | EFL 12: Grimsby Town v Northampton (16/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3052.m3u8
+#EXTINF:-1,iFollow | EFL 13: Peterborough v Coventry City (16/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3051.m3u8
+#EXTINF:-1,iFollow | EFL 14: Bristol Rovers v Charlton (16/03-3PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3050.m3u8
+#EXTINF:-1,iFollow | EFL 15: NO GAMES TODAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3049.m3u8
+#EXTINF:-1,iFollow | EFL 16: NO GAMES TODAY
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3048.m3u8
+#EXTINF:-1,iFollow | EFL 17: OXFORD UNITED GAMES
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3047.m3u8
+#EXTINF:-1,iFollow | EFL 18: BRADFORD CITY GAMES
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3046.m3u8
+#EXTINF:-1,iFollow | EFL 19: LINCOLN CITY GAMES
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3045.m3u8
+#EXTINF:-1,iFollow | EFL 20: GRIMSBY TOWN GAMES
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3043.m3u8
+#EXTINF:-1,iFollow | EFL 21: BRISTOL ROVERS GAMES
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3042.m3u8
+#EXTINF:-1,iFollow | EFL 22: SUNDERLAND GAMES
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3041.m3u8
+#EXTINF:-1,Ladbrokes {Horse Racing Flats}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3252.m3u8
+#EXTINF:-1,Ladbrokes {Horse Racing Jumps}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3251.m3u8
+#EXTINF:-1,Ladbrokes {Virtual Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3250.m3u8
+#EXTINF:-1,Ladbrokes {Virtual Greyhound}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3249.m3u8
+#EXTINF:-1,Ladbrokes {Virtual Motor Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3248.m3u8
+#EXTINF:-1,Ladbrokes {Virtual Speedway}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3247.m3u8
+#EXTINF:-1,Ladbrokes TV 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3254.m3u8
+#EXTINF:-1,Ladbrokes TV 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3253.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Flat Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3112.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3111.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Grand National}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3110.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Greyhounds}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3109.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Match Day}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3108.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Motor Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3107.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual National Hunt}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3106.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Rush Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3105.m3u8
+#EXTINF:-1,UK: Boyle Sports {Virtual Speedway}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3104.m3u8
+#EXTINF:-1,UK: Ladbrokes {Horse Racing Flats}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3103.m3u8
+#EXTINF:-1,UK: Ladbrokes {Horse Racing Jumps}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3102.m3u8
+#EXTINF:-1,UK: Ladbrokes {Virtual Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3101.m3u8
+#EXTINF:-1,UK: Ladbrokes {Virtual Greyhound}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3100.m3u8
+#EXTINF:-1,UK: Ladbrokes {Virtual Motor Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3099.m3u8
+#EXTINF:-1,UK: Ladbrokes {Virtual Speedway}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3098.m3u8
+#EXTINF:-1,UK: Paddy Power {Greyhound Racing}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3096.m3u8
+#EXTINF:-1,UK: Paddy Power {Horse Racing Flat}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3095.m3u8
+#EXTINF:-1,UK: Paddy Power {Horse Racing Jumps}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3094.m3u8
+#EXTINF:-1,UK: Paddy Power {Horse Racing Sprint}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3093.m3u8
+#EXTINF:-1,UK: Paddy Power {Motor Sports}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3092.m3u8
+#EXTINF:-1,UK: Paddy Power {Super League Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3091.m3u8
+#EXTINF:-1,UK: Paddy Power {World Cup Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3090.m3u8
+#EXTINF:-1,UK: PADDY POWER | SD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3097.m3u8
+#EXTINF:-1,UK: SIS One
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3089.m3u8
+#EXTINF:-1,UK: SIS Two
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3088.m3u8
+#EXTINF:-1,UK William HILL
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3113.m3u8
+#EXTINF:-1,William Hill {Betting TV}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3080.m3u8
+#EXTINF:-1,William Hill {Greyhound Flats}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3079.m3u8
+#EXTINF:-1,William Hill {Greyhound Jumps}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3078.m3u8
+#EXTINF:-1,William Hill {Horse Racing Flats}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3077.m3u8
+#EXTINF:-1,William Hill {Horse Racing Jumps}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3076.m3u8
+#EXTINF:-1,William Hill {Virtual Football}
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3075.m3u8
+#EXTINF:-1,William Hill TV1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3082.m3u8
+#EXTINF:-1,William Hill TV2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3081.m3u8
+#EXTINF:-1,WILLOW 1: VIVO IPL 2019 - Indian Premier League : 15th Match - Mumbai Indians vs Chennai Super Kings (Wed 03/04 3:15PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3086.m3u8
+#EXTINF:-1,WILLOW 2: Pakistan Super League 2019 : Qualifier - TBC vs TBC (Wed 13 Mar 3:45PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3085.m3u8
+#EXTINF:-1,WILLOW 3: Pakistan Super League 2019 : 30th Match - Lahore Qalandars vs Multan Sultans (Sun 10 Mar 3:45PM) GMT
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3084.m3u8
+#EXTINF:-1,WILLOW 4: Pakistan Super League 2019 : 10th Match - Lahore Qalandars vs Multan Sultans (Fri 22 Feb 11:15am) GMT
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3083.m3u8
+#EXTINF:-1,WILLOW 05: Pakistan Super League 2019 : 11th Match - Islamabad United vs Peshawar Zalmi (Fri 22 Feb 3:45PM GMT)
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/3087.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 1 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/47.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/46.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 3 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/45.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 4 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/44.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 5 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/43.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 6 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/42.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 7 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/41.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 8 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/40.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 9 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/39.m3u8
+#EXTINF:-1,USA: NBC GOLD EPL 10 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/38.m3u8
+#EXTINF:-1,USA: NBC GOLD PL MOSAIC HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/37.m3u8
+#EXTINF:-1,TSN HD 1
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/59.m3u8
+#EXTINF:-1,TSN HD 2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/58.m3u8
+#EXTINF:-1,TSN HD 3
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/57.m3u8
+#EXTINF:-1,TSN HD 4
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/56.m3u8
+#EXTINF:-1,TSN HD 5
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/55.m3u8
+#EXTINF:-1,A and E HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/258.m3u8
+#EXTINF:-1,AMC
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/246.m3u8
+#EXTINF:-1,Animal Planet US
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/245.m3u8
+#EXTINF:-1,CA : Lifetime HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/241.m3u8
 #EXTINF:-1,CBS
-http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
-#EXTINF:-1,CBSN  HD
-http://voxtv.dynns.com:8000/live/USA/USA/2265.m3u8
-#EXTINF:-1,CINEMAX 5
-http://voxtv.dynns.com:8000/live/USA/USA/2271.m3u8
-#EXTINF:-1,CINEMAX ACTION HD
-http://voxtv.dynns.com:8000/live/USA/USA/2272.m3u8
-#EXTINF:-1,CINEMAX ACTIONMAX EAST
-http://voxtv.dynns.com:8000/live/USA/USA/2273.m3u8
-#EXTINF:-1,CINEMAX EAST
-http://voxtv.dynns.com:8000/live/USA/USA/2274.m3u8
-#EXTINF:-1,CINEMAX MOREMAX
-http://voxtv.dynns.com:8000/live/USA/USA/2275.m3u8
-#EXTINF:-1,C N B C
-http://voxtv.dynns.com:8000/live/USA/USA/2266.m3u8
-#EXTINF:-1,CNN HD
-http://voxtv.dynns.com:8000/live/USA/USA/2267.m3u8
-#EXTINF:-1,UK - COMEDY CENTRAL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2276.m3u8
-#EXTINF:-1,CW HD
-http://voxtv.dynns.com:8000/live/USA/USA/2268.m3u8
-#EXTINF:-1,CW11
-http://voxtv.dynns.com:8000/live/USA/USA/2269.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://voxtv.dynns.com:8000/live/USA/USA/2280.m3u8
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://voxtv.dynns.com:8000/live/USA/USA/2279.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2281.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY
-http://voxtv.dynns.com:8000/live/USA/USA/2282.m3u8
-#EXTINF:-1,DIY NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2277.m3u8
-#EXTINF:-1,DW
-http://voxtv.dynns.com:8000/live/USA/USA/2278.m3u8
-#EXTINF:-1,ESPN  1
-http://voxtv.dynns.com:8000/live/USA/USA/2283.m3u8
-#EXTINF:-1,ESPN 2
-http://voxtv.dynns.com:8000/live/USA/USA/2284.m3u8
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/239.m3u8
+#EXTINF:-1,CINEMAX HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/257.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/237.m3u8
 #EXTINF:-1,ESPN HD
-http://voxtv.dynns.com:8000/live/USA/USA/2285.m3u8
-#EXTINF:-1,STARZ CINEMA
-http://voxtv.dynns.com:8000/live/USA/USA/2337.m3u8
-#EXTINF:-1,STARZ COMEDY
-http://voxtv.dynns.com:8000/live/USA/USA/2338.m3u8
-#EXTINF:-1,STARZ EDGE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2339.m3u8
-#EXTINF:-1,STARZ ENCORE
-http://voxtv.dynns.com:8000/live/USA/USA/2340.m3u8
-#EXTINF:-1,SyFy HD
-http://voxtv.dynns.com:8000/live/USA/USA/2341.m3u8
-#EXTINF:-1,TBS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2342.m3u8
-#EXTINF:-1,TNT HD
-http://voxtv.dynns.com:8000/live/USA/USA/2343.m3u8
-#EXTINF:-1,TSN 1 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2344.m3u8
-#EXTINF:-1,TSN 2 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2345.m3u8
-#EXTINF:-1,TSN 3 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2346.m3u8
-#EXTINF:-1,TSN 4 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2347.m3u8
-#EXTINF:-1,Network HD
-http://voxtv.dynns.com:8000/live/USA/USA/2349.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://voxtv.dynns.com:8000/live/USA/USA/2350.m3u8
-#EXTINF:-1,WWE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2351.m3u8
-#EXTINF:-1,Nick
-http://voxtv.dynns.com:8000/live/USA/USA/6101.m3u8
-#EXTINF:-1,Travel Channel
-http://voxtv.dynns.com:8000/live/USA/USA/6100.m3u8
-#EXTINF:-1,FASHION ONE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2290.m3u8
-#EXTINF:-1,FIGHT HD
-http://voxtv.dynns.com:8000/live/USA/USA/2291.m3u8
-#EXTINF:-1,FIGHT SPORTS
-http://voxtv.dynns.com:8000/live/USA/USA/2292.m3u8
-#EXTINF:-1,FINE LIVING
-http://voxtv.dynns.com:8000/live/USA/USA/2293.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://voxtv.dynns.com:8000/live/USA/USA/2294.m3u8
-#EXTINF:-1,FOX 43
-http://voxtv.dynns.com:8000/live/USA/USA/2286.m3u8
-#EXTINF:-1,FOX HD
-http://voxtv.dynns.com:8000/live/USA/USA/2299.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2295.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2296.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2297.m3u8
-#EXTINF:-1,FOX SPORTS 506 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2298.m3u8
-#EXTINF:-1,FREE FORM HD
-http://voxtv.dynns.com:8000/live/USA/USA/2300.m3u8
-#EXTINF:-1,FUEL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2301.m3u8
-#EXTINF:-1,FX HD
-http://voxtv.dynns.com:8000/live/USA/USA/2289.m3u8
-#EXTINF:-1,H 2
-http://voxtv.dynns.com:8000/live/USA/USA/2302.m3u8
-#EXTINF:-1,HALLMARK
-http://voxtv.dynns.com:8000/live/USA/USA/2311.m3u8
-#EXTINF:-1,HBO COMEDY
-http://voxtv.dynns.com:8000/live/USA/USA/2303.m3u8
-#EXTINF:-1,HBO EAST
-http://voxtv.dynns.com:8000/live/USA/USA/2304.m3u8
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/236.m3u8
+#EXTINF:-1,Fox HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/306.m3u8
+#EXTINF:-1,FOX News
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/235.m3u8
+#EXTINF:-1,Fox
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/305.m3u8
+#EXTINF:-1,NBA TV
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/232.m3u8
+#EXTINF:-1,NBC Golf
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/231.m3u8
+#EXTINF:-1,NBCSN HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/230.m3u8
+#EXTINF:-1,NFL Network
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/262.m3u8
+#EXTINF:-1,NHL NETWORK HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/254.m3u8
+#EXTINF:-1,Nickelodeon US
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/261.m3u8
+#EXTINF:-1,USA : H2
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/256.m3u8
+#EXTINF:-1,USA HISTORY HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/248.m3u8
+#EXTINF:-1,USA: USA NETWORK
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/251.m3u8
+#EXTINF:-1,HBO (East) | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5628.m3u8
+#EXTINF:-1,HBO (East) | HD*
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5629.m3u8
+#EXTINF:-1,HBO (West) | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5630.m3u8
+#EXTINF:-1,HBO | HD
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5631.m3u8
+#EXTINF:-1,HBO | HD*
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5632.m3u8
 #EXTINF:-1,HBO HD
-http://voxtv.dynns.com:8000/live/USA/USA/2305.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://voxtv.dynns.com:8000/live/USA/USA/2306.m3u8
-#EXTINF:-1,HBO ZONE
-http://voxtv.dynns.com:8000/live/USA/USA/2307.m3u8
-#EXTINF:-1,HGTV HD
-http://voxtv.dynns.com:8000/live/USA/USA/2308.m3u8
-#EXTINF:-1,HIFI
-http://voxtv.dynns.com:8000/live/USA/USA/2309.m3u8
-#EXTINF:-1,HISTORY HD
-http://voxtv.dynns.com:8000/live/USA/USA/2312.m3u8
-#EXTINF:-1,HSN YT LIVE 1080P HD
-http://voxtv.dynns.com:8000/live/USA/USA/2310.m3u8
-#EXTINF:-1,MBL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2313.m3u8
-#EXTINF:-1,MLB NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2314.m3u8
-#EXTINF:-1,MSNBC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2315.m3u8
-#EXTINF:-1,MTV ROCKS
-http://voxtv.dynns.com:8000/live/USA/USA/2316.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://voxtv.dynns.com:8000/live/USA/USA/2323.m3u8
-#EXTINF:-1,NBA HD
-http://voxtv.dynns.com:8000/live/USA/USA/2317.m3u8
-#EXTINF:-1,NBC
-http://voxtv.dynns.com:8000/live/USA/USA/2318.m3u8
-#EXTINF:-1,CBSN HD
-http://voxtv.dynns.com:8000/live/USA/USA/2319.m3u8
-#EXTINF:-1,USA Network HD
-http://voxtv.dynns.com:8000/live/USA/USA/2324.m3u8
-#EXTINF:-1,NFL NETWORK 1
-http://voxtv.dynns.com:8000/live/USA/USA/2353.m3u8
-#EXTINF:-1,NFL NETWORK 1080i
-http://voxtv.dynns.com:8000/live/USA/USA/2320.m3u8
-#EXTINF:-1,NFL NETWORK HD
-http://voxtv.dynns.com:8000/live/USA/USA/2321.m3u8
-#EXTINF:-1,NHL NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2322.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2325.m3u8
-#EXTINF:-1,PAC-12 ARIZONA
-http://voxtv.dynns.com:8000/live/USA/USA/2326.m3u8
-#EXTINF:-1,PAC-12 BAY AREA
-http://voxtv.dynns.com:8000/live/USA/USA/2327.m3u8
-#EXTINF:-1,PAC-12 LOS ANGELES
-http://voxtv.dynns.com:8000/live/USA/USA/2328.m3u8
-#EXTINF:-1,PAC-12 OREGON
-http://voxtv.dynns.com:8000/live/USA/USA/2329.m3u8
-#EXTINF:-1,PAC-12 WASHINGTON
-http://voxtv.dynns.com:8000/live/USA/USA/2330.m3u8
-#EXTINF:-1,SHOWTIME 2
-http://voxtv.dynns.com:8000/live/USA/USA/2332.m3u8
-#EXTINF:-1,SHOW TIME HD
-http://voxtv.dynns.com:8000/live/USA/USA/2333.m3u8
-#EXTINF:-1,SHOWTIME WEST
-http://voxtv.dynns.com:8000/live/USA/USA/2334.m3u8
-#EXTINF:-1,SMILE OF A CHILD
-http://voxtv.dynns.com:8000/live/USA/USA/2335.m3u8
-#EXTINF:-1,SPIKE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2336.m3u8
+http://darknetiptv.ddns.net:25461/live/finbar/finbar/5636.m3u8
