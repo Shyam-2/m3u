@@ -1,61 +1,45 @@
 #EXTM3U
-#EXTINF:-1,FOX
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1708.m3u8
-#EXTINF:-1,NET 5
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1702.m3u8
-#EXTINF:-1,TLC HD
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1706.m3u8
-#EXTINF:-1,SBS 6
-http://iptv.smartv.me:8000/live/ataman/ataman1234/413.m3u8
-#EXTINF:-1,SBS 9 HD
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1705.m3u8
-#EXTINF:-1,RTL4
-http://iptv.smartv.me:8000/live/ataman/ataman1234/190.m3u8
-#EXTINF:-1,RTL 5
-http://iptv.smartv.me:8000/live/ataman/ataman1234/415.m3u8
-#EXTINF:-1,RTL 7
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1703.m3u8
-#EXTINF:-1,RTL 8
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1704.m3u8
-#EXTINF:-1,RTL Z
-http://iptv.smartv.me:8000/live/ataman/ataman1234/414.m3u8
-#EXTINF:-1,NPO1
-http://iptv.smartv.me:8000/live/ataman/ataman1234/187.m3u8
-#EXTINF:-1,NPO2
-http://iptv.smartv.me:8000/live/ataman/ataman1234/188.m3u8
-#EXTINF:-1,NPO3
-http://iptv.smartv.me:8000/live/ataman/ataman1234/189.m3u8
-#EXTINF:-1,HBO3
-http://iptv.smartv.me:8000/live/ataman/ataman1234/194.m3u8
-#EXTINF:-1,HBO 2
-http://iptv.smartv.me:8000/live/ataman/ataman1234/1707.m3u8
-#EXTINF:-1,HBO1
-http://iptv.smartv.me:8000/live/ataman/ataman1234/193.m3u8
-#EXTINF:-1,RTL CRIME
-http://iptv.smartv.me:8000/live/ataman/ataman1234/196.m3u8
-#EXTINF:-1,Film1 Premiere
-http://iptv.smartv.me:8000/live/ataman/ataman1234/191.m3u8
-#EXTINF:-1,Film 1 DRAMA
-http://iptv.smartv.me:8000/live/ataman/ataman1234/560.m3u8
-#EXTINF:-1,Film 1 Comedy
-http://iptv.smartv.me:8000/live/ataman/ataman1234/562.m3u8
+#EXTINF:-1,Comedy Central
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3356.m3u8
+#EXTINF:-1,Discovery Channel
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3355.m3u8
+#EXTINF:-1,Disney Channel
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3354.m3u8
 #EXTINF:-1,Film 1 Action
-http://iptv.smartv.me:8000/live/ataman/ataman1234/563.m3u8
-#EXTINF:-1,Film 1 Spotlight
-http://iptv.smartv.me:8000/live/ataman/ataman1234/558.m3u8
-#EXTINF:-1,FILM SUNDANCE
-http://iptv.smartv.me:8000/live/ataman/ataman1234/557.m3u8
-#EXTINF:-1,Ziggo Sport Extra 1
-http://iptv.smartv.me:8000/live/ataman/ataman1234/556.m3u8
-#EXTINF:-1,Ziggo Sport Extra 2
-http://iptv.smartv.me:8000/live/ataman/ataman1234/555.m3u8
-#EXTINF:-1,FOXSPORT 5
-http://iptv.smartv.me:8000/live/ataman/ataman1234/420.m3u8
-#EXTINF:-1,FOXSPORT 4
-http://iptv.smartv.me:8000/live/ataman/ataman1234/419.m3u8
-#EXTINF:-1,FOXSPORT 3
-http://iptv.smartv.me:8000/live/ataman/ataman1234/418.m3u8
-#EXTINF:-1,FOXSPORT 2
-http://iptv.smartv.me:8000/live/ataman/ataman1234/417.m3u8
-#EXTINF:-1,FOXSPORT 1
-http://iptv.smartv.me:8000/live/ataman/ataman1234/416.m3u8
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3353.m3u8
+#EXTINF:-1,Film 1 Drama
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3352.m3u8
+#EXTINF:-1,Film 1 Sundance
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3351.m3u8
+#EXTINF:-1,Fox Sports 1
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3350.m3u8
+#EXTINF:-1,Fox Sports 2
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3349.m3u8
+#EXTINF:-1,Fox Sports 3
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3348.m3u8
+#EXTINF:-1,Fox Sports 4
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3347.m3u8
+#EXTINF:-1,Fox Sports 5
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3346.m3u8
+#EXTINF:-1,Fox Sports 6
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3345.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3344.m3u8
+#EXTINF:-1,NICKELODEON
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3342.m3u8
+#EXTINF:-1,NPO 1
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3341.m3u8
+#EXTINF:-1,NPO 2
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3340.m3u8
+#EXTINF:-1,RTL 4
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3339.m3u8
+#EXTINF:-1,RTL 5
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3338.m3u8
+#EXTINF:-1,RTL 7
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3337.m3u8
+#EXTINF:-1,RTL 8
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3336.m3u8
+#EXTINF:-1,SBS 6
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3343.m3u8
+#EXTINF:-1,Ziggo Sport Select
+http://serv1.ip4you.kim:8080/live/lyHPCYICXr/6uDrcrwGY0/3335.m3u8
