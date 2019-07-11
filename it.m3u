@@ -1,87 +1,403 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORT 1HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/688.m3u8
-#EXTINF:-1,BEIN SPORT 2HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/689.m3u8
-#EXTINF:-1,BEIN SPORT 3HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/690.m3u8
-#EXTINF:-1,CANALS CINEMA HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/681.m3u8
-#EXTINF:-1,CANAL DECALE
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/675.m3u8
-#EXTINF:-1,CANALS FAMILY HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/680.m3u8
-#EXTINF:-1,CANAL HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/674.m3u8
-#EXTINF:-1,CANAL SPORT HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/692.m3u8
-#EXTINF:-1,Cartoon Network
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/703.m3u8
-#EXTINF:-1,CINE Classic HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/686.m3u8
-#EXTINF:-1,CINE EMOTION
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/684.m3u8
-#EXTINF:-1,Canal Plus Famiz
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/683.m3u8
-#EXTINF:-1,CINE FRISSON HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/685.m3u8
-#EXTINF:-1,CINE PREMIER HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/682.m3u8
-#EXTINF:-1,COMEDIE
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/706.m3u8
+#EXTINF:-1,Cartoonito
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/6579.m3u8
+#EXTINF:-1,Discovery
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1579.m3u8
+#EXTINF:-1,Discovery Sc
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1589.m3u8
+#EXTINF:-1,Fox Crime
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1582.m3u8
+#EXTINF:-1,Fox Life
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1581.m3u8
+#EXTINF:-1,LA 5
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/6917.m3u8
+#EXTINF:-1,LA7
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1563.m3u8
+#EXTINF:-1,Mediaset 1
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1578.m3u8
+#EXTINF:-1,Mediaset 4
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1569.m3u8
+#EXTINF:-1,Mediaset 5
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1568.m3u8
+#EXTINF:-1,Mediaset Extra
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/6919.m3u8
+#EXTINF:-1,Mediaset 2
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/4381.m3u8
+#EXTINF:-1,Premium Action24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1591.m3u8
+#EXTINF:-1,Premium Crime
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1005.m3u8
+#EXTINF:-1,Premium Joi
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1004.m3u8
+#EXTINF:-1,Premium Cinema24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1574.m3u8
+#EXTINF:-1,Premium Energy
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1571.m3u8
+#EXTINF:-1,Primafila 9
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/306.m3u8
+#EXTINF:-1,Primafila1
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/298.m3u8
+#EXTINF:-1,Primafila10
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/307.m3u8
+#EXTINF:-1,Primafila2
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/299.m3u8
+#EXTINF:-1,Primafila3
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/300.m3u8
+#EXTINF:-1,Primafila4
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/301.m3u8
+#EXTINF:-1,Primafila5
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/302.m3u8
+#EXTINF:-1,Primafila6
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/303.m3u8
+#EXTINF:-1,Primafila7
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/304.m3u8
+#EXTINF:-1,Primafila8
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/305.m3u8
+#EXTINF:-1,Rai Gulp
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1562.m3u8
+#EXTINF:-1,Rai Movie
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/439.m3u8
+#EXTINF:-1,Rai Premium
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/877.m3u8
+#EXTINF:-1,Rai Scuola
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/878.m3u8
+#EXTINF:-1,Rai Storia
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/6915.m3u8
+#EXTINF:-1,Rai Sport1
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/875.m3u8
+#EXTINF:-1,Rai Sport2
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/876.m3u8
+#EXTINF:-1,Rai Yoyo
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/880.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/869.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/6580.m3u8
+#EXTINF:-1,Sky Cinema Passion
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/4383.m3u8
+#EXTINF:-1,Sky Calcio 6
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/4392.m3u8
+#EXTINF:-1,Sky Uno
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/871.m3u8
+#EXTINF:-1,Sky Cinema Cult
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/4382.m3u8
+#EXTINF:-1,Sky Cinema Max
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/868.m3u8
+#EXTINF:-1,Sky Sport 24 1
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/4385.m3u8
+#EXTINF:-1,Sky Sport F1
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1586.m3u8
+#EXTINF:-1,Sport Calcio 1
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1588.m3u8
+#EXTINF:-1,Top Crime
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/6920.m3u8
+#EXTINF:-1,Tv2000
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/1564.m3u8
+#EXTINF:-1,Mediaset 20
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23487.m3u8
+#EXTINF:-1,Rai 1 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23504.m3u8
+#EXTINF:-1,Rai 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23503.m3u8
+#EXTINF:-1,Alice Tv HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24779.m3u8
+#EXTINF:-1,Antenna 3 TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24775.m3u8
+#EXTINF:-1,Arte HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24774.m3u8
+#EXTINF:-1,AutoMoto TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24773.m3u8
+#EXTINF:-1,AXN HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24772.m3u8
+#EXTINF:-1,Bike Channel HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24771.m3u8
+#EXTINF:-1,Boing HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24770.m3u8
+#EXTINF:-1,TG 5
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24766.m3u8
+#EXTINF:-1,Canale 7
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24764.m3u8
+#EXTINF:-1,Canale 8
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24763.m3u8
+#EXTINF:-1,Dazn Sport 1 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24749.m3u8
+#EXTINF:-1,Dazn Sport 2 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24748.m3u8
+#EXTINF:-1,Dazn Sport 4 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24746.m3u8
+#EXTINF:-1,Dazn Sport 5 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24745.m3u8
+#EXTINF:-1,Dea Junior
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24735.m3u8
+#EXTINF:-1,Discovery Channal HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24731.m3u8
+#EXTINF:-1,Discovery ID
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24729.m3u8
 #EXTINF:-1,Discovery Science HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/698.m3u8
-#EXTINF:-1,Disney Channel
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/702.m3u8
-#EXTINF:-1,Disney Channel 1 HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/701.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/700.m3u8
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24727.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24726.m3u8
+#EXTINF:-1,Disney Channel HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24724.m3u8
+#EXTINF:-1,Disney Junior HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24723.m3u8
 #EXTINF:-1,Disney XD HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/699.m3u8
-#EXTINF:-1,EURO SPORT 1
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/691.m3u8
-#EXTINF:-1,FRANCE 24HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/670.m3u8
-#EXTINF:-1,FRANCE 2HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/672.m3u8
-#EXTINF:-1,FRANCE 3HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/671.m3u8
-#EXTINF:-1,FRANCE 4 HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/765.m3u8
-#EXTINF:-1,FRANCE 5 HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/764.m3u8
-#EXTINF:-1,HISTOIRE HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/696.m3u8
-#EXTINF:-1,M6 Music HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/669.m3u8
-#EXTINF:-1,MTV HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/704.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/694.m3u8
-#EXTINF:-1,NATIONAL Geo GRAPHIC
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/693.m3u8
-#EXTINF:-1,Ocs Choc HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/678.m3u8
-#EXTINF:-1,OCS CITY HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/677.m3u8
-#EXTINF:-1,Ocs Max HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/676.m3u8
-#EXTINF:-1,PIWI HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/667.m3u8
-#EXTINF:-1,PLANETE CI HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/697.m3u8
-#EXTINF:-1,PLANETE_A E_HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/695.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/687.m3u8
-#EXTINF:-1,Serie HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/679.m3u8
-#EXTINF:-1,TF1 HD
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/766.m3u8
-#EXTINF:-1,USHUAIA TV
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/673.m3u8
-#EXTINF:-1,W9
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/668.m3u8
-#EXTINF:-1,WEO
-http://abc1.myplay.live:2086/live/ABOOD/ABOOD/705.m3u8
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24722.m3u8
+#EXTINF:-1,ETV Marche
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24719.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24718.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24717.m3u8
+#EXTINF:-1,Fishing TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24710.m3u8
+#EXTINF:-1,Fox Animation HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24707.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24706.m3u8
+#EXTINF:-1,Fox Crime HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24705.m3u8
+#EXTINF:-1,Fox HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24704.m3u8
+#EXTINF:-1,Fox Life HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24703.m3u8
+#EXTINF:-1,Fox Sport HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24702.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24700.m3u8
+#EXTINF:-1,History Channel HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24698.m3u8
+#EXTINF:-1,History Lab HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24697.m3u8
+#EXTINF:-1,Julie Italia
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24692.m3u8
+#EXTINF:-1,K2
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24690.m3u8
+#EXTINF:-1,LA 5 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24688.m3u8
+#EXTINF:-1,LA 7 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24687.m3u8
+#EXTINF:-1,Lucania TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24684.m3u8
+#EXTINF:-1,Mediaset 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24678.m3u8
+#EXTINF:-1,Mediaset Iris
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24673.m3u8
+#EXTINF:-1,Milan Channel
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24669.m3u8
+#EXTINF:-1,Motor Trend HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24668.m3u8
+#EXTINF:-1,MTV 8 Musica
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24667.m3u8
+#EXTINF:-1,MTV Music
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24665.m3u8
+#EXTINF:-1,MTV Rocks HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24663.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24660.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24659.m3u8
+#EXTINF:-1,Orler TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24657.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24656.m3u8
+#EXTINF:-1,Pesca e Caccia HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24655.m3u8
+#EXTINF:-1,Premium Action 24 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24651.m3u8
+#EXTINF:-1,Premium Action ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24650.m3u8
+#EXTINF:-1,Premium Calcio 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24647.m3u8
+#EXTINF:-1,Premium Calcio 3 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24646.m3u8
+#EXTINF:-1,Premium Calcio 4 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24645.m3u8
+#EXTINF:-1,Premium Calcio 6 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24643.m3u8
+#EXTINF:-1,Premium Calcio ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24642.m3u8
+#EXTINF:-1,Premium Cinema 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24637.m3u8
+#EXTINF:-1,Premium Cinema ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24631.m3u8
+#EXTINF:-1,Premium Cinema Joi
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24630.m3u8
+#EXTINF:-1,Premium Cinema Plus 24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24629.m3u8
+#EXTINF:-1,Premium Cinema Comedy ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24627.m3u8
+#EXTINF:-1,Premium Cinema  Crime ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24625.m3u8
+#EXTINF:-1,Premium Emotion ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24619.m3u8
+#EXTINF:-1,Premium Energy 24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24618.m3u8
+#EXTINF:-1,Premium Sport 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24610.m3u8
+#EXTINF:-1,Premium Stories ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24606.m3u8
+#EXTINF:-1,Premium Studio Universal ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24605.m3u8
+#EXTINF:-1,PrimaFila 1 FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24602.m3u8
+#EXTINF:-1,Primafila 12 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24585.m3u8
+#EXTINF:-1,Primafila 13 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24584.m3u8
+#EXTINF:-1,Primafila 14 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24582.m3u8
+#EXTINF:-1,Primafila 17 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24577.m3u8
+#EXTINF:-1,Primafila 3 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24600.m3u8
+#EXTINF:-1,Primafila 5 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24597.m3u8
+#EXTINF:-1,Primafila 6 7 FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24596.m3u8
+#EXTINF:-1,PrimaFila 6 FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24595.m3u8
+#EXTINF:-1,PrimaFila 7 FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24594.m3u8
+#EXTINF:-1,PrimaFila 8 FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24593.m3u8
+#EXTINF:-1,PrimaFila 9 FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24592.m3u8
+#EXTINF:-1,Primocanale TV HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24560.m3u8
+#EXTINF:-1,Quarta Rete TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24559.m3u8
+#EXTINF:-1,Qvc
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24558.m3u8
+#EXTINF:-1,Rai 3 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24546.m3u8
+#EXTINF:-1,Rai 4 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24545.m3u8
+#EXTINF:-1,Rai 5 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24544.m3u8
+#EXTINF:-1,Rai Movie ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24542.m3u8
+#EXTINF:-1,Rai Nettuno
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24541.m3u8
+#EXTINF:-1,Universal TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24538.m3u8
+#EXTINF:-1,Rai Sport 1 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24537.m3u8
+#EXTINF:-1,Rai Sport 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24536.m3u8
+#EXTINF:-1,Real Time FHD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24531.m3u8
+#EXTINF:-1,Rete 4 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24530.m3u8
+#EXTINF:-1,RSI 1 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24522.m3u8
+#EXTINF:-1,RSI 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24521.m3u8
+#EXTINF:-1,RSI LA 1 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24520.m3u8
+#EXTINF:-1,RSI LA 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24519.m3u8
+#EXTINF:-1,Sky Arte ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24510.m3u8
+#EXTINF:-1,Sky Calcio 1 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24506.m3u8
+#EXTINF:-1,Sky Calcio 3 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24504.m3u8
+#EXTINF:-1,Sky Calcio 4 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24503.m3u8
+#EXTINF:-1,Sky Calcio 6 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24501.m3u8
+#EXTINF:-1,Sky Cartoon Network ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24497.m3u8
+#EXTINF:-1,Sky Cielo ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24496.m3u8
+#EXTINF:-1,Sky Cinema 24 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24492.m3u8
+#EXTINF:-1,Sky Cinema Classic ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24489.m3u8
+#EXTINF:-1,Sky Cinema Comedy ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24488.m3u8
+#EXTINF:-1,Sky Cinema Family ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24486.m3u8
+#EXTINF:-1,Sky Cinema Hits ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24484.m3u8
+#EXTINF:-1,Sky Cinema Passion ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24482.m3u8
+#EXTINF:-1,Sky Italia Calcio 2 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24467.m3u8
+#EXTINF:-1,Sky Sport 24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24455.m3u8
+#EXTINF:-1,Sky Sport Arena ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24454.m3u8
+#EXTINF:-1,Sky Sport Football ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24451.m3u8
+#EXTINF:-1,Sky Sport ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24448.m3u8
+#EXTINF:-1,Sky Sport Moto GP ᶠᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24446.m3u8
+#EXTINF:-1,Sky Sport Serie A ᶠᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24444.m3u8
+#EXTINF:-1,Sky Sport Uno ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24443.m3u8
+#EXTINF:-1,Sky Super Calcio ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24442.m3u8
+#EXTINF:-1,Sky TG 24 ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24441.m3u8
+#EXTINF:-1,Sky TG24 Active
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24440.m3u8
+#EXTINF:-1,Sky Uno ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24439.m3u8
+#EXTINF:-1,Spike
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24438.m3u8
+#EXTINF:-1,Sport Italia HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24436.m3u8
+#EXTINF:-1,Studio 100
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24435.m3u8
+#EXTINF:-1,Super Tennis HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24431.m3u8
+#EXTINF:-1,Super!
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24430.m3u8
+#EXTINF:-1,Tele Arena Siena
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24427.m3u8
+#EXTINF:-1,Tele Boario
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24425.m3u8
+#EXTINF:-1,Tele Monte Neve 3
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24420.m3u8
+#EXTINF:-1,Tele Padova Telecitt
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24419.m3u8
+#EXTINF:-1,Tele Ticino HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24415.m3u8
+#EXTINF:-1,TeleMIa
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24413.m3u8
+#EXTINF:-1,Tele Norba TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24412.m3u8
+#EXTINF:-1,Tele Romagna
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24409.m3u8
+#EXTINF:-1,Tele Romagna News
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24408.m3u8
+#EXTINF:-1,Tele Venezia
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24405.m3u8
+#EXTINF:-1,TG24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24400.m3u8
+#EXTINF:-1,Trentino TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24396.m3u8
+#EXTINF:-1,TV 2000 HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24392.m3u8
+#EXTINF:-1,TV Avicenza
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24391.m3u8
+#EXTINF:-1,TVRS HD
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24388.m3u8
+#EXTINF:-1,Umbria TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24387.m3u8
+#EXTINF:-1,Vera TV
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24385.m3u8
+#EXTINF:-1,Vetrina Primafila
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/24383.m3u8
+#EXTINF:-1,LA7D
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23510.m3u8
+#EXTINF:-1,TG Com24
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23508.m3u8
+#EXTINF:-1,Rai Premium ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23496.m3u8
+#EXTINF:-1,Rai Scuola ᴴᴰ
+http://4ever.biz:80/live/T4A7Pn5YEE/baCU1k76bh/23495.m3u8
