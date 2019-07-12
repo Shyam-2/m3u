@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16560.m3u8
-#EXTINF:-1,RTP 1 HD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16561.m3u8
-#EXTINF:-1,RTP 2 HD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16558.m3u8
-#EXTINF:-1,RTP 2
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16559.m3u8
-#EXTINF:-1,RTP Açores
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16553.m3u8
-#EXTINF:-1,RTP África
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16555.m3u8
-#EXTINF:-1,RTP Internacional
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16556.m3u8
-#EXTINF:-1,RTP Madeira
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16554.m3u8
-#EXTINF:-1,RTP Memória
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16557.m3u8
-#EXTINF:-1,SIC Caras HD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16546.m3u8
-#EXTINF:-1,SIC Caras
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16547.m3u8
-#EXTINF:-1,SIC FHD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16551.m3u8
-#EXTINF:-1,SIC Mulher
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16548.m3u8
-#EXTINF:-1,SIC
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16552.m3u8
-#EXTINF:-1,SIC Radical HD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16549.m3u8
-#EXTINF:-1,SIC Radical
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16550.m3u8
-#EXTINF:-1,TV Globo Portugal
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16541.m3u8
-#EXTINF:-1,TV Globo Premium FHD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16539.m3u8
-#EXTINF:-1,TV Globo Premium
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16540.m3u8
-#EXTINF:-1,TV Record
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16538.m3u8
-#EXTINF:-1,TVI FHD
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16544.m3u8
-#EXTINF:-1,TVI Ficção
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16543.m3u8
-#EXTINF:-1,TVI
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16545.m3u8
-#EXTINF:-1,TVI Reality
-http://213.239.209.144:80/live/9Sb7dwJaRP/BDSAYxE3SC/16542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 FHD PT" tvg-logo="" group-title="PORTUGAL",RTP 1 FHD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD PT" tvg-logo="" group-title="PORTUGAL",RTP 1 HD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD PT" tvg-logo="" group-title="PORTUGAL",RTP 2 HD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 PT" tvg-logo="" group-title="PORTUGAL",RTP 2 PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Açores PT" tvg-logo="" group-title="PORTUGAL",RTP Açores PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP África PT" tvg-logo="" group-title="PORTUGAL",RTP África PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional PT" tvg-logo="" group-title="PORTUGAL",RTP Internacional PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Madeira PT" tvg-logo="" group-title="PORTUGAL",RTP Madeira PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memória PT" tvg-logo="" group-title="PORTUGAL",RTP Memória PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras HD PT" tvg-logo="" group-title="PORTUGAL",SIC Caras HD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras PT" tvg-logo="" group-title="PORTUGAL",SIC Caras PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC FHD PT" tvg-logo="" group-title="PORTUGAL",SIC FHD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher PT" tvg-logo="" group-title="PORTUGAL",SIC Mulher PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC PT" tvg-logo="" group-title="PORTUGAL",SIC PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical HD PT" tvg-logo="" group-title="PORTUGAL",SIC Radical HD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical PT" tvg-logo="" group-title="PORTUGAL",SIC Radical PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Portugal PT" tvg-logo="" group-title="PORTUGAL",TV Globo Portugal PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Premium FHD PT" tvg-logo="" group-title="PORTUGAL",TV Globo Premium FHD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Premium PT" tvg-logo="" group-title="PORTUGAL",TV Globo Premium PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Record PT" tvg-logo="" group-title="PORTUGAL",TV Record PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI FHD PT" tvg-logo="" group-title="PORTUGAL",TVI FHD PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção PT" tvg-logo="" group-title="PORTUGAL",TVI Ficção PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI PT" tvg-logo="" group-title="PORTUGAL",TVI PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality PT" tvg-logo="" group-title="PORTUGAL",TVI Reality PT
+http://snaptv.live:80/live/9Sb7dwJaRP/BDSAYxE3SC/16542.m3u8
