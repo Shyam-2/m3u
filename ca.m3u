@@ -1,551 +1,341 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://secure.serkom.eu:80/nebi/19072018/26523
-#EXTINF:-1,A&E SD
-http://secure.serkom.eu:80/nebi/19072018/26522
+#EXTINF:-1,A&E | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5147.m3u8
+#EXTINF:-1,A&E | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83093.m3u8
 #EXTINF:-1,ABC (West) | HD
-http://secure.serkom.eu:80/nebi/19072018/26521
-#EXTINF:-1,ABC | HD
-http://secure.serkom.eu:80/nebi/19072018/26520
-#EXTINF:-1,ABC HD
-http://secure.serkom.eu:80/nebi/19072018/26538
-#EXTINF:-1,ABC SPARK
-http://secure.serkom.eu:80/nebi/19072018/26537
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5146.m3u8
 #EXTINF:-1,ABC SPARK | HD
-http://secure.serkom.eu:80/nebi/19072018/26519
-#EXTINF:-1,ABC SPARK | SD
-http://secure.serkom.eu:80/nebi/19072018/26518
-#EXTINF:-1,ACTION
-http://secure.serkom.eu:80/nebi/19072018/26574
-#EXTINF:-1,ALJAZEERA NEWS | HD
-http://secure.serkom.eu:80/nebi/19072018/26517
-#EXTINF:-1,AMC | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26515
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5145.m3u8
+#EXTINF:-1,ACTION | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5143.m3u8
 #EXTINF:-1,AMC | HD
-http://secure.serkom.eu:80/nebi/19072018/26516
-#EXTINF:-1,AMC FHD
-http://secure.serkom.eu:80/nebi/19072018/26573
-#EXTINF:-1,ANIMAL PLANET HD
-http://secure.serkom.eu:80/nebi/19072018/26567
-#EXTINF:-1,ANIMAL PLANET HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26566
-#EXTINF:-1,ANIMAL PLANET SD
-http://secure.serkom.eu:80/nebi/19072018/26565
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5141.m3u8
+#EXTINF:-1,AMC | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83092.m3u8
+#EXTINF:-1,ANIMAL PLANET | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5140.m3u8
 #EXTINF:-1,BBC CANADA | SD
-http://secure.serkom.eu:80/nebi/19072018/26514
-#EXTINF:-1,BBC EARTH | HD
-http://secure.serkom.eu:80/nebi/19072018/26513
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83091.m3u8
 #EXTINF:-1,BBC NEWS | HD
-http://secure.serkom.eu:80/nebi/19072018/26512
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5136.m3u8
 #EXTINF:-1,BBC WORLD NEWS | SD
-http://secure.serkom.eu:80/nebi/19072018/26511
-#EXTINF:-1,BBC WORLD NEWS HD
-http://secure.serkom.eu:80/nebi/19072018/26536
-#EXTINF:-1,BNN | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26509
-#EXTINF:-1,BNN | HD
-http://secure.serkom.eu:80/nebi/19072018/26510
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5135.m3u8
+#EXTINF:-1,BET HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5134.m3u8
 #EXTINF:-1,BOOMERANG | HD
-http://secure.serkom.eu:80/nebi/19072018/26584
-#EXTINF:-1,BRAVO | HD
-http://secure.serkom.eu:80/nebi/19072018/26508
-#EXTINF:-1,Breakfast Television Calgary (5-10am)
-http://secure.serkom.eu:80/nebi/19072018/26507
-#EXTINF:-1,Breakfast Television Montreal (5-10am)
-http://secure.serkom.eu:80/nebi/19072018/26506
-#EXTINF:-1,Breakfast Television Toronto (5-10am)
-http://secure.serkom.eu:80/nebi/19072018/26505
-#EXTINF:-1,CANADIAN ARAB TV | HD
-http://secure.serkom.eu:80/nebi/19072018/26504
-#EXTINF:-1,CANAL SAVOIR (F) SD
-http://secure.serkom.eu:80/nebi/19072018/26503
-#EXTINF:-1,CARTOON NETWORK  HD*
-http://secure.serkom.eu:80/nebi/19072018/26502
-#EXTINF:-1,CARTOON NETWORK HD
-http://secure.serkom.eu:80/nebi/19072018/26586
-#EXTINF:-1,CBC CALGARY | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26500
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5132.m3u8
+#EXTINF:-1,BNN | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/41897.m3u8
+#EXTINF:-1,CITY TV HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5129.m3u8
+#EXTINF:-1,CARTOON NETWORK  HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5125.m3u8
 #EXTINF:-1,CBC CALGARY | HD
-http://secure.serkom.eu:80/nebi/19072018/26501
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5124.m3u8
+#EXTINF:-1,CBC CALGARY | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83089.m3u8
 #EXTINF:-1,CBC CHARLOTTETOWN | HD
-http://secure.serkom.eu:80/nebi/19072018/26499
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5123.m3u8
 #EXTINF:-1,CBC EDMONTON | HD
-http://secure.serkom.eu:80/nebi/19072018/26498
-#EXTINF:-1,CBC FEDERICTON | HD
-http://secure.serkom.eu:80/nebi/19072018/26497
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5122.m3u8
 #EXTINF:-1,CBC FREDERICTON | HD
-http://secure.serkom.eu:80/nebi/19072018/26496
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5121.m3u8
 #EXTINF:-1,CBC FRENCH | HD
-http://secure.serkom.eu:80/nebi/19072018/26495
-#EXTINF:-1,CBC HALIFAX | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26493
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83088.m3u8
+#EXTINF:-1,CBC NEWS NETWORKS
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5120.m3u8
 #EXTINF:-1,CBC HALIFAX | HD
-http://secure.serkom.eu:80/nebi/19072018/26494
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5119.m3u8
+#EXTINF:-1,CBC HALIFAX | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83087.m3u8
 #EXTINF:-1,CBC MONTREAL | HD
-http://secure.serkom.eu:80/nebi/19072018/26492
-#EXTINF:-1,CBC MONTREAL |SD
-http://secure.serkom.eu:80/nebi/19072018/26491
-#EXTINF:-1,CBC NEWS | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26489
-#EXTINF:-1,CBC NEWS | HD
-http://secure.serkom.eu:80/nebi/19072018/26490
-#EXTINF:-1,CBC NEWS HD
-http://secure.serkom.eu:80/nebi/19072018/26535
-#EXTINF:-1,CBC News Network| HD
-http://secure.serkom.eu:80/nebi/19072018/26488
-#EXTINF:-1,CBC NEWS TORONTO | HD
-http://secure.serkom.eu:80/nebi/19072018/26487
-#EXTINF:-1,CBC OTTAWA | HD
-http://secure.serkom.eu:80/nebi/19072018/26486
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5118.m3u8
+#EXTINF:-1,CBC OTTAWA | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83086.m3u8
+#EXTINF:-1,CBC VENCOUVER | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5114.m3u8
 #EXTINF:-1,CBC REGINA | HD
-http://secure.serkom.eu:80/nebi/19072018/26485
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5112.m3u8
 #EXTINF:-1,CBC ST. JOHNS | HD
-http://secure.serkom.eu:80/nebi/19072018/26484
-#EXTINF:-1,CBC Television
-http://secure.serkom.eu:80/nebi/19072018/26483
-#EXTINF:-1,CBC TORONTO | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26481
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5111.m3u8
 #EXTINF:-1,CBC TORONTO | HD
-http://secure.serkom.eu:80/nebi/19072018/26482
-#EXTINF:-1,CBC VANCOUVER | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26479
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5110.m3u8
+#EXTINF:-1,CBC TV
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5109.m3u8
 #EXTINF:-1,CBC VANCOUVER | HD
-http://secure.serkom.eu:80/nebi/19072018/26480
-#EXTINF:-1,CBC VANCOVER
-http://secure.serkom.eu:80/nebi/19072018/26534
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5108.m3u8
 #EXTINF:-1,CBC WINDSOR | HD
-http://secure.serkom.eu:80/nebi/19072018/26478
-#EXTINF:-1,CBC WINNIPEG | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26476
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5107.m3u8
 #EXTINF:-1,CBC WINNIPEG | HD
-http://secure.serkom.eu:80/nebi/19072018/26477
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5106.m3u8
 #EXTINF:-1,CBC YELLOWKNIFE | HD
-http://secure.serkom.eu:80/nebi/19072018/26475
-#EXTINF:-1,CBS (West) | HD
-http://secure.serkom.eu:80/nebi/19072018/26474
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5105.m3u8
 #EXTINF:-1,CBS | HD
-http://secure.serkom.eu:80/nebi/19072018/26473
-#EXTINF:-1,CBS NEWS
-http://secure.serkom.eu:80/nebi/19072018/26472
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83085.m3u8
+#EXTINF:-1,CBS (West) | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5104.m3u8
 #EXTINF:-1,CBS NEWS | SD
-http://secure.serkom.eu:80/nebi/19072018/26471
-#EXTINF:-1,CHCH | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26469
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5103.m3u8
 #EXTINF:-1,CHCH | HD
-http://secure.serkom.eu:80/nebi/19072018/26470
-#EXTINF:-1,CITY TV | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26467
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5101.m3u8
+#EXTINF:-1,CHCH | UHD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83084.m3u8
 #EXTINF:-1,CITY TV | HD
-http://secure.serkom.eu:80/nebi/19072018/26468
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83083.m3u8
+#EXTINF:-1,CITY TV | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83082.m3u8
 #EXTINF:-1,CITY TV | SD
-http://secure.serkom.eu:80/nebi/19072018/26466
-#EXTINF:-1,CITY TV VANCOUVER | SD
-http://secure.serkom.eu:80/nebi/19072018/26465
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83081.m3u8
+#EXTINF:-1,CITY TORONTO | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5099.m3u8
 #EXTINF:-1,CITY VANCOUVER | HD
-http://secure.serkom.eu:80/nebi/19072018/26464
-#EXTINF:-1,CMT | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26462
-#EXTINF:-1,CMT | HD
-http://secure.serkom.eu:80/nebi/19072018/26463
-#EXTINF:-1,CNBC | HD
-http://secure.serkom.eu:80/nebi/19072018/26461
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83079.m3u8
+#EXTINF:-1,CITY TV VANCOUVER | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83080.m3u8
 #EXTINF:-1,CNBC WORLD | HD
-http://secure.serkom.eu:80/nebi/19072018/26460
-#EXTINF:-1,CNN | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26458
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5092.m3u8
 #EXTINF:-1,CNN | HD
-http://secure.serkom.eu:80/nebi/19072018/26459
-#EXTINF:-1,CNN INTERNATIONAL | SD
-http://secure.serkom.eu:80/nebi/19072018/26457
-#EXTINF:-1,COMEDY (East) | HD
-http://secure.serkom.eu:80/nebi/19072018/26456
-#EXTINF:-1,COMEDY | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26454
-#EXTINF:-1,COMEDY | HD
-http://secure.serkom.eu:80/nebi/19072018/26455
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5089.m3u8
+#EXTINF:-1,COMEDY | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83078.m3u8
 #EXTINF:-1,COMEDY WEST | SD
-http://secure.serkom.eu:80/nebi/19072018/26453
-#EXTINF:-1,COOKING CHANNEL | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26451
-#EXTINF:-1,COOKING CHANNEL | SD
-http://secure.serkom.eu:80/nebi/19072018/26452
-#EXTINF:-1,COSMO TV | HD
-http://secure.serkom.eu:80/nebi/19072018/26450
-#EXTINF:-1,COTTAGE LIFE | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26448
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83077.m3u8
+#EXTINF:-1,COOKING CHANNEL | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5085.m3u8
+#EXTINF:-1,COOKING CHANNEL | SD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83076.m3u8
 #EXTINF:-1,COTTAGE LIFE | SD
-http://secure.serkom.eu:80/nebi/19072018/26449
-#EXTINF:-1,CP24 | HD
-http://secure.serkom.eu:80/nebi/19072018/26447
-#EXTINF:-1,CPAC | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26445
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83075.m3u8
+#EXTINF:-1,CP24  | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5082.m3u8
 #EXTINF:-1,CPAC | HD
-http://secure.serkom.eu:80/nebi/19072018/26446
-#EXTINF:-1,CRIME & INVESTIGATION  (backup)
-http://secure.serkom.eu:80/nebi/19072018/26562
-#EXTINF:-1,CRIME & INVESTIGATION (backup)
-http://secure.serkom.eu:80/nebi/19072018/26563
-#EXTINF:-1,CRIME & INVESTIGATION SD
-http://secure.serkom.eu:80/nebi/19072018/26564
-#EXTINF:-1,CTV 2 | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26444
-#EXTINF:-1,CTV 2 | FHD
-http://secure.serkom.eu:80/nebi/19072018/26443
-#EXTINF:-1,CTV 2 OTTAWA | SD
-http://secure.serkom.eu:80/nebi/19072018/26442
-#EXTINF:-1,CTV NEWS | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26440
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5081.m3u8
+#EXTINF:-1,Crave 1 | SD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83073.m3u8
+#EXTINF:-1,CRIME   INVESTIGATION | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5080.m3u8
+#EXTINF:-1,CTV (Kitchener) | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5079.m3u8
+#EXTINF:-1, CTV MONTREAL HD *
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5076.m3u8
 #EXTINF:-1,CTV NEWS | HD
-http://secure.serkom.eu:80/nebi/19072018/26441
-#EXTINF:-1,CTV TORONTO | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26438
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5075.m3u8
 #EXTINF:-1,CTV TORONTO | HD
-http://secure.serkom.eu:80/nebi/19072018/26439
-#EXTINF:-1,CTV VANCOUVER | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26436
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5074.m3u8
+#EXTINF:-1,CTV TORONTO | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83070.m3u8
 #EXTINF:-1,CTV VANCOUVER | HD
-http://secure.serkom.eu:80/nebi/19072018/26437
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5073.m3u8
+#EXTINF:-1,CTV VANCOUVER | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83069.m3u8
+#EXTINF:-1,CTV 2 | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5077.m3u8
+#EXTINF:-1,CTV 2 | UHD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83072.m3u8
+#EXTINF:-1,CTV 2 OTTAWA | UHD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83071.m3u8
 #EXTINF:-1,CW | HD
-http://secure.serkom.eu:80/nebi/19072018/26435
-#EXTINF:-1,DISCOVERY CANADA SD
-http://secure.serkom.eu:80/nebi/19072018/26561
-#EXTINF:-1,DISCOVERY CHANNEL (backup)
-http://secure.serkom.eu:80/nebi/19072018/26560
-#EXTINF:-1,DISCOVERY INVESTIGATION SD
-http://secure.serkom.eu:80/nebi/19072018/26559
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://secure.serkom.eu:80/nebi/19072018/26587
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://secure.serkom.eu:80/nebi/19072018/26558
-#EXTINF:-1,DISCOVERY VELOCITY HD
-http://secure.serkom.eu:80/nebi/19072018/26571
-#EXTINF:-1,DISNEY CHANNEL HD
-http://secure.serkom.eu:80/nebi/19072018/26585
-#EXTINF:-1,DISNEY CHANNEL HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26580
-#EXTINF:-1,DISNEY HD
-http://secure.serkom.eu:80/nebi/19072018/26581
-#EXTINF:-1,DISNEY JR  SD
-http://secure.serkom.eu:80/nebi/19072018/26578
-#EXTINF:-1,DISNEY JR HD
-http://secure.serkom.eu:80/nebi/19072018/26579
-#EXTINF:-1,DISNEY JR SD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26577
-#EXTINF:-1,DISNEY JUNIOR  SD
-http://secure.serkom.eu:80/nebi/19072018/26576
-#EXTINF:-1,DISNEY XD HD
-http://secure.serkom.eu:80/nebi/19072018/26575
-#EXTINF:-1,DIY HD
-http://secure.serkom.eu:80/nebi/19072018/26533
-#EXTINF:-1,DIY NETWORK | HD
-http://secure.serkom.eu:80/nebi/19072018/26434
-#EXTINF:-1,DOCUMENTARY CHANNEL SD
-http://secure.serkom.eu:80/nebi/19072018/26557
-#EXTINF:-1,E! | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26432
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5072.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5070.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5069.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5068.m3u8
+#EXTINF:-1, DISNEY CHANNEL | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5066.m3u8
+#EXTINF:-1,  DISNEY JR | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5065.m3u8
+#EXTINF:-1, DISNEY XD  HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5064.m3u8
+#EXTINF:-1, NETWORK | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5062.m3u8
 #EXTINF:-1,E! | HD
-http://secure.serkom.eu:80/nebi/19072018/26433
-#EXTINF:-1,ENCORE 1 EAST
-http://secure.serkom.eu:80/nebi/19072018/26589
-#EXTINF:-1,ENCORE 2 EAST
-http://secure.serkom.eu:80/nebi/19072018/26572
-#EXTINF:-1,FAMILY CHARGED  SD
-http://secure.serkom.eu:80/nebi/19072018/26430
-#EXTINF:-1,FAMILY CHRGD
-http://secure.serkom.eu:80/nebi/19072018/26590
-#EXTINF:-1,FAMILY HD
-http://secure.serkom.eu:80/nebi/19072018/26431
-#EXTINF:-1,FAMILY JR HD
-http://secure.serkom.eu:80/nebi/19072018/26429
-#EXTINF:-1,FIGHT NETWORK HD
-http://secure.serkom.eu:80/nebi/19072018/26615
-#EXTINF:-1,FOOD NETWORK
-http://secure.serkom.eu:80/nebi/19072018/26532
-#EXTINF:-1,FOOD NETWORK | HD
-http://secure.serkom.eu:80/nebi/19072018/26428
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5059.m3u8
+#EXTINF:-1,E! | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83068.m3u8
+#EXTINF:-1,FAMILY | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5054.m3u8
+#EXTINF:-1,FAMILY WEST | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83067.m3u8
+#EXTINF:-1,FAMILY CHANNEL (East) | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5057.m3u8
+#EXTINF:-1,FAMILY JR | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5055.m3u8
+#EXTINF:-1, FOOD NETWORK | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5052.m3u8
+#EXTINF:-1,FOOD NETWORK | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83066.m3u8
+#EXTINF:-1,FOX | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5051.m3u8
 #EXTINF:-1,FOX (West) | HD
-http://secure.serkom.eu:80/nebi/19072018/26427
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83065.m3u8
 #EXTINF:-1,FOX BUSINESS | HD
-http://secure.serkom.eu:80/nebi/19072018/26426
-#EXTINF:-1,FOX FHD
-http://secure.serkom.eu:80/nebi/19072018/26531
-#EXTINF:-1,FOX NEWS HD
-http://secure.serkom.eu:80/nebi/19072018/26530
-#EXTINF:-1,FOX Q13 | HD
-http://secure.serkom.eu:80/nebi/19072018/26425
-#EXTINF:-1,FREE FORM | HD
-http://secure.serkom.eu:80/nebi/19072018/26424
-#EXTINF:-1,FX CANADA | HD
-http://secure.serkom.eu:80/nebi/19072018/26423
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5050.m3u8
+#EXTINF:-1,FOX NEWS   HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5049.m3u8
+#EXTINF:-1, FOX Q13 | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5048.m3u8
+#EXTINF:-1, FX CANADA | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5046.m3u8
 #EXTINF:-1,FXX CANADA | HD
-http://secure.serkom.eu:80/nebi/19072018/26422
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5045.m3u8
 #EXTINF:-1,GAME SHOW NETWORK | HD
-http://secure.serkom.eu:80/nebi/19072018/26421
-#EXTINF:-1,GAMESHOW NETWORK | HD
-http://secure.serkom.eu:80/nebi/19072018/26420
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5044.m3u8
 #EXTINF:-1,GLOBAL BC | SD
-http://secure.serkom.eu:80/nebi/19072018/26419
-#EXTINF:-1,GLOBAL EDMONTON | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26417
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5043.m3u8
+#EXTINF:-1,GLOBAL CALGARY   SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5042.m3u8
 #EXTINF:-1,GLOBAL EDMONTON | SD
-http://secure.serkom.eu:80/nebi/19072018/26418
-#EXTINF:-1,GLOBAL HALIFAX | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26415
-#EXTINF:-1,GLOBAL HALIFAX | SD
-http://secure.serkom.eu:80/nebi/19072018/26416
-#EXTINF:-1,GLOBAL NEWS | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26413
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5041.m3u8
+#EXTINF:-1,GLOBAL MONTREAL | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5039.m3u8
 #EXTINF:-1,GLOBAL NEWS | HD
-http://secure.serkom.eu:80/nebi/19072018/26414
-#EXTINF:-1,GLOBAL NEWS | SD
-http://secure.serkom.eu:80/nebi/19072018/26412
-#EXTINF:-1,GLOBAL TORONTO | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26410
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5038.m3u8
 #EXTINF:-1,GLOBAL TORONTO | HD
-http://secure.serkom.eu:80/nebi/19072018/26411
-#EXTINF:-1,GLOBAL TORONTO | SD
-http://secure.serkom.eu:80/nebi/19072018/26409
-#EXTINF:-1,GLOBAL TV | HD
-http://secure.serkom.eu:80/nebi/19072018/26408
-#EXTINF:-1,GLOBAL VANCOUVER HD
-http://secure.serkom.eu:80/nebi/19072018/26529
-#EXTINF:-1,GOLF CHANNEL HD
-http://secure.serkom.eu:80/nebi/19072018/26614
-#EXTINF:-1,H2 CANADA
-http://secure.serkom.eu:80/nebi/19072018/26569
-#EXTINF:-1,HBO
-http://secure.serkom.eu:80/nebi/19072018/26609
-#EXTINF:-1,HBO 1 HD
-http://secure.serkom.eu:80/nebi/19072018/26608
-#EXTINF:-1,HBO 2 (backup)
-http://secure.serkom.eu:80/nebi/19072018/26606
-#EXTINF:-1,HBO 2 HD
-http://secure.serkom.eu:80/nebi/19072018/26607
-#EXTINF:-1,HBO CANADA (West) | HD
-http://secure.serkom.eu:80/nebi/19072018/26605
-#EXTINF:-1,HGTV | FHD
-http://secure.serkom.eu:80/nebi/19072018/26405
-#EXTINF:-1,HGTV | HD
-http://secure.serkom.eu:80/nebi/19072018/26407
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5032.m3u8
+#EXTINF:-1,GLOBAL VANCOUVER | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5031.m3u8
+#EXTINF:-1,GOLF CHANNEL | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5030.m3u8
+#EXTINF:-1,HGTV HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5023.m3u8
 #EXTINF:-1,HGTV | SD
-http://secure.serkom.eu:80/nebi/19072018/26406
-#EXTINF:-1,HISTORIA SD
-http://secure.serkom.eu:80/nebi/19072018/26554
-#EXTINF:-1,HISTORY  (backup)
-http://secure.serkom.eu:80/nebi/19072018/26553
-#EXTINF:-1,HISTORY 2  SD
-http://secure.serkom.eu:80/nebi/19072018/26550
-#EXTINF:-1,HISTORY 2 HD
-http://secure.serkom.eu:80/nebi/19072018/26551
-#EXTINF:-1,HISTORY CHANNEL  HD
-http://secure.serkom.eu:80/nebi/19072018/26549
-#EXTINF:-1,HISTORY HD
-http://secure.serkom.eu:80/nebi/19072018/26552
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83063.m3u8
+#EXTINF:-1,HGTV | UHD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83062.m3u8
+#EXTINF:-1,HISTORY | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5019.m3u8
 #EXTINF:-1,HLN | HD
-http://secure.serkom.eu:80/nebi/19072018/26404
-#EXTINF:-1,HLN | SD
-http://secure.serkom.eu:80/nebi/19072018/26403
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5018.m3u8
 #EXTINF:-1,ICI TELEVISION | HD
-http://secure.serkom.eu:80/nebi/19072018/26402
-#EXTINF:-1,INVESTIGATION DISCOVERY  (backup)
-http://secure.serkom.eu:80/nebi/19072018/26556
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83061.m3u8
 #EXTINF:-1,Legislative Assembly Of Ontario | HD
-http://secure.serkom.eu:80/nebi/19072018/26401
-#EXTINF:-1,LIFETIME
-http://secure.serkom.eu:80/nebi/19072018/26528
-#EXTINF:-1,LIFETIME MMOVIE NETWORK HD
-http://secure.serkom.eu:80/nebi/19072018/26400
-#EXTINF:-1,MOTORTREND NETWORK HD
-http://secure.serkom.eu:80/nebi/19072018/26399
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5010.m3u8
+#EXTINF:-1,LIFETIME | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5012.m3u8
+#EXTINF:-1,LOVE NATURE | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5011.m3u8
 #EXTINF:-1,MSNBC | HD
-http://secure.serkom.eu:80/nebi/19072018/26398
-#EXTINF:-1,MSNBC | SD
-http://secure.serkom.eu:80/nebi/19072018/26397
-#EXTINF:-1,MUCH | SD
-http://secure.serkom.eu:80/nebi/19072018/26396
-#EXTINF:-1,NAT GEO
-http://secure.serkom.eu:80/nebi/19072018/26555
-#EXTINF:-1,NAT GEO WILD HD
-http://secure.serkom.eu:80/nebi/19072018/26568
-#EXTINF:-1,NBA TV
-http://secure.serkom.eu:80/nebi/19072018/26634
-#EXTINF:-1,NBA TV  HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26633
-#EXTINF:-1,NBC HD
-http://secure.serkom.eu:80/nebi/19072018/26395
-#EXTINF:-1,NFL NETWORK (backup)
-http://secure.serkom.eu:80/nebi/19072018/26631
-#EXTINF:-1,NFL NETWORK HD
-http://secure.serkom.eu:80/nebi/19072018/26632
-#EXTINF:-1,NICKTOONS SD
-http://secure.serkom.eu:80/nebi/19072018/26582
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5009.m3u8
+#EXTINF:-1,MUCH  HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5008.m3u8
+#EXTINF:-1,NAT GEO | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5006.m3u8
+#EXTINF:-1,NAT GEO WILD | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5007.m3u8
+#EXTINF:-1,US: NBA TV HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5005.m3u8
+#EXTINF:-1,NBC | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5004.m3u8
+#EXTINF:-1,NICKTOONS | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5002.m3u8
+#EXTINF:-1,NTV NEWFOUND LAND | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5001.m3u8
 #EXTINF:-1,NTV Newfoundland | SD
-http://secure.serkom.eu:80/nebi/19072018/26394
-#EXTINF:-1,OLN
-http://secure.serkom.eu:80/nebi/19072018/26544
-#EXTINF:-1,OLN |(backup)
-http://secure.serkom.eu:80/nebi/19072018/26543
-#EXTINF:-1,OMNI 1 | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26547
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83060.m3u8
+#EXTINF:-1,OLN | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/5000.m3u8
+#EXTINF:-1,OWN | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83056.m3u8
+#EXTINF:-1,OWN | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83055.m3u8
 #EXTINF:-1,OMNI 1 | HD
-http://secure.serkom.eu:80/nebi/19072018/26548
-#EXTINF:-1,OMNI 2 | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26545
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4999.m3u8
+#EXTINF:-1,OMNI 1 | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83059.m3u8
+#EXTINF:-1,OMNI 1 | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83058.m3u8
 #EXTINF:-1,OMNI 2 | HD
-http://secure.serkom.eu:80/nebi/19072018/26546
-#EXTINF:-1,OMNI EAST
-http://secure.serkom.eu:80/nebi/19072018/26542
-#EXTINF:-1,OUTDOOR LIFE NETWORK  HD
-http://secure.serkom.eu:80/nebi/19072018/26527
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4998.m3u8
+#EXTINF:-1,OMNI 2 | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83057.m3u8
 #EXTINF:-1,OUTDOOR LIFE NETWORK | HD
-http://secure.serkom.eu:80/nebi/19072018/26541
-#EXTINF:-1,OWN
-http://secure.serkom.eu:80/nebi/19072018/26526
-#EXTINF:-1,OWN | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26539
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4997.m3u8
 #EXTINF:-1,OWN | HD
-http://secure.serkom.eu:80/nebi/19072018/26540
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://secure.serkom.eu:80/nebi/19072018/26525
-#EXTINF:-1,PBS (East) | HD
-http://secure.serkom.eu:80/nebi/19072018/26393
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4996.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4995.m3u8
 #EXTINF:-1,PBS | HD
-http://secure.serkom.eu:80/nebi/19072018/26392
-#EXTINF:-1,PEACH TREE | HD
-http://secure.serkom.eu:80/nebi/19072018/26391
-#EXTINF:-1,PEACHTREE TV | (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26390
-#EXTINF:-1,SHOWCASE HD
-http://secure.serkom.eu:80/nebi/19072018/26389
-#EXTINF:-1,SLICE  (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26387
-#EXTINF:-1,SLICE SD
-http://secure.serkom.eu:80/nebi/19072018/26388
-#EXTINF:-1,SLICE TV  (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26386
-#EXTINF:-1,SPACE (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26384
-#EXTINF:-1,SPACE SD
-http://secure.serkom.eu:80/nebi/19072018/26385
-#EXTINF:-1,SPORTSNET 360
-http://secure.serkom.eu:80/nebi/19072018/26630
-#EXTINF:-1,SPORTSNET 360 (backup)
-http://secure.serkom.eu:80/nebi/19072018/26623
-#EXTINF:-1,SPORTSNET 360 | HD
-http://secure.serkom.eu:80/nebi/19072018/26624
-#EXTINF:-1,SPORTSNET EAST (backup)
-http://secure.serkom.eu:80/nebi/19072018/26625
-#EXTINF:-1,SPORTSNET EAST HD
-http://secure.serkom.eu:80/nebi/19072018/26627
-#EXTINF:-1,SPORTSNET ONE  HD
-http://secure.serkom.eu:80/nebi/19072018/26629
-#EXTINF:-1,SPORTSNET ONE | HD
-http://secure.serkom.eu:80/nebi/19072018/26622
-#EXTINF:-1,SPORTSNET ONTARIO (backup)
-http://secure.serkom.eu:80/nebi/19072018/26620
-#EXTINF:-1,SPORTSNET ONTARIO HD
-http://secure.serkom.eu:80/nebi/19072018/26621
-#EXTINF:-1,SPORTSNET PACIFIC (backup)
-http://secure.serkom.eu:80/nebi/19072018/26617
-#EXTINF:-1,SPORTSNET PACIFIC | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26618
-#EXTINF:-1,SPORTSNET PACIFIC | HD
-http://secure.serkom.eu:80/nebi/19072018/26619
-#EXTINF:-1,SPORTSNET WEST (backup)
-http://secure.serkom.eu:80/nebi/19072018/26616
-#EXTINF:-1,SPORTSNET WEST HD
-http://secure.serkom.eu:80/nebi/19072018/26626
-#EXTINF:-1,SPORTSNET WORLD
-http://secure.serkom.eu:80/nebi/19072018/26628
-#EXTINF:-1,SUPER CHANNEL 2 HD
-http://secure.serkom.eu:80/nebi/19072018/26600
-#EXTINF:-1,SUPER ECRAN 1 SD
-http://secure.serkom.eu:80/nebi/19072018/26604
-#EXTINF:-1,SUPER ECRAN 2 | SD
-http://secure.serkom.eu:80/nebi/19072018/26603
-#EXTINF:-1,SUPER ECRAN 3 SD
-http://secure.serkom.eu:80/nebi/19072018/26602
-#EXTINF:-1,SUPER ECRAN 4 SD
-http://secure.serkom.eu:80/nebi/19072018/26601
-#EXTINF:-1,TBS HD
-http://secure.serkom.eu:80/nebi/19072018/26383
-#EXTINF:-1,TCM
-http://secure.serkom.eu:80/nebi/19072018/26570
-#EXTINF:-1,TELE QUEBEC SD  [FR]
-http://secure.serkom.eu:80/nebi/19072018/26382
-#EXTINF:-1,TELETOON
-http://secure.serkom.eu:80/nebi/19072018/26583
-#EXTINF:-1,TELETOON HD
-http://secure.serkom.eu:80/nebi/19072018/26588
-#EXTINF:-1,THE SHOPPING CHANNEL HD
-http://secure.serkom.eu:80/nebi/19072018/26381
-#EXTINF:-1,THE WEATHER NETWORK  HD
-http://secure.serkom.eu:80/nebi/19072018/26380
-#EXTINF:-1,TLC  (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26378
-#EXTINF:-1,TLC  HD
-http://secure.serkom.eu:80/nebi/19072018/26379
-#EXTINF:-1,TMN 1 (backup)
-http://secure.serkom.eu:80/nebi/19072018/26597
-#EXTINF:-1,TMN 1 | (backup)
-http://secure.serkom.eu:80/nebi/19072018/26598
-#EXTINF:-1,TMN 1 SD
-http://secure.serkom.eu:80/nebi/19072018/26599
-#EXTINF:-1,TMN 2 (backup)
-http://secure.serkom.eu:80/nebi/19072018/26595
-#EXTINF:-1,TMN 2 SD
-http://secure.serkom.eu:80/nebi/19072018/26596
-#EXTINF:-1,TMN 3 SD
-http://secure.serkom.eu:80/nebi/19072018/26594
-#EXTINF:-1,TMN 3 SD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26593
-#EXTINF:-1,TMN 4
-http://secure.serkom.eu:80/nebi/19072018/26524
-#EXTINF:-1,TMN 4 SD
-http://secure.serkom.eu:80/nebi/19072018/26592
-#EXTINF:-1,TMN ENCORE 2 SD
-http://secure.serkom.eu:80/nebi/19072018/26591
-#EXTINF:-1,TREEHOUSE (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26376
-#EXTINF:-1,TREEHOUSE SD
-http://secure.serkom.eu:80/nebi/19072018/26377
-#EXTINF:-1,TSN1 HD
-http://secure.serkom.eu:80/nebi/19072018/26644
-#EXTINF:-1,TSN1 HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26643
-#EXTINF:-1,TSN2 HD
-http://secure.serkom.eu:80/nebi/19072018/26642
-#EXTINF:-1,TSN2 HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26641
-#EXTINF:-1,TSN3 HD
-http://secure.serkom.eu:80/nebi/19072018/26640
-#EXTINF:-1,TSN3 HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26639
-#EXTINF:-1,TSN4 HD
-http://secure.serkom.eu:80/nebi/19072018/26638
-#EXTINF:-1,TSN4 HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26637
-#EXTINF:-1,TSN5 HD
-http://secure.serkom.eu:80/nebi/19072018/26636
-#EXTINF:-1,TSN5 HD (backup)
-http://secure.serkom.eu:80/nebi/19072018/26635
-#EXTINF:-1,TVA SPORTS (backup)
-http://secure.serkom.eu:80/nebi/19072018/26611
-#EXTINF:-1,TVA SPORTS 1 SD
-http://secure.serkom.eu:80/nebi/19072018/26612
-#EXTINF:-1,TVA SPORTS 2 HD
-http://secure.serkom.eu:80/nebi/19072018/26610
-#EXTINF:-1,TVO  (Backup)
-http://secure.serkom.eu:80/nebi/19072018/26374
-#EXTINF:-1,TVO HD
-http://secure.serkom.eu:80/nebi/19072018/26375
-#EXTINF:-1,W | SD
-http://secure.serkom.eu:80/nebi/19072018/26373
-#EXTINF:-1,W NETWORK | SD
-http://secure.serkom.eu:80/nebi/19072018/26613
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4993.m3u8
+#EXTINF:-1,PBS | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83054.m3u8
+#EXTINF:-1,PEACH TREE | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83053.m3u8
+#EXTINF:-1,SLICE TV  | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4989.m3u8
+#EXTINF:-1,Space | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83052.m3u8
+#EXTINF:-1,SPACE | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83051.m3u8
+#EXTINF:-1,SPACE | UHD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4987.m3u8
+#EXTINF:-1,TELETOON | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4977.m3u8
+#EXTINF:-1,THE SHOPPING CHANNEL | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4976.m3u8
+#EXTINF:-1,THE WEATHER NETWORK | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4974.m3u8
+#EXTINF:-1,TLC | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4973.m3u8
+#EXTINF:-1,TLC | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83050.m3u8
+#EXTINF:-1,TREEHOUSE | UHD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4967.m3u8
+#EXTINF:-1,TVO | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4957.m3u8
+#EXTINF:-1,TVO | HD*
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83049.m3u8
+#EXTINF:-1,WEATHER NETWORK (Toronto) | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4952.m3u8
+#EXTINF:-1,WEATHER NETWORK FRENCH HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4951.m3u8
 #EXTINF:-1,WOMENS NETWORK | SD
-http://secure.serkom.eu:80/nebi/19072018/26372
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4950.m3u8
+#EXTINF:-1,YTV (East) | HD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4949.m3u8
+#EXTINF:-1,YTV (East) | SD
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/83048.m3u8
 #EXTINF:-1,YTV | HD
-http://secure.serkom.eu:80/nebi/19072018/26371
-#EXTINF:-1,ZESTE | SD
-http://secure.serkom.eu:80/nebi/19072018/26370
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/4948.m3u8
+#EXTINF:-1,CASA
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1050.m3u8
+#EXTINF:-1,DISNEY (CANADA)  (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1048.m3u8
+#EXTINF:-1,EVASION (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/55772.m3u8
+#EXTINF:-1,HISTORIA
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1046.m3u8
+#EXTINF:-1,ICI VANCOUVER
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1044.m3u8
+#EXTINF:-1,LCN  HD *
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1043.m3u8
+#EXTINF:-1,METEO MEDIA  (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1041.m3u8
+#EXTINF:-1,MUSIQUE PLUS (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1040.m3u8
+#EXTINF:-1,PRISE 2 (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1039.m3u8
+#EXTINF:-1,ICI RDI HD *
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1038.m3u8
+#EXTINF:-1,RDS 2 (CANADA)  (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1036.m3u8
+#EXTINF:-1,RDS INFO (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1035.m3u8
+#EXTINF:-1,SERIS (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1034.m3u8
+#EXTINF:-1,TELE TOON (CANADA)  (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1032.m3u8
+#EXTINF:-1,TELEMAGINO (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1031.m3u8
+#EXTINF:-1,TFO (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1030.m3u8
+#EXTINF:-1,TV5 QUEBEC (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1029.m3u8
+#EXTINF:-1,TVA MONTREAL HD *
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/1027.m3u8
+#EXTINF:-1,V MONTREAL (French)
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/2085.m3u8
+#EXTINF:-1,ADDIK TV FR
+http://157.230.13.67:8000/live/kwqfExQQ3/TkabDpq4U/2086.m3u8
