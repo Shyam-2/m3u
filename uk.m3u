@@ -1,105 +1,261 @@
 #EXTM3U
-#EXTINF:-1,Itv1
-http://force102.com:8080/live/sener07/1234/11209.m3u8
-#EXTINF:-1,Itv2
-http://force102.com:8080/live/sener07/1234/11210.m3u8
-#EXTINF:-1,Itv3
-http://force102.com:8080/live/sener07/1234/11211.m3u8
-#EXTINF:-1,Itv4
-http://force102.com:8080/live/sener07/1234/11212.m3u8
-#EXTINF:-1,Bbc1
-http://force102.com:8080/live/sener07/1234/11213.m3u8
-#EXTINF:-1,Bbc2
-http://force102.com:8080/live/sener07/1234/11214.m3u8
-#EXTINF:-1,Bbc3
-http://force102.com:8080/live/sener07/1234/11215.m3u8
-#EXTINF:-1,Btsport1
-http://force102.com:8080/live/sener07/1234/11257.m3u8
-#EXTINF:-1,Btsport2
-http://force102.com:8080/live/sener07/1234/11258.m3u8
-#EXTINF:-1,Btsport Espn
-http://force102.com:8080/live/sener07/1234/11259.m3u8
-#EXTINF:-1,Btsporteurope
-http://force102.com:8080/live/sener07/1234/11256.m3u8
-#EXTINF:-1,Rte One
-http://force102.com:8080/live/sener07/1234/11243.m3u8
-#EXTINF:-1,Rte Two
-http://force102.com:8080/live/sener07/1234/11242.m3u8
-#EXTINF:-1,Cbsaction
-http://force102.com:8080/live/sener07/1234/11218.m3u8
-#EXTINF:-1,Cbs Drama
-http://force102.com:8080/live/sener07/1234/11217.m3u8
-#EXTINF:-1,Cbs Reality
-http://force102.com:8080/live/sener07/1234/11216.m3u8
-#EXTINF:-1,Channel4
-http://force102.com:8080/live/sener07/1234/11219.m3u8
-#EXTINF:-1,Channel5
-http://force102.com:8080/live/sener07/1234/11220.m3u8
-#EXTINF:-1,Comedy Central
-http://force102.com:8080/live/sener07/1234/11221.m3u8
-#EXTINF:-1,Dmax.
-http://force102.com:8080/live/sener07/1234/11245.m3u8
-#EXTINF:-1,Movies 4men
-http://force102.com:8080/live/sener07/1234/11235.m3u8
-#EXTINF:-1,Yesterday
-http://force102.com:8080/live/sener07/1234/11244.m3u8
-#EXTINF:-1,Sky Movies Action
-http://force102.com:8080/live/sener07/1234/11238.m3u8
-#EXTINF:-1,Sky Movies Comedy
-http://force102.com:8080/live/sener07/1234/11237.m3u8
-#EXTINF:-1,Sky Movies Family Hd
-http://force102.com:8080/live/sener07/1234/11239.m3u8
-#EXTINF:-1,Sky Movies Premiere Hd
-http://force102.com:8080/live/sener07/1234/11241.m3u8
-#EXTINF:-1,Sky Movies Scifi / Horror Hd
-http://force102.com:8080/live/sener07/1234/11240.m3u8
-#EXTINF:-1,Sky Movies Drama Hd
-http://force102.com:8080/live/sener07/1234/11231.m3u8
-#EXTINF:-1,Sky Movies Select Hd
-http://force102.com:8080/live/sener07/1234/11230.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://force102.com:8080/live/sener07/1234/11229.m3u8
-#EXTINF:-1,Skymtv
-http://force102.com:8080/live/sener07/1234/11236.m3u8
-#EXTINF:-1,Skyone Hd
-http://force102.com:8080/live/sener07/1234/11234.m3u8
-#EXTINF:-1,True Movies1 Hd
-http://force102.com:8080/live/sener07/1234/11233.m3u8
-#EXTINF:-1,Disneyjunior
-http://force102.com:8080/live/sener07/1234/11222.m3u8
-#EXTINF:-1,Disneychannel
-http://force102.com:8080/live/sener07/1234/11223.m3u8
-#EXTINF:-1,Discovery Science Hd
-http://force102.com:8080/live/sener07/1234/11226.m3u8
-#EXTINF:-1,National Geographic
-http://force102.com:8080/live/sener07/1234/11228.m3u8
-#EXTINF:-1,Discovery Turbo Hd
-http://force102.com:8080/live/sener07/1234/11227.m3u8
-#EXTINF:-1,Discovery Channelhd
-http://force102.com:8080/live/sener07/1234/11224.m3u8
+#EXTINF:-1,3e
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73850.m3u8
+#EXTINF:-1,4Music
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73784.m3u8
+#EXTINF:-1,5 Usa
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73849.m3u8
+#EXTINF:-1,5 Usa Plus
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73848.m3u8
+#EXTINF:-1,5Star
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73869.m3u8
+#EXTINF:-1,Animal Planet   1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73802.m3u8
+#EXTINF:-1,Animal Planet HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73803.m3u8
+#EXTINF:-1,Baby TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73814.m3u8
+#EXTINF:-1,BBC 1 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73781.m3u8
+#EXTINF:-1,BBC 2 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73780.m3u8
+#EXTINF:-1,BBC 3
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73779.m3u8
+#EXTINF:-1,BBC 4 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73778.m3u8
+#EXTINF:-1,BBC Earth HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73777.m3u8
+#EXTINF:-1,BBC News
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73776.m3u8
+#EXTINF:-1,BOX NATION
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73826.m3u8
+#EXTINF:-1,BOX OFFICE HD 1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73884.m3u8
+#EXTINF:-1,BOX OFFICE HD 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73883.m3u8
+#EXTINF:-1,BOX OFFICE HD 3
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73882.m3u8
+#EXTINF:-1,BOX OFFICE HD 4
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73881.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73840.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73839.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73838.m3u8
+#EXTINF:-1,Cartoon network HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73818.m3u8
+#EXTINF:-1,Cartoonito
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73809.m3u8
+#EXTINF:-1,Challenge   1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73793.m3u8
+#EXTINF:-1,Channel 4 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73855.m3u8
+#EXTINF:-1,Channel 4 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73856.m3u8
+#EXTINF:-1,Channel 4 Plus
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73854.m3u8
+#EXTINF:-1,Channel 5 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73852.m3u8
+#EXTINF:-1,Channel 5 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73853.m3u8
+#EXTINF:-1,Channel 5 Plus
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73851.m3u8
+#EXTINF:-1,CHELSEA TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73827.m3u8
+#EXTINF:-1,CNBC Europe
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73775.m3u8
+#EXTINF:-1,Comedy Central HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73887.m3u8
+#EXTINF:-1,Crime & Investigiation
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73870.m3u8
+#EXTINF:-1,Dave
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73847.m3u8
+#EXTINF:-1,============== UK DOCUMENTARY ==============
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73805.m3u8
+#EXTINF:-1,Nat Geo Graphic
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73800.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73792.m3u8
+#EXTINF:-1,NATGEO WILD HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73791.m3u8
+#EXTINF:-1,Discovery History
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73801.m3u8
+#EXTINF:-1,Discovery History  1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73799.m3u8
+#EXTINF:-1,Discovery Science HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73798.m3u8
 #EXTINF:-1,Discovery Shed
-http://force102.com:8080/live/sener07/1234/11225.m3u8
-#EXTINF:-1,Racing
-http://force102.com:8080/live/sener07/1234/11232.m3u8
-#EXTINF:-1,Premier Sport
-http://force102.com:8080/live/sener07/1234/11260.m3u8
-#EXTINF:-1,Eurosport 2
-http://force102.com:8080/live/sener07/1234/11247.m3u8
-#EXTINF:-1,Eurosport1
-http://force102.com:8080/live/sener07/1234/11246.m3u8
-#EXTINF:-1,Sky Sport News
-http://force102.com:8080/live/sener07/1234/11255.m3u8
-#EXTINF:-1,Sky Sport News
-http://force102.com:8080/live/sener07/1234/11254.m3u8
-#EXTINF:-1,Sky Sport Premier League
-http://force102.com:8080/live/sener07/1234/11252.m3u8
-#EXTINF:-1,Sky Sports Action
-http://force102.com:8080/live/sener07/1234/11248.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://force102.com:8080/live/sener07/1234/11249.m3u8
-#EXTINF:-1,Sky Sports F1
-http://force102.com:8080/live/sener07/1234/11253.m3u8
-#EXTINF:-1,Sky Sports Golf
-http://force102.com:8080/live/sener07/1234/11251.m3u8
-#EXTINF:-1,Sky Sports Main Event
-http://force102.com:8080/live/sener07/1234/11250.m3u8
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73797.m3u8
+#EXTINF:-1,Discovery Turbo
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73796.m3u8
+#EXTINF:-1,Disney
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73817.m3u8
+#EXTINF:-1,Disney Channel HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73808.m3u8
+#EXTINF:-1,Disney Junior
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73816.m3u8
+#EXTINF:-1,Disney XD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73815.m3u8
+#EXTINF:-1,Disney XD HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73807.m3u8
+#EXTINF:-1,DMAX
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73868.m3u8
+#EXTINF:-1,E!
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73846.m3u8
+#EXTINF:-1,E4
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73845.m3u8
+#EXTINF:-1,Eir Sports 1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73822.m3u8
+#EXTINF:-1,Eir Sports 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73821.m3u8
+#EXTINF:-1,Euronews
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73774.m3u8
+#EXTINF:-1,Film 4 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73888.m3u8
+#EXTINF:-1,FOX HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73873.m3u8
+#EXTINF:-1,Gold
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73794.m3u8
+#EXTINF:-1,H2 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73804.m3u8
+#EXTINF:-1,HBO 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73877.m3u8
+#EXTINF:-1,HBO HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73878.m3u8
+#EXTINF:-1,History HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73790.m3u8
+#EXTINF:-1,Home & Health
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73789.m3u8
+#EXTINF:-1,Investigation Discovery
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73795.m3u8
+#EXTINF:-1,ITV 2 Plus
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73865.m3u8
+#EXTINF:-1,ITV 3   HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73864.m3u8
+#EXTINF:-1,ITV 4 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73863.m3u8
+#EXTINF:-1,ITV Be
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73859.m3u8
+#EXTINF:-1,ITV Be  1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73858.m3u8
+#EXTINF:-1,ITV1 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73867.m3u8
+#EXTINF:-1,ITV2 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73866.m3u8
+#EXTINF:-1,Life time
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73874.m3u8
+#EXTINF:-1,Manchester United TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73828.m3u8
+#EXTINF:-1,More 4 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73844.m3u8
+#EXTINF:-1,MTV Base
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73785.m3u8
+#EXTINF:-1,MTV HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73786.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73770.m3u8
+#EXTINF:-1,Nick Jr  1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73813.m3u8
+#EXTINF:-1,Nick Jr Too
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73812.m3u8
+#EXTINF:-1,Nick@niteHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73810.m3u8
+#EXTINF:-1,Nickelodeon FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73811.m3u8
+#EXTINF:-1,Racing UK FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73824.m3u8
+#EXTINF:-1,Racing UK HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73823.m3u8
+#EXTINF:-1,RTE Junior
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73806.m3u8
+#EXTINF:-1,RTE NEWS
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73772.m3u8
+#EXTINF:-1,RTE News Now
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73773.m3u8
+#EXTINF:-1,RTE One HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73861.m3u8
+#EXTINF:-1,RTE Two HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73860.m3u8
+#EXTINF:-1,Sky Arts HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73862.m3u8
+#EXTINF:-1,SKY Atlantic HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73879.m3u8
+#EXTINF:-1,Sky Box Nation (PPV Events Only)
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73825.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73903.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73902.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73901.m3u8
+#EXTINF:-1,Sky Cinema Disney HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73900.m3u8
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73899.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73898.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73895.m3u8
+#EXTINF:-1,Sky Cinema Premier HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73897.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73896.m3u8
+#EXTINF:-1,Sky Cinema Select HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73894.m3u8
+#EXTINF:-1,Sky Living FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73893.m3u8
+#EXTINF:-1,Sky Movies Select HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73892.m3u8
+#EXTINF:-1,SKY NEWS HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73783.m3u8
+#EXTINF:-1,SKY One
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73876.m3u8
+#EXTINF:-1,Sky Sport Action HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73837.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73833.m3u8
+#EXTINF:-1,Sky Sport F1 FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73832.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73829.m3u8
+#EXTINF:-1,SKY SPORT MIX
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73831.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73836.m3u8
+#EXTINF:-1,Sky Sports F1 HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73841.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73835.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73834.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73820.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73830.m3u8
+#EXTINF:-1,Sky Two
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73875.m3u8
+#EXTINF:-1,Sony Channel HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73886.m3u8
+#EXTINF:-1,Sony Movie
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73885.m3u8
+#EXTINF:-1,Syfy
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73872.m3u8
+#EXTINF:-1,TCM HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73871.m3u8
+#EXTINF:-1,TG4
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73771.m3u8
+#EXTINF:-1,True Movies 1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73890.m3u8
+#EXTINF:-1,True Movies 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73889.m3u8
+#EXTINF:-1,TV 3
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73857.m3u8
+#EXTINF:-1,Universal TV HD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73891.m3u8
+#EXTINF:-1,VH1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73788.m3u8
+#EXTINF:-1,VIVA
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73787.m3u8
+#EXTINF:-1,W
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/73843.m3u8
