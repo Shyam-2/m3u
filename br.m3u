@@ -1,119 +1,287 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",Agro Brasil TV
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",All Sports Brasil [480p]
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.brgo.xyz/img/AMAZONSAT.png" group-title="Undefined",Amazon Sat
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",Brazil 1 FTA
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",Canal Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022014/untitled-1_11.png" group-title="Undefined",Canção Nova
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",CANÇÃO NOVA [720p]
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",CANÇÃO NOVA [720p]
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",CBTV Internacional [1080p]
-https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/cine-sky.png" group-title="Undefined",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="Undefined",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/cultura_0.png?itok=baNT_7ND" group-title="Entertainment",CULTURA
-http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="Undefined",E-Parana
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="Undefined",G2P TV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",G2PTV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180403/ixw/kisspng-logo-child-church-christian-ministry-kids-5ac315bed48229.9619473715227345268704.jpg" group-title="Undefined",INFANTIL BRASIL********************
-http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elcorteingles.es/centroscomerciales/uploads/service/logo/68/medium_ITV.png" group-title="Undefined",Itú TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jkfm.com.br/site//assets/imagem/logo/logo-jk.png" group-title="Undefined",JK FM
-http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Undefined",Novo Tempo (Brazil)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="Undefined",PUC TV Goias
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s30.postimg.org/eymtgnmjl/logo_fundotransparente2.png" group-title="Undefined",Rede Atividade
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg" group-title="Undefined",Rede Brasil [Opt-2]
-https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/chunklist_w1757672591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2d7vy4n.png" group-title="Undefined",Rede Gospel (Brazil)
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",REDE SECULO 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="Undefined",Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logotipo_da_RedeTV%21_Rondônia.png" group-title="Undefined",Rede TV Rondonia
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Undefined",Rede TV SD
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Undefined",Rede TV SD
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV!" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1227.png" group-title="Undefined",Rede TV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qP1Ba0S.png" group-title="Undefined",Rede Uniao
-http://flash3.locamega.com.br:1935/locamega/locamega/chunklist_w1341145932.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wajw4nv.png" group-title="Undefined",SBT (New!)
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",SBT [720p]
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/3Y9a7ri.png" group-title="Undefined",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",SBT PE Interior
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Undefined",SBT Piaui
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png group-title="Undefined",SBT São Paulo
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",TV APARECIDA 2
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.pngg" group-title="Undefined",TV Aracati
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bno.nl/theme_bno/static/src/img/icon/BNO.png" group-title="Undefined",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/554708270472912896/vAb4KwyJ_400x400.jpeg" group-title="Undefined",TV Caxias
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",TV Cultura GO
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lalabee.com.br/f/logo_destak.png" group-title="Undefined",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Undefined",TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="Undefined",TV Gidoes (Brazil)
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="Undefined",TV INES
-http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8qwFc7d.png" group-title="Undefined",TV Japi (New!)
-http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Poços" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/325.png" group-title="Undefined",TV Poços
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="Undefined",TV Rio Preto
-http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diocesetb.org.br/f/i/dioceseTubaraoLogoTvTuba.jpg" group-title="Undefined",TV Tuba
-http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="Undefined",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",TVE
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",TVE BAHIA
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Undefined",TVE Rio Grande do Sul (Opt-1)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="Undefined",TVE Rio Grande do Sul (Opt-2)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="Undefined",TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Undefined",WEB TV MINAS
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1,AMC
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59456.m3u8
+#EXTINF:-1,Animal Planet
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59455.m3u8
+#EXTINF:-1,Aparecida
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59335.m3u8
+#EXTINF:-1,Arte 1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59454.m3u8
+#EXTINF:-1,AXN
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59453.m3u8
+#EXTINF:-1,Baby TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59452.m3u8
+#EXTINF:-1,Band News
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59451.m3u8
+#EXTINF:-1,Band Sports
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59450.m3u8
+#EXTINF:-1,Bandeirantes
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59334.m3u8
+#EXTINF:-1,BIS
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59449.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59448.m3u8
+#EXTINF:-1,Boomerang
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59447.m3u8
+#EXTINF:-1,Canal Brasil
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59446.m3u8
+#EXTINF:-1,Canal Claro
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59445.m3u8
+#EXTINF:-1,Canal Nova
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59444.m3u8
+#EXTINF:-1,Canal Rural
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59443.m3u8
+#EXTINF:-1,Canal Sony
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59442.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59441.m3u8
+#EXTINF:-1,Cinemax
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59333.m3u8
+#EXTINF:-1,CNN Espanol
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59440.m3u8
+#EXTINF:-1,CNN Internacional
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59332.m3u8
+#EXTINF:-1,CNT
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59439.m3u8
+#EXTINF:-1,Combate
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59438.m3u8
+#EXTINF:-1,Comedy Central
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59437.m3u8
+#EXTINF:-1,Curta
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59436.m3u8
+#EXTINF:-1,Discovery Channel
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59435.m3u8
+#EXTINF:-1,Discovery H&H
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59434.m3u8
+#EXTINF:-1,Discovery Kids
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59331.m3u8
+#EXTINF:-1,Discovery Turbo
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59433.m3u8
+#EXTINF:-1,Disney
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59432.m3u8
+#EXTINF:-1,Disney Junior
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59431.m3u8
+#EXTINF:-1,Disney XD
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59430.m3u8
+#EXTINF:-1,DW (Deutsch )
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59330.m3u8
+#EXTINF:-1,E!
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59429.m3u8
+#EXTINF:-1,EI Mxx 1
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59428.m3u8
+#EXTINF:-1,EI Mxx 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59427.m3u8
+#EXTINF:-1,ESPN
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59426.m3u8
+#EXTINF:-1,ESPN Brasil
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59425.m3u8
+#EXTINF:-1,Fish TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59424.m3u8
+#EXTINF:-1,Food Network
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59423.m3u8
+#EXTINF:-1,FOX
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59422.m3u8
+#EXTINF:-1,Fox Life
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59421.m3u8
+#EXTINF:-1,Fox Sports
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59420.m3u8
+#EXTINF:-1,Fox Sports 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59419.m3u8
+#EXTINF:-1,Futura
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59329.m3u8
+#EXTINF:-1,FX
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59418.m3u8
+#EXTINF:-1,Globo SP
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59417.m3u8
+#EXTINF:-1,GloboNews
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59416.m3u8
+#EXTINF:-1,Gloob
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59415.m3u8
+#EXTINF:-1,GNT
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59414.m3u8
+#EXTINF:-1,H2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59413.m3u8
+#EXTINF:-1,HBO
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59412.m3u8
+#EXTINF:-1,HBO Family
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59411.m3u8
+#EXTINF:-1,HBO Plus
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59410.m3u8
+#EXTINF:-1,HBO Plus*e
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59409.m3u8
+#EXTINF:-1,HBO Signature
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59408.m3u8
+#EXTINF:-1,HBO2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59407.m3u8
+#EXTINF:-1,I-SAT
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59406.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59405.m3u8
+#EXTINF:-1,Lifetime
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59404.m3u8
+#EXTINF:-1,Mais Globosat
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59403.m3u8
+#EXTINF:-1,MAX
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59402.m3u8
+#EXTINF:-1,MAX Prime
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59328.m3u8
+#EXTINF:-1,MAX Prime*e
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59401.m3u8
+#EXTINF:-1,MAX UP
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59400.m3u8
+#EXTINF:-1,MegaPix
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59327.m3u8
+#EXTINF:-1,MTV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59399.m3u8
+#EXTINF:-1,Multishow
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59398.m3u8
+#EXTINF:-1,Music Box Brazil
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59397.m3u8
+#EXTINF:-1,NatGeo Kids
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59396.m3u8
+#EXTINF:-1,NatGeo Wild
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59395.m3u8
+#EXTINF:-1,National Geographic
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59394.m3u8
+#EXTINF:-1,NHK
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59393.m3u8
+#EXTINF:-1,Nick Jr
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59392.m3u8
+#EXTINF:-1,Nickelodeon
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59391.m3u8
+#EXTINF:-1,OFF
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59390.m3u8
+#EXTINF:-1,Paramount
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59389.m3u8
+#EXTINF:-1,Play TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59326.m3u8
+#EXTINF:-1,Playboy TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59388.m3u8
+#EXTINF:-1,Polishop TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59387.m3u8
+#EXTINF:-1,Premiere 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59386.m3u8
+#EXTINF:-1,Premiere 3
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59385.m3u8
+#EXTINF:-1,Premiere 4
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59384.m3u8
+#EXTINF:-1,Premiere 5
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59383.m3u8
+#EXTINF:-1,Premiere 6
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59382.m3u8
+#EXTINF:-1,Premiere 7
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59381.m3u8
+#EXTINF:-1,Premiere 8
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59380.m3u8
+#EXTINF:-1,Premiere 9
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59379.m3u8
+#EXTINF:-1,Premiere Clubes
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59316.m3u8
+#EXTINF:-1,Prime Box Brazil
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59378.m3u8
+#EXTINF:-1,RAI
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59325.m3u8
+#EXTINF:-1,RBI
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59377.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59315.m3u8
+#EXTINF:-1,Record News
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59376.m3u8
+#EXTINF:-1,RECORDTV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59375.m3u8
+#EXTINF:-1,Rede Brasil
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59374.m3u8
+#EXTINF:-1,Rede TV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59324.m3u8
+#EXTINF:-1,Rede Vida
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59373.m3u8
+#EXTINF:-1,RIT
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59372.m3u8
+#EXTINF:-1,SBT
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59314.m3u8
+#EXTINF:-1,Sextreme
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59371.m3u8
+#EXTINF:-1,Sexy Hot
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59370.m3u8
+#EXTINF:-1,SIC Internacional
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59323.m3u8
+#EXTINF:-1,Space
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59369.m3u8
+#EXTINF:-1,SporTV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59368.m3u8
+#EXTINF:-1,SporTV 2
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59367.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59366.m3u8
+#EXTINF:-1,SporTV 3
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59322.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59321.m3u8
+#EXTINF:-1,Studio Universal
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59365.m3u8
+#EXTINF:-1,SyFy
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59320.m3u8
+#EXTINF:-1,TBS
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59364.m3u8
+#EXTINF:-1,TCM
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59363.m3u8
+#EXTINF:-1,Telecine Action
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59362.m3u8
+#EXTINF:-1,Telecine Cult
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59361.m3u8
+#EXTINF:-1,Telecine Fun
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59360.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59359.m3u8
+#EXTINF:-1,Telecine Premium
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59358.m3u8
+#EXTINF:-1,Telecine Touch
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59357.m3u8
+#EXTINF:-1,Terra Viva
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59356.m3u8
+#EXTINF:-1,The History Channel
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59319.m3u8
+#EXTINF:-1,TLC
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59355.m3u8
+#EXTINF:-1,TNT
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59354.m3u8
+#EXTINF:-1,TNT Series
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59353.m3u8
+#EXTINF:-1,Tooncast
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59352.m3u8
+#EXTINF:-1,TruTV
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59351.m3u8
+#EXTINF:-1,TV Brasil
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59350.m3u8
+#EXTINF:-1,TV CÐmara
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59349.m3u8
+#EXTINF:-1,TV Cultura
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59348.m3u8
+#EXTINF:-1,TV Escola
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59347.m3u8
+#EXTINF:-1,TV Justila
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59346.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59318.m3u8
+#EXTINF:-1,TV RA tim bum
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59345.m3u8
+#EXTINF:-1,TV Senado
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59344.m3u8
+#EXTINF:-1,TV Tem Sao Jose do Rio Preto
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59343.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59317.m3u8
+#EXTINF:-1,TV5 Monde
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59342.m3u8
+#EXTINF:-1,TVE
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59341.m3u8
+#EXTINF:-1,Universal Channel
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59340.m3u8
+#EXTINF:-1,VH1 Megahits
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59339.m3u8
+#EXTINF:-1,Viva
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59338.m3u8
+#EXTINF:-1,Warner Channel
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59337.m3u8
+#EXTINF:-1,Woohoo
+http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/59336.m3u8
