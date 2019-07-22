@@ -1,77 +1,305 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Rai 1 HD" tvg-logo="" group-title="ITALIAN",Rai 1 HD
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/688.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai 2 HD" tvg-logo="" group-title="ITALIAN",Rai 2 HD
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/734.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai 3 HD" tvg-logo="" group-title="ITALIAN",Rai 3 HD
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/194.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Canale 5 HD" tvg-logo="" group-title="ITALIAN",Canale 5 HD
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/74.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Italia 1 HD" tvg-logo="" group-title="ITALIAN",Italia 1 HD
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/419.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Italia 2 HD" tvg-logo="" group-title="ITALIAN",Italia 2 HD
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/729.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="20 Mediaset" tvg-logo="" group-title="ITALIAN",20 Mediaset
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2329.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="20 Studio Universal" tvg-logo="" group-title="ITALIAN",20 Studio Universal
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2615.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="RSI La 1" tvg-logo="" group-title="ITALIAN",RSI La 1
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2313.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="RSI La 2" tvg-logo="" group-title="ITALIAN",RSI La 2
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2314.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai News 24" tvg-logo="" group-title="ITALIAN",Rai News 24
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/415.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Premium" tvg-logo="" group-title="ITALIAN",Rai Premium
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/549.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Movie" tvg-logo="" group-title="ITALIAN",Rai Movie
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/277.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Scuola" tvg-logo="" group-title="ITALIAN",Rai Scuola
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/552.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Yoyo" tvg-logo="" group-title="ITALIAN",Rai Yoyo
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/550.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="S Uno" tvg-logo="" group-title="ITALIAN",S Uno
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/279.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="" group-title="ITALIAN",Fox
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2316.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Comedy" tvg-logo="" group-title="ITALIAN",Fox Comedy
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2317.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="" group-title="ITALIAN",Fox Crime
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2318.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="" group-title="ITALIAN",Fox Life
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2319.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Animation" tvg-logo="" group-title="ITALIAN",Fox Animation
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2612.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema" tvg-logo="" group-title="ITALIAN",P Cinema
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2328.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema Comedy" tvg-logo="" group-title="ITALIAN",P Cinema Comedy
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2330.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema Action" tvg-logo="" group-title="ITALIAN",P Cinema Action
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2332.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema Crime" tvg-logo="" group-title="ITALIAN",P Cinema Crime
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2331.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema Joy" tvg-logo="" group-title="ITALIAN",P Cinema Joy
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2333.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema Energy" tvg-logo="" group-title="ITALIAN",P Cinema Energy
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2614.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="P Cinema Emotion" tvg-logo="" group-title="ITALIAN",P Cinema Emotion
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2613.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="ITALIAN",Animal Planet
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2336.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="ITALIAN",Discovery Channel
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2334.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Max" tvg-logo="" group-title="ITALIAN",Discovery Max
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2337.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="" group-title="ITALIAN",Discovery Science
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2335.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Real Time" tvg-logo="" group-title="ITALIAN",Discovery Real Time
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2618.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" group-title="ITALIAN",National Geographic
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2338.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Wild" tvg-logo="" group-title="ITALIAN",NatGeo Wild
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2617.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NatGeo People" tvg-logo="" group-title="ITALIAN",NatGeo People
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2616.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Inter TV" tvg-logo="" group-title="ITALIAN",Inter TV
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2129.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Milan TV" tvg-logo="" group-title="ITALIAN",Milan TV
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2127.m3u8
+#EXTINF:-1,Alice
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91979.m3u8
+#EXTINF:-1,Animal Planet
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91978.m3u8
+#EXTINF:-1,Automoto TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91977.m3u8
+#EXTINF:-1,Baby TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91976.m3u8
+#EXTINF:-1,Boing
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91975.m3u8
+#EXTINF:-1,Caccia e Pesca
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91974.m3u8
+#EXTINF:-1,Canale 5 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91973.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91972.m3u8
+#EXTINF:-1,Cartoonito
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91971.m3u8
+#EXTINF:-1,Cielo HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91970.m3u8
+#EXTINF:-1,Class Horse TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91969.m3u8
+#EXTINF:-1,Deejay TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91968.m3u8
+#EXTINF:-1,Discovery HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91967.m3u8
+#EXTINF:-1,Discovery Science HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91966.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91965.m3u8
+#EXTINF:-1,Disney Junior HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91964.m3u8
+#EXTINF:-1,Disney XD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91963.m3u8
+#EXTINF:-1,Dmax
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91962.m3u8
+#EXTINF:-1,Dmax  1
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91961.m3u8
+#EXTINF:-1,E!
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91960.m3u8
+#EXTINF:-1,Eurosport 1
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91959.m3u8
+#EXTINF:-1,Eurosport 2
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91958.m3u8
+#EXTINF:-1,Expansione TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91957.m3u8
+#EXTINF:-1,Fine living
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91956.m3u8
+#EXTINF:-1,Focus
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91955.m3u8
+#EXTINF:-1,Fox Animation HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91954.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91953.m3u8
+#EXTINF:-1,Fox HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91952.m3u8
+#EXTINF:-1,Fox Life HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91951.m3u8
+#EXTINF:-1,Fox Sports HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91950.m3u8
+#EXTINF:-1,GAMBERRO ROSSO HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91949.m3u8
+#EXTINF:-1,Giallo
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91948.m3u8
+#EXTINF:-1,History
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91947.m3u8
+#EXTINF:-1,INTER CHANNEL
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91946.m3u8
+#EXTINF:-1,Investigation Discovery
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91945.m3u8
+#EXTINF:-1,Iris
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91944.m3u8
+#EXTINF:-1,Italia 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91943.m3u8
+#EXTINF:-1,Italia 2
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91942.m3u8
+#EXTINF:-1,Italian Fishing TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91941.m3u8
+#EXTINF:-1,K2
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91940.m3u8
+#EXTINF:-1,La 5
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91939.m3u8
+#EXTINF:-1,LA 7d HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91938.m3u8
+#EXTINF:-1,La7d HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91937.m3u8
+#EXTINF:-1,M2O TV
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91936.m3u8
+#EXTINF:-1,MANGA
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91935.m3u8
+#EXTINF:-1,MarcoPolo
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91934.m3u8
+#EXTINF:-1,Mediaset Extra
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91933.m3u8
+#EXTINF:-1,Milan Channel
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91926.m3u8
+#EXTINF:-1,Nat Geo HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91932.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91931.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91930.m3u8
+#EXTINF:-1,Nautical HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91929.m3u8
+#EXTINF:-1,Nuvolari
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91928.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91927.m3u8
+#EXTINF:-1,Premium Action  24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91925.m3u8
+#EXTINF:-1,Premium Action HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91924.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91923.m3u8
+#EXTINF:-1,Premium Calcio 2
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91922.m3u8
+#EXTINF:-1,Premium Calcio 3
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91921.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91920.m3u8
+#EXTINF:-1,Premium Calcio 5
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91919.m3u8
+#EXTINF:-1,Premium Calcio 6
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91918.m3u8
+#EXTINF:-1,Premium Cinema  24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91917.m3u8
+#EXTINF:-1,Premium Cinema 2  24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91916.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91915.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91914.m3u8
+#EXTINF:-1,Premium Comedy
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91913.m3u8
+#EXTINF:-1,Premium Crime  24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91912.m3u8
+#EXTINF:-1,Premium Crime HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91911.m3u8
+#EXTINF:-1,Premium Emotion
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91910.m3u8
+#EXTINF:-1,Premium Energy
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91909.m3u8
+#EXTINF:-1,Premium Joi  24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91908.m3u8
+#EXTINF:-1,Premium Joi HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91907.m3u8
+#EXTINF:-1,Premium Sport 2
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91906.m3u8
+#EXTINF:-1,Premium Sport 2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91905.m3u8
+#EXTINF:-1,Premium Sport HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91904.m3u8
+#EXTINF:-1,Premium Stories
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91903.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91902.m3u8
+#EXTINF:-1,RAI 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91901.m3u8
+#EXTINF:-1,RAI 2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91900.m3u8
+#EXTINF:-1,RAI 3 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91899.m3u8
+#EXTINF:-1,RAI 4 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91898.m3u8
+#EXTINF:-1,RAI 5 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91897.m3u8
+#EXTINF:-1,RAI GULP
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91896.m3u8
+#EXTINF:-1,Rai Movie
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91895.m3u8
+#EXTINF:-1,Rai News 24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91894.m3u8
+#EXTINF:-1,Rai Premium
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91893.m3u8
+#EXTINF:-1,Rai Sport 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91892.m3u8
+#EXTINF:-1,Rai Sport 2
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91891.m3u8
+#EXTINF:-1,Rai Storia
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91890.m3u8
+#EXTINF:-1,Rai Yoyo
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91889.m3u8
+#EXTINF:-1,Real Time HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91888.m3u8
+#EXTINF:-1,Rete4 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91887.m3u8
+#EXTINF:-1,RSI La1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91886.m3u8
+#EXTINF:-1,RSI La2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91885.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91884.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91883.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91882.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91881.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91880.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91879.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91878.m3u8
+#EXTINF:-1,Sky Cinema  1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91877.m3u8
+#EXTINF:-1,Sky Cinema  24 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91876.m3u8
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91875.m3u8
+#EXTINF:-1,Sky Cinema Classic
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91874.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91873.m3u8
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91872.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91871.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91870.m3u8
+#EXTINF:-1,Sky Cinema Max  1
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91869.m3u8
+#EXTINF:-1,Sky Cinema Max HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91868.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91867.m3u8
+#EXTINF:-1,Sky Primafila 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91866.m3u8
+#EXTINF:-1,Sky Primafila 10 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91865.m3u8
+#EXTINF:-1,Sky Primafila 11 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91864.m3u8
+#EXTINF:-1,Sky PrimaFila 12 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91863.m3u8
+#EXTINF:-1,Sky Primafila 13 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91862.m3u8
+#EXTINF:-1,Sky Primafila 14 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91861.m3u8
+#EXTINF:-1,Sky Primafila 15 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91860.m3u8
+#EXTINF:-1,Sky Primafila 16 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91859.m3u8
+#EXTINF:-1,Sky Primafila 17 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91858.m3u8
+#EXTINF:-1,Sky Primafila 18 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91857.m3u8
+#EXTINF:-1,Sky Primafila 19 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91856.m3u8
+#EXTINF:-1,Sky Primafila 2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91855.m3u8
+#EXTINF:-1,Sky Primafila 20 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91854.m3u8
+#EXTINF:-1,Sky Primafila 21 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91853.m3u8
+#EXTINF:-1,Sky Primafila 22 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91852.m3u8
+#EXTINF:-1,Sky Primafila 3 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91851.m3u8
+#EXTINF:-1,Sky Primafila 4 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91850.m3u8
+#EXTINF:-1,Sky Primafila 5 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91849.m3u8
+#EXTINF:-1,Sky Primafila 6 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91848.m3u8
+#EXTINF:-1,Sky Primafila 7 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91847.m3u8
+#EXTINF:-1,Sky Primafila 8 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91846.m3u8
+#EXTINF:-1,Sky Primafila 9 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91845.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91844.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91843.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91842.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91841.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91840.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91839.m3u8
+#EXTINF:-1,Sky Sport Plus HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91838.m3u8
+#EXTINF:-1,Sky Super Calcio HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91837.m3u8
+#EXTINF:-1,Sky TG 24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91836.m3u8
+#EXTINF:-1,Sky Uno HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91835.m3u8
+#EXTINF:-1,Sport italia
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91834.m3u8
+#EXTINF:-1,Super
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91833.m3u8
+#EXTINF:-1,Supertennis HD
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91832.m3u8
+#EXTINF:-1,TeleTicino
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91831.m3u8
+#EXTINF:-1,TGCOM 24
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91830.m3u8
+#EXTINF:-1,Top Crime
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91829.m3u8
+#EXTINF:-1,TV Sat 2000
+http://iptvtool.es:9977/live/Bzizn7zbs/42ZK4W0L3D/91828.m3u8
