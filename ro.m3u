@@ -1,121 +1,303 @@
 #EXTM3U
-#EXTINF:-1,TVR 1 HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7406.m3u8
-#EXTINF:-1,TVR 2 HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7407.m3u8
-#EXTINF:-1,TV5 Mondo
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7414.m3u8
-#EXTINF:-1,Romania TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7444.m3u8
-#EXTINF:-1,National TV HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7410.m3u8
-#EXTINF:-1,Pro TV HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7409.m3u8
-#EXTINF:-1,U TV HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7413.m3u8
-#EXTINF:-1,B1 TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7464.m3u8
-#EXTINF:-1,Taraf TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7408.m3u8
-#EXTINF:-1,Boomerang
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7425.m3u8
-#EXTINF:-1,Digi 24 Galati
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7422.m3u8
-#EXTINF:-1,Ento TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7421.m3u8
-#EXTINF:-1,Paramount Channel
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7419.m3u8
-#EXTINF:-1,Sport RO
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7417.m3u8
-#EXTINF:-1,TNT HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7416.m3u8
-#EXTINF:-1,Trinitas
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7415.m3u8
-#EXTINF:-1,Music Channe hu
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7411.m3u8
-#EXTINF:-1,Viasat History HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7412.m3u8
-#EXTINF:-1,1 Music Channel
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7430.m3u8
-#EXTINF:-1,Acasa TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7429.m3u8
-#EXTINF:-1,Agro TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7428.m3u8
+#EXTINF:-1, 1 Music Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72219.m3u8
+#EXTINF:-1, Acasa HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72218.m3u8
+#EXTINF:-1, Agro TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72217.m3u8
+#EXTINF:-1, AMC
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72216.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72215.m3u8
+#EXTINF:-1, Antena 1 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72214.m3u8
+#EXTINF:-1, Antena 3 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72213.m3u8
+#EXTINF:-1, Antena International
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72212.m3u8
+#EXTINF:-1, Antena Star HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72211.m3u8
+#EXTINF:-1, Arena Sport 1
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72210.m3u8
+#EXTINF:-1, Arena Sport 2 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72209.m3u8
+#EXTINF:-1, Arena Sport 3 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72208.m3u8
+#EXTINF:-1, Arena Sport 4 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72207.m3u8
+#EXTINF:-1, Arenat 4
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72206.m3u8
+#EXTINF:-1, Auto Motor Sport FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72205.m3u8
+#EXTINF:-1, AXN BLACK
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72204.m3u8
+#EXTINF:-1, AXN White HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72203.m3u8
+#EXTINF:-1, B1 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72202.m3u8
+#EXTINF:-1, BBC Earth HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72201.m3u8
+#EXTINF:-1, Boomerang
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72200.m3u8
+#EXTINF:-1, Cartoon Network
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72198.m3u8
+#EXTINF:-1, Cinemax 2 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72197.m3u8
+#EXTINF:-1, Cinemax HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72196.m3u8
+#EXTINF:-1, CINEMAX RO
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72262.m3u8
+#EXTINF:-1, DIBI TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72195.m3u8
+#EXTINF:-1, Digi 24 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72194.m3u8
+#EXTINF:-1, Digi ANIMAL WORLD HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72193.m3u8
+#EXTINF:-1, Digi FILM HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72192.m3u8
+#EXTINF:-1, Digi Film NOW HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72191.m3u8
+#EXTINF:-1, Digi Life
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72190.m3u8
+#EXTINF:-1, Digi Sport 1 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72189.m3u8
+#EXTINF:-1, Digi Sport 2 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72188.m3u8
+#EXTINF:-1, Digi Sport 3 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72187.m3u8
+#EXTINF:-1, DIGI SPORT 4 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72186.m3u8
+#EXTINF:-1, Digi Sport 4 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72185.m3u8
+#EXTINF:-1, Digi WORLD HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72184.m3u8
+#EXTINF:-1, Discovery Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72183.m3u8
+#EXTINF:-1, Discovery Science HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72182.m3u8
+#EXTINF:-1, Disney Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72181.m3u8
+#EXTINF:-1, Disney Junior
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72180.m3u8
+#EXTINF:-1, Etno HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72179.m3u8
+#EXTINF:-1, FAVORIT TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72176.m3u8
+#EXTINF:-1, Film Cafe
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72175.m3u8
+#EXTINF:-1, Fishing & Hunting HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72174.m3u8
+#EXTINF:-1, Fix & Foxi
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72173.m3u8
+#EXTINF:-1, Food Network HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72172.m3u8
+#EXTINF:-1, HAPPY CHANNEL HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72171.m3u8
+#EXTINF:-1, HBO 2 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72170.m3u8
+#EXTINF:-1, HBO 3 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72169.m3u8
+#EXTINF:-1, HBO HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72168.m3u8
+#EXTINF:-1, History Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72167.m3u8
+#EXTINF:-1, Kanal D HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72166.m3u8
+#EXTINF:-1, KISS TV HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72165.m3u8
+#EXTINF:-1, Look Plus HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72164.m3u8
+#EXTINF:-1, Look Sport TV FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72163.m3u8
+#EXTINF:-1, Mania TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72162.m3u8
+#EXTINF:-1, MegaMax HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72161.m3u8
+#EXTINF:-1, Minimax
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72160.m3u8
+#EXTINF:-1, MTV Rocks
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72159.m3u8
+#EXTINF:-1, Music 1 Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72158.m3u8
+#EXTINF:-1, NAT GEO
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72157.m3u8
+#EXTINF:-1, NAT GEO Wild HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72156.m3u8
+#EXTINF:-1, National TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72155.m3u8
+#EXTINF:-1, Neptun TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72154.m3u8
+#EXTINF:-1, Nick Junior
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72153.m3u8
+#EXTINF:-1, Nickelodeon HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72152.m3u8
+#EXTINF:-1, Paramount Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72151.m3u8
+#EXTINF:-1, Pink Romance
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72150.m3u8
+#EXTINF:-1, Prima
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72149.m3u8
+#EXTINF:-1, Prima Cool
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72148.m3u8
+#EXTINF:-1, PRO 2 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72147.m3u8
+#EXTINF:-1, Pro Cinema HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72146.m3u8
+#EXTINF:-1, PRO GOLD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72145.m3u8
+#EXTINF:-1, PRO TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72144.m3u8
+#EXTINF:-1, PRO TV International
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72143.m3u8
+#EXTINF:-1, PRO X HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72142.m3u8
+#EXTINF:-1, PROCINEMA
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72259.m3u8
+#EXTINF:-1, Realite TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72141.m3u8
+#EXTINF:-1, RO TVR 3
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72140.m3u8
+#EXTINF:-1, Romania TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72139.m3u8
+#EXTINF:-1, STARS
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72138.m3u8
+#EXTINF:-1, SUPERTENNIS HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72137.m3u8
+#EXTINF:-1, Taraf HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72136.m3u8
+#EXTINF:-1, Tele Moldova Plus
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72135.m3u8
+#EXTINF:-1, TELEKOM SPORT 1 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72134.m3u8
+#EXTINF:-1, TELEKOM SPORT 2 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72133.m3u8
+#EXTINF:-1, TELEKOM SPORT 3 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72132.m3u8
+#EXTINF:-1, TELEKOM SPORT 4 FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72131.m3u8
+#EXTINF:-1, TELESHOP TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72130.m3u8
+#EXTINF:-1, The Fishing & Hunting
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72129.m3u8
+#EXTINF:-1, TLC
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72128.m3u8
+#EXTINF:-1, TNT
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72127.m3u8
+#EXTINF:-1, Travel Channel FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72126.m3u8
+#EXTINF:-1, TRINITAS TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72125.m3u8
+#EXTINF:-1, TV 1000 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72124.m3u8
+#EXTINF:-1, TV Paprika
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72123.m3u8
+#EXTINF:-1, TV5 Monde
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72122.m3u8
+#EXTINF:-1, TVR 1 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72121.m3u8
+#EXTINF:-1, TVR 2 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72120.m3u8
+#EXTINF:-1, TVR 3 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72119.m3u8
+#EXTINF:-1, TVR HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72118.m3u8
+#EXTINF:-1, TVR International
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72117.m3u8
+#EXTINF:-1, UTV HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72116.m3u8
+#EXTINF:-1, VIASAT EXPLORER
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72115.m3u8
+#EXTINF:-1, Viasat History FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72114.m3u8
+#EXTINF:-1, Viasat Nature
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72113.m3u8
+#EXTINF:-1, ZU TV HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72112.m3u8
+#EXTINF:-1,ANTENA  STARS
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72248.m3u8
 #EXTINF:-1,Antena 1
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7440.m3u8
-#EXTINF:-1,Antena Stars
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7439.m3u8
-#EXTINF:-1,AXN
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7427.m3u8
-#EXTINF:-1,AXN White
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7426.m3u8
-#EXTINF:-1,Cinemax
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7424.m3u8
-#EXTINF:-1,Pro Cinema HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7418.m3u8
-#EXTINF:-1,Cinemax 2
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7438.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/51002.m3u8
+#EXTINF:-1,AXN  ROMANIA
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72244.m3u8
+#EXTINF:-1,AXN  WHITE
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72241.m3u8
+#EXTINF:-1,B1 Tv
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72237.m3u8
+#EXTINF:-1,CINEMAX  2
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72234.m3u8
+#EXTINF:-1,DIGI  WORLD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72264.m3u8
 #EXTINF:-1,Digi 24
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7463.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72258.m3u8
 #EXTINF:-1,Digi Animal World
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7462.m3u8
-#EXTINF:-1,Digi Film
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7437.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72253.m3u8
 #EXTINF:-1,Digi Life
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7461.m3u8
-#EXTINF:-1,Digi Sport 1 HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/16996.m3u8
-#EXTINF:-1,Digi Sport 2
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7458.m3u8
-#EXTINF:-1,Digi Sport 3
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7459.m3u8
-#EXTINF:-1,Digi Sport 4
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7460.m3u8
-#EXTINF:-1,Digi Wolrd
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7457.m3u8
-#EXTINF:-1,Disney Junior
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7456.m3u8
-#EXTINF:-1,Eurosport 1
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7446.m3u8
-#EXTINF:-1,Eurosport 2
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7455.m3u8
-#EXTINF:-1,Favorit Tv
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7442.m3u8
-#EXTINF:-1,Fishing & Hunting
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7436.m3u8
-#EXTINF:-1,HBO
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7420.m3u8
-#EXTINF:-1,Happy Channel
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7435.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72251.m3u8
+#EXTINF:-1,DISNEY  JUNIOR
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72260.m3u8
+#EXTINF:-1,Etno Tv
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72255.m3u8
+#EXTINF:-1,FAVORTI  TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72263.m3u8
+#EXTINF:-1,FISHING &  HUNTING
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72257.m3u8
+#EXTINF:-1,HAPPY  CHANNEL
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72252.m3u8
+#EXTINF:-1,HBO  ROMANIA
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72250.m3u8
 #EXTINF:-1,HBO 2
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7434.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72247.m3u8
 #EXTINF:-1,HBO 3
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7445.m3u8
-#EXTINF:-1,History Channel
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7454.m3u8
-#EXTINF:-1,Kanal D
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7453.m3u8
-#EXTINF:-1,Kiss TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7433.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72243.m3u8
+#EXTINF:-1,HBO Romania
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72242.m3u8
+#EXTINF:-1,HISTORY  CHANNELH
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72239.m3u8
+#EXTINF:-1,KANAL  D
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72236.m3u8
+#EXTINF:-1,KISS TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72235.m3u8
+#EXTINF:-1,LOOK  TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72233.m3u8
 #EXTINF:-1,Look Plus
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7432.m3u8
-#EXTINF:-1,Look TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7431.m3u8
-#EXTINF:-1,MegaMax
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7452.m3u8
-#EXTINF:-1,MiniMax
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7451.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7450.m3u8
-#EXTINF:-1,National Geographic
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7449.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72232.m3u8
+#EXTINF:-1,MEGAMAZ
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72231.m3u8
+#EXTINF:-1,MUSIC CHANEL  ONE
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72230.m3u8
+#EXTINF:-1,MUSIC CHANNEL HU
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72229.m3u8
+#EXTINF:-1,MUSIC CHANNEL ONE1
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72228.m3u8
+#EXTINF:-1,NATIONAL  GEOGRAPHIC
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72227.m3u8
+#EXTINF:-1,NATIONAL  TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72226.m3u8
+#EXTINF:-1,NATIONAL GEO WILD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72225.m3u8
 #EXTINF:-1,Nickelodeon
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7466.m3u8
-#EXTINF:-1,Prima TV
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7448.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72224.m3u8
+#EXTINF:-1,PRIMA  TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72223.m3u8
+#EXTINF:-1,PRO TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72222.m3u8
 #EXTINF:-1,Realitatea Tv
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7447.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72221.m3u8
+#EXTINF:-1,ROMANIA  TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72220.m3u8
+#EXTINF:-1,Taraf Tv
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72261.m3u8
+#EXTINF:-1,TNT
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72256.m3u8
 #EXTINF:-1,TV1000
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7443.m3u8
-#EXTINF:-1,Viasat Nature HD
-http://123iptv.nl:88/live/n1Tte8frk9/1HYCVyLcVK/7441.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72254.m3u8
+#EXTINF:-1,TV5 MONDE
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72249.m3u8
+#EXTINF:-1,TVR 1
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72246.m3u8
+#EXTINF:-1,TVR 2
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72245.m3u8
+#EXTINF:-1,VIASAT  HISTORY
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72240.m3u8
+#EXTINF:-1,VIASAT  NATURE
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/72238.m3u8
