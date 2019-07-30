@@ -1,343 +1,225 @@
 #EXTM3U
-#EXTINF:-1,#0 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17294.m3u8
-#EXTINF:-1,24H
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17251.m3u8
-#EXTINF:-1,3/24 CAT
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17215.m3u8
-#EXTINF:-1,33 CAT
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17214.m3u8
-#EXTINF:-1,7 TV Murcia
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17250.m3u8
-#EXTINF:-1,8TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17213.m3u8
-#EXTINF:-1,A3series HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17249.m3u8
-#EXTINF:-1,AE
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17276.m3u8
-#EXTINF:-1,AMC HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17293.m3u8
+#EXTINF:-1,ES POP: BEIN Sports LaLiga | FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/45460.m3u8
+#EXTINF:-1,ES POP: ESPN 2 | UHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/45458.m3u8
+#EXTINF:-1,ES POP: ESPN 3 ARGENTINA | SD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/45457.m3u8
+#EXTINF:-1, Andalucia TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/55964.m3u8
+#EXTINF:-1, AZTECA 7 (MX) | UHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/71728.m3u8
+#EXTINF:-1, LIGA DE CAMPEONES FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/55960.m3u8
+#EXTINF:-1, Liga de Campeones HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/71731.m3u8
+#EXTINF:-1, M LIGA | UHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/66359.m3u8
+#EXTINF:-1, M Liga de Campeones | UHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/66358.m3u8
+#EXTINF:-1, MoviStar DCINE HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/71730.m3u8
+#EXTINF:-1, MoviStar FUTBOL HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/71729.m3u8
+#EXTINF:-1, Movistar LaLiga Campeons HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/55961.m3u8
+#EXTINF:-1, Movistar LIGA
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/65978.m3u8
+#EXTINF:-1, VIAJAR FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/55963.m3u8
+#EXTINF:-1,13 TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77181.m3u8
+#EXTINF:-1,24 Horas
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77180.m3u8
+#EXTINF:-1,A&E
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77179.m3u8
+#EXTINF:-1,A3 SERIES HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77178.m3u8
+#EXTINF:-1,Alquiler 1 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77177.m3u8
+#EXTINF:-1,ALQUILER 2
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77176.m3u8
+#EXTINF:-1,Alquiler 3 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77175.m3u8
+#EXTINF:-1,ALQUILER 4
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77174.m3u8
+#EXTINF:-1,ALQUILER 5
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77173.m3u8
+#EXTINF:-1,Alquiler 6 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77172.m3u8
+#EXTINF:-1,Alquiler 7 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77171.m3u8
+#EXTINF:-1,ALQUILER 9
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77170.m3u8
+#EXTINF:-1,AMC
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77169.m3u8
 #EXTINF:-1,Andalucia TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17212.m3u8
-#EXTINF:-1,Antena 3 Full HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17444.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77168.m3u8
 #EXTINF:-1,Antena 3 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/11254.m3u8
-#EXTINF:-1,Antena 3 HQ
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17442.m3u8
-#EXTINF:-1,Antena 3 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17248.m3u8
-#EXTINF:-1,Aragon TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17211.m3u8
-#EXTINF:-1,AXN SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17292.m3u8
-#EXTINF:-1,AXN White SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17291.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77167.m3u8
+#EXTINF:-1,Antenna 3
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77166.m3u8
+#EXTINF:-1,ARAGON TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77165.m3u8
+#EXTINF:-1,Axn
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77164.m3u8
+#EXTINF:-1,AXN White
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77163.m3u8
+#EXTINF:-1,AXN White HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77162.m3u8
 #EXTINF:-1,Baby TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17260.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77161.m3u8
 #EXTINF:-1,Barca TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17338.m3u8
-#EXTINF:-1,Bein Sports LaLiga SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17330.m3u8
-#EXTINF:-1,BeMad TV HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17247.m3u8
-#EXTINF:-1,Betis TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17329.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77160.m3u8
+#EXTINF:-1,Bein La Liga
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/55967.m3u8
+#EXTINF:-1,Bein Sport Spain
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/55966.m3u8
+#EXTINF:-1,BEMAD HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77159.m3u8
 #EXTINF:-1,Boing
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17246.m3u8
-#EXTINF:-1,Calle 13
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17290.m3u8
-#EXTINF:-1,Canal Cocina
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17265.m3u8
-#EXTINF:-1,Canal Costa TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17245.m3u8
-#EXTINF:-1,Canal De Las Estrellas
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17210.m3u8
-#EXTINF:-1,Canal Panda
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17259.m3u8
-#EXTINF:-1,Canal Parlamento
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17244.m3u8
-#EXTINF:-1,Canal Sur
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17209.m3u8
-#EXTINF:-1,Canal Sur Cocina
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17208.m3u8
-#EXTINF:-1,Canal Sur La Banda TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17207.m3u8
-#EXTINF:-1,Canal Sur Turismo
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17206.m3u8
-#EXTINF:-1,Castilla La Mancha Media
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17205.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77158.m3u8
+#EXTINF:-1,Casa y Pesca
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77157.m3u8
 #EXTINF:-1,Caza y Pesca HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17337.m3u8
-#EXTINF:-1,Caza y Pesca
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16759.m3u8
-#EXTINF:-1,Cine 3D
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17336.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77156.m3u8
 #EXTINF:-1,Clan TVE
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17243.m3u8
-#EXTINF:-1,Classica
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17335.m3u8
-#EXTINF:-1,Comedy Central SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17289.m3u8
-#EXTINF:-1,Cosmo TV SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17288.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77155.m3u8
+#EXTINF:-1,CNN
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77154.m3u8
+#EXTINF:-1,Comedy Central
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77153.m3u8
+#EXTINF:-1,Cosmo
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77152.m3u8
 #EXTINF:-1,Crime & Investigation
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17264.m3u8
-#EXTINF:-1,Cuatro HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17242.m3u8
-#EXTINF:-1,Cuatro SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17241.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77151.m3u8
+#EXTINF:-1,Crime&Investigation
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77150.m3u8
+#EXTINF:-1,Cuatro
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77149.m3u8
 #EXTINF:-1,Decasa
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17263.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17275.m3u8
-#EXTINF:-1,Discovery Channel SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17274.m3u8
-#EXTINF:-1,Discovery Max
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17240.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77148.m3u8
+#EXTINF:-1,DECASA TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77147.m3u8
+#EXTINF:-1,Discovery Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77146.m3u8
+#EXTINF:-1,Disney Channel
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77145.m3u8
 #EXTINF:-1,Disney Channel HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17258.m3u8
-#EXTINF:-1,Disney Channel SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17257.m3u8
-#EXTINF:-1,Disney Junior
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17256.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77144.m3u8
+#EXTINF:-1,Disney Jr.
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77143.m3u8
 #EXTINF:-1,Disney XD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17255.m3u8
-#EXTINF:-1,Divinity
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17239.m3u8
-#EXTINF:-1,Dkiss
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17262.m3u8
-#EXTINF:-1,DW en Español
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17204.m3u8
-#EXTINF:-1,El Garaje TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17261.m3u8
-#EXTINF:-1,Energy
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17238.m3u8
-#EXTINF:-1,Esport 3 CAT
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17328.m3u8
-#EXTINF:-1,ETB Sat
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17203.m3u8
-#EXTINF:-1,Euronews HD en Español
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17202.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17320.m3u8
-#EXTINF:-1,Eurosport 1 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17319.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16758.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17318.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16757.m3u8
-#EXTINF:-1,Extremadura TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17201.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77142.m3u8
+#EXTINF:-1,DIVINITY
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77141.m3u8
+#EXTINF:-1,DKISS
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77140.m3u8
 #EXTINF:-1,FDF
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17237.m3u8
-#EXTINF:-1,Fox HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17287.m3u8
-#EXTINF:-1,Fox Life SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17286.m3u8
-#EXTINF:-1,Fox SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17285.m3u8
-#EXTINF:-1,Galicia TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17200.m3u8
-#EXTINF:-1,Gol HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17236.m3u8
-#EXTINF:-1,Gol SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17235.m3u8
-#EXTINF:-1,GOL Tv
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16756.m3u8
-#EXTINF:-1,Granada Channel TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17234.m3u8
-#EXTINF:-1,Hispan TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17199.m3u8
-#EXTINF:-1,Historia HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17273.m3u8
-#EXTINF:-1,Hollywood HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17309.m3u8
-#EXTINF:-1,IB3 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/13198.m3u8
-#EXTINF:-1,Iberalia
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17334.m3u8
-#EXTINF:-1,intereconomia
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17233.m3u8
-#EXTINF:-1,LA 1 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17232.m3u8
-#EXTINF:-1,LA 1 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17231.m3u8
-#EXTINF:-1,LA 2
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17230.m3u8
-#EXTINF:-1,La 8 Mediterráneo
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17198.m3u8
-#EXTINF:-1,La Liga TV BAR SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17327.m3u8
-#EXTINF:-1,La Liga TV HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16755.m3u8
-#EXTINF:-1,La Otra
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17197.m3u8
-#EXTINF:-1,La Sexta Full HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17437.m3u8
-#EXTINF:-1,La Sexta HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/4315.m3u8
-#EXTINF:-1,La Sexta SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17229.m3u8
-#EXTINF:-1,LaLiga 1|2|3 TV HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17326.m3u8
-#EXTINF:-1,LaLiga 123 TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16754.m3u8
-#EXTINF:-1,Lancelot TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17196.m3u8
-#EXTINF:-1,Levante TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17195.m3u8
-#EXTINF:-1,Libertad Digital
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17228.m3u8
-#EXTINF:-1,LTC
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17227.m3u8
-#EXTINF:-1,M Liga de Campeones HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17332.m3u8
-#EXTINF:-1,M Liga de Campeones SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17331.m3u8
-#EXTINF:-1,Mega SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17226.m3u8
-#EXTINF:-1,Mezzo Live HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17190.m3u8
-#EXTINF:-1,Movistar  Accion HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17308.m3u8
-#EXTINF:-1,Movistar  Accion SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17307.m3u8
-#EXTINF:-1,Movistar  Cine N
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17306.m3u8
-#EXTINF:-1,Movistar  Comedia HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17305.m3u8
-#EXTINF:-1,Movistar  Comedia SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17304.m3u8
-#EXTINF:-1,Movistar  Dcine HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17303.m3u8
-#EXTINF:-1,Movistar  Dcine SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17302.m3u8
-#EXTINF:-1,Movistar  Deportes 1 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17317.m3u8
-#EXTINF:-1,Movistar  Deportes 1 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17316.m3u8
-#EXTINF:-1,Movistar  Deportes 2 HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17315.m3u8
-#EXTINF:-1,Movistar  Deportes 2 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17314.m3u8
-#EXTINF:-1,Movistar  Disney
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17301.m3u8
-#EXTINF:-1,Movistar  eSports HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17313.m3u8
-#EXTINF:-1,Movistar  Estrenos HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17300.m3u8
-#EXTINF:-1,Movistar  Estrenos SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17299.m3u8
-#EXTINF:-1,Movistar  Formula 1 SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17312.m3u8
-#EXTINF:-1,Movistar  Futbol HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17325.m3u8
-#EXTINF:-1,Movistar  Futbol SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17324.m3u8
-#EXTINF:-1,Movistar  Golf
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17311.m3u8
-#EXTINF:-1,Movistar  Series SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17284.m3u8
-#EXTINF:-1,Movistar  Series Xtra SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17283.m3u8
-#EXTINF:-1,Movistar  Xtra
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17298.m3u8
-#EXTINF:-1,Movistar  Xtra HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17297.m3u8
-#EXTINF:-1,Movistar F1 FHD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16753.m3u8
-#EXTINF:-1,Movistar Futbol HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16752.m3u8
-#EXTINF:-1,Movistar Golf FHD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16751.m3u8
-#EXTINF:-1,Movistar Partidazo FHD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16750.m3u8
-#EXTINF:-1,MTV Espana
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17282.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17272.m3u8
-#EXTINF:-1,Nat Geo Wild SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17271.m3u8
-#EXTINF:-1,National Geoghraphic HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17270.m3u8
-#EXTINF:-1,National Geoghraphic SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17269.m3u8
-#EXTINF:-1,Neox
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17225.m3u8
-#EXTINF:-1,Nick JR
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17254.m3u8
-#EXTINF:-1,Nickelodeon
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17253.m3u8
-#EXTINF:-1,Nonstopeople
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17281.m3u8
-#EXTINF:-1,Nova
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17224.m3u8
-#EXTINF:-1,Odisea SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17268.m3u8
-#EXTINF:-1,Onda Azul
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17194.m3u8
-#EXTINF:-1,Paramount Channel
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17223.m3u8
-#EXTINF:-1,Real Madrid HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17323.m3u8
-#EXTINF:-1,Real Madrid SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17322.m3u8
-#EXTINF:-1,Real Madrid TV FHD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16749.m3u8
-#EXTINF:-1,RT HD en Español
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17193.m3u8
-#EXTINF:-1,Sevilla FC
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17321.m3u8
-#EXTINF:-1,Sundance TV
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17296.m3u8
-#EXTINF:-1,Super3
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17252.m3u8
-#EXTINF:-1,SYFY HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17280.m3u8
-#EXTINF:-1,SyFy SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17279.m3u8
-#EXTINF:-1,TCM SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17295.m3u8
-#EXTINF:-1,Telecinco SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17222.m3u8
-#EXTINF:-1,Teledeporte
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17221.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77139.m3u8
+#EXTINF:-1,Fox
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77138.m3u8
+#EXTINF:-1,FOX HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77137.m3u8
+#EXTINF:-1,FOX LIFE
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77136.m3u8
+#EXTINF:-1,GALICIA AMERICA TV HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77135.m3u8
+#EXTINF:-1,GOL
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77134.m3u8
+#EXTINF:-1,Gol TV HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77133.m3u8
+#EXTINF:-1,Historia
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77132.m3u8
+#EXTINF:-1,Hollywood
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77131.m3u8
+#EXTINF:-1,Iberalia TV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77130.m3u8
+#EXTINF:-1,LA 1
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77129.m3u8
+#EXTINF:-1,La 2
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77128.m3u8
+#EXTINF:-1,La Liga
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77127.m3u8
+#EXTINF:-1,LA Sexta
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77126.m3u8
+#EXTINF:-1,M F1
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77125.m3u8
+#EXTINF:-1,MEGA HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77124.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77123.m3u8
+#EXTINF:-1,Moviestar Accion HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77122.m3u8
+#EXTINF:-1,Moviestar CINE Ñ
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77121.m3u8
+#EXTINF:-1,Moviestar Golf FHD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77120.m3u8
+#EXTINF:-1,Moviestar XTRA HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77119.m3u8
+#EXTINF:-1,MTV
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77118.m3u8
+#EXTINF:-1,Nat Geo
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77117.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77116.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77115.m3u8
+#EXTINF:-1,Nick Jr.
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77114.m3u8
+#EXTINF:-1,Nonstop People
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77113.m3u8
+#EXTINF:-1,NOVA
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77112.m3u8
+#EXTINF:-1,Real Madrid TV HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77111.m3u8
+#EXTINF:-1,Syfy
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77110.m3u8
+#EXTINF:-1,Taquilla 1
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77109.m3u8
+#EXTINF:-1,Taquilla 10
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77108.m3u8
+#EXTINF:-1,Taquilla 2
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77107.m3u8
+#EXTINF:-1,Taquilla 3
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77106.m3u8
+#EXTINF:-1,Taquilla 4
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77105.m3u8
+#EXTINF:-1,Taquilla 5
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77104.m3u8
+#EXTINF:-1,Taquilla 6
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77103.m3u8
+#EXTINF:-1,Taquilla 7
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77102.m3u8
+#EXTINF:-1,Taquilla 8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77101.m3u8
+#EXTINF:-1,Taquilla 9
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77100.m3u8
+#EXTINF:-1,TCM
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77099.m3u8
+#EXTINF:-1,Telecinco
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77098.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77097.m3u8
 #EXTINF:-1,TELEDEPORTE HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16748.m3u8
-#EXTINF:-1,Teledeporte SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17220.m3u8
-#EXTINF:-1,TeleMadrid
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17192.m3u8
-#EXTINF:-1,Telesur HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17219.m3u8
-#EXTINF:-1,TEN
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17218.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77096.m3u8
+#EXTINF:-1,Telemax HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77095.m3u8
+#EXTINF:-1,TNT
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77094.m3u8
 #EXTINF:-1,TNT HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17278.m3u8
-#EXTINF:-1,TNT SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17277.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77093.m3u8
 #EXTINF:-1,Toros
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17333.m3u8
-#EXTINF:-1,Toros *
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/13065.m3u8
-#EXTINF:-1,TOROS TV HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/16747.m3u8
-#EXTINF:-1,Trece
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17217.m3u8
-#EXTINF:-1,TV Canaria
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17216.m3u8
-#EXTINF:-1,TV3. CAT HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/13190.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77092.m3u8
+#EXTINF:-1,TV Galicia
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77091.m3u8
+#EXTINF:-1,TV3 Catalynia HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77090.m3u8
+#EXTINF:-1,TVE LA1 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77089.m3u8
+#EXTINF:-1,TVE LA2 HD
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77088.m3u8
 #EXTINF:-1,VH1
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17189.m3u8
-#EXTINF:-1,VH1 Classic
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17188.m3u8
-#EXTINF:-1,Viajar HD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17267.m3u8
-#EXTINF:-1,Viajar SD
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17266.m3u8
-#EXTINF:-1,XTRM
-http://deluxeplay.live:80/live/Anaranjo/cd7cama/17191.m3u8
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77087.m3u8
+#EXTINF:-1,Viajar
+http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/77086.m3u8
