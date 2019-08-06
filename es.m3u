@@ -1,143 +1,343 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="La1" tvg-logo="http://logo.ndasat.com/iptv/images/51679_la1.jpg" group-title="{BOUQUET_NAME}",La1
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/536.m3u8
-#EXTINF:-1 tvg-name="La2" tvg-logo="http://logo.ndasat.com/iptv/images/95093_la2.jpg" group-title="{BOUQUET_NAME}",La2
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/537.m3u8
-#EXTINF:-1 tvg-name="Antena 3" tvg-logo="http://logo.ndasat.com/iptv/images/4786_Antena3.jpg" group-title="{BOUQUET_NAME}",Antena 3
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/971.m3u8
-#EXTINF:-1 tvg-name="Cuatro" tvg-logo="http://logo.ndasat.com/iptv/images/45943_cuatro_es.png" group-title="{BOUQUET_NAME}",Cuatro
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/153.m3u8
-#EXTINF:-1 tvg-name="Tele5" tvg-logo="http://logo.ndasat.com/iptv/images/3159_telecinco.png" group-title="{BOUQUET_NAME}",Tele5
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/36.m3u8
-#EXTINF:-1 tvg-name="La sexta" tvg-logo="http://logo.ndasat.com/iptv/images/9614_Lasexta.png" group-title="{BOUQUET_NAME}",La sexta
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/970.m3u8
-#EXTINF:-1 tvg-name="Canal 24 Horas" tvg-logo="" group-title="{BOUQUET_NAME}",Canal 24 Horas
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/3415.m3u8
-#EXTINF:-1 tvg-name="Canal Sur" tvg-logo="" group-title="{BOUQUET_NAME}",Canal Sur
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/3414.m3u8
-#EXTINF:-1 tvg-name="FDF" tvg-logo="http://logo.ndasat.com/iptv/images/38315_fdf.png" group-title="{BOUQUET_NAME}",FDF
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2754.m3u8
-#EXTINF:-1 tvg-name="Mega" tvg-logo="http://logo.ndasat.com/iptv/images/95179_mega.jpg" group-title="{BOUQUET_NAME}",Mega
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/925.m3u8
-#EXTINF:-1 tvg-name="Nova" tvg-logo="http://logo.ndasat.com/iptv/images/70357_nova.png" group-title="{BOUQUET_NAME}",Nova
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/924.m3u8
-#EXTINF:-1 tvg-name="Neox" tvg-logo="http://logo.ndasat.com/iptv/images/40949_neox.png" group-title="{BOUQUET_NAME}",Neox
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/930.m3u8
-#EXTINF:-1 tvg-name="ENERGY" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",ENERGY
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2735.m3u8
-#EXTINF:-1 tvg-name="DIVINITY" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",DIVINITY
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2737.m3u8
-#EXTINF:-1 tvg-name="A3 series" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",A3 series
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2700.m3u8
-#EXTINF:-1 tvg-name="FoxLife" tvg-logo="http://logo.ndasat.com/iptv/images/59262_439-italian_proverbs_quotes.jpg" group-title="{BOUQUET_NAME}",FoxLife
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/753.m3u8
-#EXTINF:-1 tvg-name="Calle 13" tvg-logo="http://logo.ndasat.com/iptv/images/69814_calle13.png" group-title="{BOUQUET_NAME}",Calle 13
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1039.m3u8
-#EXTINF:-1 tvg-name="Fox  ES" tvg-logo="http://logo.ndasat.com/iptv/images/75354_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox  ES
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1592.m3u8
-#EXTINF:-1 tvg-name="Syfy es" tvg-logo="http://logo.ndasat.com/iptv/images/43054_syfy.png" group-title="{BOUQUET_NAME}",Syfy es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/929.m3u8
-#EXTINF:-1 tvg-name="Comedy Central es" tvg-logo="http://logo.ndasat.com/iptv/images/28556_comedycentral.jpg" group-title="{BOUQUET_NAME}",Comedy Central es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1593.m3u8
-#EXTINF:-1 tvg-name="AXN es" tvg-logo="http://logo.ndasat.com/iptv/images/62077_AXN.png" group-title="{BOUQUET_NAME}",AXN es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1601.m3u8
-#EXTINF:-1 tvg-name="AXN  WHITE" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",AXN  WHITE
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2728.m3u8
-#EXTINF:-1 tvg-name="#0" tvg-logo="http://logo.ndasat.com/iptv/images/22280_movistar_es_0.png" group-title="{BOUQUET_NAME}",#0
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/152.m3u8
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",PARAMOUNT CHANNEL
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2725.m3u8
-#EXTINF:-1 tvg-name="SUNDANCE" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",SUNDANCE
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2724.m3u8
-#EXTINF:-1 tvg-name="COSMO" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",COSMO
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2710.m3u8
-#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",FOX LIFE
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2708.m3u8
-#EXTINF:-1 tvg-name="Ten" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",Ten
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2730.m3u8
-#EXTINF:-1 tvg-name="AMC ESP" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",AMC ESP
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2729.m3u8
-#EXTINF:-1 tvg-name="SOMOS" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",SOMOS
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2733.m3u8
-#EXTINF:-1 tvg-name="Canal Cocina" tvg-logo="" group-title="{BOUQUET_NAME}",Canal Cocina
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/3952.m3u8
-#EXTINF:-1 tvg-name="Taquilla1" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",Taquilla1
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1706.m3u8
-#EXTINF:-1 tvg-name="Taquilla2" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",Taquilla2
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1589.m3u8
-#EXTINF:-1 tvg-name="Taquilla3" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",Taquilla3
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1584.m3u8
-#EXTINF:-1 tvg-name="Taquilla4" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",Taquilla4
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1503.m3u8
-#EXTINF:-1 tvg-name="Taquilla5" tvg-logo="http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",Taquilla5
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1502.m3u8
-#EXTINF:-1 tvg-name="PT:Hollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Hollywood
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2087.m3u8
-#EXTINF:-1 tvg-name="PT:Nat geo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Nat geo
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2083.m3u8
-#EXTINF:-1 tvg-name="Nat geo es" tvg-logo="http://logo.ndasat.com/iptv/images/33881_1216.png" group-title="{BOUQUET_NAME}",Nat geo es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/558.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild es" tvg-logo="http://logo.ndasat.com/iptv/images/2621_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2755.m3u8
-#EXTINF:-1 tvg-name="Odisea" tvg-logo="http://logo.ndasat.com/iptv/images/34865_odisea.jpg" group-title="{BOUQUET_NAME}",Odisea
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/154.m3u8
-#EXTINF:-1 tvg-name="Discovery es" tvg-logo="http://logo.ndasat.com/iptv/images/83298_discoverys.png" group-title="{BOUQUET_NAME}",Discovery es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1600.m3u8
-#EXTINF:-1 tvg-name="DeCasa" tvg-logo="http://logo.ndasat.com/iptv/images/72396_decasa.png" group-title="{BOUQUET_NAME}",DeCasa
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1599.m3u8
-#EXTINF:-1 tvg-name="Caza y Pesca" tvg-logo="http://logo.ndasat.com/iptv/images/75313_cazaypesca.jpg" group-title="{BOUQUET_NAME}",Caza y Pesca
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1597.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon es" tvg-logo="http://logo.ndasat.com/iptv/images/76081_nickelodeon.png" group-title="{BOUQUET_NAME}",Nickelodeon es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1536.m3u8
-#EXTINF:-1 tvg-name="Disney XD es" tvg-logo="http://logo.ndasat.com/iptv/images/864_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1537.m3u8
-#EXTINF:-1 tvg-name="Disney Junior es" tvg-logo="http://logo.ndasat.com/iptv/images/57576_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1538.m3u8
-#EXTINF:-1 tvg-name="Disney es" tvg-logo="http://logo.ndasat.com/iptv/images/36068_disney.jpg" group-title="{BOUQUET_NAME}",Disney es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1539.m3u8
-#EXTINF:-1 tvg-name="Clan" tvg-logo="http://logo.ndasat.com/iptv/images/79038_clan.jpg" group-title="{BOUQUET_NAME}",Clan
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1541.m3u8
-#EXTINF:-1 tvg-name="Boing es" tvg-logo="http://logo.ndasat.com/iptv/images/51689_boing.jpg" group-title="{BOUQUET_NAME}",Boing es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1540.m3u8
-#EXTINF:-1 tvg-name="Hollywood es" tvg-logo="http://logo.ndasat.com/iptv/images/24561_533px-Canal_Hollywood.svg_.png" group-title="{BOUQUET_NAME}",Hollywood es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/157.m3u8
-#EXTINF:-1 tvg-name="M Disney" tvg-logo="http://logo.ndasat.com/iptv/images/95139_amc.jpg" group-title="{BOUQUET_NAME}",M Disney
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2756.m3u8
-#EXTINF:-1 tvg-name="M MotoGP" tvg-logo="http://logo.ndasat.com/iptv/images/64132_mmotogp.png" group-title="{BOUQUET_NAME}",M MotoGP
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1594.m3u8
-#EXTINF:-1 tvg-name="M Golf" tvg-logo="http://logo.ndasat.com/iptv/images/63238_mgolf.png" group-title="{BOUQUET_NAME}",M Golf
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1598.m3u8
-#EXTINF:-1 tvg-name="M Formula1" tvg-logo="http://logo.ndasat.com/iptv/images/10765_mformula1.png" group-title="{BOUQUET_NAME}",M Formula1
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1595.m3u8
-#EXTINF:-1 tvg-name="#Vamos." tvg-logo="http://logo.ndasat.com/iptv/images/21268_mdeportes2.png" group-title="{BOUQUET_NAME}",#Vamos.
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1591.m3u8
-#EXTINF:-1 tvg-name="M Deportes1" tvg-logo="http://logo.ndasat.com/iptv/images/14408_mdeportes1.png" group-title="{BOUQUET_NAME}",M Deportes1
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/34.m3u8
-#EXTINF:-1 tvg-name="M. CINE ESPANOL" tvg-logo="http://logo.ndasat.com/iptv/images/84721_mfutbol.png" group-title="{BOUQUET_NAME}",M. CINE ESPANOL
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/33.m3u8
-#EXTINF:-1 tvg-name="M Partidazo" tvg-logo="" group-title="{BOUQUET_NAME}",M Partidazo
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2757.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="http://logo.ndasat.com/iptv/images/87175_realmadrid.jpg" group-title="{BOUQUET_NAME}",Real Madrid TV
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1038.m3u8
-#EXTINF:-1 tvg-name="Barca TV" tvg-logo="http://logo.ndasat.com/iptv/images/89004_barca.jpg" group-title="{BOUQUET_NAME}",Barca TV
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1037.m3u8
-#EXTINF:-1 tvg-name="Eurosport1 es" tvg-logo="http://logo.ndasat.com/iptv/images/98425_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport1 es
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1596.m3u8
-#EXTINF:-1 tvg-name="GOL TV" tvg-logo="http://logo.ndasat.com/iptv/images/11483_goltv.png" group-title="{BOUQUET_NAME}",GOL TV
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/2753.m3u8
-#EXTINF:-1 tvg-name="la Liga  ES" tvg-logo="" group-title="{BOUQUET_NAME}",la Liga  ES
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/32.m3u8
-#EXTINF:-1 tvg-name="Liga De Campeones" tvg-logo="http://logo.ndasat.com/iptv/images/51673_16.jpg" group-title="{BOUQUET_NAME}",Liga De Campeones
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/578.m3u8
-#EXTINF:-1 tvg-name="Bein LaLiga" tvg-logo="http://logo.ndasat.com/iptv/images/42160_beinlaliga.png" group-title="{BOUQUET_NAME}",Bein LaLiga
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/1590.m3u8
-#EXTINF:-1 tvg-name="M Serie" tvg-logo="http://logo.ndasat.com/iptv/images/9295_mserie.png" group-title="{BOUQUET_NAME}",M Serie
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/35.m3u8
-#EXTINF:-1 tvg-name="M Drama" tvg-logo="http://logo.ndasat.com/iptv/images/67278_mdcine.png" group-title="{BOUQUET_NAME}",M Drama
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/156.m3u8
-#EXTINF:-1 tvg-name="M Comedia" tvg-logo="http://logo.ndasat.com/iptv/images/24587_mcomedia.png" group-title="{BOUQUET_NAME}",M Comedia
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/155.m3u8
-#EXTINF:-1 tvg-name="M  Accion" tvg-logo="http://logo.ndasat.com/iptv/images/32134_maccion.png" group-title="{BOUQUET_NAME}",M  Accion
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/159.m3u8
-#EXTINF:-1 tvg-name="M Estrenos" tvg-logo="http://logo.ndasat.com/iptv/images/13173_mestrenos.png" group-title="{BOUQUET_NAME}",M Estrenos
-http://iptv.atlasiptv.net:88/live/670831686803563/670831686803563/31.m3u8
+#EXTINF:-1,#0 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17294.m3u8
+#EXTINF:-1,24H
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17251.m3u8
+#EXTINF:-1,3/24 CAT
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17215.m3u8
+#EXTINF:-1,33 CAT
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17214.m3u8
+#EXTINF:-1,7 TV Murcia
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17250.m3u8
+#EXTINF:-1,8TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17213.m3u8
+#EXTINF:-1,A3series HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17249.m3u8
+#EXTINF:-1,AE
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17276.m3u8
+#EXTINF:-1,AMC HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17293.m3u8
+#EXTINF:-1,Andalucia TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17212.m3u8
+#EXTINF:-1,Antena 3 Full HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17444.m3u8
+#EXTINF:-1,Antena 3 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/11254.m3u8
+#EXTINF:-1,Antena 3 HQ
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17442.m3u8
+#EXTINF:-1,Antena 3 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17248.m3u8
+#EXTINF:-1,Aragon TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17211.m3u8
+#EXTINF:-1,AXN SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17292.m3u8
+#EXTINF:-1,AXN White SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17291.m3u8
+#EXTINF:-1,Baby TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17260.m3u8
+#EXTINF:-1,Barca TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17338.m3u8
+#EXTINF:-1,Bein Sports LaLiga SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17330.m3u8
+#EXTINF:-1,BeMad TV HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17247.m3u8
+#EXTINF:-1,Betis TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17329.m3u8
+#EXTINF:-1,Boing
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17246.m3u8
+#EXTINF:-1,Calle 13
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17290.m3u8
+#EXTINF:-1,Canal Cocina
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17265.m3u8
+#EXTINF:-1,Canal Costa TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17245.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17210.m3u8
+#EXTINF:-1,Canal Panda
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17259.m3u8
+#EXTINF:-1,Canal Parlamento
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17244.m3u8
+#EXTINF:-1,Canal Sur
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17209.m3u8
+#EXTINF:-1,Canal Sur Cocina
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17208.m3u8
+#EXTINF:-1,Canal Sur La Banda TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17207.m3u8
+#EXTINF:-1,Canal Sur Turismo
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17206.m3u8
+#EXTINF:-1,Castilla La Mancha Media
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17205.m3u8
+#EXTINF:-1,Caza y Pesca HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17337.m3u8
+#EXTINF:-1,Caza y Pesca
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16759.m3u8
+#EXTINF:-1,Cine 3D
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17336.m3u8
+#EXTINF:-1,Clan TVE
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17243.m3u8
+#EXTINF:-1,Classica
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17335.m3u8
+#EXTINF:-1,Comedy Central SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17289.m3u8
+#EXTINF:-1,Cosmo TV SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17288.m3u8
+#EXTINF:-1,Crime & Investigation
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17264.m3u8
+#EXTINF:-1,Cuatro HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17242.m3u8
+#EXTINF:-1,Cuatro SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17241.m3u8
+#EXTINF:-1,Decasa
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17263.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17275.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17274.m3u8
+#EXTINF:-1,Discovery Max
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17240.m3u8
+#EXTINF:-1,Disney Channel HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17258.m3u8
+#EXTINF:-1,Disney Channel SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17257.m3u8
+#EXTINF:-1,Disney Junior
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17256.m3u8
+#EXTINF:-1,Disney XD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17255.m3u8
+#EXTINF:-1,Divinity
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17239.m3u8
+#EXTINF:-1,Dkiss
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17262.m3u8
+#EXTINF:-1,DW en Español
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17204.m3u8
+#EXTINF:-1,El Garaje TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17261.m3u8
+#EXTINF:-1,Energy
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17238.m3u8
+#EXTINF:-1,Esport 3 CAT
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17328.m3u8
+#EXTINF:-1,ETB Sat
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17203.m3u8
+#EXTINF:-1,Euronews HD en Español
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17202.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17320.m3u8
+#EXTINF:-1,Eurosport 1 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17319.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16758.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17318.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16757.m3u8
+#EXTINF:-1,Extremadura TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17201.m3u8
+#EXTINF:-1,FDF
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17237.m3u8
+#EXTINF:-1,Fox HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17287.m3u8
+#EXTINF:-1,Fox Life SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17286.m3u8
+#EXTINF:-1,Fox SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17285.m3u8
+#EXTINF:-1,Galicia TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17200.m3u8
+#EXTINF:-1,Gol HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17236.m3u8
+#EXTINF:-1,Gol SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17235.m3u8
+#EXTINF:-1,Gol TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16756.m3u8
+#EXTINF:-1,Granada Channel TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17234.m3u8
+#EXTINF:-1,Hispan TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17199.m3u8
+#EXTINF:-1,Historia HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17273.m3u8
+#EXTINF:-1,Hollywood HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17309.m3u8
+#EXTINF:-1,IB3 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/13198.m3u8
+#EXTINF:-1,Iberalia
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17334.m3u8
+#EXTINF:-1,intereconomia
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17233.m3u8
+#EXTINF:-1,LA 1 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17232.m3u8
+#EXTINF:-1,LA 1 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17231.m3u8
+#EXTINF:-1,LA 2
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17230.m3u8
+#EXTINF:-1,La 8 Mediterráneo
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17198.m3u8
+#EXTINF:-1,La Liga TV BAR SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17327.m3u8
+#EXTINF:-1,La Liga TV HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16755.m3u8
+#EXTINF:-1,La Otra
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17197.m3u8
+#EXTINF:-1,La Sexta Full HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17437.m3u8
+#EXTINF:-1,La Sexta HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/4315.m3u8
+#EXTINF:-1,La Sexta SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17229.m3u8
+#EXTINF:-1,LaLiga 1|2|3 TV HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17326.m3u8
+#EXTINF:-1,LaLiga 123 TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16754.m3u8
+#EXTINF:-1,Lancelot TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17196.m3u8
+#EXTINF:-1,Levante TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17195.m3u8
+#EXTINF:-1,Libertad Digital
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17228.m3u8
+#EXTINF:-1,LTC
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17227.m3u8
+#EXTINF:-1,M Liga de Campeones HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17332.m3u8
+#EXTINF:-1,M Liga de Campeones SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17331.m3u8
+#EXTINF:-1,Mega SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17226.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17190.m3u8
+#EXTINF:-1,Movistar  Accion HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17308.m3u8
+#EXTINF:-1,Movistar  Accion SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17307.m3u8
+#EXTINF:-1,Movistar  Cine N
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17306.m3u8
+#EXTINF:-1,Movistar  Comedia HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17305.m3u8
+#EXTINF:-1,Movistar  Comedia SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17304.m3u8
+#EXTINF:-1,Movistar  Dcine HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17303.m3u8
+#EXTINF:-1,Movistar  Dcine SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17302.m3u8
+#EXTINF:-1,Movistar  Deportes 1 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17317.m3u8
+#EXTINF:-1,Movistar  Deportes 1 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17316.m3u8
+#EXTINF:-1,Movistar  Deportes 2 HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17315.m3u8
+#EXTINF:-1,Movistar  Deportes 2 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17314.m3u8
+#EXTINF:-1,Movistar  Disney
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17301.m3u8
+#EXTINF:-1,Movistar  eSports HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17313.m3u8
+#EXTINF:-1,Movistar  Estrenos HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17300.m3u8
+#EXTINF:-1,Movistar  Estrenos SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17299.m3u8
+#EXTINF:-1,Movistar  Formula 1 SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17312.m3u8
+#EXTINF:-1,Movistar  Futbol HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17325.m3u8
+#EXTINF:-1,Movistar  Futbol SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17324.m3u8
+#EXTINF:-1,Movistar  Golf
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17311.m3u8
+#EXTINF:-1,Movistar  Series SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17284.m3u8
+#EXTINF:-1,Movistar  Series Xtra SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17283.m3u8
+#EXTINF:-1,Movistar  Xtra
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17298.m3u8
+#EXTINF:-1,Movistar  Xtra HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17297.m3u8
+#EXTINF:-1,Movistar F1 FHD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16753.m3u8
+#EXTINF:-1,Movistar Futbol HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16752.m3u8
+#EXTINF:-1,Movistar Golf FHD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16751.m3u8
+#EXTINF:-1,Movistar Partidazo FHD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16750.m3u8
+#EXTINF:-1,MTV Espana
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17282.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17272.m3u8
+#EXTINF:-1,Nat Geo Wild SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17271.m3u8
+#EXTINF:-1,National Geoghraphic HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17270.m3u8
+#EXTINF:-1,National Geoghraphic SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17269.m3u8
+#EXTINF:-1,Neox
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17225.m3u8
+#EXTINF:-1,Nick JR
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17254.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17253.m3u8
+#EXTINF:-1,Nonstopeople
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17281.m3u8
+#EXTINF:-1,Nova
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17224.m3u8
+#EXTINF:-1,Odisea SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17268.m3u8
+#EXTINF:-1,Onda Azul
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17194.m3u8
+#EXTINF:-1,Paramount Channel
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17223.m3u8
+#EXTINF:-1,Real Madrid HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17323.m3u8
+#EXTINF:-1,Real Madrid SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17322.m3u8
+#EXTINF:-1,Real Madrid TV FHD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16749.m3u8
+#EXTINF:-1,RT HD en Español
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17193.m3u8
+#EXTINF:-1,Sevilla FC
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17321.m3u8
+#EXTINF:-1,Sundance TV
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17296.m3u8
+#EXTINF:-1,Super3
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17252.m3u8
+#EXTINF:-1,SYFY HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17280.m3u8
+#EXTINF:-1,SyFy SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17279.m3u8
+#EXTINF:-1,TCM SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17295.m3u8
+#EXTINF:-1,Telecinco SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17222.m3u8
+#EXTINF:-1,Teledeporte
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17221.m3u8
+#EXTINF:-1,TELEDEPORTE HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16748.m3u8
+#EXTINF:-1,Teledeporte SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17220.m3u8
+#EXTINF:-1,TeleMadrid
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17192.m3u8
+#EXTINF:-1,Telesur HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17219.m3u8
+#EXTINF:-1,TEN
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17218.m3u8
+#EXTINF:-1,TNT HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17278.m3u8
+#EXTINF:-1,TNT SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17277.m3u8
+#EXTINF:-1,Toros
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17333.m3u8
+#EXTINF:-1,Toros *
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/13065.m3u8
+#EXTINF:-1,TOROS TV HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/16747.m3u8
+#EXTINF:-1,Trece
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17217.m3u8
+#EXTINF:-1,TV Canaria
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17216.m3u8
+#EXTINF:-1,TV3. CAT HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/13190.m3u8
+#EXTINF:-1,VH1
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17189.m3u8
+#EXTINF:-1,VH1 Classic
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17188.m3u8
+#EXTINF:-1,Viajar HD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17267.m3u8
+#EXTINF:-1,Viajar SD
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17266.m3u8
+#EXTINF:-1,XTRM
+http://tv.ultraiptv.org:80/live/bvrxdoaw/33EFm68cga/17191.m3u8
