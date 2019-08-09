@@ -1,357 +1,177 @@
 #EXTM3U
-#EXTINF:-1,#0 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220142.m3u8
-#EXTINF:-1,13 TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219424.m3u8
-#EXTINF:-1,24 Horas HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88902.m3u8
-#EXTINF:-1,324
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/231848.m3u8
-#EXTINF:-1,A&E
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81341.m3u8
-#EXTINF:-1,A3 SERIES HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99711.m3u8
-#EXTINF:-1,A3S ATRESERIES
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239764.m3u8
-#EXTINF:-1,Alquiler 1 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88903.m3u8
-#EXTINF:-1,Alquiler 2 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88904.m3u8
-#EXTINF:-1,Alquiler 3 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88905.m3u8
-#EXTINF:-1,Alquiler 4 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88906.m3u8
-#EXTINF:-1,Alquiler 5 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88907.m3u8
-#EXTINF:-1,Alquiler 6 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88908.m3u8
-#EXTINF:-1,Alquiler 7 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/107629.m3u8
-#EXTINF:-1,Alquiler 8 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220174.m3u8
-#EXTINF:-1,Alquiler 9 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/107630.m3u8
+#EXTINF:-1,0 HD
+http://185.99.2.100:80/live/Prole/Prole/50629.m3u8
+#EXTINF:-1,24 HORAS
+http://185.99.2.100:80/live/Prole/Prole/50650.m3u8
 #EXTINF:-1,AMC HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88178.m3u8
-#EXTINF:-1,Andalucia TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70852.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50628.m3u8
 #EXTINF:-1,ANTENA 3 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64213.m3u8
-#EXTINF:-1,ARAGON TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/113068.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50654.m3u8
+#EXTINF:-1,ARAGON
+http://185.99.2.100:80/live/Prole/Prole/50627.m3u8
+#EXTINF:-1,AXN
+http://185.99.2.100:80/live/Prole/Prole/50626.m3u8
 #EXTINF:-1,AXN HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78536.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50625.m3u8
 #EXTINF:-1,AXN WHITE HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64211.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50624.m3u8
 #EXTINF:-1,BABY TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/75231.m3u8
-#EXTINF:-1,BARCA TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81344.m3u8
-#EXTINF:-1,BE MAD FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99710.m3u8
-#EXTINF:-1,beIN Sports Ñ FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219938.m3u8
-#EXTINF:-1,beIN Sports HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/210554.m3u8
-#EXTINF:-1,beIN Sports LaLiga
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239763.m3u8
-#EXTINF:-1,beIN Sports LaLiga HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/207132.m3u8
-#EXTINF:-1,beIN Sports Ñ HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/116125.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50641.m3u8
+#EXTINF:-1,BAR TV
+http://185.99.2.100:80/live/Prole/Prole/50597.m3u8
+#EXTINF:-1,BE MAD
+http://185.99.2.100:80/live/Prole/Prole/50620.m3u8
 #EXTINF:-1,BLAZE
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/215374.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50619.m3u8
 #EXTINF:-1,BOING
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78540.m3u8
-#EXTINF:-1,Bondia TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/231849.m3u8
-#EXTINF:-1,Boomerang
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219433.m3u8
-#EXTINF:-1,C TOROS HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/92622.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50640.m3u8
 #EXTINF:-1,CALLE 13 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64206.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50618.m3u8
+#EXTINF:-1,CANAL 24 HORAS
+http://185.99.2.100:80/live/Prole/Prole/50651.m3u8
 #EXTINF:-1,CANAL COCINA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78542.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50617.m3u8
 #EXTINF:-1,CANAL DECASA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220146.m3u8
-#EXTINF:-1,CANAL EXTREMADURA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/119474.m3u8
-#EXTINF:-1,Canal Golden
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/92746.m3u8
-#EXTINF:-1,Canal Golf
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/104523.m3u8
-#EXTINF:-1,CANAL HOLLYWOOD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237457.m3u8
-#EXTINF:-1,canal Malaga
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/168965.m3u8
-#EXTINF:-1,Canal Odisea HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/97487.m3u8
-#EXTINF:-1,CANAL ORBE 21
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/113074.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50616.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://185.99.2.100:80/live/Prole/Prole/50615.m3u8
 #EXTINF:-1,CANAL PANDA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/107634.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50639.m3u8
 #EXTINF:-1,CANAL SUR
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220148.m3u8
-#EXTINF:-1,Cartoon Network
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/94143.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50614.m3u8
 #EXTINF:-1,CAZA Y PESCA HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/88183.m3u8
-#EXTINF:-1,CENTRAL COMEDY
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239761.m3u8
-#EXTINF:-1,CLAN TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81364.m3u8
-#EXTINF:-1,Clane TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239379.m3u8
-#EXTINF:-1,Classica
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/107329.m3u8
-#EXTINF:-1,CNN
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219432.m3u8
-#EXTINF:-1,Cocina
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239497.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50613.m3u8
+#EXTINF:-1,CLAN TVE
+http://185.99.2.100:80/live/Prole/Prole/50646.m3u8
+#EXTINF:-1,CLASSICA
+http://185.99.2.100:80/live/Prole/Prole/50612.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78544.m3u8
-#EXTINF:-1,concao nova
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237455.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50638.m3u8
 #EXTINF:-1,COSMO HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64199.m3u8
-#EXTINF:-1,CRIMEN & INVESTIGACION
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70860.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50611.m3u8
+#EXTINF:-1,CRIMEN Y INVES
+http://185.99.2.100:80/live/Prole/Prole/50610.m3u8
 #EXTINF:-1,CUATRO HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78546.m3u8
-#EXTINF:-1,DECASA TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99733.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81418.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70885.m3u8
-#EXTINF:-1,Disney Junior
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/75232.m3u8
-#EXTINF:-1,Disney XD HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78548.m3u8
-#EXTINF:-1,Divinity HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81421.m3u8
-#EXTINF:-1,DKISS
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/109618.m3u8
-#EXTINF:-1,DMAX
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/196332.m3u8
-#EXTINF:-1,Energy
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/118314.m3u8
-#EXTINF:-1,Esperanza TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/131982.m3u8
-#EXTINF:-1,Esport 3
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/231850.m3u8
-#EXTINF:-1,euronews
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/107641.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70840.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81427.m3u8
-#EXTINF:-1,F
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239504.m3u8
-#EXTINF:-1,FDF HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/97478.m3u8
-#EXTINF:-1,Fox Channel HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64190.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50653.m3u8
+#EXTINF:-1,DISCOVERY
+http://185.99.2.100:80/live/Prole/Prole/50571.m3u8
+#EXTINF:-1,DISNEY HD
+http://185.99.2.100:80/live/Prole/Prole/50637.m3u8
+#EXTINF:-1,DISNEY JR
+http://185.99.2.100:80/live/Prole/Prole/50636.m3u8
+#EXTINF:-1,DISNEY XD
+http://185.99.2.100:80/live/Prole/Prole/50635.m3u8
+#EXTINF:-1,DIVINITY
+http://185.99.2.100:80/live/Prole/Prole/50609.m3u8
+#EXTINF:-1,ENERGY
+http://185.99.2.100:80/live/Prole/Prole/50608.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://185.99.2.100:80/live/Prole/Prole/50601.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://185.99.2.100:80/live/Prole/Prole/50602.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://185.99.2.100:80/live/Prole/Prole/50600.m3u8
+#EXTINF:-1,FDF
+http://185.99.2.100:80/live/Prole/Prole/50647.m3u8
+#EXTINF:-1,FORMULA 1 HD
+http://185.99.2.100:80/live/Prole/Prole/50599.m3u8
+#EXTINF:-1,FOX HD
+http://185.99.2.100:80/live/Prole/Prole/50632.m3u8
 #EXTINF:-1,FOX LIFE HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64189.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50631.m3u8
 #EXTINF:-1,FOX NEWS
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220141.m3u8
-#EXTINF:-1,GALICIA TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/100377.m3u8
-#EXTINF:-1,GOL TV HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70912.m3u8
-#EXTINF:-1,GRIMM HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/214263.m3u8
-#EXTINF:-1,Historia
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239487.m3u8
-#EXTINF:-1,Hollyood HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/144554.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50630.m3u8
+#EXTINF:-1,GOL
+http://185.99.2.100:80/live/Prole/Prole/50598.m3u8
 #EXTINF:-1,HOLLYWOOD HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64187.m3u8
-#EXTINF:-1,IBERALIA TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81433.m3u8
-#EXTINF:-1,INTERECONOMIA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219431.m3u8
-#EXTINF:-1,LA 1 FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/144232.m3u8
-#EXTINF:-1,LA 2 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/156293.m3u8
-#EXTINF:-1,LA CUATRO HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/149110.m3u8
-#EXTINF:-1,La Liga BAR FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/221646.m3u8
-#EXTINF:-1,LA SEXTA FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64184.m3u8
-#EXTINF:-1,LaLiga 123 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/140470.m3u8
-#EXTINF:-1,LaLiga TV BAR FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/218956.m3u8
-#EXTINF:-1,LaLiga TV BAR HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239758.m3u8
-#EXTINF:-1,LaLiga TV HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/208002.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50645.m3u8
+#EXTINF:-1,IBERALIA
+http://185.99.2.100:80/live/Prole/Prole/50644.m3u8
+#EXTINF:-1,LA 1 HD
+http://185.99.2.100:80/live/Prole/Prole/50658.m3u8
+#EXTINF:-1,LA 2
+http://185.99.2.100:80/live/Prole/Prole/50657.m3u8
+#EXTINF:-1,LA LIGA 123 TV HD
+http://185.99.2.100:80/live/Prole/Prole/50606.m3u8
+#EXTINF:-1,LA LIGA HD
+http://185.99.2.100:80/live/Prole/Prole/50603.m3u8
+#EXTINF:-1,LA LIGA TV HD
+http://185.99.2.100:80/live/Prole/Prole/50604.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://185.99.2.100:80/live/Prole/Prole/50655.m3u8
+#EXTINF:-1,M. ACCION HD
+http://185.99.2.100:80/live/Prole/Prole/50589.m3u8
+#EXTINF:-1,M. CINE ESP
+http://185.99.2.100:80/live/Prole/Prole/50588.m3u8
+#EXTINF:-1,M. COMEDIA HD
+http://185.99.2.100:80/live/Prole/Prole/50587.m3u8
+#EXTINF:-1,M. DCINE HD
+http://185.99.2.100:80/live/Prole/Prole/50586.m3u8
+#EXTINF:-1,M. DEP2 HD
+http://185.99.2.100:80/live/Prole/Prole/50579.m3u8
+#EXTINF:-1,M. DEPORTE 1 HD
+http://185.99.2.100:80/live/Prole/Prole/50578.m3u8
+#EXTINF:-1,M. DISNEY
+http://185.99.2.100:80/live/Prole/Prole/50585.m3u8
+#EXTINF:-1,M. ESTRENOS HD
+http://185.99.2.100:80/live/Prole/Prole/50584.m3u8
+#EXTINF:-1,M. FORMULA 1
+http://185.99.2.100:80/live/Prole/Prole/50594.m3u8
+#EXTINF:-1,M. FTBOL HD
+http://185.99.2.100:80/live/Prole/Prole/50593.m3u8
+#EXTINF:-1,M. GOLF HD
+http://185.99.2.100:80/live/Prole/Prole/50592.m3u8
+#EXTINF:-1,M. PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://185.99.2.100:80/live/Prole/Prole/50591.m3u8
+#EXTINF:-1,M. SERIES HD
+http://185.99.2.100:80/live/Prole/Prole/50583.m3u8
+#EXTINF:-1,M. SERIES XTRA HD
+http://185.99.2.100:80/live/Prole/Prole/50582.m3u8
+#EXTINF:-1,M. XTRA HD
+http://185.99.2.100:80/live/Prole/Prole/50581.m3u8
+#EXTINF:-1,M.CAMPEONES HD
+http://185.99.2.100:80/live/Prole/Prole/50605.m3u8
 #EXTINF:-1,MEGA HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70862.m3u8
-#EXTINF:-1,MELILLA TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99717.m3u8
-#EXTINF:-1,MEZZO LIVE FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/107646.m3u8
-#EXTINF:-1,MotoGP HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/109655.m3u8
-#EXTINF:-1,MoviStar ACCION HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70880.m3u8
-#EXTINF:-1,MoviStar CAMPEONES FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219428.m3u8
-#EXTINF:-1,MoviStar CINE N
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/87425.m3u8
-#EXTINF:-1,MoviStar CineDoc&Roll HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70877.m3u8
-#EXTINF:-1,MoviStar COMEDIA HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219422.m3u8
-#EXTINF:-1,MoviStar Dcine
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239475.m3u8
-#EXTINF:-1,MoviStar DE CINE ESPAÑA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239752.m3u8
-#EXTINF:-1,MoviStar DEPORTE HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239751.m3u8
-#EXTINF:-1,MoviStar Deportes 1 FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220167.m3u8
-#EXTINF:-1,MoviStar Deportes 2 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/207951.m3u8
-#EXTINF:-1,MoviStar Disney FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219423.m3u8
-#EXTINF:-1,MoviStar Drama HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/163434.m3u8
-#EXTINF:-1,MoviStar Estrellas HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/221232.m3u8
-#EXTINF:-1,MoviStar FOOTBAL HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/220169.m3u8
-#EXTINF:-1,MoviStar FORMULA 1 FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70900.m3u8
-#EXTINF:-1,MoviStar Futbol FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/221648.m3u8
-#EXTINF:-1,MoviStar GOLF FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70902.m3u8
-#EXTINF:-1,MoviStar Liga de Campeones FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/215386.m3u8
-#EXTINF:-1,MoviStar MotoGP HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/221650.m3u8
-#EXTINF:-1,MoviStar SERIES FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70869.m3u8
-#EXTINF:-1,MoviStar Series Mania HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70876.m3u8
-#EXTINF:-1,MoviStar SERIESMANIA HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239754.m3u8
-#EXTINF:-1,N Cuatro HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70893.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50643.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://185.99.2.100:80/live/Prole/Prole/50575.m3u8
+#EXTINF:-1,MOTOGP HD
+http://185.99.2.100:80/live/Prole/Prole/50574.m3u8
+#EXTINF:-1,MTV ROCKS
+http://185.99.2.100:80/live/Prole/Prole/50573.m3u8
 #EXTINF:-1,NAT GEO HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78561.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78560.m3u8
-#EXTINF:-1,Nick Junior
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99558.m3u8
-#EXTINF:-1,nickelodeon HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78562.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50570.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://185.99.2.100:80/live/Prole/Prole/50569.m3u8
+#EXTINF:-1,NAT WILD HD
+http://185.99.2.100:80/live/Prole/Prole/50568.m3u8
+#EXTINF:-1,NEOX
+http://185.99.2.100:80/live/Prole/Prole/50567.m3u8
+#EXTINF:-1,NICKELODEON  HD
+http://185.99.2.100:80/live/Prole/Prole/50634.m3u8
 #EXTINF:-1,NOVA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/214782.m3u8
-#EXTINF:-1,NRJ TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/215592.m3u8
-#EXTINF:-1,ODESEA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237433.m3u8
-#EXTINF:-1,ODISSEIA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70863.m3u8
-#EXTINF:-1,PANDA
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81470.m3u8
-#EXTINF:-1,Paramount Channel
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239491.m3u8
-#EXTINF:-1,Paramount Channel Espana
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/219368.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70872.m3u8
-#EXTINF:-1,QUATRO HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237430.m3u8
-#EXTINF:-1,Real Madrid TV HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/84178.m3u8
-#EXTINF:-1,RTV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237428.m3u8
-#EXTINF:-1,SKYNET SPORTS 1
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/142067.m3u8
-#EXTINF:-1,SOMOS
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/209751.m3u8
-#EXTINF:-1,SUNDANCE HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/157064.m3u8
-#EXTINF:-1,SYFY FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/156333.m3u8
-#EXTINF:-1,TAQUILLA 1 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70850.m3u8
-#EXTINF:-1,TAQUILLA 2 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70849.m3u8
-#EXTINF:-1,TAQUILLA 3 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70848.m3u8
-#EXTINF:-1,TAQUILLA 4 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70847.m3u8
-#EXTINF:-1,TAQUILLA 5 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70846.m3u8
-#EXTINF:-1,TAQUILLA 6 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70845.m3u8
-#EXTINF:-1,TAQUILLA 7 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70844.m3u8
-#EXTINF:-1,Taquilla 8 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70843.m3u8
-#EXTINF:-1,TAQUILLA 9 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70842.m3u8
-#EXTINF:-1,TAQUILLA 10 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70841.m3u8
-#EXTINF:-1,TCM FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/156335.m3u8
-#EXTINF:-1,TELE5
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237425.m3u8
-#EXTINF:-1,TELECINCO
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239284.m3u8
-#EXTINF:-1,TELECINCO FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/239285.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50656.m3u8
+#EXTINF:-1,PARAMOUNT
+http://185.99.2.100:80/live/Prole/Prole/50566.m3u8
+#EXTINF:-1,R. MADRID TV
+http://185.99.2.100:80/live/Prole/Prole/50596.m3u8
+#EXTINF:-1,SYFY HD
+http://185.99.2.100:80/live/Prole/Prole/50623.m3u8
+#EXTINF:-1,TCM HD
+http://185.99.2.100:80/live/Prole/Prole/50622.m3u8
+#EXTINF:-1,TELE DEPORTE
+http://185.99.2.100:80/live/Prole/Prole/50577.m3u8
 #EXTINF:-1,TELECINCO HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/213435.m3u8
-#EXTINF:-1,TELEDEPORTE HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/77767.m3u8
-#EXTINF:-1,TELEMADRID HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78567.m3u8
-#EXTINF:-1,Telemax HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/114742.m3u8
-#EXTINF:-1,TEN CRIME
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/119361.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50652.m3u8
 #EXTINF:-1,TNT HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/78569.m3u8
-#EXTINF:-1,Toros FHD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99560.m3u8
-#EXTINF:-1,TRECE TV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/109645.m3u8
-#EXTINF:-1,TV 2
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/215377.m3u8
-#EXTINF:-1,TV 3
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/231851.m3u8
-#EXTINF:-1,TV Galicia
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/81380.m3u8
-#EXTINF:-1,TV3 24
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237423.m3u8
-#EXTINF:-1,TV3 Catalynia HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70896.m3u8
-#EXTINF:-1,TVE 24H
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/146441.m3u8
-#EXTINF:-1,TVE Internacional
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/141513.m3u8
-#EXTINF:-1,TVE LA 1 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70898.m3u8
-#EXTINF:-1,TVE LA 2 HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/70897.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50621.m3u8
+#EXTINF:-1,TOROS HD
+http://185.99.2.100:80/live/Prole/Prole/50595.m3u8
+#EXTINF:-1,TV GALICIA
+http://185.99.2.100:80/live/Prole/Prole/50648.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://185.99.2.100:80/live/Prole/Prole/50649.m3u8
 #EXTINF:-1,VH1
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/101044.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50565.m3u8
 #EXTINF:-1,VIAJAR HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/64157.m3u8
-#EXTINF:-1,VTV
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/237422.m3u8
-#EXTINF:-1,Warner Bros HD
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/184557.m3u8
-#EXTINF:-1,XTRM
-http://landiptv.live:8080/live/serco1981serco/259f3f852f43/99561.m3u8
+http://185.99.2.100:80/live/Prole/Prole/50564.m3u8
