@@ -1,77 +1,505 @@
 #EXTM3U
-#EXTINF:-1,AXN HD
-http://p5.giffy.be:8080/live/mica/mica/30036.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://p5.giffy.be:8080/live/mica/mica/30037.m3u8
-#EXTINF:-1,DISNEY CINEMAGIC HD
-http://p5.giffy.be:8080/live/mica/mica/30038.m3u8
-#EXTINF:-1,DISNEY HD
-http://p5.giffy.be:8080/live/mica/mica/30039.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://p5.giffy.be:8080/live/mica/mica/30040.m3u8
-#EXTINF:-1,HISTORY HD
-http://p5.giffy.be:8080/live/mica/mica/30041.m3u8
-#EXTINF:-1,KABEL EINS HD
-http://p5.giffy.be:8080/live/mica/mica/30042.m3u8
-#EXTINF:-1,N-TV HD
-http://p5.giffy.be:8080/live/mica/mica/30043.m3u8
-#EXTINF:-1,NAT GEO HD
-http://p5.giffy.be:8080/live/mica/mica/30044.m3u8
-#EXTINF:-1,NDR HD
-http://p5.giffy.be:8080/live/mica/mica/30045.m3u8
-#EXTINF:-1,PROSIEBEN MAXX HD
-http://p5.giffy.be:8080/live/mica/mica/30046.m3u8
-#EXTINF:-1,RTL 2 HD
-http://p5.giffy.be:8080/live/mica/mica/30047.m3u8
-#EXTINF:-1,RTL CRIME
-http://p5.giffy.be:8080/live/mica/mica/30048.m3u8
-#EXTINF:-1,RTL HD
-http://p5.giffy.be:8080/live/mica/mica/30049.m3u8
-#EXTINF:-1,RTL NITRO HD
-http://p5.giffy.be:8080/live/mica/mica/30050.m3u8
-#EXTINF:-1,RTL PASSION
-http://p5.giffy.be:8080/live/mica/mica/30051.m3u8
-#EXTINF:-1,SAT. 1 HD
-http://p5.giffy.be:8080/live/mica/mica/30052.m3u8
-#EXTINF:-1,SIXX HD
-http://p5.giffy.be:8080/live/mica/mica/30053.m3u8
-#EXTINF:-1,SKY ACTION HD
-http://p5.giffy.be:8080/live/mica/mica/30054.m3u8
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://p5.giffy.be:8080/live/mica/mica/30055.m3u8
-#EXTINF:-1,SKY CINEMA HD
-http://p5.giffy.be:8080/live/mica/mica/30056.m3u8
-#EXTINF:-1,SKY COMEDY HD
-http://p5.giffy.be:8080/live/mica/mica/30057.m3u8
-#EXTINF:-1,SKY EMOTION
-http://p5.giffy.be:8080/live/mica/mica/30058.m3u8
-#EXTINF:-1,SKY GERMANY
-http://p5.giffy.be:8080/live/mica/mica/30074.m3u8
-#EXTINF:-1,SKY HITS HD
-http://p5.giffy.be:8080/live/mica/mica/30059.m3u8
-#EXTINF:-1,SKY SELECT 1 HD
-http://p5.giffy.be:8080/live/mica/mica/30060.m3u8
-#EXTINF:-1,SKY SELECT 2 HD
-http://p5.giffy.be:8080/live/mica/mica/30061.m3u8
-#EXTINF:-1,SKY SELECT 3 HD
-http://p5.giffy.be:8080/live/mica/mica/30062.m3u8
-#EXTINF:-1,SKY SELECT 4 HD
-http://p5.giffy.be:8080/live/mica/mica/30063.m3u8
-#EXTINF:-1,SKY SELECT HD
-http://p5.giffy.be:8080/live/mica/mica/30064.m3u8
-#EXTINF:-1,SKYBUNDESLIGA 1 HD
-http://p5.giffy.be:8080/live/mica/mica/30035.m3u8
-#EXTINF:-1,SPORT 1 HD
-http://p5.giffy.be:8080/live/mica/mica/30067.m3u8
-#EXTINF:-1,SUPER RTL
-http://p5.giffy.be:8080/live/mica/mica/30068.m3u8
-#EXTINF:-1,TNT FILM
-http://p5.giffy.be:8080/live/mica/mica/30069.m3u8
-#EXTINF:-1,TNT SERIE
-http://p5.giffy.be:8080/live/mica/mica/30070.m3u8
-#EXTINF:-1,VOX HD
-http://p5.giffy.be:8080/live/mica/mica/30071.m3u8
-#EXTINF:-1,WDR HD
-http://p5.giffy.be:8080/live/mica/mica/30072.m3u8
-#EXTINF:-1,ZDF HD
-http://p5.giffy.be:8080/live/mica/mica/30073.m3u8
+#EXTINF:-1,13th Street FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14060.m3u8
+#EXTINF:-1,3sat DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12341.m3u8
+#EXTINF:-1,3sat HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16497.m3u8
+#EXTINF:-1,A&E DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/13109.m3u8
+#EXTINF:-1,A&E FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14059.m3u8
+#EXTINF:-1,Animal Planet HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9561.m3u8
+#EXTINF:-1,ANIXE DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3445.m3u8
+#EXTINF:-1,ANIXE FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14576.m3u8
+#EXTINF:-1,Arte FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16496.m3u8
+#EXTINF:-1,Astro TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12339.m3u8
+#EXTINF:-1,AXN DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9562.m3u8
+#EXTINF:-1,AXN HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/17498.m3u8
+#EXTINF:-1,Boomerang DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12315.m3u8
+#EXTINF:-1,BR Fernsehen Nord DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12322.m3u8
+#EXTINF:-1,BR Fernsehen Nord HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16495.m3u8
+#EXTINF:-1,Cartoon Network DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15565.m3u8
+#EXTINF:-1,CLASSICA DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9555.m3u8
+#EXTINF:-1,Comedy Central FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/17280.m3u8
+#EXTINF:-1,Das Erste FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16493.m3u8
+#EXTINF:-1,Das Erste HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/22824.m3u8
+#EXTINF:-1,Das Erste DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3451.m3u8
+#EXTINF:-1,Deluxe Music DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9554.m3u8
+#EXTINF:-1,Deluxe Music FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14057.m3u8
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12334.m3u8
+#EXTINF:-1,Discovery Channel FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14063.m3u8
+#EXTINF:-1,Discovery Channel DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3426.m3u8
+#EXTINF:-1,Disney Channel DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3622.m3u8
+#EXTINF:-1,Disney Channel FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14056.m3u8
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14312.m3u8
+#EXTINF:-1,Disney Junior HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15566.m3u8
+#EXTINF:-1,Disney XD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9547.m3u8
+#EXTINF:-1,DMAX DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3431.m3u8
+#EXTINF:-1,DMAX HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19683.m3u8
+#EXTINF:-1,E! HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15567.m3u8
+#EXTINF:-1,Eurosport 1 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19101.m3u8
+#EXTINF:-1,Eurosport 1 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3435.m3u8
+#EXTINF:-1,Eurosport 2 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15568.m3u8
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/17281.m3u8
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19099.m3u8
+#EXTINF:-1,Fix & Foxi DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/20263.m3u8
+#EXTINF:-1,Folx TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12319.m3u8
+#EXTINF:-1,FOX FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14055.m3u8
+#EXTINF:-1,FOX HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3425.m3u8
+#EXTINF:-1,Heimatkanal DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9558.m3u8
+#EXTINF:-1,History DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3424.m3u8
+#EXTINF:-1,History FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14311.m3u8
+#EXTINF:-1,hr-Fernsehen DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12316.m3u8
+#EXTINF:-1,JukeBox DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15579.m3u8
+#EXTINF:-1,Junior DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/20207.m3u8
+#EXTINF:-1,Kabel Eins FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1649.m3u8
+#EXTINF:-1,KiKa DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1648.m3u8
+#EXTINF:-1,KiKA FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16492.m3u8
+#EXTINF:-1,Kinowelt TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12291.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15750.m3u8
+#EXTINF:-1,Motorvision TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9564.m3u8
+#EXTINF:-1,MTV HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15759.m3u8
+#EXTINF:-1,n-tv DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3449.m3u8
+#EXTINF:-1,n-tv FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14054.m3u8
+#EXTINF:-1,Welt FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14573.m3u8
+#EXTINF:-1,Welt DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3448.m3u8
+#EXTINF:-1,National Geographic Wild FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14062.m3u8
+#EXTINF:-1,National Geographic Wild HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1646.m3u8
+#EXTINF:-1,National Geographic FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14053.m3u8
+#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16488.m3u8
+#EXTINF:-1,NDR HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3443.m3u8
+#EXTINF:-1,Nickelodeon DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19100.m3u8
+#EXTINF:-1,Nick/MTV+ HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14571.m3u8
+#EXTINF:-1,Phoenix DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3454.m3u8
+#EXTINF:-1,Phoenix FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16487.m3u8
+#EXTINF:-1,Planet HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18394.m3u8
+#EXTINF:-1,Popcorn Select 1 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18234.m3u8
+#EXTINF:-1,Popcorn Select 2 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18235.m3u8
+#EXTINF:-1,Popcorn Select 3 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18236.m3u8
+#EXTINF:-1,Popcorn Select 4 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18237.m3u8
+#EXTINF:-1,Popcorn Select 5 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18238.m3u8
+#EXTINF:-1,Popcorn Select 6 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/18239.m3u8
+#EXTINF:-1,ProSieben DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1642.m3u8
+#EXTINF:-1,ProSieben FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14052.m3u8
+#EXTINF:-1,ProSieben Maxx DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3444.m3u8
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14051.m3u8
+#EXTINF:-1,rbb Fernsehen Berlin FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15747.m3u8
+#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15754.m3u8
+#EXTINF:-1,One FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15751.m3u8
+#EXTINF:-1,Regio TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12328.m3u8
+#EXTINF:-1,Romance TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/13111.m3u8
+#EXTINF:-1,RTL Crime HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15570.m3u8
+#EXTINF:-1,RTL FS DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12300.m3u8
+#EXTINF:-1,RTL HB NDS DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12299.m3u8
+#EXTINF:-1,RTL FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14049.m3u8
+#EXTINF:-1,RTL HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3825.m3u8
+#EXTINF:-1,RTL II DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3826.m3u8
+#EXTINF:-1,RTL II FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14050.m3u8
+#EXTINF:-1,RTL Living HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3202.m3u8
+#EXTINF:-1,RTL Plus DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19655.m3u8
+#EXTINF:-1,NITRO DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1639.m3u8
+#EXTINF:-1,NITRO HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14048.m3u8
+#EXTINF:-1,RTL WEST DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12298.m3u8
+#EXTINF:-1,RTL Passion FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9563.m3u8
+#EXTINF:-1,RTLplus DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12297.m3u8
+#EXTINF:-1,SAT.1 Gold DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12309.m3u8
+#EXTINF:-1,SAT.1 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14047.m3u8
+#EXTINF:-1,SAT.1 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1637.m3u8
+#EXTINF:-1,ServusTV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12307.m3u8
+#EXTINF:-1,Sixx DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9560.m3u8
+#EXTINF:-1,Sixx FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14046.m3u8
+#EXTINF:-1,Sky 1 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9557.m3u8
+#EXTINF:-1,Sky Atlantic FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14306.m3u8
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15574.m3u8
+#EXTINF:-1,Sky Cinema +24 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1633.m3u8
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15575.m3u8
+#EXTINF:-1,Sky Action FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14307.m3u8
+#EXTINF:-1,Sky Action DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3432.m3u8
+#EXTINF:-1,Sky Cinema DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1634.m3u8
+#EXTINF:-1,Sky Family FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15576.m3u8
+#EXTINF:-1,Sky Cinema FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14061.m3u8
+#EXTINF:-1,Sky Cinema HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3420.m3u8
+#EXTINF:-1,Sky Hits FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14305.m3u8
+#EXTINF:-1,Sky Comedy DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3430.m3u8
+#EXTINF:-1,Sky Emotion DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1631.m3u8
+#EXTINF:-1,Sky Krimi DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3429.m3u8
+#EXTINF:-1,Sky Nostalgie DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9556.m3u8
+#EXTINF:-1,Sky Select 1 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11265.m3u8
+#EXTINF:-1,Sky Select 2 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11266.m3u8
+#EXTINF:-1,E! DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16502.m3u8
+#EXTINF:-1,Sky Select 3 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11267.m3u8
+#EXTINF:-1,Sky Select 4 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11268.m3u8
+#EXTINF:-1,Sky Select 5 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11269.m3u8
+#EXTINF:-1,Sky Select 6 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11270.m3u8
+#EXTINF:-1,Sky Select 7 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11271.m3u8
+#EXTINF:-1,Sky Select 8 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11272.m3u8
+#EXTINF:-1,Sky Select 9 Live DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12290.m3u8
+#EXTINF:-1,Sky Sport 1 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14559.m3u8
+#EXTINF:-1,Sky Sport 1 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1479.m3u8
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7326.m3u8
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7335.m3u8
+#EXTINF:-1,Sky Sport 11 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7336.m3u8
+#EXTINF:-1,Sky Sport 2 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14560.m3u8
+#EXTINF:-1,Sky Sport 2 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1480.m3u8
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7327.m3u8
+#EXTINF:-1,Sky Sport 3 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14561.m3u8
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7328.m3u8
+#EXTINF:-1,Sky Sport 4 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14562.m3u8
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7329.m3u8
+#EXTINF:-1,Sky Sport 5 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14563.m3u8
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7330.m3u8
+#EXTINF:-1,Sky Sport 6 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14564.m3u8
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7331.m3u8
+#EXTINF:-1,Sky Sport 7 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14565.m3u8
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7332.m3u8
+#EXTINF:-1,Sky Sport 8 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14566.m3u8
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7333.m3u8
+#EXTINF:-1,Sky Sport 9 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14567.m3u8
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7334.m3u8
+#EXTINF:-1,Sky Sport Austria DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9551.m3u8
+#EXTINF:-1,Sky Sport Austria HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15578.m3u8
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14550.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3436.m3u8
+#EXTINF:-1,Sky Bundesliga 1 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7338.m3u8
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14558.m3u8
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7347.m3u8
+#EXTINF:-1,Sky Bundesliga 2 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14551.m3u8
+#EXTINF:-1,Sky Bundesliga 2 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7339.m3u8
+#EXTINF:-1,Sky Bundesliga 3 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14552.m3u8
+#EXTINF:-1,Sky Bundesliga 3 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7340.m3u8
+#EXTINF:-1,Sky Bundesliga 4 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14553.m3u8
+#EXTINF:-1,Sky Bundesliga 4 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7341.m3u8
+#EXTINF:-1,Sky Bundesliga 5 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14554.m3u8
+#EXTINF:-1,Sky Bundesliga 5 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7342.m3u8
+#EXTINF:-1,Sky Bundesliga 6 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14555.m3u8
+#EXTINF:-1,Sky Bundesliga 6 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7343.m3u8
+#EXTINF:-1,Sky Bundesliga 7 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/24735.m3u8
+#EXTINF:-1,Sky Bundesliga 7 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7344.m3u8
+#EXTINF:-1,Sky Bundesliga 8 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14556.m3u8
+#EXTINF:-1,Sky Bundesliga 8 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7345.m3u8
+#EXTINF:-1,Sky Bundesliga 9 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14557.m3u8
+#EXTINF:-1,Sky Bundesliga 9 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7346.m3u8
+#EXTINF:-1,Sky Sport News DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14577.m3u8
+#EXTINF:-1,Sky Sport News HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/7337.m3u8
+#EXTINF:-1,Spiegel TV Wissen DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14045.m3u8
+#EXTINF:-1,SPORT1 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/9552.m3u8
+#EXTINF:-1,SPORT1 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15745.m3u8
+#EXTINF:-1,sportdigital DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3841.m3u8
+#EXTINF:-1,sportdigital FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16582.m3u8
+#EXTINF:-1,SR Fernsehen FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15749.m3u8
+#EXTINF:-1,Super RTL DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3456.m3u8
+#EXTINF:-1,Super RTL FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14044.m3u8
+#EXTINF:-1,SWR BW FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16486.m3u8
+#EXTINF:-1,SWR DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12296.m3u8
+#EXTINF:-1,Syfy HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14043.m3u8
+#EXTINF:-1,tagesschau24 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15752.m3u8
+#EXTINF:-1,Tele 5 DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12325.m3u8
+#EXTINF:-1,Tele 5 FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/20208.m3u8
+#EXTINF:-1,TLC DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12324.m3u8
+#EXTINF:-1,TLC FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15757.m3u8
+#EXTINF:-1,TNT Comedy HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15577.m3u8
+#EXTINF:-1,TNT Serie FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14303.m3u8
+#EXTINF:-1,TOGGO plus DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12323.m3u8
+#EXTINF:-1,Universal Channel HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3439.m3u8
+#EXTINF:-1,Comedy Central DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12317.m3u8
+#EXTINF:-1,VOX FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14291.m3u8
+#EXTINF:-1,VOX DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1630.m3u8
+#EXTINF:-1,WDR DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3442.m3u8
+#EXTINF:-1,Welt der Wunder DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12305.m3u8
+#EXTINF:-1,ZDF DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1629.m3u8
+#EXTINF:-1,ZDF HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19098.m3u8
+#EXTINF:-1,ZDF FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16484.m3u8
+#EXTINF:-1,ZDFinfo DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/12295.m3u8
+#EXTINF:-1,ZDFneo DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3453.m3u8
+#EXTINF:-1,ZDFneo FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16482.m3u8
+#EXTINF:-1,ZDFinfo FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16483.m3u8
+#EXTINF:-1,Zee One DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/13112.m3u8
+#EXTINF:-1,Zee One FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/15748.m3u8
+#EXTINF:-1,München TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/11659.m3u8
+#EXTINF:-1,FC Bayern FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16767.m3u8
+#EXTINF:-1,Sky Hits DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16803.m3u8
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16573.m3u8
+#EXTINF:-1,Sat. 1 Emotions DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16836.m3u8
+#EXTINF:-1,ProSieben Fun HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16627.m3u8
+#EXTINF:-1,TNT Film FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16628.m3u8
+#EXTINF:-1,Sport 1+ FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/17166.m3u8
+#EXTINF:-1,Kabel Eins Doku DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/17167.m3u8
+#EXTINF:-1,DW English DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/17300.m3u8
+#EXTINF:-1,Baby TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19622.m3u8
+#EXTINF:-1,DW Arabia DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19620.m3u8
+#EXTINF:-1,Comedy Central HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19677.m3u8
+#EXTINF:-1,Auto Motor und Sport HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19658.m3u8
+#EXTINF:-1,Sony TV HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/3447.m3u8
+#EXTINF:-1,Kabel Eins Classics DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/16581.m3u8
+#EXTINF:-1,One TV FHD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/23043.m3u8
+#EXTINF:-1,WDR HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/23437.m3u8
+#EXTINF:-1,German Tote TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/23945.m3u8
+#EXTINF:-1,Eagle Cinema Abenteuer HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26323.m3u8
+#EXTINF:-1,Eagle Cinema Aktion HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26324.m3u8
+#EXTINF:-1,Eagle Cinema Horror HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26328.m3u8
+#EXTINF:-1,Eagle Cinema Romantisch HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26332.m3u8
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26330.m3u8
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26327.m3u8
+#EXTINF:-1,Eagle Cinema Premiere HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26331.m3u8
+#EXTINF:-1,Eagle Cinema Drama HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26326.m3u8
+#EXTINF:-1,Eagle Cinema Thriller HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26334.m3u8
+#EXTINF:-1,Eagle Cinema Sci-Fi HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26333.m3u8
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26325.m3u8
+#EXTINF:-1,Eagle Cinema Komodie HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26329.m3u8
+#EXTINF:-1,Nick Jr. DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/19165.m3u8
+#EXTINF:-1,Sky Cinema Animation DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/26817.m3u8
+#EXTINF:-1,RTL UHD 4K DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27220.m3u8
+#EXTINF:-1,Servus TV HD DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27566.m3u8
+#EXTINF:-1,Oberpfalz TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27632.m3u8
+#EXTINF:-1,Genius Family DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27655.m3u8
+#EXTINF:-1,EO TV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27657.m3u8
+#EXTINF:-1,HGTV DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27656.m3u8
+#EXTINF:-1,DW Deutsch DE
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/27791.m3u8
