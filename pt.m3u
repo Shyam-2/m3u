@@ -1,175 +1,333 @@
 #EXTM3U
-#EXTINF:-1,Axn Hd
-http://force102.com:8080/live/ilker3/27.04.2019/11000.m3u8
-#EXTINF:-1,Canal Panda
-http://force102.com:8080/live/ilker3/27.04.2019/10997.m3u8
-#EXTINF:-1,Cmtv
-http://force102.com:8080/live/ilker3/27.04.2019/11014.m3u8
-#EXTINF:-1,Crime Investigation
-http://force102.com:8080/live/ilker3/27.04.2019/10998.m3u8
-#EXTINF:-1,Rtp 1
-http://force102.com:8080/live/ilker3/27.04.2019/11009.m3u8
-#EXTINF:-1,Rtp 2
-http://force102.com:8080/live/ilker3/27.04.2019/11010.m3u8
-#EXTINF:-1,Rtp 3
-http://force102.com:8080/live/ilker3/27.04.2019/11007.m3u8
-#EXTINF:-1,Sic
-http://force102.com:8080/live/ilker3/27.04.2019/11008.m3u8
-#EXTINF:-1,Sic Mulher
-http://force102.com:8080/live/ilker3/27.04.2019/11011.m3u8
-#EXTINF:-1,Sic Noticias
-http://force102.com:8080/live/ilker3/27.04.2019/11013.m3u8
-#EXTINF:-1,Sport Tv
-http://force102.com:8080/live/ilker3/27.04.2019/10999.m3u8
-#EXTINF:-1,Sport Tv 1 Hd
-http://force102.com:8080/live/ilker3/27.04.2019/11006.m3u8
-#EXTINF:-1,Sport Tv 2 Hd
-http://force102.com:8080/live/ilker3/27.04.2019/11005.m3u8
-#EXTINF:-1,Sport Tv 3 Hd
-http://force102.com:8080/live/ilker3/27.04.2019/11004.m3u8
-#EXTINF:-1,Sport Tv 4 Hd
-http://force102.com:8080/live/ilker3/27.04.2019/11003.m3u8
-#EXTINF:-1,Tv Series
-http://force102.com:8080/live/ilker3/27.04.2019/11001.m3u8
-#EXTINF:-1,Tvcine 1
-http://force102.com:8080/live/ilker3/27.04.2019/11015.m3u8
-#EXTINF:-1,Tvcine 2
-http://force102.com:8080/live/ilker3/27.04.2019/11016.m3u8
-#EXTINF:-1,Tvcine 3
-http://force102.com:8080/live/ilker3/27.04.2019/11017.m3u8
-#EXTINF:-1,Tvcine 4
-http://force102.com:8080/live/ilker3/27.04.2019/11018.m3u8
-#EXTINF:-1,Tvi
-http://force102.com:8080/live/ilker3/27.04.2019/11019.m3u8
-#EXTINF:-1,Tvi 24
-http://force102.com:8080/live/ilker3/27.04.2019/11002.m3u8
-#EXTINF:-1,Tvi Ficcao
-http://force102.com:8080/live/ilker3/27.04.2019/11012.m3u8
-#EXTINF:-1,24 Kitchen
-http://force102.com:8080/live/ilker3/27.04.2019/20275.m3u8
-#EXTINF:-1,A Bola TV
-http://force102.com:8080/live/ilker3/27.04.2019/20274.m3u8
+#EXTINF:-1,Canal Rural
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11365.m3u8
+#EXTINF:-1,Terê TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11371.m3u8
+#EXTINF:-1,TV ASSEMBLEIA
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11392.m3u8
+#EXTINF:-1,TV Horizonte
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11362.m3u8
+#EXTINF:-1,TV Jaguar
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11380.m3u8
+#EXTINF:-1,Agro Canal
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11304.m3u8
+#EXTINF:-1,AgroBrasil TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11299.m3u8
+#EXTINF:-1,All Sports
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11300.m3u8
+#EXTINF:-1,Assembleia Legislativa TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11370.m3u8
+#EXTINF:-1,Blue TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11385.m3u8
+#EXTINF:-1,Boas Novas
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11375.m3u8
+#EXTINF:-1,Canal Do Boi
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11303.m3u8
+#EXTINF:-1,Canal SE7E
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11306.m3u8
+#EXTINF:-1,Canal Shoptime
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11355.m3u8
+#EXTINF:-1,Cine+
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11305.m3u8
+#EXTINF:-1,E-Paraná
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11368.m3u8
+#EXTINF:-1,Fish TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11401.m3u8
+#EXTINF:-1,Fonte TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11308.m3u8
+#EXTINF:-1,Gospel Movies Television
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11309.m3u8
+#EXTINF:-1,ITV Brasil
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11310.m3u8
+#EXTINF:-1,Mega TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11374.m3u8
+#EXTINF:-1,MultiTV Cidades
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11311.m3u8
+#EXTINF:-1,PUC TV Goiás
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11312.m3u8
+#EXTINF:-1,RBTV Rede Brasil
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11313.m3u8
+#EXTINF:-1,Record News Espírito Sant
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11314.m3u8
+#EXTINF:-1,Record TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11315.m3u8
+#EXTINF:-1,Rede Brasil TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11372.m3u8
+#EXTINF:-1,Rede Família
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11399.m3u8
+#EXTINF:-1,Rede TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11319.m3u8
+#EXTINF:-1,Rede TV Rondônia
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11359.m3u8
+#EXTINF:-1,Rede Vida
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11320.m3u8
+#EXTINF:-1,TBC  Brasil Central
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11324.m3u8
+#EXTINF:-1,Terra Viva
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11384.m3u8
+#EXTINF:-1,TV AD-Belém
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11376.m3u8
+#EXTINF:-1,TV Aparecida
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11325.m3u8
+#EXTINF:-1,TV Aperipê
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11388.m3u8
+#EXTINF:-1,TV Arapuan
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11377.m3u8
+#EXTINF:-1,TV Assemblei
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11326.m3u8
+#EXTINF:-1,TVE
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11327.m3u8
+#EXTINF:-1,TV Assembléia Piauí
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11367.m3u8
+#EXTINF:-1,TV Atividade
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11328.m3u8
+#EXTINF:-1,TV Brasil
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11363.m3u8
+#EXTINF:-1,TV Brusque
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11378.m3u8
+#EXTINF:-1,TV Canção Nova
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11329.m3u8
+#EXTINF:-1,TV Candidés
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11330.m3u8
+#EXTINF:-1,TV Cidade Verde
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11393.m3u8
+#EXTINF:-1,TV Cultura
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11331.m3u8
+#EXTINF:-1,TV Cultura Vale do Aço
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11332.m3u8
+#EXTINF:-1,TV Diário
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11333.m3u8
+#EXTINF:-1,TV Diário Do Sertão
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11334.m3u8
+#EXTINF:-1,TV Difusora
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11335.m3u8
+#EXTINF:-1,TV Difusora Sul
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11336.m3u8
+#EXTINF:-1,TV Escola
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11379.m3u8
+#EXTINF:-1,TV Evangelizar
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11337.m3u8
+#EXTINF:-1,TV Galega
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11394.m3u8
+#EXTINF:-1,TV Geral
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11338.m3u8
+#EXTINF:-1,TV Guarapari
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11340.m3u8
+#EXTINF:-1,TV Itape
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11395.m3u8
+#EXTINF:-1,TV Jornal
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11341.m3u8
+#EXTINF:-1,TV Jornet
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11390.m3u8
+#EXTINF:-1,TV Mackenzie
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11381.m3u8
+#EXTINF:-1,TV Maná Portugués
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11342.m3u8
+#EXTINF:-1,TV Mundial
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11343.m3u8
+#EXTINF:-1,TV Metrópole
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11382.m3u8
+#EXTINF:-1,TV NBR
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11344.m3u8
+#EXTINF:-1,TV O Povo
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11345.m3u8
+#EXTINF:-1,TV Pampa
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11391.m3u8
+#EXTINF:-1,TV Poços
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11346.m3u8
+#EXTINF:-1,TV Preve
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11396.m3u8
+#EXTINF:-1,TV Rede Gospel
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11347.m3u8
+#EXTINF:-1,TV Século 21
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11348.m3u8
+#EXTINF:-1,TV Senado
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11357.m3u8
+#EXTINF:-1,TV Sete Lagoas
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11349.m3u8
+#EXTINF:-1,TV Teen Net
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11360.m3u8
+#EXTINF:-1,TV Terceiro Anjo
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11361.m3u8
+#EXTINF:-1,TV Transamérica
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11383.m3u8
+#EXTINF:-1,TV Universal
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11351.m3u8
+#EXTINF:-1,tvc canal 16
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11389.m3u8
+#EXTINF:-1,TVN Brasil
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11353.m3u8
+#EXTINF:-1,UnBTV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11366.m3u8
+#EXTINF:-1,Via Morena
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/11354.m3u8
+#EXTINF:-1,BR: BAND SPORTS HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4964.m3u8
+#EXTINF:-1,BR: HBO PLUS SD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4979.m3u8
+#EXTINF:-1,BR: SPORTV HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4959.m3u8
+#EXTINF:-1,A&E HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5042.m3u8
+#EXTINF:-1,A&E SD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5043.m3u8
 #EXTINF:-1,AMC
-http://force102.com:8080/live/ilker3/27.04.2019/20273.m3u8
-#EXTINF:-1,AXN Black HD
-http://force102.com:8080/live/ilker3/27.04.2019/20272.m3u8
-#EXTINF:-1,AXN White
-http://force102.com:8080/live/ilker3/27.04.2019/20271.m3u8
-#EXTINF:-1,Baby TV
-http://force102.com:8080/live/ilker3/27.04.2019/20270.m3u8
-#EXTINF:-1,Barca TV
-http://force102.com:8080/live/ilker3/27.04.2019/20269.m3u8
-#EXTINF:-1,Benfica TV HD
-http://force102.com:8080/live/ilker3/27.04.2019/20268.m3u8
-#EXTINF:-1,Biggs
-http://force102.com:8080/live/ilker3/27.04.2019/20267.m3u8
-#EXTINF:-1,Caça e Pesca
-http://force102.com:8080/live/ilker3/27.04.2019/20266.m3u8
-#EXTINF:-1,CAÇAVISION
-http://force102.com:8080/live/ilker3/27.04.2019/20265.m3u8
-#EXTINF:-1,Canal Q
-http://force102.com:8080/live/ilker3/27.04.2019/20264.m3u8
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5010.m3u8
+#EXTINF:-1,AMC HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5009.m3u8
+#EXTINF:-1,Animal Planet
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5044.m3u8
+#EXTINF:-1,Arte1 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5008.m3u8
+#EXTINF:-1,AXN HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5007.m3u8
+#EXTINF:-1,Baby TV HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4973.m3u8
+#EXTINF:-1,Baby TV SD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4974.m3u8
+#EXTINF:-1,Band News
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4963.m3u8
+#EXTINF:-1,Band News HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4962.m3u8
+#EXTINF:-1,Band Nordeste HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5004.m3u8
+#EXTINF:-1,Band Sports HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5003.m3u8
+#EXTINF:-1,Band Sports SD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4965.m3u8
+#EXTINF:-1,BIS HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5005.m3u8
+#EXTINF:-1,BIS SD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5006.m3u8
+#EXTINF:-1,Boomerang HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5002.m3u8
+#EXTINF:-1,Canal Sony
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5000.m3u8
+#EXTINF:-1,Canal Sony HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4999.m3u8
 #EXTINF:-1,Cartoon Network
-http://force102.com:8080/live/ilker3/27.04.2019/20263.m3u8
-#EXTINF:-1,CBS Reality
-http://force102.com:8080/live/ilker3/27.04.2019/20262.m3u8
-#EXTINF:-1,Cinemundo
-http://force102.com:8080/live/ilker3/27.04.2019/20261.m3u8
-#EXTINF:-1,Discovery Channel
-http://force102.com:8080/live/ilker3/27.04.2019/20260.m3u8
-#EXTINF:-1,Discovery Showcase
-http://force102.com:8080/live/ilker3/27.04.2019/20259.m3u8
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4961.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4960.m3u8
+#EXTINF:-1,Cinemax HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5001.m3u8
+#EXTINF:-1,Combate
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4998.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4997.m3u8
+#EXTINF:-1,Discovery Civilization HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4996.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4995.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4994.m3u8
+#EXTINF:-1,Discovery Science HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4993.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4992.m3u8
 #EXTINF:-1,Disney Channel
-http://force102.com:8080/live/ilker3/27.04.2019/20258.m3u8
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4991.m3u8
 #EXTINF:-1,Disney Junior
-http://force102.com:8080/live/ilker3/27.04.2019/20257.m3u8
-#EXTINF:-1,Eleven Sports 1HD
-http://force102.com:8080/live/ilker3/27.04.2019/20256.m3u8
-#EXTINF:-1,Eleven Sports 2HD
-http://force102.com:8080/live/ilker3/27.04.2019/20255.m3u8
-#EXTINF:-1,Eleven Sports 3HD
-http://force102.com:8080/live/ilker3/27.04.2019/20254.m3u8
-#EXTINF:-1,Eleven Sports 4HD
-http://force102.com:8080/live/ilker3/27.04.2019/20253.m3u8
-#EXTINF:-1,Eleven Sports 5HD
-http://force102.com:8080/live/ilker3/27.04.2019/20252.m3u8
-#EXTINF:-1,Eleven Sports 6HD
-http://force102.com:8080/live/ilker3/27.04.2019/20251.m3u8
-#EXTINF:-1,Eurosport 1
-http://force102.com:8080/live/ilker3/27.04.2019/20250.m3u8
-#EXTINF:-1,Eurosport 2
-http://force102.com:8080/live/ilker3/27.04.2019/20249.m3u8
-#EXTINF:-1,FOX Comedy
-http://force102.com:8080/live/ilker3/27.04.2019/20248.m3u8
-#EXTINF:-1,Fox Crime
-http://force102.com:8080/live/ilker3/27.04.2019/20247.m3u8
-#EXTINF:-1,FOX HD
-http://force102.com:8080/live/ilker3/27.04.2019/20246.m3u8
-#EXTINF:-1,FOX Life HD
-http://force102.com:8080/live/ilker3/27.04.2019/20245.m3u8
-#EXTINF:-1,FOX Movies
-http://force102.com:8080/live/ilker3/27.04.2019/20244.m3u8
-#EXTINF:-1,Fuel TV
-http://force102.com:8080/live/ilker3/27.04.2019/20243.m3u8
-#EXTINF:-1,Historia
-http://force102.com:8080/live/ilker3/27.04.2019/20242.m3u8
-#EXTINF:-1,Hollywood
-http://force102.com:8080/live/ilker3/27.04.2019/20241.m3u8
-#EXTINF:-1,JimJam
-http://force102.com:8080/live/ilker3/27.04.2019/20240.m3u8
-#EXTINF:-1,Kombat Sport
-http://force102.com:8080/live/ilker3/27.04.2019/20239.m3u8
-#EXTINF:-1,Motorvision
-http://force102.com:8080/live/ilker3/27.04.2019/20238.m3u8
-#EXTINF:-1,Nat Geo
-http://force102.com:8080/live/ilker3/27.04.2019/20237.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://force102.com:8080/live/ilker3/27.04.2019/20236.m3u8
-#EXTINF:-1,Nickelodeon
-http://force102.com:8080/live/ilker3/27.04.2019/20235.m3u8
-#EXTINF:-1,Odissea
-http://force102.com:8080/live/ilker3/27.04.2019/20234.m3u8
-#EXTINF:-1,PFC
-http://force102.com:8080/live/ilker3/27.04.2019/20233.m3u8
-#EXTINF:-1,Porto Canal
-http://force102.com:8080/live/ilker3/27.04.2019/20232.m3u8
-#EXTINF:-1,Real Madrid TV
-http://force102.com:8080/live/ilker3/27.04.2019/20231.m3u8
-#EXTINF:-1,RTP Africa
-http://force102.com:8080/live/ilker3/27.04.2019/20230.m3u8
-#EXTINF:-1,SIC
-http://force102.com:8080/live/ilker3/27.04.2019/20229.m3u8
-#EXTINF:-1,SIC CARAS
-http://force102.com:8080/live/ilker3/27.04.2019/20228.m3u8
-#EXTINF:-1,SIC K
-http://force102.com:8080/live/ilker3/27.04.2019/20227.m3u8
-#EXTINF:-1,SIC Radical
-http://force102.com:8080/live/ilker3/27.04.2019/20226.m3u8
-#EXTINF:-1,Sport TV
-http://force102.com:8080/live/ilker3/27.04.2019/20225.m3u8
-#EXTINF:-1,Sport TV 1HD
-http://force102.com:8080/live/ilker3/27.04.2019/20224.m3u8
-#EXTINF:-1,Sport TV 2HD
-http://force102.com:8080/live/ilker3/27.04.2019/20223.m3u8
-#EXTINF:-1,Sport TV 3HD
-http://force102.com:8080/live/ilker3/27.04.2019/20222.m3u8
-#EXTINF:-1,Sport TV 4 HD
-http://force102.com:8080/live/ilker3/27.04.2019/20221.m3u8
-#EXTINF:-1,Sport TV 5 HD
-http://force102.com:8080/live/ilker3/27.04.2019/20220.m3u8
-#EXTINF:-1,Sporting TV
-http://force102.com:8080/live/ilker3/27.04.2019/20219.m3u8
-#EXTINF:-1,SYFY
-http://force102.com:8080/live/ilker3/27.04.2019/20218.m3u8
-#EXTINF:-1,TLC
-http://force102.com:8080/live/ilker3/27.04.2019/20217.m3u8
-#EXTINF:-1,Toros TV
-http://force102.com:8080/live/ilker3/27.04.2019/20216.m3u8
-#EXTINF:-1,TV Globo
-http://force102.com:8080/live/ilker3/27.04.2019/20215.m3u8
-#EXTINF:-1,TV Globo Premium
-http://force102.com:8080/live/ilker3/27.04.2019/20214.m3u8
-#EXTINF:-1,TV Record
-http://force102.com:8080/live/ilker3/27.04.2019/20213.m3u8
-#EXTINF:-1,TVi Reality
-http://force102.com:8080/live/ilker3/27.04.2019/20212.m3u8
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4972.m3u8
+#EXTINF:-1,Disney Junior HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4971.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4990.m3u8
+#EXTINF:-1,Fish TV
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4987.m3u8
+#EXTINF:-1,Food Network HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4986.m3u8
+#EXTINF:-1,Fox Life
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4985.m3u8
+#EXTINF:-1,Fox Premium 1 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4983.m3u8
+#EXTINF:-1,Fox Sports
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5011.m3u8
+#EXTINF:-1,Fox Sports 2
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5012.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5013.m3u8
+#EXTINF:-1,Fox Sports HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5014.m3u8
+#EXTINF:-1,FX
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4989.m3u8
+#EXTINF:-1,FX HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4988.m3u8
+#EXTINF:-1,Globo News HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4982.m3u8
+#EXTINF:-1,HBO
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5032.m3u8
+#EXTINF:-1,HBO 2
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5030.m3u8
+#EXTINF:-1,HBO Family
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4981.m3u8
+#EXTINF:-1,HBO Family HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4980.m3u8
+#EXTINF:-1,HBO HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5031.m3u8
+#EXTINF:-1,HBO Plus
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5029.m3u8
+#EXTINF:-1,HBO Plus HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5028.m3u8
+#EXTINF:-1,HBO Plus*e
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5027.m3u8
+#EXTINF:-1,HBO Signature
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5026.m3u8
+#EXTINF:-1,History Channel
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4970.m3u8
+#EXTINF:-1,History Channel HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4969.m3u8
+#EXTINF:-1,Megapix HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4978.m3u8
+#EXTINF:-1,Nick Jr HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4968.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4967.m3u8
+#EXTINF:-1,OFF
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4977.m3u8
+#EXTINF:-1,Paramount
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4976.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5025.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5024.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5023.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5022.m3u8
+#EXTINF:-1,Record News
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5016.m3u8
+#EXTINF:-1,Record News HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5015.m3u8
+#EXTINF:-1,Record SP HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5017.m3u8
+#EXTINF:-1,Studio Universal
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4966.m3u8
+#EXTINF:-1,Telecine Action
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5041.m3u8
+#EXTINF:-1,Telecine Action HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5040.m3u8
+#EXTINF:-1,Telecine Cult
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5039.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5038.m3u8
+#EXTINF:-1,Telecine Fun
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5037.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5036.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/4975.m3u8
+#EXTINF:-1,Telecine Premium
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5035.m3u8
+#EXTINF:-1,Telecine Touch
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5034.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5033.m3u8
+#EXTINF:-1,TNT
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5021.m3u8
+#EXTINF:-1,TNT HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5020.m3u8
+#EXTINF:-1,TNT Séries
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5019.m3u8
+#EXTINF:-1,TNT Séries HD
+http://goiptv.co:8080/live/live:jackyshow2000/DcdM26Ve7m/5018.m3u8
