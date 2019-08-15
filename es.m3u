@@ -1,133 +1,95 @@
 #EXTM3U
-#EXTINF:-1,LA 1
-http://51.15.191.232:8000/live/gazzas/gazzas/24602.m3u8
-#EXTINF:-1,ANTENA 3 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21837.m3u8
-#EXTINF:-1,TELECINCO HD
-http://51.15.191.232:8000/live/gazzas/gazzas/31245.m3u8
-#EXTINF:-1,CUATRO
-http://51.15.191.232:8000/live/gazzas/gazzas/21827.m3u8
-#EXTINF:-1,-Hollywood-Spain-HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21823.m3u8
+#EXTINF:-1,#0 HD
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1782.m3u8
+#EXTINF:-1,24 Horas
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1781.m3u8
 #EXTINF:-1,A&E
-http://51.15.191.232:8000/live/gazzas/gazzas/21818.m3u8
-#EXTINF:-1,TV Man? Argentina
-http://51.15.191.232:8000/live/gazzas/gazzas/28844.m3u8
-#EXTINF:-1,Canal Plus Deportes2
-http://51.15.191.232:8000/live/gazzas/gazzas/20587.m3u8
-#EXTINF:-1,Comedy central
-http://51.15.191.232:8000/live/gazzas/gazzas/21822.m3u8
-#EXTINF:-1,Canal Plus Dcine
-http://51.15.191.232:8000/live/gazzas/gazzas/20589.m3u8
-#EXTINF:-1,Crime&Investigation
-http://51.15.191.232:8000/live/gazzas/gazzas/21806.m3u8
-#EXTINF:-1,M.DEPORTES.2
-http://51.15.191.232:8000/live/gazzas/gazzas/21859.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://51.15.191.232:8000/live/gazzas/gazzas/21819.m3u8
-#EXTINF:-1,DISNEY XD
-http://51.15.191.232:8000/live/gazzas/gazzas/21820.m3u8
-#EXTINF:-1,DISNEY_XD
-http://51.15.191.232:8000/live/gazzas/gazzas/21809.m3u8
-#EXTINF:-1,ES.Energy
-http://51.15.191.232:8000/live/gazzas/gazzas/21800.m3u8
-#EXTINF:-1,Canal #0 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21811.m3u8
-#EXTINF:-1,Barca TV
-http://51.15.191.232:8000/live/gazzas/gazzas/21861.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21843.m3u8
-#EXTINF:-1,CANAL DECASA
-http://51.15.191.232:8000/live/gazzas/gazzas/21817.m3u8
-#EXTINF:-1,CLAN TVE
-http://51.15.191.232:8000/live/gazzas/gazzas/21828.m3u8
-#EXTINF:-1,COSMO HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21821.m3u8
-#EXTINF:-1,ES_FOX_HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21849.m3u8
-#EXTINF:-1,GOL TV
-http://51.15.191.232:8000/live/gazzas/gazzas/21814.m3u8
-#EXTINF:-1,M. SERIES HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21842.m3u8
-#EXTINF:-1,Movistar Accion
-http://51.15.191.232:8000/live/gazzas/gazzas/21834.m3u8
-#EXTINF:-1,Movistar Dcine
-http://51.15.191.232:8000/live/gazzas/gazzas/21836.m3u8
-#EXTINF:-1,Movistar Deportes 1
-http://51.15.191.232:8000/live/gazzas/gazzas/21860.m3u8
-#EXTINF:-1,Movistar Estrenos
-http://51.15.191.232:8000/live/gazzas/gazzas/21850.m3u8
-#EXTINF:-1,Movistar Golf
-http://51.15.191.232:8000/live/gazzas/gazzas/21852.m3u8
-#EXTINF:-1,Movistar Series XTRA.
-http://51.15.191.232:8000/live/gazzas/gazzas/21854.m3u8
-#EXTINF:-1,Movistar Series.
-http://51.15.191.232:8000/live/gazzas/gazzas/21855.m3u8
-#EXTINF:-1,Movistar_Disney_Channel
-http://51.15.191.232:8000/live/gazzas/gazzas/21810.m3u8
-#EXTINF:-1,Movistar_Nat_Geo
-http://51.15.191.232:8000/live/gazzas/gazzas/21858.m3u8
-#EXTINF:-1,MTV ESP
-http://51.15.191.232:8000/live/gazzas/gazzas/21812.m3u8
-#EXTINF:-1,NON STOP PEOPLE
-http://51.15.191.232:8000/live/gazzas/gazzas/21805.m3u8
-#EXTINF:-1,NOVA
-http://51.15.191.232:8000/live/gazzas/gazzas/21824.m3u8
-#EXTINF:-1,ODESSEIA
-http://51.15.191.232:8000/live/gazzas/gazzas/21831.m3u8
-#EXTINF:-1,Paramount Channel
-http://51.15.191.232:8000/live/gazzas/gazzas/21804.m3u8
-#EXTINF:-1,Real Madrid TV
-http://51.15.191.232:8000/live/gazzas/gazzas/21833.m3u8
-#EXTINF:-1,SYFY HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21841.m3u8
-#EXTINF:-1,TAQUILLA _4
-http://51.15.191.232:8000/live/gazzas/gazzas/21794.m3u8
-#EXTINF:-1,TeleticinoHD
-http://51.15.191.232:8000/live/gazzas/gazzas/21844.m3u8
-#EXTINF:-1,TNT HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21839.m3u8
-#EXTINF:-1,TVE LA2
-http://51.15.191.232:8000/live/gazzas/gazzas/21825.m3u8
-#EXTINF:-1,Canal Plus Series
-http://51.15.191.232:8000/live/gazzas/gazzas/20583.m3u8
-#EXTINF:-1,Laliga TV
-http://51.15.191.232:8000/live/gazzas/gazzas/20584.m3u8
-#EXTINF:-1,Canal Plus futbol
-http://51.15.191.232:8000/live/gazzas/gazzas/20585.m3u8
-#EXTINF:-1,Canal Plus Estrenos
-http://51.15.191.232:8000/live/gazzas/gazzas/20586.m3u8
-#EXTINF:-1,Canal Plus Deportes
-http://51.15.191.232:8000/live/gazzas/gazzas/20588.m3u8
-#EXTINF:-1,AXN WHITE
-http://51.15.191.232:8000/live/gazzas/gazzas/21802.m3u8
-#EXTINF:-1,VIAJAR HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21838.m3u8
-#EXTINF:-1,AXN
-http://51.15.191.232:8000/live/gazzas/gazzas/21832.m3u8
-#EXTINF:-1,BEIN SPORT HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24587.m3u8
-#EXTINF:-1,CALLE 13
-http://51.15.191.232:8000/live/gazzas/gazzas/24588.m3u8
-#EXTINF:-1,CANAL  COMEDIA
-http://51.15.191.232:8000/live/gazzas/gazzas/24590.m3u8
-#EXTINF:-1,CANAL  DEPORTES 1
-http://51.15.191.232:8000/live/gazzas/gazzas/24592.m3u8
-#EXTINF:-1,Movistar  GOLF
-http://51.15.191.232:8000/live/gazzas/gazzas/24595.m3u8
-#EXTINF:-1,CANAL  HOLLYWOOD
-http://51.15.191.232:8000/live/gazzas/gazzas/24596.m3u8
-#EXTINF:-1,CANAL  LIGA
-http://51.15.191.232:8000/live/gazzas/gazzas/24597.m3u8
-#EXTINF:-1,CANAL  TOROS
-http://51.15.191.232:8000/live/gazzas/gazzas/24599.m3u8
-#EXTINF:-1,CLANTVE
-http://51.15.191.232:8000/live/gazzas/gazzas/24610.m3u8
-#EXTINF:-1,HISTORIA
-http://51.15.191.232:8000/live/gazzas/gazzas/24601.m3u8
-#EXTINF:-1,MOVISTAR MOTO GP
-http://51.15.191.232:8000/live/gazzas/gazzas/24604.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24605.m3u8
-#EXTINF:-1,VIAJAR
-http://51.15.191.232:8000/live/gazzas/gazzas/24608.m3u8
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1780.m3u8
+#EXTINF:-1,Antena 3 HD
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/3161.m3u8
+#EXTINF:-1,Antena 3 Internacional
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/2960.m3u8
+#EXTINF:-1,AXN HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1776.m3u8
+#EXTINF:-1,Axn White HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1775.m3u8
+#EXTINF:-1,Caza y Pesca 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/3354.m3u8
+#EXTINF:-1,Clan Tve 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1774.m3u8
+#EXTINF:-1,Crimen Investigation 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1746.m3u8
+#EXTINF:-1,Comedy Central HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1773.m3u8
+#EXTINF:-1,Cuatro HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1772.m3u8
+#EXTINF:-1,Decasa 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1771.m3u8
+#EXTINF:-1,Divinity 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1770.m3u8
+#EXTINF:-1,DMax 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1745.m3u8
+#EXTINF:-1,FDF 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1769.m3u8
+#EXTINF:-1,Hollywood HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1768.m3u8
+#EXTINF:-1,La 2 HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1766.m3u8
+#EXTINF:-1,La Sexta HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1765.m3u8
+#EXTINF:-1,Mega 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1763.m3u8
+#EXTINF:-1,Movistar Comedia HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1760.m3u8
+#EXTINF:-1,Movistar Deportes 1 HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1759.m3u8
+#EXTINF:-1,Movistar Estrenos HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1758.m3u8
+#EXTINF:-1,Movistar Futbol
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1757.m3u8
+#EXTINF:-1,Movistar Futbol HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1756.m3u8
+#EXTINF:-1,Movistar Series HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1754.m3u8
+#EXTINF:-1,Neox 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1752.m3u8
+#EXTINF:-1,Nova
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1751.m3u8
+#EXTINF:-1,Paramount 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1750.m3u8
+#EXTINF:-1,TCM HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/18226.m3u8
+#EXTINF:-1,Taquilla 1 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4627.m3u8
+#EXTINF:-1,Taquilla 2 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4626.m3u8
+#EXTINF:-1,Taquilla 3 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4625.m3u8
+#EXTINF:-1,Taquilla 4 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4624.m3u8
+#EXTINF:-1,Taquilla 5 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4623.m3u8
+#EXTINF:-1,Taquilla 6
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4622.m3u8
+#EXTINF:-1,Taquilla 7
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4621.m3u8
+#EXTINF:-1,Taquilla 8
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4620.m3u8
+#EXTINF:-1,Taquilla 9
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4619.m3u8
+#EXTINF:-1,Taquilla 10
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/4618.m3u8
+#EXTINF:-1,Telecinco HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1749.m3u8
+#EXTINF:-1,Teledeportes HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1742.m3u8
+#EXTINF:-1,Toro Hd
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/3323.m3u8
+#EXTINF:-1,La 1 HD
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1744.m3u8
+#EXTINF:-1,Odisea
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1743.m3u8
+#EXTINF:-1,Viajar HD
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/1741.m3u8
+#EXTINF:-1,Real Madril HD 
+http://ultimatextreme.net:25461/live/jCKnHSEUli/DUzj2wTkri/6223.m3u8
