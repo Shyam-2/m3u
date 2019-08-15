@@ -1,115 +1,217 @@
 #EXTM3U
-#EXTINF:-1,BNR Kijk
-http://51.15.191.232:8000/live/gazzas/gazzas/34312.m3u8
-#EXTINF:-1,NPO Politiek
-http://51.15.191.232:8000/live/gazzas/gazzas/33974.m3u8
-#EXTINF:-1,NPO Zak-achter de heuvel
-http://51.15.191.232:8000/live/gazzas/gazzas/33972.m3u8
-#EXTINF:-1,NPO 1 HD (Zakopcie)
-http://51.15.191.232:8000/live/gazzas/gazzas/24391.m3u8
-#EXTINF:-1,NPO 2 Zakopcie2
-http://51.15.191.232:8000/live/gazzas/gazzas/24390.m3u8
+#EXTINF:-1,NPO 1 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32517
+#EXTINF:-1,NPO 2 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32516
 #EXTINF:-1,NPO 3 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24389.m3u8
-#EXTINF:-1,NPO Extra
-http://51.15.191.232:8000/live/gazzas/gazzas/33973.m3u8
-#EXTINF:-1,DRTV Deventer
-http://51.15.191.232:8000/live/gazzas/gazzas/28850.m3u8
-#EXTINF:-1,Sp-FoxSports1
-http://51.15.191.232:8000/live/gazzas/gazzas/29923.m3u8
-#EXTINF:-1,FOX SPORT 1 EREDIVISIE HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24403.m3u8
-#EXTINF:-1,Sp-FoxSports2
-http://51.15.191.232:8000/live/gazzas/gazzas/29922.m3u8
-#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
-http://51.15.191.232:8000/live/gazzas/gazzas/24402.m3u8
-#EXTINF:-1,Sp-FOX SPORTS 2 INTERNATIONAL
-http://51.15.191.232:8000/live/gazzas/gazzas/29929.m3u8
-#EXTINF:-1,Sp-FoxSports3
-http://51.15.191.232:8000/live/gazzas/gazzas/29921.m3u8
-#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
-http://51.15.191.232:8000/live/gazzas/gazzas/24401.m3u8
-#EXTINF:-1,Sp-FoxSports4
-http://51.15.191.232:8000/live/gazzas/gazzas/29920.m3u8
-#EXTINF:-1,Sp-FOX SPORTS 4 INTERNATIONA
-http://51.15.191.232:8000/live/gazzas/gazzas/29928.m3u8
-#EXTINF:-1,FOX SPORTS 4 INTERNATIONA
-http://51.15.191.232:8000/live/gazzas/gazzas/24400.m3u8
-#EXTINF:-1,Sp-FoxSports5
-http://51.15.191.232:8000/live/gazzas/gazzas/29919.m3u8
-#EXTINF:-1,Sp-FOX SPORTS 5 EREDIVISIE HD
-http://51.15.191.232:8000/live/gazzas/gazzas/29927.m3u8
-#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24399.m3u8
-#EXTINF:-1,Sp-FoxSports6
-http://51.15.191.232:8000/live/gazzas/gazzas/29918.m3u8
-#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL
-http://51.15.191.232:8000/live/gazzas/gazzas/24398.m3u8
-#EXTINF:-1,Sp-ZIGGO DOCU
-http://51.15.191.232:8000/live/gazzas/gazzas/29926.m3u8
-#EXTINF:-1,Sp-ZIGGO SPORT RACING
-http://51.15.191.232:8000/live/gazzas/gazzas/29925.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING
-http://51.15.191.232:8000/live/gazzas/gazzas/24376.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA 2
-http://51.15.191.232:8000/live/gazzas/gazzas/19352.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF
-http://51.15.191.232:8000/live/gazzas/gazzas/21289.m3u8
-#EXTINF:-1,Sp-ZiggoSportSelectHD
-http://51.15.191.232:8000/live/gazzas/gazzas/29917.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA 1
-http://51.15.191.232:8000/live/gazzas/gazzas/24377.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24375.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL
-http://51.15.191.232:8000/live/gazzas/gazzas/24374.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://51.15.191.232:8000/live/gazzas/gazzas/24420.m3u8
-#EXTINF:-1,BABY TV
-http://51.15.191.232:8000/live/gazzas/gazzas/24419.m3u8
-#EXTINF:-1,BOOMERANG
-http://51.15.191.232:8000/live/gazzas/gazzas/24418.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://51.15.191.232:8000/live/gazzas/gazzas/24416.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://51.15.191.232:8000/live/gazzas/gazzas/24413.m3u8
-#EXTINF:-1,CRIME  INVESTIGATION NETWORK
-http://51.15.191.232:8000/live/gazzas/gazzas/24412.m3u8
-#EXTINF:-1,FILM 1 ACTION
-http://51.15.191.232:8000/live/gazzas/gazzas/24409.m3u8
-#EXTINF:-1,FILM 1 COMEDY  KIDS
-http://51.15.191.232:8000/live/gazzas/gazzas/24408.m3u8
-#EXTINF:-1,FILM 1 PREMIER HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24407.m3u8
-#EXTINF:-1,FILM 1 SPOTLIGHT
-http://51.15.191.232:8000/live/gazzas/gazzas/24406.m3u8
-#EXTINF:-1,FOX CHANNEL
-http://51.15.191.232:8000/live/gazzas/gazzas/24404.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://51.15.191.232:8000/live/gazzas/gazzas/24396.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://51.15.191.232:8000/live/gazzas/gazzas/24394.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24393.m3u8
-#EXTINF:-1,NET 5 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24392.m3u8
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32515
 #EXTINF:-1,RTL 4 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24387.m3u8
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32514
 #EXTINF:-1,RTL 5 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24386.m3u8
-#EXTINF:-1,RTL 7 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24385.m3u8
-#EXTINF:-1,RTL 8 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24384.m3u8
-#EXTINF:-1,RTL LOUNGE
-http://51.15.191.232:8000/live/gazzas/gazzas/24383.m3u8
-#EXTINF:-1,RTL Z HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24382.m3u8
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32513
 #EXTINF:-1,SBS 6 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24381.m3u8
-#EXTINF:-1,SBS 9
-http://51.15.191.232:8000/live/gazzas/gazzas/24380.m3u8
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32512
+#EXTINF:-1,RTL 7 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32511
+#EXTINF:-1,RTL 8 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32510
+#EXTINF:-1,SBS 9 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32509
+#EXTINF:-1,NPO NIEUWS
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32504
+#EXTINF:-1,NPO POLITIEK
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32503
+#EXTINF:-1,NPO ZAP/EXTRA
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32505
+#EXTINF:-1,RTL CRIME HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32455
+#EXTINF:-1,RTL LOUNGE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32456
+#EXTINF:-1,RTL TELEKIDS
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32487
+#EXTINF:-1,RTL Z HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32506
+#EXTINF:-1,OMROEP BRABANT
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32406
+#EXTINF:-1,OMROEP FLEVOLAND
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32407
+#EXTINF:-1,OMROEP FRYSLAND
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32404
+#EXTINF:-1,OMROEP ZEELAND
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32405
+#EXTINF:-1,ONS
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32447
+#EXTINF:-1,OUT TV HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32446
+#EXTINF:-1,PEBBLE TV
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32488
+#EXTINF:-1,RTV UTRECHT
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32415
+#EXTINF:-1,RTV-7
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32402
+#EXTINF:-1,VERONICA DISNEY XD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32507
+#EXTINF:-1,HBO 1 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32460
+#EXTINF:-1,HBO 2
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32459
+#EXTINF:-1,HBO 3
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32458
+#EXTINF:-1,FILM 1 ACTION HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32465
+#EXTINF:-1,FILM 1 DRAMA HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32463
+#EXTINF:-1,FILM 1 EUROPE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32461
+#EXTINF:-1,FILM 1 FAMILY HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32462
+#EXTINF:-1,FILM 1 PREMIERE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32464
+#EXTINF:-1,FOX
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32499
+#EXTINF:-1,100% NL TV
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32469
+#EXTINF:-1,192 TV
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32480
+#EXTINF:-1,24 KITCHEN
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32450
+#EXTINF:-1,ANIMAL PLANET HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32441
+#EXTINF:-1,AT 5
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32416
+#EXTINF:-1,BABY TV
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32485
+#EXTINF:-1,BOOMERANG
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32489
+#EXTINF:-1,BVN
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32498
+#EXTINF:-1,CARTOON NETWORK
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32490
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32501
+#EXTINF:-1,COMEDY CENTRAL HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32502
+#EXTINF:-1,CRIME INVESTIGATION
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32454
+#EXTINF:-1,DANCE TRIPPIN HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32474
+#EXTINF:-1,DISCOVERY HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32440
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32437
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32438
+#EXTINF:-1,DISCOVERY WORLD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32439
+#EXTINF:-1,DISNEY CHANNEL
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32492
+#EXTINF:-1,DISNEY JUNIOR
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32491
+#EXTINF:-1,DISNEY XD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32493
+#EXTINF:-1,DUTCH HITS
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32482
+#EXTINF:-1,DUTCH HOUSE
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32481
+#EXTINF:-1,DUTCH RAP
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32483
+#EXTINF:-1,E! HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32453
+#EXTINF:-1,HISTORY HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32436
+#EXTINF:-1,HORSE AND COUNTRY TV HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32435
+#EXTINF:-1,KETNET
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32494
+#EXTINF:-1,L1 LIMBURG TV
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32414
+#EXTINF:-1,MEZZO
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32470
+#EXTINF:-1,MTV BRANDNEW
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32478
+#EXTINF:-1,MTV HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32479
+#EXTINF:-1,MTV LIVE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32477
+#EXTINF:-1,MTV MUSIC 24
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32476
+#EXTINF:-1,NET 5 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32508
+#EXTINF:-1,NGC HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32443
+#EXTINF:-1,NGC WILD HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32442
+#EXTINF:-1,NICK JUNIOR
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32486
+#EXTINF:-1,NICK MUSIC
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32472
+#EXTINF:-1,NICKELODEON
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32496
+#EXTINF:-1,NICKTOONS
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32495
+#EXTINF:-1,FAMILY 7 KIDS
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32445
+#EXTINF:-1,FASHION TV HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32451
+#EXTINF:-1,SLAM! TV HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32468
+#EXTINF:-1,SPIKE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32500
 #EXTINF:-1,TLC
-http://51.15.191.232:8000/live/gazzas/gazzas/24379.m3u8
-#EXTINF:-1,VERONICA . DISNEY XD
-http://51.15.191.232:8000/live/gazzas/gazzas/24378.m3u8
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32452
+#EXTINF:-1,TV 538
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32467
+#EXTINF:-1,TV DRENTHE
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32408
+#EXTINF:-1,TV GELDERLAND
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32411
+#EXTINF:-1,TV NOORD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32413
+#EXTINF:-1,TV OOST
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32410
+#EXTINF:-1,TV ORANJE
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32471
+#EXTINF:-1,TV RIJNMOND
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32412
+#EXTINF:-1,TV WEST
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32409
+#EXTINF:-1,VH1 CLASSIC
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32475
+#EXTINF:-1,VICELAND HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32448
+#EXTINF:-1,XITE HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32473
+#EXTINF:-1,FOOD NETWORK
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32449
+#EXTINF:-1,EUROSPORT 1 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32419
+#EXTINF:-1,EUROSPORT 2 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32418
+#EXTINF:-1,EXTREME SPORT
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32420
+#EXTINF:-1,FOX SPORTS 1 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32433
+#EXTINF:-1,FOX SPORTS 2 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32432
+#EXTINF:-1,FOX SPORTS 3 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32431
+#EXTINF:-1,FOX SPORTS 4 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32430
+#EXTINF:-1,FOX SPORTS 5 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32429
+#EXTINF:-1,FOX SPORTS 6 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32428
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32422
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32421
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32423
+#EXTINF:-1,ZIGGO SPORT HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32427
+#EXTINF:-1,ZIGGO SPORT RACING HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32424
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32425
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/32426
