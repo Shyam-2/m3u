@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORT HD2
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1057.m3u8
-#EXTINF:-1,BEIN SPORT HD3
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1056.m3u8
-#EXTINF:-1,BEIN SPORT HD4
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1055.m3u8
-#EXTINF:-1,BEIN SPORT HD5
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1054.m3u8
-#EXTINF:-1,BEIN SPORT HD6
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1053.m3u8
-#EXTINF:-1,BEIN SPORT HD7
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1052.m3u8
-#EXTINF:-1,BEIN SPORT HD8
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1051.m3u8
-#EXTINF:-1,BEIN SPORT HD9
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1050.m3u8
-#EXTINF:-1,BEIN SPORT HD10
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1063.m3u8
-#EXTINF:-1,BEIN SPORT HD11
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1062.m3u8
-#EXTINF:-1,BEIN SPORT HD12
-http://orbit-iptv.com:2500/live/decembre20/decembre20/1061.m3u8
+#EXTINF:0,|UK| 4K - BEIN SPORTS 1 HD (ONLY FOR UK CLIENTS)
+http://185.99.2.100:80/minja/minja/59209
+#EXTINF:0,BEIN SPORTS 1 HD ULTRA
+http://185.99.2.100:80/minja/minja/59190
+#EXTINF:0,|UK| 4K - BEIN SPORTS 2 HD (ONLY FOR UK CLIENTS)
+http://185.99.2.100:80/minja/minja/59207
+#EXTINF:0,BEIN SPORTS 2 HD ULTRA
+http://185.99.2.100:80/minja/minja/59189
+#EXTINF:0,BEIN SPORTS 3 HD ULTRA
+http://185.99.2.100:80/minja/minja/59188
+#EXTINF:0,BEIN SPORTS 4 HD ULTRA
+http://185.99.2.100:80/minja/minja/59187
+#EXTINF:0,BEIN SPORTS 5 HD ULTRA
+http://185.99.2.100:80/minja/minja/59186
+#EXTINF:0,BEIN SPORTS 6 HD ULTRA
+http://185.99.2.100:80/minja/minja/59185
+#EXTINF:0,BEIN SPORTS 7 HD ULTRA
+http://185.99.2.100:80/minja/minja/59184
+#EXTINF:0,BEIN SPORTS 8 HD ULTRA
+http://185.99.2.100:80/minja/minja/59183
+#EXTINF:0,BEIN SPORTS 9 HD ULTRA
+http://185.99.2.100:80/minja/minja/59182
+#EXTINF:0,BEIN SPORTS 10 HD ULTRA
+http://185.99.2.100:80/minja/minja/59181
