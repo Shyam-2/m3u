@@ -1,351 +1,181 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://51.15.191.232:8000/live/gazzas/gazzas/30393.m3u8
-#EXTINF:-1,RTP 1 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/20260.m3u8
-#EXTINF:-1,RTP 2
-http://51.15.191.232:8000/live/gazzas/gazzas/30392.m3u8
-#EXTINF:-1,PR:RTP 2 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24314.m3u8
-#EXTINF:-1,RTP 2 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30008.m3u8
-#EXTINF:-1,RTP 3
-http://51.15.191.232:8000/live/gazzas/gazzas/24512.m3u8
-#EXTINF:-1,RTP 3 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30391.m3u8
-#EXTINF:-1,TV GLOBO HD
-http://51.15.191.232:8000/live/gazzas/gazzas/31216.m3u8
-#EXTINF:-1,TV GLOBO
-http://51.15.191.232:8000/live/gazzas/gazzas/22960.m3u8
-#EXTINF:-1,TV Globo Premium
-http://51.15.191.232:8000/live/gazzas/gazzas/22961.m3u8
-#EXTINF:-1, Globo Now HD
-http://51.15.191.232:8000/live/gazzas/gazzas/31102.m3u8
-#EXTINF:-1,RTP MEM
-http://51.15.191.232:8000/live/gazzas/gazzas/30389.m3u8
-#EXTINF:-1,PR:SIC HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24313.m3u8
-#EXTINF:-1,SIC
-http://51.15.191.232:8000/live/gazzas/gazzas/24517.m3u8
-#EXTINF:-1,SIC K
-http://51.15.191.232:8000/live/gazzas/gazzas/24519.m3u8
-#EXTINF:-1,PR:SIC Mulher
-http://51.15.191.232:8000/live/gazzas/gazzas/24328.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://51.15.191.232:8000/live/gazzas/gazzas/24521.m3u8
-#EXTINF:-1,SIC CARAS
-http://51.15.191.232:8000/live/gazzas/gazzas/24518.m3u8
-#EXTINF:-1,PR:SIC Radical
-http://51.15.191.232:8000/live/gazzas/gazzas/20255.m3u8
-#EXTINF:-1,TLC
-http://51.15.191.232:8000/live/gazzas/gazzas/22953.m3u8
-#EXTINF:-1,TVI
-http://51.15.191.232:8000/live/gazzas/gazzas/20245.m3u8
-#EXTINF:-1,TVI FICCAO
-http://51.15.191.232:8000/live/gazzas/gazzas/22879.m3u8
-#EXTINF:-1,TVI Fic
-http://51.15.191.232:8000/live/gazzas/gazzas/30387.m3u8
-#EXTINF:-1,TVI 24 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/20243.m3u8
-#EXTINF:-1,TVI 24
-http://51.15.191.232:8000/live/gazzas/gazzas/30388.m3u8
-#EXTINF:-1,PR:TVI 24
-http://51.15.191.232:8000/live/gazzas/gazzas/24311.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://51.15.191.232:8000/live/gazzas/gazzas/24515.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://51.15.191.232:8000/live/gazzas/gazzas/24516.m3u8
-#EXTINF:-1,CANAL Q
-http://51.15.191.232:8000/live/gazzas/gazzas/30379.m3u8
-#EXTINF:-1,FUEL TV
-http://51.15.191.232:8000/live/gazzas/gazzas/30377.m3u8
-#EXTINF:-1,Odisseia HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24308.m3u8
-#EXTINF:-1,TOUROS TV
-http://51.15.191.232:8000/live/gazzas/gazzas/22954.m3u8
-#EXTINF:-1,CANAL  TOROS
-http://51.15.191.232:8000/live/gazzas/gazzas/22889.m3u8
-#EXTINF:-1,Toros Tv
-http://51.15.191.232:8000/live/gazzas/gazzas/20247.m3u8
-#EXTINF:-1,RTP A?ORES
-http://51.15.191.232:8000/live/gazzas/gazzas/24513.m3u8
-#EXTINF:-1,RTP ?FRICA
-http://51.15.191.232:8000/live/gazzas/gazzas/30390.m3u8
-#EXTINF:-1,RTP Africa
-http://51.15.191.232:8000/live/gazzas/gazzas/26930.m3u8
-#EXTINF:-1,ODISSEIA
-http://51.15.191.232:8000/live/gazzas/gazzas/30366.m3u8
-#EXTINF:-1,A & E
-http://51.15.191.232:8000/live/gazzas/gazzas/24472.m3u8
-#EXTINF:-1,A BOLA
-http://51.15.191.232:8000/live/gazzas/gazzas/24473.m3u8
-#EXTINF:-1,A BOLA TV
-http://51.15.191.232:8000/live/gazzas/gazzas/30381.m3u8
-#EXTINF:-1,BBC Entertainment
-http://51.15.191.232:8000/live/gazzas/gazzas/24481.m3u8
-#EXTINF:-1,CMTV
-http://51.15.191.232:8000/live/gazzas/gazzas/24487.m3u8
-#EXTINF:-1,CM TV
-http://51.15.191.232:8000/live/gazzas/gazzas/27671.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://51.15.191.232:8000/live/gazzas/gazzas/24491.m3u8
-#EXTINF:-1,MCM POP
-http://51.15.191.232:8000/live/gazzas/gazzas/24503.m3u8
-#EXTINF:-1,PR:Tv Record
-http://51.15.191.232:8000/live/gazzas/gazzas/20246.m3u8
-#EXTINF:-1,TV RECORD
-http://51.15.191.232:8000/live/gazzas/gazzas/30363.m3u8
-#EXTINF:-1,MTV PORTUGAL
-http://51.15.191.232:8000/live/gazzas/gazzas/30382.m3u8
-#EXTINF:-1,PR:MTV Portugal
-http://51.15.191.232:8000/live/gazzas/gazzas/24332.m3u8
-#EXTINF:-1,VH1
-http://51.15.191.232:8000/live/gazzas/gazzas/30384.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://51.15.191.232:8000/live/gazzas/gazzas/30383.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://51.15.191.232:8000/live/gazzas/gazzas/24474.m3u8
-#EXTINF:-1,CAPELA DE FATIMA
-http://51.15.191.232:8000/live/gazzas/gazzas/24484.m3u8
-#EXTINF:-1,===== PORTUGAL CINEMA ======
-http://51.15.191.232:8000/live/gazzas/gazzas/30443.m3u8
-#EXTINF:-1,TVCINE 1 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30441.m3u8
-#EXTINF:-1,TVC 1
-http://51.15.191.232:8000/live/gazzas/gazzas/24318.m3u8
-#EXTINF:-1,PR:Tvcine 1
-http://51.15.191.232:8000/live/gazzas/gazzas/20272.m3u8
-#EXTINF:-1,TVCINE  2 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30440.m3u8
-#EXTINF:-1,TVCINE  2 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30439.m3u8
-#EXTINF:-1,Tvcine 2 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/20271.m3u8
-#EXTINF:-1,TVCINE  3 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30438.m3u8
-#EXTINF:-1,TVCINE 3
-http://51.15.191.232:8000/live/gazzas/gazzas/27658.m3u8
-#EXTINF:-1,TV CINE 3 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/22958.m3u8
-#EXTINF:-1,TVCINE 4 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30435.m3u8
-#EXTINF:-1,TVCINE 4
-http://51.15.191.232:8000/live/gazzas/gazzas/24539.m3u8
-#EXTINF:-1,CINEMUNDO
-http://51.15.191.232:8000/live/gazzas/gazzas/30429.m3u8
-#EXTINF:-1,PR:Cinemundo HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24326.m3u8
-#EXTINF:-1,SYFY
-http://51.15.191.232:8000/live/gazzas/gazzas/24533.m3u8
-#EXTINF:-1,AXN BLACK FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30431.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://51.15.191.232:8000/live/gazzas/gazzas/22968.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30430.m3u8
-#EXTINF:-1,AXN WHITE
-http://51.15.191.232:8000/live/gazzas/gazzas/22900.m3u8
-#EXTINF:-1,AXN HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24319.m3u8
-#EXTINF:-1,FOX MOVIES
-http://51.15.191.232:8000/live/gazzas/gazzas/30434.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24499.m3u8
-#EXTINF:-1,Fox Comedy
-http://51.15.191.232:8000/live/gazzas/gazzas/30433.m3u8
-#EXTINF:-1,PR:Fox Comedy
-http://51.15.191.232:8000/live/gazzas/gazzas/24307.m3u8
-#EXTINF:-1,FOX CRIME
-http://51.15.191.232:8000/live/gazzas/gazzas/30428.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24496.m3u8
-#EXTINF:-1,FOX HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24497.m3u8
-#EXTINF:-1,FOX LIFE
-http://51.15.191.232:8000/live/gazzas/gazzas/30427.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24498.m3u8
-#EXTINF:-1,AMC HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30432.m3u8
-#EXTINF:-1,AMC
-http://51.15.191.232:8000/live/gazzas/gazzas/24475.m3u8
-#EXTINF:-1,Hollywood
-http://51.15.191.232:8000/live/gazzas/gazzas/20266.m3u8
-#EXTINF:-1,TVCseries
-http://51.15.191.232:8000/live/gazzas/gazzas/30426.m3u8
-#EXTINF:-1,TV SERIES
-http://51.15.191.232:8000/live/gazzas/gazzas/24536.m3u8
-#EXTINF:-1,===== PORTUGAL SPORT =====
-http://51.15.191.232:8000/live/gazzas/gazzas/30425.m3u8
-#EXTINF:-1,PR:SPORTING TV
-http://51.15.191.232:8000/live/gazzas/gazzas/20248.m3u8
-#EXTINF:-1,SPORTINGTV FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30404.m3u8
-#EXTINF:-1,Sporting TV
-http://51.15.191.232:8000/live/gazzas/gazzas/27659.m3u8
-#EXTINF:-1,Sport TV +
-http://51.15.191.232:8000/live/gazzas/gazzas/20254.m3u8
-#EXTINF:-1,SPORT TV
-http://51.15.191.232:8000/live/gazzas/gazzas/27660.m3u8
-#EXTINF:-1,SPORT TV  FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30424.m3u8
-#EXTINF:-1,SPORT TV 1
-http://51.15.191.232:8000/live/gazzas/gazzas/30398.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21003.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30423.m3u8
-#EXTINF:-1,SPORT TV 2
-http://51.15.191.232:8000/live/gazzas/gazzas/26931.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/21002.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30422.m3u8
-#EXTINF:-1,SPORT TV 3
-http://51.15.191.232:8000/live/gazzas/gazzas/30397.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24528.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30421.m3u8
-#EXTINF:-1,SPORT TV 4
-http://51.15.191.232:8000/live/gazzas/gazzas/27101.m3u8
-#EXTINF:-1,PR:SPORT TV 4
-http://51.15.191.232:8000/live/gazzas/gazzas/24315.m3u8
-#EXTINF:-1,SPORT TV 4 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30419.m3u8
-#EXTINF:-1,SPORT TV 5
-http://51.15.191.232:8000/live/gazzas/gazzas/24531.m3u8
-#EXTINF:-1,SPORT TV  5 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/22971.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30420.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30418.m3u8
-#EXTINF:-1,SPORT TV 5 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30417.m3u8
-#EXTINF:-1,Eleven Sport 1 HD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30416.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30415.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30028.m3u8
-#EXTINF:-1,Eleven Sport 2 HD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30414.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30413.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30029.m3u8
-#EXTINF:-1,Eleven Sports 3 FHD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30411.m3u8
-#EXTINF:-1,Eleven Sport 3 HD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30412.m3u8
-#EXTINF:-1,Eleven Sport 4 HD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30410.m3u8
-#EXTINF:-1,Eleven Sports 4 FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30409.m3u8
-#EXTINF:-1,Eleven Sport 5 HD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30408.m3u8
-#EXTINF:-1,Eleven Sports 5 FHD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30407.m3u8
-#EXTINF:-1,Eleven Sport 6 HD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30406.m3u8
-#EXTINF:-1,Eleven Sports 6 FHD VIP
-http://51.15.191.232:8000/live/gazzas/gazzas/30405.m3u8
-#EXTINF:-1,Benfica tv
-http://51.15.191.232:8000/live/gazzas/gazzas/20270.m3u8
-#EXTINF:-1,EUROSPORT 2 XTRA HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30401.m3u8
-#EXTINF:-1,MOTORSPORT TV
-http://51.15.191.232:8000/live/gazzas/gazzas/30402.m3u8
-#EXTINF:-1,Motors TV
-http://51.15.191.232:8000/live/gazzas/gazzas/30396.m3u8
-#EXTINF:-1,FIGHT NETWORK HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30400.m3u8
-#EXTINF:-1,BTV 1 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24306.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24493.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://51.15.191.232:8000/live/gazzas/gazzas/24492.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://51.15.191.232:8000/live/gazzas/gazzas/26849.m3u8
-#EXTINF:-1,PFC
-http://51.15.191.232:8000/live/gazzas/gazzas/24507.m3u8
-#EXTINF:-1,PORTO CANAL
-http://51.15.191.232:8000/live/gazzas/gazzas/30394.m3u8
-#EXTINF:-1,PORTO  CANAL
-http://51.15.191.232:8000/live/gazzas/gazzas/22878.m3u8
-#EXTINF:-1,====== PORTUGAL KIDS ======
-http://51.15.191.232:8000/live/gazzas/gazzas/30376.m3u8
-#EXTINF:-1,BABY TV
-http://51.15.191.232:8000/live/gazzas/gazzas/24477.m3u8
-#EXTINF:-1,Panda
-http://51.15.191.232:8000/live/gazzas/gazzas/24309.m3u8
-#EXTINF:-1,PR:Canal Panda
-http://51.15.191.232:8000/live/gazzas/gazzas/20269.m3u8
-#EXTINF:-1,CANAL PANDA
-http://51.15.191.232:8000/live/gazzas/gazzas/30374.m3u8
-#EXTINF:-1,PR:Panda Biggs
-http://51.15.191.232:8000/live/gazzas/gazzas/24310.m3u8
-#EXTINF:-1,Panda Biggs
-http://51.15.191.232:8000/live/gazzas/gazzas/30373.m3u8
-#EXTINF:-1,JIM JAM
-http://51.15.191.232:8000/live/gazzas/gazzas/24502.m3u8
-#EXTINF:-1,SIC Kids
-http://51.15.191.232:8000/live/gazzas/gazzas/27661.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://51.15.191.232:8000/live/gazzas/gazzas/24489.m3u8
-#EXTINF:-1,NICKELODEON
-http://51.15.191.232:8000/live/gazzas/gazzas/24506.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://51.15.191.232:8000/live/gazzas/gazzas/30372.m3u8
-#EXTINF:-1,PR:Disney Junior
-http://51.15.191.232:8000/live/gazzas/gazzas/20267.m3u8
-#EXTINF:-1,BR:GOSPEL CARTOON
-http://51.15.191.232:8000/live/gazzas/gazzas/27020.m3u8
-#EXTINF:-1,CARTOON  NETWORK
-http://51.15.191.232:8000/live/gazzas/gazzas/30375.m3u8
-#EXTINF:-1,Cartoon Network
-http://51.15.191.232:8000/live/gazzas/gazzas/24324.m3u8
-#EXTINF:-1,===== PORTUGAL DOCUMENTARY =======
-http://51.15.191.232:8000/live/gazzas/gazzas/30371.m3u8
-#EXTINF:-1,CANAL HIST?RIA
-http://51.15.191.232:8000/live/gazzas/gazzas/24482.m3u8
-#EXTINF:-1, CACA & PESCA
-http://51.15.191.232:8000/live/gazzas/gazzas/22904.m3u8
-#EXTINF:-1,CACA E PESCA
-http://51.15.191.232:8000/live/gazzas/gazzas/22890.m3u8
-#EXTINF:-1,Ca?A E PESCA
-http://51.15.191.232:8000/live/gazzas/gazzas/24480.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://51.15.191.232:8000/live/gazzas/gazzas/24504.m3u8
-#EXTINF:-1,PR:Nat Geo Wild
-http://51.15.191.232:8000/live/gazzas/gazzas/28419.m3u8
-#EXTINF:-1,Nat Geo WILD HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30368.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://51.15.191.232:8000/live/gazzas/gazzas/30367.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://51.15.191.232:8000/live/gazzas/gazzas/24505.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://51.15.191.232:8000/live/gazzas/gazzas/24488.m3u8
-#EXTINF:-1, Historia
-http://51.15.191.232:8000/live/gazzas/gazzas/30370.m3u8
-#EXTINF:-1,Outdoor Channel FHD
-http://51.15.191.232:8000/live/gazzas/gazzas/30362.m3u8
-#EXTINF:-1,Fine Living Network HD
-http://51.15.191.232:8000/live/gazzas/gazzas/30378.m3u8
-#EXTINF:-1,24KITCHEN HD
-http://51.15.191.232:8000/live/gazzas/gazzas/27095.m3u8
-#EXTINF:-1,24 KITCHEN
-http://51.15.191.232:8000/live/gazzas/gazzas/24321.m3u8
-#EXTINF:-1,CBS Reality
-http://51.15.191.232:8000/live/gazzas/gazzas/24325.m3u8
-#EXTINF:-1,PR:TVI Reality
-http://51.15.191.232:8000/live/gazzas/gazzas/20244.m3u8
-#EXTINF:-1,TVI REALITY
-http://51.15.191.232:8000/live/gazzas/gazzas/30386.m3u8
-#EXTINF:-1,TVI Reality (A Quinta)
-http://51.15.191.232:8000/live/gazzas/gazzas/30385.m3u8
-#EXTINF:-1,FASHION TV
-http://51.15.191.232:8000/live/gazzas/gazzas/30365.m3u8
+#EXTINF:0,24 KITCHEN HD
+http://163.172.8.141:8000/test/test/2953
+#EXTINF:0,A & E
+http://163.172.8.141:8000/test/test/2952
+#EXTINF:0,A BOLA TV
+http://163.172.8.141:8000/test/test/2951
+#EXTINF:0,AMC
+http://163.172.8.141:8000/test/test/2949
+#EXTINF:0,AXN BLACK HD
+http://163.172.8.141:8000/test/test/2948
+#EXTINF:0,AXN HD
+http://163.172.8.141:8000/test/test/2947
+#EXTINF:0,AXN WHITE HD
+http://163.172.8.141:8000/test/test/2946
+#EXTINF:0,BABY TV
+http://163.172.8.141:8000/test/test/2945
+#EXTINF:0,BENFICA TV1
+http://163.172.8.141:8000/test/test/2944
+#EXTINF:0,BIGGS
+http://163.172.8.141:8000/test/test/2943
+#EXTINF:0,CANAL HIST”RIA
+http://163.172.8.141:8000/test/test/2940
+#EXTINF:0,CANAL PANDA
+http://163.172.8.141:8000/test/test/2939
+#EXTINF:0,CANAL Q
+http://163.172.8.141:8000/test/test/2938
+#EXTINF:0,CARTOON NETWORK
+http://163.172.8.141:8000/test/test/2937
+#EXTINF:0,CA«A & PESCA
+http://163.172.8.141:8000/test/test/2942
+#EXTINF:0,CA«AVISION
+http://163.172.8.141:8000/test/test/2941
+#EXTINF:0,CBS REALITY
+http://163.172.8.141:8000/test/test/2936
+#EXTINF:0,CHELSEA TV
+http://163.172.8.141:8000/test/test/2935
+#EXTINF:0,CINEMUNDO
+http://163.172.8.141:8000/test/test/2934
+#EXTINF:0,CM TV
+http://163.172.8.141:8000/test/test/2933
+#EXTINF:0,DISCOVERY CHANNEL
+http://163.172.8.141:8000/test/test/2932
+#EXTINF:0,Discovery HD Showcase
+http://163.172.8.141:8000/test/test/2931
+#EXTINF:0,DISNEY CHANNEL
+http://163.172.8.141:8000/test/test/2930
+#EXTINF:0,DISNEY JUNIOR
+http://163.172.8.141:8000/test/test/2929
+#EXTINF:0,E! Entertainment
+http://163.172.8.141:8000/test/test/2928
+#EXTINF:0,EURONEWS
+http://163.172.8.141:8000/test/test/2927
+#EXTINF:0,EUROSPORT 1
+http://163.172.8.141:8000/test/test/2926
+#EXTINF:0,EUROSPORT 2
+http://163.172.8.141:8000/test/test/2925
+#EXTINF:0,EUROSPORT NEWS
+http://163.172.8.141:8000/test/test/2924
+#EXTINF:0,FASHION TV
+http://163.172.8.141:8000/test/test/2923
+#EXTINF:0,Fox Comedy
+http://163.172.8.141:8000/test/test/2922
+#EXTINF:0,FOX CRIME HD
+http://163.172.8.141:8000/test/test/2921
+#EXTINF:0,FOX HD
+http://163.172.8.141:8000/test/test/2920
+#EXTINF:0,FOX LIFE HD
+http://163.172.8.141:8000/test/test/2919
+#EXTINF:0,FOX MOVIES
+http://163.172.8.141:8000/test/test/2918
+#EXTINF:0,FUEL TV
+http://163.172.8.141:8000/test/test/2917
+#EXTINF:0,HOLLYWOOD HD
+http://163.172.8.141:8000/test/test/2916
+#EXTINF:0,JIM JAM
+http://163.172.8.141:8000/test/test/2915
+#EXTINF:0,Kombat Sport
+http://163.172.8.141:8000/test/test/2914
+#EXTINF:0,MCS Extreme
+http://163.172.8.141:8000/test/test/2913
+#EXTINF:0,MOTORS TV
+http://163.172.8.141:8000/test/test/2912
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://163.172.8.141:8000/test/test/2910
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://163.172.8.141:8000/test/test/2909
+#EXTINF:0,NICKELODEON
+http://163.172.8.141:8000/test/test/2908
+#EXTINF:0,ODISSEIA
+http://163.172.8.141:8000/test/test/2907
+#EXTINF:0,PFC
+http://163.172.8.141:8000/test/test/2906
+#EXTINF:0,PORTO CANAL
+http://163.172.8.141:8000/test/test/2905
+#EXTINF:0,SBT Brasil
+http://163.172.8.141:8000/test/test/2904
+#EXTINF:0,RECORD NEWS
+http://163.172.8.141:8000/test/test/2903
+#EXTINF:0,RTP 1
+http://163.172.8.141:8000/test/test/2902
+#EXTINF:0,RTP 2
+http://163.172.8.141:8000/test/test/2901
+#EXTINF:0,RTP 3
+http://163.172.8.141:8000/test/test/2900
+#EXTINF:0,RTP A«ORES
+http://163.172.8.141:8000/test/test/2899
+#EXTINF:0,RTP MADEIRA
+http://163.172.8.141:8000/test/test/2897
+#EXTINF:0,RTP MEM”RIA
+http://163.172.8.141:8000/test/test/2896
+#EXTINF:0,RTP ¡FRICA
+http://163.172.8.141:8000/test/test/2898
+#EXTINF:0,SIC
+http://163.172.8.141:8000/test/test/2895
+#EXTINF:0,SIC CARAS
+http://163.172.8.141:8000/test/test/2894
+#EXTINF:0,SIC K
+http://163.172.8.141:8000/test/test/2893
+#EXTINF:0,SIC MULHER
+http://163.172.8.141:8000/test/test/2892
+#EXTINF:0,SIC NOTÕCIAS
+http://163.172.8.141:8000/test/test/2891
+#EXTINF:0,SIC RADICAL
+http://163.172.8.141:8000/test/test/2890
+#EXTINF:0,SPORT TV1
+http://163.172.8.141:8000/test/test/2889
+#EXTINF:0,SPORT TV1 HD
+http://163.172.8.141:8000/test/test/2888
+#EXTINF:0,SPORT TV2
+http://163.172.8.141:8000/test/test/2887
+#EXTINF:0,SPORT TV2 HD
+http://163.172.8.141:8000/test/test/2886
+#EXTINF:0,SPORT TV3
+http://163.172.8.141:8000/test/test/2885
+#EXTINF:0,SPORT TV3 HD
+http://163.172.8.141:8000/test/test/2884
+#EXTINF:0,SPORT TV4
+http://163.172.8.141:8000/test/test/2883
+#EXTINF:0,SPORT TV4 HD
+http://163.172.8.141:8000/test/test/2882
+#EXTINF:0,SPORT TV5
+http://163.172.8.141:8000/test/test/2881
+#EXTINF:0,Sport TV 1 HD
+http://163.172.8.141:8000/test/test/2740
+#EXTINF:0,Sport TV 2 HD
+http://163.172.8.141:8000/test/test/2739
+#EXTINF:0,Sport TV 3 HD
+http://163.172.8.141:8000/test/test/2738
+#EXTINF:0,SPORTING TV
+http://163.172.8.141:8000/test/test/2880
+#EXTINF:0,SYFY
+http://163.172.8.141:8000/test/test/2879
+#EXTINF:0,TLC
+http://163.172.8.141:8000/test/test/2878
+#EXTINF:0,TOUROS TV
+http://163.172.8.141:8000/test/test/2877
+#EXTINF:0,TRAVEL CHANNEL HD
+http://163.172.8.141:8000/test/test/2875
+#EXTINF:0,TV GLOBO
+http://163.172.8.141:8000/test/test/2874
+#EXTINF:0,TV Globo Premium
+http://163.172.8.141:8000/test/test/2873
+#EXTINF:0,TV RECORD
+http://163.172.8.141:8000/test/test/2872
+#EXTINF:0,TVCine 1 HD
+http://163.172.8.141:8000/test/test/2871
+#EXTINF:0,TVCine 2 HD
+http://163.172.8.141:8000/test/test/2870
+#EXTINF:0,TVCine 3 HD
+http://163.172.8.141:8000/test/test/2869
+#EXTINF:0,TVCine 4 HD
+http://163.172.8.141:8000/test/test/2868
+#EXTINF:0,TVCseries HD
+http://163.172.8.141:8000/test/test/2867
+#EXTINF:0,TVI
+http://163.172.8.141:8000/test/test/2866
+#EXTINF:0,TVI 24
+http://163.172.8.141:8000/test/test/2865
+#EXTINF:0,TVI FIC«√O
+http://163.172.8.141:8000/test/test/2864
