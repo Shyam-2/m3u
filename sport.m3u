@@ -1,25 +1,35 @@
 #EXTM3U
-#EXTINF:0,|UK| 4K - BEIN SPORTS 1 HD (ONLY FOR UK CLIENTS)
-http://185.99.2.100:80/minja/minja/59209
-#EXTINF:0,BEIN SPORTS 1 HD ULTRA
-http://185.99.2.100:80/minja/minja/59190
-#EXTINF:0,|UK| 4K - BEIN SPORTS 2 HD (ONLY FOR UK CLIENTS)
-http://185.99.2.100:80/minja/minja/59207
-#EXTINF:0,BEIN SPORTS 2 HD ULTRA
-http://185.99.2.100:80/minja/minja/59189
-#EXTINF:0,BEIN SPORTS 3 HD ULTRA
-http://185.99.2.100:80/minja/minja/59188
-#EXTINF:0,BEIN SPORTS 4 HD ULTRA
-http://185.99.2.100:80/minja/minja/59187
-#EXTINF:0,BEIN SPORTS 5 HD ULTRA
-http://185.99.2.100:80/minja/minja/59186
-#EXTINF:0,BEIN SPORTS 6 HD ULTRA
-http://185.99.2.100:80/minja/minja/59185
-#EXTINF:0,BEIN SPORTS 7 HD ULTRA
-http://185.99.2.100:80/minja/minja/59184
-#EXTINF:0,BEIN SPORTS 8 HD ULTRA
-http://185.99.2.100:80/minja/minja/59183
-#EXTINF:0,BEIN SPORTS 9 HD ULTRA
-http://185.99.2.100:80/minja/minja/59182
-#EXTINF:0,BEIN SPORTS 10 HD ULTRA
-http://185.99.2.100:80/minja/minja/59181
+#EXTINF:-1,BEIN-SPORT-1-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/29.m3u8
+#EXTINF:-1,BEIN-SPORT-2-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/30.m3u8
+#EXTINF:-1,BEIN-SPORT-3-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/31.m3u8
+#EXTINF:-1,BEIN-SPORT-4-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/32.m3u8
+#EXTINF:-1,BEIN-SPORT-5-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/33.m3u8
+#EXTINF:-1,BEIN-SPORT-6-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/34.m3u8
+#EXTINF:-1,BEIN-SPORT-7-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/35.m3u8
+#EXTINF:-1,BEIN-SPORT-8-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/36.m3u8
+#EXTINF:-1,BEIN-SPORT-9-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/37.m3u8
+#EXTINF:-1,BEIN-SPORT-10-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/38.m3u8
+#EXTINF:-1,BEIN-SPORT-11-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/1033.m3u8
+#EXTINF:-1,BEIN-SPORT-12-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/1034.m3u8
+#EXTINF:-1,BEIN-SPORT-13-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/1035.m3u8
+#EXTINF:-1,BEIN-SPORT-14-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/1036.m3u8
+#EXTINF:-1,BEIN-SPORT-15-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/23529.m3u8
+#EXTINF:-1,BEIN-SPORT-16-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/23528.m3u8
+#EXTINF:-1,BEIN-SPORT-NBA-HD
+http://tv2iptv.com:8000/live/Mahmood/mahmood2019/23526.m3u8
