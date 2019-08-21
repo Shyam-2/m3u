@@ -1,199 +1,275 @@
 #EXTM3U
-#EXTINF:-1,CP24
-http://xxultraxx.com:80/live/gorge/gorge123456/9347.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://xxultraxx.com:80/live/gorge/gorge123456/9346.m3u8
-#EXTINF:-1,FAMILY WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/9341.m3u8
-#EXTINF:-1,BRAVO
-http://xxultraxx.com:80/live/gorge/gorge123456/9348.m3u8
-#EXTINF:-1,FOX WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/9339.m3u8
-#EXTINF:-1,HBO 1
-http://xxultraxx.com:80/live/gorge/gorge123456/9336.m3u8
-#EXTINF:-1,HBO 2
-http://xxultraxx.com:80/live/gorge/gorge123456/9335.m3u8
-#EXTINF:-1,NBC EAST
-http://xxultraxx.com:80/live/gorge/gorge123456/9324.m3u8
-#EXTINF:-1,PBS-E
-http://xxultraxx.com:80/live/gorge/gorge123456/9334.m3u8
-#EXTINF:-1,SHOWTIME
-http://xxultraxx.com:80/live/gorge/gorge123456/9332.m3u8
-#EXTINF:-1,TLC
-http://xxultraxx.com:80/live/gorge/gorge123456/9331.m3u8
-#EXTINF:-1,TRAVEL AND ESCAPE
-http://xxultraxx.com:80/live/gorge/gorge123456/9329.m3u8
-#EXTINF:-1,YES
-http://xxultraxx.com:80/live/gorge/gorge123456/9326.m3u8
-#EXTINF:-1,YTV-E
-http://xxultraxx.com:80/live/gorge/gorge123456/9325.m3u8
-#EXTINF:-1,ABC EAST
-http://xxultraxx.com:80/live/gorge/gorge123456/9932.m3u8
-#EXTINF:-1,ABC WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/9988.m3u8
-#EXTINF:-1,AMC
-http://xxultraxx.com:80/live/gorge/gorge123456/9987.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://xxultraxx.com:80/live/gorge/gorge123456/9986.m3u8
-#EXTINF:-1,BBC CANADA
-http://xxultraxx.com:80/live/gorge/gorge123456/9885.m3u8
-#EXTINF:-1,BNN
-http://xxultraxx.com:80/live/gorge/gorge123456/9883.m3u8
-#EXTINF:-1,CANAL SAVOIR
-http://xxultraxx.com:80/live/gorge/gorge123456/9985.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://xxultraxx.com:80/live/gorge/gorge123456/9928.m3u8
-#EXTINF:-1,CBC NEWS
-http://xxultraxx.com:80/live/gorge/gorge123456/9927.m3u8
-#EXTINF:-1,CBC OTTAWA
-http://xxultraxx.com:80/live/gorge/gorge123456/9882.m3u8
-#EXTINF:-1,CBC VANCOUVER
-http://xxultraxx.com:80/live/gorge/gorge123456/9881.m3u8
-#EXTINF:-1,CBS EAST
-http://xxultraxx.com:80/live/gorge/gorge123456/9880.m3u8
-#EXTINF:-1,CBS WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/9879.m3u8
-#EXTINF:-1,CITY TORONTO
-http://xxultraxx.com:80/live/gorge/gorge123456/9877.m3u8
-#EXTINF:-1,CMT CANADA
-http://xxultraxx.com:80/live/gorge/gorge123456/9926.m3u8
-#EXTINF:-1,CNBC
-http://xxultraxx.com:80/live/gorge/gorge123456/9876.m3u8
+#EXTINF:-1,CNN
+http://p5.giffy.be:8080/somerville1/somerville/88214
+#EXTINF:-1,CNN ( OPT2 )
+http://p5.giffy.be:8080/somerville1/somerville/102760
 #EXTINF:-1,CNN INTERNATIONAL
-http://xxultraxx.com:80/live/gorge/gorge123456/9875.m3u8
-#EXTINF:-1,COTTAGE LIFE
-http://xxultraxx.com:80/live/gorge/gorge123456/9924.m3u8
-#EXTINF:-1,CW 11
-http://xxultraxx.com:80/live/gorge/gorge123456/9973.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://xxultraxx.com:80/live/gorge/gorge123456/9824.m3u8
-#EXTINF:-1,DISNEY
-http://xxultraxx.com:80/live/gorge/gorge123456/9843.m3u8
-#EXTINF:-1,DISNEY FRENCH
-http://xxultraxx.com:80/live/gorge/gorge123456/9971.m3u8
-#EXTINF:-1,DIY
-http://xxultraxx.com:80/live/gorge/gorge123456/9874.m3u8
-#EXTINF:-1,FAMILY EAST
-http://xxultraxx.com:80/live/gorge/gorge123456/9835.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://xxultraxx.com:80/live/gorge/gorge123456/9968.m3u8
-#EXTINF:-1,FOX EAST
-http://xxultraxx.com:80/live/gorge/gorge123456/9868.m3u8
-#EXTINF:-1,FOX NEWS
-http://xxultraxx.com:80/live/gorge/gorge123456/9967.m3u8
-#EXTINF:-1,FX CANADA
-http://xxultraxx.com:80/live/gorge/gorge123456/9838.m3u8
-#EXTINF:-1,GLOBAL VANCOUVER
-http://xxultraxx.com:80/live/gorge/gorge123456/9866.m3u8
+http://p5.giffy.be:8080/somerville1/somerville/95204
+#EXTINF:-1,CP24 HD
+http://p5.giffy.be:8080/somerville1/somerville/82477
+#EXTINF:-1,CP24 (OPT 2)
+http://p5.giffy.be:8080/somerville1/somerville/94270
+#EXTINF:-1,THE WEATHER NETWORK
+http://p5.giffy.be:8080/somerville1/somerville/39989
+#EXTINF:-1,22 THE POINT!
+http://p5.giffy.be:8080/somerville1/somerville/94277
+#EXTINF:-1,A&E HD
+http://p5.giffy.be:8080/somerville1/somerville/22583
+#EXTINF:-1,ABC
+http://p5.giffy.be:8080/somerville1/somerville/94275
+#EXTINF:-1,AMC
+http://p5.giffy.be:8080/somerville1/somerville/29969
+#EXTINF:-1,ANIMAL PLANET
+http://p5.giffy.be:8080/somerville1/somerville/21103
+#EXTINF:-1,APTN HD
+http://p5.giffy.be:8080/somerville1/somerville/65779
+#EXTINF:-1,BBC CANADA
+http://p5.giffy.be:8080/somerville1/somerville/93903
+#EXTINF:-1,BBC EARTH HD
+http://p5.giffy.be:8080/somerville1/somerville/26163
+#EXTINF:-1,BBC WORLD NEWS
+http://p5.giffy.be:8080/somerville1/somerville/101181
+#EXTINF:-1,BET
+http://p5.giffy.be:8080/somerville1/somerville/94574
+#EXTINF:-1,BLOOMBERG CANADA
+http://p5.giffy.be:8080/somerville1/somerville/94271
+#EXTINF:-1,BNN HD
+http://p5.giffy.be:8080/somerville1/somerville/31299
+#EXTINF:-1,BRAVO HD
+http://p5.giffy.be:8080/somerville1/somerville/29962
+#EXTINF:-1,CBC CALGARY
+http://p5.giffy.be:8080/somerville1/somerville/94268
+#EXTINF:-1,CBC EAST HD
+http://p5.giffy.be:8080/somerville1/somerville/16517
+#EXTINF:-1,CBC EDMONTON
+http://p5.giffy.be:8080/somerville1/somerville/94269
+#EXTINF:-1,CBC HALIFAX
+http://p5.giffy.be:8080/somerville1/somerville/94272
+#EXTINF:-1,CBC NEWS NETWORK HD
+http://p5.giffy.be:8080/somerville1/somerville/28635
+#EXTINF:-1,CBC OTTAWA
+http://p5.giffy.be:8080/somerville1/somerville/75985
+#EXTINF:-1,CBC VANCOUVER
+http://p5.giffy.be:8080/somerville1/somerville/93871
+#EXTINF:-1,CBC WINNIPEG..
+http://p5.giffy.be:8080/somerville1/somerville/86177
+#EXTINF:-1,CBS
+http://p5.giffy.be:8080/somerville1/somerville/94279
+#EXTINF:-1,CBS WEST
+http://p5.giffy.be:8080/somerville1/somerville/113720
+#EXTINF:-1,CHCH
+http://p5.giffy.be:8080/somerville1/somerville/39391
+#EXTINF:-1,CITY TV EAST
+http://p5.giffy.be:8080/somerville1/somerville/20712
+#EXTINF:-1,CMT
+http://p5.giffy.be:8080/somerville1/somerville/31582
+#EXTINF:-1,CNBC
+http://p5.giffy.be:8080/somerville1/somerville/94278
+#EXTINF:-1,CNBC WORLD
+http://p5.giffy.be:8080/somerville1/somerville/97666
+#EXTINF:-1,COMEDY
+http://p5.giffy.be:8080/somerville1/somerville/64206
+#EXTINF:-1,COOKING CHANNEL
+http://p5.giffy.be:8080/somerville1/somerville/94576
+#EXTINF:-1,COSMO
+http://p5.giffy.be:8080/somerville1/somerville/39983
+#EXTINF:-1,COTTAGE LIFE HD
+http://p5.giffy.be:8080/somerville1/somerville/26077
+#EXTINF:-1,CRIME  INVEST
+http://p5.giffy.be:8080/somerville1/somerville/39984
+#EXTINF:-1,CTV EAST HD
+http://p5.giffy.be:8080/somerville1/somerville/21510
+#EXTINF:-1,CTV NEWS
+http://p5.giffy.be:8080/somerville1/somerville/31446
+#EXTINF:-1,CTV NEWS BARRIE
+http://p5.giffy.be:8080/somerville1/somerville/101343
+#EXTINF:-1,CTV SUDBURY
+http://p5.giffy.be:8080/somerville1/somerville/108686
+#EXTINF:-1,CTV OTTAWA
+http://p5.giffy.be:8080/somerville1/somerville/75987
+#EXTINF:-1,CTV VANCOUVER
+http://p5.giffy.be:8080/somerville1/somerville/94565
+#EXTINF:-1,CW11
+http://p5.giffy.be:8080/somerville1/somerville/113721
+#EXTINF:-1,DAYSTAR
+http://p5.giffy.be:8080/somerville1/somerville/94274
+#EXTINF:-1,DEJAVIEW
+http://p5.giffy.be:8080/somerville1/somerville/39986
+#EXTINF:-1,DISCOVERY
+http://p5.giffy.be:8080/somerville1/somerville/21102
+#EXTINF:-1,DISCOVERY SCIENCE
+http://p5.giffy.be:8080/somerville1/somerville/51840
+#EXTINF:-1,DISCOVERY VELOCITY HD
+http://p5.giffy.be:8080/somerville1/somerville/22587
+#EXTINF:-1,DIY HD
+http://p5.giffy.be:8080/somerville1/somerville/31529
+#EXTINF:-1,DOCUMENTARY
+http://p5.giffy.be:8080/somerville1/somerville/39985
+#EXTINF:-1,DTOUR
+http://p5.giffy.be:8080/somerville1/somerville/31337
+#EXTINF:-1,E!
+http://p5.giffy.be:8080/somerville1/somerville/31341
+#EXTINF:-1,FOOD NETWORK HD
+http://p5.giffy.be:8080/somerville1/somerville/29963
+#EXTINF:-1,FOX 29
+http://p5.giffy.be:8080/somerville1/somerville/101342
+#EXTINF:-1,FOX WEST
+http://p5.giffy.be:8080/somerville1/somerville/113718
+#EXTINF:-1,FOX NEWS HD
+http://p5.giffy.be:8080/somerville1/somerville/93904
+#EXTINF:-1,FOX RACING
+http://p5.giffy.be:8080/somerville1/somerville/98735
+#EXTINF:-1,FX HD
+http://p5.giffy.be:8080/somerville1/somerville/21097
+#EXTINF:-1,FXX HD
+http://p5.giffy.be:8080/somerville1/somerville/29966
+#EXTINF:-1,FYI
+http://p5.giffy.be:8080/somerville1/somerville/97635
+#EXTINF:-1,GAME SHOW NETWORK
+http://p5.giffy.be:8080/somerville1/somerville/108685
+#EXTINF:-1,GLOBAL BC
+http://p5.giffy.be:8080/somerville1/somerville/20720
+#EXTINF:-1,GLOBAL CALGARY
+http://p5.giffy.be:8080/somerville1/somerville/113719
+#EXTINF:-1,GLOBAL EAST HD
+http://p5.giffy.be:8080/somerville1/somerville/22581
+#EXTINF:-1,GLOBAL HALIFAX..
+http://p5.giffy.be:8080/somerville1/somerville/86181
+#EXTINF:-1,GUSTO HD
+http://p5.giffy.be:8080/somerville1/somerville/20710
+#EXTINF:-1,HBO 1 HD
+http://p5.giffy.be:8080/somerville1/somerville/101180
+#EXTINF:-1,HBO 2 HD
+http://p5.giffy.be:8080/somerville1/somerville/26162
+#EXTINF:-1,HGTV HD
+http://p5.giffy.be:8080/somerville1/somerville/21107
+#EXTINF:-1,HIFI HD
+http://p5.giffy.be:8080/somerville1/somerville/36576
+#EXTINF:-1,HISTORY HD
+http://p5.giffy.be:8080/somerville1/somerville/21106
+#EXTINF:-1,H2
+http://p5.giffy.be:8080/somerville1/somerville/108687
 #EXTINF:-1,HLN
-http://xxultraxx.com:80/live/gorge/gorge123456/9871.m3u8
-#EXTINF:-1,LCN
-http://xxultraxx.com:80/live/gorge/gorge123456/9907.m3u8
-#EXTINF:-1,MOI CIE
-http://xxultraxx.com:80/live/gorge/gorge123456/9960.m3u8
+http://p5.giffy.be:8080/somerville1/somerville/76961
+#EXTINF:-1,ID HD
+http://p5.giffy.be:8080/somerville1/somerville/31596
+#EXTINF:-1,LIFETIME HD
+http://p5.giffy.be:8080/somerville1/somerville/21094
+#EXTINF:-1,LOVE NATURE HD
+http://p5.giffy.be:8080/somerville1/somerville/21505
+#EXTINF:-1,MSNBC HD
+http://p5.giffy.be:8080/somerville1/somerville/77367
 #EXTINF:-1,MTV
-http://xxultraxx.com:80/live/gorge/gorge123456/9958.m3u8
-#EXTINF:-1,NAT GEO
-http://xxultraxx.com:80/live/gorge/gorge123456/9865.m3u8
-#EXTINF:-1,NBA TV
-http://xxultraxx.com:80/live/gorge/gorge123456/9904.m3u8
-#EXTINF:-1,NBC WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/9956.m3u8
-#EXTINF:-1,OMNI 1
-http://xxultraxx.com:80/live/gorge/gorge123456/9953.m3u8
-#EXTINF:-1,OWN
-http://xxultraxx.com:80/live/gorge/gorge123456/9951.m3u8
-#EXTINF:-1,RDI
-http://xxultraxx.com:80/live/gorge/gorge123456/9950.m3u8
-#EXTINF:-1,RDS
-http://xxultraxx.com:80/live/gorge/gorge123456/9859.m3u8
-#EXTINF:-1,SHOWCASE EAST
-http://xxultraxx.com:80/live/gorge/gorge123456/9821.m3u8
-#EXTINF:-1,SMITHSONIAN
-http://xxultraxx.com:80/live/gorge/gorge123456/9810.m3u8
+http://p5.giffy.be:8080/somerville1/somerville/100582
+#EXTINF:-1,MOVIE CENTRAL
+http://p5.giffy.be:8080/somerville1/somerville/100656
+#EXTINF:-1,MOVIE TIME 1
+http://p5.giffy.be:8080/somerville1/somerville/102118
+#EXTINF:-1,MOVIE TIME 2
+http://p5.giffy.be:8080/somerville1/somerville/113691
+#EXTINF:-1,MUCH MUSIC HD
+http://p5.giffy.be:8080/somerville1/somerville/29964
+#EXTINF:-1,NAT GEO HD
+http://p5.giffy.be:8080/somerville1/somerville/21105
+#EXTINF:-1,NAT GEO WILD
+http://p5.giffy.be:8080/somerville1/somerville/46966
+#EXTINF:-1,NBC
+http://p5.giffy.be:8080/somerville1/somerville/94276
+#EXTINF:-1,NBC BUFFALO
+http://p5.giffy.be:8080/somerville1/somerville/113692
+#EXTINF:-1,OLN
+http://p5.giffy.be:8080/somerville1/somerville/36569
+#EXTINF:-1,OMNI 1 HD
+http://p5.giffy.be:8080/somerville1/somerville/22585
+#EXTINF:-1,OMNI 2 HD
+http://p5.giffy.be:8080/somerville1/somerville/22586
+#EXTINF:-1,OMNI CALGARY
+http://p5.giffy.be:8080/somerville1/somerville/113717
+#EXTINF:-1,OMNI VANCOUVER
+http://p5.giffy.be:8080/somerville1/somerville/108688
+#EXTINF:-1,OWN HD
+http://p5.giffy.be:8080/somerville1/somerville/26454
+#EXTINF:-1,PEACHTREE
+http://p5.giffy.be:8080/somerville1/somerville/30891
+#EXTINF:-1,RT NEWS
+http://p5.giffy.be:8080/somerville1/somerville/101182
+#EXTINF:-1,SHOWCASE
+http://p5.giffy.be:8080/somerville1/somerville/86183
+#EXTINF:-1,SLICE HD
+http://p5.giffy.be:8080/somerville1/somerville/21095
+#EXTINF:-1,SMITHSONIAN HD
+http://p5.giffy.be:8080/somerville1/somerville/31674
 #EXTINF:-1,SPACE
-http://xxultraxx.com:80/live/gorge/gorge123456/9944.m3u8
-#EXTINF:-1,SPIKE TV USA
-http://xxultraxx.com:80/live/gorge/gorge123456/9846.m3u8
-#EXTINF:-1,SPORTSNET 360
-http://xxultraxx.com:80/live/gorge/gorge123456/9915.m3u8
-#EXTINF:-1,SPORTSNET ONE
-http://xxultraxx.com:80/live/gorge/gorge123456/9914.m3u8
-#EXTINF:-1,SPORTSNET ONTARIO
-http://xxultraxx.com:80/live/gorge/gorge123456/9913.m3u8
-#EXTINF:-1,SPORTSNET PACIFIC
-http://xxultraxx.com:80/live/gorge/gorge123456/9943.m3u8
-#EXTINF:-1,SPORTSNET WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/9901.m3u8
-#EXTINF:-1,SPORTSNET WORLD
-http://xxultraxx.com:80/live/gorge/gorge123456/9942.m3u8
-#EXTINF:-1,SUPER CHANNEL 2
-http://xxultraxx.com:80/live/gorge/gorge123456/9940.m3u8
-#EXTINF:-1,SUPER ECRAN 1
-http://xxultraxx.com:80/live/gorge/gorge123456/9949.m3u8
-#EXTINF:-1,SUPER ECRAN 2
-http://xxultraxx.com:80/live/gorge/gorge123456/9948.m3u8
-#EXTINF:-1,SUPER ECRAN 3
-http://xxultraxx.com:80/live/gorge/gorge123456/9947.m3u8
-#EXTINF:-1,SUPER ECRAN 4
-http://xxultraxx.com:80/live/gorge/gorge123456/9946.m3u8
-#EXTINF:-1,TCM
-http://xxultraxx.com:80/live/gorge/gorge123456/9939.m3u8
-#EXTINF:-1,TELE QUEBEC
-http://xxultraxx.com:80/live/gorge/gorge123456/9899.m3u8
-#EXTINF:-1,TELE TOON FRENCH
-http://xxultraxx.com:80/live/gorge/gorge123456/9898.m3u8
+http://p5.giffy.be:8080/somerville1/somerville/30892
+#EXTINF:-1,SPIKE / PARAMOUNT HD
+http://p5.giffy.be:8080/somerville1/somerville/31531
+#EXTINF:-1,STINGRAY ( MUSIC )
+http://p5.giffy.be:8080/somerville1/somerville/101947
+#EXTINF:-1,TLC HD
+http://p5.giffy.be:8080/somerville1/somerville/36571
 #EXTINF:-1,TMN 1
-http://xxultraxx.com:80/live/gorge/gorge123456/9854.m3u8
-#EXTINF:-1,TMN 2
-http://xxultraxx.com:80/live/gorge/gorge123456/9853.m3u8
-#EXTINF:-1,TMN 3
-http://xxultraxx.com:80/live/gorge/gorge123456/9839.m3u8
-#EXTINF:-1,TMN 4
-http://xxultraxx.com:80/live/gorge/gorge123456/9852.m3u8
-#EXTINF:-1,TSN 1
-http://xxultraxx.com:80/live/gorge/gorge123456/9920.m3u8
-#EXTINF:-1,TSN 2
-http://xxultraxx.com:80/live/gorge/gorge123456/9919.m3u8
-#EXTINF:-1,TSN 3
-http://xxultraxx.com:80/live/gorge/gorge123456/9918.m3u8
-#EXTINF:-1,TSN 4
-http://xxultraxx.com:80/live/gorge/gorge123456/9917.m3u8
-#EXTINF:-1,TSN 5
-http://xxultraxx.com:80/live/gorge/gorge123456/9916.m3u8
-#EXTINF:-1,TV5 QUEBEC
-http://xxultraxx.com:80/live/gorge/gorge123456/9819.m3u8
-#EXTINF:-1,TVA GATINEAU
-http://xxultraxx.com:80/live/gorge/gorge123456/9851.m3u8
-#EXTINF:-1,TVA SPORTS
-http://xxultraxx.com:80/live/gorge/gorge123456/9937.m3u8
-#EXTINF:-1,TVO Kids
-http://xxultraxx.com:80/live/gorge/gorge123456/9818.m3u8
-#EXTINF:-1,VICELAND
-http://xxultraxx.com:80/live/gorge/gorge123456/9850.m3u8
-#EXTINF:-1,VIE
-http://xxultraxx.com:80/live/gorge/gorge123456/9895.m3u8
-#EXTINF:-1,VRAK TV
-http://xxultraxx.com:80/live/gorge/gorge123456/9935.m3u8
-#EXTINF:-1,WFN
-http://xxultraxx.com:80/live/gorge/gorge123456/9893.m3u8
-#EXTINF:-1,Wild TV
-http://xxultraxx.com:80/live/gorge/gorge123456/9891.m3u8
-#EXTINF:-1,YOOPA
-http://xxultraxx.com:80/live/gorge/gorge123456/9849.m3u8
-#EXTINF:-1,CITY MONTREAL
-http://xxultraxx.com:80/live/gorge/gorge123456/10270.m3u8
-#EXTINF:-1,COMEDY WEST
-http://xxultraxx.com:80/live/gorge/gorge123456/10271.m3u8
-#EXTINF:-1,GLOBAL HALIFAX
-http://xxultraxx.com:80/live/gorge/gorge123456/10265.m3u8
-#EXTINF:-1,YES TV (Alberta)
-http://xxultraxx.com:80/live/gorge/gorge123456/10263.m3u8
-#EXTINF:-1,RDS INFO
-http://xxultraxx.com:80/live/gorge/gorge123456/10272.m3u8
-#EXTINF:-1,TFO
-http://xxultraxx.com:80/live/gorge/gorge123456/10273.m3u8
-#EXTINF:-1,TLC CANADA
-http://xxultraxx.com:80/live/gorge/gorge123456/10268.m3u8
-#EXTINF:-1,UNIS TV
-http://xxultraxx.com:80/live/gorge/gorge123456/10261.m3u8
+http://p5.giffy.be:8080/somerville1/somerville/21114
+#EXTINF:-1,TMN 2 HD
+http://p5.giffy.be:8080/somerville1/somerville/21113
+#EXTINF:-1,TMN ENCORE...
+http://p5.giffy.be:8080/somerville1/somerville/97672
+#EXTINF:-1,TURNER CLASSIC MOVIES
+http://p5.giffy.be:8080/somerville1/somerville/103448
+#EXTINF:-1,TVO
+http://p5.giffy.be:8080/somerville1/somerville/20709
+#EXTINF:-1,SILVER SCREEN CLASSIC
+http://p5.giffy.be:8080/somerville1/somerville/102567
+#EXTINF:-1,SUPER CHANNEL 1
+http://p5.giffy.be:8080/somerville1/somerville/26078
+#EXTINF:-1,SUPER CHANNEL 2
+http://p5.giffy.be:8080/somerville1/somerville/60692
+#EXTINF:-1,SUPER CHANNEL 3
+http://p5.giffy.be:8080/somerville1/somerville/26079
+#EXTINF:-1,SUPER CHANNEL 4
+http://p5.giffy.be:8080/somerville1/somerville/103449
+#EXTINF:-1,VISION TV
+http://p5.giffy.be:8080/somerville1/somerville/39387
+#EXTINF:-1,W HD
+http://p5.giffy.be:8080/somerville1/somerville/21100
+#EXTINF:-1,WARNER BROTHERS (70s)
+http://p5.giffy.be:8080/somerville1/somerville/102568
+#EXTINF:-1,WNED HD
+http://p5.giffy.be:8080/somerville1/somerville/102566
+#EXTINF:-1,WGN9
+http://p5.giffy.be:8080/somerville1/somerville/113706
+#EXTINF:-1,YES
+http://p5.giffy.be:8080/somerville1/somerville/39392
+#EXTINF:-1,TELETOON
+http://p5.giffy.be:8080/somerville1/somerville/22584
+#EXTINF:-1,TREEHOUSE
+http://p5.giffy.be:8080/somerville1/somerville/20732
+#EXTINF:-1,CHRGD
+http://p5.giffy.be:8080/somerville1/somerville/64205
+#EXTINF:-1,DISNEY
+http://p5.giffy.be:8080/somerville1/somerville/20728
+#EXTINF:-1,DISNEY JR
+http://p5.giffy.be:8080/somerville1/somerville/20727
+#EXTINF:-1,DISNEY XD
+http://p5.giffy.be:8080/somerville1/somerville/23200
+#EXTINF:-1,FAMILY
+http://p5.giffy.be:8080/somerville1/somerville/20731
+#EXTINF:-1,FAMILY JR EAST
+http://p5.giffy.be:8080/somerville1/somerville/107776
+#EXTINF:-1,24/7   PEPPA PIG
+http://p5.giffy.be:8080/somerville1/somerville/93571
+#EXTINF:-1,M-EXCESS
+http://p5.giffy.be:8080/somerville1/somerville/103450
+#EXTINF:-1,HBO EAST
+http://p5.giffy.be:8080/somerville1/somerville/102538
+#EXTINF:-1,ABC SPARK
+http://p5.giffy.be:8080/somerville1/somerville/22582
+#EXTINF:-1,YTV EAST
+http://p5.giffy.be:8080/somerville1/somerville/20730
+#EXTINF:-1,YTV WEST
+http://p5.giffy.be:8080/somerville1/somerville/105502
+#EXTINF:-1,4/7 K- PAW PATROL
+http://p5.giffy.be:8080/somerville1/somerville/92446
+#EXTINF:-1,24/7 K- PEPPA PIG
+http://p5.giffy.be:8080/somerville1/somerville/92445
+#EXTINF:-1,ABC BUFFALO
+http://p5.giffy.be:8080/somerville1/somerville/113693
