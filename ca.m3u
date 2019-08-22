@@ -1,275 +1,471 @@
 #EXTM3U
-#EXTINF:-1,CNN
-http://p5.giffy.be:8080/somerville1/somerville/88214
-#EXTINF:-1,CNN ( OPT2 )
-http://p5.giffy.be:8080/somerville1/somerville/102760
-#EXTINF:-1,CNN INTERNATIONAL
-http://p5.giffy.be:8080/somerville1/somerville/95204
-#EXTINF:-1,CP24 HD
-http://p5.giffy.be:8080/somerville1/somerville/82477
-#EXTINF:-1,CP24 (OPT 2)
-http://p5.giffy.be:8080/somerville1/somerville/94270
-#EXTINF:-1,THE WEATHER NETWORK
-http://p5.giffy.be:8080/somerville1/somerville/39989
-#EXTINF:-1,22 THE POINT!
-http://p5.giffy.be:8080/somerville1/somerville/94277
-#EXTINF:-1,A&E HD
-http://p5.giffy.be:8080/somerville1/somerville/22583
-#EXTINF:-1,ABC
-http://p5.giffy.be:8080/somerville1/somerville/94275
+#EXTINF:-1,CA-FR: Z TELE
+http://www.sansat.net:25461/eric/eric/34737
+#EXTINF:-1,CA-FR: YOOPA
+http://www.sansat.net:25461/eric/eric/34736
+#EXTINF:-1,CA-FR: VRAK TV
+http://www.sansat.net:25461/eric/eric/34735
+#EXTINF:-1,CA-FR: VIE
+http://www.sansat.net:25461/eric/eric/34734
+#EXTINF:-1,CA-FR: TVA SPORTS
+http://www.sansat.net:25461/eric/eric/34733
+#EXTINF:-1,CA-FR: TVA GATINEAU 4K
+http://www.sansat.net:25461/eric/eric/34732
+#EXTINF:-1,CA-FR: TV5 QUEBEC
+http://www.sansat.net:25461/eric/eric/34731
+#EXTINF:-1,CA-FR: TELE TOON FRENCH
+http://www.sansat.net:25461/eric/eric/34730
+#EXTINF:-1,CA-FR: TELE QUEBEC
+http://www.sansat.net:25461/eric/eric/34729
+#EXTINF:-1,CA-FR: TELE MICRO HD
+http://www.sansat.net:25461/eric/eric/34728
+#EXTINF:-1,CA-FR: SUPER ECRAN 4
+http://www.sansat.net:25461/eric/eric/34727
+#EXTINF:-1,CA-FR: SUPER ECRAN 3
+http://www.sansat.net:25461/eric/eric/34726
+#EXTINF:-1,CA-FR: SUPER ECRAN 2
+http://www.sansat.net:25461/eric/eric/34725
+#EXTINF:-1,CA-FR: SUPER ECRAN 1
+http://www.sansat.net:25461/eric/eric/34724
+#EXTINF:-1,CA-FR: SERIS
+http://www.sansat.net:25461/eric/eric/34723
+#EXTINF:-1,CA-FR: RDS INFO
+http://www.sansat.net:25461/eric/eric/34722
+#EXTINF:-1,CA-FR: RDS 2
+http://www.sansat.net:25461/eric/eric/34721
+#EXTINF:-1,CA-FR: RDS
+http://www.sansat.net:25461/eric/eric/34720
+#EXTINF:-1,CA-FR: RDI
+http://www.sansat.net:25461/eric/eric/34719
+#EXTINF:-1,CA-FR: MUSIQUE PLUS
+http://www.sansat.net:25461/eric/eric/34718
+#EXTINF:-1,CA-FR: MOI CIE
+http://www.sansat.net:25461/eric/eric/34717
+#EXTINF:-1,CA-FR: METEO
+http://www.sansat.net:25461/eric/eric/34716
+#EXTINF:-1,CA-FR: MAX
+http://www.sansat.net:25461/eric/eric/34715
+#EXTINF:-1,CA-FR: LCN
+http://www.sansat.net:25461/eric/eric/34714
+#EXTINF:-1,CA-FR: ICI TELEVISION 4K
+http://www.sansat.net:25461/eric/eric/34713
+#EXTINF:-1,CA-FR: ICI TELE 4K
+http://www.sansat.net:25461/eric/eric/34712
+#EXTINF:-1,CA-FR: ICI MONTREAL
+http://www.sansat.net:25461/eric/eric/34711
+#EXTINF:-1,CA-FR: HISTORIO
+http://www.sansat.net:25461/eric/eric/34710
+#EXTINF:-1,CA-FR: DISNEY FRENCH
+http://www.sansat.net:25461/eric/eric/34709
+#EXTINF:-1,CA-FR: CTV MONTREAL 4K
+http://www.sansat.net:25461/eric/eric/34708
+#EXTINF:-1,CA-FR: CTV MONTREAL
+http://www.sansat.net:25461/eric/eric/34707
+#EXTINF:-1,CA-FR: CITY MONTREAL 4K
+http://www.sansat.net:25461/eric/eric/34706
+#EXTINF:-1,CA-FR: CINEPOP
+http://www.sansat.net:25461/eric/eric/34705
+#EXTINF:-1,CA-FR: CBC MONTREAL 4K
+http://www.sansat.net:25461/eric/eric/34704
+#EXTINF:-1,CA-FR: CBC MONTREAL
+http://www.sansat.net:25461/eric/eric/34703
+#EXTINF:-1,CA-FR: CBC ICI 4K
+http://www.sansat.net:25461/eric/eric/34702
+#EXTINF:-1,CA-FR: CASA
+http://www.sansat.net:25461/eric/eric/34701
+#EXTINF:-1,CA-FR: CANAL SAVOIR
+http://www.sansat.net:25461/eric/eric/34700
+#EXTINF:-1,CA-FR: CANAL D
+http://www.sansat.net:25461/eric/eric/34699
+#EXTINF:-1,CA-FR: ARTV
+http://www.sansat.net:25461/eric/eric/34698
+#EXTINF:-1,CA-FR: ADDIK TV
+http://www.sansat.net:25461/eric/eric/34697
+#EXTINF:-1,===== CANADA =====
+http://www.sansat.net:25461/eric/eric/34696
+#EXTINF:-1,A&E
+http://www.sansat.net:25461/eric/eric/34695
+#EXTINF:-1,ABC EAST
+http://www.sansat.net:25461/eric/eric/34694
+#EXTINF:-1,ABC SPARK CANADA
+http://www.sansat.net:25461/eric/eric/34693
+#EXTINF:-1,ABC WEST
+http://www.sansat.net:25461/eric/eric/34692
+#EXTINF:-1,ACTION
+http://www.sansat.net:25461/eric/eric/34691
+#EXTINF:-1,AHC
+http://www.sansat.net:25461/eric/eric/34690
 #EXTINF:-1,AMC
-http://p5.giffy.be:8080/somerville1/somerville/29969
+http://www.sansat.net:25461/eric/eric/34689
 #EXTINF:-1,ANIMAL PLANET
-http://p5.giffy.be:8080/somerville1/somerville/21103
-#EXTINF:-1,APTN HD
-http://p5.giffy.be:8080/somerville1/somerville/65779
+http://www.sansat.net:25461/eric/eric/34688
+#EXTINF:-1,APTN
+http://www.sansat.net:25461/eric/eric/34687
+#EXTINF:-1,ASSEMBLÉE NATIONALE QUÉBEC
+http://www.sansat.net:25461/eric/eric/34686
 #EXTINF:-1,BBC CANADA
-http://p5.giffy.be:8080/somerville1/somerville/93903
-#EXTINF:-1,BBC EARTH HD
-http://p5.giffy.be:8080/somerville1/somerville/26163
+http://www.sansat.net:25461/eric/eric/34685
+#EXTINF:-1,BBC KIDS
+http://www.sansat.net:25461/eric/eric/34684
 #EXTINF:-1,BBC WORLD NEWS
-http://p5.giffy.be:8080/somerville1/somerville/101181
+http://www.sansat.net:25461/eric/eric/34683
 #EXTINF:-1,BET
-http://p5.giffy.be:8080/somerville1/somerville/94574
-#EXTINF:-1,BLOOMBERG CANADA
-http://p5.giffy.be:8080/somerville1/somerville/94271
-#EXTINF:-1,BNN HD
-http://p5.giffy.be:8080/somerville1/somerville/31299
-#EXTINF:-1,BRAVO HD
-http://p5.giffy.be:8080/somerville1/somerville/29962
-#EXTINF:-1,CBC CALGARY
-http://p5.giffy.be:8080/somerville1/somerville/94268
-#EXTINF:-1,CBC EAST HD
-http://p5.giffy.be:8080/somerville1/somerville/16517
-#EXTINF:-1,CBC EDMONTON
-http://p5.giffy.be:8080/somerville1/somerville/94269
-#EXTINF:-1,CBC HALIFAX
-http://p5.giffy.be:8080/somerville1/somerville/94272
-#EXTINF:-1,CBC NEWS NETWORK HD
-http://p5.giffy.be:8080/somerville1/somerville/28635
+http://www.sansat.net:25461/eric/eric/34682
+#EXTINF:-1,BNN
+http://www.sansat.net:25461/eric/eric/34681
+#EXTINF:-1,BOOK TV
+http://www.sansat.net:25461/eric/eric/34680
+#EXTINF:-1,BRAVO
+http://www.sansat.net:25461/eric/eric/34679
+#EXTINF:-1,CARTOON NETWORK
+http://www.sansat.net:25461/eric/eric/34678
+#EXTINF:-1,CBC NEWS
+http://www.sansat.net:25461/eric/eric/34677
+#EXTINF:-1,CBC NOVA SCOTIA
+http://www.sansat.net:25461/eric/eric/34676
 #EXTINF:-1,CBC OTTAWA
-http://p5.giffy.be:8080/somerville1/somerville/75985
+http://www.sansat.net:25461/eric/eric/34675
+#EXTINF:-1,CBC TORONTO
+http://www.sansat.net:25461/eric/eric/34674
 #EXTINF:-1,CBC VANCOUVER
-http://p5.giffy.be:8080/somerville1/somerville/93871
-#EXTINF:-1,CBC WINNIPEG..
-http://p5.giffy.be:8080/somerville1/somerville/86177
-#EXTINF:-1,CBS
-http://p5.giffy.be:8080/somerville1/somerville/94279
+http://www.sansat.net:25461/eric/eric/34673
+#EXTINF:-1,CBS EAST
+http://www.sansat.net:25461/eric/eric/34672
 #EXTINF:-1,CBS WEST
-http://p5.giffy.be:8080/somerville1/somerville/113720
+http://www.sansat.net:25461/eric/eric/34671
 #EXTINF:-1,CHCH
-http://p5.giffy.be:8080/somerville1/somerville/39391
-#EXTINF:-1,CITY TV EAST
-http://p5.giffy.be:8080/somerville1/somerville/20712
-#EXTINF:-1,CMT
-http://p5.giffy.be:8080/somerville1/somerville/31582
+http://www.sansat.net:25461/eric/eric/34670
+#EXTINF:-1,CITY MONTREAL
+http://www.sansat.net:25461/eric/eric/34669
+#EXTINF:-1,CITY SASKATCHEWAN
+http://www.sansat.net:25461/eric/eric/34668
+#EXTINF:-1,CITY TORONTO
+http://www.sansat.net:25461/eric/eric/34667
+#EXTINF:-1,CITY VANCOUVER
+http://www.sansat.net:25461/eric/eric/34666
+#EXTINF:-1,CITY WINNIPEG
+http://www.sansat.net:25461/eric/eric/34665
+#EXTINF:-1,CMT CANADA
+http://www.sansat.net:25461/eric/eric/34664
 #EXTINF:-1,CNBC
-http://p5.giffy.be:8080/somerville1/somerville/94278
-#EXTINF:-1,CNBC WORLD
-http://p5.giffy.be:8080/somerville1/somerville/97666
-#EXTINF:-1,COMEDY
-http://p5.giffy.be:8080/somerville1/somerville/64206
+http://www.sansat.net:25461/eric/eric/34663
+#EXTINF:-1,CNN
+http://www.sansat.net:25461/eric/eric/34662
+#EXTINF:-1,CNN INTERNATIONAL
+http://www.sansat.net:25461/eric/eric/34661
+#EXTINF:-1,COMEDY EAST
+http://www.sansat.net:25461/eric/eric/34660
+#EXTINF:-1,COMEDY GOLD
+http://www.sansat.net:25461/eric/eric/34659
+#EXTINF:-1,COMEDY WEST
+http://www.sansat.net:25461/eric/eric/34658
 #EXTINF:-1,COOKING CHANNEL
-http://p5.giffy.be:8080/somerville1/somerville/94576
+http://www.sansat.net:25461/eric/eric/34657
 #EXTINF:-1,COSMO
-http://p5.giffy.be:8080/somerville1/somerville/39983
-#EXTINF:-1,COTTAGE LIFE HD
-http://p5.giffy.be:8080/somerville1/somerville/26077
-#EXTINF:-1,CRIME  INVEST
-http://p5.giffy.be:8080/somerville1/somerville/39984
-#EXTINF:-1,CTV EAST HD
-http://p5.giffy.be:8080/somerville1/somerville/21510
-#EXTINF:-1,CTV NEWS
-http://p5.giffy.be:8080/somerville1/somerville/31446
-#EXTINF:-1,CTV NEWS BARRIE
-http://p5.giffy.be:8080/somerville1/somerville/101343
-#EXTINF:-1,CTV SUDBURY
-http://p5.giffy.be:8080/somerville1/somerville/108686
+http://www.sansat.net:25461/eric/eric/34656
+#EXTINF:-1,COTTAGE LIFE
+http://www.sansat.net:25461/eric/eric/34655
+#EXTINF:-1,CP24
+http://www.sansat.net:25461/eric/eric/34654
+#EXTINF:-1,CPAC
+http://www.sansat.net:25461/eric/eric/34653
+#EXTINF:-1,CPAC FRENCH
+http://www.sansat.net:25461/eric/eric/34652
+#EXTINF:-1,CRIME   INVEST
+http://www.sansat.net:25461/eric/eric/34651
+#EXTINF:-1,CTV 2 TORONTO
+http://www.sansat.net:25461/eric/eric/34650
+#EXTINF:-1,CTV 2 VANCOUVER
+http://www.sansat.net:25461/eric/eric/34649
+#EXTINF:-1,CTV HALIFAX
+http://www.sansat.net:25461/eric/eric/34648
+#EXTINF:-1,CTV NEWS NETWORK
+http://www.sansat.net:25461/eric/eric/34647
 #EXTINF:-1,CTV OTTAWA
-http://p5.giffy.be:8080/somerville1/somerville/75987
+http://www.sansat.net:25461/eric/eric/34646
+#EXTINF:-1,CTV TORONTO
+http://www.sansat.net:25461/eric/eric/34645
 #EXTINF:-1,CTV VANCOUVER
-http://p5.giffy.be:8080/somerville1/somerville/94565
-#EXTINF:-1,CW11
-http://p5.giffy.be:8080/somerville1/somerville/113721
-#EXTINF:-1,DAYSTAR
-http://p5.giffy.be:8080/somerville1/somerville/94274
+http://www.sansat.net:25461/eric/eric/34644
+#EXTINF:-1,CTV2 OTTAWA
+http://www.sansat.net:25461/eric/eric/34643
+#EXTINF:-1,CW 11
+http://www.sansat.net:25461/eric/eric/34642
+#EXTINF:-1,DAYSTAR TV
+http://www.sansat.net:25461/eric/eric/34641
 #EXTINF:-1,DEJAVIEW
-http://p5.giffy.be:8080/somerville1/somerville/39986
-#EXTINF:-1,DISCOVERY
-http://p5.giffy.be:8080/somerville1/somerville/21102
-#EXTINF:-1,DISCOVERY SCIENCE
-http://p5.giffy.be:8080/somerville1/somerville/51840
-#EXTINF:-1,DISCOVERY VELOCITY HD
-http://p5.giffy.be:8080/somerville1/somerville/22587
-#EXTINF:-1,DIY HD
-http://p5.giffy.be:8080/somerville1/somerville/31529
-#EXTINF:-1,DOCUMENTARY
-http://p5.giffy.be:8080/somerville1/somerville/39985
-#EXTINF:-1,DTOUR
-http://p5.giffy.be:8080/somerville1/somerville/31337
-#EXTINF:-1,E!
-http://p5.giffy.be:8080/somerville1/somerville/31341
-#EXTINF:-1,FOOD NETWORK HD
-http://p5.giffy.be:8080/somerville1/somerville/29963
-#EXTINF:-1,FOX 29
-http://p5.giffy.be:8080/somerville1/somerville/101342
-#EXTINF:-1,FOX WEST
-http://p5.giffy.be:8080/somerville1/somerville/113718
-#EXTINF:-1,FOX NEWS HD
-http://p5.giffy.be:8080/somerville1/somerville/93904
-#EXTINF:-1,FOX RACING
-http://p5.giffy.be:8080/somerville1/somerville/98735
-#EXTINF:-1,FX HD
-http://p5.giffy.be:8080/somerville1/somerville/21097
-#EXTINF:-1,FXX HD
-http://p5.giffy.be:8080/somerville1/somerville/29966
-#EXTINF:-1,FYI
-http://p5.giffy.be:8080/somerville1/somerville/97635
-#EXTINF:-1,GAME SHOW NETWORK
-http://p5.giffy.be:8080/somerville1/somerville/108685
-#EXTINF:-1,GLOBAL BC
-http://p5.giffy.be:8080/somerville1/somerville/20720
-#EXTINF:-1,GLOBAL CALGARY
-http://p5.giffy.be:8080/somerville1/somerville/113719
-#EXTINF:-1,GLOBAL EAST HD
-http://p5.giffy.be:8080/somerville1/somerville/22581
-#EXTINF:-1,GLOBAL HALIFAX..
-http://p5.giffy.be:8080/somerville1/somerville/86181
-#EXTINF:-1,GUSTO HD
-http://p5.giffy.be:8080/somerville1/somerville/20710
-#EXTINF:-1,HBO 1 HD
-http://p5.giffy.be:8080/somerville1/somerville/101180
-#EXTINF:-1,HBO 2 HD
-http://p5.giffy.be:8080/somerville1/somerville/26162
-#EXTINF:-1,HGTV HD
-http://p5.giffy.be:8080/somerville1/somerville/21107
-#EXTINF:-1,HIFI HD
-http://p5.giffy.be:8080/somerville1/somerville/36576
-#EXTINF:-1,HISTORY HD
-http://p5.giffy.be:8080/somerville1/somerville/21106
-#EXTINF:-1,H2
-http://p5.giffy.be:8080/somerville1/somerville/108687
-#EXTINF:-1,HLN
-http://p5.giffy.be:8080/somerville1/somerville/76961
-#EXTINF:-1,ID HD
-http://p5.giffy.be:8080/somerville1/somerville/31596
-#EXTINF:-1,LIFETIME HD
-http://p5.giffy.be:8080/somerville1/somerville/21094
-#EXTINF:-1,LOVE NATURE HD
-http://p5.giffy.be:8080/somerville1/somerville/21505
-#EXTINF:-1,MSNBC HD
-http://p5.giffy.be:8080/somerville1/somerville/77367
-#EXTINF:-1,MTV
-http://p5.giffy.be:8080/somerville1/somerville/100582
-#EXTINF:-1,MOVIE CENTRAL
-http://p5.giffy.be:8080/somerville1/somerville/100656
-#EXTINF:-1,MOVIE TIME 1
-http://p5.giffy.be:8080/somerville1/somerville/102118
-#EXTINF:-1,MOVIE TIME 2
-http://p5.giffy.be:8080/somerville1/somerville/113691
-#EXTINF:-1,MUCH MUSIC HD
-http://p5.giffy.be:8080/somerville1/somerville/29964
-#EXTINF:-1,NAT GEO HD
-http://p5.giffy.be:8080/somerville1/somerville/21105
-#EXTINF:-1,NAT GEO WILD
-http://p5.giffy.be:8080/somerville1/somerville/46966
-#EXTINF:-1,NBC
-http://p5.giffy.be:8080/somerville1/somerville/94276
-#EXTINF:-1,NBC BUFFALO
-http://p5.giffy.be:8080/somerville1/somerville/113692
-#EXTINF:-1,OLN
-http://p5.giffy.be:8080/somerville1/somerville/36569
-#EXTINF:-1,OMNI 1 HD
-http://p5.giffy.be:8080/somerville1/somerville/22585
-#EXTINF:-1,OMNI 2 HD
-http://p5.giffy.be:8080/somerville1/somerville/22586
-#EXTINF:-1,OMNI CALGARY
-http://p5.giffy.be:8080/somerville1/somerville/113717
-#EXTINF:-1,OMNI VANCOUVER
-http://p5.giffy.be:8080/somerville1/somerville/108688
-#EXTINF:-1,OWN HD
-http://p5.giffy.be:8080/somerville1/somerville/26454
-#EXTINF:-1,PEACHTREE
-http://p5.giffy.be:8080/somerville1/somerville/30891
-#EXTINF:-1,RT NEWS
-http://p5.giffy.be:8080/somerville1/somerville/101182
-#EXTINF:-1,SHOWCASE
-http://p5.giffy.be:8080/somerville1/somerville/86183
-#EXTINF:-1,SLICE HD
-http://p5.giffy.be:8080/somerville1/somerville/21095
-#EXTINF:-1,SMITHSONIAN HD
-http://p5.giffy.be:8080/somerville1/somerville/31674
-#EXTINF:-1,SPACE
-http://p5.giffy.be:8080/somerville1/somerville/30892
-#EXTINF:-1,SPIKE / PARAMOUNT HD
-http://p5.giffy.be:8080/somerville1/somerville/31531
-#EXTINF:-1,STINGRAY ( MUSIC )
-http://p5.giffy.be:8080/somerville1/somerville/101947
-#EXTINF:-1,TLC HD
-http://p5.giffy.be:8080/somerville1/somerville/36571
-#EXTINF:-1,TMN 1
-http://p5.giffy.be:8080/somerville1/somerville/21114
-#EXTINF:-1,TMN 2 HD
-http://p5.giffy.be:8080/somerville1/somerville/21113
-#EXTINF:-1,TMN ENCORE...
-http://p5.giffy.be:8080/somerville1/somerville/97672
-#EXTINF:-1,TURNER CLASSIC MOVIES
-http://p5.giffy.be:8080/somerville1/somerville/103448
-#EXTINF:-1,TVO
-http://p5.giffy.be:8080/somerville1/somerville/20709
-#EXTINF:-1,SILVER SCREEN CLASSIC
-http://p5.giffy.be:8080/somerville1/somerville/102567
-#EXTINF:-1,SUPER CHANNEL 1
-http://p5.giffy.be:8080/somerville1/somerville/26078
-#EXTINF:-1,SUPER CHANNEL 2
-http://p5.giffy.be:8080/somerville1/somerville/60692
-#EXTINF:-1,SUPER CHANNEL 3
-http://p5.giffy.be:8080/somerville1/somerville/26079
-#EXTINF:-1,SUPER CHANNEL 4
-http://p5.giffy.be:8080/somerville1/somerville/103449
-#EXTINF:-1,VISION TV
-http://p5.giffy.be:8080/somerville1/somerville/39387
-#EXTINF:-1,W HD
-http://p5.giffy.be:8080/somerville1/somerville/21100
-#EXTINF:-1,WARNER BROTHERS (70s)
-http://p5.giffy.be:8080/somerville1/somerville/102568
-#EXTINF:-1,WNED HD
-http://p5.giffy.be:8080/somerville1/somerville/102566
-#EXTINF:-1,WGN9
-http://p5.giffy.be:8080/somerville1/somerville/113706
-#EXTINF:-1,YES
-http://p5.giffy.be:8080/somerville1/somerville/39392
-#EXTINF:-1,TELETOON
-http://p5.giffy.be:8080/somerville1/somerville/22584
-#EXTINF:-1,TREEHOUSE
-http://p5.giffy.be:8080/somerville1/somerville/20732
-#EXTINF:-1,CHRGD
-http://p5.giffy.be:8080/somerville1/somerville/64205
-#EXTINF:-1,DISNEY
-http://p5.giffy.be:8080/somerville1/somerville/20728
+http://www.sansat.net:25461/eric/eric/34640
+#EXTINF:-1,DISCOVERY CANADA
+http://www.sansat.net:25461/eric/eric/34639
+#EXTINF:-1,DISCOVERY SCIENCE CANADA
+http://www.sansat.net:25461/eric/eric/34638
+#EXTINF:-1,DISNEY CANADA
+http://www.sansat.net:25461/eric/eric/34637
 #EXTINF:-1,DISNEY JR
-http://p5.giffy.be:8080/somerville1/somerville/20727
-#EXTINF:-1,DISNEY XD
-http://p5.giffy.be:8080/somerville1/somerville/23200
-#EXTINF:-1,FAMILY
-http://p5.giffy.be:8080/somerville1/somerville/20731
-#EXTINF:-1,FAMILY JR EAST
-http://p5.giffy.be:8080/somerville1/somerville/107776
-#EXTINF:-1,24/7   PEPPA PIG
-http://p5.giffy.be:8080/somerville1/somerville/93571
-#EXTINF:-1,M-EXCESS
-http://p5.giffy.be:8080/somerville1/somerville/103450
-#EXTINF:-1,HBO EAST
-http://p5.giffy.be:8080/somerville1/somerville/102538
-#EXTINF:-1,ABC SPARK
-http://p5.giffy.be:8080/somerville1/somerville/22582
-#EXTINF:-1,YTV EAST
-http://p5.giffy.be:8080/somerville1/somerville/20730
-#EXTINF:-1,YTV WEST
-http://p5.giffy.be:8080/somerville1/somerville/105502
-#EXTINF:-1,4/7 K- PAW PATROL
-http://p5.giffy.be:8080/somerville1/somerville/92446
-#EXTINF:-1,24/7 K- PEPPA PIG
-http://p5.giffy.be:8080/somerville1/somerville/92445
-#EXTINF:-1,ABC BUFFALO
-http://p5.giffy.be:8080/somerville1/somerville/113693
+http://www.sansat.net:25461/eric/eric/34636
+#EXTINF:-1,DIY
+http://www.sansat.net:25461/eric/eric/34635
+#EXTINF:-1,DOCUMENTARY
+http://www.sansat.net:25461/eric/eric/34634
+#EXTINF:-1,DTOUR
+http://www.sansat.net:25461/eric/eric/34633
+#EXTINF:-1,E! CANADA
+http://www.sansat.net:25461/eric/eric/34632
+#EXTINF:-1,ENCORE 1 EAST
+http://www.sansat.net:25461/eric/eric/34631
+#EXTINF:-1,ENCORE 2 EAST
+http://www.sansat.net:25461/eric/eric/34630
+#EXTINF:-1,EVASION
+http://www.sansat.net:25461/eric/eric/34629
+#EXTINF:-1,FAMILY CHRGD
+http://www.sansat.net:25461/eric/eric/34628
+#EXTINF:-1,FAMILY EAST
+http://www.sansat.net:25461/eric/eric/34627
+#EXTINF:-1,FAMILY JR
+http://www.sansat.net:25461/eric/eric/34626
+#EXTINF:-1,FAMILY WEST
+http://www.sansat.net:25461/eric/eric/34625
+#EXTINF:-1,FIGHT NETWORK
+http://www.sansat.net:25461/eric/eric/34624
+#EXTINF:-1,FOOD NETWORK
+http://www.sansat.net:25461/eric/eric/34623
+#EXTINF:-1,FOX EAST
+http://www.sansat.net:25461/eric/eric/34622
+#EXTINF:-1,FOX NEWS
+http://www.sansat.net:25461/eric/eric/34621
+#EXTINF:-1,FOX WEST
+http://www.sansat.net:25461/eric/eric/34620
+#EXTINF:-1,FRISSON
+http://www.sansat.net:25461/eric/eric/34619
+#EXTINF:-1,FTV CANADA
+http://www.sansat.net:25461/eric/eric/34618
+#EXTINF:-1,FYI
+http://www.sansat.net:25461/eric/eric/34617
+#EXTINF:-1,Game TV
+http://www.sansat.net:25461/eric/eric/34616
+#EXTINF:-1,GINX ESPORTS TV CANADA
+http://www.sansat.net:25461/eric/eric/34615
+#EXTINF:-1,GLOBAL HALIFAX
+http://www.sansat.net:25461/eric/eric/34614
+#EXTINF:-1,GLOBAL TORONTO
+http://www.sansat.net:25461/eric/eric/34613
+#EXTINF:-1,GLOBAL VANCOUVER
+http://www.sansat.net:25461/eric/eric/34612
+#EXTINF:-1,GOLF
+http://www.sansat.net:25461/eric/eric/34611
+#EXTINF:-1,GSN
+http://www.sansat.net:25461/eric/eric/34610
+#EXTINF:-1,GUSTO
+http://www.sansat.net:25461/eric/eric/34609
+#EXTINF:-1,H2 CANADA
+http://www.sansat.net:25461/eric/eric/34608
+#EXTINF:-1,HBO 1
+http://www.sansat.net:25461/eric/eric/34607
+#EXTINF:-1,HBO 2
+http://www.sansat.net:25461/eric/eric/34606
+#EXTINF:-1,HGTV
+http://www.sansat.net:25461/eric/eric/34605
+#EXTINF:-1,HISTORY
+http://www.sansat.net:25461/eric/eric/34604
+#EXTINF:-1,HLN
+http://www.sansat.net:25461/eric/eric/34603
+#EXTINF:-1,HOPE TV
+http://www.sansat.net:25461/eric/eric/34602
+#EXTINF:-1,ICI VANCOUVER
+http://www.sansat.net:25461/eric/eric/34601
+#EXTINF:-1,ID CANADA
+http://www.sansat.net:25461/eric/eric/34600
+#EXTINF:-1,IFC
+http://www.sansat.net:25461/eric/eric/34599
+#EXTINF:-1,JOY TV
+http://www.sansat.net:25461/eric/eric/34598
+#EXTINF:-1,KNOWLEDGE KIDS
+http://www.sansat.net:25461/eric/eric/34597
+#EXTINF:-1,KTLA
+http://www.sansat.net:25461/eric/eric/34596
+#EXTINF:-1,LEAFS TV
+http://www.sansat.net:25461/eric/eric/34595
+#EXTINF:-1,LIFETIME
+http://www.sansat.net:25461/eric/eric/34594
+#EXTINF:-1,MAKEFUL
+http://www.sansat.net:25461/eric/eric/34593
+#EXTINF:-1,MAVTV CANADA
+http://www.sansat.net:25461/eric/eric/34592
+#EXTINF:-1,MIRACLE
+http://www.sansat.net:25461/eric/eric/34591
+#EXTINF:-1,MLB NETWORK
+http://www.sansat.net:25461/eric/eric/34590
+#EXTINF:-1,MTIME
+http://www.sansat.net:25461/eric/eric/34589
+#EXTINF:-1,MTV
+http://www.sansat.net:25461/eric/eric/34588
+#EXTINF:-1,MTV 2
+http://www.sansat.net:25461/eric/eric/34587
+#EXTINF:-1,MUCH MUSIC
+http://www.sansat.net:25461/eric/eric/34586
+#EXTINF:-1,NAT GEO
+http://www.sansat.net:25461/eric/eric/34585
+#EXTINF:-1,NBA TV
+http://www.sansat.net:25461/eric/eric/34584
+#EXTINF:-1,NBC EAST
+http://www.sansat.net:25461/eric/eric/34583
+#EXTINF:-1,NBC WEST
+http://www.sansat.net:25461/eric/eric/34582
+#EXTINF:-1,NFL NETWORK
+http://www.sansat.net:25461/eric/eric/34581
+#EXTINF:-1,NICK
+http://www.sansat.net:25461/eric/eric/34580
+#EXTINF:-1,NTV
+http://www.sansat.net:25461/eric/eric/34579
+#EXTINF:-1,OLN
+http://www.sansat.net:25461/eric/eric/34578
+#EXTINF:-1,OMNI 1
+http://www.sansat.net:25461/eric/eric/34577
+#EXTINF:-1,OMNI 2
+http://www.sansat.net:25461/eric/eric/34576
+#EXTINF:-1,OMNI BC
+http://www.sansat.net:25461/eric/eric/34575
+#EXTINF:-1,OMNI EAST
+http://www.sansat.net:25461/eric/eric/34574
+#EXTINF:-1,ONE
+http://www.sansat.net:25461/eric/eric/34573
+#EXTINF:-1,OUTTV
+http://www.sansat.net:25461/eric/eric/34572
+#EXTINF:-1,OWN
+http://www.sansat.net:25461/eric/eric/34571
+#EXTINF:-1,PBS EAST
+http://www.sansat.net:25461/eric/eric/34570
+#EXTINF:-1,PBS WEST
+http://www.sansat.net:25461/eric/eric/34569
+#EXTINF:-1,PEACH TREE
+http://www.sansat.net:25461/eric/eric/34568
+#EXTINF:-1,PRISE
+http://www.sansat.net:25461/eric/eric/34567
+#EXTINF:-1,RT AMERICA
+http://www.sansat.net:25461/eric/eric/34566
+#EXTINF:-1,SHOPPING
+http://www.sansat.net:25461/eric/eric/34565
+#EXTINF:-1,SHOWCASE EAST
+http://www.sansat.net:25461/eric/eric/34564
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://www.sansat.net:25461/eric/eric/34563
+#EXTINF:-1,SLICE
+http://www.sansat.net:25461/eric/eric/34562
+#EXTINF:-1,SMITHSONIAN
+http://www.sansat.net:25461/eric/eric/34561
+#EXTINF:-1,SPACE
+http://www.sansat.net:25461/eric/eric/34560
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://www.sansat.net:25461/eric/eric/34559
+#EXTINF:-1,SPORTSNET 360
+http://www.sansat.net:25461/eric/eric/34558
+#EXTINF:-1,SPORTSNET EAST
+http://www.sansat.net:25461/eric/eric/34557
+#EXTINF:-1,SPORTSNET ONE
+http://www.sansat.net:25461/eric/eric/34556
+#EXTINF:-1,SPORTSNET ONTARIO
+http://www.sansat.net:25461/eric/eric/34555
+#EXTINF:-1,SPORTSNET PACIFIC
+http://www.sansat.net:25461/eric/eric/34554
+#EXTINF:-1,SPORTSNET WEST
+http://www.sansat.net:25461/eric/eric/34553
+#EXTINF:-1,SPORTSNET WORLD
+http://www.sansat.net:25461/eric/eric/34552
+#EXTINF:-1,SUPER CHANNEL FUSE
+http://www.sansat.net:25461/eric/eric/34551
+#EXTINF:-1,SUPER CHANNEL HEART & HOME
+http://www.sansat.net:25461/eric/eric/34550
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://www.sansat.net:25461/eric/eric/34549
+#EXTINF:-1,TCM
+http://www.sansat.net:25461/eric/eric/34548
+#EXTINF:-1,TELE LATINO
+http://www.sansat.net:25461/eric/eric/34547
+#EXTINF:-1,TELE TOON EAST
+http://www.sansat.net:25461/eric/eric/34546
+#EXTINF:-1,TELE TOON WEST
+http://www.sansat.net:25461/eric/eric/34545
+#EXTINF:-1,TELEMAGINO
+http://www.sansat.net:25461/eric/eric/34544
+#EXTINF:-1,TFO
+http://www.sansat.net:25461/eric/eric/34543
+#EXTINF:-1,THE WEATHER NETWORK
+http://www.sansat.net:25461/eric/eric/34542
+#EXTINF:-1,TLC CANADA
+http://www.sansat.net:25461/eric/eric/34541
+#EXTINF:-1,TMN 1
+http://www.sansat.net:25461/eric/eric/34540
+#EXTINF:-1,TMN 2
+http://www.sansat.net:25461/eric/eric/34539
+#EXTINF:-1,TMN 3
+http://www.sansat.net:25461/eric/eric/34538
+#EXTINF:-1,TMN 4
+http://www.sansat.net:25461/eric/eric/34537
+#EXTINF:-1,TRAVEL   ESCAPE
+http://www.sansat.net:25461/eric/eric/34536
+#EXTINF:-1,TREEHOUSE
+http://www.sansat.net:25461/eric/eric/34535
+#EXTINF:-1,TSN 1
+http://www.sansat.net:25461/eric/eric/34534
+#EXTINF:-1,TSN 2
+http://www.sansat.net:25461/eric/eric/34533
+#EXTINF:-1,TSN 3
+http://www.sansat.net:25461/eric/eric/34532
+#EXTINF:-1,TSN 4
+http://www.sansat.net:25461/eric/eric/34531
+#EXTINF:-1,TSN 5
+http://www.sansat.net:25461/eric/eric/34530
+#EXTINF:-1,TVA GATINEAU
+http://www.sansat.net:25461/eric/eric/34529
+#EXTINF:-1,TVO
+http://www.sansat.net:25461/eric/eric/34528
+#EXTINF:-1,UNIS TV
+http://www.sansat.net:25461/eric/eric/34527
+#EXTINF:-1,VISION
+http://www.sansat.net:25461/eric/eric/34526
+#EXTINF:-1,W NETWORK
+http://www.sansat.net:25461/eric/eric/34525
+#EXTINF:-1,WFN
+http://www.sansat.net:25461/eric/eric/34524
+#EXTINF:-1,WGN
+http://www.sansat.net:25461/eric/eric/34523
+#EXTINF:-1,Wild TV
+http://www.sansat.net:25461/eric/eric/34522
+#EXTINF:-1,WSBK
+http://www.sansat.net:25461/eric/eric/34521
+#EXTINF:-1,YES TV
+http://www.sansat.net:25461/eric/eric/34520
+#EXTINF:-1,YTV
+http://www.sansat.net:25461/eric/eric/34519
+#EXTINF:-1,YTV West
+http://www.sansat.net:25461/eric/eric/34518
+#EXTINF:-1,RADIO CANADA
+http://www.sansat.net:25461/eric/eric/34517
+#EXTINF:-1,CBC CALGARY
+http://www.sansat.net:25461/eric/eric/34516
+#EXTINF:-1,CBC CHARLOTTETOWN
+http://www.sansat.net:25461/eric/eric/34515
+#EXTINF:-1,CBC EDMONTON
+http://www.sansat.net:25461/eric/eric/34514
+#EXTINF:-1,CBC FREDERICTON
+http://www.sansat.net:25461/eric/eric/34513
+#EXTINF:-1,CBC HALIFAX
+http://www.sansat.net:25461/eric/eric/34512
+#EXTINF:-1,CBC NATIONAL
+http://www.sansat.net:25461/eric/eric/34511
+#EXTINF:-1,CBC REGINA
+http://www.sansat.net:25461/eric/eric/34510
+#EXTINF:-1,CBC ST.JOHN
+http://www.sansat.net:25461/eric/eric/34509
+#EXTINF:-1,CBC VANCOVER
+http://www.sansat.net:25461/eric/eric/34508
+#EXTINF:-1,CBC WINDSOR
+http://www.sansat.net:25461/eric/eric/34507
+#EXTINF:-1,CBC WINNIPEG
+http://www.sansat.net:25461/eric/eric/34506
+#EXTINF:-1,CBC YELLOWKNIFE
+http://www.sansat.net:25461/eric/eric/34505
+#EXTINF:-1,GLOBAL CALGRAY
+http://www.sansat.net:25461/eric/eric/34504
+#EXTINF:-1,GLOBAL TORONTO HD
+http://www.sansat.net:25461/eric/eric/34503
