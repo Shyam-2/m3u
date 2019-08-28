@@ -1,29 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Eleven Sport 1
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3558.m3u8
-#EXTINF:-1,PL: Eleven Sports 2
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3309.m3u8
-#EXTINF:-1,PL: Eleven Sports 3
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/71092.m3u8
-#EXTINF:-1,PL: Eleven Sports 4
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3310.m3u8
-#EXTINF:-1,EUROSPORT
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3553.m3u8
-#EXTINF:-1, Extreme Sports
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3554.m3u8
-#EXTINF:-1,Canal+ Sport 1 HD
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3556.m3u8
-#EXTINF:-1,Canal+ Sport 2 HD
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3555.m3u8
-#EXTINF:-1,Fightbox
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3552.m3u8
-#EXTINF:-1,Polsat Sport
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3559.m3u8
-#EXTINF:-1,Polsat Sport EXTRA
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3560.m3u8
-#EXTINF:-1,Polsat Sport News HD
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3557.m3u8
-#EXTINF:-1,nSport  HD
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3551.m3u8
-#EXTINF:-1,TVP Sport
-http://lltv.xyz:80/live/ianjones123/x8k9ntIkHG/3561.m3u8
+#EXTINF:0,Jim Jam
+http://188.35.9.26:9031/udp/103s
+#EXTINF:0,Travel Channel HD
+http://188.35.9.26:14031/udp/174m
+#EXTINF:0,CI
+http://188.35.9.26:14031/udp/160x
+#EXTINF:0,Disney XD
+http://188.35.9.26:9031/udp/108j
+#EXTINF:0,Viasat Explore HD
+http://188.35.9.26:9031/udp/107h
+#EXTINF:0,Planete
+http://188.35.9.26:8031/udp/086y
+#EXTINF:0,Teletoon HD
+http://188.35.9.26:8031/udp/085t
+#EXTINF:0,DTX
+http://188.35.9.26:12030/udp/129q
+#EXTINF:0,nSport
+http://188.35.9.26:12030/udp/126b
+#EXTINF:0,Satellite TV Film HD
+http://188.35.9.26:8031/udp/084r
+#EXTINF:0,Disney
+http://188.35.9.26:7030/udp/111w
+#EXTINF:0,Boomerang HD
+http://188.35.9.26:16030/udp/177j
+#EXTINF:0,ATM
+http://188.35.9.26:9031/udp/111z
+#EXTINF:0,AXN White
+http://188.35.9.26:9031/udp/104d
+#EXTINF:0,Satellite TV Family
+http://188.35.9.26:8031/udp/088i
+#EXTINF:0,Discovery HD
+http://188.35.9.26:12030/udp/131e
+#EXTINF:0,Nicktoons HD
+http://188.35.9.26:2031/udp/042l
+#EXTINF:0,TV Republika
+http://188.35.9.26:16030/udp/175g
+#EXTINF:0,ID HD 
+http://188.35.9.26:12030/udp/128m
