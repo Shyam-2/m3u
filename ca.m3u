@@ -1,91 +1,459 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mylivechannels.com/uploads/thumbs/1539608495_icon.png" group-title="",5AAB Music Channel
-http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV (Opt-1)
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV (Opt-2)
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gaundapunjab.ca/img/page-images/logo.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/54iDWZU.png" group-title="",Canal Savoir
-https://bc1.canalsavoir.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/ca/CBCNews.ca.png" group-title="News",CBC News
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" group-title="",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-id="CPAC (Francais)-CA" tvg-name="CPAC (Francais)-CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/2000px-2016_CPAC_logo.svg.png" group-title="",CPAC (Francais)
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aTWFaPn.png" group-title="",E9 Punjabi
-http://cdn.samtv.ca/e9punjabi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://eettv.com/wp-content/uploads/2018/05/eet.png" group-title="",EET TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpgg" group-title="",EMCI TV (Montréal)
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.firstonetv.net/images/logos/in/HAMDARD.png" group-title="",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sport",Hard Knocks Fighting
-https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" group-title="",ICI Télévision (Opt-1)
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w1610652848_b4160000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="",ICI Télévision (Opt-2)
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Life TV
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png" group-title="",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="",NTV (CJON-DT)
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6L0gjes.jpg" group-title="",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/space.png" group-title="",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/ca/SportsnetOntario.ca.png" group-title="Sport",Sports Net Ontario
-http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tamil Vision TV (Opt-1)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (Opt-2)
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/shopping_channel.png" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VBS (Opt-1)
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VBS (Opt-2)
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTM3U
+#EXTINF:-1,A & E
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13836.m3u8
+#EXTINF:-1,ABC EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13835.m3u8
+#EXTINF:-1,ABC SPARK CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13834.m3u8
+#EXTINF:-1,ABC WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13833.m3u8
+#EXTINF:-1,ACTION
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13832.m3u8
+#EXTINF:-1,ADDIK TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13831.m3u8
+#EXTINF:-1,AHC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13830.m3u8
+#EXTINF:-1,AMC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13829.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13828.m3u8
+#EXTINF:-1,APTN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13827.m3u8
+#EXTINF:-1,ARTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13826.m3u8
+#EXTINF:-1,Assemblée Nationale Québec
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13825.m3u8
+#EXTINF:-1,BBC CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13824.m3u8
+#EXTINF:-1,BBC KIDS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13823.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13822.m3u8
+#EXTINF:-1,BET
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13821.m3u8
+#EXTINF:-1,BNN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13820.m3u8
+#EXTINF:-1,BOOK TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13819.m3u8
+#EXTINF:-1,BRAVO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13818.m3u8
+#EXTINF:-1,CANAL D
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13817.m3u8
+#EXTINF:-1,CANAL SAVOIR
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13816.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13815.m3u8
+#EXTINF:-1,CASA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13814.m3u8
+#EXTINF:-1,CBC MONTREAL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13813.m3u8
+#EXTINF:-1,CBC NEWS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13812.m3u8
+#EXTINF:-1,CBC OTTAWA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13811.m3u8
+#EXTINF:-1,CBC TORONTO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13810.m3u8
+#EXTINF:-1,CBC VANCOUVER
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13809.m3u8
+#EXTINF:-1,CBS EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13808.m3u8
+#EXTINF:-1,CBS WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13807.m3u8
+#EXTINF:-1,CHCH
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13806.m3u8
+#EXTINF:-1,CINEPOP
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13805.m3u8
+#EXTINF:-1,CITY MONTREAL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13804.m3u8
+#EXTINF:-1,CITY SASKATCHEWAN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13803.m3u8
+#EXTINF:-1,CITY TORONTO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13802.m3u8
+#EXTINF:-1,CITY VANCOUVER
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13801.m3u8
+#EXTINF:-1,CITY WINNIPEG
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13800.m3u8
+#EXTINF:-1,CMT CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13799.m3u8
+#EXTINF:-1,CNBC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13798.m3u8
+#EXTINF:-1,CNN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13797.m3u8
+#EXTINF:-1,CNN INTERNATIONAL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13796.m3u8
+#EXTINF:-1,COMEDY EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13795.m3u8
+#EXTINF:-1,COMEDY GOLD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13794.m3u8
+#EXTINF:-1,COMEDY WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13793.m3u8
+#EXTINF:-1,COOKING CHANNEL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13792.m3u8
+#EXTINF:-1,COSMO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13791.m3u8
+#EXTINF:-1,COTTAGE LIFE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13790.m3u8
+#EXTINF:-1,CP24
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13789.m3u8
+#EXTINF:-1,CPAC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13788.m3u8
+#EXTINF:-1,CPAC FRENCH
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13787.m3u8
+#EXTINF:-1,CRIME   INVEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13786.m3u8
+#EXTINF:-1,CTV 2 VANCOUVER
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13785.m3u8
+#EXTINF:-1,CTV HALIFAX
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13784.m3u8
+#EXTINF:-1,CTV NEWS NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13783.m3u8
+#EXTINF:-1,CTV OTTAWA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13782.m3u8
+#EXTINF:-1,CTV TORONTO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13781.m3u8
+#EXTINF:-1,CTV VANCOUVER
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13780.m3u8
+#EXTINF:-1,CTV2 OTTAWA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13779.m3u8
+#EXTINF:-1,CW 11
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13778.m3u8
+#EXTINF:-1,DAYSTAR TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13777.m3u8
+#EXTINF:-1,DEJAVIEW
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13776.m3u8
+#EXTINF:-1,DISCOVERY CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13775.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13774.m3u8
+#EXTINF:-1,DISNEY CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13773.m3u8
+#EXTINF:-1,DISNEY FRENCH
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13772.m3u8
+#EXTINF:-1,DISNEY JR
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13771.m3u8
+#EXTINF:-1,DIY
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13770.m3u8
+#EXTINF:-1,DOCUMENTARY
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13769.m3u8
+#EXTINF:-1,DTOUR
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13768.m3u8
+#EXTINF:-1,E! CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13767.m3u8
+#EXTINF:-1,ENCORE 1 EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13766.m3u8
+#EXTINF:-1,ENCORE 2 EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13765.m3u8
+#EXTINF:-1,EVASION
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13764.m3u8
+#EXTINF:-1,FAMILY CHRGD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13763.m3u8
+#EXTINF:-1,FAMILY EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13762.m3u8
+#EXTINF:-1,FAMILY JR
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13761.m3u8
+#EXTINF:-1,FAMILY WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13760.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13759.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13758.m3u8
+#EXTINF:-1,FOX EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13757.m3u8
+#EXTINF:-1,FOX NEWS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13756.m3u8
+#EXTINF:-1,FOX WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13755.m3u8
+#EXTINF:-1,FTV CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13754.m3u8
+#EXTINF:-1,FYI
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13753.m3u8
+#EXTINF:-1,Game TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13752.m3u8
+#EXTINF:-1,GINX ESPORTS TV CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13751.m3u8
+#EXTINF:-1,GLOBAL HALIFAX
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13750.m3u8
+#EXTINF:-1,GLOBAL TORONTO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13749.m3u8
+#EXTINF:-1,GLOBAL VANCOUVER
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13748.m3u8
+#EXTINF:-1,GOLF
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13747.m3u8
+#EXTINF:-1,GOLF HD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13746.m3u8
+#EXTINF:-1,GSN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13745.m3u8
+#EXTINF:-1,GUSTO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13744.m3u8
+#EXTINF:-1,H2 CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13743.m3u8
+#EXTINF:-1,HBO 1
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13742.m3u8
+#EXTINF:-1,HBO 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13741.m3u8
+#EXTINF:-1,HGTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13740.m3u8
+#EXTINF:-1,HISTORIO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13739.m3u8
+#EXTINF:-1,HISTORY
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13738.m3u8
+#EXTINF:-1,HLN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13737.m3u8
+#EXTINF:-1,HOPE TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13736.m3u8
+#EXTINF:-1,HPI TV (HORSE RACING)
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13735.m3u8
+#EXTINF:-1,ICI MONTREAL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13734.m3u8
+#EXTINF:-1,ICI VANCOUVER
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13733.m3u8
+#EXTINF:-1,ID CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13732.m3u8
+#EXTINF:-1,IFC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13731.m3u8
+#EXTINF:-1,JOY TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13730.m3u8
+#EXTINF:-1,KNOWLEDGE KIDS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13729.m3u8
+#EXTINF:-1,KTLA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13728.m3u8
+#EXTINF:-1,LCN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13727.m3u8
+#EXTINF:-1,LEAFS TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13726.m3u8
+#EXTINF:-1,LIFETIME
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13725.m3u8
+#EXTINF:-1,MAKEFUL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13724.m3u8
+#EXTINF:-1,MAX
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13723.m3u8
+#EXTINF:-1,METEO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13722.m3u8
+#EXTINF:-1,MIRACLE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13721.m3u8
+#EXTINF:-1,MLB NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13720.m3u8
+#EXTINF:-1,MOI CIE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13719.m3u8
+#EXTINF:-1,MTIME
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13718.m3u8
+#EXTINF:-1,MTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13717.m3u8
+#EXTINF:-1,MTV 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13716.m3u8
+#EXTINF:-1,MUCH MUSIC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13715.m3u8
+#EXTINF:-1,MUSIQUE PLUS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13714.m3u8
+#EXTINF:-1,NAT GEO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13713.m3u8
+#EXTINF:-1,NBA TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13712.m3u8
+#EXTINF:-1,NBC EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13711.m3u8
+#EXTINF:-1,NBC WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13710.m3u8
+#EXTINF:-1,NICK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13709.m3u8
+#EXTINF:-1,NICKTOON
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13708.m3u8
+#EXTINF:-1,NTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13707.m3u8
+#EXTINF:-1,OLN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13706.m3u8
+#EXTINF:-1,OMNI 1
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13705.m3u8
+#EXTINF:-1,OMNI 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13704.m3u8
+#EXTINF:-1,OMNI BC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13703.m3u8
+#EXTINF:-1,OMNI EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13702.m3u8
+#EXTINF:-1,ONE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13701.m3u8
+#EXTINF:-1,OUTTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13700.m3u8
+#EXTINF:-1,OWN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13699.m3u8
+#EXTINF:-1,PBS EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13698.m3u8
+#EXTINF:-1,PBS WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13697.m3u8
+#EXTINF:-1,PEACH TREE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13696.m3u8
+#EXTINF:-1,PRISE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13695.m3u8
+#EXTINF:-1,RDI
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13694.m3u8
+#EXTINF:-1,RDS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13693.m3u8
+#EXTINF:-1,RDS 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13692.m3u8
+#EXTINF:-1,RDS INFO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13691.m3u8
+#EXTINF:-1,SERIS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13690.m3u8
+#EXTINF:-1,SHOPPING
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13689.m3u8
+#EXTINF:-1,SHOWCASE EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13688.m3u8
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13687.m3u8
+#EXTINF:-1,SLICE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13686.m3u8
+#EXTINF:-1,SMITHSONIAN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13685.m3u8
+#EXTINF:-1,SPACE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13684.m3u8
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13683.m3u8
+#EXTINF:-1,SPORTSNET 360
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13682.m3u8
+#EXTINF:-1,SPORTSNET EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13681.m3u8
+#EXTINF:-1,SPORTSNET ONE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13680.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13679.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13678.m3u8
+#EXTINF:-1,SPORTSNET WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13677.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13676.m3u8
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13675.m3u8
+#EXTINF:-1,SUPER ECRAN 1
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13674.m3u8
+#EXTINF:-1,SUPER ECRAN 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13673.m3u8
+#EXTINF:-1,SUPER ECRAN 3
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13672.m3u8
+#EXTINF:-1,SUPER ECRAN 4
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13671.m3u8
+#EXTINF:-1,TCM
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13670.m3u8
+#EXTINF:-1,TELE LATINO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13669.m3u8
+#EXTINF:-1,TELE QUEBEC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13668.m3u8
+#EXTINF:-1,TELE TOON EAST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13667.m3u8
+#EXTINF:-1,TELE TOON FRENCH
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13666.m3u8
+#EXTINF:-1,TELE TOON WEST
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13665.m3u8
+#EXTINF:-1,TELEMAGINO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13664.m3u8
+#EXTINF:-1,TFO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13663.m3u8
+#EXTINF:-1,THE WEATHER NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13662.m3u8
+#EXTINF:-1,TLC CANADA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13661.m3u8
+#EXTINF:-1,TMN 1
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13660.m3u8
+#EXTINF:-1,TMN 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13659.m3u8
+#EXTINF:-1,TMN 3
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13658.m3u8
+#EXTINF:-1,TMN 4
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13657.m3u8
+#EXTINF:-1,TRAVEL   ESCAPE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13656.m3u8
+#EXTINF:-1,TREEHOUSE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13655.m3u8
+#EXTINF:-1,TSN 1 FHD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13654.m3u8
+#EXTINF:-1,TSN 2 FHD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13653.m3u8
+#EXTINF:-1,TSN 3 FHD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13652.m3u8
+#EXTINF:-1,TSN 4 FHD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13651.m3u8
+#EXTINF:-1,TSN 5 FHD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13650.m3u8
+#EXTINF:-1,TV5 QUEBEC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13649.m3u8
+#EXTINF:-1,TVA GATINEAU
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13648.m3u8
+#EXTINF:-1,TVA MONTREAL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13647.m3u8
+#EXTINF:-1,TVA QUEBEC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13646.m3u8
+#EXTINF:-1,TVA SPORTS
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13645.m3u8
+#EXTINF:-1,TVO
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13644.m3u8
+#EXTINF:-1,UNIS TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13643.m3u8
+#EXTINF:-1,V MONTREAL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13642.m3u8
+#EXTINF:-1,V QUEBEC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13641.m3u8
+#EXTINF:-1,VIE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13640.m3u8
+#EXTINF:-1,VISION
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13639.m3u8
+#EXTINF:-1,VRAK TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13638.m3u8
+#EXTINF:-1,W NETWORK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13637.m3u8
+#EXTINF:-1,WFN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13636.m3u8
+#EXTINF:-1,WGN
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13635.m3u8
+#EXTINF:-1,Wild TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13634.m3u8
+#EXTINF:-1,WSBK
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13633.m3u8
+#EXTINF:-1,YES TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13632.m3u8
+#EXTINF:-1,YOOPA
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13631.m3u8
+#EXTINF:-1,YTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13630.m3u8
+#EXTINF:-1,YTV West
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13629.m3u8
+#EXTINF:-1,Z TELE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13628.m3u8
+#EXTINF:-1,ZESTE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/13627.m3u8
+#EXTINF:-1,ABC SPARK HD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15171.m3u8
+#EXTINF:-1,CMT
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15170.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15169.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15168.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15167.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15166.m3u8
+#EXTINF:-1,E!
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15165.m3u8
+#EXTINF:-1,FTV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15164.m3u8
+#EXTINF:-1,GINX ESPORTS TV
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15163.m3u8
+#EXTINF:-1,H2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15162.m3u8
+#EXTINF:-1,ID
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15161.m3u8
+#EXTINF:-1,SERIES
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15160.m3u8
+#EXTINF:-1,SPORTSNET ONE HD
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15159.m3u8
+#EXTINF:-1,THE MOVIE NETWORK 1
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15157.m3u8
+#EXTINF:-1,THE MOVIE NETWORK 2
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15156.m3u8
+#EXTINF:-1,THE MOVIE NETWORK 3
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15155.m3u8
+#EXTINF:-1,THE MOVIE NETWORK 4
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15154.m3u8
+#EXTINF:-1,TLC
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15158.m3u8
+#EXTINF:-1,TRAVEL  ESCAPE
+http://ip1world.dyndns.tv:25461/live/asuks/K3I0WZcwmx/15153.m3u8
