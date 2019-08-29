@@ -1,113 +1,165 @@
 #EXTM3U
-#EXTINF:-1,AXN Action
-http://91.43.99.126:8000/play/a04z/index.m3u8
-#EXTINF:-1,Animal Planet
-http://91.43.99.126:8000/play/a05f/index.m3u8
-#EXTINF:-1,Astro TV
-http://91.43.99.126:8000/play/a03s/index.m3u8
-#EXTINF:-1,BabyTV
-http://91.43.99.126:8000/play/a03k/index.m3u8
-#EXTINF:-1,Bibel TV
-http://91.43.99.126:8000/play/a04d/index.m3u8
-#EXTINF:-1,BonGusto
-http://91.43.99.126:8000/play/a049/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://91.43.99.126:8000/play/a04e/index.m3u8
-#EXTINF:-1,Crime&Investigation
-http://91.43.99.126:8000/play/a053/index.m3u8
-#EXTINF:-1,DELUXE MUSIC
-http://91.43.99.126:8000/play/a04s/index.m3u8
-#EXTINF:-1,E! Entertainment
-http://91.43.99.126:8000/play/a04b/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://91.43.99.126:8000/play/a048/index.m3u8
-#EXTINF:-1,Fashion TV
-http://91.43.99.126:8000/play/a04a/index.m3u8
-#EXTINF:-1,Fix&Foxi
-http://91.43.99.126:8000/play/a03i/index.m3u8
+#EXTINF:-1,13th Street
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1488
+#EXTINF:-1,3 sat
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1865
+#EXTINF:-1,Anixe
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2410
+#EXTINF:-1,Arte
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2630
+#EXTINF:-1,Astro
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2422
+#EXTINF:-1,Atv HD
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2436
+#EXTINF:-1,Axn
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/619
+#EXTINF:-1,Comedy Central / Viva
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2775
+#EXTINF:-1,Das Erste
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2631
+#EXTINF:-1,Discovery
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1484
+#EXTINF:-1,Disney Ch
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1493
+#EXTINF:-1,Dmax
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2430
+#EXTINF:-1,Drf1
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2424
+#EXTINF:-1,Dw News
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10208
+#EXTINF:-1,A & E
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1491
+#EXTINF:-1,EuroSport
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2439
+#EXTINF:-1,Fox
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2421
 #EXTINF:-1,Fox Serie
-http://91.43.99.126:8000/play/a05s/index.m3u8
-#EXTINF:-1,Fox Serie (S)
-http://91.43.99.126:8000/play/a05i/index.m3u8
-#EXTINF:-1,Gute Laune TV
-http://91.43.99.126:8000/play/a050/index.m3u8
-#EXTINF:-1,HISTORY
-http://91.43.99.126:8000/play/a04x/index.m3u8
-#EXTINF:-1,HOPE CHANNEL
-http://91.43.99.126:8000/play/a03n/index.m3u8
-#EXTINF:-1,HSE24
-http://91.43.99.126:8000/play/a04r/index.m3u8
-#EXTINF:-1,HSE24 EXTRA
-http://91.43.99.126:8000/play/a04t/index.m3u8
-#EXTINF:-1,HSE24 TREND
-http://91.43.99.126:8000/play/a04k/index.m3u8
-#EXTINF:-1,Handystar
-http://91.43.99.126:8000/play/a04o/index.m3u8
-#EXTINF:-1,Health TV
-http://91.43.99.126:8000/play/a03y/index.m3u8
-#EXTINF:-1,Heimatkanal
-http://91.43.99.126:8000/play/a05k/index.m3u8
-#EXTINF:-1,Juwelo
-http://91.43.99.126:8000/play/a04p/index.m3u8
-#EXTINF:-1,Kinowelt TV
-http://91.43.99.126:8000/play/a04y/index.m3u8
-#EXTINF:-1,National Geographic Wild
-http://91.43.99.126:8000/play/a03m/index.m3u8
-#EXTINF:-1,Nick Jr.
-http://91.43.99.126:8000/play/a03l/index.m3u8
-#EXTINF:-1,Nicktoons
-http://91.43.99.126:8000/play/a03j/index.m3u8
-#EXTINF:-1,Penthouse Passion
-http://91.43.99.126:8000/play/a04c/index.m3u8
-#EXTINF:-1,ProSieben FUN
-http://91.43.99.126:8000/play/a04u/index.m3u8
-#EXTINF:-1,QVC
-http://91.43.99.126:8000/play/a04q/index.m3u8
-#EXTINF:-1,QVC Style
-http://91.43.99.126:8000/play/a04v/index.m3u8
-#EXTINF:-1,QVC2
-http://91.43.99.126:8000/play/a04l/index.m3u8
-#EXTINF:-1,RTL Living
-http://91.43.99.126:8000/play/a05a/index.m3u8
-#EXTINF:-1,RiC
-http://91.43.99.126:8000/play/a04m/index.m3u8
-#EXTINF:-1,Romance TV
-http://91.43.99.126:8000/play/a05r/index.m3u8
-#EXTINF:-1,SYFY
-http://91.43.99.126:8000/play/a05t/index.m3u8
-#EXTINF:-1,SYFY (S)
-http://91.43.99.126:8000/play/a05p/index.m3u8
-#EXTINF:-1,Sat.1 Emotions
-http://91.43.99.126:8000/play/a052/index.m3u8
-#EXTINF:-1,Servus TV
-http://91.43.99.126:8000/play/a04j/index.m3u8
-#EXTINF:-1,Silverline Movie Channel
-http://91.43.99.126:8000/play/a03v/index.m3u8
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1490
+#EXTINF:-1,History
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2432
+#EXTINF:-1,HR Fernsehen
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2416
+#EXTINF:-1,In tv
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2429
+#EXTINF:-1,Kabel
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1866
+#EXTINF:-1,Kabel Eins
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2417
+#EXTINF:-1,Kika
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2408
+#EXTINF:-1,N 24
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2414
+#EXTINF:-1,National Geo Wild
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/599
+#EXTINF:-1,National Geographic
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1483
+#EXTINF:-1,Ndr
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2427
+#EXTINF:-1,Nickelodeon
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2413
+#EXTINF:-1,n-tv
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2406
+#EXTINF:-1,Boomerang
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1489
+#EXTINF:-1,ProSieben
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1887
+#EXTINF:-1,ProSieben Maxx
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2420
+#EXTINF:-1,Kabel Doku
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2434
+#EXTINF:-1,Rnf
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2423
+#EXTINF:-1,Romance
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/603
+#EXTINF:-1,RTL
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/718
+#EXTINF:-1,RTL 2
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/719
+#EXTINF:-1,RTL Crime
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1486
+#EXTINF:-1,RTL Nitro
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/886
+#EXTINF:-1,RTL Passion
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1487
+#EXTINF:-1,Sat 1
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2407
+#EXTINF:-1,Sat 1 Gold
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2440
+#EXTINF:-1,Sixx
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2418
+#EXTINF:-1,Sky Action
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/581
 #EXTINF:-1,Sky Atlantic
-http://91.43.99.126:8000/play/a05o/index.m3u8
-#EXTINF:-1,Sky Sport Austria 1
-http://91.43.99.126:8000/play/a05n/index.m3u8
-#EXTINF:-1,Sport1+
-http://91.43.99.126:8000/play/a04g/index.m3u8
-#EXTINF:-1,TLC
-http://91.43.99.126:8000/play/a043/index.m3u8
-#EXTINF:-1,TNT Serie
-http://91.43.99.126:8000/play/a05u/index.m3u8
-#EXTINF:-1,TNT Serie (S)
-http://91.43.99.126:8000/play/a05q/index.m3u8
-#EXTINF:-1,TOGGO plus
-http://91.43.99.126:8000/play/a054/index.m3u8
-#EXTINF:-1,VH1 Classic
-http://91.43.99.126:8000/play/a04f/index.m3u8
-#EXTINF:-1,ZEE.ONE
-http://91.43.99.126:8000/play/a03h/index.m3u8
-#EXTINF:-1,auto motor und sport channel
-http://91.43.99.126:8000/play/a05e/index.m3u8
-#EXTINF:-1,k-tv
-http://91.43.99.126:8000/play/a04h/index.m3u8
-#EXTINF:-1,kabel eins classics
-http://91.43.99.126:8000/play/a051/index.m3u8
-#EXTINF:-1,nick/MTV+
-http://91.43.99.126:8000/play/a058/index.m3u8
-#EXTINF:-1,sportdigital
-http://91.43.99.126:8000/play/a055/index.m3u8
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1475
+#EXTINF:-1,Sky BundesLiga 1
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/83
+#EXTINF:-1,Sky BundesLiga 2
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6586
+#EXTINF:-1,Sky Cinema
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1002
+#EXTINF:-1,Sky Cinema +24
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1000
+#EXTINF:-1,Sky Comedy
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/580
+#EXTINF:-1,Sky Emotion
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/999
+#EXTINF:-1,Sky Family
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2411
+#EXTINF:-1,Sky Krimi
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1477
+#EXTINF:-1,Sky Nostalgie
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1476
+#EXTINF:-1,Sky Select 1
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6568
+#EXTINF:-1,Sky Select 2
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6567
+#EXTINF:-1,Sky Select 3
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6566
+#EXTINF:-1,Sky Select 4
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6565
+#EXTINF:-1,Sky Select 5
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6564
+#EXTINF:-1,Sky Sport 1
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/84
+#EXTINF:-1,Sky Sport 2
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/85
+#EXTINF:-1,Sky Sport Austria
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1482
+#EXTINF:-1,Sport digital
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2431
+#EXTINF:-1,Super RTL
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/889
+#EXTINF:-1,Syfy
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1480
+#EXTINF:-1,Tlc
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2412
+#EXTINF:-1,Tnt Serie
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1479
+#EXTINF:-1,Vox
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/717
+#EXTINF:-1,WDR
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2428
+#EXTINF:-1,ZDF
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/890
+#EXTINF:-1,ZDF Neo
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/1492
+#EXTINF:-1,DAZN Bar 1
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23470
+#EXTINF:-1,DAZN Bar 2
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23471
+#EXTINF:-1,EuroSport 2
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23472
+#EXTINF:-1,Universal
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23486
+#EXTINF:-1,Disney Cinemagic
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23490
+#EXTINF:-1,Disney Junior
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23489
+#EXTINF:-1,Disney XD
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23488
+#EXTINF:-1,RTL plus
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23491
+#EXTINF:-1,Kinowelt
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23507
+#EXTINF:-1,Zee One
+http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2435
