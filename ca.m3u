@@ -1,199 +1,311 @@
 #EXTM3U
-#EXTINF:-1,CP24
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9347
-#EXTINF:-1,CRIME INVESTIGATION
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9346
-#EXTINF:-1,FAMILY WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9341
-#EXTINF:-1,BRAVO
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9348
-#EXTINF:-1,FOX WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9339
-#EXTINF:-1,HBO 1
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9336
-#EXTINF:-1,HBO 2
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9335
-#EXTINF:-1,NBC EAST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9324
-#EXTINF:-1,PBS-E
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9334
-#EXTINF:-1,SHOWTIME
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9332
-#EXTINF:-1,TLC
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9331
-#EXTINF:-1,TRAVEL AND ESCAPE
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9329
-#EXTINF:-1,YES
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9326
-#EXTINF:-1,YTV-E
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9325
-#EXTINF:-1,ABC EAST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9932
+#EXTINF:-1,A&E
+http://thepk.co:2086/live/drifter1/Drifter1/16240.m3u8
+#EXTINF:-1,ABC SPARK
+http://thepk.co:2086/live/drifter1/Drifter1/3285.m3u8
 #EXTINF:-1,ABC WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9988
+http://thepk.co:2086/live/drifter1/Drifter1/3284.m3u8
 #EXTINF:-1,AMC
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9987
+http://thepk.co:2086/live/drifter1/Drifter1/3283.m3u8
+#EXTINF:-1,AMERICAN HERO'S CHANNEL
+http://thepk.co:2086/live/drifter1/Drifter1/3282.m3u8
 #EXTINF:-1,ANIMAL PLANET
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9986
-#EXTINF:-1,BBC CANADA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9885
+http://thepk.co:2086/live/drifter1/Drifter1/3281.m3u8
+#EXTINF:-1,BET
+http://thepk.co:2086/live/drifter1/Drifter1/3279.m3u8
 #EXTINF:-1,BNN
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9883
-#EXTINF:-1,CANAL SAVOIR
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9985
+http://thepk.co:2086/live/drifter1/Drifter1/3278.m3u8
+#EXTINF:-1,BRAVO
+http://thepk.co:2086/live/drifter1/Drifter1/3277.m3u8
+#EXTINF:-1,CANADA ONE
+http://thepk.co:2086/live/drifter1/Drifter1/46666.m3u8
+#EXTINF:-1,CANADA STAR TV
+http://thepk.co:2086/live/drifter1/Drifter1/46667.m3u8
 #EXTINF:-1,CARTOON NETWORK
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9928
-#EXTINF:-1,CBC NEWS
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9927
+http://thepk.co:2086/live/drifter1/Drifter1/3270.m3u8
+#EXTINF:-1,CBC
+http://thepk.co:2086/live/drifter1/Drifter1/5487.m3u8
+#EXTINF:-1,CBC CALGARY
+http://thepk.co:2086/live/drifter1/Drifter1/15274.m3u8
+#EXTINF:-1,CBC CHARLOTTETOWN
+http://thepk.co:2086/live/drifter1/Drifter1/15275.m3u8
+#EXTINF:-1,CBC EDMONTON
+http://thepk.co:2086/live/drifter1/Drifter1/15276.m3u8
+#EXTINF:-1,CBC FREDERICTON
+http://thepk.co:2086/live/drifter1/Drifter1/15277.m3u8
+#EXTINF:-1,CBC HALIFAX
+http://thepk.co:2086/live/drifter1/Drifter1/15278.m3u8
+#EXTINF:-1,CBC MONTREAL
+http://thepk.co:2086/live/drifter1/Drifter1/15279.m3u8
 #EXTINF:-1,CBC OTTAWA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9882
+http://thepk.co:2086/live/drifter1/Drifter1/15280.m3u8
+#EXTINF:-1,CBC REGINA
+http://thepk.co:2086/live/drifter1/Drifter1/15281.m3u8
+#EXTINF:-1,CBC ST JOHN'S
+http://thepk.co:2086/live/drifter1/Drifter1/15282.m3u8
+#EXTINF:-1,CBC TORONTO
+http://thepk.co:2086/live/drifter1/Drifter1/15283.m3u8
 #EXTINF:-1,CBC VANCOUVER
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9881
-#EXTINF:-1,CBS EAST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9880
-#EXTINF:-1,CBS WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9879
-#EXTINF:-1,CITY TORONTO
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9877
-#EXTINF:-1,CMT CANADA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9926
-#EXTINF:-1,CNBC
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9876
-#EXTINF:-1,CNN INTERNATIONAL
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9875
-#EXTINF:-1,COTTAGE LIFE
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9924
-#EXTINF:-1,CW 11
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9973
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9824
-#EXTINF:-1,DISNEY
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9843
-#EXTINF:-1,DISNEY FRENCH
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9971
-#EXTINF:-1,DIY
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9874
-#EXTINF:-1,FAMILY EAST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9835
-#EXTINF:-1,FOOD NETWORK
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9968
-#EXTINF:-1,FOX EAST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9868
-#EXTINF:-1,FOX NEWS
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9967
-#EXTINF:-1,FX CANADA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9838
-#EXTINF:-1,GLOBAL VANCOUVER
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9866
-#EXTINF:-1,HLN
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9871
-#EXTINF:-1,LCN
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9907
-#EXTINF:-1,MOI CIE
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9960
-#EXTINF:-1,MTV
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9958
-#EXTINF:-1,NAT GEO
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9865
-#EXTINF:-1,NBA TV
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9904
-#EXTINF:-1,NBC WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9956
-#EXTINF:-1,OMNI 1
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9953
-#EXTINF:-1,OWN
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9951
-#EXTINF:-1,RDI
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9950
-#EXTINF:-1,RDS
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9859
-#EXTINF:-1,SHOWCASE EAST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9821
-#EXTINF:-1,SMITHSONIAN
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9810
-#EXTINF:-1,SPACE
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9944
-#EXTINF:-1,SPIKE TV USA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9846
-#EXTINF:-1,SPORTSNET 360
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9915
-#EXTINF:-1,SPORTSNET ONE
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9914
-#EXTINF:-1,SPORTSNET ONTARIO
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9913
-#EXTINF:-1,SPORTSNET PACIFIC
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9943
-#EXTINF:-1,SPORTSNET WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9901
-#EXTINF:-1,SPORTSNET WORLD
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9942
-#EXTINF:-1,SUPER CHANNEL 2
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9940
-#EXTINF:-1,SUPER ECRAN 1
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9949
-#EXTINF:-1,SUPER ECRAN 2
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9948
-#EXTINF:-1,SUPER ECRAN 3
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9947
-#EXTINF:-1,SUPER ECRAN 4
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9946
-#EXTINF:-1,TCM
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9939
-#EXTINF:-1,TELE QUEBEC
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9899
-#EXTINF:-1,TELE TOON FRENCH
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9898
-#EXTINF:-1,TMN 1
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9854
-#EXTINF:-1,TMN 2
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9853
-#EXTINF:-1,TMN 3
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9839
-#EXTINF:-1,TMN 4
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9852
-#EXTINF:-1,TSN 1
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9920
-#EXTINF:-1,TSN 2
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9919
-#EXTINF:-1,TSN 3
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9918
-#EXTINF:-1,TSN 4
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9917
-#EXTINF:-1,TSN 5
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9916
-#EXTINF:-1,TV5 QUEBEC
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9819
-#EXTINF:-1,TVA GATINEAU
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9851
-#EXTINF:-1,TVA SPORTS
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9937
-#EXTINF:-1,TVO Kids
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9818
-#EXTINF:-1,VICELAND
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9850
-#EXTINF:-1,VIE
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9895
-#EXTINF:-1,VRAK TV
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9935
-#EXTINF:-1,WFN
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9893
-#EXTINF:-1,Wild TV
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9891
-#EXTINF:-1,YOOPA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/9849
-#EXTINF:-1,CITY MONTREAL
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10270
+http://thepk.co:2086/live/drifter1/Drifter1/15284.m3u8
+#EXTINF:-1,CBC WINDSOR
+http://thepk.co:2086/live/drifter1/Drifter1/15285.m3u8
+#EXTINF:-1,CBC WINNIPEG
+http://thepk.co:2086/live/drifter1/Drifter1/15286.m3u8
+#EXTINF:-1,CBC YELLOWKNIFE
+http://thepk.co:2086/live/drifter1/Drifter1/15287.m3u8
+#EXTINF:-1,CHCH
+http://thepk.co:2086/live/drifter1/Drifter1/3275.m3u8
+#EXTINF:-1,CHEK NEWS
+http://thepk.co:2086/live/drifter1/Drifter1/3274.m3u8
+#EXTINF:-1,CMT
+http://thepk.co:2086/live/drifter1/Drifter1/3271.m3u8
+#EXTINF:-1,CNN
+http://thepk.co:2086/live/drifter1/Drifter1/16216.m3u8
+#EXTINF:-1,COMEDY
+http://thepk.co:2086/live/drifter1/Drifter1/3268.m3u8
+#EXTINF:-1,COMEDY GOLD
+http://thepk.co:2086/live/drifter1/Drifter1/3267.m3u8
 #EXTINF:-1,COMEDY WEST
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10271
-#EXTINF:-1,GLOBAL HALIFAX
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10265
-#EXTINF:-1,YES TV (Alberta)
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10263
-#EXTINF:-1,RDS INFO
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10272
-#EXTINF:-1,TFO
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10273
-#EXTINF:-1,TLC CANADA
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10268
-#EXTINF:-1,UNIS TV
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/10261
+http://thepk.co:2086/live/drifter1/Drifter1/3266.m3u8
+#EXTINF:-1,COTTAGE LIFE TV
+http://thepk.co:2086/live/drifter1/Drifter1/3265.m3u8
+#EXTINF:-1,CP24
+http://thepk.co:2086/live/drifter1/Drifter1/3733.m3u8
+#EXTINF:-1,CRAVE 1
+http://thepk.co:2086/live/drifter1/Drifter1/16227.m3u8
+#EXTINF:-1,CRAVE 2
+http://thepk.co:2086/live/drifter1/Drifter1/16226.m3u8
+#EXTINF:-1,CRAVE 3
+http://thepk.co:2086/live/drifter1/Drifter1/16225.m3u8
+#EXTINF:-1,CRAVE EAST 1
+http://thepk.co:2086/live/drifter1/Drifter1/3216.m3u8
+#EXTINF:-1,CRAVE EAST 2
+http://thepk.co:2086/live/drifter1/Drifter1/3215.m3u8
+#EXTINF:-1,CRAVE EAST 3
+http://thepk.co:2086/live/drifter1/Drifter1/3214.m3u8
+#EXTINF:-1,CRAVE EAST 4
+http://thepk.co:2086/live/drifter1/Drifter1/3212.m3u8
+#EXTINF:-1,CRIME INVESTIAGTION
+http://thepk.co:2086/live/drifter1/Drifter1/3276.m3u8
+#EXTINF:-1,CTV
+http://thepk.co:2086/live/drifter1/Drifter1/3768.m3u8
+#EXTINF:-1,CTV NEWS 1 LIVE
+http://thepk.co:2086/live/drifter1/Drifter1/36343.m3u8
+#EXTINF:-1,CTV NEWS 2 LIVE
+http://thepk.co:2086/live/drifter1/Drifter1/36344.m3u8
+#EXTINF:-1,CTV NEWS 3 LIVE
+http://thepk.co:2086/live/drifter1/Drifter1/36345.m3u8
+#EXTINF:-1,CTV NEWS 4 LIVE
+http://thepk.co:2086/live/drifter1/Drifter1/36346.m3u8
+#EXTINF:-1,CTV TORONTO
+http://thepk.co:2086/live/drifter1/Drifter1/32233.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://thepk.co:2086/live/drifter1/Drifter1/3263.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://thepk.co:2086/live/drifter1/Drifter1/3262.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://thepk.co:2086/live/drifter1/Drifter1/3261.m3u8
+#EXTINF:-1,DISNEY JNR
+http://thepk.co:2086/live/drifter1/Drifter1/3260.m3u8
+#EXTINF:-1,DIY
+http://thepk.co:2086/live/drifter1/Drifter1/13236.m3u8
+#EXTINF:-1,DOCUMENTARY
+http://thepk.co:2086/live/drifter1/Drifter1/3259.m3u8
+#EXTINF:-1,E!
+http://thepk.co:2086/live/drifter1/Drifter1/13235.m3u8
+#EXTINF:-1,EVENTS CHANNEL
+http://thepk.co:2086/live/drifter1/Drifter1/3258.m3u8
+#EXTINF:-1,FAMILY
+http://thepk.co:2086/live/drifter1/Drifter1/3257.m3u8
+#EXTINF:-1,FAMILY JUNIOR
+http://thepk.co:2086/live/drifter1/Drifter1/3255.m3u8
+#EXTINF:-1,FAMILY WEST
+http://thepk.co:2086/live/drifter1/Drifter1/3256.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://thepk.co:2086/live/drifter1/Drifter1/3254.m3u8
+#EXTINF:-1,FILIPINO TV
+http://thepk.co:2086/live/drifter1/Drifter1/36446.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://thepk.co:2086/live/drifter1/Drifter1/3253.m3u8
+#EXTINF:-1,FOX
+http://thepk.co:2086/live/drifter1/Drifter1/3251.m3u8
+#EXTINF:-1,FOX NEWS
+http://thepk.co:2086/live/drifter1/Drifter1/3252.m3u8
+#EXTINF:-1,FX
+http://thepk.co:2086/live/drifter1/Drifter1/16201.m3u8
+#EXTINF:-1,FXX
+http://thepk.co:2086/live/drifter1/Drifter1/16200.m3u8
+#EXTINF:-1,FYI
+http://thepk.co:2086/live/drifter1/Drifter1/13234.m3u8
+#EXTINF:-1,GAME TV
+http://thepk.co:2086/live/drifter1/Drifter1/3249.m3u8
+#EXTINF:-1,GLOBAL EDMONTON
+http://thepk.co:2086/live/drifter1/Drifter1/3248.m3u8
+#EXTINF:-1,GLOBAL KINGSTON
+http://thepk.co:2086/live/drifter1/Drifter1/3272.m3u8
+#EXTINF:-1,GLOBAL MONTREAL
+http://thepk.co:2086/live/drifter1/Drifter1/3247.m3u8
+#EXTINF:-1,GLOBAL TORONTO
+http://thepk.co:2086/live/drifter1/Drifter1/3246.m3u8
+#EXTINF:-1,HARD KNOCKS FIGHTING
+http://thepk.co:2086/live/drifter1/Drifter1/36341.m3u8
+#EXTINF:-1,HBO 1
+http://thepk.co:2086/live/drifter1/Drifter1/3245.m3u8
+#EXTINF:-1,HBO 2
+http://thepk.co:2086/live/drifter1/Drifter1/3244.m3u8
+#EXTINF:-1,HGTV
+http://thepk.co:2086/live/drifter1/Drifter1/3243.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://thepk.co:2086/live/drifter1/Drifter1/3242.m3u8
+#EXTINF:-1,HLN
+http://thepk.co:2086/live/drifter1/Drifter1/3241.m3u8
+#EXTINF:-1,ID
+http://thepk.co:2086/live/drifter1/Drifter1/16235.m3u8
+#EXTINF:-1,IFC
+http://thepk.co:2086/live/drifter1/Drifter1/3240.m3u8
+#EXTINF:-1,KNOW
+http://thepk.co:2086/live/drifter1/Drifter1/13232.m3u8
+#EXTINF:-1,LEAFS TV
+http://thepk.co:2086/live/drifter1/Drifter1/3239.m3u8
+#EXTINF:-1,MOTORTREND
+http://thepk.co:2086/live/drifter1/Drifter1/16196.m3u8
+#EXTINF:-1,MOVIETIME
+http://thepk.co:2086/live/drifter1/Drifter1/13231.m3u8
+#EXTINF:-1,MTV
+http://thepk.co:2086/live/drifter1/Drifter1/13229.m3u8
+#EXTINF:-1,MTV 2
+http://thepk.co:2086/live/drifter1/Drifter1/13230.m3u8
+#EXTINF:-1,MUCH MUSIC
+http://thepk.co:2086/live/drifter1/Drifter1/13228.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://thepk.co:2086/live/drifter1/Drifter1/13233.m3u8
+#EXTINF:-1,NBC GOLF
+http://thepk.co:2086/live/drifter1/Drifter1/3403.m3u8
+#EXTINF:-1,NFL NETWORK
+http://thepk.co:2086/live/drifter1/Drifter1/3402.m3u8
+#EXTINF:-1,NICKELODEON
+http://thepk.co:2086/live/drifter1/Drifter1/3238.m3u8
+#EXTINF:-1,NTV NEWFOUNDLAND
+http://thepk.co:2086/live/drifter1/Drifter1/36347.m3u8
+#EXTINF:-1,OWN
+http://thepk.co:2086/live/drifter1/Drifter1/3237.m3u8
+#EXTINF:-1,PBS WEST
+http://thepk.co:2086/live/drifter1/Drifter1/3236.m3u8
+#EXTINF:-1,PEACH TREE TV
+http://thepk.co:2086/live/drifter1/Drifter1/3235.m3u8
+#EXTINF:-1,PIX 11
+http://thepk.co:2086/live/drifter1/Drifter1/3377.m3u8
+#EXTINF:-1,RT
+http://thepk.co:2086/live/drifter1/Drifter1/3234.m3u8
+#EXTINF:-1,SHOWTIME EAST
+http://thepk.co:2086/live/drifter1/Drifter1/3233.m3u8
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://thepk.co:2086/live/drifter1/Drifter1/3230.m3u8
+#EXTINF:-1,SLICE
+http://thepk.co:2086/live/drifter1/Drifter1/3231.m3u8
+#EXTINF:-1,SPACE
+http://thepk.co:2086/live/drifter1/Drifter1/3229.m3u8
+#EXTINF:-1,SPIKE
+http://thepk.co:2086/live/drifter1/Drifter1/3228.m3u8
+#EXTINF:-1,SPORTSNET 360
+http://thepk.co:2086/live/drifter1/Drifter1/3227.m3u8
+#EXTINF:-1,SPORTSNET EAST
+http://thepk.co:2086/live/drifter1/Drifter1/3226.m3u8
+#EXTINF:-1,SPORTSNET ONE
+http://thepk.co:2086/live/drifter1/Drifter1/3225.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO
+http://thepk.co:2086/live/drifter1/Drifter1/3224.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC
+http://thepk.co:2086/live/drifter1/Drifter1/3223.m3u8
+#EXTINF:-1,SPORTSNET WEST
+http://thepk.co:2086/live/drifter1/Drifter1/3222.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+http://thepk.co:2086/live/drifter1/Drifter1/3221.m3u8
+#EXTINF:-1,SUPER CHANNEL FUSE
+http://thepk.co:2086/live/drifter1/Drifter1/3232.m3u8
+#EXTINF:-1,SUPER CHANNEL GINX
+http://thepk.co:2086/live/drifter1/Drifter1/3219.m3u8
+#EXTINF:-1,TCM
+http://thepk.co:2086/live/drifter1/Drifter1/3217.m3u8
+#EXTINF:-1,TELETOON
+http://thepk.co:2086/live/drifter1/Drifter1/3205.m3u8
+#EXTINF:-1,THE MOVIE NETWORK ENCORE 1 EAST
+http://thepk.co:2086/live/drifter1/Drifter1/3211.m3u8
+#EXTINF:-1,THE MOVIE NETWORK ENCORE 2 EAST
+http://thepk.co:2086/live/drifter1/Drifter1/3209.m3u8
+#EXTINF:-1,THE SHOPPING CHANNEL
+http://thepk.co:2086/live/drifter1/Drifter1/36348.m3u8
+#EXTINF:-1,TLC
+http://thepk.co:2086/live/drifter1/Drifter1/3207.m3u8
+#EXTINF:-1,TREEHOUSE TV
+http://thepk.co:2086/live/drifter1/Drifter1/3203.m3u8
+#EXTINF:-1,TSN 1
+http://thepk.co:2086/live/drifter1/Drifter1/3202.m3u8
+#EXTINF:-1,TSN 2
+http://thepk.co:2086/live/drifter1/Drifter1/3201.m3u8
+#EXTINF:-1,TSN 3
+http://thepk.co:2086/live/drifter1/Drifter1/8802.m3u8
+#EXTINF:-1,TSN 4
+http://thepk.co:2086/live/drifter1/Drifter1/3199.m3u8
+#EXTINF:-1,TSN 5
+http://thepk.co:2086/live/drifter1/Drifter1/3198.m3u8
+#EXTINF:-1,W NETWORK
+http://thepk.co:2086/live/drifter1/Drifter1/3195.m3u8
+#EXTINF:-1,WSBK
+http://thepk.co:2086/live/drifter1/Drifter1/3192.m3u8
+#EXTINF:-1,WWE
+http://thepk.co:2086/live/drifter1/Drifter1/16218.m3u8
+#EXTINF:-1,YES TV
+http://thepk.co:2086/live/drifter1/Drifter1/3191.m3u8
+#EXTINF:-1,YTV
+http://thepk.co:2086/live/drifter1/Drifter1/3190.m3u8
+#EXTINF:-1,FRAMI TELE
+http://thepk.co:2086/live/drifter1/Drifter1/14844.m3u8
+#EXTINF:-1,FRCANAL SAVOIR
+http://thepk.co:2086/live/drifter1/Drifter1/14846.m3u8
+#EXTINF:-1,FRCANAL VIE
+http://thepk.co:2086/live/drifter1/Drifter1/14845.m3u8
+#EXTINF:-1,FRCASA
+http://thepk.co:2086/live/drifter1/Drifter1/14843.m3u8
+#EXTINF:-1,FRDISNEY LA CHAINE
+http://thepk.co:2086/live/drifter1/Drifter1/14842.m3u8
+#EXTINF:-1,FRFRISSONS TV
+http://thepk.co:2086/live/drifter1/Drifter1/14841.m3u8
+#EXTINF:-1,FRMAX
+http://thepk.co:2086/live/drifter1/Drifter1/14840.m3u8
+#EXTINF:-1,FRMETEO MEDIA
+http://thepk.co:2086/live/drifter1/Drifter1/14839.m3u8
+#EXTINF:-1,FRMOIET CIE
+http://thepk.co:2086/live/drifter1/Drifter1/14838.m3u8
+#EXTINF:-1,FRMUSIQUE PLUS
+http://thepk.co:2086/live/drifter1/Drifter1/14837.m3u8
+#EXTINF:-1,FRRDI
+http://thepk.co:2086/live/drifter1/Drifter1/14836.m3u8
+#EXTINF:-1,FRRDS INFO
+http://thepk.co:2086/live/drifter1/Drifter1/14835.m3u8
+#EXTINF:-1,FRSUPER ECRAN 1
+http://thepk.co:2086/live/drifter1/Drifter1/14834.m3u8
+#EXTINF:-1,FRSUPER ECRAN 2
+http://thepk.co:2086/live/drifter1/Drifter1/14833.m3u8
+#EXTINF:-1,FRSUPER ECRAN 3
+http://thepk.co:2086/live/drifter1/Drifter1/14832.m3u8
+#EXTINF:-1,FRSUPER ECRAN 4
+http://thepk.co:2086/live/drifter1/Drifter1/14831.m3u8
+#EXTINF:-1,FRTELETOON QUEBEC
+http://thepk.co:2086/live/drifter1/Drifter1/14830.m3u8
+#EXTINF:-1,FRTVA QUEBEC
+http://thepk.co:2086/live/drifter1/Drifter1/14828.m3u8
+#EXTINF:-1,FRTVA SAGUENAY LAC ST JEAN
+http://thepk.co:2086/live/drifter1/Drifter1/14829.m3u8
+#EXTINF:-1,FRTVA SPORTS
+http://thepk.co:2086/live/drifter1/Drifter1/14827.m3u8
+#EXTINF:-1,FRV ESTRIE
+http://thepk.co:2086/live/drifter1/Drifter1/14826.m3u8
+#EXTINF:-1,FRV SAGUENAY LAC ST JEAN
+http://thepk.co:2086/live/drifter1/Drifter1/14825.m3u8
+#EXTINF:-1,FRWORLD FISHING NETWORK
+http://thepk.co:2086/live/drifter1/Drifter1/3193.m3u8
+#EXTINF:-1,FRYOOPA
+http://thepk.co:2086/live/drifter1/Drifter1/14824.m3u8
+#EXTINF:-1,FRZ TELE
+http://thepk.co:2086/live/drifter1/Drifter1/14823.m3u8
