@@ -1,95 +1,187 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fa22f3fbbd5a64bd9f025d57c29ac1d3",Legia TV
-http://83.5.230.234:9981/stream/channelid/2079531770?ticket=6E5F838D01EBE5961E188A8E036ADB4D44466469&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvp1_hd.png" tvg-id="d0dbca38450a2f8a476619a239512425",TVP1 HD
-http://83.5.230.234:9981/stream/channelid/952818640?ticket=4E24BB9E87FFD112230908E4C749D1252E4319D0&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Tvp2_hd.png" tvg-id="74b1e4e12d6a547d75b86f5ef45cc2da",TVP2 HD
-http://83.5.230.234:9981/stream/channelid/1642377588?ticket=9530D4CC8BFE4FD2FB100B25F6E085BB4E0296A9&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TVP3-Bia%C5%82ystok.svg/1920px-TVP3-Bia%C5%82ystok.svg.png" tvg-id="1e57292c9cc6358ba240364850720fad",TVP3 Bialystok
-http://83.5.230.234:9981/stream/channelid/740906782?ticket=12EACADBC337783D506A0DCED06E477CC818B4F7&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Polsat.svg/1280px-Logo_Polsat.svg.png" tvg-id="b5c8c5dac001ec0d2ab1a363a4b738ab",Polsat
-http://83.5.230.234:9981/stream/channelid/1522911413?ticket=D79C06D124BEE99FA1B3A8F4724D34892A8AF8C4&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TVN_Group.png" tvg-id="cd3fe8ead8d62cd66a3d6518cd9449d6",TVN
-http://83.5.230.234:9981/stream/channelid/1793605581?ticket=3695D65E855290CE2E30B9B9660E6C36EB3987E1&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/1280px-TV4_pol.svg.png" tvg-id="8bfe6292bf8b68045f275ff0a8dc16ef",TV4
-http://83.5.230.234:9981/stream/channelid/308477579?ticket=BFFC00D0F0976AFB64E3C3F906BC5C8912C2B190&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/TV_Puls_logo.jpg" tvg-id="697b24a64c380ac0bcbfe6cfba09e913",TV Puls
-http://83.5.230.234:9981/stream/channelid/639925097?ticket=40E8298F374A3BBB5B93BC99B81281D0451C2820&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TVN_7_logo.PNG" tvg-id="5353f2b38d41fd4e1f333c055d1d0224",TVN 7
-http://83.5.230.234:9981/stream/channelid/871519059?ticket=38B84B5AB69719FDB4EF5AD4CE6DA6FD9ECE00C5&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Puls_2_logo.png" tvg-id="7516393db9709bb8319eb47b3f4d0098",PULS 2
-http://83.5.230.234:9981/stream/channelid/1027151477?ticket=7D804BF9A4DAE456B54FA3652D0505046987F782&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/377px-TV6_logo.svg.png" tvg-id="4cd918d4949dbe5f7fb812fd9678c82b",TV6
-http://83.5.230.234:9981/stream/channelid/1410914636?ticket=426E1E2F19DF8BECE1E7968EE26D337CABE8577F&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Super_polsat_logo.png" tvg-id="6b6c011815f9bb36803f9b872b5420f5",Super Polsat
-http://83.5.230.234:9981/stream/channelid/402746475?ticket=F601C5ED2F3B67037E9BECFC4443FF6770F62134&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_Eska_TV.png" tvg-id="337b511e964ad45001fcef9b3a9c0320",ESKA TV
-http://83.5.230.234:9981/stream/channelid/508656435?ticket=2D1F0AFDBC58386D4E4DE14E4E751C6E87E7D07E&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/97/TTV_HD_%E2%80%93_1._logo.png" tvg-id="12b77b01744497c67c0b69cf1032da28",TTV
-http://83.5.230.234:9981/stream/channelid/24885010?ticket=BA904374A3123199D9D28456A283D5452DA15423&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Polo_TV_logo_2016.jpg" tvg-id="9f7267ab45094103b3a171a9892f6a3b",Polo TV
-http://83.5.230.234:9981/stream/channelid/728199839?ticket=C804BF16A792586C8952329A129C03B4E907EE75&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Atm-rozrywka.svg/1920px-Atm-rozrywka.svg.png" tvg-id="c74c0c8bb6262309afdeb63c104cfc6b",ATM Rozrywka
-http://83.5.230.234:9981/stream/channelid/185355463?ticket=520DA80D0AF16E335D48821E76565CBF715C7EE3&profile=pass
-#EXTINF:-1 logo="http://www.radiomaryja.pl/wp-content/uploads/2018/01/tv-trwam-600x321.jpg" tvg-id="830fe491b2b2d980da32ac7faf3e0c6d",TV Trwam
-http://83.5.230.234:9981/stream/channelid/300158851?ticket=3BB14A7FF669B4DF1C6DD35EFE591EE98B8F3F1D&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Stopklatka-tv-logo-czarne-RGB.png" tvg-id="5e0bb9468149b36befcb4bc346e3d8bc",Stopklatka TV
-http://83.5.230.234:9981/stream/channelid/1186532190?ticket=608EED4C569184C49830FC1B1A6F102F158738AC&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Fokus_tv_pl.png" tvg-id="902b56509055d099961cccf7595bbdb9",Fokus TV
-http://83.5.230.234:9981/stream/channelid/1347824528?ticket=205F03B377C523502ED0440CD4E5CCEA111F1A7F&profile=pass
-#EXTINF:-1 logo="http://ocdn.eu/images/program-tv/YTI7MDA_/a4ed97be238e9bdced828521336968e3.png" tvg-id="45a0bd9d19d4b55642390f4278966249",TVP ABC
-http://83.5.230.234:9981/stream/channelid/498966597?ticket=592F42F2BB2A179168ABEAB444BAA422093589BB&profile=pass
-#EXTINF:-1 logo="http://ocdn.eu/images/program-tv/M2Y7MDA_/0ecfd007900ea94ba75641c8ff66cafc.png" tvg-id="752d24802d8984dabdd596b9af9faf53",TVP Kultura
-http://83.5.230.234:9981/stream/channelid/2370933?ticket=7C84E0C1B83804E4B986FABDAD702896C670CD6A&profile=pass
-#EXTINF:-1 logo="http://ocdn.eu/images/program-tv/NzA7MDA_/b683426eb23481965dafd9d32ae101a2.png" tvg-id="2707b1c54feb84eeadd8918b93c1ddaf",TVP Historia
-http://83.5.230.234:9981/stream/channelid/1169229607?ticket=5C8B03D212F3A2B3F77BE3A984F62595A803283A&profile=pass
-#EXTINF:-1 logo="http://ocdn.eu/images/program-tv/MTU7MDA_/e730862a34ee974f25db81cbd3dcae95.png" tvg-id="8c3f5d3be74fc25c66e2f87e1a332477",TVP Sport
-http://83.5.230.234:9981/stream/channelid/995966860?ticket=936AEC58774733A6F0E0420FBD309B34ADE5EDE8&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1280px-TVP_Info_logo.svg.png" tvg-id="b3e3bd0c973982e3c979edcdaff8473e",TVP Info
-http://83.5.230.234:9981/stream/channelid/213771187?ticket=F995AF2E01728832D0DDE051892AAD7CBAA422AE&profile=pass
-#EXTINF:-1 logo="https://static.wirtualnemedia.pl/media/top/metro-kanaltv-logo655.png" tvg-id="4440fa842c102833b63fd71922a14f86",Metro
-http://83.5.230.234:9981/stream/channelid/83509316?ticket=2E1D1C5752F85468DB5E5703A8E5A6E800143A61&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Zoom_TV.png" tvg-id="fdea50e214770c4869341619683128ed",Zoom TV
-http://83.5.230.234:9981/stream/channelid/1649470205?ticket=708525B49099E37817733037149D3C9EAD8F9244&profile=pass
-#EXTINF:-1 logo="http://www.nowa.tv/media/static/images/logo_nowatv.png" tvg-id="3b2dc56bcab1f9a888001dfd2afdfe7d",Nowa TV
-http://83.5.230.234:9981/stream/channelid/1808084283?ticket=95910BA44DA0763AAE0AFC0CB94F7E58C4A63C28&profile=pass
-#EXTINF:-1 logo="https://static.wirtualnemedia.pl/media/top/wp-kanaltv-logo655.png" tvg-id="7824ba7b62f1df223d97b59ad6d15251",WP
-http://83.5.230.234:9981/stream/channelid/2075796600?ticket=314D99170DFCDD7E55B4C8CB98325EC10ABA697A&profile=pass
-#EXTINF:0,Jim Jam
-http://188.35.9.26:9031/udp/103s
-#EXTINF:0,Travel Channel HD
-http://188.35.9.26:14031/udp/174m
-#EXTINF:0,CI
-http://188.35.9.26:14031/udp/160x
-#EXTINF:0,Disney XD
-http://188.35.9.26:9031/udp/108j
-#EXTINF:0,Viasat Explore HD
-http://188.35.9.26:9031/udp/107h
-#EXTINF:0,Planete
-http://188.35.9.26:8031/udp/086y
-#EXTINF:0,Teletoon HD
-http://188.35.9.26:8031/udp/085t
-#EXTINF:0,DTX
-http://188.35.9.26:12030/udp/129q
-#EXTINF:0,nSport
-http://188.35.9.26:12030/udp/126b
-#EXTINF:0,Satellite TV Film HD
-http://188.35.9.26:8031/udp/084r
-#EXTINF:0,Disney
-http://188.35.9.26:7030/udp/111w
-#EXTINF:0,Boomerang HD
-http://188.35.9.26:16030/udp/177j
-#EXTINF:0,ATM
-http://188.35.9.26:9031/udp/111z
-#EXTINF:0,AXN White
-http://188.35.9.26:9031/udp/104d
-#EXTINF:0,Satellite TV Family
-http://188.35.9.26:8031/udp/088i
-#EXTINF:0,Discovery HD
-http://188.35.9.26:12030/udp/131e
-#EXTINF:0,Nicktoons HD
-http://188.35.9.26:2031/udp/042l
-#EXTINF:0,TV Republika
-http://188.35.9.26:16030/udp/175g
-#EXTINF:0,ID HD 
-http://188.35.9.26:12030/udp/128m
+#EXTINF:-1,TVN Turbo HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13075
+#EXTINF:-1,TVP HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13081
+#EXTINF:-1,TVP 1 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3873
+#EXTINF:-1,TVP 2 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3874
+#EXTINF:-1,TVP 3 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13080
+#EXTINF:-1,TVP Info
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13119
+#EXTINF:-1,TVP Polonia
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3071
+#EXTINF:-1,TV 4 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13021
+#EXTINF:-1,TV Puls HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13026
+#EXTINF:-1,TVN HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13076
+#EXTINF:-1,WP
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13044
+#EXTINF:-1,Polsat News
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3067
+#EXTINF:-1,Disco Polo Music
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/25383
+#EXTINF:-1,TLC
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/25382
+#EXTINF:-1,TVN 7
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/25381
+#EXTINF:-1,Zoom TV
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/25356
+#EXTINF:-1,Superstacja
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13048
+#EXTINF:-1,13 Ulica HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13070
+#EXTINF:-1,Kino TV
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13059
+#EXTINF:-1,Kino Polska
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3073
+#EXTINF:-1,Ale Kino
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13042
+#EXTINF:-1,AXN Black
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13067
+#EXTINF:-1,AXN White
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13066
+#EXTINF:-1,TVN 24
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3070
+#EXTINF:-1,TVN Style
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/8143
+#EXTINF:-1,Canal+ HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11415
+#EXTINF:-1,Canal  1 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13041
+#EXTINF:-1,Canal  Film HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13040
+#EXTINF:-1,Canal + Film HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3080
+#EXTINF:-1,Canal+ Family HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/9507
+#EXTINF:-1,Canal+ Seriale HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3063
+#EXTINF:-1,FILMBOX
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3069
+#EXTINF:-1,FilmBox Action
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13058
+#EXTINF:-1,FilmBox Premium
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3076
+#EXTINF:-1,Filmbox Family
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13033
+#EXTINF:-1,HBO HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3074
+#EXTINF:-1,HBO 2 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3075
+#EXTINF:-1,HBO 3 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11417
+#EXTINF:-1,AXN HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3061
+#EXTINF:-1,Cinemax HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/9505
+#EXTINF:-1,Polsat 1 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13079
+#EXTINF:-1,Polsat 2 HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13078
+#EXTINF:-1,Polsat Film HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13055
+#EXTINF:-1,Polsat Play HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13054
+#EXTINF:-1,SciFi
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13049
+#EXTINF:-1,Paramount Channel HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11405
+#EXTINF:-1,Universal HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3876
+#EXTINF:-1,TNT HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11406
+#EXTINF:-1,Sundance TV
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13050
+#EXTINF:-1,TLC HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13027
+#EXTINF:-1,Polsat HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3066
+#EXTINF:-1,Polsat
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3875
+#EXTINF:-1,Polsat Play
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3068
+#EXTINF:-1,Polsat Film
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3072
+#EXTINF:-1,Polsat Cafe
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3065
+#EXTINF:-1,TVP Seriale
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11383
+#EXTINF:-1,>>>>>>> Kanaly dla dzieci <<<<<<
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13087
+#EXTINF:-1,Disney Channel HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13062
+#EXTINF:-1,Disney Junior
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13061
+#EXTINF:-1,Disney XD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13036
+#EXTINF:-1,Cartoon Network HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13064
+#EXTINF:-1,Nickelodeon
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13029
+#EXTINF:-1,Nick Jr
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11416
+#EXTINF:-1,MiniMini HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3064
+#EXTINF:-1,>>>>>>> Kanaly muzyczne <<<<<<
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13083
+#EXTINF:-1,MTV Polska
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/9534
+#EXTINF:-1,Polsat Music HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/22094
+#EXTINF:-1,4FUN Dance
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13069
+#EXTINF:-1,4FUN Gold
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13043
+#EXTINF:-1,4FUN TV
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13068
+#EXTINF:-1,>>>>>>> Kanaly nauki i przyrody <<<<<<
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13085
+#EXTINF:-1,Polsat Doku
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/22095
+#EXTINF:-1,Animal Planet
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13065
+#EXTINF:-1,Discovery HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13039
+#EXTINF:-1,Discovery Turbo Xtra
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13037
+#EXTINF:-1,Discovery Life
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/22096
+#EXTINF:-1,Canal Discovery HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3062
+#EXTINF:-1,National Geographic
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3060
+#EXTINF:-1,Nat Geo HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13071
+#EXTINF:-1,NAT GEO WILD HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11407
+#EXTINF:-1,Fokus TV
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13024
+#EXTINF:-1,History
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13032
+#EXTINF:-1,Planete  HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13022
+#EXTINF:-1,Polsat Viasat Explore HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13073
+#EXTINF:-1,Polsat Viasat History
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13056
+#EXTINF:-1,Polsat Viasat Nature
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13072
+#EXTINF:-1,Discovery Science
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13038
+#EXTINF:-1,SCI Discovery Science HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13063
+#EXTINF:-1,Travel Channel HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13047
+#EXTINF:-1,TVP Historia
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/11384
+#EXTINF:-1,Nicktoons
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/3877
+#EXTINF:-1,Kuchnia  HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13031
+#EXTINF:-1,Lifetime HD
+http://ksportiptv.com:1557/Jonbllaca1/fSi7cxnyAi/13057
