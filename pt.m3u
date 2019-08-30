@@ -1,139 +1,267 @@
 #EXTM3U
-#EXTINF:-1,TVC
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/18884.m3u8
-#EXTINF:-1,RTP 1
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4776.m3u8
-#EXTINF:-1,RTP 2
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4777.m3u8
-#EXTINF:-1,RTP 3
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4778.m3u8
-#EXTINF:-1,RTP Africa
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4808.m3u8
-#EXTINF:-1,RTP AÇORES
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4809.m3u8
-#EXTINF:-1,RTP Madeira
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4806.m3u8
-#EXTINF:-1,RTP Memoria
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4805.m3u8
-#EXTINF:-1,RTP Internacional
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4807.m3u8
-#EXTINF:-1,TVI
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4783.m3u8
-#EXTINF:-1,TVI FICÇÃO
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4781.m3u8
-#EXTINF:-1,TVI Reality
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4780.m3u8
-#EXTINF:-1,TV Record
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4790.m3u8
-#EXTINF:-1,TV Globo
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4788.m3u8
+#EXTINF:-1,RTP 1 Full HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/10402.m3u8
+#EXTINF:-1,RTP 1 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7654.m3u8
+#EXTINF:-1,RTP 2 Full HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/10401.m3u8
+#EXTINF:-1,RTP 2 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7655.m3u8
+#EXTINF:-1,RTP 3 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7656.m3u8
+#EXTINF:-1,RTP  MEMORIA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7659.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9104.m3u8
+#EXTINF:-1,RTP  ACORES
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7657.m3u8
+#EXTINF:-1,RTP  AFRICA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7658.m3u8
+#EXTINF:-1,GLOBO
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7639.m3u8
+#EXTINF:-1,TV GLOBO
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7679.m3u8
 #EXTINF:-1,TV Globo Premium
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4789.m3u8
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7680.m3u8
+#EXTINF:-1,TVI Full HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/10400.m3u8
+#EXTINF:-1,TVI
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7684.m3u8
 #EXTINF:-1,TVI 24
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4782.m3u8
-#EXTINF:-1,SIC
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4779.m3u8
-#EXTINF:-1,Sic Caras
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4803.m3u8
-#EXTINF:-1,SIC NOTÍCIAS
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4800.m3u8
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7685.m3u8
+#EXTINF:-1,TVCseries
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7683.m3u8
+#EXTINF:-1,SIC Full HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/10399.m3u8
+#EXTINF:-1,Sic
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7660.m3u8
 #EXTINF:-1,SIC MULHER
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4801.m3u8
-#EXTINF:-1,Sic Radical
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4799.m3u8
-#EXTINF:-1,Sic Kids
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4802.m3u8
-#EXTINF:-1,SBT Brasil
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4804.m3u8
-#EXTINF:-1,TV Cine 1
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4784.m3u8
-#EXTINF:-1,TVCine 2
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4785.m3u8
-#EXTINF:-1,TV Cine 3
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4786.m3u8
-#EXTINF:-1,TV Cine 4
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4787.m3u8
-#EXTINF:-1,Cinemundo
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4832.m3u8
-#EXTINF:-1,Fox
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4823.m3u8
-#EXTINF:-1,Fox Comedy
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4822.m3u8
-#EXTINF:-1,Fox Crime
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4821.m3u8
-#EXTINF:-1,Fox Movies
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4819.m3u8
-#EXTINF:-1,Fox Life
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4820.m3u8
-#EXTINF:-1,Sport TV 1
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4798.m3u8
-#EXTINF:-1,Sport TV 2
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4797.m3u8
-#EXTINF:-1,Sport TV 3
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4796.m3u8
-#EXTINF:-1,Sport TV 4
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4795.m3u8
-#EXTINF:-1,Sport TV 5
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4794.m3u8
-#EXTINF:-1,Sporting TV
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4793.m3u8
-#EXTINF:-1,Benfica TV1
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4839.m3u8
-#EXTINF:-1,Eurosport 1
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4826.m3u8
-#EXTINF:-1,EuroSport 2
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4825.m3u8
-#EXTINF:-1,Porto Canal
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4810.m3u8
-#EXTINF:-1,TLC
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4791.m3u8
-#EXTINF:-1,SYSF
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4792.m3u8
-#EXTINF:-1,PFC
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4811.m3u8
-#EXTINF:-1,Nickeloden
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4812.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4813.m3u8
-#EXTINF:-1,Nat geo
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4814.m3u8
-#EXTINF:-1,Motorsport TV
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4816.m3u8
-#EXTINF:-1,Jim Jam
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4817.m3u8
-#EXTINF:-1,Hollywood
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4818.m3u8
-#EXTINF:-1,E! Entertainment
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4827.m3u8
-#EXTINF:-1,Disney Junior
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4828.m3u8
-#EXTINF:-1,Discovery Showcase
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4829.m3u8
-#EXTINF:-1,Discovery Channel
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4830.m3u8
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7661.m3u8
+#EXTINF:-1,SIC NOTICIAS HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9090.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7662.m3u8
+#EXTINF:-1,SIC RADICAL HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9089.m3u8
+#EXTINF:-1,SIC RADICAL Full HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/10398.m3u8
+#EXTINF:-1,SIC RADICAL
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7663.m3u8
 #EXTINF:-1,CM TV
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4831.m3u8
-#EXTINF:-1,Cartoon Network
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4834.m3u8
-#EXTINF:-1,Canal Q
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4835.m3u8
-#EXTINF:-1,Canal Panda
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4836.m3u8
-#EXTINF:-1,Caca & Pesca
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4837.m3u8
-#EXTINF:-1,Biggs
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4838.m3u8
-#EXTINF:-1,Baby TV
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4841.m3u8
-#EXTINF:-1,AXN White
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4842.m3u8
-#EXTINF:-1,AXN Black
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4843.m3u8
-#EXTINF:-1,AXN
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4844.m3u8
-#EXTINF:-1,AMC
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4845.m3u8
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7626.m3u8
+#EXTINF:-1,TVCINE 1 HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9079.m3u8
+#EXTINF:-1,TV CINE 1  HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7675.m3u8
+#EXTINF:-1,TVCINE 2 HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9078.m3u8
+#EXTINF:-1,TV CINE 2  HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7676.m3u8
+#EXTINF:-1,TVCINE 3 HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9077.m3u8
+#EXTINF:-1,TV CINE 3 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7677.m3u8
+#EXTINF:-1,TVCINE 4 HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9076.m3u8
+#EXTINF:-1,TV CINE 4
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7678.m3u8
+#EXTINF:-1,MOV HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7645.m3u8
+#EXTINF:-1,MOV HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7615.m3u8
+#EXTINF:-1,CINEMUNDO
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7625.m3u8
+#EXTINF:-1,HOLLYWOOD HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7616.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7640.m3u8
+#EXTINF:-1,FOX HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9093.m3u8
+#EXTINF:-1,FOX TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7637.m3u8
+#EXTINF:-1,FOX CRIME HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9094.m3u8
+#EXTINF:-1,FOX CRIME
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7634.m3u8
+#EXTINF:-1, Fox Crime
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9105.m3u8
+#EXTINF:-1,FOX Movies HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7617.m3u8
+#EXTINF:-1,FOX MOVIES
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7636.m3u8
+#EXTINF:-1,FOX Comedy HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9095.m3u8
+#EXTINF:-1,Fox Comedy
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7633.m3u8
+#EXTINF:-1,FOX LIFE HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9092.m3u8
+#EXTINF:-1,FOX LIFE
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7635.m3u8
+#EXTINF:-1,TLC
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7673.m3u8
+#EXTINF:-1,SyFy HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9080.m3u8
+#EXTINF:-1,SYFY
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7672.m3u8
+#EXTINF:-1,AXN HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9101.m3u8
+#EXTINF:-1,AXN HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9111.m3u8
+#EXTINF:-1,AXN WHITE HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9100.m3u8
+#EXTINF:-1,AXN WHITE
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9112.m3u8
+#EXTINF:-1,AXN BLACK HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9102.m3u8
 #EXTINF:-1,24 KITCHEN
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/4847.m3u8
-#EXTINF:-1,Fuel TV
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/8950.m3u8
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9107.m3u8
+#EXTINF:-1,TVI Reality (A Quinta)
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7687.m3u8
+#EXTINF:-1,TVI REALITY
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7686.m3u8
+#EXTINF:-1,CBS REALITY
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7623.m3u8
+#EXTINF:-1,ODISSEIA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7651.m3u8
+#EXTINF:-1,CAÇA & PESCA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9116.m3u8
+#EXTINF:-1,Nat Geo Wild HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7614.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7649.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7613.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7648.m3u8
+#EXTINF:-1,DISCOVERY HD 1080 SHOWCASE
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7620.m3u8
+#EXTINF:-1,Discovery HD Showcase
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7628.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7627.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7609.m3u8
+#EXTINF:-1, Historia
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9106.m3u8
+#EXTINF:-1,CANAL  HISTORIA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9117.m3u8
+#EXTINF:-1,A & E
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9108.m3u8
+#EXTINF:-1,MOTORVISION TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7644.m3u8
+#EXTINF:-1,MOTORVISION
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7643.m3u8
+#EXTINF:-1,JIM JAM
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7641.m3u8
+#EXTINF:-1,NICKELODEON
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7650.m3u8
+#EXTINF:-1,CARTOON  NETWORK
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7622.m3u8
+#EXTINF:-1,BABY TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9113.m3u8
+#EXTINF:-1,CANAL PANDA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9118.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7629.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7630.m3u8
+#EXTINF:-1,PORTO CANAL
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7653.m3u8
+#EXTINF:-1,A BOLA TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9109.m3u8
+#EXTINF:-1,EUROSPORT 1 HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9098.m3u8
+#EXTINF:-1,EUROSPORT 2 XTRA HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9097.m3u8
+#EXTINF:-1,EUROSPORT
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7632.m3u8
+#EXTINF:-1,Eurosport new
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9074.m3u8
+#EXTINF:-1,Sporting TV HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9081.m3u8
+#EXTINF:-1,SPORTING TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7671.m3u8
+#EXTINF:-1,SPORT TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9088.m3u8
+#EXTINF:-1,CHELSEA TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7624.m3u8
+#EXTINF:-1,MOTORS TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7642.m3u8
+#EXTINF:-1,CANAL Q
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7621.m3u8
+#EXTINF:-1,E! Entertainment
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7631.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7689.m3u8
+#EXTINF:-1,VH1
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7688.m3u8
+#EXTINF:-1,Mtv Portuga
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7646.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7647.m3u8
+#EXTINF:-1,FASHION TV HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7619.m3u8
+#EXTINF:-1,Fine Living Network HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7618.m3u8
+#EXTINF:-1,Outdoor Channel HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7612.m3u8
+#EXTINF:-1,SUNDANCE HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7610.m3u8
+#EXTINF:-1,FIGHT NETWORK HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9096.m3u8
+#EXTINF:-1,FUEL TV HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9091.m3u8
+#EXTINF:-1,AMC HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9103.m3u8
+#EXTINF:-1,AMC
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/9110.m3u8
+#EXTINF:-1,TV RECORD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7681.m3u8
+#EXTINF:-1,TOUROS TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7674.m3u8
+#EXTINF:-1,FUEL TV
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7638.m3u8
+#EXTINF:-1,TVC HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7682.m3u8
+#EXTINF:-1,PFC
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/7652.m3u8
+#EXTINF:-1,SPORT 1
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11974.m3u8
+#EXTINF:-1,SPORT 1 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11975.m3u8
+#EXTINF:-1,SPORT 2
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11973.m3u8
+#EXTINF:-1,SPORT 2 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11972.m3u8
+#EXTINF:-1,SPORT 3
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11971.m3u8
+#EXTINF:-1,SPORT 3 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11970.m3u8
+#EXTINF:-1,SPORT 4
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11969.m3u8
+#EXTINF:-1,SPORT 5
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/11968.m3u8
+#EXTINF:-1,B 1 HD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12080.m3u8
+#EXTINF:-1,B 1
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12079.m3u8
+#EXTINF:-1,B 2
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12078.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12356.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD NET FRACA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12355.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12354.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD NET FRACA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12353.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12352.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD NET FRACA
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12351.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12350.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12349.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/12348.m3u8
