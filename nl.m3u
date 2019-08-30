@@ -1,61 +1,139 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidenetherlands.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3omdaMe.jpg" group-title="",Breda Nu
-https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82/live-audio101_dut=128000-video=2200000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="",Den Haag TV
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png" group-title="",GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAD13mY.png" group-title="",HTR
-http://live.streamone.nl/livestream/h3kXcf2yyam/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="L1 TV NL" tvg-name="L1 TV NL" tvg-logo="https://l1.nl/static/img/social.png" group-title="",L1mburg
-http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://meervandaag.nl/wp-content/uploads/2018/03/cropped-logo_test-1.png" group-title="",Meer TV
-http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gtlwWbJ.png" group-title="Music",Norderney 192 TV
-http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="",Omroep Ede
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV Gelderland NL" tvg-name="TV Gelderland NL" tvg-logo="https://i.imgur.com/2LZJo7k.png" group-title="",Omroep Gelderland
-https://web.omroepgelderland.nl/live/livetv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.omroeppenm.nl/cwm/fm/userfiles/content/eyecatcher/normal/60673_P-M_Logo_transparant.png" group-title="",Omroep P&M
-http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="",Omroep Tilburg
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV West NL" tvg-name="TV West NL" tvg-logo="" group-title="",Omroep West
-http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Omroep Zeeland NL" tvg-name="Omroep Zeeland NL" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="",Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://www.omropfryslan.nl/data/files/styles/small_teaser_background/public/omrop-fryslan-tv-plaatje-1920x1080-v2.jpg" group-title="",Omrop Fryslan
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="",Radio 10
-http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_Radio_538_2014.svg/330px-Logo_Radio_538_2014.svg.png" group-title="",Radio 538 (Opt-1)
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0uxI1Rm.png" group-title="",Radio 538 (Opt-2)
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Beverwijk
-http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c8jl6Yn.png" group-title="",Radio Continu
-http://84.22.97.59:80/radiocontinu/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/RadioVeronica-logo.png" group-title="",Radio Veronica
-http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="",RTV Arnhem
-http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dordtcentraal.nl/wp-content/uploads/2017/06/RTV-Dordrecht.jpg" group-title="",RTV Dordrecht
-http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsD7Tsu.png" group-title="",RTV Drenthe
-https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="",RTV Noord Extra
-https://media.rtvnoord.nl/live/rtvnoord/extra/1e96a5c2-9d08-405e-be8b-eb680b7ef2d6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="",RTV Noordoost Friesland
-http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TYsLlr0.png" group-title="",RTV Rijnmond
-https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/04/Weeff-Radio.jpg" group-title="",WEEF
-http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3628.png" group-title="",WOS TV
-http://ms7.mx-cd.net/tv/99-475825/WOS.smil/chunklist.m3u8
+#EXTM3U
+#EXTINF:-1,13th
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8485.m3u8
+#EXTINF:-1,Animal Planet
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8486.m3u8
+#EXTINF:-1,Boomerang
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8487.m3u8
+#EXTINF:-1,Comedy Central
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8488.m3u8
+#EXTINF:-1,Discovery Channel
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8489.m3u8
+#EXTINF:-1,Disney Channel
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8490.m3u8
+#EXTINF:-1,Eurosport 1 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8536.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8535.m3u8
+#EXTINF:-1,Film1 Action
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8491.m3u8
+#EXTINF:-1,Film1 Comedy & Kids
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8492.m3u8
+#EXTINF:-1,Film1 Premiere
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8493.m3u8
+#EXTINF:-1,Film1 Premiere FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8534.m3u8
+#EXTINF:-1,Film1 Spotlight
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8494.m3u8
+#EXTINF:-1,Film1 SUNDANCE
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8495.m3u8
+#EXTINF:-1,FOX Channel
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8496.m3u8
+#EXTINF:-1,Fox Sports 1
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8537.m3u8
+#EXTINF:-1,FOX Sports 1 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8533.m3u8
+#EXTINF:-1,Fox Sports 2
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8538.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8532.m3u8
+#EXTINF:-1,Fox Sports 3
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8539.m3u8
+#EXTINF:-1,FOX Sports 3 HD ( 1080P )
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8525.m3u8
+#EXTINF:-1,Fox Sports 4
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8540.m3u8
+#EXTINF:-1,Fox Sports 4 HD ( 1080P )
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8527.m3u8
+#EXTINF:-1,Fox Sports 5
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8541.m3u8
+#EXTINF:-1,Fox Sports 5 HD ( 1080P )
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8526.m3u8
+#EXTINF:-1,Fox Sports 6
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8542.m3u8
+#EXTINF:-1,HBO
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8497.m3u8
+#EXTINF:-1,HBO 3
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8498.m3u8
+#EXTINF:-1,HBO2
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8499.m3u8
+#EXTINF:-1,History
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8500.m3u8
+#EXTINF:-1,Investigation Discovery
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8501.m3u8
+#EXTINF:-1,JimJam
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8502.m3u8
+#EXTINF:-1,Nat Geo Wild FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8531.m3u8
+#EXTINF:-1,National Geographic
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8504.m3u8
+#EXTINF:-1,National Geographic FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8530.m3u8
+#EXTINF:-1,NET 5
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8503.m3u8
+#EXTINF:-1,Net 5 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8529.m3u8
+#EXTINF:-1,Nick Jr
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8505.m3u8
+#EXTINF:-1,Nickelodeon
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8506.m3u8
+#EXTINF:-1,NPO 1
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8507.m3u8
+#EXTINF:-1,NPO 1 HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8543.m3u8
+#EXTINF:-1,NPO 2
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8508.m3u8
+#EXTINF:-1,NPO 2 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8544.m3u8
+#EXTINF:-1,NPO 3
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8509.m3u8
+#EXTINF:-1,NPO 3 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8545.m3u8
+#EXTINF:-1,RTL 4
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8510.m3u8
+#EXTINF:-1,RTL 4 FHD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8546.m3u8
+#EXTINF:-1,RTL 5
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8511.m3u8
+#EXTINF:-1,RTL 5 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8547.m3u8
+#EXTINF:-1,RTL 7
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8512.m3u8
+#EXTINF:-1,RTL 7 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8548.m3u8
+#EXTINF:-1,RTL 8
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8513.m3u8
+#EXTINF:-1,RTL 8 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8549.m3u8
+#EXTINF:-1,RTL lounge
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8514.m3u8
+#EXTINF:-1,SBS 6
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8515.m3u8
+#EXTINF:-1,SBS 9
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8550.m3u8
+#EXTINF:-1,SBS6 FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8528.m3u8
+#EXTINF:-1,Sport 1 Voetbal
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8551.m3u8
+#EXTINF:-1,SYFY
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8516.m3u8
+#EXTINF:-1,TLC
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8517.m3u8
+#EXTINF:-1,Veronica / Disney XD FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8552.m3u8
+#EXTINF:-1,Veronica Disney XD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8518.m3u8
+#EXTINF:-1,Ziggo Sport Extra1
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8519.m3u8
+#EXTINF:-1,Ziggo Sport Extra2
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8520.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8521.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8522.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD 1080
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8553.m3u8
+#EXTINF:-1,Ziggo Sport Select HD
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8523.m3u8
+#EXTINF:-1,Ziggo Sport.Voetbal
+http://hostiptv.com:8089/live/MzYAWpjy1/9fR5n7ol5W/8524.m3u8
