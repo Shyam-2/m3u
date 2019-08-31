@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1,TF1-HD
+http://212.8.243.218:25461/flory/flory/4183
+#EXTINF:-1,TF1 SD
+http://212.8.243.218:25461/flory/flory/6725
+#EXTINF:-1,TF1 SÉRIES FILMS
+http://212.8.243.218:25461/flory/flory/4232
+#EXTINF:-1,M6-HD
+http://212.8.243.218:25461/flory/flory/4188
+#EXTINF:-1,M6 SD
+http://212.8.243.218:25461/flory/flory/6724
+#EXTINF:-1,France 2
+http://212.8.243.218:25461/flory/flory/4184
+#EXTINF:-1,France 3
+http://212.8.243.218:25461/flory/flory/4185
+#EXTINF:-1,France 4
+http://212.8.243.218:25461/flory/flory/4186
+#EXTINF:-1,France 5
+http://212.8.243.218:25461/flory/flory/4187
+#EXTINF:-1,FRANCE Ô
+http://212.8.243.218:25461/flory/flory/4221
+#EXTINF:-1,France 24
+http://212.8.243.218:25461/flory/flory/7018
+#EXTINF:-1,France info
+http://212.8.243.218:25461/flory/flory/6649
+#EXTINF:-1,6ter
+http://212.8.243.218:25461/flory/flory/4193
+#EXTINF:-1,M6 SD
+http://king365-tv.com:2103/0101/0101/12072
+#EXTINF:-1,M6 HD
+http://king365-tv.com:2103/0101/0101/6
+#EXTINF:-1,M6 FHD
+http://king365-tv.com:2103/0101/0101/1154
+#EXTINF:-1,ARTE SD
+http://king365-tv.com:2103/0101/0101/18307
+#EXTINF:-1,ARTE HD
+http://king365-tv.com:2103/0101/0101/218
+#EXTINF:-1,ARTE FHD
+http://king365-tv.com:2103/0101/0101/1638
 #EXTINF:-1,COMEDIE+ HD
 http://83.36.225.124:7779/play/a0hj
 #EXTINF:-1,TREK HD
@@ -27,7 +65,6 @@ http://83.36.225.124:7779/play/a0n1
 http://83.36.225.124:7779/play/a0mz
 #EXTINF:-1,AUTOMOTO la chaine HD
 http://83.36.225.124:7779/play/a0my
-
 #EXTINF:-1,CINE+ FAMIZ HD
 http://83.36.225.124:7778/play/a0nr
 #EXTINF:-1,EQUIDIA HD
@@ -92,7 +129,6 @@ http://83.36.225.124:7778/play/a0i5
 http://83.36.225.124:7778/play/a0i1
 #EXTINF:-1,BEIN SPORTS MAX 4 HD
 http://83.36.225.124:7778/play/a0d1
-
 #EXTINF:-1,bein max 4
 http://62.210.215.83:8000/play/a009/index.m3u8
 #EXTINF:-1,bein max 5
