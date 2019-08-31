@@ -1,79 +1,451 @@
 #EXTM3U
-#EXTINF:-1,RAI 1 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8554
-#EXTINF:-1,RAI 2 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8555
-#EXTINF:-1,RAI 3 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8556
-#EXTINF:-1,RAI 4 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8557
-#EXTINF:-1,RAI 5 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8558
-#EXTINF:-1,RAI Gulp HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8561
-#EXTINF:-1,RAI Movie HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8559
-#EXTINF:-1,RAI Premium HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8560
-#EXTINF:-1,RAI Storia HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8562
-#EXTINF:-1,RAI Yoyo HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8592
-#EXTINF:-1,Eagle HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8591
-#EXTINF:-1,Fine Living HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8563
-#EXTINF:-1,Giallo HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8573
-#EXTINF:-1,Iris HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8574
-#EXTINF:-1,Mediaset Extra HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8575
-#EXTINF:-1,MTV Brand New HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8576
-#EXTINF:-1,MTV Live HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8577
-#EXTINF:-1,Studio Universal HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8572
-#EXTINF:-1,Super +1
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8565
-#EXTINF:-1,Premium Action HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8566
-#EXTINF:-1,Premium Cinema 2 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8567
-#EXTINF:-1,Premium Cinema Comedy HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8568
-#EXTINF:-1,Premium Cinema Emotion HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8570
-#EXTINF:-1,Premium Crime HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8569
-#EXTINF:-1,Premium Stories HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8571
-#EXTINF:-1,Premium Top Crime
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8564
-#EXTINF:-1,Sky PRIMAFILA 1 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8578
-#EXTINF:-1,Sky PRIMAFILA 2 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8579
-#EXTINF:-1,Sky PRIMAFILA 3 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8580
-#EXTINF:-1,Sky PRIMAFILA 4 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8581
-#EXTINF:-1,Sky PRIMAFILA 5 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8582
-#EXTINF:-1,Sky PRIMAFILA 6 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8583
-#EXTINF:-1,Sky PRIMAFILA 7 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8584
-#EXTINF:-1,Sky PRIMAFILA 10 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8585
-#EXTINF:-1,Sky PRIMAFILA 11 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8586
-#EXTINF:-1,Sky PRIMAFILA 12 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8587
-#EXTINF:-1,Sky PRIMAFILA 13 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8588
-#EXTINF:-1,Sky PRIMAFILA 14 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8589
-#EXTINF:-1,Sky PRIMAFILA 15 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8590
+#EXTINF:-1,Rai 1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/2
+#EXTINF:-1,Rai 2 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/3
+#EXTINF:-1,Rai 3 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/4
+#EXTINF:-1,Rete 4 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/5
+#EXTINF:-1,Canale 5 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6
+#EXTINF:-1,Italia 1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/8
+#EXTINF:-1,La 7 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/9
+#EXTINF:-1,TV8
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/10
+#EXTINF:-1,NOVE HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/129
+#EXTINF:-1,Cielo
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/49
+#EXTINF:-1,RSI LA1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/11
+#EXTINF:-1,RSI LA2 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/12
+#EXTINF:-1,Sky Cinema 1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/14
+#EXTINF:-1,Sky Cinema Drama HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/15
+#EXTINF:-1,Sky Cinema +24 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/16
+#EXTINF:-1,Sky Cinema Collection HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/17
+#EXTINF:-1,Sky Cinema Family HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/18
+#EXTINF:-1,Sky Cinema Romance HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/20
+#EXTINF:-1,Sky Cinema Comedy HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21
+#EXTINF:-1,Sky Cinema Action HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22
+#EXTINF:-1,Sky Cinema Due HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/24
+#EXTINF:-1,Sky Cinema Due +24 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22464
+#EXTINF:-1,Sky Cinema Suspense HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/25
+#EXTINF:-1,Premium Cinema
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/175
+#EXTINF:-1,Premium Energy
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/180
+#EXTINF:-1,Premium Emotion
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/179
+#EXTINF:-1,Premium Comedy
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/181
+#EXTINF:-1,Rai Movie HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/26
+#EXTINF:-1,Iris
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/27
+#EXTINF:-1,Paramount Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/2684
+#EXTINF:-1,Action Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7695
+#EXTINF:-1,Action Channel 2
+http://movieland.cybergroup.top:1926/live/NewIptv/w90fKhw011/20679.ts
+#EXTINF:-1,Adriano Celentano Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7713
+#EXTINF:-1,Alberto Sordi Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7706
+#EXTINF:-1,Cine Christmas
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7701
+#EXTINF:-1,Cine Christmas 2
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7700
+#EXTINF:-1,Commedia Italiana Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7699
+#EXTINF:-1,Commedia Italiana Channel 2
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7698
+#EXTINF:-1,Cult  Anni 80 Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7692
+#EXTINF:-1,Toto` Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7702
+#EXTINF:-1,War Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7703
+#EXTINF:-1,Gomorra Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/5783
+#EXTINF:-1,Gomorra Channel 2
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7697
+#EXTINF:-1,Gomorra Channel 3
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7696
+#EXTINF:-1,Gomorra Channel 4
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/19623
+#EXTINF:-1,Sky Atlantic HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/33
+#EXTINF:-1,Sky Uno HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/31
+#EXTINF:-1,Fox HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/35
+#EXTINF:-1,Fox Life HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/37
+#EXTINF:-1,Fox Crime HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/39
+#EXTINF:-1,Fox Comedy HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/42
+#EXTINF:-1,Fox Animation HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/43
+#EXTINF:-1,Premium Action
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/182
+#EXTINF:-1,Premium Crime
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/184
+#EXTINF:-1,Premium Stories
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/187
+#EXTINF:-1,Blaze HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6461
+#EXTINF:-1,Comedy Central
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/47
+#EXTINF:-1,Lei
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6739
+#EXTINF:-1,Rai Premium HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/53
+#EXTINF:-1,Rai 4 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/54
+#EXTINF:-1,Rai 5 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/55
+#EXTINF:-1,20 Mediaset
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6384
+#EXTINF:-1,La 5 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/56
+#EXTINF:-1,Mediaset ITALIA DUE
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/57
+#EXTINF:-1,Mediaset EXTRA
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/58
+#EXTINF:-1,Topcrime
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/59
+#EXTINF:-1,Giallo
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/60
+#EXTINF:-1,Real Time HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/50
+#EXTINF:-1,DMAX
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/118
+#EXTINF:-1,Spike
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6386
+#EXTINF:-1,Alpha
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6732
+#EXTINF:-1,La 7d HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/2682
+#EXTINF:-1,TV 2000
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/52
+#EXTINF:-1,Canale 21
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6727
+#EXTINF:-1,Sky Sport 24 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/63
+#EXTINF:-1,Sky Sport 1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/64
+#EXTINF:-1,Sky Sport Arena HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/65
+#EXTINF:-1,Sky Sport F1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/70
+#EXTINF:-1,Sky Sport MotoGP HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/71
+#EXTINF:-1,Sky Sport NBA HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/67
+#EXTINF:-1,Sky Sport Golf HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/68
+#EXTINF:-1,EuroSport HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/72
+#EXTINF:-1,EuroSport 2 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/73
+#EXTINF:-1,Rai Sport + HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/76
+#EXTINF:-1,Sportitalia
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/69
+#EXTINF:-1,SuperTennis HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/81
+#EXTINF:-1,Top Calcio 24 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22465
+#EXTINF:-1,WWE Network
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22788
+#EXTINF:-1,Fight Network
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22789
+#EXTINF:-1,AutoMoto Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/78
+#EXTINF:-1,Bike Channel HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/74
+#EXTINF:-1,CACCIA e Pesca
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/82
+#EXTINF:-1,PESCA E Caccia
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/247
+#EXTINF:-1,Italian Fishing
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/2683
+#EXTINF:-1,Passione Surf Casting-1
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/5454
+#EXTINF:-1,Passione Surf Casting-2
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6061
+#EXTINF:-1,Passione Pesca
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/3535
+#EXTINF:-1,UnireSat HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6728
+#EXTINF:-1,Sky Sport Serie A HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/89
+#EXTINF:-1,Sky Sport Football HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/66
+#EXTINF:-1,Sky Calcio 1 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/90
+#EXTINF:-1,Sky Calcio 2 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/91
+#EXTINF:-1,Sky Calcio 3 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/92
+#EXTINF:-1,Sky Calcio 4 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/93
+#EXTINF:-1,Sky Calcio 5 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/94
+#EXTINF:-1,Sky Calcio 6 HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/95
+#EXTINF:-1,Milan Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/84
+#EXTINF:-1,Inter Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/85
+#EXTINF:-1,Torino Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6741
+#EXTINF:-1,Roma TV
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/87
+#EXTINF:-1,Lazio Style Ch
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/88
+#EXTINF:-1,Calcio Napoli 24
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6628
+#EXTINF:-1,Real Madrid Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6742
+#EXTINF:-1,Barca Channel
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6743
+#EXTINF:-1,Vetrina DAZN
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/7290
+#EXTINF:-1,DAZN 1 Serie A
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6726
+#EXTINF:-1,DAZN Sport 1
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6724
+#EXTINF:-1,DAZN Sport 2
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6723
+#EXTINF:-1,DAZN Sport 3
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6722
+#EXTINF:-1,DAZN Sport 4
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6721
+#EXTINF:-1,DAZN Sport 5
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6720
+#EXTINF:-1,DAZN Sport 6
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6719
+#EXTINF:-1,DAZN Sport 7
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6718
+#EXTINF:-1,DAZN Sport 8
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6717
+#EXTINF:-1,DAZN Sport 9
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6716
+#EXTINF:-1,DAZN Sport 10
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6715
+#EXTINF:-1,DAZN Sport 11
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6714
+#EXTINF:-1,DAZN Sport 12
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6713
+#EXTINF:-1,DAZN Sport 13
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6842
+#EXTINF:-1,LEGA PRO |  Pro Piacenza
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21282
+#EXTINF:-1,LEGA PRO |  Pro vercelli
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21281
+#EXTINF:-1,LEGA PRO |  Robur Siena
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21280
+#EXTINF:-1,LEGA PRO | Albinoleffe
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21279
+#EXTINF:-1,LEGA PRO | Albissola
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21278
+#EXTINF:-1,LEGA PRO | Alessandria
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21277
+#EXTINF:-1,LEGA PRO | Arezzo
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21276
+#EXTINF:-1,LEGA PRO | Arzachena
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21275
+#EXTINF:-1,LEGA PRO | Bisceglie
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21274
+#EXTINF:-1,LEGA PRO | Carrarese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21273
+#EXTINF:-1,LEGA PRO | Casertana
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21272
+#EXTINF:-1,LEGA PRO | Catanzaro
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21271
+#EXTINF:-1,LEGA PRO | Cuneo
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21270
+#EXTINF:-1,LEGA PRO | Fano
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21269
+#EXTINF:-1,LEGA PRO | Feralpisal
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21268
+#EXTINF:-1,LEGA PRO | Fermana
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21267
+#EXTINF:-1,LEGA PRO | Francavilla
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21266
+#EXTINF:-1,LEGA PRO | Giana Erminio
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21265
+#EXTINF:-1,LEGA PRO | Gozzano
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21264
+#EXTINF:-1,LEGA PRO | Gubbio
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21263
+#EXTINF:-1,LEGA PRO | Imolese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21262
+#EXTINF:-1,LEGA PRO | Juve Stabia
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21261
+#EXTINF:-1,LEGA PRO | Juventus 23
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21260
+#EXTINF:-1,LEGA PRO | Lucchese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21259
+#EXTINF:-1,LEGA PRO | Matera
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21258
+#EXTINF:-1,LEGA PRO | Monopoli
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21257
+#EXTINF:-1,LEGA PRO | Monza
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21256
+#EXTINF:-1,LEGA PRO | Novara
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21255
+#EXTINF:-1,LEGA PRO | Olbia
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21254
+#EXTINF:-1,LEGA PRO | Paganese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21253
+#EXTINF:-1,LEGA PRO | Pisa
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21252
+#EXTINF:-1,LEGA PRO | Pistoiese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21251
+#EXTINF:-1,LEGA PRO | Pontedera
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21250
+#EXTINF:-1,LEGA PRO | Pordenone
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21249
+#EXTINF:-1,LEGA PRO | Potenza
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21248
+#EXTINF:-1,LEGA PRO | Propatria
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21247
+#EXTINF:-1,LEGA PRO | Ravenna
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21246
+#EXTINF:-1,LEGA PRO | Reggina
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21245
+#EXTINF:-1,LEGA PRO | Renate
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21244
+#EXTINF:-1,LEGA PRO | Rende
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21243
+#EXTINF:-1,LEGA PRO | Rieti
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21242
+#EXTINF:-1,LEGA PRO | Rimini
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21241
+#EXTINF:-1,LEGA PRO | Sambenedettese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21240
+#EXTINF:-1,LEGA PRO | Sicula Leonzio
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21239
+#EXTINF:-1,LEGA PRO | Siracusa
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21238
+#EXTINF:-1,LEGA PRO | Sudtirol
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21237
+#EXTINF:-1,LEGA PRO | Teramo
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21236
+#EXTINF:-1,LEGA PRO | Ternana
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21235
+#EXTINF:-1,LEGA PRO | Trapani
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21234
+#EXTINF:-1,LEGA PRO | Triestina
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21233
+#EXTINF:-1,LEGA PRO | Vibonese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21232
+#EXTINF:-1,LEGA PRO | Vicenza
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21231
+#EXTINF:-1,LEGA PRO | Virtus Entella
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21230
+#EXTINF:-1,LEGA PRO | Virtus Verona
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21229
+#EXTINF:-1,LEGA PRO | Vis Pesaro
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21228
+#EXTINF:-1,LEGA PRO | Viterbese Castrese
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/21227
+#EXTINF:-1,NationalGeo HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/105
+#EXTINF:-1,NatGeo People HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/106
+#EXTINF:-1,NatGeo Wild HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/107
+#EXTINF:-1,Discovery HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/109
+#EXTINF:-1,Discovery Sci HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/111
+#EXTINF:-1,CI Crime+Investigation HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/4755
+#EXTINF:-1,Enigmi Alieni
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/3577
+#EXTINF:-1,Focus
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/117
+#EXTINF:-1,Motor Trend
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6730
+#EXTINF:-1,Rai Storia HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22463
+#EXTINF:-1,History HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/115
+#EXTINF:-1,Sky Arte HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/122
+#EXTINF:-1,laeffe
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/121
+#EXTINF:-1,MARCOPOLO
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/120
+#EXTINF:-1,Dove Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6740
+#EXTINF:-1,Gambero Rosso HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/123
+#EXTINF:-1,Alice
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/124
+#EXTINF:-1,Food Network
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6397
+#EXTINF:-1,Classica HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/127
+#EXTINF:-1,RTL 102.5 TV
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6736
+#EXTINF:-1,Radio Montecarlo Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/132
+#EXTINF:-1,Radio M2o Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6392
+#EXTINF:-1,Radio 105 TV
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/134
+#EXTINF:-1,Radio Italia Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6735
+#EXTINF:-1,Radio 51 Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6395
+#EXTINF:-1,Radio Capital Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6394
+#EXTINF:-1,Radio Universal Tv
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/6737
+#EXTINF:-1,Disney Channel HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/138
+#EXTINF:-1,Disney XD HD
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/141
+#EXTINF:-1,Disney Junior
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/142
+#EXTINF:-1,Cartoon Network
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/22467
+#EXTINF:-1,Boomerang
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/146
+#EXTINF:-1,Nickelodeon
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/147
+#EXTINF:-1,Nick Junior
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/148
+#EXTINF:-1,Baby TV
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/150
+#EXTINF:-1,DeAJunior
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/151
+#EXTINF:-1,DeAKids
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/152
+#EXTINF:-1,MAN-GA
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/153
+#EXTINF:-1,Super!
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/154
+#EXTINF:-1,K2
+http://valecpf.dyndns.tv:8000/AYRE175/8OEgyWIsOG/155
