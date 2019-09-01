@@ -1,3 +1,10 @@
+#EXTM3U
+#EXTINF:-1,FR:TF 1
+http://kanali.ddns.net:25461/live/tvfrance/tvfrance/1369.m3u8
+#EXTINF:-1,FR:France 24
+http://kanali.ddns.net:25461/live/tvfrance/tvfrance/1371.m3u8
+#EXTINF:-1,FR:Arte
+http://kanali.ddns.net:25461/live/tvfrance/tvfrance/1370.m3u8
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",A2i Music
 https://str-3.mediabay.tv/A2iMusic/playlist.m3u8?token=89f5edc5a14fdb0455a0bdf27aa4008c90bc3d98-3320ccdf66287939ada91407f657d932-1566585900-1566575100
