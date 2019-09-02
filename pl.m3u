@@ -1,239 +1,99 @@
 #EXTM3U
-#EXTINF:-1,TVP FHD
-http://king365-tv.com:2103/0101/0101/2949
-#EXTINF:-1,TVP 1 FHD
-http://king365-tv.com:2103/0101/0101/2951
-#EXTINF:-1,TVP 2 FHD
-http://king365-tv.com:2103/0101/0101/2950
+#EXTINF:-1,POLSAT CAFE
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4880.m3u8
+#EXTINF:-1,Polsat Film HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4879.m3u8
+#EXTINF:-1,POLSAT HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4878.m3u8
+#EXTINF:-1,POLSAT PLAY
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4876.m3u8
+#EXTINF:-1,POLSAT SPORT HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4874.m3u8
+#EXTINF:-1,TVN Turbo HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4892.m3u8
+#EXTINF:-1,TVP 1 HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4885.m3u8
+#EXTINF:-1,TVP2
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4886.m3u8
 #EXTINF:-1,TVP 3
-http://king365-tv.com:2103/0101/0101/5460
-#EXTINF:-1,TVP ABC
-http://king365-tv.com:2103/0101/0101/5452
-#EXTINF:-1,TVP Historia
-http://king365-tv.com:2103/0101/0101/5453
-#EXTINF:-1,TVP Info FHD
-http://king365-tv.com:2103/0101/0101/5455
-#EXTINF:-1,TVP Info HD
-http://king365-tv.com:2103/0101/0101/5454
-#EXTINF:-1,TVP Kultura
-http://king365-tv.com:2103/0101/0101/5456
-#EXTINF:-1,TVP Polonia
-http://king365-tv.com:2103/0101/0101/5457
-#EXTINF:-1,TVP Rozrywka
-http://king365-tv.com:2103/0101/0101/5464
-#EXTINF:-1,TVP Seriale
-http://king365-tv.com:2103/0101/0101/5463
-#EXTINF:-1,TVN FHD
-http://king365-tv.com:2103/0101/0101/2953
-#EXTINF:-1,TVN 7 FHD
-http://king365-tv.com:2103/0101/0101/2955
-#EXTINF:-1,TV Puls HD
-http://king365-tv.com:2103/0101/0101/2959
-#EXTINF:-1,TV6
-http://king365-tv.com:2103/0101/0101/2957
-#EXTINF:-1,Nowa TV
-http://king365-tv.com:2103/0101/0101/5445
-#EXTINF:-1,Stopklatka TV
-http://king365-tv.com:2103/0101/0101/5447
-#EXTINF:-1,Superstacja
-http://king365-tv.com:2103/0101/0101/5448
-#EXTINF:-1,TVP 2
-http://king365-tv.com:2103/0101/0101/5323
-#EXTINF:-1,POLSAT FHD
-http://king365-tv.com:2103/0101/0101/5446
-#EXTINF:-1,POLSAT 2 FHD
-http://king365-tv.com:2103/0101/0101/2977
-#EXTINF:-1,TV4
-http://king365-tv.com:2103/0101/0101/2958
-#EXTINF:-1,POLSAT Cafe FHD
-http://king365-tv.com:2103/0101/0101/2976
-#EXTINF:-1,POLSATay FHD
-http://king365-tv.com:2103/0101/0101/2973
-#EXTINF:-1,TVN STYLE
-http://king365-tv.com:2103/0101/0101/5287
-#EXTINF:-1,TVN STYLE FHD
-http://king365-tv.com:2103/0101/0101/5288
-#EXTINF:-1,TVN Turbo FHD
-http://king365-tv.com:2103/0101/0101/2952
-#EXTINF:-1,Travel Channel
-http://king365-tv.com:2103/0101/0101/2960
-#EXTINF:-1,Adventure FHD
-http://king365-tv.com:2103/0101/0101/2938
-#EXTINF:-1,Domo+ FHD
-http://king365-tv.com:2103/0101/0101/2909
-#EXTINF:-1,E! HD
-http://king365-tv.com:2103/0101/0101/5291
-#EXTINF:-1,HGTV FHD
-http://king365-tv.com:2103/0101/0101/2989
-#EXTINF:-1,Kuchnia+ FHD
-http://king365-tv.com:2103/0101/0101/2987
-#EXTINF:-1,Super Polsat
-http://king365-tv.com:2103/0101/0101/2964
-#EXTINF:-1,Polsat News FHD
-http://king365-tv.com:2103/0101/0101/5305
-#EXTINF:-1,Polsat News 2
-http://king365-tv.com:2103/0101/0101/5307
-#EXTINF:-1,TVN 24 BIS
-http://king365-tv.com:2103/0101/0101/5308
-#EXTINF:-1,TVN 24
-http://king365-tv.com:2103/0101/0101/2956
-#EXTINF:-1,TVN Fabula FHD
-http://king365-tv.com:2103/0101/0101/2954
-#EXTINF:-1,TTV FHD
-http://king365-tv.com:2103/0101/0101/5449
-#EXTINF:-1,TV Republika
-http://king365-tv.com:2103/0101/0101/5450
-#EXTINF:-1,TV Trwam
-http://king365-tv.com:2103/0101/0101/5451
-#EXTINF:-1,TVS
-http://king365-tv.com:2103/0101/0101/5462
-#EXTINF:-1,WP
-http://king365-tv.com:2103/0101/0101/5461
-#EXTINF:-1,Polsat Sport FHD
-http://king365-tv.com:2103/0101/0101/2970
-#EXTINF:-1,Polsat Sport Extra FHD
-http://king365-tv.com:2103/0101/0101/2972
-#EXTINF:-1,Polsat Sport News FHD
-http://king365-tv.com:2103/0101/0101/2969
-#EXTINF:-1,SportKlub FHD
-http://king365-tv.com:2103/0101/0101/2966
-#EXTINF:-1,TVP Sport FHD
-http://king365-tv.com:2103/0101/0101/2948
-#EXTINF:-1,Extreme Sports FHD
-http://king365-tv.com:2103/0101/0101/2900
-#EXTINF:-1,POLSAT Sport Fight FHD
-http://king365-tv.com:2103/0101/0101/2971
-#EXTINF:-1,Fightbox FHD
-http://king365-tv.com:2103/0101/0101/2897
-#EXTINF:-1,PPV KSW FIGHTS
-http://king365-tv.com:2103/0101/0101/2898
-#EXTINF:-1,Fight Channel World FHD
-http://king365-tv.com:2103/0101/0101/2899
-#EXTINF:-1,ATM Rozrywka TV
-http://king365-tv.com:2103/0101/0101/5327
-#EXTINF:-1,Motorwizja
-http://king365-tv.com:2103/0101/0101/5313
-#EXTINF:-1,Animalanet HD
-http://king365-tv.com:2103/0101/0101/2936
-#EXTINF:-1,BBC HD
-http://king365-tv.com:2103/0101/0101/2930
-#EXTINF:-1,BBC Earth HD
-http://king365-tv.com:2103/0101/0101/2931
-#EXTINF:-1,BBC BRIT
-http://king365-tv.com:2103/0101/0101/12398
-#EXTINF:-1,BBC LIFESTYLE FHD
-http://king365-tv.com:2103/0101/0101/12397
-#EXTINF:-1,CBS Reality
-http://king365-tv.com:2103/0101/0101/2917
-#EXTINF:-1,DA VINCI LEARNING
-http://king365-tv.com:2103/0101/0101/5300
-#EXTINF:-1,Discovery Channel FHD
-http://king365-tv.com:2103/0101/0101/5409
-#EXTINF:-1,Discovery Life FHD
-http://king365-tv.com:2103/0101/0101/2912
-#EXTINF:-1,Discovery Science FHD
-http://king365-tv.com:2103/0101/0101/2911
-#EXTINF:-1,Investigation Discovery FHD
-http://king365-tv.com:2103/0101/0101/5292
-#EXTINF:-1,Crime and Investigation FHD
-http://king365-tv.com:2103/0101/0101/2945
-#EXTINF:-1,Discovery Historia
-http://king365-tv.com:2103/0101/0101/5444
-#EXTINF:-1,HISTORY FHD
-http://king365-tv.com:2103/0101/0101/5299
-#EXTINF:-1,HISTORY FULL HD
-http://king365-tv.com:2103/0101/0101/5298
-#EXTINF:-1,DTX HD
-http://king365-tv.com:2103/0101/0101/2908
-#EXTINF:-1,H2 FHD
-http://king365-tv.com:2103/0101/0101/2993
-#EXTINF:-1,Nat Geo FHD
-http://king365-tv.com:2103/0101/0101/2983
-#EXTINF:-1,Nat Geo Wild FHD
-http://king365-tv.com:2103/0101/0101/5320
-#EXTINF:-1,Nat Geo People FHD
-http://king365-tv.com:2103/0101/0101/5321
-#EXTINF:-1,Nat Geo People FHD
-http://king365-tv.com:2103/0101/0101/2982
-#EXTINF:-1,Planete FHD
-http://king365-tv.com:2103/0101/0101/12393
-#EXTINF:-1,Planete + FHD
-http://king365-tv.com:2103/0101/0101/2979
-#EXTINF:-1,POLSAT Doku FHD
-http://king365-tv.com:2103/0101/0101/5304
-#EXTINF:-1,Viasat Nature
-http://king365-tv.com:2103/0101/0101/5314
-#EXTINF:-1,POLSAT Viasat Explore FHD
-http://king365-tv.com:2103/0101/0101/2968
-#EXTINF:-1,POLSAT Viasat History FHD
-http://king365-tv.com:2103/0101/0101/5315
-#EXTINF:-1,POLSAT Games HD
-http://king365-tv.com:2103/0101/0101/14647
-#EXTINF:-1,Polsat Rodzina
-http://king365-tv.com:2103/0101/0101/14648
-#EXTINF:-1,13 Ulica FULL HD
-http://king365-tv.com:2103/0101/0101/2939
-#EXTINF:-1,AXN Black
-http://king365-tv.com:2103/0101/0101/2935
-#EXTINF:-1,AXN White
-http://king365-tv.com:2103/0101/0101/2932
-#EXTINF:-1,AXN
-http://king365-tv.com:2103/0101/0101/2934
-#EXTINF:-1,AXN Spin FHD
-http://king365-tv.com:2103/0101/0101/2933
-#EXTINF:-1,Comedy Central FHD
-http://king365-tv.com:2103/0101/0101/2914
-#EXTINF:-1,Comedy Central
-http://king365-tv.com:2103/0101/0101/6253
-#EXTINF:-1,Comedy Central Family FHD
-http://king365-tv.com:2103/0101/0101/2913
-#EXTINF:-1,AMC HD
-http://king365-tv.com:2103/0101/0101/5317
-#EXTINF:-1,Fox FHD
-http://king365-tv.com:2103/0101/0101/5311
-#EXTINF:-1,Fox Comedy
-http://king365-tv.com:2103/0101/0101/2994
-#EXTINF:-1,Fox Comedy FHD
-http://king365-tv.com:2103/0101/0101/5312
-#EXTINF:-1,Epic Drama FHD
-http://king365-tv.com:2103/0101/0101/12830
-#EXTINF:-1,Lifetime FHD
-http://king365-tv.com:2103/0101/0101/2986
-#EXTINF:-1,POLSAT Film FHD
-http://king365-tv.com:2103/0101/0101/2975
-#EXTINF:-1,POLSAT Romans
-http://king365-tv.com:2103/0101/0101/5303
-#EXTINF:-1,TLC FHD
-http://king365-tv.com:2103/0101/0101/2962
-#EXTINF:-1,CBS Action
-http://king365-tv.com:2103/0101/0101/2919
-#EXTINF:-1,CBS Europa FHD
-http://king365-tv.com:2103/0101/0101/2918
-#EXTINF:-1,FilmBox Action
-http://king365-tv.com:2103/0101/0101/2896
-#EXTINF:-1,FilmBox Arthouse
-http://king365-tv.com:2103/0101/0101/2895
-#EXTINF:-1,FilmBox Family
-http://king365-tv.com:2103/0101/0101/2893
-#EXTINF:-1,FilmBox Premium
-http://king365-tv.com:2103/0101/0101/2891
-#EXTINF:-1,FilmBox Extra FHD
-http://king365-tv.com:2103/0101/0101/2894
-#EXTINF:-1,Kino Polska
-http://king365-tv.com:2103/0101/0101/2988
-#EXTINF:-1,Paramount Channel HD
-http://king365-tv.com:2103/0101/0101/2980
-#EXTINF:-1,Active Family
-http://king365-tv.com:2103/0101/0101/5302
-#EXTINF:-1,Sundance FHD
-http://king365-tv.com:2103/0101/0101/2965
-#EXTINF:-1,Romance FHD
-http://king365-tv.com:2103/0101/0101/2967
-#EXTINF:-1,SciFi Universal FULL HD
-http://king365-tv.com:2103/0101/0101/2947
-#EXTINF:-1,Stars TV
-http://king365-tv.com:2103/0101/0101/3355
-#EXTINF:-1,TNT FULL HD
-http://king365-tv.com:2103/0101/0101/2961
-#EXTINF:-1,Zoom TV
-http://king365-tv.com:2103/0101/0101/5325
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4887.m3u8
+#EXTINF:-1,Eska TV HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/22326.m3u8
+#EXTINF:-1,TVN 24 HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/22325.m3u8
+#EXTINF:-1,TVN 7 HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/22324.m3u8
+#EXTINF:-1,HBO HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20553.m3u8
+#EXTINF:-1,ALIE KINO
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20549.m3u8
+#EXTINF:-1,AXN HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20548.m3u8
+#EXTINF:-1,BBC
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20545.m3u8
+#EXTINF:-1,Satellite TV
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20542.m3u8
+#EXTINF:-1,Satellite TV
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20541.m3u8
+#EXTINF:-1,Satellite TV
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20540.m3u8
+#EXTINF:-1,Satellite TV
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20538.m3u8
+#EXTINF:-1,Satellite TV
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20537.m3u8
+#EXTINF:-1,Satellite TV
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20535.m3u8
+#EXTINF:-1,Cinemax HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20531.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20530.m3u8
+#EXTINF:-1,Eleven Extra HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20529.m3u8
+#EXTINF:-1,ELEVEN HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20528.m3u8
+#EXTINF:-1,Eleven Sports HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20527.m3u8
+#EXTINF:-1,EUROSPORT
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20526.m3u8
+#EXTINF:-1,EUROSPORT2
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20524.m3u8
+#EXTINF:-1,FILMBOX FAMILY
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20521.m3u8
+#EXTINF:-1,FILMBOX PREMIUM HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20520.m3u8
+#EXTINF:-1,Hbo 3 HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20517.m3u8
+#EXTINF:-1,HBO2
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20516.m3u8
+#EXTINF:-1,Ale Kino+ HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20514.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20512.m3u8
+#EXTINF:-1,NATGEO WILD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20511.m3u8
+#EXTINF:-1,Nsports + HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20510.m3u8
+#EXTINF:-1,POLSAT NEWS HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20506.m3u8
+#EXTINF:-1,POLSAT ROMANS
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20504.m3u8
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20502.m3u8
+#EXTINF:-1,POLSAT SPORTS NEWS HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20501.m3u8
+#EXTINF:-1,Polsat 2 HD PL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20500.m3u8
+#EXTINF:-1,TVN HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20498.m3u8
+#EXTINF:-1,TVN Style HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20497.m3u8
+#EXTINF:-1,TVP HISTORIA
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20494.m3u8
+#EXTINF:-1,TVP KULTURE
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20493.m3u8
+#EXTINF:-1,TVP SPORT HD
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20491.m3u8
+#EXTINF:-1,TVPINFO
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20488.m3u8
+#EXTINF:-1,TVP SERIAL
+http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20487.m3u8
