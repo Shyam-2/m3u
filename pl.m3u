@@ -1,99 +1,175 @@
 #EXTM3U
-#EXTINF:-1,POLSAT CAFE
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4880.m3u8
-#EXTINF:-1,Polsat Film HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4879.m3u8
-#EXTINF:-1,POLSAT HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4878.m3u8
-#EXTINF:-1,POLSAT PLAY
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4876.m3u8
-#EXTINF:-1,POLSAT SPORT HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4874.m3u8
-#EXTINF:-1,TVN Turbo HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4892.m3u8
-#EXTINF:-1,TVP 1 HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4885.m3u8
-#EXTINF:-1,TVP2
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4886.m3u8
-#EXTINF:-1,TVP 3
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4887.m3u8
-#EXTINF:-1,Eska TV HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/22326.m3u8
-#EXTINF:-1,TVN 24 HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/22325.m3u8
-#EXTINF:-1,TVN 7 HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/22324.m3u8
-#EXTINF:-1,HBO HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20553.m3u8
-#EXTINF:-1,ALIE KINO
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20549.m3u8
-#EXTINF:-1,AXN HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20548.m3u8
-#EXTINF:-1,BBC
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20545.m3u8
-#EXTINF:-1,Satellite TV
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20542.m3u8
-#EXTINF:-1,Satellite TV
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20541.m3u8
-#EXTINF:-1,Satellite TV
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20540.m3u8
-#EXTINF:-1,Satellite TV
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20538.m3u8
-#EXTINF:-1,Satellite TV
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20537.m3u8
-#EXTINF:-1,Satellite TV
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20535.m3u8
-#EXTINF:-1,Cinemax HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20531.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20530.m3u8
-#EXTINF:-1,Eleven Extra HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20529.m3u8
+#EXTINF:-1,Ale Kino HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10580.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10579.m3u8
+#EXTINF:-1,AXN Black
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10578.m3u8
+#EXTINF:-1,AXN White Poland
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10577.m3u8
+#EXTINF:-1,Boomerang
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10576.m3u8
+#EXTINF:-1,CANAL FAMILY
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10575.m3u8
+#EXTINF:-1,CANAL FILM
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10574.m3u8
+#EXTINF:-1,CANAL HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10573.m3u8
+#EXTINF:-1,CANAL SERIALE
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10572.m3u8
+#EXTINF:-1,CANAL SPORT
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10571.m3u8
+#EXTINF:-1,CANAL SPORT 2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10570.m3u8
+#EXTINF:-1,CBS Reality
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10569.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10568.m3u8
+#EXTINF:-1,Disco Polo Music
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10567.m3u8
+#EXTINF:-1,Discovery HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10566.m3u8
+#EXTINF:-1,Discovery Life  Poland HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10564.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10563.m3u8
+#EXTINF:-1,Disney Channel HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10562.m3u8
+#EXTINF:-1,Disney XD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10561.m3u8
+#EXTINF:-1,E! Entertainment
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10560.m3u8
 #EXTINF:-1,ELEVEN HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20528.m3u8
-#EXTINF:-1,Eleven Sports HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20527.m3u8
-#EXTINF:-1,EUROSPORT
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20526.m3u8
-#EXTINF:-1,EUROSPORT2
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20524.m3u8
-#EXTINF:-1,FILMBOX FAMILY
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20521.m3u8
-#EXTINF:-1,FILMBOX PREMIUM HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20520.m3u8
-#EXTINF:-1,Hbo 3 HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20517.m3u8
-#EXTINF:-1,HBO2
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20516.m3u8
-#EXTINF:-1,Ale Kino+ HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20514.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20512.m3u8
-#EXTINF:-1,NATGEO WILD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20511.m3u8
-#EXTINF:-1,Nsports + HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20510.m3u8
-#EXTINF:-1,POLSAT NEWS HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20506.m3u8
-#EXTINF:-1,POLSAT ROMANS
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20504.m3u8
-#EXTINF:-1,POLSAT SPORT EXTRA HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20502.m3u8
-#EXTINF:-1,POLSAT SPORTS NEWS HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20501.m3u8
-#EXTINF:-1,Polsat 2 HD PL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20500.m3u8
-#EXTINF:-1,TVN HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20498.m3u8
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10559.m3u8
+#EXTINF:-1,ELEVEN Sport HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10558.m3u8
+#EXTINF:-1,ESKA TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10557.m3u8
+#EXTINF:-1,ESKA TV Extra
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10556.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10554.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10553.m3u8
+#EXTINF:-1,Extreme Sports HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10552.m3u8
+#EXTINF:-1,Fightbox HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10551.m3u8
+#EXTINF:-1,FILMBOX EXTRA HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10547.m3u8
+#EXTINF:-1,Filmbox Family
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10546.m3u8
+#EXTINF:-1,Filmbox Premium
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10545.m3u8
+#EXTINF:-1,FilmBox Premium HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10544.m3u8
+#EXTINF:-1,FOKUS TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10543.m3u8
+#EXTINF:-1,Food Network HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10542.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10541.m3u8
+#EXTINF:-1,Golf Channel
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10539.m3u8
+#EXTINF:-1,H2 HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10538.m3u8
+#EXTINF:-1,HBO 2 HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10537.m3u8
+#EXTINF:-1,HBO HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10536.m3u8
+#EXTINF:-1,Hip Hop TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10535.m3u8
+#EXTINF:-1,History HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10534.m3u8
+#EXTINF:-1,Investigation Discovery Polska
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10533.m3u8
+#EXTINF:-1,KINO POLSKA
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10532.m3u8
+#EXTINF:-1,KUCHNIA HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10531.m3u8
+#EXTINF:-1,Lifetime HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10530.m3u8
+#EXTINF:-1,MiniMini  HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10529.m3u8
+#EXTINF:-1,MTV Live HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10528.m3u8
+#EXTINF:-1,MTV Polska HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10526.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10525.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10524.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10522.m3u8
+#EXTINF:-1,National Geographic Polska
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10521.m3u8
+#EXTINF:-1,nSport
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10520.m3u8
+#EXTINF:-1,Polsat
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10519.m3u8
+#EXTINF:-1,Polsat 2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10518.m3u8
+#EXTINF:-1,Polsat Cafe
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10517.m3u8
+#EXTINF:-1,Polsat Film
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10516.m3u8
+#EXTINF:-1,Polsat HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10515.m3u8
+#EXTINF:-1,Polsat Jim Jam
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10514.m3u8
+#EXTINF:-1,Polsat News HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10513.m3u8
+#EXTINF:-1,Polsat Sport
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10510.m3u8
+#EXTINF:-1,Polsat Sport Extra HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10509.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10508.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10507.m3u8
+#EXTINF:-1,POWER TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10506.m3u8
+#EXTINF:-1,SciFi Universal
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10505.m3u8
+#EXTINF:-1,Sundance HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10504.m3u8
+#EXTINF:-1,Super Polsat
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10503.m3u8
+#EXTINF:-1,TLC HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10501.m3u8
+#EXTINF:-1,TNT HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10500.m3u8
+#EXTINF:-1,TV Puls HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10499.m3u8
+#EXTINF:-1,TV4 HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10497.m3u8
+#EXTINF:-1,TV6 Polska
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10496.m3u8
+#EXTINF:-1,TVN
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10495.m3u8
+#EXTINF:-1,TVN 24
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10494.m3u8
+#EXTINF:-1,TVN Fabula
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10493.m3u8
 #EXTINF:-1,TVN Style HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20497.m3u8
-#EXTINF:-1,TVP HISTORIA
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20494.m3u8
-#EXTINF:-1,TVP KULTURE
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20493.m3u8
-#EXTINF:-1,TVP SPORT HD
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20491.m3u8
-#EXTINF:-1,TVPINFO
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20488.m3u8
-#EXTINF:-1,TVP SERIAL
-http://193.200.164.87:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20487.m3u8
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10491.m3u8
+#EXTINF:-1,TVN Turbo
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10490.m3u8
+#EXTINF:-1,TVP ABC
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10489.m3u8
+#EXTINF:-1,TVP Historia
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10488.m3u8
+#EXTINF:-1,VOX Music TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10481.m3u8
+#EXTINF:-1,TVP Kultura
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10487.m3u8
+#EXTINF:-1,TVP SERIALE
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10486.m3u8
+#EXTINF:-1,TVP1
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10485.m3u8
+#EXTINF:-1,TVP2 HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10484.m3u8
+#EXTINF:-1,TVP3
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10483.m3u8
+#EXTINF:-1,TVS
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/10482.m3u8
