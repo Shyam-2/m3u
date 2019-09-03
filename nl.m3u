@@ -1,91 +1,487 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1349.m3u8
-#EXTINF:-1,NPO 2 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1350.m3u8
-#EXTINF:-1,NPO 3 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1351.m3u8
-#EXTINF:-1,RTL 4 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/272.m3u8
-#EXTINF:-1,RTL 5 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/273.m3u8
-#EXTINF:-1,RTL 7 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1530.m3u8
-#EXTINF:-1,RTL 8 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1372.m3u8
+#EXTINF:-1,NPO 1
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17518.m3u8
+#EXTINF:-1,NPO 2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17517.m3u8
+#EXTINF:-1,NPO 3
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17516.m3u8
+#EXTINF:-1,RTL 4
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17513.m3u8
+#EXTINF:-1,RTL 5
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17512.m3u8
+#EXTINF:-1,RTL 7
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17511.m3u8
+#EXTINF:-1,RTL 8
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17510.m3u8
+#EXTINF:-1,RTL Crime
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17509.m3u8
+#EXTINF:-1,RTL Lounge
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17508.m3u8
 #EXTINF:-1,RTL Z
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/17336.m3u8
-#EXTINF:-1,SBS 6 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1529.m3u8
-#EXTINF:-1,NET 5
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1375.m3u8
-#EXTINF:-1, AT 5
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/19664.m3u8
-#EXTINF:-1,FOX
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/7181.m3u8
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17506.m3u8
+#EXTINF:-1,RTL Telekids
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17507.m3u8
+#EXTINF:-1,NPO Nieuws
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17515.m3u8
+#EXTINF:-1,SBS 9
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17503.m3u8
+#EXTINF:-1,SBS 6
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17504.m3u8
+#EXTINF:-1,Film 1 Action
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/25560.m3u8
+#EXTINF:-1,Film 1 Family
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17538.m3u8
+#EXTINF:-1,Film 1 Premiere
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17537.m3u8
+#EXTINF:-1,Film 1 Drama
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17539.m3u8
+#EXTINF:-1,24 Kitchen
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17556.m3u8
+#EXTINF:-1,Comedy Central
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17549.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17550.m3u8
+#EXTINF:-1,Crime Inv
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17548.m3u8
+#EXTINF:-1,E! NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17543.m3u8
+#EXTINF:-1,Net 5
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17523.m3u8
+#EXTINF:-1,TV Oost
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17499.m3u8
+#EXTINF:-1,TV Rijnmond
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17497.m3u8
+#EXTINF:-1,RTV Utrecht
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17505.m3u8
+#EXTINF:-1,Omroep Brabant NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11019.m3u8
+#EXTINF:-1,Omroep Flevoland NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11018.m3u8
+#EXTINF:-1,Omroep Gelderland NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11017.m3u8
+#EXTINF:-1,Omroep West NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11016.m3u8
+#EXTINF:-1,Omroep Zeeland NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11015.m3u8
+#EXTINF:-1,Omrop Fryslan NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11014.m3u8
+#EXTINF:-1,MTV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17526.m3u8
+#EXTINF:-1,Nick Music
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17521.m3u8
+#EXTINF:-1,Ons
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17514.m3u8
+#EXTINF:-1,Spike
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17501.m3u8
 #EXTINF:-1,TLC
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/7183.m3u8
-#EXTINF:-1,SBS 9 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1371.m3u8
-#EXTINF:-1,VERONICA DISNEY XD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1136.m3u8
-#EXTINF:-1, RTV Drenthe
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20400.m3u8
-#EXTINF:-1,RTV DRENTHE HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1388.m3u8
-#EXTINF:-1,NICK Jr (toons)
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1374.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1376.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4589.m3u8
-#EXTINF:-1,KET NET
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4588.m3u8
-#EXTINF:-1,NICK TOONS
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4584.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4586.m3u8
-#EXTINF:-1,RTL TELEKIDS
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4587.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/7182.m3u8
-#EXTINF:-1, HISTORY HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4512.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC  HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/261.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1531.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/262.m3u8
-#EXTINF:-1,FILM 1 PREMIER HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1373.m3u8
-#EXTINF:-1,FILM 1  DRAMA HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/279.m3u8
-#EXTINF:-1,FILM 1 FAMILY HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/282.m3u8
-#EXTINF:-1,FILM 1 ACTION HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/283.m3u8
-#EXTINF:-1, Ziggo Sport Voetbal
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1138.m3u8
-#EXTINF:-1, Ziggo Sport Golf
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4328.m3u8
-#EXTINF:-1, Ziggo Sport Racing
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4327.m3u8
-#EXTINF:-1, Ziggo Sport Select HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4326.m3u8
-#EXTINF:-1, Ziggo Sport eXtra 1
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4330.m3u8
-#EXTINF:-1, Ziggo Sport eXtra 2
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4329.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/264.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/265.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD EREDIVISIE
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/266.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/267.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD EREDIVISIE HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/268.m3u8
-#EXTINF:-1, Fox Sports 6 HD
-http://iptv.iptivihd.com:8000/live/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4331.m3u8
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17500.m3u8
+#EXTINF:-1,TV Oranje
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17498.m3u8
+#EXTINF:-1,FOX Channel
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17535.m3u8
+#EXTINF:-1,Slam!TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17502.m3u8
+#EXTINF:-1,Djazz tv
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17544.m3u8
+#EXTINF:-1,Viceland
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17494.m3u8
+#EXTINF:-1,Animal Planet
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17555.m3u8
+#EXTINF:-1,NatGeo Wild
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17525.m3u8
+#EXTINF:-1,National Geographic
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17524.m3u8
+#EXTINF:-1,Baby TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17554.m3u8
+#EXTINF:-1,history channel
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17528.m3u8
+#EXTINF:-1,Boomerang
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17553.m3u8
+#EXTINF:-1,Discovery
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17546.m3u8
+#EXTINF:-1,Discovery Inv
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17527.m3u8
+#EXTINF:-1,Cartoon Network
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17551.m3u8
+#EXTINF:-1,Disney Junior
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17545.m3u8
+#EXTINF:-1,Veronica
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17495.m3u8
+#EXTINF:-1,Nick Jr.
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17522.m3u8
+#EXTINF:-1,Nick toons
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17520.m3u8
+#EXTINF:-1,Nickelodeon
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17519.m3u8
+#EXTINF:-1,Eurosport 1
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17542.m3u8
+#EXTINF:-1,Eurosport 2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17541.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17489.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17487.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17490.m3u8
+#EXTINF:-1,Ziggo Sport Select
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17488.m3u8
+#EXTINF:-1,Ziggo Sport
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17493.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17492.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17491.m3u8
+#EXTINF:-1,Fox Sports 1
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17534.m3u8
+#EXTINF:-1,Fox Sports 2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17533.m3u8
+#EXTINF:-1,Fox Sports 3
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17532.m3u8
+#EXTINF:-1,Fox Sports 4
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17531.m3u8
+#EXTINF:-1,Fox Sports 5
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17530.m3u8
+#EXTINF:-1,Fox Sports 6
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17529.m3u8
+#EXTINF:-1,Food Network
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17536.m3u8
+#EXTINF:-1,Brava
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17552.m3u8
+#EXTINF:-1,TV West
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17496.m3u8
+#EXTINF:-1,100% NL TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/17557.m3u8
+#EXTINF:-1,JIM JAM
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13999.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9574.m3u8
+#EXTINF:-1,Disney Channel
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9573.m3u8
+#EXTINF:-1,Disney Channel NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11065.m3u8
+#EXTINF:-1,Extreme Sports
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9568.m3u8
+#EXTINF:-1,EDGE Sport HD NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11062.m3u8
+#EXTINF:-1,192TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9584.m3u8
+#EXTINF:-1,The Q You HD NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11008.m3u8
+#EXTINF:-1,Duck TV
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9572.m3u8
+#EXTINF:-1,Ketnet HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9548.m3u8
+#EXTINF:-1,AT 5 NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11024.m3u8
+#EXTINF:-1,RTV Noord NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11011.m3u8
+#EXTINF:-1,RTV Purmerend NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11049.m3u8
+#EXTINF:-1,RTV Slos NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11046.m3u8
+#EXTINF:-1,RTV Totaal NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11045.m3u8
+#EXTINF:-1,RTV Slingeland NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11047.m3u8
+#EXTINF:-1,NPO
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9540.m3u8
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11055.m3u8
+#EXTINF:-1,NPO Cultura NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11054.m3u8
+#EXTINF:-1,MTV Hits NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11059.m3u8
+#EXTINF:-1,iConcerts HD
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9551.m3u8
+#EXTINF:-1,Comedy Central
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9578.m3u8
+#EXTINF:-1,Crime & Investigation
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/9576.m3u8
+#EXTINF:-1,L1 TV NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11022.m3u8
+#EXTINF:-1,TV 538 NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11007.m3u8
+#EXTINF:-1,WOS NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11006.m3u8
+#EXTINF:-1,BBC Entertainment NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11066.m3u8
+#EXTINF:-1,EDE TV NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11063.m3u8
+#EXTINF:-1,Feel Good TV NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11061.m3u8
+#EXTINF:-1,Klipkar TV NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11060.m3u8
+#EXTINF:-1,Salto 1 NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11043.m3u8
+#EXTINF:-1,Salto 2 NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11042.m3u8
+#EXTINF:-1,Slotstad RTV NL
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11040.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11192.m3u8
+#EXTINF:-1,Ziggo Sport Select HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11193.m3u8
+#EXTINF:-1,Ziggo Sport Golf Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11194.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1 Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11196.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2 Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11195.m3u8
+#EXTINF:-1,Fox Sport 1 HD backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11202.m3u8
+#EXTINF:-1,Fox Sport 2 HD backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11201.m3u8
+#EXTINF:-1,Fox Sport 3 HD backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11200.m3u8
+#EXTINF:-1,Fox Sport 4 HD backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11199.m3u8
+#EXTINF:-1,Fox Sport 5 HD backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11198.m3u8
+#EXTINF:-1,Fox Sport 6 HD backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/11197.m3u8
+#EXTINF:-1,FOX Sports 1 HD Backup2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13549.m3u8
+#EXTINF:-1,FOX Sports 2 HD Backup2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13548.m3u8
+#EXTINF:-1,FOX Sports 3 HD Backup2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13547.m3u8
+#EXTINF:-1,FOX Sports 4 HD Backup2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13546.m3u8
+#EXTINF:-1,FOX Sports 5 HD Backup2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13545.m3u8
+#EXTINF:-1,FOX Sports 6 HD Backup2
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13544.m3u8
+#EXTINF:-1,RTL 4 FHD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13537.m3u8
+#EXTINF:-1,RTL 5 FHD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13536.m3u8
+#EXTINF:-1,RTL 7 FHD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13535.m3u8
+#EXTINF:-1,RTL 8 FHD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13534.m3u8
+#EXTINF:-1,RTL Crime HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13533.m3u8
+#EXTINF:-1,RTL Lounge Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13532.m3u8
+#EXTINF:-1,RTL Z Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13529.m3u8
+#EXTINF:-1,NPO 1 HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13543.m3u8
+#EXTINF:-1,NPO 2 HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13542.m3u8
+#EXTINF:-1,NPO 3 Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13541.m3u8
+#EXTINF:-1,NPO 3 Extra Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13540.m3u8
+#EXTINF:-1,NPO Politiek Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13539.m3u8
+#EXTINF:-1,NPO Zapp HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13538.m3u8
+#EXTINF:-1,SBS 9 HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13551.m3u8
+#EXTINF:-1,SBS6 HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13550.m3u8
+#EXTINF:-1,Film1 Family HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13526.m3u8
+#EXTINF:-1,Film1 Premiere HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13525.m3u8
+#EXTINF:-1,Film1 Drama HD Backup
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/13527.m3u8
+#EXTINF:-1,NPO 1 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21333.m3u8
+#EXTINF:-1,NPO 2 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21332.m3u8
+#EXTINF:-1,NPO 3 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21331.m3u8
+#EXTINF:-1,NPO NIEUWS 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21328.m3u8
+#EXTINF:-1,NPO EXTRA 1 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21330.m3u8
+#EXTINF:-1,NPO EXTRA 2 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21329.m3u8
+#EXTINF:-1,NPO POLITIEK 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21327.m3u8
+#EXTINF:-1,NPO ZAP/EXTRA 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21326.m3u8
+#EXTINF:-1,RTL 4 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21318.m3u8
+#EXTINF:-1,RTL 5 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21317.m3u8
+#EXTINF:-1,RTL 7 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21316.m3u8
+#EXTINF:-1,RTL 8 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21315.m3u8
+#EXTINF:-1,RTL Z 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21311.m3u8
+#EXTINF:-1,RTL CRIME 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21314.m3u8
+#EXTINF:-1,RTL LOUNGE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21313.m3u8
+#EXTINF:-1,RTL TELEKIDS 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21312.m3u8
+#EXTINF:-1,RTV UTRECHT 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21310.m3u8
+#EXTINF:-1,SBS 6 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21309.m3u8
+#EXTINF:-1,SBS 9 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21308.m3u8
+#EXTINF:-1,Film1 DRAMA 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21284.m3u8
+#EXTINF:-1,Film1 EUROPE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21283.m3u8
+#EXTINF:-1,Film1 FAMILY 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21282.m3u8
+#EXTINF:-1,Film1 PREMIERE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21281.m3u8
+#EXTINF:-1,FOX 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21356.m3u8
+#EXTINF:-1,OMROEP BRABANT 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21325.m3u8
+#EXTINF:-1,OMROEP FLEVOLAND 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21324.m3u8
+#EXTINF:-1,OMROEP FRYSLAND 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21323.m3u8
+#EXTINF:-1,OMROEP ZEELAND 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21322.m3u8
+#EXTINF:-1,100% NL TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21380.m3u8
+#EXTINF:-1,192 TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21379.m3u8
+#EXTINF:-1,24 KITCHEN 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21378.m3u8
+#EXTINF:-1,ANIMAL PLANET 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21377.m3u8
+#EXTINF:-1,AT 5 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21376.m3u8
+#EXTINF:-1,BABY TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21375.m3u8
+#EXTINF:-1,BOOMERANG 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21374.m3u8
+#EXTINF:-1,CARTOON NETWORK 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21373.m3u8
+#EXTINF:-1,COMEDY CENTRAL EXTRA 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21372.m3u8
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21371.m3u8
+#EXTINF:-1,CRIME INVESTIGATION 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21370.m3u8
+#EXTINF:-1,DANCE TRIPPIN 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21369.m3u8
+#EXTINF:-1,DISCOVERY 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21368.m3u8
+#EXTINF:-1,DISCOVERY ID 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21367.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21366.m3u8
+#EXTINF:-1,DISCOVERY WORLD 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21365.m3u8
+#EXTINF:-1,DISNEY CHANNEL 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21364.m3u8
+#EXTINF:-1,DISNEY XD 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21363.m3u8
+#EXTINF:-1,E! 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21362.m3u8
+#EXTINF:-1,FAMILY 7 KIDS 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21358.m3u8
+#EXTINF:-1,FASHION TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21357.m3u8
+#EXTINF:-1,HISTORY HD 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21349.m3u8
+#EXTINF:-1,HORSE COUNTRY TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21348.m3u8
+#EXTINF:-1,KETNET 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21347.m3u8
+#EXTINF:-1,L1 LIMBURG TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21346.m3u8
+#EXTINF:-1,MEZZO 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21345.m3u8
+#EXTINF:-1,MTV BRANDNEW 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21344.m3u8
+#EXTINF:-1,MTV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21343.m3u8
+#EXTINF:-1,MTV LIVE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21342.m3u8
+#EXTINF:-1,MTV MUSIC24 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21341.m3u8
+#EXTINF:-1,NET 5 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21340.m3u8
+#EXTINF:-1,NGC 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21339.m3u8
+#EXTINF:-1,NGC WILD 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21338.m3u8
+#EXTINF:-1,NICK JUNIOR 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21337.m3u8
+#EXTINF:-1,NICK MUSIC 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21336.m3u8
+#EXTINF:-1,NICK TOONS 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21335.m3u8
+#EXTINF:-1,NICKELODEON 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21334.m3u8
+#EXTINF:-1,ONS 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21321.m3u8
+#EXTINF:-1,OUT TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21320.m3u8
+#EXTINF:-1,PEBBLE TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21319.m3u8
+#EXTINF:-1,SLAM! TV 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21307.m3u8
+#EXTINF:-1,SPIKE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21306.m3u8
+#EXTINF:-1,TLC 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21305.m3u8
+#EXTINF:-1,TV 538 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21304.m3u8
+#EXTINF:-1,TV DRENTHE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21303.m3u8
+#EXTINF:-1,TV GELDERLAND 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21302.m3u8
+#EXTINF:-1,TV NOORD 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21301.m3u8
+#EXTINF:-1,TV OOST 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21300.m3u8
+#EXTINF:-1,TV ORANJE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21299.m3u8
+#EXTINF:-1,TV RIJNMOND 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21298.m3u8
+#EXTINF:-1,TV WEST 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21297.m3u8
+#EXTINF:-1,VERONICA 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21296.m3u8
+#EXTINF:-1,VH1 CLASSIC 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21295.m3u8
+#EXTINF:-1,VICELAND 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21294.m3u8
+#EXTINF:-1,XITE 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21293.m3u8
+#EXTINF:-1,EUROSPORT 1 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21361.m3u8
+#EXTINF:-1,EUROSPORT 2 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21360.m3u8
+#EXTINF:-1,EXTREME SPORTS 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21359.m3u8
+#EXTINF:-1,Ziggo SPORT EXTRA 1 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21292.m3u8
+#EXTINF:-1,Ziggo SPORT EXTRA 2 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21291.m3u8
+#EXTINF:-1,Ziggo SPORT GOLF 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21290.m3u8
+#EXTINF:-1,Ziggo SPORT 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21289.m3u8
+#EXTINF:-1,Ziggo SPORT RACING 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21288.m3u8
+#EXTINF:-1,Ziggo SPORT SELECT 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21287.m3u8
+#EXTINF:-1,Ziggo SPORT VOETBAL 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21286.m3u8
+#EXTINF:-1,FOX SPORTS 1 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21355.m3u8
+#EXTINF:-1,FOX SPORTS 2 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21354.m3u8
+#EXTINF:-1,FOX SPORTS 3 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21353.m3u8
+#EXTINF:-1,FOX SPORTS 4 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21352.m3u8
+#EXTINF:-1,FOX SPORTS 5 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21351.m3u8
+#EXTINF:-1,FOX SPORTS 6 4K
+http://m-iptv.net:6204/live/50480649/nabaz-sdmc-one-week83422762/21350.m3u8
