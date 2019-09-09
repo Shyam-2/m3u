@@ -1,99 +1,517 @@
 #EXTM3U
-#EXTINF:-1,BBC One
-http://hd.007iptv.com:2095/live/DITI/DITI/628.m3u8
-#EXTINF:-1,BBC Two
-http://hd.007iptv.com:2095/live/DITI/DITI/627.m3u8
-#EXTINF:-1,CHANNEL 4 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/622.m3u8
-#EXTINF:-1,CHANNEL 5 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/621.m3u8
-#EXTINF:-1,iTV1 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/626.m3u8
-#EXTINF:-1,iTV2 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/625.m3u8
-#EXTINF:-1,iTV3 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/624.m3u8
-#EXTINF:-1,iTV4 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/623.m3u8
-#EXTINF:-1,E!
-http://hd.007iptv.com:2095/live/DITI/DITI/7277.m3u8
-#EXTINF:-1,=== Uk News ===
-http://hd.007iptv.com:2095/live/DITI/DITI/619.m3u8
-#EXTINF:-1,BBC News HD
-http://hd.007iptv.com:2095/live/DITI/DITI/629.m3u8
-#EXTINF:-1,CNN
-http://hd.007iptv.com:2095/live/DITI/DITI/618.m3u8
-#EXTINF:-1,Sky News
-http://hd.007iptv.com:2095/live/DITI/DITI/617.m3u8
-#EXTINF:-1,===Sky UK Movies===
-http://hd.007iptv.com:2095/live/DITI/DITI/600.m3u8
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://hd.007iptv.com:2095/live/DITI/DITI/598.m3u8
-#EXTINF:-1,Sky Cinema Comedy
-http://hd.007iptv.com:2095/live/DITI/DITI/597.m3u8
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://hd.007iptv.com:2095/live/DITI/DITI/606.m3u8
-#EXTINF:-1,Sky Cinema Disney
-http://hd.007iptv.com:2095/live/DITI/DITI/596.m3u8
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://hd.007iptv.com:2095/live/DITI/DITI/595.m3u8
-#EXTINF:-1,Sky Cinema Greats
-http://hd.007iptv.com:2095/live/DITI/DITI/592.m3u8
-#EXTINF:-1,Sky Cinema Hits
-http://hd.007iptv.com:2095/live/DITI/DITI/593.m3u8
-#EXTINF:-1,Sky Cinema Premiere
-http://hd.007iptv.com:2095/live/DITI/DITI/599.m3u8
-#EXTINF:-1,Sky Cinema Sci Fi & Horror
-http://hd.007iptv.com:2095/live/DITI/DITI/591.m3u8
-#EXTINF:-1,Sky Cinema Select
-http://hd.007iptv.com:2095/live/DITI/DITI/607.m3u8
-#EXTINF:-1,Sky Movies Family
-http://hd.007iptv.com:2095/live/DITI/DITI/594.m3u8
-#EXTINF:-1,Sky Atlantic UK
-http://hd.007iptv.com:2095/live/DITI/DITI/590.m3u8
-#EXTINF:-1,Sky 1
-http://hd.007iptv.com:2095/live/DITI/DITI/620.m3u8
-#EXTINF:-1,=== Sky Uk & BT Sports ===
-http://hd.007iptv.com:2095/live/DITI/DITI/616.m3u8
-#EXTINF:-1,Sky Sports Action HD
-http://hd.007iptv.com:2095/live/DITI/DITI/610.m3u8
-#EXTINF:-1,Sky Sports Arena HD
-http://hd.007iptv.com:2095/live/DITI/DITI/609.m3u8
-#EXTINF:-1,Sky Sports Cricket HD
-http://hd.007iptv.com:2095/live/DITI/DITI/608.m3u8
-#EXTINF:-1,Sky Sports F1
-http://hd.007iptv.com:2095/live/DITI/DITI/604.m3u8
-#EXTINF:-1,Sky Sports Football
-http://hd.007iptv.com:2095/live/DITI/DITI/613.m3u8
-#EXTINF:-1,Sky Sports Main Event
-http://hd.007iptv.com:2095/live/DITI/DITI/612.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://hd.007iptv.com:2095/live/DITI/DITI/605.m3u8
-#EXTINF:-1,Sky Sports News
-http://hd.007iptv.com:2095/live/DITI/DITI/615.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://hd.007iptv.com:2095/live/DITI/DITI/614.m3u8
-#EXTINF:-1,Sky Sports The Open HD
-http://hd.007iptv.com:2095/live/DITI/DITI/611.m3u8
+#EXTINF:-1, Good Food
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16816.m3u8
+#EXTINF:-1,3e
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16709.m3u8
+#EXTINF:-1,4Music
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16883.m3u8
+#EXTINF:-1,4Seven
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16631.m3u8
+#EXTINF:-1,5 Spike
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16894.m3u8
+#EXTINF:-1,5Star
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16708.m3u8
+#EXTINF:-1,5USA
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16715.m3u8
+#EXTINF:-1,Alibi
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16707.m3u8
+#EXTINF:-1,Amc
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16877.m3u8
+#EXTINF:-1,AMC FROM BT
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16717.m3u8
+#EXTINF:-1,Animal Planet
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16791.m3u8
+#EXTINF:-1,Animal Planet   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16706.m3u8
+#EXTINF:-1,At The Races
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16705.m3u8
+#EXTINF:-1,Baby TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16843.m3u8
+#EXTINF:-1,BBC 3 FHD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16856.m3u8
+#EXTINF:-1,BBC 4 HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16703.m3u8
+#EXTINF:-1,BBC ALBA
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16718.m3u8
+#EXTINF:-1,BBC EARTH HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16623.m3u8
+#EXTINF:-1,BBC News
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16888.m3u8
+#EXTINF:-1,BBC ONE SD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16870.m3u8
+#EXTINF:-1,BBC Parliament
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16719.m3u8
+#EXTINF:-1,BBC Three HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16842.m3u8
+#EXTINF:-1,BBC TWO HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16704.m3u8
+#EXTINF:-1,BBC World News
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16630.m3u8
+#EXTINF:-1,BBC World News(1)
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16839.m3u8
+#EXTINF:-1,BET
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16720.m3u8
+#EXTINF:-1,BIKE
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16895.m3u8
+#EXTINF:-1,Boomerang
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16838.m3u8
+#EXTINF:-1,Box hits
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16884.m3u8
+#EXTINF:-1,BOX OFFICE HD 1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16871.m3u8
+#EXTINF:-1,BOX OFFICE HD 2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16872.m3u8
+#EXTINF:-1,BOX OFFICE HD 3
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16873.m3u8
+#EXTINF:-1,BOX OFFICE HD 4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16874.m3u8
+#EXTINF:-1,Boxnation
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16837.m3u8
+#EXTINF:-1,BT Sport 1 backup
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16869.m3u8
 #EXTINF:-1,BT Sport 1 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/603.m3u8
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16836.m3u8
 #EXTINF:-1,BT Sport 2 HD
-http://hd.007iptv.com:2095/live/DITI/DITI/602.m3u8
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16835.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16711.m3u8
+#EXTINF:-1,BT Sport 3 SD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16702.m3u8
 #EXTINF:-1,BT Sport ESPN
-http://hd.007iptv.com:2095/live/DITI/DITI/601.m3u8
-#EXTINF:-1,=== Sky Uk Documentary ===
-http://hd.007iptv.com:2095/live/DITI/DITI/589.m3u8
-#EXTINF:-1,Discovery HD UK
-http://hd.007iptv.com:2095/live/DITI/DITI/588.m3u8
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16834.m3u8
+#EXTINF:-1,BT Sport Extra 1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16701.m3u8
+#EXTINF:-1,BT Sport Extra 2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16700.m3u8
+#EXTINF:-1,BT Sport Extra 3
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16699.m3u8
+#EXTINF:-1,BT Sport Extra 4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16698.m3u8
+#EXTINF:-1,BT Sport Extra 5
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16697.m3u8
+#EXTINF:-1,BT Sport Mosaic
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16696.m3u8
+#EXTINF:-1,BT Sport Mosaic 2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16695.m3u8
+#EXTINF:-1,BT Sports 2 SD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16694.m3u8
+#EXTINF:-1,Capital TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16852.m3u8
+#EXTINF:-1,Cartoon Network
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16693.m3u8
+#EXTINF:-1,Cartoonito
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16755.m3u8
+#EXTINF:-1,CBBC
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16841.m3u8
+#EXTINF:-1,Cbeebies
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16765.m3u8
+#EXTINF:-1,CBS Action
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16833.m3u8
+#EXTINF:-1,CBS Drama
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16832.m3u8
+#EXTINF:-1,CBS reality
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16831.m3u8
+#EXTINF:-1,Celtic FC TV (Live for Matches )
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16847.m3u8
+#EXTINF:-1,Challenge   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16692.m3u8
+#EXTINF:-1,Channel 4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16721.m3u8
+#EXTINF:-1,Channel 4 HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16722.m3u8
+#EXTINF:-1,CHANNEL 5
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16723.m3u8
+#EXTINF:-1,CHANNEL 5 FHD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16724.m3u8
+#EXTINF:-1,Channel AKA
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16881.m3u8
+#EXTINF:-1,Chelsea FC
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16691.m3u8
+#EXTINF:-1,CHELSEA TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16624.m3u8
+#EXTINF:-1,Chelsea TV1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16790.m3u8
+#EXTINF:-1,Citv
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16846.m3u8
+#EXTINF:-1,Clubland
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16844.m3u8
+#EXTINF:-1,CNBC Europe
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16725.m3u8
+#EXTINF:-1,CNN
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16789.m3u8
+#EXTINF:-1,CNN FHD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16853.m3u8
+#EXTINF:-1,Comedy Central Extra   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16690.m3u8
+#EXTINF:-1,Crime & Investigiation
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16712.m3u8
+#EXTINF:-1,Crime investigation  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16689.m3u8
+#EXTINF:-1,Dave
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16788.m3u8
+#EXTINF:-1,DISCOVERY
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16830.m3u8
+#EXTINF:-1,Discovery   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16688.m3u8
 #EXTINF:-1,Discovery History
-http://hd.007iptv.com:2095/live/DITI/DITI/585.m3u8
-#EXTINF:-1,National Geographic HD
-http://hd.007iptv.com:2095/live/DITI/DITI/587.m3u8
-#EXTINF:-1,=== UK Kids ===
-http://hd.007iptv.com:2095/live/DITI/DITI/583.m3u8
-#EXTINF:-1,Disney Junior UK
-http://hd.007iptv.com:2095/live/DITI/DITI/581.m3u8
-#EXTINF:-1,Disney XD UK
-http://hd.007iptv.com:2095/live/DITI/DITI/582.m3u8
-#EXTINF:-1,Nick Junior
-http://hd.007iptv.com:2095/live/DITI/DITI/580.m3u8
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16829.m3u8
+#EXTINF:-1,Discovery History  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16687.m3u8
+#EXTINF:-1,Discovery Science
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16828.m3u8
+#EXTINF:-1,Discovery Science  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16686.m3u8
+#EXTINF:-1,Discovery Shed
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16827.m3u8
+#EXTINF:-1,Discovery Turbo
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16826.m3u8
+#EXTINF:-1,Disney
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16825.m3u8
+#EXTINF:-1,Disney Channel   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16685.m3u8
+#EXTINF:-1,Disney Junior
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16824.m3u8
+#EXTINF:-1,Disney XD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16823.m3u8
+#EXTINF:-1,Disney XD   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16684.m3u8
+#EXTINF:-1,DMax
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16822.m3u8
+#EXTINF:-1,Drama
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16821.m3u8
+#EXTINF:-1,E!
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16683.m3u8
+#EXTINF:-1,E!    1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16682.m3u8
+#EXTINF:-1,E!(1)
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16820.m3u8
+#EXTINF:-1,E4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16819.m3u8
+#EXTINF:-1,Eir Sports1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16681.m3u8
+#EXTINF:-1,Eir Sports2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16680.m3u8
+#EXTINF:-1,Euronews
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16867.m3u8
+#EXTINF:-1,Eurosport 1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16679.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16851.m3u8
+#EXTINF:-1,Eurosport 2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16678.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16850.m3u8
+#EXTINF:-1,Film 4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16818.m3u8
+#EXTINF:-1,Food Network
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16677.m3u8
+#EXTINF:-1,Food Network  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16676.m3u8
+#EXTINF:-1,FOX
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16787.m3u8
+#EXTINF:-1,FOX News
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16726.m3u8
+#EXTINF:-1,gold
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16817.m3u8
+#EXTINF:-1,Good Food
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16675.m3u8
+#EXTINF:-1,H2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16772.m3u8
+#EXTINF:-1,HBO 1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16629.m3u8
+#EXTINF:-1,HBO 2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16628.m3u8
+#EXTINF:-1,Heart TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16845.m3u8
+#EXTINF:-1,History
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16766.m3u8
+#EXTINF:-1,History  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16674.m3u8
+#EXTINF:-1,Home & Health
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16815.m3u8
+#EXTINF:-1,Home&Health   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16673.m3u8
+#EXTINF:-1,Horror Channel
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16887.m3u8
+#EXTINF:-1,Horror Channel   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16672.m3u8
+#EXTINF:-1,ID
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16710.m3u8
+#EXTINF:-1,ID   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16671.m3u8
+#EXTINF:-1,Investigation Discovery
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16727.m3u8
+#EXTINF:-1,Irish Tv
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16814.m3u8
+#EXTINF:-1,Islam Channel
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16875.m3u8
+#EXTINF:-1,ITV  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16861.m3u8
+#EXTINF:-1,ITV 2 FHD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16854.m3u8
+#EXTINF:-1,ITV be
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16813.m3u8
+#EXTINF:-1,ITV BOX OFFICE PPV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16878.m3u8
+#EXTINF:-1,ITV ENCORE
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16728.m3u8
+#EXTINF:-1,ITV1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16670.m3u8
+#EXTINF:-1,ITV2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16669.m3u8
+#EXTINF:-1,ITV2  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16862.m3u8
+#EXTINF:-1,ITV3
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16668.m3u8
+#EXTINF:-1,ITV3   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16863.m3u8
+#EXTINF:-1,ITV4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16667.m3u8
+#EXTINF:-1,ITV4  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16864.m3u8
+#EXTINF:-1,KERRANG
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16729.m3u8
+#EXTINF:-1,KISS UK
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16730.m3u8
+#EXTINF:-1,LFC TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16666.m3u8
+#EXTINF:-1,LFC TV HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16857.m3u8
+#EXTINF:-1,Life time
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16786.m3u8
+#EXTINF:-1,Living UK
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16785.m3u8
+#EXTINF:-1,London Live
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16812.m3u8
+#EXTINF:-1,Magic
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16767.m3u8
+#EXTINF:-1,Manchester United TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16784.m3u8
+#EXTINF:-1,More 4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16783.m3u8
+#EXTINF:-1,Motors TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16896.m3u8
+#EXTINF:-1,Mototrs TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16782.m3u8
+#EXTINF:-1,Movies 4 Men
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16731.m3u8
+#EXTINF:-1,Music Vox TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16619.m3u8
+#EXTINF:-1,MUTV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16664.m3u8
+#EXTINF:-1,MUTV Backup
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16849.m3u8
+#EXTINF:-1,MUTV FHD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16858.m3u8
+#EXTINF:-1,Nat Geo Graphic
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16781.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16663.m3u8
+#EXTINF:-1,NATGEO WILD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16773.m3u8
+#EXTINF:-1,National Geographic
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16771.m3u8
+#EXTINF:-1,Nick Jr
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16811.m3u8
+#EXTINF:-1,Nick Jr  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16661.m3u8
+#EXTINF:-1,Nick Jr Too
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16662.m3u8
+#EXTINF:-1,Nickelodeon
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16660.m3u8
+#EXTINF:-1,Nickelodeon   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16659.m3u8
+#EXTINF:-1,Nicktoons
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16810.m3u8
+#EXTINF:-1,PBS America
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16890.m3u8
+#EXTINF:-1,Peace TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16876.m3u8
+#EXTINF:-1,PICK
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16897.m3u8
+#EXTINF:-1,Pick(1)
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16840.m3u8
+#EXTINF:-1,Premier Sports HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16714.m3u8
+#EXTINF:-1,PREMIERE SPORT HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16658.m3u8
+#EXTINF:-1,QUEST
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16732.m3u8
+#EXTINF:-1,Racing UK
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16657.m3u8
+#EXTINF:-1,RANGERS FC TV (matchtime)
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16848.m3u8
+#EXTINF:-1,Real Lives
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16733.m3u8
+#EXTINF:-1,RT NEW
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16889.m3u8
+#EXTINF:-1,RTE JUNIOR
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16865.m3u8
+#EXTINF:-1,RTE News Now
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16866.m3u8
+#EXTINF:-1,RTE One
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16656.m3u8
+#EXTINF:-1,RTE Two
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16655.m3u8
+#EXTINF:-1,S4C
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16891.m3u8
+#EXTINF:-1,Scuzz
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16769.m3u8
+#EXTINF:-1,Setanta Sports 1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16654.m3u8
+#EXTINF:-1,Sky Arts
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16780.m3u8
+#EXTINF:-1,Sky Atlantic  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16653.m3u8
+#EXTINF:-1,SKY Atlantic HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16779.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16756.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16757.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16758.m3u8
+#EXTINF:-1,Sky Cinema Disney HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16759.m3u8
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16760.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16761.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16868.m3u8
+#EXTINF:-1,Sky Cinema Premier HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16762.m3u8
+#EXTINF:-1,Sky Cinema Premiere  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16652.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16763.m3u8
+#EXTINF:-1,Sky Cinema Select HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16764.m3u8
+#EXTINF:-1,Sky Living  1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16651.m3u8
+#EXTINF:-1,Sky Movie Sci-Fi
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16809.m3u8
+#EXTINF:-1,Sky Movies Action
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16808.m3u8
+#EXTINF:-1,Sky Movies Comedy
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16807.m3u8
+#EXTINF:-1,Sky Movies Disney
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16806.m3u8
+#EXTINF:-1,Sky Movies Family
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16805.m3u8
+#EXTINF:-1,Sky Movies Greats
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16804.m3u8
+#EXTINF:-1,Sky Movies Modern
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16627.m3u8
+#EXTINF:-1,Sky Movies Premiere
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16803.m3u8
+#EXTINF:-1,Sky Movies Select HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16650.m3u8
+#EXTINF:-1,Sky Movies Showcase
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16802.m3u8
+#EXTINF:-1,Sky Movies Thriller
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16801.m3u8
+#EXTINF:-1,SKY NEWS
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16734.m3u8
+#EXTINF:-1,SKY NEWS HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16739.m3u8
+#EXTINF:-1,SKY One
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16778.m3u8
+#EXTINF:-1,Sky Sport 1 SD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16777.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16879.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16776.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16880.m3u8
+#EXTINF:-1,Sky Sport News
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16796.m3u8
+#EXTINF:-1,SKY SPORTS ACTION
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16647.m3u8
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16799.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16648.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16800.m3u8
+#EXTINF:-1,SKY SPORTS GOLF
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16646.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16798.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16649.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16795.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16713.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16645.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16797.m3u8
+#EXTINF:-1,Sky Sports The Open
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16885.m3u8
+#EXTINF:-1,Sky Sports The Open HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16886.m3u8
+#EXTINF:-1,Sky Two
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16644.m3u8
+#EXTINF:-1,SkySpBoxOff (PPV Events Only)
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16643.m3u8
+#EXTINF:-1,Sony Channel
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16736.m3u8
+#EXTINF:-1,Sony Chnl   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16642.m3u8
+#EXTINF:-1,Sony Movie
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16735.m3u8
+#EXTINF:-1,Starz TV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16892.m3u8
+#EXTINF:-1,STV FHD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16859.m3u8
+#EXTINF:-1,Syfy
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16794.m3u8
+#EXTINF:-1,Syfy   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16641.m3u8
+#EXTINF:-1,TCM
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16770.m3u8
+#EXTINF:-1,TG4
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16860.m3u8
+#EXTINF:-1,The Vault
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16893.m3u8
+#EXTINF:-1,Tiny POP
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16793.m3u8
+#EXTINF:-1,Tiny Pop   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16640.m3u8
+#EXTINF:-1,TLC
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16639.m3u8
+#EXTINF:-1,TLC   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16638.m3u8
+#EXTINF:-1,TLC   2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16637.m3u8
+#EXTINF:-1,Travel Channel
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16636.m3u8
+#EXTINF:-1,True Movies 2
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16635.m3u8
+#EXTINF:-1,TV ONE HD
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16855.m3u8
+#EXTINF:-1,TV3
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16618.m3u8
+#EXTINF:-1,Universal   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16634.m3u8
+#EXTINF:-1,UTV
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16792.m3u8
+#EXTINF:-1,VH1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16633.m3u8
+#EXTINF:-1,VICELAND
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16737.m3u8
+#EXTINF:-1,VIVA
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16774.m3u8
+#EXTINF:-1,W   1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16632.m3u8
+#EXTINF:-1,Watch
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16738.m3u8
+#EXTINF:-1,Yesterday
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16775.m3u8
+#EXTINF:-1,TLC - IRELAND
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16626.m3u8
+#EXTINF:-1,True Movies 1
+http://manumetall.eu:80/live/eqnzmSkeGd/6jllpf6kju/16625.m3u8
