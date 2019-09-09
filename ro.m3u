@@ -1,61 +1,121 @@
 #EXTM3U
-#EXTINF:-1,TVR 1
-http://hd.007iptv.com:2095/live/DITI/DITI/1459.m3u8
-#EXTINF:-1,TVR 2
-http://hd.007iptv.com:2095/live/DITI/DITI/1458.m3u8
-#EXTINF:-1,TVR 3
-http://hd.007iptv.com:2095/live/DITI/DITI/1477.m3u8
+#EXTINF:-1,1 Music Channel
+http://ecuaplaytv.com:8000/191/191/53385
+#EXTINF:-1,AXN Romania
+http://ecuaplaytv.com:8000/191/191/53379
+#EXTINF:-1,AXN White
+http://ecuaplaytv.com:8000/191/191/53378
+#EXTINF:-1,Acasa TV
+http://ecuaplaytv.com:8000/191/191/53384
+#EXTINF:-1,Agro TV
+http://ecuaplaytv.com:8000/191/191/53383
 #EXTINF:-1,Antena 1
-http://hd.007iptv.com:2095/live/DITI/DITI/1471.m3u8
+http://ecuaplaytv.com:8000/191/191/53382
+#EXTINF:-1,Antena 3
+http://ecuaplaytv.com:8000/191/191/53381
+#EXTINF:-1,Antena Stars
+http://ecuaplaytv.com:8000/191/191/53380
+#EXTINF:-1,B1
+http://ecuaplaytv.com:8000/191/191/53377
 #EXTINF:-1,Boomerang
-http://hd.007iptv.com:2095/live/DITI/DITI/1482.m3u8
-#EXTINF:-1,Pro TV
-http://hd.007iptv.com:2095/live/DITI/DITI/1464.m3u8
-#EXTINF:-1,Procinema
-http://hd.007iptv.com:2095/live/DITI/DITI/1463.m3u8
-#EXTINF:-1,Realitatea Tv
-http://hd.007iptv.com:2095/live/DITI/DITI/1472.m3u8
-#EXTINF:-1,Romania TV
-http://hd.007iptv.com:2095/live/DITI/DITI/1462.m3u8
-#EXTINF:-1,Sport
-http://hd.007iptv.com:2095/live/DITI/DITI/1461.m3u8
-#EXTINF:-1,TLC
-http://hd.007iptv.com:2095/live/DITI/DITI/1484.m3u8
-#EXTINF:-1,TV Paprika
-http://hd.007iptv.com:2095/live/DITI/DITI/1483.m3u8
+http://ecuaplaytv.com:8000/191/191/53376
+#EXTINF:-1,Cinemax
+http://ecuaplaytv.com:8000/191/191/53375
+#EXTINF:-1,Cinemax 2
+http://ecuaplaytv.com:8000/191/191/53374
 #EXTINF:-1,Digi 24
-http://hd.007iptv.com:2095/live/DITI/DITI/1481.m3u8
-#EXTINF:-1,Digi film
-http://hd.007iptv.com:2095/live/DITI/DITI/1480.m3u8
+http://ecuaplaytv.com:8000/191/191/53373
+#EXTINF:-1,Digi Animal World
+http://ecuaplaytv.com:8000/191/191/53372
+#EXTINF:-1,Digi Film
+http://ecuaplaytv.com:8000/191/191/53371
 #EXTINF:-1,Digi Life
-http://hd.007iptv.com:2095/live/DITI/DITI/1470.m3u8
-#EXTINF:-1,DIGI SPORT 1
-http://hd.007iptv.com:2095/live/DITI/DITI/1456.m3u8
-#EXTINF:-1,DIGI SPORT 3
-http://hd.007iptv.com:2095/live/DITI/DITI/1454.m3u8
-#EXTINF:-1,DIGI SPORT 4
-http://hd.007iptv.com:2095/live/DITI/DITI/1453.m3u8
-#EXTINF:-1,Etno Tv
-http://hd.007iptv.com:2095/live/DITI/DITI/1479.m3u8
-#EXTINF:-1,Favorit Tv
-http://hd.007iptv.com:2095/live/DITI/DITI/1478.m3u8
-#EXTINF:-1,Kanal D
-http://hd.007iptv.com:2095/live/DITI/DITI/1468.m3u8
-#EXTINF:-1,KISS TV
-http://hd.007iptv.com:2095/live/DITI/DITI/1476.m3u8
-#EXTINF:-1,Megamax
-http://hd.007iptv.com:2095/live/DITI/DITI/1467.m3u8
-#EXTINF:-1,Minimax
-http://hd.007iptv.com:2095/live/DITI/DITI/1474.m3u8
-#EXTINF:-1,Nickelodeon
-http://hd.007iptv.com:2095/live/DITI/DITI/1473.m3u8
+http://ecuaplaytv.com:8000/191/191/53370
+#EXTINF:-1,Digi Sport 1
+http://ecuaplaytv.com:8000/191/191/53369
+#EXTINF:-1,Digi Sport 2
+http://ecuaplaytv.com:8000/191/191/53368
+#EXTINF:-1,Digi Sport 3
+http://ecuaplaytv.com:8000/191/191/53367
+#EXTINF:-1,Digi Sport 4
+http://ecuaplaytv.com:8000/191/191/53366
+#EXTINF:-1,Digi World
+http://ecuaplaytv.com:8000/191/191/53365
 #EXTINF:-1,Disney Junior
-http://hd.007iptv.com:2095/live/DITI/DITI/1469.m3u8
-#EXTINF:-1,National Geo Wild
-http://hd.007iptv.com:2095/live/DITI/DITI/1466.m3u8
-#EXTINF:-1,National Geographic
-http://hd.007iptv.com:2095/live/DITI/DITI/1465.m3u8
+http://ecuaplaytv.com:8000/191/191/53364
+#EXTINF:-1,Etno TV
+http://ecuaplaytv.com:8000/191/191/53363
+#EXTINF:-1,Eurosport
+http://ecuaplaytv.com:8000/191/191/53362
+#EXTINF:-1,Eurosport 2
+http://ecuaplaytv.com:8000/191/191/53361
+#EXTINF:-1,Favorit TV
+http://ecuaplaytv.com:8000/191/191/53360
+#EXTINF:-1,Fishing & Hunting
+http://ecuaplaytv.com:8000/191/191/53359
+#EXTINF:-1,HBO 2
+http://ecuaplaytv.com:8000/191/191/53357
+#EXTINF:-1,HBO 3
+http://ecuaplaytv.com:8000/191/191/53356
+#EXTINF:-1,HBO Romania
+http://ecuaplaytv.com:8000/191/191/53355
+#EXTINF:-1,Happy Channel
+http://ecuaplaytv.com:8000/191/191/53358
+#EXTINF:-1,History Channel
+http://ecuaplaytv.com:8000/191/191/53354
+#EXTINF:-1,Kanal D
+http://ecuaplaytv.com:8000/191/191/53353
+#EXTINF:-1,Kiss TV
+http://ecuaplaytv.com:8000/191/191/53352
+#EXTINF:-1,Look TV
+http://ecuaplaytv.com:8000/191/191/53351
+#EXTINF:-1,Megamax
+http://ecuaplaytv.com:8000/191/191/53350
+#EXTINF:-1,Minimax
+http://ecuaplaytv.com:8000/191/191/53349
+#EXTINF:-1,Music Channel.Hu
+http://ecuaplaytv.com:8000/191/191/53348
+#EXTINF:-1,National TV
+http://ecuaplaytv.com:8000/191/191/53347
+#EXTINF:-1,Ngc
+http://ecuaplaytv.com:8000/191/191/53346
+#EXTINF:-1,Ngc Wild
+http://ecuaplaytv.com:8000/191/191/53345
+#EXTINF:-1,Nickelodeon
+http://ecuaplaytv.com:8000/191/191/53344
+#EXTINF:-1,Paramount Channel
+http://ecuaplaytv.com:8000/191/191/53343
+#EXTINF:-1,Prima TV
+http://ecuaplaytv.com:8000/191/191/53342
+#EXTINF:-1,Pro Cinema
+http://ecuaplaytv.com:8000/191/191/53341
+#EXTINF:-1,Pro TV
+http://ecuaplaytv.com:8000/191/191/53340
+#EXTINF:-1,Realitatea
+http://ecuaplaytv.com:8000/191/191/53339
+#EXTINF:-1,Romania TV
+http://ecuaplaytv.com:8000/191/191/53338
+#EXTINF:-1,Sport.Ro
+http://ecuaplaytv.com:8000/191/191/53337
+#EXTINF:-1,TNT
+http://ecuaplaytv.com:8000/191/191/53335
+#EXTINF:-1,TV 1000
+http://ecuaplaytv.com:8000/191/191/53333
+#EXTINF:-1,TV5 MONDE
+http://ecuaplaytv.com:8000/191/191/53332
+#EXTINF:-1,TVR 1
+http://ecuaplaytv.com:8000/191/191/53331
+#EXTINF:-1,TVR 2
+http://ecuaplaytv.com:8000/191/191/53330
+#EXTINF:-1,TVR International
+http://ecuaplaytv.com:8000/191/191/53329
+#EXTINF:-1,Taraf TV
+http://ecuaplaytv.com:8000/191/191/53336
+#EXTINF:-1,Trinitas
+http://ecuaplaytv.com:8000/191/191/53334
+#EXTINF:-1,U TV
+http://ecuaplaytv.com:8000/191/191/53328
 #EXTINF:-1,Viasat History
-http://hd.007iptv.com:2095/live/DITI/DITI/1475.m3u8
-#EXTINF:-1,Taraf Tv
-http://hd.007iptv.com:2095/live/DITI/DITI/1460.m3u8
+http://ecuaplaytv.com:8000/191/191/53327
+#EXTINF:-1,Viasat Nature
+http://ecuaplaytv.com:8000/191/191/53326
