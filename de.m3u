@@ -1,105 +1,529 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13th.street.de" tvg-name="13th.street.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/13th.street.de.png",13th Street (13th.street.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/13th.street.de.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/3sat.de.png",3SAT (3sat.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/3sat.de.m3u8
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="anixe.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/anixe.de.png",Anixe (anixe.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/anixe.de.m3u8
-#EXTINF:-1 tvg-id="ard.de" tvg-name="ard.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ard.de.png",ARD (ard.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/ard.de.m3u8
-#EXTINF:-1 tvg-id="arte.de" tvg-name="arte.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/arte.de.png",arte (arte.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/arte.de.m3u8
-#EXTINF:-1 tvg-id="atv.de" tvg-name="atv.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/atv.de.png",ATV (atv.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/atv.de.m3u8
-#EXTINF:-1 tvg-id="axn.de" tvg-name="axn.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/axn.de.png",AXN (axn.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/axn.de.m3u8
-#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="dazn.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/dazn.1.de.png",DAZN 1 (dazn.1.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/dazn.1.de.m3u8
-#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="dazn.2.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/dazn.2.de.png",DAZN 2 (dazn.2.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/dazn.2.de.m3u8
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="deutschewelle.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/deutschewelle.de.png",Deutsche Welle  (deutschewelle.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/deutschewelle.de.m3u8
-#EXTINF:-1 tvg-id="deutschewelleen.de" tvg-name="deutschewelleen.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/deutschewelleen.de.png",Deutsche Welle (EN) (deutschewelleen.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/deutschewelleen.de.m3u8
-#EXTINF:-1 tvg-id="disney.channel.de" tvg-name="disney.channel.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/disney.channel.de.png",Disney (disney.channel.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/disney.channel.de.m3u8
-#EXTINF:-1 tvg-id="disney.cinemagic.de" tvg-name="disney.cinemagic.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/disney.cinemagic.de.png",Disney Cinemagic (disney.cinemagic.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/disney.cinemagic.de.m3u8
-#EXTINF:-1 tvg-id="disney.jr.de" tvg-name="disney.jr.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/disney.jr.de.png",Disney Jr (disney.jr.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/disney.jr.de.m3u8
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="dmax.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/dmax.de.png",DMAX (dmax.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/dmax.de.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="eurosport.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/eurosport.1.de.png",Eurosport 1 (eurosport.1.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/eurosport.1.de.m3u8
-#EXTINF:-1 tvg-id="fox.de" tvg-name="fox.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fox.de.png",FOX (fox.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/fox.de.m3u8
-#EXTINF:-1 tvg-id="hr.de" tvg-name="hr.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/hr.de.png",HR (hr.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/hr.de.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel.eins.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kabel.eins.de.png",Kabel Eins (kabel.eins.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/kabel.eins.de.m3u8
-#EXTINF:-1 tvg-id="kika.de" tvg-name="kika.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kika.de.png",KiKA (kika.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/kika.de.m3u8
-#EXTINF:-1 tvg-id="motorvision.de" tvg-name="motorvision.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/motorvision.de.png",Motorvision (motorvision.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/motorvision.de.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ntv.de.png",n-tv (ntv.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/ntv.de.m3u8
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="natgeo.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/natgeo.de.png",NatGeo (natgeo.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/natgeo.de.m3u8
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="ndr.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ndr.de.png",NDR (ndr.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/ndr.de.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="nickelodeon.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/nickelodeon.de.png",Nickelodeon (nickelodeon.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/nickelodeon.de.m3u8
-#EXTINF:-1 tvg-id="orf.1.de" tvg-name="orf.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/orf.1.de.png",ORF 1 (orf.1.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/orf.1.de.m3u8
-#EXTINF:-1 tvg-id="orf.2.de" tvg-name="orf.2.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/orf.2.de.png",ORF 2 (orf.2.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/orf.2.de.m3u8
-#EXTINF:-1 tvg-id="prosieben.de" tvg-name="prosieben.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/prosieben.de.png",ProSieben (prosieben.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/prosieben.de.m3u8
-#EXTINF:-1 tvg-id="prosieben.maxx.de" tvg-name="prosieben.maxx.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/prosieben.maxx.de.png",ProSieben Maxx (prosieben.maxx.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/prosieben.maxx.de.m3u8
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="rtl.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/rtl.de.png",RTL (rtl.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/rtl.de.m3u8
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="rtl2.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/rtl2.de.png",RTL 2 (rtl2.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/rtl2.de.m3u8
-#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="rtl.crime.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/rtl.crime.de.png",RTL Crime (rtl.crime.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/rtl.crime.de.m3u8
-#EXTINF:-1 tvg-id="rtl.nitro.de" tvg-name="rtl.nitro.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/rtl.nitro.de.png",RTL Nitro (rtl.nitro.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/rtl.nitro.de.m3u8
-#EXTINF:-1 tvg-id="sat.1.de" tvg-name="sat.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sat.1.de.png",SAT.1 (sat.1.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sat.1.de.m3u8
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sixx.de.png",sixx (sixx.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sixx.de.m3u8
-#EXTINF:-1 tvg-id="sky.action.de" tvg-name="sky.action.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.action.de.png",Sky Action (sky.action.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.action.de.m3u8
-#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="sky.atlantic.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.atlantic.de.png",Sky Atlantic (sky.atlantic.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.atlantic.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.de" tvg-name="sky.cinema.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.de.png",Sky Cinema (sky.cinema.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.cinema.de.m3u8
-#EXTINF:-1 tvg-id="sky.comedy.de" tvg-name="sky.comedy.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.comedy.de.png",Sky Comedy (sky.comedy.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.comedy.de.m3u8
-#EXTINF:-1 tvg-id="sky.emotion.de" tvg-name="sky.emotion.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.emotion.de.png",Sky Emotion (sky.emotion.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.emotion.de.m3u8
-#EXTINF:-1 tvg-id="sky.hits.de" tvg-name="sky.hits.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.hits.de.png",Sky Hits (sky.hits.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.hits.de.m3u8
-#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="sky.sport.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.sport.1.de.png",Sky Sport 1 (sky.sport.1.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.sport.1.de.m3u8
-#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="sky.sport.2.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.sport.2.de.png",Sky Sport 2 (sky.sport.2.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.sport.2.de.m3u8
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="sky.sport.bundesliga.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.sport.bundesliga.1.de.png",Sky Sport Bundesliga 1 (sky.sport.bundesliga.1.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.sport.bundesliga.1.de.m3u8
-#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="sky.sport.news.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.sport.news.de.png",Sky Sport News (sky.sport.news.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/sky.sport.news.de.m3u8
-#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="super.rtl.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/super.rtl.de.png",Super RTL (super.rtl.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/super.rtl.de.m3u8
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="syfy.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/syfy.de.png",Syfy (syfy.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/syfy.de.m3u8
-#EXTINF:-1 tvg-id="tnt.film.de" tvg-name="tnt.film.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/tnt.film.de.png",TNT Film (tnt.film.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/tnt.film.de.m3u8
-#EXTINF:-1 tvg-id="tnt.serie.de" tvg-name="tnt.serie.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/tnt.serie.de.png",TNT Serie (tnt.serie.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/tnt.serie.de.m3u8
-#EXTINF:-1 tvg-id="viva.de" tvg-name="viva.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/viva.de.png",VIVA (viva.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/viva.de.m3u8
-#EXTINF:-1 tvg-id="vox.de" tvg-name="vox.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vox.de.png",VOX (vox.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/vox.de.m3u8
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="zdf.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/zdf.de.png",ZDF (zdf.de)
-https://tv4.live/api/stream/iptv4sat@gmail.com/35znuy/livetv.epg/zdf.de.m3u8
+#EXTINF:-1,DAS ERSTE HD
+http://tv.trexiptv.com:8000/Haron/123456/12517
+#EXTINF:-1,3SAT FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12465
+#EXTINF:-1,3SAT HD
+http://tv.trexiptv.com:8000/Haron/123456/12518
+#EXTINF:-1,ZDF FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12463
+#EXTINF:-1,ZDF HD
+http://tv.trexiptv.com:8000/Haron/123456/12560
+#EXTINF:-1,ZDF INFO FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12483
+#EXTINF:-1,ZDF NEO FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12484
+#EXTINF:-1,VOX FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12481
+#EXTINF:-1,VOX HD
+http://tv.trexiptv.com:8000/Haron/123456/12559
+#EXTINF:-1,WDR FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12462
+#EXTINF:-1,TELE 5 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12421
+#EXTINF:-1,SWR FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12417
+#EXTINF:-1,SAT 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12494
+#EXTINF:-1,SAT 1 EMOTIONS FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12427
+#EXTINF:-1,SPIEGEL GESCHICHTE FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12478
+#EXTINF:-1,SPIEGEL GESCHICHTE HD
+http://tv.trexiptv.com:8000/Haron/123456/12555
+#EXTINF:-1,ANIXE FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12466
+#EXTINF:-1,ANIXE HD
+http://tv.trexiptv.com:8000/Haron/123456/12528
+#EXTINF:-1,ARTE FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12467
+#EXTINF:-1,123 TV FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12414
+#EXTINF:-1,DEUTSCHE WELLE HD
+http://tv.trexiptv.com:8000/Haron/123456/12582
+#EXTINF:-1,SONNENKLAR TV HD
+http://tv.trexiptv.com:8000/Haron/123456/12579
+#EXTINF:-1,HEIMATKANAL HD
+http://tv.trexiptv.com:8000/Haron/123456/12524
+#EXTINF:-1,KABEL EINS FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12455
+#EXTINF:-1,KABEL EINS CLASSICS FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12433
+#EXTINF:-1,MDR FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12468
+#EXTINF:-1,N24 HD
+http://tv.trexiptv.com:8000/Haron/123456/12565
+#EXTINF:-1,NDR FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12469
+#EXTINF:-1,ONE FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12419
+#EXTINF:-1,NTV FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12490
+#EXTINF:-1,PHOENIX HD
+http://tv.trexiptv.com:8000/Haron/123456/12538
+#EXTINF:-1,TAGESCHAU 24 HD
+http://tv.trexiptv.com:8000/Haron/123456/12581
+#EXTINF:-1,SIXX FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12475
+#EXTINF:-1,ORF 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12470
+#EXTINF:-1,ORF 1 HD
+http://tv.trexiptv.com:8000/Haron/123456/12574
+#EXTINF:-1,ORF 2 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12471
+#EXTINF:-1,ORF 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/12573
+#EXTINF:-1,SRF 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12460
+#EXTINF:-1,SFR 2 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12461
+#EXTINF:-1,PROSIEBEN FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12472
+#EXTINF:-1,PROSIEBEN HD
+http://tv.trexiptv.com:8000/Haron/123456/12570
+#EXTINF:-1,PROSIEBEN FUN FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12430
+#EXTINF:-1,PRO7 MAXX FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12415
+#EXTINF:-1,PRO 7 MAXX HD
+http://tv.trexiptv.com:8000/Haron/123456/12585
+#EXTINF:-1,RTL FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12451
+#EXTINF:-1,RTL HD
+http://tv.trexiptv.com:8000/Haron/123456/12575
+#EXTINF:-1,RTL 2 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12473
+#EXTINF:-1,RTL 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/12540
+#EXTINF:-1,RTL 2 YOU FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12501
+#EXTINF:-1,RTL CRIME FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12445
+#EXTINF:-1,RTL CRIME HD
+http://tv.trexiptv.com:8000/Haron/123456/12541
+#EXTINF:-1,RTL LIVING FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12492
+#EXTINF:-1,RTL PASSION FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12428
+#EXTINF:-1,RTL PASSION HD
+http://tv.trexiptv.com:8000/Haron/123456/12542
+#EXTINF:-1,SUPER RTL HD
+http://tv.trexiptv.com:8000/Haron/123456/12556
+#EXTINF:-1,NITRO FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12493
+#EXTINF:-1,BOOMERANG FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12438
+#EXTINF:-1,BOOMERANG HD
+http://tv.trexiptv.com:8000/Haron/123456/12567
+#EXTINF:-1,CARTOON NETWORK FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12437
+#EXTINF:-1,CARTOON NETWORK HD
+http://tv.trexiptv.com:8000/Haron/123456/12527
+#EXTINF:-1,DISNEY XD FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12487
+#EXTINF:-1,DISNEY CHANNEL FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12435
+#EXTINF:-1,DISNEY CINEMAGIC FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12440
+#EXTINF:-1,DISNEY JUNIOR FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12441
+#EXTINF:-1,DISNEY JUNIOR HD
+http://tv.trexiptv.com:8000/Haron/123456/12530
+#EXTINF:-1,KIKA FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12456
+#EXTINF:-1,NICKELODEON HD
+http://tv.trexiptv.com:8000/Haron/123456/12587
+#EXTINF:-1,NICK JUNIOR FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12444
+#EXTINF:-1,SKY DISNEY CHANNEL FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12477
+#EXTINF:-1,13TH STREET FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12464
+#EXTINF:-1,13TH STREET HD
+http://tv.trexiptv.com:8000/Haron/123456/12577
+#EXTINF:-1,FOX FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12454
+#EXTINF:-1,FOX HD
+http://tv.trexiptv.com:8000/Haron/123456/12535
+#EXTINF:-1,FASHION TV 4K
+http://tv.trexiptv.com:8000/Haron/123456/12513
+#EXTINF:-1,E! Entertainement FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12434
+#EXTINF:-1,TLC FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12450
+#EXTINF:-1,SYFY FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12449
+#EXTINF:-1,SYFY HD
+http://tv.trexiptv.com:8000/Haron/123456/12557
+#EXTINF:-1,SONY ENTERTAINMENT FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12424
+#EXTINF:-1,ZEE ONE FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12422
+#EXTINF:-1,UNIVERSAL CHANNEL FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12480
+#EXTINF:-1,TOGGO PLUS HD
+http://tv.trexiptv.com:8000/Haron/123456/12521
+#EXTINF:-1,TNT FILM FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12499
+#EXTINF:-1,TNT FILM HD
+http://tv.trexiptv.com:8000/Haron/123456/12519
+#EXTINF:-1,TNT COMEDY HD
+http://tv.trexiptv.com:8000/Haron/123456/12505
+#EXTINF:-1,TNT SERIE FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12479
+#EXTINF:-1,TNT SERIE HD
+http://tv.trexiptv.com:8000/Haron/123456/12558
+#EXTINF:-1,ROMANCE TV FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12429
+#EXTINF:-1,ROMANCE TV HD
+http://tv.trexiptv.com:8000/Haron/123456/12539
+#EXTINF:-1,DISCOVERY FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12486
+#EXTINF:-1,DISCOVERY HD
+http://tv.trexiptv.com:8000/Haron/123456/12586
+#EXTINF:-1,HISTORY FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12442
+#EXTINF:-1,HISTORY HD
+http://tv.trexiptv.com:8000/Haron/123456/12536
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12489
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tv.trexiptv.com:8000/Haron/123456/12569
+#EXTINF:-1,NAT GEO WILD FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12443
+#EXTINF:-1,NAT GEO WILD HD
+http://tv.trexiptv.com:8000/Haron/123456/12572
+#EXTINF:-1,PLANET FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12491
+#EXTINF:-1,A&E FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12439
+#EXTINF:-1,A&E HD
+http://tv.trexiptv.com:8000/Haron/123456/12520
+#EXTINF:-1,AXN FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12500
+#EXTINF:-1,Sky AXN FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12457
+#EXTINF:-1,DMAX FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12488
+#EXTINF:-1,DMAX HD
+http://tv.trexiptv.com:8000/Haron/123456/12531
+#EXTINF:-1,SKY CINEMA FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12458
+#EXTINF:-1,SKY CINEMA   +24 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12503
+#EXTINF:-1,SKY CINEMA +1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12476
+#EXTINF:-1,SKY CINEMA  +1 HD
+http://tv.trexiptv.com:8000/Haron/123456/12545
+#EXTINF:-1,SKY 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12420
+#EXTINF:-1,SKY ATLANTIC FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12452
+#EXTINF:-1,SKY ATLANTIC HD
+http://tv.trexiptv.com:8000/Haron/123456/12544
+#EXTINF:-1,SKY ATLANTIC  +1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12495
+#EXTINF:-1,SKY CINEMA ACTION FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12446
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://tv.trexiptv.com:8000/Haron/123456/12543
+#EXTINF:-1,SKY CINEMA COMEDY FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12447
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://tv.trexiptv.com:8000/Haron/123456/12516
+#EXTINF:-1,SKY CINEMA EMOTION HD
+http://tv.trexiptv.com:8000/Haron/123456/12546
+#EXTINF:-1,SKY CINEMA FAMILY FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12426
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://tv.trexiptv.com:8000/Haron/123456/12515
+#EXTINF:-1,SKY CINEMA HITS FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12459
+#EXTINF:-1,SKY CINEMA NOSTALGIE HD
+http://tv.trexiptv.com:8000/Haron/123456/12548
+#EXTINF:-1,SKY KRIMI HD
+http://tv.trexiptv.com:8000/Haron/123456/12547
+#EXTINF:-1,KINOWELT TV HD
+http://tv.trexiptv.com:8000/Haron/123456/12537
+#EXTINF:-1,SKY SELECT 1 HD
+http://tv.trexiptv.com:8000/Haron/123456/12549
+#EXTINF:-1,SKY SELECT 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/12550
+#EXTINF:-1,SKY SELECT 3 HD
+http://tv.trexiptv.com:8000/Haron/123456/12561
+#EXTINF:-1,SKY SELECT 4 HD
+http://tv.trexiptv.com:8000/Haron/123456/12551
+#EXTINF:-1,SKY SELECT 5 HD
+http://tv.trexiptv.com:8000/Haron/123456/12552
+#EXTINF:-1,SKY SELECT 6 HD
+http://tv.trexiptv.com:8000/Haron/123456/12553
+#EXTINF:-1,SKY SELECT 7 HD
+http://tv.trexiptv.com:8000/Haron/123456/12562
+#EXTINF:-1,SKY SELECT 8 HD
+http://tv.trexiptv.com:8000/Haron/123456/12563
+#EXTINF:-1,SKY SELECT 9 HD
+http://tv.trexiptv.com:8000/Haron/123456/12554
+#EXTINF:-1,POPCORN SELECT 1
+http://tv.trexiptv.com:8000/Haron/123456/12598
+#EXTINF:-1,SELECT POPCORN 2
+http://tv.trexiptv.com:8000/Haron/123456/12596
+#EXTINF:-1,SELECT POPCORN 3
+http://tv.trexiptv.com:8000/Haron/123456/12595
+#EXTINF:-1,SELECT POPCORN 4
+http://tv.trexiptv.com:8000/Haron/123456/12594
+#EXTINF:-1,SELECT POPCORN 5
+http://tv.trexiptv.com:8000/Haron/123456/12593
+#EXTINF:-1,POPCORN SELECT 6
+http://tv.trexiptv.com:8000/Haron/123456/12597
+#EXTINF:-1,SPORTDIGITAL FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12448
+#EXTINF:-1,SPORT + FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12498
+#EXTINF:-1,SPORT 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12497
+#EXTINF:-1,SPORT 1 US FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12504
+#EXTINF:-1,SKY SPORT NEWS FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12425
+#EXTINF:-1,SKY SPORT NEWS HD
+http://tv.trexiptv.com:8000/Haron/123456/12571
+#EXTINF:-1,EUROSPORT 1 HD
+http://tv.trexiptv.com:8000/Haron/123456/12512
+#EXTINF:-1,EUROSPORT 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/12511
+#EXTINF:-1,EUROSPORT 2 XTRA FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12416
+#EXTINF:-1,DAZN SPORT 1 HD
+http://tv.trexiptv.com:8000/Haron/123456/26827
+#EXTINF:-1,DAZN SPORT 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/26828
+#EXTINF:-1,SKY SPORT 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12413
+#EXTINF:-1,SKY SPORT 1 HD
+http://tv.trexiptv.com:8000/Haron/123456/12510
+#EXTINF:-1,SKY SPORT 2 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12412
+#EXTINF:-1,SKY SPORT 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/12509
+#EXTINF:-1,SKY SPORT AUSTRIA FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12496
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12411
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
+http://tv.trexiptv.com:8000/Haron/123456/12508
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12410
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HD
+http://tv.trexiptv.com:8000/Haron/123456/12507
+#EXTINF:-1,SKY SPORT BUNDESLIGA 3 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12409
+#EXTINF:-1,SKY SPORT BUNDESLIGA 4 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12408
+#EXTINF:-1,SKY SPORT BUNDESLIGA 5 FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12407
+#EXTINF:-1,SKY SPORT BUNDESLIGA 5 HD
+http://tv.trexiptv.com:8000/Haron/123456/12506
+#EXTINF:-1,MOTORVISION HD
+http://tv.trexiptv.com:8000/Haron/123456/12523
+#EXTINF:-1,MOTORVISION TV HD
+http://tv.trexiptv.com:8000/Haron/123456/12568
+#EXTINF:-1,MTV FHD 4K
+http://tv.trexiptv.com:8000/Haron/123456/12432
+#EXTINF:-1,CLASSICA HD
+http://tv.trexiptv.com:8000/Haron/123456/12529
+#EXTINF:-1,=====|GERMANY HD |=====
+http://tv.trexiptv.com:8000/Haron/123456/45763
+#EXTINF:-1,ZDF
+http://tv.trexiptv.com:8000/Haron/123456/44566
+#EXTINF:-1,ZDF INFO
+http://tv.trexiptv.com:8000/Haron/123456/44565
+#EXTINF:-1,ZDF NEO
+http://tv.trexiptv.com:8000/Haron/123456/44564
+#EXTINF:-1,KABEL EINS
+http://tv.trexiptv.com:8000/Haron/123456/44629
+#EXTINF:-1,DAS ERSTE
+http://tv.trexiptv.com:8000/Haron/123456/44647
+#EXTINF:-1,ANIXE
+http://tv.trexiptv.com:8000/Haron/123456/44651
+#EXTINF:-1,A&E
+http://tv.trexiptv.com:8000/Haron/123456/44652
+#EXTINF:-1,3SAT
+http://tv.trexiptv.com:8000/Haron/123456/44653
+#EXTINF:-1,ARTE
+http://tv.trexiptv.com:8000/Haron/123456/44650
+#EXTINF:-1,DELUXE MUSIC
+http://tv.trexiptv.com:8000/Haron/123456/44642
+#EXTINF:-1,CLASSICA
+http://tv.trexiptv.com:8000/Haron/123456/44562
+#EXTINF:-1,N-TV
+http://tv.trexiptv.com:8000/Haron/123456/44624
+#EXTINF:-1,PRO 7
+http://tv.trexiptv.com:8000/Haron/123456/44618
+#EXTINF:-1,PRO 7 MAXX
+http://tv.trexiptv.com:8000/Haron/123456/44619
+#EXTINF:-1,Super RTL
+http://tv.trexiptv.com:8000/Haron/123456/44577
+#EXTINF:-1,RTL
+http://tv.trexiptv.com:8000/Haron/123456/44616
+#EXTINF:-1,RTL 2
+http://tv.trexiptv.com:8000/Haron/123456/44617
+#EXTINF:-1,RTL PLUS HD
+http://tv.trexiptv.com:8000/Haron/123456/78400
+#EXTINF:-1,SAT 1 GOLD
+http://tv.trexiptv.com:8000/Haron/123456/44615
+#EXTINF:-1,SAT 1
+http://tv.trexiptv.com:8000/Haron/123456/44614
+#EXTINF:-1,SIXX
+http://tv.trexiptv.com:8000/Haron/123456/44613
+#EXTINF:-1,NITRO
+http://tv.trexiptv.com:8000/Haron/123456/44620
+#EXTINF:-1,ROMANCE TV
+http://tv.trexiptv.com:8000/Haron/123456/44559
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://tv.trexiptv.com:8000/Haron/123456/44578
+#EXTINF:-1,SPIEGEL TV WISSEN
+http://tv.trexiptv.com:8000/Haron/123456/44558
+#EXTINF:-1,SWR BW
+http://tv.trexiptv.com:8000/Haron/123456/44576
+#EXTINF:-1,TELE 5
+http://tv.trexiptv.com:8000/Haron/123456/44574
+#EXTINF:-1,WELT
+http://tv.trexiptv.com:8000/Haron/123456/44567
+#EXTINF:-1,VOX
+http://tv.trexiptv.com:8000/Haron/123456/44568
+#EXTINF:-1,13TH STREET
+http://tv.trexiptv.com:8000/Haron/123456/44654
+#EXTINF:-1,BOOMERANG
+http://tv.trexiptv.com:8000/Haron/123456/44649
+#EXTINF:-1,CARTOON NETWORK
+http://tv.trexiptv.com:8000/Haron/123456/44648
+#EXTINF:-1,DAZN 1 BAR
+http://tv.trexiptv.com:8000/Haron/123456/44646
+#EXTINF:-1,DAZN 2 BAR
+http://tv.trexiptv.com:8000/Haron/123456/44645
+#EXTINF:-1,DAZN SPORT 1
+http://tv.trexiptv.com:8000/Haron/123456/44644
+#EXTINF:-1,DAZN SPORT 2
+http://tv.trexiptv.com:8000/Haron/123456/44643
+#EXTINF:-1,DISCOVERY
+http://tv.trexiptv.com:8000/Haron/123456/44641
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.trexiptv.com:8000/Haron/123456/44640
+#EXTINF:-1,DISNEY CINEMAGIC
+http://tv.trexiptv.com:8000/Haron/123456/44639
+#EXTINF:-1,DISNEY JR
+http://tv.trexiptv.com:8000/Haron/123456/44638
+#EXTINF:-1,DISNEY XD
+http://tv.trexiptv.com:8000/Haron/123456/44561
+#EXTINF:-1,DMAX
+http://tv.trexiptv.com:8000/Haron/123456/44637
+#EXTINF:-1,E! ENTERTAIMENT
+http://tv.trexiptv.com:8000/Haron/123456/44636
+#EXTINF:-1,EUROSPORT 1
+http://tv.trexiptv.com:8000/Haron/123456/44635
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://tv.trexiptv.com:8000/Haron/123456/44634
+#EXTINF:-1,EUROSPORT 2
+http://tv.trexiptv.com:8000/Haron/123456/44633
+#EXTINF:-1,FOX
+http://tv.trexiptv.com:8000/Haron/123456/44632
+#EXTINF:-1,HEIMAT
+http://tv.trexiptv.com:8000/Haron/123456/44560
+#EXTINF:-1,HISTORY
+http://tv.trexiptv.com:8000/Haron/123456/44631
+#EXTINF:-1,JUKEBOX
+http://tv.trexiptv.com:8000/Haron/123456/44630
+#EXTINF:-1,KIKA
+http://tv.trexiptv.com:8000/Haron/123456/44628
+#EXTINF:-1,KINOWELT TV
+http://tv.trexiptv.com:8000/Haron/123456/44627
+#EXTINF:-1,MOTORVISION
+http://tv.trexiptv.com:8000/Haron/123456/44626
+#EXTINF:-1,MTV
+http://tv.trexiptv.com:8000/Haron/123456/44625
+#EXTINF:-1,NAT GEO
+http://tv.trexiptv.com:8000/Haron/123456/44623
+#EXTINF:-1,NAT GEO WILD
+http://tv.trexiptv.com:8000/Haron/123456/44622
+#EXTINF:-1,NICKELODEON
+http://tv.trexiptv.com:8000/Haron/123456/44621
+#EXTINF:-1,SKY ATLANTIC
+http://tv.trexiptv.com:8000/Haron/123456/44611
+#EXTINF:-1,SKY CINEMA
+http://tv.trexiptv.com:8000/Haron/123456/44605
+#EXTINF:-1,SKY CINEMA  24
+http://tv.trexiptv.com:8000/Haron/123456/44609
+#EXTINF:-1,SKY CINEMA 1
+http://tv.trexiptv.com:8000/Haron/123456/44610
+#EXTINF:-1,SKY CINEMA ACTION
+http://tv.trexiptv.com:8000/Haron/123456/44608
+#EXTINF:-1,SKY CINEMA EMOTION
+http://tv.trexiptv.com:8000/Haron/123456/44607
+#EXTINF:-1,SKY CINEMA FAMILY
+http://tv.trexiptv.com:8000/Haron/123456/44606
+#EXTINF:-1,SKY CINEMA HITS
+http://tv.trexiptv.com:8000/Haron/123456/44604
+#EXTINF:-1,SKY CINEMA NOSTALGIE
+http://tv.trexiptv.com:8000/Haron/123456/44603
+#EXTINF:-1,SKY KRIMI
+http://tv.trexiptv.com:8000/Haron/123456/44602
+#EXTINF:-1,SKY SPORT 1
+http://tv.trexiptv.com:8000/Haron/123456/44601
+#EXTINF:-1,SKY SPORT 2
+http://tv.trexiptv.com:8000/Haron/123456/44598
+#EXTINF:-1,SKY SPORT 3
+http://tv.trexiptv.com:8000/Haron/123456/44597
+#EXTINF:-1,SKY SPORT 4
+http://tv.trexiptv.com:8000/Haron/123456/44596
+#EXTINF:-1,SKY SPORT 5
+http://tv.trexiptv.com:8000/Haron/123456/44595
+#EXTINF:-1,SKY SPORT 6
+http://tv.trexiptv.com:8000/Haron/123456/44594
+#EXTINF:-1,SKY SPORT 7
+http://tv.trexiptv.com:8000/Haron/123456/44593
+#EXTINF:-1,SKY SPORT 8
+http://tv.trexiptv.com:8000/Haron/123456/44592
+#EXTINF:-1,SKY SPORT 9
+http://tv.trexiptv.com:8000/Haron/123456/44591
+#EXTINF:-1,SKY SPORT 10
+http://tv.trexiptv.com:8000/Haron/123456/44600
+#EXTINF:-1,SKY SPORT 11
+http://tv.trexiptv.com:8000/Haron/123456/44599
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://tv.trexiptv.com:8000/Haron/123456/44590
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1
+http://tv.trexiptv.com:8000/Haron/123456/44589
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2
+http://tv.trexiptv.com:8000/Haron/123456/44587
+#EXTINF:-1,SKY SPORT BUNDESLIGA 3
+http://tv.trexiptv.com:8000/Haron/123456/44586
+#EXTINF:-1,SKY SPORT BUNDESLIGA 4
+http://tv.trexiptv.com:8000/Haron/123456/44585
+#EXTINF:-1,SKY SPORT BUNDESLIGA 5
+http://tv.trexiptv.com:8000/Haron/123456/44584
+#EXTINF:-1,SKY SPORT BUNDESLIGA 6
+http://tv.trexiptv.com:8000/Haron/123456/44583
+#EXTINF:-1,SKY SPORT BUNDESLIGA 7
+http://tv.trexiptv.com:8000/Haron/123456/44582
+#EXTINF:-1,SKY SPORT BUNDESLIGA 8
+http://tv.trexiptv.com:8000/Haron/123456/44581
+#EXTINF:-1,SKY SPORT BUNDESLIGA 9
+http://tv.trexiptv.com:8000/Haron/123456/44580
+#EXTINF:-1,SKY SPORT BUNDESLIGA 10
+http://tv.trexiptv.com:8000/Haron/123456/44588
+#EXTINF:-1,SKY SPORT NEWS
+http://tv.trexiptv.com:8000/Haron/123456/44579
+#EXTINF:-1,SYFY
+http://tv.trexiptv.com:8000/Haron/123456/44575
+#EXTINF:-1,TLC
+http://tv.trexiptv.com:8000/Haron/123456/44573
+#EXTINF:-1,TNT COMEDY
+http://tv.trexiptv.com:8000/Haron/123456/44572
+#EXTINF:-1,TNT FILM
+http://tv.trexiptv.com:8000/Haron/123456/44571
+#EXTINF:-1,TNT SERIE
+http://tv.trexiptv.com:8000/Haron/123456/44570
+#EXTINF:-1,UNIVERSAL
+http://tv.trexiptv.com:8000/Haron/123456/44569
+#EXTINF:-1,ZEE ONE
+http://tv.trexiptv.com:8000/Haron/123456/44557
