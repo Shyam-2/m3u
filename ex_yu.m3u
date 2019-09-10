@@ -1,61 +1,222 @@
-#EXTM3U
-#EXTINF:-1,Animal Planet
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13743.m3u8
-#EXTINF:-1,AXN
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13742.m3u8
-#EXTINF:-1,Cinemax 1
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13728.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13727.m3u8
-#EXTINF:-1,Cinestar TV
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13726.m3u8
-#EXTINF:-1,Cinestar TV Premiere 1 HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13725.m3u8
-#EXTINF:-1,Cinestar TV Premiere 2
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13724.m3u8
-#EXTINF:-1,Crime & Investigation
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13741.m3u8
-#EXTINF:-1,Discovery Channel
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13740.m3u8
-#EXTINF:-1,E!
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13723.m3u8
-#EXTINF:-1,FilmBox Extra test
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13722.m3u8
-#EXTINF:-1,FilmBox Plus
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13721.m3u8
-#EXTINF:-1,Fox
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13720.m3u8
-#EXTINF:-1,Fox Crime
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13719.m3u8
-#EXTINF:-1,Fox Life
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13718.m3u8
-#EXTINF:-1,HBO HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13717.m3u8
-#EXTINF:-1,History
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13739.m3u8
-#EXTINF:-1,Klasik TV
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13738.m3u8
-#EXTINF:-1,M1 Film
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13737.m3u8
-#EXTINF:-1,National Geographic Channel
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13736.m3u8
+#EXTINF:-1,Top Channel
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/324
+#EXTINF:-1,Klan HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/323
+#EXTINF:-1,Klan plus
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/322
+#EXTINF:-1,Klan Kosova
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/325
+#EXTINF:-1,Rtv 21
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/326
+#EXTINF:-1,KTV
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/327
+#EXTINF:-1,RTK 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/332
+#EXTINF:-1,Rtk 2 Toksore
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/330
+#EXTINF:-1,Rtk 3 Toksore
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/329
+#EXTINF:-1,Rtk 4 Toksore
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/328
+#EXTINF:-1,TV DUKAGJINI
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/248
+#EXTINF:-1,VIZION PLUS
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/318
+#EXTINF:-1,3 plus
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/320
+#EXTINF:-1,ALSAT M
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/321
+#EXTINF:-1,Living HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/299
+#EXTINF:-1,Top News
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/303
+#EXTINF:-1,Kanali 7
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/302
+#EXTINF:-1,ARTA NEWS
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/242
+#EXTINF:-1,Al Jazzera Balkans
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/167
+#EXTINF:-1,EuroNews DE
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/301
+#EXTINF:-1,N24
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/175
+#EXTINF:-1,Rai News 24
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/182
+#EXTINF:-1,RROKUM TV
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/319
+#EXTINF:-1,Bang Bang
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/297
+#EXTINF:-1,Cufo
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/298
+#EXTINF:-1,Junior TV
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/294
+#EXTINF:-1,Rtv 21 Junior
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/246
+#EXTINF:-1,TRING TRING
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/269
+#EXTINF:-1,Tip Tv
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/295
+#EXTINF:-1,ToggoPlus
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/191
+#EXTINF:-1,SuperRtl
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/190
+#EXTINF:-1,Rtl 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/210
+#EXTINF:-1,DASMA TV
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/314
+#EXTINF:-1,RTV 21 Popullore
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/317
+#EXTINF:-1,RTV 21 MIX
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/315
+#EXTINF:-1,RTV 21 PLUS
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/316
+#EXTINF:-1,Explorer Shkence
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/292
+#EXTINF:-1,Explorer Natyra
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/291
+#EXTINF:-1,Explorer Histori
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/290
+#EXTINF:-1,TRING PLANET
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/287
+#EXTINF:-1,TRING WORLD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/289
+#EXTINF:-1,SKY SHKENCE AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/283
+#EXTINF:-1,SKY HISTORI AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/284
+#EXTINF:-1,SKY PLANET AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/282
+#EXTINF:-1,National Geographic
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/285
+#EXTINF:-1,SKY DRAMA AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/250
+#EXTINF:-1,SKY NOVELA AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/253
+#EXTINF:-1,T HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/271
+#EXTINF:-1,TRING SHQIP
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/266
+#EXTINF:-1,SKY SHQIP AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/254
+#EXTINF:-1,Film Drame
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/275
+#EXTINF:-1,Film Aksion
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/273
+#EXTINF:-1,Film Hits
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/278
+#EXTINF:-1,Film Komedi
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/279
+#EXTINF:-1,Film Thriller
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/281
+#EXTINF:-1,DIGI GOLD 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/449
+#EXTINF:-1,DIGI GOLD 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/448
+#EXTINF:-1,Film HD 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/277
+#EXTINF:-1,Film HD 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/276
+#EXTINF:-1,Film 7 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/256
+#EXTINF:-1,Family HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/245
+#EXTINF:-1,STAR HD AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/255
+#EXTINF:-1,Jolly HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/260
+#EXTINF:-1,TRING SUPER
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/268
+#EXTINF:-1,TRING ACTION
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/264
+#EXTINF:-1,TRING COMEDY
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/261
+#EXTINF:-1,SKY MAX AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/252
+#EXTINF:-1,SKY AKSION AL
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/249
+#EXTINF:-1,SKY ATLANTIC DE
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/446
+#EXTINF:-1,TV Opinioni
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/215
+#EXTINF:-1,Rai 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/179
+#EXTINF:-1,Rai 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/180
+#EXTINF:-1,Rai 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/181
+#EXTINF:-1,Cabel Eins
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/168
+#EXTINF:-1,3 Sat
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/208
+#EXTINF:-1,RTL Plus
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/185
+#EXTINF:-1,RTL TV
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/186
+#EXTINF:-1,SAT 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/187
+#EXTINF:-1,SAT 1 Gold
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/188
+#EXTINF:-1,VOX DE
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/212
+#EXTINF:-1,ZDF
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/207
+#EXTINF:-1,Pink Crime
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/196
+#EXTINF:-1,Pink Horror
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/197
+#EXTINF:-1,Pink Pedia
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/198
+#EXTINF:-1,Pink Premium
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/199
+#EXTINF:-1,NatGeo Wild HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/205
+#EXTINF:-1,Pro 7 MAXX
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/177
+#EXTINF:-1,Pro Sieben
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/178
+#EXTINF:-1,First Channel
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/310
+#EXTINF:-1,TV 7
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/241
+#EXTINF:-1,TV Besa
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/312
+#EXTINF:-1,Show TR
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/174
+#EXTINF:-1,Super Sport 1 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/240
+#EXTINF:-1,Super Sport 2 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/239
+#EXTINF:-1,Super Sport 3 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/238
+#EXTINF:-1,Super Sport 4 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/237
+#EXTINF:-1,Tring Sport News
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/236
+#EXTINF:-1,Tring Sport 1 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/235
+#EXTINF:-1,Tring Sport 2 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/234
+#EXTINF:-1,K Sport 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/229
+#EXTINF:-1,K Sport 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/228
+#EXTINF:-1,K Sport 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/227
+#EXTINF:-1,K Sport 4
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/226
 #EXTINF:-1,Sport Klub 1
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13735.m3u8
-#EXTINF:-1,Sport Klub 1 HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13716.m3u8
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/222
 #EXTINF:-1,Sport Klub 2
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13734.m3u8
-#EXTINF:-1,Sport Klub 2 HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13715.m3u8
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/221
 #EXTINF:-1,Sport Klub 3
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13733.m3u8
-#EXTINF:-1,Sport Klub 3 HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13714.m3u8
-#EXTINF:-1,Sport Klub 4
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13732.m3u8
-#EXTINF:-1,Sport Klub 5
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13731.m3u8
-#EXTINF:-1,Sport Klub HD
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13730.m3u8
-#EXTINF:-1,TLC
-http://medotv.nl:8000/live/MoM10BvyMX/VwDP31z87H/13729.m3u8
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/220
+#EXTINF:-1,Arena Sport 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/219
+#EXTINF:-1,Arena Sport 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/216
+#EXTINF:-1,Arena Sport 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/217
+#EXTINF:-1,Arena Sport 4
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/218
+#EXTINF:-1,Eurosport Deutschland
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/214
