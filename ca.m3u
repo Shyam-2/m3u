@@ -1,100 +1,245 @@
 #EXTM3U
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jxjg4Nx.png" group-title="",5AAB Music Channel
-http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="",A3BIKINI TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/54iDWZU.png" group-title="",Canal Savoir
-https://bc1.canalsavoir.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UPhXZbY.png" group-title="News",CBC News
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CVplWwb.jpg" group-title="",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-id="CPAC (Francais)-CA" tvg-name="CPAC (Francais)-CA" tvg-logo="https://i.imgur.com/5MQiZM9.png" group-title="",CPAC (Francais)
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SVdrxU4.png" group-title="Religious",Daystar Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aTWFaPn.png" group-title="",E9 Punjabi
-http://cdn.samtv.ca/e9punjabi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/al6RSFp.png" group-title="",EET TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ul9qddp.jpg" group-title="",EMCI TV (Montréal)
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bbVSaC7.jpg" group-title="",GH Canada TV
-http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/chunklist_w1167237290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tILcm6T.png" group-title="",iCNET
-http://70.52.161.69:1935/ICNET/ngrp:my.stream_all/chunklist_w2017851544_b3478286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="",NTV (CJON-DT)
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6L0gjes.jpg" group-title="",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-logo="https://i.imgur.com/9uFrMex.png" group-title="",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/27zQGkR.png" group-title="Sport",Sports Net Ontario
-http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTINF:-1,A&E
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36885.m3u8
+#EXTINF:-1,ABC SPARK CANADA
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36884.m3u8
+#EXTINF:-1,ABC WEST HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36883.m3u8
+#EXTINF:-1,AMC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36881.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36880.m3u8
+#EXTINF:-1,B ABC SPARK
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36933.m3u8
+#EXTINF:-1,B AMC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36932.m3u8
+#EXTINF:-1,B BNN HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36931.m3u8
+#EXTINF:-1,B BRAVO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36930.m3u8
+#EXTINF:-1, CBC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36928.m3u8
+#EXTINF:-1,B CBC NEWS HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36927.m3u8
+#EXTINF:-1,B CBS FHD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36926.m3u8
+#EXTINF:-1,B CHCH CA
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36886.m3u8
+#EXTINF:-1,B CHCH HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36925.m3u8
+#EXTINF:-1,City  TV
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36924.m3u8
+#EXTINF:-1,CA:CNN
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36923.m3u8
+#EXTINF:-1,B CP 24 HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36921.m3u8
+#EXTINF:-1,B CPAC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36920.m3u8
+#EXTINF:-1,B CTV
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36917.m3u8
+#EXTINF:-1,B CTV NEWS HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36916.m3u8
+#EXTINF:-1,B DISCOVERY SCIENCE HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36914.m3u8
+#EXTINF:-1,B DISCOVERY VELOCITY
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36913.m3u8
+#EXTINF:-1,B DISNEY JR HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36912.m3u8
+#EXTINF:-1,B E! HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36910.m3u8
+#EXTINF:-1,FOX Q13
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36909.m3u8
+#EXTINF:-1,B FOX NEWS HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36908.m3u8
+#EXTINF:-1,B FX HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36907.m3u8
+#EXTINF:-1,B GLOBAL FHD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36905.m3u8
+#EXTINF:-1,B GSN HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36904.m3u8
+#EXTINF:-1,B HBO 2 HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36903.m3u8
+#EXTINF:-1,B HGTV
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36901.m3u8
+#EXTINF:-1,B HISTORY HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36900.m3u8
+#EXTINF:-1,B Lifetime HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36898.m3u8
+#EXTINF:-1,B MSNBC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36897.m3u8
+#EXTINF:-1,B NAT GEO Wild HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36896.m3u8
+#EXTINF:-1,B OMNI HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36895.m3u8
+#EXTINF:-1,B OWN HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36894.m3u8
+#EXTINF:-1,Silver Screen Classics
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36891.m3u8
+#EXTINF:-1,B SLICE HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36890.m3u8
+#EXTINF:-1,B The Shopping Channel
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36871.m3u8
+#EXTINF:-1,B TLC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36887.m3u8
+#EXTINF:-1,BBC CANADA
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36870.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36867.m3u8
+#EXTINF:-1,BNN
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36865.m3u8
+#EXTINF:-1,BRAVO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36864.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36863.m3u8
+#EXTINF:-1,CBC FRENCH HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36860.m3u8
+#EXTINF:-1,CBC MONTREAL HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36859.m3u8
+#EXTINF:-1,CBC NEWS NETWORK
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36858.m3u8
+#EXTINF:-1,CBC NEWS TORONTO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36857.m3u8
+#EXTINF:-1,CBC OTTAWA HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36856.m3u8
+#EXTINF:-1,CBC TORONTO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36855.m3u8
+#EXTINF:-1,CBC VANCOUVER HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36854.m3u8
+#EXTINF:-1,CBC WINNIPEG HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36853.m3u8
+#EXTINF:-1,CBS EAST
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36852.m3u8
+#EXTINF:-1,CBS WEST HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36851.m3u8
+#EXTINF:-1,CHCH HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36850.m3u8
+#EXTINF:-1,CITY TORONTO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36848.m3u8
+#EXTINF:-1,CNBC
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36846.m3u8
+#EXTINF:-1,CNN HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36845.m3u8
+#EXTINF:-1,COMEDY HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36843.m3u8
+#EXTINF:-1,COOKING CHANNEL HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36842.m3u8
+#EXTINF:-1,CP24 HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36841.m3u8
+#EXTINF:-1,CPAC FRENCH
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36840.m3u8
+#EXTINF:-1,CPAC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36839.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36838.m3u8
+#EXTINF:-1,CTV 2 VANCOUVER HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36837.m3u8
+#EXTINF:-1,CTV NEWS TORONTO
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36836.m3u8
+#EXTINF:-1,CTV NEWS VANCOUVER
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36835.m3u8
+#EXTINF:-1,CW 11
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36832.m3u8
+#EXTINF:-1,DAYSTAR TV HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36831.m3u8
+#EXTINF:-1,DISCOVERY CANADA HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36830.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36829.m3u8
+#EXTINF:-1,DISNEY CANADA
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36828.m3u8
+#EXTINF:-1,DISNEY JR HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36827.m3u8
+#EXTINF:-1,DISNEY USA HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36826.m3u8
+#EXTINF:-1,E! HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36824.m3u8
+#EXTINF:-1,ENCORE 1 EAST
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36823.m3u8
+#EXTINF:-1,ENCORE 2 EAST
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36822.m3u8
+#EXTINF:-1,FAMILY EAST HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36819.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36818.m3u8
+#EXTINF:-1,FOX WEST HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36816.m3u8
+#EXTINF:-1,FXX HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36814.m3u8
+#EXTINF:-1,FYI
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36813.m3u8
+#EXTINF:-1,GLOBAL TORONTO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36811.m3u8
+#EXTINF:-1,GOLF FHD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36809.m3u8
+#EXTINF:-1,H2 CANADA
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36807.m3u8
+#EXTINF:-1,HBO 1 HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36805.m3u8
+#EXTINF:-1,HGTV HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36803.m3u8
+#EXTINF:-1,HISTORY HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36801.m3u8
+#EXTINF:-1,HISTORY TWO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36800.m3u8
+#EXTINF:-1,ICI MONTREAL HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36798.m3u8
+#EXTINF:-1,IFC
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36796.m3u8
+#EXTINF:-1,LIFETIME HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36793.m3u8
+#EXTINF:-1,LOVE NATURE
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36792.m3u8
+#EXTINF:-1,MOVIETIME HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36790.m3u8
+#EXTINF:-1,NAT GEO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36789.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36788.m3u8
+#EXTINF:-1,NBA TV Backup
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36787.m3u8
+#EXTINF:-1,OMNI 1 HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36785.m3u8
+#EXTINF:-1,OMNI 2 HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36784.m3u8
+#EXTINF:-1,OMNI BC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36783.m3u8
+#EXTINF:-1,OWN HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36782.m3u8
+#EXTINF:-1,PBS WEST HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36781.m3u8
+#EXTINF:-1,SHOPPING HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36780.m3u8
+#EXTINF:-1,SHOWCASE EAST HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36779.m3u8
+#EXTINF:-1,SLICE HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36777.m3u8
+#EXTINF:-1,SMITHSONIAN HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36776.m3u8
+#EXTINF:-1,SNET WORLD HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36775.m3u8
+#EXTINF:-1,SPACE HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36774.m3u8
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36773.m3u8
+#EXTINF:-1,TELETOON HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36765.m3u8
+#EXTINF:-1,THE WEATHER NETWORK CANADA
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36764.m3u8
+#EXTINF:-1,TLC HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36763.m3u8
+#EXTINF:-1,TMN 4
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36761.m3u8
+#EXTINF:-1,TREEHOUSE HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36760.m3u8
+#EXTINF:-1,W NETWORK HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36752.m3u8
+#EXTINF:-1,WEATHER NETWORK TORONTO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36751.m3u8
+#EXTINF:-1,YES TV ALBERTA HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36749.m3u8
+#EXTINF:-1,YES TV ONTARIO HD
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36748.m3u8
+#EXTINF:-1,YTV
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36747.m3u8
+#EXTINF:-1,YTV West
+http://207.244.78.104:826/live/h2HDQ6ukh/FGevpvtTkg/36746.m3u8
