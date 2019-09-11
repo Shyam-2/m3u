@@ -1,69 +1,103 @@
 #EXTM3U
-#EXTINF:0,AMC
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59456
-#EXTINF:0,Animal Planet
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59455
-#EXTINF:0,Aparecida
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59335
-#EXTINF:0,Combate
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59438
-#EXTINF:0,Comedy Central
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59437
-#EXTINF:0,Discovery Channel
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59435
-#EXTINF:0,Discovery Kids
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59331
-#EXTINF:0,ESPN Brasil
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59425
-#EXTINF:0,Food Network
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59423
-#EXTINF:0,Futura
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59329
-#EXTINF:0,HBO Family
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59411
-#EXTINF:0,I-SAT
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59406
-#EXTINF:0,MAX Prime
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59328
-#EXTINF:0,MAX UP
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59400
-#EXTINF:0,NatGeo Kids
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59396
-#EXTINF:0,Nick Jr
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59392
-#EXTINF:0,Nickelodeon
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59391
-#EXTINF:0,Premiere 5
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59383
-#EXTINF:0,Premiere 7
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59381
-#EXTINF:0,Premiere 9
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59379
-#EXTINF:0,RBI
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59377
-#EXTINF:0,Record News
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59376
-#EXTINF:0,RECORDTV
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59375
-#EXTINF:0,Rede TV
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59324
-#EXTINF:0,SIC Internacional
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59323
-#EXTINF:0,Space
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59369
-#EXTINF:0,Studio Universal
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59365
-#EXTINF:0,Telecine Cult
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59361
-#EXTINF:0,The History Channel
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59319
-#EXTINF:0,TLC
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59355
-#EXTINF:0,TV Cultura
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59348
-#EXTINF:0,TV C–mara
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59349
-#EXTINF:0,TV Justila
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59346
-#EXTINF:0,TV Tribuna Santos
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/59317
+#EXTINF:-1,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-name="" tvg-language="" tvg-country="" tvg-id="" tvg-logo="http://img.brgo.xyz/img/AMAZONSAT.png" group-title="BRAZIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:-1,Aperipe TV
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+#EXTINF:-1,Canal Futura Rio de Janeiro
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+#EXTINF:-1,Classique TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:-1,E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,Foz TV
+http://gw01.7idi.com:8087/hls/foztv.m3u8
+#EXTINF:-1,G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+#EXTINF:-1,PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1,Radio Menina TV
+http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
+#EXTINF:-1,RBC Salvador
+http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
+#EXTINF:-1,RecordTV Espirito Santo
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1,RecordTV MatoGrosso
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:-1,RecordTV Mozambique
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:-1,RecordTV Sao Paulo
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+#EXTINF:-1,Record News
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000
+#EXTINF:-1,Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1,Rede Brasil [Opt-1]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1,Rede Brasil [Opt-2]
+https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/chunklist_w1757672591.m3u8
+#EXTINF:-1,Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+#EXTINF:-1,Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:-1,Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1,Rede TV Rondonia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:-1,SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,TVE Bahia (Opt-1)
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1,TVE Bahia (Opt-2)
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1,TVE Rio Grande do Sul (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TVE Rio Grande do Sul (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TVN
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,TVR
+http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8
+#EXTINF:-1,TV Antares
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
+#EXTINF:-1,TV Assembleia SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:-1,TV Camara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+#EXTINF:-1,TV Cultura
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:-1,TV Diario
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:-1,TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1,TV Geral
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:-1,TV Goias
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
+#EXTINF:-1,TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+#EXTINF:-1,TV Itarare
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:-1,TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:-1,TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1,TV Pocos
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1,TV Sindeepres
+http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live_720p/livestream.m3u8
+#EXTINF:-1,TV Somzoom
+http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
+#EXTINF:-1,TV Tuba
+http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8 
+#EXTINF:-1,Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
