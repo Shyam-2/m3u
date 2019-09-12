@@ -1,95 +1,269 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://omega.ws:8080/live/monir/123456/5996.m3u8
+#EXTINF:-1,TVR1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9351
+#EXTINF:-1,TVR2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9350
+#EXTINF:-1,TVR HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9352
+#EXTINF:-1,PRO TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9366
+#EXTINF:-1,Pro TV HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/11135
 #EXTINF:-1,Antena 1
-http://omega.ws:8080/live/monir/123456/6016.m3u8
-#EXTINF:-1,Antena 3
-http://omega.ws:8080/live/monir/123456/6015.m3u8
-#EXTINF:-1,Antena Stars
-http://omega.ws:8080/live/monir/123456/6014.m3u8
-#EXTINF:-1,AXN Black
-http://omega.ws:8080/live/monir/123456/6003.m3u8
-#EXTINF:-1,AXN White
-http://omega.ws:8080/live/monir/123456/6004.m3u8
-#EXTINF:-1,B1 Tv
-http://omega.ws:8080/live/monir/123456/6011.m3u8
-#EXTINF:-1,Cinemax 1
-http://omega.ws:8080/live/monir/123456/6009.m3u8
-#EXTINF:-1,Cinemax 2
-http://omega.ws:8080/live/monir/123456/6008.m3u8
-#EXTINF:-1,Digi 24
-http://omega.ws:8080/live/monir/123456/6013.m3u8
-#EXTINF:-1,Digi Animal World
-http://omega.ws:8080/live/monir/123456/5983.m3u8
-#EXTINF:-1,Digi Film
-http://omega.ws:8080/live/monir/123456/6002.m3u8
-#EXTINF:-1,Digi Life
-http://omega.ws:8080/live/monir/123456/6001.m3u8
-#EXTINF:-1,Digi Sport 1
-http://omega.ws:8080/live/monir/123456/5979.m3u8
-#EXTINF:-1,Digi Sport 2
-http://omega.ws:8080/live/monir/123456/5978.m3u8
-#EXTINF:-1,Digi Sport 3
-http://omega.ws:8080/live/monir/123456/5977.m3u8
-#EXTINF:-1,Digi Sport 4
-http://omega.ws:8080/live/monir/123456/5976.m3u8
-#EXTINF:-1,Digi World
-http://omega.ws:8080/live/monir/123456/6000.m3u8
-#EXTINF:-1,Disney Channel
-http://omega.ws:8080/live/monir/123456/5997.m3u8
-#EXTINF:-1,Disney Junior
-http://omega.ws:8080/live/monir/123456/5993.m3u8
-#EXTINF:-1,Eurosport 1
-http://omega.ws:8080/live/monir/123456/5981.m3u8
-#EXTINF:-1,Eurosport 2
-http://omega.ws:8080/live/monir/123456/5980.m3u8
-#EXTINF:-1,Fishing & Hunting
-http://omega.ws:8080/live/monir/123456/5982.m3u8
-#EXTINF:-1,Happy Channel
-http://omega.ws:8080/live/monir/123456/5986.m3u8
-#EXTINF:-1,HBO 2
-http://omega.ws:8080/live/monir/123456/6006.m3u8
-#EXTINF:-1,HBO 3
-http://omega.ws:8080/live/monir/123456/6005.m3u8
-#EXTINF:-1,HBO Romania
-http://omega.ws:8080/live/monir/123456/6007.m3u8
-#EXTINF:-1,History Channel
-http://omega.ws:8080/live/monir/123456/5985.m3u8
-#EXTINF:-1,KanalD
-http://omega.ws:8080/live/monir/123456/6012.m3u8
-#EXTINF:-1,KISS TV
-http://omega.ws:8080/live/monir/123456/5994.m3u8
-#EXTINF:-1,Megamax
-http://omega.ws:8080/live/monir/123456/5991.m3u8
-#EXTINF:-1,Minimax
-http://omega.ws:8080/live/monir/123456/5992.m3u8
-#EXTINF:-1,Nat Geo
-http://omega.ws:8080/live/monir/123456/5988.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://omega.ws:8080/live/monir/123456/5987.m3u8
-#EXTINF:-1,National Tv
-http://omega.ws:8080/live/monir/123456/5998.m3u8
-#EXTINF:-1,Prima Tv
-http://omega.ws:8080/live/monir/123456/6010.m3u8
-#EXTINF:-1,Pro 2
-http://omega.ws:8080/live/monir/123456/6019.m3u8
-#EXTINF:-1,ProTV
-http://omega.ws:8080/live/monir/123456/6020.m3u8
-#EXTINF:-1,Realitatea Tv
-http://omega.ws:8080/live/monir/123456/6017.m3u8
-#EXTINF:-1,Romania Tv
-http://omega.ws:8080/live/monir/123456/6018.m3u8
-#EXTINF:-1,Travel Channel
-http://omega.ws:8080/live/monir/123456/5984.m3u8
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9465
+#EXTINF:-1,Antena 1 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9464
+#EXTINF:-1,Kanal D
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9391
+#EXTINF:-1,Kanal D HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9390
+#EXTINF:-1,Prima TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9368
+#EXTINF:-1,National TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9371
+#EXTINF:-1,Look Plus
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9388
+#EXTINF:-1,TVR3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9349
+#EXTINF:-1,National 24
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9373
+#EXTINF:-1,TVH
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9353
+#EXTINF:-1,Look TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9387
+#EXTINF:-1,Acasa
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9470
+#EXTINF:-1,Acasa Gold
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9468
+#EXTINF:-1,Acasa HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9469
+#EXTINF:-1,AgroTV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9467
+#EXTINF:-1,Animal Planet
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9466
 #EXTINF:-1,TV1000
-http://omega.ws:8080/live/monir/123456/5999.m3u8
-#EXTINF:-1,TVR 1
-http://omega.ws:8080/live/monir/123456/6022.m3u8
-#EXTINF:-1,TVR 2
-http://omega.ws:8080/live/monir/123456/6021.m3u8
-#EXTINF:-1,U TV
-http://omega.ws:8080/live/monir/123456/5995.m3u8
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9354
+#EXTINF:-1,ROmania TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9364
+#EXTINF:-1,Nickelodeon
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9370
+#EXTINF:-1,PRO Cinema
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9367
+#EXTINF:-1,Realitatea TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9365
+#EXTINF:-1,Kiss TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9389
+#EXTINF:-1,DIGI WORLD HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9429
+#EXTINF:-1,DIGI WORLD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9430
+#EXTINF:-1,DIGI Life HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9438
+#EXTINF:-1,DIGI Life
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9439
+#EXTINF:-1,DIGI FILM HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9440
+#EXTINF:-1,DIGI FILM
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9441
+#EXTINF:-1,DIGI ANIMAL WORLD HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9442
+#EXTINF:-1,DIGI ANIMAL WORLD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9443
+#EXTINF:-1,DIGI 24 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9444
+#EXTINF:-1,DIGI 24
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9445
+#EXTINF:-1,Antena Stars
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9461
+#EXTINF:-1,Antena Stars HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9460
+#EXTINF:-1,Antena 3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9463
+#EXTINF:-1,Antena 3 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9462
+#EXTINF:-1,Cinemax
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9451
+#EXTINF:-1,Cinemax 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9450
+#EXTINF:-1,Cinemax HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9449
+#EXTINF:-1,Cinemax2 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9448
+#EXTINF:-1,HBO HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9399
+#EXTINF:-1,HBO2 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9398
+#EXTINF:-1,HBO 3 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9400
+#EXTINF:-1,HBO 3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9401
+#EXTINF:-1,HBOmania
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9397
+#EXTINF:-1,Boomerang
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9453
+#EXTINF:-1,Megamax
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9385
+#EXTINF:-1,Minimax
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9384
+#EXTINF:-1,Cartoon Network
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9452
+#EXTINF:-1,Disney Channel
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9425
+#EXTINF:-1,Disney Jr
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9424
+#EXTINF:-1,JimJam
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9392
+#EXTINF:-1,History
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9396
+#EXTINF:-1,History HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9395
+#EXTINF:-1,Discovery
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9428
+#EXTINF:-1,Discovery ID
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9427
+#EXTINF:-1,Discovery Science
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9426
+#EXTINF:-1,Nat Geo
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9376
+#EXTINF:-1,Nat Geo Wild
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9375
+#EXTINF:-1,Nat Geo Wild HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9374
+#EXTINF:-1,National Geographic HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9372
+#EXTINF:-1,Da Vinci Learning
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9446
+#EXTINF:-1,Happy Channel
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9403
+#EXTINF:-1,Happy Channel HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9402
+#EXTINF:-1,Music Channel
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9377
+#EXTINF:-1,HIT MUSIC
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9394
+#EXTINF:-1,Mooz HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10363
+#EXTINF:-1,Mooz HITS
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9382
+#EXTINF:-1,MTV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9381
+#EXTINF:-1,MTV Dance
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9380
+#EXTINF:-1,MTV Hits
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9379
+#EXTINF:-1,MTVcks
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9378
+#EXTINF:-1,Etno
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9413
+#EXTINF:-1,Etno TV HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9412
+#EXTINF:-1,Hora TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9393
+#EXTINF:-1,Magic TV HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9386
+#EXTINF:-1,Mooz
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9383
+#EXTINF:-1,Taraf TV HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10364
+#EXTINF:-1,Taraf TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9360
+#EXTINF:-1,Comedy Central
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9447
+#EXTINF:-1,E! Entertainment
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9416
+#EXTINF:-1,E! Entertainment HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9415
+#EXTINF:-1,Diva
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9423
+#EXTINF:-1,DTX
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9418
+#EXTINF:-1,DTX HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9417
+#EXTINF:-1,eSTRADA TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9414
+#EXTINF:-1,B1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9454
+#EXTINF:-1,AXN
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9459
+#EXTINF:-1,AXN Black
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9457
+#EXTINF:-1,AXN HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9458
+#EXTINF:-1,AXN SPIN
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9456
+#EXTINF:-1,AXN White
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9455
+#EXTINF:-1,Sport
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9363
+#EXTINF:-1,Sport HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9362
+#EXTINF:-1,DIGI Sport 1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9437
+#EXTINF:-1,DIGI Sport 1 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9436
+#EXTINF:-1,DIGI Sport 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9435
+#EXTINF:-1,DIGI Sport 2 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9434
+#EXTINF:-1,DIGI Sport 3
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9433
+#EXTINF:-1,DIGI Sport 3 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9432
+#EXTINF:-1,DIGI Sport 4
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9431
+#EXTINF:-1,Dolce Sport 5
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9422
+#EXTINF:-1,Dolce Sport 6
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9421
+#EXTINF:-1,DolceSport 5 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9420
+#EXTINF:-1,DolceSport 6 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9419
+#EXTINF:-1,Eurosport
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9411
+#EXTINF:-1,Eurosport 1 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9410
+#EXTINF:-1,Eurosport 2
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9409
+#EXTINF:-1,Eurosport 2 HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10365
+#EXTINF:-1,Extreme Sport
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9408
+#EXTINF:-1,Favorit TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9407
+#EXTINF:-1,Travel
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9357
+#EXTINF:-1,Viasat HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9344
 #EXTINF:-1,Viasat History
-http://omega.ws:8080/live/monir/123456/5989.m3u8
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9343
 #EXTINF:-1,Viasat Nature
-http://omega.ws:8080/live/monir/123456/5990.m3u8
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9342
+#EXTINF:-1,Travel Mix
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9356
+#EXTINF:-1,Food Network HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9404
+#EXTINF:-1,Fishingand Hunting
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9405
+#EXTINF:-1,Film Caf?
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9406
+#EXTINF:-1,Paramount Channel
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9369
+#EXTINF:-1,TLC
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9359
+#EXTINF:-1,TNT
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9358
+#EXTINF:-1,TV Paprika
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9355
+#EXTINF:-1,UTV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9348
+#EXTINF:-1,UTV HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9347
+#EXTINF:-1,VH1
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9346
+#EXTINF:-1,VH1 Classic
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9345
+#EXTINF:-1,ZU TV
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9341
+#EXTINF:-1,ZU TV HD
+http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/9340
