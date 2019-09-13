@@ -1,47 +1,61 @@
 #EXTM3U
-#EXTINF:-1,BeIN Sports 1
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10284
-#EXTINF:-1,BeIN Sports 1 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10283
-#EXTINF:-1,BeIN Sports 10
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10266
-#EXTINF:-1,BeIN Sports 2
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10282
-#EXTINF:-1,BeIN Sports 2 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10281
-#EXTINF:-1,BeIN Sports 3
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10280
-#EXTINF:-1,BeIN Sports 3 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10279
-#EXTINF:-1,BeIN Sports 4
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10278
-#EXTINF:-1,BeIN Sports 4 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10277
-#EXTINF:-1,BeIN Sports 5
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10276
-#EXTINF:-1,BeIN Sports 5 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10275
-#EXTINF:-1,BeIN Sports 6
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10274
-#EXTINF:-1,BeIN Sports 6 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10273
-#EXTINF:-1,BeIN Sports 7
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10272
-#EXTINF:-1,BeIN Sports 7 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10271
-#EXTINF:-1,BeIN Sports 8
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10270
-#EXTINF:-1,BeIN Sports 8 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10269
-#EXTINF:-1,BeIN Sports 9
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10268
-#EXTINF:-1,BeIN Sports 10 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10265
-#EXTINF:-1,BeIN Sports 11 (EN)
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10264
-#EXTINF:-1,BeIN Sports 11 HD  (EN)
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10263
-#EXTINF:-1,BeIN Sports 9 HD
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10267
-#EXTINF:-1,BeIN Sports 12 HD (EN)
-http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10262
+#EXTINF:-1,beIN_SPORTS_1HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2024.m3u8
+#EXTINF:-1,beIN_SPORTS_2HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2023.m3u8
+#EXTINF:-1,beIN_SPORTS_3HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2022.m3u8
+#EXTINF:-1,beIN_SPORTS_4HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2021.m3u8
+#EXTINF:-1,beIN_SPORTS_5HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2020.m3u8
+#EXTINF:-1,beIN_SPORTS_6HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2019.m3u8
+#EXTINF:-1,beIN_SPORTS_7HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2018.m3u8
+#EXTINF:-1,beIN_SPORTS_8HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2017.m3u8
+#EXTINF:-1,beIN_SPORTS_9HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2016.m3u8
+#EXTINF:-1,beIN_SPORTS_10HD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2015.m3u8
+#EXTINF:-1,beIN_SPORTS_1HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2014.m3u8
+#EXTINF:-1,beIN_SPORTS_2HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2013.m3u8
+#EXTINF:-1,beIN_SPORTS_3HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2012.m3u8
+#EXTINF:-1,beIN_SPORTS_4HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2011.m3u8
+#EXTINF:-1,beIN_SPORTS_5HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2010.m3u8
+#EXTINF:-1,beIN_SPORTS_6HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2009.m3u8
+#EXTINF:-1,beIN_SPORTS_7HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2008.m3u8
+#EXTINF:-1,beIN_SPORTS_8HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2007.m3u8
+#EXTINF:-1,beIN_SPORTS_9HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2006.m3u8
+#EXTINF:-1,beIN_SPORTS_10HD(1080i)
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2005.m3u8
+#EXTINF:-1,beIN_SPORTS_1SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2004.m3u8
+#EXTINF:-1,beIN_SPORTS_2SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2003.m3u8
+#EXTINF:-1,beIN_SPORTS_3SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2002.m3u8
+#EXTINF:-1,beIN_SPORTS_4SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2001.m3u8
+#EXTINF:-1,beIN_SPORTS_5SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/2000.m3u8
+#EXTINF:-1,beIN_SPORTS_6SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/1999.m3u8
+#EXTINF:-1,beIN_SPORTS_7SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/1998.m3u8
+#EXTINF:-1,beIN_SPORTS_8SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/1997.m3u8
+#EXTINF:-1,beIN_SPORTS_9SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/1996.m3u8
+#EXTINF:-1,beIN_SPORTS_10SD
+http://51.77.142.9:25461/live/loclbeinsport/fAZI5L6kUd/1995.m3u8
