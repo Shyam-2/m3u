@@ -1,103 +1,587 @@
 #EXTM3U
-#EXTINF:-1,All Sports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-name="" tvg-language="" tvg-country="" tvg-id="" tvg-logo="http://img.brgo.xyz/img/AMAZONSAT.png" group-title="BRAZIL",Amazon Sat
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-#EXTINF:-1,Aperipe TV
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
-#EXTINF:-1,Canal Futura Rio de Janeiro
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
-#EXTINF:-1,Classique TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
-#EXTINF:-1,E-Parana
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,Foz TV
-http://gw01.7idi.com:8087/hls/foztv.m3u8
-#EXTINF:-1,G2P TV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-#EXTINF:-1,PUC TV Goias
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1,Radio Menina TV
-http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
-#EXTINF:-1,RBC Salvador
-http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
-#EXTINF:-1,RecordTV Espirito Santo
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1,RecordTV MatoGrosso
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-#EXTINF:-1,RecordTV Mozambique
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-#EXTINF:-1,RecordTV Sao Paulo
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
-#EXTINF:-1,Record News
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000
-#EXTINF:-1,Rede Atividade
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1,Rede Brasil [Opt-1]
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1,Rede Brasil [Opt-2]
-https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/chunklist_w1757672591.m3u8
-#EXTINF:-1,Rede Familia
-http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
-#EXTINF:-1,Rede Meio Norte
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-#EXTINF:-1,Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1,Rede TV Rondonia
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-#EXTINF:-1,SBT Piaui
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1,TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,TVE Bahia (Opt-1)
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1,TVE Bahia (Opt-2)
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1,TVE Rio Grande do Sul (Opt-1)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,TVE Rio Grande do Sul (Opt-2)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,TVN
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1,TVR
-http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8
-#EXTINF:-1,TV Antares
-http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
-#EXTINF:-1,TV Assembleia SP
-http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
-#EXTINF:-1,TV Camara
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-#EXTINF:-1,TV Cultura
-http://177.73.84.49/hls/live/live.m3u8
-#EXTINF:-1,TV Diario
-http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
-#EXTINF:-1,TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1,TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1,TV Geral
-http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
-#EXTINF:-1,TV Goias
-http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
-#EXTINF:-1,TV INES
-http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
-#EXTINF:-1,TV Itarare
-http://177.73.84.49/hls/live/live.m3u8
-#EXTINF:-1,TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1,TV O Povo
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1,TV Pocos
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,TV Rio Preto
-http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:-1,TV Sindeepres
-http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live_720p/livestream.m3u8
-#EXTINF:-1,TV Somzoom
-http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
-#EXTINF:-1,TV Tuba
-http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8 
-#EXTINF:-1,Web TV Minas
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1,TV ANHANGUERA FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/834.m3u8
+#EXTINF:-1,TV ANHAGUERA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4517.m3u8
+#EXTINF:-1,GLOBO NSCTV Santa Catarina HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7135.m3u8
+#EXTINF:-1,GLOBO SP HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/513.m3u8
+#EXTINF:-1,GLOBO SP
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1065.m3u8
+#EXTINF:-1,GLOBO RJ HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/467.m3u8
+#EXTINF:-1,GLOBO RJ
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1506.m3u8
+#EXTINF:-1,Globo Minas HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4254.m3u8
+#EXTINF:-1,Globo Minas
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/466.m3u8
+#EXTINF:-1,GLOBO BRASILIA
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1532.m3u8
+#EXTINF:-1,GLOBO NORDESTE
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/817.m3u8
+#EXTINF:-1,GLOBO PARANA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2186.m3u8
+#EXTINF:-1,TV BAHIA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/983.m3u8
+#EXTINF:-1,RBS TV  FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4447.m3u8
+#EXTINF:-1,GLOBO SERGIPE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8034.m3u8
+#EXTINF:-1,RBS TV
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1492.m3u8
+#EXTINF:-1,GLOBO PORTUGAL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8362.m3u8
+#EXTINF:-1,Globo Internacional FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/153.m3u8
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1789.m3u8
+#EXTINF:-1,RECORD PARANA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8033.m3u8
+#EXTINF:-1,RECORD SANTA CATARINA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8029.m3u8
+#EXTINF:-1,RECORD GOIANIA FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/478.m3u8
+#EXTINF:-1,Record Goias HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7028.m3u8
+#EXTINF:-1,RECORD SERGIPE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8035.m3u8
+#EXTINF:-1,Record SP HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/937.m3u8
+#EXTINF:-1,Record RJ HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8288.m3u8
+#EXTINF:-1,Record SP
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/679.m3u8
+#EXTINF:-1,SBT PARANA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8031.m3u8
+#EXTINF:-1,SBT SANTA CATARINA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8030.m3u8
+#EXTINF:-1,Tv Serra Dourada FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7027.m3u8
+#EXTINF:-1,TV Alterosa HD (SBT MG)
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4255.m3u8
+#EXTINF:-1,SBT SERGIPE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8037.m3u8
+#EXTINF:-1,SBT SP HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/411.m3u8
+#EXTINF:-1,SBT RJ HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8289.m3u8
+#EXTINF:-1,SBT
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/678.m3u8
+#EXTINF:-1,Tv Goiania [Band] FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7029.m3u8
+#EXTINF:-1,BAND SERGIPE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8036.m3u8
+#EXTINF:-1,BAND TAROBA PARANA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8032.m3u8
+#EXTINF:-1,BAND SP HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/523.m3u8
+#EXTINF:-1,BAND RJ HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8287.m3u8
+#EXTINF:-1,BAND
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/959.m3u8
+#EXTINF:-1,REDE TV HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/414.m3u8
+#EXTINF:-1,TV CULTURA
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/681.m3u8
+#EXTINF:-1,FUTURA
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1577.m3u8
+#EXTINF:-1,Rede Vida
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1578.m3u8
+#EXTINF:-1,REDE GOSPEL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1567.m3u8
+#EXTINF:-1,CANÇAO NOVA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1360.m3u8
+#EXTINF:-1,TV APARECIDA
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/790.m3u8
+#EXTINF:-1,TV GAZETA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/789.m3u8
+#EXTINF:-1,FISHTV FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4480.m3u8
+#EXTINF:-1,FISH TV
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/854.m3u8
+#EXTINF:-1,NBR
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/763.m3u8
+#EXTINF:-1,TV NOVO TEMPO
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/734.m3u8
+#EXTINF:-1,MTV HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/620.m3u8
+#EXTINF:-1,MTV
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/891.m3u8
+#EXTINF:-1,MULTISHOW FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4481.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/476.m3u8
+#EXTINF:-1,MULTISHOW
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/174.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1792.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/849.m3u8
+#EXTINF:-1,OFF FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7138.m3u8
+#EXTINF:-1,OFF HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/183.m3u8
+#EXTINF:-1,VIVA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/491.m3u8
+#EXTINF:-1,VIVA
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/243.m3u8
+#EXTINF:-1,BIS FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7139.m3u8
+#EXTINF:-1,BIS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/102.m3u8
+#EXTINF:-1,VH1 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/676.m3u8
+#EXTINF:-1,VH1 MEGA HITS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/735.m3u8
+#EXTINF:-1,MUSIC BOX BRASIL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/762.m3u8
+#EXTINF:-1,PRIME BOX BRASIL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/764.m3u8
+#EXTINF:-1,WOOHOO
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1361.m3u8
+#EXTINF:-1,FOOD NETWORK FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4458.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1542.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1531.m3u8
+#EXTINF:-1,Play TV
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1025.m3u8
+#EXTINF:-1,GLOBOSAT HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/93.m3u8
+#EXTINF:-1,GLOBOSAT
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1566.m3u8
+#EXTINF:-1,GNT HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/157.m3u8
+#EXTINF:-1,GNT
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/829.m3u8
+#EXTINF:-1,TLC HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/644.m3u8
+#EXTINF:-1,TLC
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/825.m3u8
+#EXTINF:-1,E! HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1635.m3u8
+#EXTINF:-1,E!
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/632.m3u8
+#EXTINF:-1,DAZN HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8069.m3u8
+#EXTINF:-1,BAND SPORTS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/515.m3u8
+#EXTINF:-1,BAND SPORTS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/717.m3u8
+#EXTINF:-1,SPORTV FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2091.m3u8
+#EXTINF:-1,SPORTV HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2090.m3u8
+#EXTINF:-1,SPORTV
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/212.m3u8
+#EXTINF:-1,SPORTV 2 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2103.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/508.m3u8
+#EXTINF:-1,SPORTV 2
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/213.m3u8
+#EXTINF:-1,SPORTV 3 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2157.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/511.m3u8
+#EXTINF:-1,SPORTV 3
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/214.m3u8
+#EXTINF:-1,FOX SPORTS FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2101.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/464.m3u8
+#EXTINF:-1,FOX SPORTS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/695.m3u8
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2102.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/465.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/696.m3u8
+#EXTINF:-1,Discovery Theater FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2155.m3u8
+#EXTINF:-1,BandSports FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2141.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1109.m3u8
+#EXTINF:-1,ESPN BRASIL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1023.m3u8
+#EXTINF:-1,ESPN HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/521.m3u8
+#EXTINF:-1,ESPN
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1733.m3u8
+#EXTINF:-1,ESPN 2 FULL HD H265
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7035.m3u8
+#EXTINF:-1,ESPN2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/522.m3u8
+#EXTINF:-1,ESPN2
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/698.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7033.m3u8
+#EXTINF:-1,GLOBO NEWS FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2093.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/663.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1108.m3u8
+#EXTINF:-1,RECORD NEWS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1798.m3u8
+#EXTINF:-1,BAND NEWS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/726.m3u8
+#EXTINF:-1,CARTOON NETWORK FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4461.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/449.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/587.m3u8
+#EXTINF:-1,Nicklondeon FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7034.m3u8
+#EXTINF:-1,NICKELODEN HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1774.m3u8
+#EXTINF:-1,NICKLODEON
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/477.m3u8
+#EXTINF:-1,NICK JR
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/506.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/494.m3u8
+#EXTINF:-1,DISNEY XD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/460.m3u8
+#EXTINF:-1,Disney Junior FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7137.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/459.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/455.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1058.m3u8
+#EXTINF:-1,NATGEO KIDS FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4484.m3u8
+#EXTINF:-1,Boomerang FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8293.m3u8
+#EXTINF:-1,BOOMERANG
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/448.m3u8
+#EXTINF:-1,TOONCAST
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/702.m3u8
+#EXTINF:-1,Gloob FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7136.m3u8
+#EXTINF:-1,GLOOB HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/156.m3u8
+#EXTINF:-1,BABY TV
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1819.m3u8
+#EXTINF:-1,GLOOB
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/823.m3u8
+#EXTINF:-1,TV RATIMBOOM
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1796.m3u8
+#EXTINF:-1,NATGEO KIDS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1773.m3u8
+#EXTINF:-1,ANIMAL PLANET FULL HD H265
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7037.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1324.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/711.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD H265
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7036.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/516.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1055.m3u8
+#EXTINF:-1,Discovery Turbo FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7030.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1059.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1060.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/736.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1797.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8286.m3u8
+#EXTINF:-1,DIscovery Home & Health FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8296.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/656.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1054.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/655.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/832.m3u8
+#EXTINF:-1,NATGEO FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4449.m3u8
+#EXTINF:-1,NATGEO HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/498.m3u8
+#EXTINF:-1,National Geographic
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1202.m3u8
+#EXTINF:-1,NATGEO WILD FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4485.m3u8
+#EXTINF:-1,NATGEO WILD HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/712.m3u8
+#EXTINF:-1,NATGEO WILD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/787.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY  FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2154.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/658.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4740.m3u8
+#EXTINF:-1,HISTORY CHANNEL FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2153.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/499.m3u8
+#EXTINF:-1,The History Channel
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1067.m3u8
+#EXTINF:-1,H2 FULL HD H 265
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7031.m3u8
+#EXTINF:-1,H2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/470.m3u8
+#EXTINF:-1,H2
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/714.m3u8
+#EXTINF:-1,AMC HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1812.m3u8
+#EXTINF:-1,AMC
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1813.m3u8
+#EXTINF:-1,AXN FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4482.m3u8
+#EXTINF:-1,AXN HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/447.m3u8
+#EXTINF:-1,AXN
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1028.m3u8
+#EXTINF:-1,A&E FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4486.m3u8
+#EXTINF:-1,A&E HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/745.m3u8
+#EXTINF:-1,A&E
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1529.m3u8
+#EXTINF:-1,CANAL SONY FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4459.m3u8
+#EXTINF:-1,CANAL SONY HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/507.m3u8
+#EXTINF:-1,CANAL SONY
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/719.m3u8
+#EXTINF:-1,TCM
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/682.m3u8
+#EXTINF:-1,TNT SERIES FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4453.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1105.m3u8
+#EXTINF:-1,TNT SERIES
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1046.m3u8
+#EXTINF:-1,WARNER CHANNEL FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4460.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/500.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1072.m3u8
+#EXTINF:-1,FOX FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2152.m3u8
+#EXTINF:-1,FOX HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/972.m3u8
+#EXTINF:-1,FOX
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1110.m3u8
+#EXTINF:-1,FX FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4448.m3u8
+#EXTINF:-1,FX HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/462.m3u8
+#EXTINF:-1,FX
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1043.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/463.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4462.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/700.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/929.m3u8
+#EXTINF:-1,LIFETIME HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/725.m3u8
+#EXTINF:-1,SYFY HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/480.m3u8
+#EXTINF:-1,TBS FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4488.m3u8
+#EXTINF:-1,TBS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/683.m3u8
+#EXTINF:-1,MegapixFHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7133.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/475.m3u8
+#EXTINF:-1,MEGAPIX
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1026.m3u8
+#EXTINF:-1,CINEMAX FULL HD H265
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7032.m3u8
+#EXTINF:-1,CINEMAX HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/450.m3u8
+#EXTINF:-1,CINEMAX
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1044.m3u8
+#EXTINF:-1,SPACE FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4452.m3u8
+#EXTINF:-1,SPACE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/479.m3u8
+#EXTINF:-1,SPACE
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1042.m3u8
+#EXTINF:-1,TNT FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4454.m3u8
+#EXTINF:-1,TNT HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/482.m3u8
+#EXTINF:-1,TNT
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1073.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/709.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4483.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/720.m3u8
+#EXTINF:-1,Studio Universal
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7038.m3u8
+#EXTINF:-1,CANAL BRASIL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/708.m3u8
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2092.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/487.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1049.m3u8
+#EXTINF:-1,TELECINE ACTION FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2099.m3u8
+#EXTINF:-1,TELECINE ACTION HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/483.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1050.m3u8
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2095.m3u8
+#EXTINF:-1,TELECINE TOUCH HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/488.m3u8
+#EXTINF:-1,TELECINE TOUCH
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1057.m3u8
+#EXTINF:-1,TELECINE PIPOCA FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2097.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/486.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/687.m3u8
+#EXTINF:-1,TELECINE FUN FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2096.m3u8
+#EXTINF:-1,TELECINE FUN HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/485.m3u8
+#EXTINF:-1,TELECINE FUN
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1047.m3u8
+#EXTINF:-1,TELECINE CULT FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2098.m3u8
+#EXTINF:-1,TELECINE CULT HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/484.m3u8
+#EXTINF:-1,TELECINE CULT
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/685.m3u8
+#EXTINF:-1,HBO FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8294.m3u8
+#EXTINF:-1,HBO HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/473.m3u8
+#EXTINF:-1,HBO
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1031.m3u8
+#EXTINF:-1,HBO 2 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4489.m3u8
+#EXTINF:-1,HBO 2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/690.m3u8
+#EXTINF:-1,HBO 2
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1030.m3u8
+#EXTINF:-1,HBO Plus FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4451.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/497.m3u8
+#EXTINF:-1,HBO PLUS
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1032.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/472.m3u8
+#EXTINF:-1,HBO FAMILY
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/691.m3u8
+#EXTINF:-1,HBO SIGNATURE FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4450.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/474.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/694.m3u8
+#EXTINF:-1,Max FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7141.m3u8
+#EXTINF:-1,MAX HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/501.m3u8
+#EXTINF:-1,MAX
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/728.m3u8
+#EXTINF:-1,MAX UP HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/503.m3u8
+#EXTINF:-1,MAX UP
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/730.m3u8
+#EXTINF:-1,MAX Prime FHD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/7142.m3u8
+#EXTINF:-1,MAX PRIME HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/502.m3u8
+#EXTINF:-1,MAX PRIME
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/729.m3u8
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/978.m3u8
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1310.m3u8
+#EXTINF:-1,COMBATE FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/2094.m3u8
+#EXTINF:-1,COMBATE HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/451.m3u8
+#EXTINF:-1,COMBATE
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/114.m3u8
+#EXTINF:-1,PREMIER CLUBES FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/509.m3u8
+#EXTINF:-1,PREMIER CLUBES
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/1090.m3u8
+#EXTINF:-1,PREMIER CLUBES HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4752.m3u8
+#EXTINF:-1,PREMIER 2 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/510.m3u8
+#EXTINF:-1,PREMIER 2 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4748.m3u8
+#EXTINF:-1,PREMIER 2
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4741.m3u8
+#EXTINF:-1,PREMIER 3 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/543.m3u8
+#EXTINF:-1,PREMIER 3 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4749.m3u8
+#EXTINF:-1,PREMIER 3
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4742.m3u8
+#EXTINF:-1,PREMIER 4 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4455.m3u8
+#EXTINF:-1,PREMIER 4 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4750.m3u8
+#EXTINF:-1,PREMIER 4
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4743.m3u8
+#EXTINF:-1,PREMIER 5 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/545.m3u8
+#EXTINF:-1,PREMIER 5 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4751.m3u8
+#EXTINF:-1,PREMIER 5
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4744.m3u8
+#EXTINF:-1,PREMIER 6 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4457.m3u8
+#EXTINF:-1,PREMIER 6 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4753.m3u8
+#EXTINF:-1,PREMIER 6
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4745.m3u8
+#EXTINF:-1,PREMIER 7 FULL HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4456.m3u8
+#EXTINF:-1,PREMIER 7 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4754.m3u8
+#EXTINF:-1,PREMIER 7
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4746.m3u8
+#EXTINF:-1,PREMIER 8
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/4747.m3u8
+#EXTINF:-1,CopadoNordeste2019_01
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8066.m3u8
+#EXTINF:-1,CopadoNordeste2019_01HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8065.m3u8
+#EXTINF:-1,CopadoNordeste2019_02
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8067.m3u8
+#EXTINF:-1,CopadoNordeste2019_02 HD
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8068.m3u8
+#EXTINF:-1,COPA NORDESTE 2019 3
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8291.m3u8
+#EXTINF:-1,COPA NORDESTE 2019 4
+http://painel.tvdigitalsbl.net:80/live/natacha/natacha/8290.m3u8
