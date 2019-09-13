@@ -1,85 +1,232 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideuk.xml.gz"
-#EXTINF:-1 tvg-id="4Music UK" tvg-name="4Music UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png" group-title="Music",4Music
-https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5STAR UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="",5Star
-https://live2.hoolatv.com/live/5star_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="",5USA
-https://live2.hoolatv.com/live/5usa_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kDB44LV.jpg" group-title="Music",60 North
-https://eu-de-edge-01.zetcast.net/ShetlandWebcams/Studio1ABR/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC ALBA UK" tvg-name="BBC ALBA UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/bbcalba.png" group-title="",BBC Alba
-https://live2.hoolatv.com/live/bbcalba_hi/chunks.m3u8
-#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="",BBC One
-https://live2.hoolatv.com/live/bbcone_hi/chunks.m3u8
-#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="",BBC Two
-https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
-#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2KjJq8r.jpg" group-title="Music",BritAsia TV
-https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KFWIXZx.png" group-title="",British Muslim TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="Kids",CBBC
-https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
-#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/challenge.png" group-title="",Challenge
-https://live2.hoolatv.com/live/challenge_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="",Channel 4
-https://live2.hoolatv.com/live/channel4_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="",Channel 5
-https://live2.hoolatv.com/live/channel5_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="CITV UK" tvg-name="CITV UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/citv.png" group-title="",CITV
-https://live2.hoolatv.com/live/citv_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I22QcMW.jpg" group-title="",Cruise 1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="",Dave
-https://live2.hoolatv.com/live/dave_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="",E4
-https://live2.hoolatv.com/live/e4_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="Shop",Gemporia
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="Shop",Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/skjSMOO.png" group-title="",Islam Channel
-http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="",ITV
-https://live2.hoolatv.com/live/itv_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="",ITV2
-https://live2.hoolatv.com/live/itv2_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="",ITV3
-https://live2.hoolatv.com/live/itv3_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="",ITV4
-https://live2.hoolatv.com/live/itv4_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe UK" tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="",ITVBe
-https://live2.hoolatv.com/live/itvbe_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="",More4
-https://live2.hoolatv.com/live/more4_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="",Quest
-https://live2.hoolatv.com/live/quest_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/questred.png" group-title="",Quest Red
-https://live2.hoolatv.com/live/questred_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="News",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/s4c.png" group-title="",S4C
-https://live2.hoolatv.com/live/s4c_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television
-http://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="",Sheffield TV
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JCWNJzh.jpg" group-title="",Takbeer TV
-http://cdn02.iqbroadcast.tv/iqb/d04ca797cb0590a3ad4aea3cce2ea93e.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
-http://45.77.90.56:8080/hls/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
-https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pYEGZrO.png" group-title="",Vox Africa UK
-http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
+#EXTINF:-1,ITV HD 1
+http://stream.iptvesun.com:25461/Dennis/Dennis/8236
+#EXTINF:-1,ITV HD 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8235
+#EXTINF:-1,ITV HD 3
+http://stream.iptvesun.com:25461/Dennis/Dennis/8234
+#EXTINF:-1,ITV HD 4
+http://stream.iptvesun.com:25461/Dennis/Dennis/8233
+#EXTINF:-1,ITV BE HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8232
+#EXTINF:-1,ITV Encore HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8231
+#EXTINF:-1,BBC HD 1
+http://stream.iptvesun.com:25461/Dennis/Dennis/8230
+#EXTINF:-1,BBC HD 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8229
+#EXTINF:-1,BBC HD 3 / CBBC HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8228
+#EXTINF:-1,BBC HD 4 / CBEEBIES HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8227
+#EXTINF:-1,BBC Cbbc HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8226
+#EXTINF:-1,BBC NEWS HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8225
+#EXTINF:-1,Animal Planet HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8224
+#EXTINF:-1,Bloomberg HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8223
+#EXTINF:-1,BT Sports 1 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8222
+#EXTINF:-1,BT Sports 2 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8221
+#EXTINF:-1,BT Sports 3 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8220
+#EXTINF:-1,BT Sports ESPN HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8219
+#EXTINF:-1,MUTV HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8218
+#EXTINF:-1,BT Sports Extra 1
+http://stream.iptvesun.com:25461/Dennis/Dennis/8217
+#EXTINF:-1,BT Sports Extra 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8216
+#EXTINF:-1,UK: BT Sports Extra 3
+http://stream.iptvesun.com:25461/Dennis/Dennis/8215
+#EXTINF:-1,UK: BT Sports Extra 4
+http://stream.iptvesun.com:25461/Dennis/Dennis/8214
+#EXTINF:-1,UK: BT Sports Extra 5
+http://stream.iptvesun.com:25461/Dennis/Dennis/8213
+#EXTINF:-1,BT Sports FHD 1
+http://stream.iptvesun.com:25461/Dennis/Dennis/8212
+#EXTINF:-1,BT Sports FHD 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8211
+#EXTINF:-1,BT Sports FHD 3
+http://stream.iptvesun.com:25461/Dennis/Dennis/8210
+#EXTINF:-1,Carton Network HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8209
+#EXTINF:-1,Channel 4 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8208
+#EXTINF:-1,Channel 5 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8207
+#EXTINF:-1,Chelsea TV HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8206
+#EXTINF:-1,CI HD (crime and investigation)
+http://stream.iptvesun.com:25461/Dennis/Dennis/8205
+#EXTINF:-1,CNN HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8204
+#EXTINF:-1,Comedy Central HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8203
+#EXTINF:-1,Dave HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8202
+#EXTINF:-1,Discovery HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8201
+#EXTINF:-1,Disney Channel HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8200
+#EXTINF:-1,E4 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8199
+#EXTINF:-1,Eden HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8198
+#EXTINF:-1,Film 4 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8197
+#EXTINF:-1,Fox HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8196
+#EXTINF:-1,Good Food HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8195
+#EXTINF:-1,History 2 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8194
+#EXTINF:-1,Insight UHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8193
+#EXTINF:-1,Lifetime HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8192
+#EXTINF:-1,More 4 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8191
+#EXTINF:-1,UK HD : TG4
+http://stream.iptvesun.com:25461/Dennis/Dennis/8190
+#EXTINF:-1,UK HD : TV3
+http://stream.iptvesun.com:25461/Dennis/Dennis/8189
+#EXTINF:-1,Alibi HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8188
+#EXTINF:-1,MTV HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8187
+#EXTINF:-1,MTV LIVE HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8186
+#EXTINF:-1,Ngc HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8185
+#EXTINF:-1,Ngc Wild HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8184
+#EXTINF:-1,Nick HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8183
+#EXTINF:-1,Rte One HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8182
+#EXTINF:-1,Rte Two HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8181
+#EXTINF:-1,Sky 1 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8180
+#EXTINF:-1,Sky Arts HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8179
+#EXTINF:-1,Sky Atlantic HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8178
+#EXTINF:-1,Sky Cinema Action HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8177
+#EXTINF:-1,Sky Living HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8176
+#EXTINF:-1,Sky Movies Comedy HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8175
+#EXTINF:-1,Sky Movies Disney HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8174
+#EXTINF:-1,Sky Movies Drama Romance HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8173
+#EXTINF:-1,Sky Movies Family HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8172
+#EXTINF:-1,Sky Movies GREATS HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8171
+#EXTINF:-1,Sky Movies Hits HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8170
+#EXTINF:-1,Sky Movies Premiere HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8169
+#EXTINF:-1,Sky Movies Sci-fi Horror HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8168
+#EXTINF:-1,Sky Movies Select HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8167
+#EXTINF:-1,Sky Movies Showcase HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8166
+#EXTINF:-1,Sky Movies Thriller HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8165
+#EXTINF:-1,Sky News HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8164
+#EXTINF:-1,Sky Sports Main Event HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8163
+#EXTINF:-1,Sky Sports Cricket HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8162
+#EXTINF:-1,Sky Sports Action HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8161
+#EXTINF:-1,UK-HD: Sky Sports Arena HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/22842
+#EXTINF:-1,Sky Sports Golf HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8160
+#EXTINF:-1,Sky Sports Premier League HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8159
+#EXTINF:-1,Sky Sports F1 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8158
+#EXTINF:-1,Sky Sports Main Event FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8157
+#EXTINF:-1,Sky Sports Cricket FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8156
+#EXTINF:-1,Sky Sports Action FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8155
+#EXTINF:-1,Sky Sports Golf FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8154
+#EXTINF:-1,Sky Sports Premier League FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8153
+#EXTINF:-1,Sky Sports FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8152
+#EXTINF:-1,Sky Sports MIX HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8151
+#EXTINF:-1,Sky Sports News HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8150
+#EXTINF:-1,Sports Active 1
+http://stream.iptvesun.com:25461/Dennis/Dennis/8149
+#EXTINF:-1,Sports Active 10
+http://stream.iptvesun.com:25461/Dennis/Dennis/8148
+#EXTINF:-1,Sports Active 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8147
+#EXTINF:-1,Sports Active 3
+http://stream.iptvesun.com:25461/Dennis/Dennis/8146
+#EXTINF:-1,Sports Active 4
+http://stream.iptvesun.com:25461/Dennis/Dennis/8145
+#EXTINF:-1,Sports Active 5
+http://stream.iptvesun.com:25461/Dennis/Dennis/8144
+#EXTINF:-1,Sports Active 6
+http://stream.iptvesun.com:25461/Dennis/Dennis/8143
+#EXTINF:-1,Sports Active 7
+http://stream.iptvesun.com:25461/Dennis/Dennis/8142
+#EXTINF:-1,Sports Active 8
+http://stream.iptvesun.com:25461/Dennis/Dennis/8141
+#EXTINF:-1,Sports Active 9
+http://stream.iptvesun.com:25461/Dennis/Dennis/8140
+#EXTINF:-1,Syfy HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8139
+#EXTINF:-1,Tcm HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8138
+#EXTINF:-1,TG 4 HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8137
+#EXTINF:-1,Universal HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8136
+#EXTINF:-1,UTV HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8135
+#EXTINF:-1,W HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8134
+#EXTINF:-1,3e HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8133
+#EXTINF:-1,UK: At The Races
+http://stream.iptvesun.com:25461/Dennis/Dennis/20025
+#EXTINF:-1,EIR Sports HD 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8132
+#EXTINF:-1,Eurosports HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8131
+#EXTINF:-1,Eurosports HD 2
+http://stream.iptvesun.com:25461/Dennis/Dennis/8130
+#EXTINF:-1,Premier Sports HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8129
+#EXTINF:-1,Racing UK HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8128
+#EXTINF:-1,Setanta/Premier Sports HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8127
+#EXTINF:-1,TLC HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/8126
+#EXTINF:-1,UK-HD: LFC TV
+http://stream.iptvesun.com:25461/Dennis/Dennis/18989
+#EXTINF:-1,UK-HD: Chelsea TV HD
+http://stream.iptvesun.com:25461/Dennis/Dennis/18990
+#EXTINF:-1,UK-HD: Manchester United FC FHD
+http://stream.iptvesun.com:25461/Dennis/Dennis/18991
