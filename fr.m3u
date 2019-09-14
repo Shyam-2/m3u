@@ -1,29 +1,329 @@
 #EXTM3U
-#EXTINF:-1,Bein max 4(1)
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2865
-#EXTINF:-1,FR : EURONEWS
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1550
+#EXTINF:-1,EURONEWS
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1550.m3u8
 #EXTINF:-1,FRANCE 3
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/529
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/529.m3u8
 #EXTINF:-1,RTL9
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/246
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/246.m3u8
+#EXTINF:-1,TELETOON +
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1548.m3u8
+#EXTINF:-1,W9
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/341.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5863.m3u8
+#EXTINF:-1,Boing
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5864.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1547.m3u8
+#EXTINF:-1,Discovery Science HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1528.m3u8
+#EXTINF:-1,Disney Jr Fr
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1546.m3u8
+#EXTINF:-1,Nat Geo HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1535.m3u8
+#EXTINF:-1,Nat Geo Wild  HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1534.m3u8
+#EXTINF:-1,NRJ12 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1540.m3u8
+#EXTINF:-1,13 EME RUE HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4961.m3u8
+#EXTINF:-1,6TER HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/248.m3u8
+#EXTINF:-1,A LA CARTE 10
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1554.m3u8
+#EXTINF:-1,A LA CARTE 7
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1557.m3u8
+#EXTINF:-1,A LA CARTE 8
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1556.m3u8
+#EXTINF:-1,A LA CARTE 9
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1555.m3u8
+#EXTINF:-1,AB Moteur HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4976.m3u8
+#EXTINF:-1,AB1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4966.m3u8
+#EXTINF:-1,AB3
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4968.m3u8
+#EXTINF:-1,ACTION
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4973.m3u8
+#EXTINF:-1,ANIMAUX
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4985.m3u8
+#EXTINF:-1,ARTE HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4405.m3u8
+#EXTINF:-1,Bein Sport Max 9
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5622.m3u8
+#EXTINF:-1,Bein Sport Max 8
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5621.m3u8
+#EXTINF:-1,Bein Sport Max 7
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5620.m3u8
+#EXTINF:-1,Bein Sport Max 6
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5619.m3u8
+#EXTINF:-1,Bein Sport Max 5
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5618.m3u8
+#EXTINF:-1,Bein Sport Max 10
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5623.m3u8
+#EXTINF:-1,D8
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/243.m3u8
+#EXTINF:-1,C8
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4993.m3u8
+#EXTINF:-1,Canal  Cinema
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/255.m3u8
+#EXTINF:-1,Canal  Decale
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/254.m3u8
+#EXTINF:-1,Canal  Family
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/253.m3u8
+#EXTINF:-1,Canal  Series
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/252.m3u8
+#EXTINF:-1,Canal  Sport
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/251.m3u8
+#EXTINF:-1,CANAL J
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1545.m3u8
+#EXTINF:-1,CANAL PLAY 1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3749.m3u8
+#EXTINF:-1,CANAL PLAY 2
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3748.m3u8
+#EXTINF:-1,CANAL PLAY 3
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3747.m3u8
+#EXTINF:-1,CANAL PLAY 4
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3746.m3u8
+#EXTINF:-1,CANAL PLAY 5
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3745.m3u8
+#EXTINF:-1,CANAL PLAY 6
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3744.m3u8
+#EXTINF:-1,CANAL PLAY 7
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3743.m3u8
+#EXTINF:-1,Chasse et Peche
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3742.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4958.m3u8
+#EXTINF:-1,CINE CLASSIC
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3739.m3u8
+#EXTINF:-1,CINE CLASSIC HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3733.m3u8
+#EXTINF:-1,CINE EMOTION
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4971.m3u8
+#EXTINF:-1,CINE EMOTION HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3738.m3u8
+#EXTINF:-1,CINE FAMIZ
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3737.m3u8
+#EXTINF:-1,Cine Famiz HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4972.m3u8
+#EXTINF:-1,CINE FRISSON
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3736.m3u8
+#EXTINF:-1,CINE FRISSON HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4970.m3u8
+#EXTINF:-1,CINE FX
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/256.m3u8
+#EXTINF:-1,CINE POLAR
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3735.m3u8
+#EXTINF:-1,CINE PREMIER HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3734.m3u8
+#EXTINF:-1,COMEDIE  HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1539.m3u8
+#EXTINF:-1,Comedie +
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4964.m3u8
+#EXTINF:-1,CSTAR HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4992.m3u8
+#EXTINF:-1,CANAL+ HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/250.m3u8
+#EXTINF:-1,BFM TV
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1549.m3u8
+#EXTINF:-1,GULLI HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4957.m3u8
+#EXTINF:-1,GAME ONE
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4967.m3u8
 #EXTINF:-1,France O  HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/532
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/532.m3u8
 #EXTINF:-1,France 5 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/531
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/531.m3u8
 #EXTINF:-1,France 4  HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/530
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/530.m3u8
 #EXTINF:-1,FRANCE 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/528
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/528.m3u8
 #EXTINF:-1,EUROSPORT2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1542
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1542.m3u8
 #EXTINF:-1,Eurosport 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4975
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4975.m3u8
 #EXTINF:-1,Eurosport 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1541
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1541.m3u8
 #EXTINF:-1,EQUIDIA live
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4990
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4990.m3u8
 #EXTINF:-1,Disney XD HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1553
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1553.m3u8
+#EXTINF:-1,DISNEY CINEMA
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1543.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1544
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1544.m3u8
+#EXTINF:-1,HD1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/247.m3u8
+#EXTINF:-1,i Tele
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4956.m3u8
+#EXTINF:-1,INFOSPORT
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4978.m3u8
+#EXTINF:-1,L'EQUIPE 21
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4977.m3u8
+#EXTINF:-1,La Deux
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3731.m3u8
+#EXTINF:-1,La une BE
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3730.m3u8
+#EXTINF:-1,LCI
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4955.m3u8
+#EXTINF:-1,M6
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/242.m3u8
+#EXTINF:-1,Mangas
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3728.m3u8
+#EXTINF:-1,National geo wild
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3727.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1533.m3u8
+#EXTINF:-1,NRJ Hits
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3726.m3u8
+#EXTINF:-1,NUMERO 23 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1527.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4969.m3u8
+#EXTINF:-1,OCS CITY
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/261.m3u8
+#EXTINF:-1,OCS GEANT
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/260.m3u8
+#EXTINF:-1,OCS MAX
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/259.m3u8
+#EXTINF:-1,OLTV HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4979.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1537.m3u8
+#EXTINF:-1,PARIS PREMIERE  HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1538.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4959.m3u8
+#EXTINF:-1,PIWI HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4988.m3u8
+#EXTINF:-1,PLANETE  HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4981.m3u8
+#EXTINF:-1,PLANETE A&E HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4983.m3u8
+#EXTINF:-1,PLANETE CI HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4982.m3u8
+#EXTINF:-1,BE: PLUG RTL
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3723.m3u8
+#EXTINF:-1,rmc decouverte
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1536.m3u8
+#EXTINF:-1,BE: RTL TVI
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3722.m3u8
+#EXTINF:-1,RTS Deux
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3721.m3u8
+#EXTINF:-1,RTS Un
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3720.m3u8
+#EXTINF:-1,SCIENCE ET VIE HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4987.m3u8
+#EXTINF:-1,SCIENCES & VIE
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4986.m3u8
+#EXTINF:-1,SERIE CLUB
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3719.m3u8
+#EXTINF:-1,Series Club HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4962.m3u8
+#EXTINF:-1,beINS PORTS 2HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/445.m3u8
+#EXTINF:-1,beIN SPORTS1 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/444.m3u8
+#EXTINF:-1,beIN SPORTS 3HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/446.m3u8
+#EXTINF:-1,SSport 1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3715.m3u8
+#EXTINF:-1,SSport 2
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3713.m3u8
+#EXTINF:-1,SSport 3
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3714.m3u8
+#EXTINF:-1,Syfy HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4963.m3u8
+#EXTINF:-1,Teva
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4960.m3u8
+#EXTINF:-1,TF1 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/241.m3u8
+#EXTINF:-1,Tiji
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4989.m3u8
+#EXTINF:-1,TOUTE L HISTOIRE
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4984.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4965.m3u8
+#EXTINF:-1,USHUAIA  HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1531.m3u8
+#EXTINF:-1,Zouzou TV LOCAL
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4996.m3u8
+#EXTINF:-1,A LA CARTE 5
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1559.m3u8
+#EXTINF:-1,A la Carte 6
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1558.m3u8
+#EXTINF:-1,A.LA.CARTE.1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1561.m3u8
+#EXTINF:-1,A.LA.CARTE.3
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1562.m3u8
+#EXTINF:-1,A.LA.CARTE.4
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1560.m3u8
+#EXTINF:-1,CINE PREMIER
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/257.m3u8
+#EXTINF:-1,FRANCE 24
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1551.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5862.m3u8
+#EXTINF:-1,SFR sport 5
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5753.m3u8
+#EXTINF:-1,TRACE URBAN
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6691.m3u8
+#EXTINF:-1,VIP ARTE HD ( 1080P )
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6734.m3u8
+#EXTINF:-1,VIP BRAVA HD ( 1080P )
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6743.m3u8
+#EXTINF:-1,VIP TMC HD ( 1080P )
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6738.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD 1080
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6975.m3u8
+#EXTINF:-1,VIP Eurosport 2 FHD 1080
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6974.m3u8
+#EXTINF:-1,NT1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/244.m3u8
+#EXTINF:-1,TCM CINEMA
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4974.m3u8
+#EXTINF:-1,TEVA/TMC
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/245.m3u8
+#EXTINF:-1,TREK HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1526.m3u8
+#EXTINF:-1,TV5 MONDE
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1552.m3u8
+#EXTINF:-1,DISCOVERY
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3732.m3u8
+#EXTINF:-1,VOYAGE HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1532.m3u8
+#EXTINF:-1,=======>   Belgium   <=======
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7483.m3u8
+#EXTINF:-1,BE: 2BE Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5083.m3u8
+#EXTINF:-1,BE: Acht Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5085.m3u8
+#EXTINF:-1,BE: Cinema 1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5086.m3u8
+#EXTINF:-1,BE: Cinema 2
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5087.m3u8
+#EXTINF:-1,BE: Een Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5097.m3u8
+#EXTINF:-1,BE: La Deux Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5093.m3u8
+#EXTINF:-1,BE: Plug RTL Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5095.m3u8
+#EXTINF:-1,BE: RTL TVI Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5096.m3u8
+#EXTINF:-1,BE: La Une Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5092.m3u8
+#EXTINF:-1,BE: VIJF Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5099.m3u8
+#EXTINF:-1,BE: La Trois Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5094.m3u8
+#EXTINF:-1,BE: Canvas Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5089.m3u8
+#EXTINF:-1,BE: Vitaya Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5100.m3u8
+#EXTINF:-1,BE: Vier Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5098.m3u8
+#EXTINF:-1,BE: VTM Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5101.m3u8
+#EXTINF:-1,BE: Club RTL Belgium
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5090.m3u8
