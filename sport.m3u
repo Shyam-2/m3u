@@ -1,66 +1,135 @@
 #EXTM3U
-#EXTINF:0,Bein sports 1
-http://8d4a1a46-stream.nmbs.top/c/28/1372.m3u8
-#EXTINF:0,Bein sports 2
-http://8d4a1a46-stream.nmbs.top/c/28/1373.m3u8
-#EXTINF:0,Bein sports 3
-http://8d4a1a46-stream.nmbs.top/c/28/1374.m3u8
-#EXTINF:0,Bein sports 4
-http://8d4a1a46-stream.nmbs.top/c/28/1375.m3u8
-#EXTINF:0,Tivibuspor 1
-http://8d4a1a46-stream.nmbs.top/c/28/1368.m3u8
-#EXTINF:0,Tivibuspor 2
-http://8d4a1a46-stream.nmbs.top/c/28/1369.m3u8
-#EXTINF:0,Tivibuspor 3
-http://8d4a1a46-stream.nmbs.top/c/28/1370.m3u8
-#EXTINF:0,Tivibuspor 4
-http://8d4a1a46-stream.nmbs.top/c/28/1371.m3u8
-#EXTINF:0,Bein 4k İz Tv
-http://8d4a1a46-stream.nmbs.top/c/28/1376.m3u8
-#EXTINF:0,Bein sports Max 1
-http://8d4a1a46-stream.nmbs.top/c/28/1471.m3u8
-#EXTINF:0,Bein sports Max 2
-http://8d4a1a46-stream.nmbs.top/c/28/1472.m3u8
-#EXTINF:0,Sporsmart
-http://8d4a1a46-stream.nmbs.top/c/28/1436.m3u8
-#EXTINF:0,A Spor
-http://8d4a1a46-stream.nmbs.top/c/28/1416.m3u8
-#EXTINF:0,sports tv
-http://8d4a1a46-stream.nmbs.top/c/28/1475.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,Abu Dhabi Sports SD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports SD*
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 2 SD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 SD*
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1,Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,KTV Sport
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3729.m3u8
+#EXTINF:-1,AR: BeinSports 2 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3736.m3u8
+#EXTINF:-1,AR: BeinSports 3 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3737.m3u8
+#EXTINF:-1,AR: BeinSports 4 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3738.m3u8
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3739.m3u8
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3740.m3u8
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3741.m3u8
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3742.m3u8
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3743.m3u8
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3730.m3u8
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3728.m3u8
+#EXTINF:-1,AR: BeinSport 12 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3731.m3u8
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/524.m3u8
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/523.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/522.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/525.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/487.m3u8
+#EXTINF:-1,NL: FOX SPORT 6 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6790.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/507.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/518.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/517.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/519.m3u8
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6788.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/11463.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/10375.m3u8
+#EXTINF:-1,NL: EUROSPORT 1 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/530.m3u8
+#EXTINF:-1,NL: EUROSPORT 2 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6764.m3u8
+#EXTINF:-1,AL: TRING SPORT 1 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23562.m3u8
+#EXTINF:-1,AL: TRING SPORT 2 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23561.m3u8
+#EXTINF:-1,AL: TRING SPORT 3 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23560.m3u8
+#EXTINF:-1,AL: TRING SPORT 4 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23559.m3u8
+#EXTINF:-1,AL: SUPER SPORT 1 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23568.m3u8
+#EXTINF:-1,AL: SUPER SPORT 2 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23567.m3u8
+#EXTINF:-1,AL: SUPER SPORT TV 3 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23510.m3u8
+#EXTINF:-1,AL: SUPER SPORT TV 4 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23509.m3u8
+#EXTINF:-1,AL: SUPER SPORT 6 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23566.m3u8
+#EXTINF:-1,AL: SUPER SPORT 7 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23565.m3u8
+#EXTINF:-1,AL: TRING SPORT NEWS
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23563.m3u8
+#EXTINF:-1,AL: K SPORT 1 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23555.m3u8
+#EXTINF:-1,AL: K SPORT 2 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23554.m3u8
+#EXTINF:-1,AL: K SPORT 3 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23553.m3u8
+#EXTINF:-1,AL: K SPORT 4 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23552.m3u8
+#EXTINF:-1,AL: K SPORT 5 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23551.m3u8
+#EXTINF:-1,AL: ART SPORT 1 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23558.m3u8
+#EXTINF:-1,AL: ART SPORT 2 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23557.m3u8
+#EXTINF:-1,AL: ART SPORT 3 HD
+http://forever.moppie.info:7444/live/tamdnbdbdbdg8yatwbans/Pqsb2SNvVC/23556.m3u8
+#EXTINF:-1,HU: DIGI Sport 1
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26109.m3u8
+#EXTINF:-1,HU: DIGI Sport 2
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26108.m3u8
+#EXTINF:-1,HU: DIGI Sport 3
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26107.m3u8
+#EXTINF:-1,CZ: Sport 1
+http://forever.moppie.info:7444/live/gedrialoAS3E48KBAAQ/TQGuqfWIqC/7786.m3u8
+#EXTINF:-1,CZ: NOVA 2
+http://forever.moppie.info:7444/live/gedrialoAS3E48KBAAQ/TQGuqfWIqC/7785.m3u8
+#EXTINF:-1,CZ: SPORT 2
+http://forever.moppie.info:7444/live/gedrialoAS3E48KBAAQ/TQGuqfWIqC/7784.m3u8
+#EXTINF:-1,CZ: NOVA SPORT 1
+http://forever.moppie.info:7444/live/gedrialoAS3E48KBAAQ/TQGuqfWIqC/7792.m3u8
+#EXTINF:-1,RO:Telekom SPORT 1
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/60.m3u8
+#EXTINF:-1,RO:Telekom SPORT 2
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/59.m3u8
+#EXTINF:-1,RO:Telekom SPORT 3
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/58.m3u8
+#EXTINF:-1,RO:Telekom SPORT 4
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/57.m3u8
+#EXTINF:-1,RO: DIGI SPORT 1
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/33.m3u8
+#EXTINF:-1,RO: DIGI SPORT 2
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/32.m3u8
+#EXTINF:-1,RO: DIGI SPORT 3
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/31.m3u8
+#EXTINF:-1,RO: DIGI SPORT 4
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/30.m3u8
+#EXTINF:-1,RO: EUROSPORT 1
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/28.m3u8
+#EXTINF:-1,RO: EUROSPORT 2
+http://62.210.246.109:25461/live/GzLzZMpR3e/q3CvsWTf4v/27.m3u8
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3051.m3u8
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3052.m3u8
+#EXTINF:-1,PL: POLSAT SPORT FIGHT
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3087.m3u8
+#EXTINF:-1,PL: Polsat Sport News
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3053.m3u8
