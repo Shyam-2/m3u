@@ -1,113 +1,273 @@
 #EXTM3U
-#EXTINF:-1,Polsat_Film__HD
-http://20062016.com:8000/live/22552/22552/16823.m3u8
-#EXTINF:-1,Polsat_Cafe_HD
-http://20062016.com:8000/live/22552/22552/16824.m3u8
-#EXTINF:-1,Polsat_Viasat_Explore_HD
-http://20062016.com:8000/live/22552/22552/16839.m3u8
-#EXTINF:-1,Polsat_2
-http://20062016.com:8000/live/22552/22552/16825.m3u8
-#EXTINF:-1,Polsat_News__HD
-http://20062016.com:8000/live/22552/22552/16841.m3u8
-#EXTINF:-1,ALE_KINO_HD
-http://20062016.com:8000/live/22552/22552/7881.m3u8
-#EXTINF:-1,ANIMAL_PLANET
-http://20062016.com:8000/live/22552/22552/15570.m3u8
+#EXTINF:-1,Polonia 1
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3102.m3u8
+#EXTINF:-1,polsat 2 hd
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3041.m3u8
+#EXTINF:-1,POLSAT CAFE HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3042.m3u8
+#EXTINF:-1,POLSAT DOKU HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3103.m3u8
+#EXTINF:-1,POLSAT FILM HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3043.m3u8
+#EXTINF:-1,POLSAT HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3045.m3u8
+#EXTINF:-1,POLSAT JIM JAM HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3046.m3u8
+#EXTINF:-1,POLSAT NEWS 2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3047.m3u8
+#EXTINF:-1,POLSAT NEWS HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3048.m3u8
+#EXTINF:-1,POLSAT PLAY HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3049.m3u8
+#EXTINF:-1,POLSAT ROMANS
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3050.m3u8
+#EXTINF:-1,POLSAT SPORT HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3051.m3u8
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3052.m3u8
+#EXTINF:-1,POLSAT SPORT FIGHT
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3087.m3u8
+#EXTINF:-1,Polsat Sport News
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3053.m3u8
+#EXTINF:-1,Polsat Super
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3044.m3u8
+#EXTINF:-1,Polsat Viasat Explore HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3104.m3u8
+#EXTINF:-1,Polsat Viasat History HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3105.m3u8
+#EXTINF:-1,Polsat Viasat Nature
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3106.m3u8
+#EXTINF:-1,13ulica
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2976.m3u8
+#EXTINF:-1,4Fun Dance
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3088.m3u8
+#EXTINF:-1,4Fun Gold Hits
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3089.m3u8
+#EXTINF:-1,Ale kino  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2977.m3u8
+#EXTINF:-1,AMC
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2978.m3u8
+#EXTINF:-1,Animal Planet HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2979.m3u8
+#EXTINF:-1,ATM Rozrywka TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2980.m3u8
 #EXTINF:-1,AXN
-http://20062016.com:8000/live/22552/22552/7837.m3u8
-#EXTINF:-1,Canal+_Discovery
-http://20062016.com:8000/live/22552/22552/7847.m3u8
-#EXTINF:-1,Canal+_Discovery_HD
-http://20062016.com:8000/live/22552/22552/7857.m3u8
-#EXTINF:-1,Canal+_Family_HD
-http://20062016.com:8000/live/22552/22552/15573.m3u8
-#EXTINF:-1,Canal+_Film_HD
-http://20062016.com:8000/live/22552/22552/15571.m3u8
-#EXTINF:-1,Canal+_Film__HD
-http://20062016.com:8000/live/22552/22552/7848.m3u8
-#EXTINF:-1,Canal+_HD
-http://20062016.com:8000/live/22552/22552/7880.m3u8
-#EXTINF:-1,Canal+_Seriale_HD
-http://20062016.com:8000/live/22552/22552/7873.m3u8
-#EXTINF:-1,Canal+_Sport2_HD
-http://20062016.com:8000/live/22552/22552/7859.m3u8
-#EXTINF:-1,Canal+_Sport_HD
-http://20062016.com:8000/live/22552/22552/7858.m3u8
-#EXTINF:-1,Discovery_Science_HD
-http://20062016.com:8000/live/22552/22552/7856.m3u8
-#EXTINF:-1,Disney_Channel_HD
-http://20062016.com:8000/live/22552/22552/7855.m3u8
-#EXTINF:-1,ELEVEN_EXTRA_HD
-http://20062016.com:8000/live/22552/22552/7853.m3u8
-#EXTINF:-1,Eleven_HD
-http://20062016.com:8000/live/22552/22552/7854.m3u8
-#EXTINF:-1,Eska_BEST_Tv
-http://20062016.com:8000/live/22552/22552/7852.m3u8
-#EXTINF:-1,Eska_Party_Tv
-http://20062016.com:8000/live/22552/22552/7851.m3u8
-#EXTINF:-1,EUROSPORT_2_HD
-http://20062016.com:8000/live/22552/22552/7849.m3u8
-#EXTINF:-1,EUROSPORT_HD
-http://20062016.com:8000/live/22552/22552/7850.m3u8
-#EXTINF:-1,Filmbox_Family
-http://20062016.com:8000/live/22552/22552/16847.m3u8
-#EXTINF:-1,Filmbox_Premium_HD
-http://20062016.com:8000/live/22552/22552/16846.m3u8
-#EXTINF:-1,Fox_Comedy_HD
-http://20062016.com:8000/live/22552/22552/16844.m3u8
-#EXTINF:-1,FOX_HD
-http://20062016.com:8000/live/22552/22552/16845.m3u8
-#EXTINF:-1,Kino_Polska
-http://20062016.com:8000/live/22552/22552/16843.m3u8
-#EXTINF:-1,MiniMini_HD_
-http://20062016.com:8000/live/22552/22552/16829.m3u8
-#EXTINF:-1,Mini_Mini_HD
-http://20062016.com:8000/live/22552/22552/16842.m3u8
-#EXTINF:-1,Nat_Geographic_HD
-http://20062016.com:8000/live/22552/22552/16828.m3u8
-#EXTINF:-1,Polo_TV
-http://20062016.com:8000/live/22552/22552/16827.m3u8
-#EXTINF:-1,Stopklatka_TV
-http://20062016.com:8000/live/22552/22552/16838.m3u8
-#EXTINF:-1,Super_Polsat
-http://20062016.com:8000/live/22552/22552/16837.m3u8
-#EXTINF:-1,TeleTOON+_HD
-http://20062016.com:8000/live/22552/22552/16836.m3u8
-#EXTINF:-1,TV4
-http://20062016.com:8000/live/22552/22552/16835.m3u8
-#EXTINF:-1,Tvn_24_HD
-http://20062016.com:8000/live/22552/22552/16830.m3u8
-#EXTINF:-1,TVN_7_HD
-http://20062016.com:8000/live/22552/22552/17165.m3u8
-#EXTINF:-1,Tvn_HD
-http://20062016.com:8000/live/22552/22552/16831.m3u8
-#EXTINF:-1,Tvn_Style
-http://20062016.com:8000/live/22552/22552/17166.m3u8
-#EXTINF:-1,Tvn_Turbo
-http://20062016.com:8000/live/22552/22552/17167.m3u8
-#EXTINF:-1,TVP_1_HD
-http://20062016.com:8000/live/22552/22552/17168.m3u8
-#EXTINF:-1,TVP_2_HD
-http://20062016.com:8000/live/22552/22552/17169.m3u8
-#EXTINF:-1,TVP_3_HD
-http://20062016.com:8000/live/22552/22552/17170.m3u8
-#EXTINF:-1,TVP_Historie_HD
-http://20062016.com:8000/live/22552/22552/17171.m3u8
-#EXTINF:-1,TVP_INFO
-http://20062016.com:8000/live/22552/22552/17172.m3u8
-#EXTINF:-1,TVP_Rozrywka
-http://20062016.com:8000/live/22552/22552/17173.m3u8
-#EXTINF:-1,TVP_Seriale
-http://20062016.com:8000/live/22552/22552/17174.m3u8
-#EXTINF:-1,Tvp_Sport_HD
-http://20062016.com:8000/live/22552/22552/17175.m3u8
-#EXTINF:-1,TVS
-http://20062016.com:8000/live/22552/22552/17176.m3u8
-#EXTINF:-1,TV_Republika
-http://20062016.com:8000/live/22552/22552/16833.m3u8
-#EXTINF:-1,TV_Republika_HD
-http://20062016.com:8000/live/22552/22552/16832.m3u8
-#EXTINF:-1,Universal_Channel_HD
-http://20062016.com:8000/live/22552/22552/16834.m3u8
-#EXTINF:-1,VIVA_Polska
-http://20062016.com:8000/live/22552/22552/17177.m3u8
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2981.m3u8
+#EXTINF:-1,AXN Black
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2982.m3u8
+#EXTINF:-1,AXN White
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2983.m3u8
+#EXTINF:-1,BBC Earth HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2984.m3u8
+#EXTINF:-1,BBC HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2985.m3u8
+#EXTINF:-1,Boomerang
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2986.m3u8
+#EXTINF:-1,CANAL  DISCOVERY HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2987.m3u8
+#EXTINF:-1,CANAL  FAMILY HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2988.m3u8
+#EXTINF:-1,CANAL  FILM HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2989.m3u8
+#EXTINF:-1,CANAL  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2990.m3u8
+#EXTINF:-1,CANAL  SERIALE HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2991.m3u8
+#EXTINF:-1,CANAL  SPORT  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2992.m3u8
+#EXTINF:-1,CANAL  SPORT 2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2993.m3u8
+#EXTINF:-1,CANAL 1 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3090.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2994.m3u8
+#EXTINF:-1,CBS Action
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3091.m3u8
+#EXTINF:-1,CBS Reality
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2995.m3u8
+#EXTINF:-1,cc family
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2996.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2997.m3u8
+#EXTINF:-1,Cinemax HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2998.m3u8
+#EXTINF:-1,Comedy Central Polska
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2999.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3092.m3u8
+#EXTINF:-1,Disco Polo Music
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3000.m3u8
+#EXTINF:-1,Discovery HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3001.m3u8
+#EXTINF:-1,Discovery Historia
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3002.m3u8
+#EXTINF:-1,Discovery Life
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3003.m3u8
+#EXTINF:-1,Discovery Science
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3004.m3u8
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3005.m3u8
+#EXTINF:-1,Disney Channel HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3093.m3u8
+#EXTINF:-1,Disney Junior
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3006.m3u8
+#EXTINF:-1,Disney XD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3007.m3u8
+#EXTINF:-1,DOMO  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3094.m3u8
+#EXTINF:-1,DTX
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3095.m3u8
+#EXTINF:-1,Eleven HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3008.m3u8
+#EXTINF:-1,Eleven Sports HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3009.m3u8
+#EXTINF:-1,Eska TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3010.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3011.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3012.m3u8
+#EXTINF:-1,Extreme Sports HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3013.m3u8
+#EXTINF:-1,fightbox
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3014.m3u8
+#EXTINF:-1,Filmbox
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3015.m3u8
+#EXTINF:-1,Filmbox Action
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3016.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3096.m3u8
+#EXTINF:-1,Filmbox Family
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3017.m3u8
+#EXTINF:-1,Filmbox Premium
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3018.m3u8
+#EXTINF:-1,Fox Comedy
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3019.m3u8
+#EXTINF:-1,H2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3020.m3u8
+#EXTINF:-1,HBO HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3021.m3u8
+#EXTINF:-1,HBO2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3022.m3u8
+#EXTINF:-1,HBO3 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3023.m3u8
+#EXTINF:-1,HGTV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3097.m3u8
+#EXTINF:-1,HIP HOP TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3024.m3u8
+#EXTINF:-1,History
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3098.m3u8
+#EXTINF:-1,ID HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3026.m3u8
+#EXTINF:-1,kino polska
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3027.m3u8
+#EXTINF:-1,Kuchnia  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3028.m3u8
+#EXTINF:-1,leven Extra HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3029.m3u8
+#EXTINF:-1,Lifetime HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3030.m3u8
+#EXTINF:-1,Metro
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3099.m3u8
+#EXTINF:-1,minini hd
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3031.m3u8
+#EXTINF:-1,Motowizja TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3032.m3u8
+#EXTINF:-1,MTV Polska
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3033.m3u8
+#EXTINF:-1,MTV Rocks
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3034.m3u8
+#EXTINF:-1,MuzoTV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3100.m3u8
+#EXTINF:-1,nat geo wild
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3035.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3036.m3u8
+#EXTINF:-1,Nick Jr Polska
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3037.m3u8
+#EXTINF:-1,Nickelodeon
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3038.m3u8
+#EXTINF:-1,Novela Tv
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3101.m3u8
+#EXTINF:-1,nsport hd
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3039.m3u8
+#EXTINF:-1,Planete  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3040.m3u8
+#EXTINF:-1,Romance TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3055.m3u8
+#EXTINF:-1,SciFi universal
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3056.m3u8
+#EXTINF:-1,STARS.TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3057.m3u8
+#EXTINF:-1,Stopklatka TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3107.m3u8
+#EXTINF:-1,Sundance HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3058.m3u8
+#EXTINF:-1,Superstacja
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3108.m3u8
+#EXTINF:-1,teleTOON  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3059.m3u8
+#EXTINF:-1,TLC HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3060.m3u8
+#EXTINF:-1,TNT HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3061.m3u8
+#EXTINF:-1,Travel HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3062.m3u8
+#EXTINF:-1,TV Republika
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3109.m3u8
+#EXTINF:-1,tv4 hd
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3063.m3u8
+#EXTINF:-1,tv6
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3064.m3u8
+#EXTINF:-1,TVN
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3065.m3u8
+#EXTINF:-1,TVN 24 bis HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3066.m3u8
+#EXTINF:-1,TVN 24 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3067.m3u8
+#EXTINF:-1,TVN 7 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3068.m3u8
+#EXTINF:-1,tvn fabula
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3069.m3u8
+#EXTINF:-1,TVN Style HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3070.m3u8
+#EXTINF:-1,TVN Turbo HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3071.m3u8
+#EXTINF:-1,tvp 1
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3072.m3u8
+#EXTINF:-1,TVP 2
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3073.m3u8
+#EXTINF:-1,tvp 3
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3074.m3u8
+#EXTINF:-1,TVP ABC
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3075.m3u8
+#EXTINF:-1,TVP HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3076.m3u8
+#EXTINF:-1,TVP Historia
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3077.m3u8
+#EXTINF:-1,tvp info
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3078.m3u8
+#EXTINF:-1,TVP Kultura
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3079.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3110.m3u8
+#EXTINF:-1,tvp seriale
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3080.m3u8
+#EXTINF:-1,tvp sport hd
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3081.m3u8
+#EXTINF:-1,tvs
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3082.m3u8
+#EXTINF:-1,universal
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3083.m3u8
+#EXTINF:-1,vh1
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3084.m3u8
+#EXTINF:-1,VIVA Polska
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3085.m3u8
+#EXTINF:-1,VOX MUSIC TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3086.m3u8
+#EXTINF:-1,Water Planet
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3111.m3u8
+#EXTINF:-1,Wellbeing
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3112.m3u8
+#EXTINF:-1,Zoom TV
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3113.m3u8
