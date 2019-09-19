@@ -1,171 +1,109 @@
 #EXTM3U
-#EXTINF:-1,Rai1
-http://xtream.ws:8000/6509834900964/3787176661193/107
-#EXTINF:-1,Rai2
-http://xtream.ws:8000/6509834900964/3787176661193/108
-#EXTINF:-1,Rai3
-http://xtream.ws:8000/6509834900964/3787176661193/109
-#EXTINF:-1,Rai4
-http://xtream.ws:8000/6509834900964/3787176661193/110
-#EXTINF:-1,Rai5
-http://xtream.ws:8000/6509834900964/3787176661193/111
-#EXTINF:-1,Rai.Premium
-http://xtream.ws:8000/6509834900964/3787176661193/115
-#EXTINF:-1,Rai.Movie
-http://xtream.ws:8000/6509834900964/3787176661193/114
-#EXTINF:-1,Rai.Gulp
-http://xtream.ws:8000/6509834900964/3787176661193/113
-#EXTINF:-1,Rai.yoyo
-http://xtream.ws:8000/6509834900964/3787176661193/112
-#EXTINF:-1,RaiSport1
-http://xtream.ws:8000/6509834900964/3787176661193/166
-#EXTINF:-1,RSI.La1
-http://xtream.ws:8000/6509834900964/3787176661193/116
-#EXTINF:-1,RSI.La2
-http://xtream.ws:8000/6509834900964/3787176661193/117
-#EXTINF:-1,Mediaset.Extra
-http://xtream.ws:8000/6509834900964/3787176661193/183
-#EXTINF:-1,Mediaset.Italia2
-http://xtream.ws:8000/6509834900964/3787176661193/207
-#EXTINF:-1,Mediaset.20
-http://xtream.ws:8000/6509834900964/3787176661193/186
-#EXTINF:-1,IRIS.Mediaset
-http://xtream.ws:8000/6509834900964/3787176661193/187
-#EXTINF:-1,Italia1
-http://xtream.ws:8000/6509834900964/3787176661193/118
-#EXTINF:-1,Canale5
-http://xtream.ws:8000/6509834900964/3787176661193/119
-#EXTINF:-1,La5
-http://xtream.ws:8000/6509834900964/3787176661193/120
-#EXTINF:-1,La7
-http://xtream.ws:8000/6509834900964/3787176661193/121
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,Class TV Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1,Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,eTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,Fano TV
+http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,La 7 [Geo]
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+#EXTINF:-1,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Napoli Canale 21
+http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,Napoli Canale 21*
+http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,Orler TV
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+#EXTINF:-1,OttoFM TV
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:-1,Radio 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Radio Monte Carlo
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Radio Virgin TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,Rai 5
+http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai News 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rai Scuola
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Storia
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rete 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
+#EXTINF:-1,Rete 55*
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+#EXTINF:-1,Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+#EXTINF:-1,RTV 38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:-1,RTL 102.5
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1,Saronno TV
+http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
+#EXTINF:-1,Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,Sudtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TeleStudio Modena
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+#EXTINF:-1,TG Norba 24
+http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
+#EXTINF:-1,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,Trentino TV*
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:-1,TSN
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:-1,TRM h24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,TV Luna
+http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV Luna*
+http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
 #EXTINF:-1,Videolina
-http://xtream.ws:8000/6509834900964/3787176661193/205
-#EXTINF:-1,sardegna.uno
-http://xtream.ws:8000/6509834900964/3787176661193/206
-#EXTINF:-1,Fox
-http://xtream.ws:8000/6509834900964/3787176661193/139
-#EXTINF:-1,Fox.Life
-http://xtream.ws:8000/6509834900964/3787176661193/140
-#EXTINF:-1,Fox.Crime
-http://xtream.ws:8000/6509834900964/3787176661193/141
-#EXTINF:-1,Fox.Comedy
-http://xtream.ws:8000/6509834900964/3787176661193/142
-#EXTINF:-1,Top.Crime
-http://xtream.ws:8000/6509834900964/3787176661193/189
-#EXTINF:-1,Sky.Uno
-http://xtream.ws:8000/6509834900964/3787176661193/145
-#EXTINF:-1,Sky.Atlantic
-http://xtream.ws:8000/6509834900964/3787176661193/144
-#EXTINF:-1,Sky.Cinema.Uno
-http://xtream.ws:8000/6509834900964/3787176661193/123
-#EXTINF:-1,Sky.Cinema.Uno24
-http://xtream.ws:8000/6509834900964/3787176661193/125
-#EXTINF:-1,Sky.Cinema.Action
-http://xtream.ws:8000/6509834900964/3787176661193/128
-#EXTINF:-1,Sky.Cinema.Collection
-http://xtream.ws:8000/6509834900964/3787176661193/126
-#EXTINF:-1,Sky.Cinema.Romance
-http://xtream.ws:8000/6509834900964/3787176661193/130
-#EXTINF:-1,Sky.Cinema.Family
-http://xtream.ws:8000/6509834900964/3787176661193/133
-#EXTINF:-1,Sky.Cinema.Due
-http://xtream.ws:8000/6509834900964/3787176661193/127
-#EXTINF:-1,Sky.Cinema.Comedy
-http://xtream.ws:8000/6509834900964/3787176661193/131
-#EXTINF:-1,Sky.Cinema.Drama
-http://xtream.ws:8000/6509834900964/3787176661193/132
-#EXTINF:-1,Paramount.Channel
-http://xtream.ws:8000/6509834900964/3787176661193/134
-#EXTINF:-1,Discovery
-http://xtream.ws:8000/6509834900964/3787176661193/177
-#EXTINF:-1,Discovery.Sci
-http://xtream.ws:8000/6509834900964/3787176661193/200
-#EXTINF:-1,National.Geo
-http://xtream.ws:8000/6509834900964/3787176661193/179
-#EXTINF:-1,NatGeo.Wild
-http://xtream.ws:8000/6509834900964/3787176661193/180
-#EXTINF:-1,NatGeo.People
-http://xtream.ws:8000/6509834900964/3787176661193/181
-#EXTINF:-1,Animal.Planet
-http://xtream.ws:8000/6509834900964/3787176661193/182
-#EXTINF:-1,History
-http://xtream.ws:8000/6509834900964/3787176661193/178
-#EXTINF:-1,Focus
-http://xtream.ws:8000/6509834900964/3787176661193/167
-#EXTINF:-1,Disney.Channel
-http://xtream.ws:8000/6509834900964/3787176661193/199
-#EXTINF:-1,Disney.Junior
-http://xtream.ws:8000/6509834900964/3787176661193/198
-#EXTINF:-1,Cartoon.Network
-http://xtream.ws:8000/6509834900964/3787176661193/201
-#EXTINF:-1,Sport.italia
-http://xtream.ws:8000/6509834900964/3787176661193/168
-#EXTINF:-1,Eurosport
-http://xtream.ws:8000/6509834900964/3787176661193/169
-#EXTINF:-1,Eurosport2
-http://xtream.ws:8000/6509834900964/3787176661193/170
-#EXTINF:-1,Sky.Sport
-http://xtream.ws:8000/6509834900964/3787176661193/148
-#EXTINF:-1,SkySport.Uno
-http://xtream.ws:8000/6509834900964/3787176661193/149
-#EXTINF:-1,SkySport.Serie.A
-http://xtream.ws:8000/6509834900964/3787176661193/157
-#EXTINF:-1,SkySport.Football
-http://xtream.ws:8000/6509834900964/3787176661193/150
-#EXTINF:-1,SkySport.Arena
-http://xtream.ws:8000/6509834900964/3787176661193/151
-#EXTINF:-1,SkySport24
-http://xtream.ws:8000/6509834900964/3787176661193/152
-#EXTINF:-1,SkySport.F1
-http://xtream.ws:8000/6509834900964/3787176661193/153
-#EXTINF:-1,Sky.Moto.Gp
-http://xtream.ws:8000/6509834900964/3787176661193/154
-#EXTINF:-1,Super.Tennis
-http://xtream.ws:8000/6509834900964/3787176661193/155
-#EXTINF:-1,Inter.Milan.TV
-http://xtream.ws:8000/6509834900964/3787176661193/202
-#EXTINF:-1,AC.Milan.TV
-http://xtream.ws:8000/6509834900964/3787176661193/203
-#EXTINF:-1,Roma.Channel
-http://xtream.ws:8000/6509834900964/3787176661193/204
-#EXTINF:-1,======MwdiaEst_Premium======
-http://xtream.ws:8000/6509834900964/3787176661193/184
-#EXTINF:-1,Premium.Studio.Universal
-http://xtream.ws:8000/6509834900964/3787176661193/197
-#EXTINF:-1,Premium.Cinema
-http://xtream.ws:8000/6509834900964/3787176661193/185
-#EXTINF:-1,Premium.Crime
-http://xtream.ws:8000/6509834900964/3787176661193/188
-#EXTINF:-1,Premium.Action
-http://xtream.ws:8000/6509834900964/3787176661193/190
-#EXTINF:-1,Premium.Comedy
-http://xtream.ws:8000/6509834900964/3787176661193/191
-#EXTINF:-1,Premium.Emotion
-http://xtream.ws:8000/6509834900964/3787176661193/196
-#EXTINF:-1,Premium.Stories
-http://xtream.ws:8000/6509834900964/3787176661193/193
-#EXTINF:-1,Premium.Energy
-http://xtream.ws:8000/6509834900964/3787176661193/195
-#EXTINF:-1,Premium.Joy
-http://xtream.ws:8000/6509834900964/3787176661193/194
-#EXTINF:-1,Prima.fila1
-http://xtream.ws:8000/6509834900964/3787176661193/209
-#EXTINF:-1,Prima.fila2
-http://xtream.ws:8000/6509834900964/3787176661193/210
-#EXTINF:-1,Prima.fila3
-http://xtream.ws:8000/6509834900964/3787176661193/211
-#EXTINF:-1,Prima.fila4
-http://xtream.ws:8000/6509834900964/3787176661193/212
-#EXTINF:-1,Prima.fila5
-http://xtream.ws:8000/6509834900964/3787176661193/213
-#EXTINF:-1,Prima.fila6
-http://xtream.ws:8000/6509834900964/3787176661193/214
-#EXTINF:-1,Prima.fila7
-http://xtream.ws:8000/6509834900964/3787176661193/215
-#EXTINF:-1,Prima.fila8
-http://xtream.ws:8000/6509834900964/3787176661193/216
-#EXTINF:-1,Prima.fila9
-http://xtream.ws:8000/6509834900964/3787176661193/217
-#EXTINF:-1,Prima.Fila10
-http://xtream.ws:8000/6509834900964/3787176661193/218
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
