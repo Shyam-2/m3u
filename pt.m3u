@@ -1,127 +1,283 @@
 #EXTM3U
-#EXTINF:-1,Benfica.TV
-http://xtream.ws:8000/6509834900964/3787176661193/4855
-#EXTINF:-1,Sporting.TV
-http://xtream.ws:8000/6509834900964/3787176661193/693
-#EXTINF:-1,Sport.TV1
-http://xtream.ws:8000/6509834900964/3787176661193/1060
-#EXTINF:-1,Sport.TV2
-http://xtream.ws:8000/6509834900964/3787176661193/689
-#EXTINF:-1,Sport.TV3
-http://xtream.ws:8000/6509834900964/3787176661193/690
-#EXTINF:-1,Sport.TV4
-http://xtream.ws:8000/6509834900964/3787176661193/691
-#EXTINF:-1,Sport.TV5
-http://xtream.ws:8000/6509834900964/3787176661193/692
-#EXTINF:-1,Eleven.Sports1
-http://xtream.ws:8000/6509834900964/3787176661193/5374
-#EXTINF:-1,Eleven.Sports2
-http://xtream.ws:8000/6509834900964/3787176661193/5375
-#EXTINF:-1,Eleven.Sports3
-http://xtream.ws:8000/6509834900964/3787176661193/5376
-#EXTINF:-1,EuroSport1
-http://xtream.ws:8000/6509834900964/3787176661193/5381
-#EXTINF:-1,EuroSport2
-http://xtream.ws:8000/6509834900964/3787176661193/5382
-#EXTINF:-1,Kombat.Sport
-http://xtream.ws:8000/6509834900964/3787176661193/5392
-#EXTINF:-1,TVCine1
-http://xtream.ws:8000/6509834900964/3787176661193/695
-#EXTINF:-1,TVCine2
-http://xtream.ws:8000/6509834900964/3787176661193/696
-#EXTINF:-1,TVCine3
-http://xtream.ws:8000/6509834900964/3787176661193/697
-#EXTINF:-1,TVCine4
-http://xtream.ws:8000/6509834900964/3787176661193/698
-#EXTINF:-1,TVSeries
-http://xtream.ws:8000/6509834900964/3787176661193/694
-#EXTINF:-1,FOX
-http://xtream.ws:8000/6509834900964/3787176661193/682
-#EXTINF:-1,FOX.Movies
-http://xtream.ws:8000/6509834900964/3787176661193/684
-#EXTINF:-1, FOX.Life
-http://xtream.ws:8000/6509834900964/3787176661193/683
-#EXTINF:-1,FOX.Crime
-http://xtream.ws:8000/6509834900964/3787176661193/681
-#EXTINF:-1,FOX.Comedy
-http://xtream.ws:8000/6509834900964/3787176661193/680
-#EXTINF:-1,Hollywood
-http://xtream.ws:8000/6509834900964/3787176661193/679
-#EXTINF:-1,Cinemundo
-http://xtream.ws:8000/6509834900964/3787176661193/669
-#EXTINF:-1,SYFY
-http://xtream.ws:8000/6509834900964/3787176661193/670
-#EXTINF:-1,AMC
-http://xtream.ws:8000/6509834900964/3787176661193/673
-#EXTINF:-1,TLC
-http://xtream.ws:8000/6509834900964/3787176661193/5378
-#EXTINF:-1,AXN
-http://xtream.ws:8000/6509834900964/3787176661193/5377
-#EXTINF:-1,AXN.White
-http://xtream.ws:8000/6509834900964/3787176661193/675
-#EXTINF:-1,AXN.Black
-http://xtream.ws:8000/6509834900964/3787176661193/674
+#EXTINF:-1,RTP 1
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2511
+#EXTINF:-1,RTP 1 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2512
+#EXTINF:-1,RTP 2
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2509
+#EXTINF:-1,RTP 2 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2510
+#EXTINF:-1,RTP 3
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2508
 #EXTINF:-1,SIC
-http://xtream.ws:8000/6509834900964/3787176661193/666
-#EXTINF:-1,SIC.Mulher
-http://xtream.ws:8000/6509834900964/3787176661193/668
-#EXTINF:-1,SIC.Radical
-http://xtream.ws:8000/6509834900964/3787176661193/677
-#EXTINF:-1,SIC.Noticias
-http://xtream.ws:8000/6509834900964/3787176661193/676
-#EXTINF:-1,RTP1
-http://xtream.ws:8000/6509834900964/3787176661193/678
-#EXTINF:-1,RTP2
-http://xtream.ws:8000/6509834900964/3787176661193/685
-#EXTINF:-1,RTP3
-http://xtream.ws:8000/6509834900964/3787176661193/686
-#EXTINF:-1,RTP.Memoria
-http://xtream.ws:8000/6509834900964/3787176661193/688
-#EXTINF:-1,RTP.Africa
-http://xtream.ws:8000/6509834900964/3787176661193/687
-#EXTINF:-1,TV.Globo
-http://xtream.ws:8000/6509834900964/3787176661193/5396
-#EXTINF:-1,TV.Globo.Premium
-http://xtream.ws:8000/6509834900964/3787176661193/5397
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2500
+#EXTINF:-1,SIC HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2501
+#EXTINF:-1,TVI HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2492
+#EXTINF:-1,A BOLA TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2486
+#EXTINF:-1,AMC HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14984
+#EXTINF:-1,AMC
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2460
+#EXTINF:-1,ARTV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2485
+#EXTINF:-1,AXN BLACK HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2474
+#EXTINF:-1,AXN HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2473
+#EXTINF:-1,AXN WHITE HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2472
+#EXTINF:-1,BABY TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2455
+#EXTINF:-1,BTV HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2438
+#EXTINF:-1,CINEMUNDO
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2459
+#EXTINF:-1,Histðria
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2453
+#EXTINF:-1,CMTV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2503
+#EXTINF:-1,CMTV HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2502
+#EXTINF:-1,EUROSPORT 1
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2440
+#EXTINF:-1,EUROSPORT 2
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2439
+#EXTINF:-1,BBC ENTERTAINMENT
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2429
+#EXTINF:-1,FOX COMEDY
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2471
+#EXTINF:-1,FOX COMEDY HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2470
+#EXTINF:-1,FOX CRIME HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2469
+#EXTINF:-1,FOX HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2468
+#EXTINF:-1,FOX LIFE HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2467
+#EXTINF:-1,FOX MOVIES
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2466
+#EXTINF:-1,FOX MOVIES HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2465
+#EXTINF:-1,FOX NEWS
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2487
+#EXTINF:-1,FUEL TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2449
+#EXTINF:-1,FUEL TV HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2448
+#EXTINF:-1,HOLLYWOOD HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2461
+#EXTINF:-1,HOLLYWOOD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2462
+#EXTINF:-1,KOMBAT SPORT
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2428
+#EXTINF:-1,MOTORS VISION TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2437
+#EXTINF:-1,MTV PORTUGAL
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2446
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2450
+#EXTINF:-1,Nat Geo Wild
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14115
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14983
+#EXTINF:-1,DISCOVERY CHANNEL
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2451
+#EXTINF:-1,DISNEY CHANNEL
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2458
+#EXTINF:-1,DISNEY JOENIOR
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2457
+#EXTINF:-1,JIM JAM
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2454
+#EXTINF:-1,NICK JR.
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14985
+#EXTINF:-1,Cartoon Network
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14104
+#EXTINF:-1,Canal Panda
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14119
+#EXTINF:-1,Bloomberg
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14112
+#EXTINF:-1,NICKELODEON PT
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2456
+#EXTINF:-1,ODISSEIA
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2452
+#EXTINF:-1,CANAL NOS
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2427
+#EXTINF:-1,RECORD NEWS D
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2488
+#EXTINF:-1,RTP A?ORES
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2507
+#EXTINF:-1,RTP FRICA
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2506
+#EXTINF:-1,RTP MADEIRA
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2505
+#EXTINF:-1,RTP Memðria
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2504
+#EXTINF:-1,SIC CARAS
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2497
+#EXTINF:-1,SIC KIDS
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2498
+#EXTINF:-1,SIC MULHER
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2496
+#EXTINF:-1,SIC Not?cias
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2499
+#EXTINF:-1,SIC RADICAL
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2495
+#EXTINF:-1,SPORT TV +   HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2436
+#EXTINF:-1,SPORT TV 1
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2444
+#EXTINF:-1,SPORT TV 1 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2435
+#EXTINF:-1,SPORT TV 2
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2443
+#EXTINF:-1,SPORT TV 2 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2434
+#EXTINF:-1,SPORT TV 3
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2442
+#EXTINF:-1,SPORT TV 3 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2433
+#EXTINF:-1,SPORT TV 4
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2441
+#EXTINF:-1,SPORT TV 4 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2432
+#EXTINF:-1,SPORT TV 5 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2431
+#EXTINF:-1,SPORTING TV HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2430
+#EXTINF:-1,SYFY HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2463
+#EXTINF:-1,SYFY
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2464
+#EXTINF:-1,TRACE URBAN PT
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2447
+#EXTINF:-1,TV GLOBO
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2490
+#EXTINF:-1,TV GLOBO PREMIUM
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2489
+#EXTINF:-1,TV RECORD HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2494
+#EXTINF:-1,TV SØries
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2480
+#EXTINF:-1,TVCINE 1
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2484
+#EXTINF:-1,TVCINE 1 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2479
+#EXTINF:-1,TVCINE 2
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2483
+#EXTINF:-1,TVCINE 2 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2478
+#EXTINF:-1,TVCINE 3
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2482
+#EXTINF:-1,TVCINE 3 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2477
+#EXTINF:-1,TVCINE 4
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2481
+#EXTINF:-1,TVCINE 4 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2476
+#EXTINF:-1,TVI 24
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2491
+#EXTINF:-1,TVI Fic?ªo
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2493
+#EXTINF:-1,TVSØries HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2475
+#EXTINF:-1,24 Kitchen HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14096
+#EXTINF:-1,Afro Music
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14127
+#EXTINF:-1,Angelus TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14126
+#EXTINF:-1,BBC World News
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14092
+#EXTINF:-1,Biggs
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14076
+#EXTINF:-1,Blaze
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14084
+#EXTINF:-1,BTV 1 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14102
+#EXTINF:-1,Ca?avision
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14101
+#EXTINF:-1,Can??o Nova
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14110
+#EXTINF:-1,Canal Q
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14108
+#EXTINF:-1,CBS Reality
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14130
+#EXTINF:-1,Channel 1 Russia
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14124
+#EXTINF:-1,CNBC Europe
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14113
+#EXTINF:-1,CNN
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14085
+#EXTINF:-1,Deutsche Welle
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14129
+#EXTINF:-1,Disney Channel Forever
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14117
+#EXTINF:-1,E! Entertainment
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14122
+#EXTINF:-1,Eurochannel
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14140
+#EXTINF:-1,Euronews
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14087
+#EXTINF:-1,Eurosport 1 HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14097
+#EXTINF:-1,France 24
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14081
+#EXTINF:-1,FTV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14114
+#EXTINF:-1,Globo Now
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14106
+#EXTINF:-1,Kuriakos TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14100
+#EXTINF:-1,MCM POP
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14121
+#EXTINF:-1,Mezzo
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14094
+#EXTINF:-1,My Cuisine
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14103
+#EXTINF:-1,NBA TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14109
+#EXTINF:-1,PFC
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14111
+#EXTINF:-1,Porto Canal
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14118
+#EXTINF:-1,Real Madrid TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14138
+#EXTINF:-1,SKY News
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14083
+#EXTINF:-1,SPORT TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14093
+#EXTINF:-1,TLC
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14075
+#EXTINF:-1,Toros TV
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14078
+#EXTINF:-1,Trace Urban
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14132
+#EXTINF:-1,Travel Channel HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14099
+#EXTINF:-1,TV Galicia
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14116
+#EXTINF:-1,TV Record
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14135
+#EXTINF:-1,TV5 Monde
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14091
+#EXTINF:-1,TVE 24H
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14082
+#EXTINF:-1,TVE Internacional
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14090
+#EXTINF:-1,TVEi
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14079
 #EXTINF:-1,TVI
-http://xtream.ws:8000/6509834900964/3787176661193/5393
-#EXTINF:-1,TVI.24
-http://xtream.ws:8000/6509834900964/3787176661193/5395
-#EXTINF:-1,TVI.Ficcao
-http://xtream.ws:8000/6509834900964/3787176661193/5394
-#EXTINF:-1,Porto.Canal
-http://xtream.ws:8000/6509834900964/3787176661193/5391
-#EXTINF:-1,Discovery
-http://xtream.ws:8000/6509834900964/3787176661193/672
-#EXTINF:-1,Discovery.Showcase
-http://xtream.ws:8000/6509834900964/3787176661193/671
-#EXTINF:-1,National.Geogrphic
-http://xtream.ws:8000/6509834900964/3787176661193/5383
-#EXTINF:-1,Nat.Geo.Wild
-http://xtream.ws:8000/6509834900964/3787176661193/5385
-#EXTINF:-1,Odisseia
-http://xtream.ws:8000/6509834900964/3787176661193/5379
-#EXTINF:-1,Travel.Channel
-http://xtream.ws:8000/6509834900964/3787176661193/5390
-#EXTINF:-1,A&E
-http://xtream.ws:8000/6509834900964/3787176661193/5389
-#EXTINF:-1,Caca.Pesca
-http://xtream.ws:8000/6509834900964/3787176661193/5380
-#EXTINF:-1,Cacavision
-http://xtream.ws:8000/6509834900964/3787176661193/5384
-#EXTINF:-1, Nickelodeon
-http://xtream.ws:8000/6509834900964/3787176661193/5388
-#EXTINF:-1,BABY.TV
-http://xtream.ws:8000/6509834900964/3787176661193/5373
-#EXTINF:-1,Canal.Panda
-http://xtream.ws:8000/6509834900964/3787176661193/5369
-#EXTINF:-1,Cartoon.Network
-http://xtream.ws:8000/6509834900964/3787176661193/5370
-#EXTINF:-1,Disney.Channel
-http://xtream.ws:8000/6509834900964/3787176661193/5371
-#EXTINF:-1,Jim.Jam
-http://xtream.ws:8000/6509834900964/3787176661193/5386
-#EXTINF:-1,Disney.Junior
-http://xtream.ws:8000/6509834900964/3787176661193/5372
-#EXTINF:-1, SIC Kids
-http://xtream.ws:8000/6509834900964/3787176661193/5387
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14120
+#EXTINF:-1,TVI Reality
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14080
+#EXTINF:-1,TVS?ries HD
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14098
+#EXTINF:-1,VH1
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14086
+#EXTINF:-1,VH1 CLASSIC
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2445
+#EXTINF:-1,CALA E PESCA
+http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14987
