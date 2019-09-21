@@ -1,63 +1,205 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="La1" tvg-logo="http://logo.ndasat.com/iptv/images/51679_la1.jpg" group-title="{BOUQUET_NAME}",La1
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/536.m3u8
-#EXTINF:-1 tvg-name="La2" tvg-logo="http://logo.ndasat.com/iptv/images/95093_la2.jpg" group-title="{BOUQUET_NAME}",La2
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/537.m3u8
-#EXTINF:-1 tvg-name="Antena 3" tvg-logo="http://logo.ndasat.com/iptv/images/4786_Antena3.jpg" group-title="{BOUQUET_NAME}",Antena 3
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/971.m3u8
-#EXTINF:-1 tvg-name="Cuatro" tvg-logo="http://logo.ndasat.com/iptv/images/45943_cuatro_es.png" group-title="{BOUQUET_NAME}",Cuatro
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/153.m3u8
-#EXTINF:-1 tvg-name="Tele5" tvg-logo="http://logo.ndasat.com/iptv/images/3159_telecinco.png" group-title="{BOUQUET_NAME}",Tele5
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/36.m3u8
-#EXTINF:-1 tvg-name="La sexta" tvg-logo="http://logo.ndasat.com/iptv/images/9614_Lasexta.png" group-title="{BOUQUET_NAME}",La sexta
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/970.m3u8
-#EXTINF:-1 tvg-name="Canal 24 Horas" tvg-logo="" group-title="{BOUQUET_NAME}",Canal 24 Horas
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/3415.m3u8
-#EXTINF:-1 tvg-name="Canal Sur" tvg-logo="" group-title="{BOUQUET_NAME}",Canal Sur
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/3414.m3u8
-#EXTINF:-1 tvg-name="FDF" tvg-logo="http://logo.ndasat.com/iptv/images/38315_fdf.png" group-title="{BOUQUET_NAME}",FDF
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2754.m3u8
-#EXTINF:-1 tvg-name="Mega" tvg-logo="http://logo.ndasat.com/iptv/images/95179_mega.jpg" group-title="{BOUQUET_NAME}",Mega
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/925.m3u8
-#EXTINF:-1 tvg-name="Nova" tvg-logo="http://logo.ndasat.com/iptv/images/70357_nova.png" group-title="{BOUQUET_NAME}",Nova
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/924.m3u8
-#EXTINF:-1 tvg-name="Neox" tvg-logo="http://logo.ndasat.com/iptv/images/40949_neox.png" group-title="{BOUQUET_NAME}",Neox
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/930.m3u8
-#EXTINF:-1 tvg-name="ENERGY" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",ENERGY
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2735.m3u8
-#EXTINF:-1 tvg-name="DIVINITY" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",DIVINITY
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2737.m3u8
-#EXTINF:-1 tvg-name="A3 series" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",A3 series
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2700.m3u8
-#EXTINF:-1 tvg-name="FoxLife" tvg-logo="http://logo.ndasat.com/iptv/images/59262_439-italian_proverbs_quotes.jpg" group-title="{BOUQUET_NAME}",FoxLife
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/753.m3u8
-#EXTINF:-1 tvg-name="Calle 13" tvg-logo="http://logo.ndasat.com/iptv/images/69814_calle13.png" group-title="{BOUQUET_NAME}",Calle 13
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/1039.m3u8
-#EXTINF:-1 tvg-name="Fox  ES" tvg-logo="http://logo.ndasat.com/iptv/images/75354_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox  ES
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/1592.m3u8
-#EXTINF:-1 tvg-name="Syfy es" tvg-logo="http://logo.ndasat.com/iptv/images/43054_syfy.png" group-title="{BOUQUET_NAME}",Syfy es
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/929.m3u8
-#EXTINF:-1 tvg-name="Comedy Central es" tvg-logo="http://logo.ndasat.com/iptv/images/28556_comedycentral.jpg" group-title="{BOUQUET_NAME}",Comedy Central es
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/1593.m3u8
-#EXTINF:-1 tvg-name="AXN es" tvg-logo="http://logo.ndasat.com/iptv/images/62077_AXN.png" group-title="{BOUQUET_NAME}",AXN es
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/1601.m3u8
-#EXTINF:-1 tvg-name="AXN  WHITE" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",AXN  WHITE
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2728.m3u8
-#EXTINF:-1 tvg-name="#0" tvg-logo="http://logo.ndasat.com/iptv/images/22280_movistar_es_0.png" group-title="{BOUQUET_NAME}",#0
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/152.m3u8
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",PARAMOUNT CHANNEL
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2725.m3u8
-#EXTINF:-1 tvg-name="SUNDANCE" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",SUNDANCE
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2724.m3u8
-#EXTINF:-1 tvg-name="COSMO" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",COSMO
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2710.m3u8
-#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",FOX LIFE
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2708.m3u8
-#EXTINF:-1 tvg-name="Ten" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",Ten
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2730.m3u8
-#EXTINF:-1 tvg-name="AMC ESP" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",AMC ESP
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2729.m3u8
-#EXTINF:-1 tvg-name="SOMOS" tvg-logo="http://logo.ndasat.com/iptv/images/23847_africa.jpg" group-title="{BOUQUET_NAME}",SOMOS
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/2733.m3u8
-#EXTINF:-1 tvg-name="Canal Cocina" tvg-logo="" group-title="{BOUQUET_NAME}",Canal Cocina
-http://iptv.atlasiptv.net:88/live/552738351481634/552738351481634/3952.m3u8
+#EXTINF:-1,LA 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36547
+#EXTINF:-1,LA 2
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36551
+#EXTINF:-1,ANTENA 3 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36536
+#EXTINF:-1,CUATRO HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36535
+#EXTINF:-1,LA SEXTA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36534
+#EXTINF:-1,FDF
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36490
+#EXTINF:-1,ENERGY
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36500
+#EXTINF:-1,DIVINITY
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36501
+#EXTINF:-1,MEGA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/37185
+#EXTINF:-1,BE MAD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36467
+#EXTINF:-1,NEOX
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36470
+#EXTINF:-1,CANAL 24 HORAS
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36549
+#EXTINF:-1,0 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36523
+#EXTINF:-1,CANAL SUR A.
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36483
+#EXTINF:-1,ARAGON TV INT
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36468
+#EXTINF:-1,NOVA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/37021
+#EXTINF:-1,TELECINCO HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36531
+#EXTINF:-1,CANAL ORBE21
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94774
+#EXTINF:-1,24 HORAS
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36485
+#EXTINF:-1,TVE INTERNACIONAL EUROPA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36550
+#EXTINF:-1,TVGA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/83798
+#EXTINF:-1,#VAMOS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94773
+#EXTINF:-1,BABY TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36504
+#EXTINF:-1,BOING
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36502
+#EXTINF:-1,CLAN TVE
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36491
+#EXTINF:-1,DISNEY CH HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94777
+#EXTINF:-1,DISNEY JR
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36476
+#EXTINF:-1,DISNEY XD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36480
+#EXTINF:-1,NICK JR
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94763
+#EXTINF:-1,NICKELODEON  HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36525
+#EXTINF:-1,CANAL PANDA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36466
+#EXTINF:-1,NICK/MTV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94762
+#EXTINF:-1,AMC HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36537
+#EXTINF:-1,AXN
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36477
+#EXTINF:-1,AXN HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36548
+#EXTINF:-1,AXN WHITE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36510
+#EXTINF:-1,CALLE 13 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36530
+#EXTINF:-1,COMEDYCENTRAL HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36515
+#EXTINF:-1,COMEDY CENTRAL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94811
+#EXTINF:-1,COSMO HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36514
+#EXTINF:-1,FOX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36542
+#EXTINF:-1,FOX LIFE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36513
+#EXTINF:-1,HOLLYWOOD HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36541
+#EXTINF:-1,PARAMOUNT
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36472
+#EXTINF:-1,SUNDANCE TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94771
+#EXTINF:-1,SYFY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36506
+#EXTINF:-1,TCM HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36518
+#EXTINF:-1,TNT HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36517
+#EXTINF:-1,CLASSICA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36473
+#EXTINF:-1,LALIGA123 TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/51268
+#EXTINF:-1,M.LCAMPEONES
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36516
+#EXTINF:-1,LALIGA TV BAR
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36546
+#EXTINF:-1,BEIN LALIGA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36543
+#EXTINF:-1,EUROSPORT1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36529
+#EXTINF:-1,EUROSPORT 1
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36499
+#EXTINF:-1,EUROSPORT 2
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36471
+#EXTINF:-1,M.FORMULA1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36533
+#EXTINF:-1,GOL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36497
+#EXTINF:-1,BAR TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36503
+#EXTINF:-1,R. MADRID TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36465
+#EXTINF:-1,TOROS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36524
+#EXTINF:-1,M. FORMULA1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36495
+#EXTINF:-1,BEINLALIGA1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36538
+#EXTINF:-1,M.GOLF HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36512
+#EXTINF:-1,M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36544
+#EXTINF:-1,M.ACCION HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36540
+#EXTINF:-1,M. CINE ESPANOL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36478
+#EXTINF:-1,M. COMEDIA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36545
+#EXTINF:-1,M.DRAMA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36539
+#EXTINF:-1,M. DISNEY
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36496
+#EXTINF:-1,M.ESTRENOS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36507
+#EXTINF:-1,M.CINEDOC&ROLL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/91600
+#EXTINF:-1,M.CINEDOC&ROLL HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36508
+#EXTINF:-1,M.SERIES HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36520
+#EXTINF:-1,M.SERIESMANIA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36511
+#EXTINF:-1,M.DEPORTES1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36509
+#EXTINF:-1,M. DEPORTES1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36528
+#EXTINF:-1,TELEDEPORTE
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36486
+#EXTINF:-1,MEZZO
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94769
+#EXTINF:-1,MEZZO LIVE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36527
+#EXTINF:-1,M.WIMBLEDONHD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36532
+#EXTINF:-1,MTV ROCKS
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36474
+#EXTINF:-1,MTV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94768
+#EXTINF:-1,MTV ESPA¹A
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94766
+#EXTINF:-1,MTV MUSIC 24
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94764
+#EXTINF:-1,MTV HITS
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94765
+#EXTINF:-1,MTV DANCE
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94767
+#EXTINF:-1,BLAZE
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36484
+#EXTINF:-1,CANAL COCINA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36488
+#EXTINF:-1,CANAL DECASA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36494
+#EXTINF:-1,CAZAyPESCA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36522
+#EXTINF:-1,CRIMEN+INVES
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36482
+#EXTINF:-1,DISCOVERY
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36481
+#EXTINF:-1,HISTORIA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36479
+#EXTINF:-1,IBERALIA TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36475
+#EXTINF:-1,NAT GEO HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36526
+#EXTINF:-1,NAT GEO WILD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36489
+#EXTINF:-1,NAT GEO WILD HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36519
+#EXTINF:-1,CANAL ODISEA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36493
+#EXTINF:-1,VIAJAR HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36505
+#EXTINF:-1,VH1
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36469
+#EXTINF:-1,FOX NEWS
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/36498
