@@ -1,411 +1,341 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11721.m3u8
-#EXTINF:-1,Sat 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19728.m3u8
-#EXTINF:-1,Sat1 Gold
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27126.m3u8
-#EXTINF:-1,Sat1 Gold HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19738.m3u8
-#EXTINF:-1,3Sat
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27071.m3u8
-#EXTINF:-1,3Sat HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27072.m3u8
+#EXTINF:-1,DAS ERSTE HD (ARD)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8975
+#EXTINF:-1,DAS ERSTE (ARD)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2921
+#EXTINF:-1,ARTE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8976
+#EXTINF:-1,3 SAT
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3707
+#EXTINF:-1,ARD HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97741
 #EXTINF:-1,ZDF HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/369.m3u8
-#EXTINF:-1,ZDF Info HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11715.m3u8
-#EXTINF:-1,ZDF neo HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19766.m3u8
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97739
+#EXTINF:-1,ZDF
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/555
+#EXTINF:-1,ZDF NEO
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8520
 #EXTINF:-1,RTL HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/2101.m3u8
-#EXTINF:-1,RTL plus
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19764.m3u8
-#EXTINF:-1,RTL Television
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19765.m3u8
-#EXTINF:-1,RTL 2
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27118.m3u8
-#EXTINF:-1,RTL 2 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19724.m3u8
-#EXTINF:-1,RTL living HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/1997.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19726.m3u8
-#EXTINF:-1,Super RTL
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19725.m3u8
-#EXTINF:-1,Super RTL HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23257.m3u8
-#EXTINF:-1,Vox
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27104.m3u8
-#EXTINF:-1,Vox HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11722.m3u8
-#EXTINF:-1,Pro7
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27066.m3u8
-#EXTINF:-1,Pro7 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27067.m3u8
-#EXTINF:-1,Pro7 Maxx HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/21100.m3u8
-#EXTINF:-1,Servus TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19744.m3u8
-#EXTINF:-1,Kabel eins
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27124.m3u8
-#EXTINF:-1,Kabel eins HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11720.m3u8
-#EXTINF:-1,Kabel eins Doku
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19763.m3u8
-#EXTINF:-1,Kabel Journal HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19730.m3u8
-#EXTINF:-1,Arte
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19762.m3u8
-#EXTINF:-1,Sixx HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27115.m3u8
-#EXTINF:-1,ONE HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19735.m3u8
-#EXTINF:-1,Kinowelt
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27123.m3u8
-#EXTINF:-1,DRF 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19727.m3u8
-#EXTINF:-1,Jukebox HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19755.m3u8
-#EXTINF:-1,Munchen Tv HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27121.m3u8
-#EXTINF:-1,Plus 8
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19759.m3u8
-#EXTINF:-1,Franken TV
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27127.m3u8
-#EXTINF:-1,Phoenix HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19736.m3u8
-#EXTINF:-1,noa4 Hamburg HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19731.m3u8
-#EXTINF:-1,noa4 Norderstedt HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19732.m3u8
-#EXTINF:-1,Oldenburg eins TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19734.m3u8
-#EXTINF:-1,TRP 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19741.m3u8
-#EXTINF:-1,TV Oberpfalz HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19742.m3u8
-#EXTINF:-1,TV Wurzburg HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19746.m3u8
-#EXTINF:-1,Welt der Wunder
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/12219.m3u8
-#EXTINF:-1,Westerwald TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19748.m3u8
-#EXTINF:-1,Leipzig Fernsehen HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19743.m3u8
-#EXTINF:-1,Delux Music
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27132.m3u8
-#EXTINF:-1,ARD Alpha
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22913.m3u8
-#EXTINF:-1,XITE HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19754.m3u8
-#EXTINF:-1,ViVa HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27164.m3u8
-#EXTINF:-1,Allgau TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27144.m3u8
-#EXTINF:-1,Augsburg TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27169.m3u8
-#EXTINF:-1,BLK Online TV
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27146.m3u8
-#EXTINF:-1,Chemnitz Fernsehen HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27147.m3u8
-#EXTINF:-1,Dresden Fernsehen HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27148.m3u8
-#EXTINF:-1,Filstalwelle
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27149.m3u8
-#EXTINF:-1,FRF
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27150.m3u8
-#EXTINF:-1,Isar TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27151.m3u8
-#EXTINF:-1,OK Dessau
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27152.m3u8
-#EXTINF:-1,OK Koblenz
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27153.m3u8
-#EXTINF:-1,OK Magdeburg
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27154.m3u8
-#EXTINF:-1,OK Merseburg
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27155.m3u8
-#EXTINF:-1,OK Salzwedel
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27156.m3u8
-#EXTINF:-1,OK Stendal
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27157.m3u8
-#EXTINF:-1,OK Wernigerode
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27158.m3u8
-#EXTINF:-1,Punktum Sudharz HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27159.m3u8
-#EXTINF:-1,QVC
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27160.m3u8
-#EXTINF:-1,Rbb HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27165.m3u8
-#EXTINF:-1,RBW HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27161.m3u8
-#EXTINF:-1,Spiegel Geschichte HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27141.m3u8
-#EXTINF:-1,Spiegel TV Wissen
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27140.m3u8
-#EXTINF:-1,Stingray Classica
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27142.m3u8
-#EXTINF:-1,Tide TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27163.m3u8
-#EXTINF:-1,Universal HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27143.m3u8
-#EXTINF:-1,BR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19745.m3u8
-#EXTINF:-1,HR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19729.m3u8
-#EXTINF:-1,MDR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19747.m3u8
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2580
+#EXTINF:-1,RTLII HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2582
+#EXTINF:-1,RTL TELEVISION
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38241
+#EXTINF:-1,RTL2
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38240
+#EXTINF:-1,RTLPLUS
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8519
+#EXTINF:-1,RTL NITRO
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/553
+#EXTINF:-1,SIXX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3719
+#EXTINF:-1,PROSIEBEN HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2579
+#EXTINF:-1,PRO7 MAXX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/564
+#EXTINF:-1,SAT.1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2577
+#EXTINF:-1,SAT.1 GOLD HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56983
+#EXTINF:-1,VOX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2581
+#EXTINF:-1,VOX
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38230
+#EXTINF:-1,PHOENIX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94756
+#EXTINF:-1,KABEL EINS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2578
+#EXTINF:-1,KABEL 1 CLASSICS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/92457
+#EXTINF:-1,TELE 5 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56992
+#EXTINF:-1,ANIXE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56989
+#EXTINF:-1,DMAX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56994
+#EXTINF:-1,ONE 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/89688
+#EXTINF:-1,SKY SPORT NEWS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/586
+#EXTINF:-1,SKY SPORT 1
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8511
+#EXTINF:-1,SKY SPORT 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/582
+#EXTINF:-1,SKY SPORT 2
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3052
+#EXTINF:-1,SKY SPORT 2 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8509
+#EXTINF:-1,DAZN 1 BAR HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/47004
+#EXTINF:-1,DAZN 2 BAR HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/47005
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2563
+#EXTINF:-1,SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2564
+#EXTINF:-1,SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2565
+#EXTINF:-1,SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2566
+#EXTINF:-1,SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2567
+#EXTINF:-1,SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2568
+#EXTINF:-1,SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2569
+#EXTINF:-1,SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2570
+#EXTINF:-1,SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2571
+#EXTINF:-1,SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3724
+#EXTINF:-1,EUROSPORT 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3713
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/48423
+#EXTINF:-1,EUROSPORT 2 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3714
+#EXTINF:-1,MOTORVISION TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3716
+#EXTINF:-1,SPORT1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8510
+#EXTINF:-1,JUKEBOX
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3715
+#EXTINF:-1,CLASSICA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38239
 #EXTINF:-1,MTV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19753.m3u8
-#EXTINF:-1,NDR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19749.m3u8
-#EXTINF:-1,NTV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23254.m3u8
-#EXTINF:-1,OKTO HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19733.m3u8
-#EXTINF:-1,RAN 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19737.m3u8
-#EXTINF:-1,RFH HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19739.m3u8
-#EXTINF:-1,RIC
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19757.m3u8
-#EXTINF:-1,RNF HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19740.m3u8
-#EXTINF:-1,SR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19752.m3u8
-#EXTINF:-1,SWR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/7933.m3u8
-#EXTINF:-1,WDR HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/7928.m3u8
-#EXTINF:-1,WMZ TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19750.m3u8
-#EXTINF:-1,SKY Cinema
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22423.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27113.m3u8
-#EXTINF:-1,SKY Cinema +1
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22424.m3u8
-#EXTINF:-1,SKY Cinema +1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11709.m3u8
-#EXTINF:-1,SKY Cinema +24
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22428.m3u8
-#EXTINF:-1,SKY Cinema +24 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22426.m3u8
-#EXTINF:-1,SKY Cinema Action
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22425.m3u8
-#EXTINF:-1,SKY Cinema Action HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11706.m3u8
-#EXTINF:-1,SKY Cinema Family
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11710.m3u8
-#EXTINF:-1,SKY Cinema Family HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11708.m3u8
-#EXTINF:-1,SKY Cinema Hits
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22427.m3u8
-#EXTINF:-1,SKY Cinema Hits HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11707.m3u8
-#EXTINF:-1,Sky Cinema Comedy
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27110.m3u8
-#EXTINF:-1,Sky Cinema Emotion
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27111.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27112.m3u8
-#EXTINF:-1,Sky Atlantic
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27114.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11705.m3u8
-#EXTINF:-1,Sky 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23258.m3u8
-#EXTINF:-1,SKY Arts HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23259.m3u8
-#EXTINF:-1,Sky Krimi
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27109.m3u8
-#EXTINF:-1,Fox
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27136.m3u8
-#EXTINF:-1,Fox HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11718.m3u8
-#EXTINF:-1,TNT Film
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27106.m3u8
-#EXTINF:-1,TNT Film HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11711.m3u8
-#EXTINF:-1,TNT Serie
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27105.m3u8
-#EXTINF:-1,TNT Serie HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11712.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11713.m3u8
-#EXTINF:-1,RTL Nitro
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27117.m3u8
-#EXTINF:-1,RTL Crime HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11723.m3u8
-#EXTINF:-1,RTL Passion HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27097.m3u8
-#EXTINF:-1,13Th Street HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/11719.m3u8
-#EXTINF:-1,13Th Street
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27134.m3u8
-#EXTINF:-1,SyFy
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27107.m3u8
-#EXTINF:-1,SyFy HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27108.m3u8
-#EXTINF:-1,Anixe HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27133.m3u8
-#EXTINF:-1,Anixe Serie HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19756.m3u8
-#EXTINF:-1,TLC
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19760.m3u8
-#EXTINF:-1,Tele 5
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/7931.m3u8
-#EXTINF:-1,Zee One HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19751.m3u8
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/13283
+#EXTINF:-1,DELUXE MUSIC HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56981
+#EXTINF:-1,VH1
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38237
 #EXTINF:-1,A&E
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/2011.m3u8
-#EXTINF:-1,Discovery Channel
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27131.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/377.m3u8
-#EXTINF:-1,Nat Geo HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22434.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22435.m3u8
-#EXTINF:-1,History HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23253.m3u8
-#EXTINF:-1,Planet HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27139.m3u8
-#EXTINF:-1,DMax
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/21101.m3u8
-#EXTINF:-1,Family TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13902.m3u8
-#EXTINF:-1,Romance TV
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27119.m3u8
-#EXTINF:-1,Heimatkanal
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27125.m3u8
-#EXTINF:-1,ElbeKanal
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27128.m3u8
-#EXTINF:-1,E! Entertainment TV
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27129.m3u8
-#EXTINF:-1,DAZN 1 FHD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23271.m3u8
-#EXTINF:-1,DAZN 2 FHD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23270.m3u8
-#EXTINF:-1,DAZN 3 Live
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/29117.m3u8
-#EXTINF:-1,DAZN 4 Live
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/29116.m3u8
-#EXTINF:-1,DAZN 5 Live
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/29115.m3u8
-#EXTINF:-1,DAZN 6 Live
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/29114.m3u8
-#EXTINF:-1,DAZN 7 Live
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/29113.m3u8
-#EXTINF:-1,DAZN 8 Live
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/29112.m3u8
-#EXTINF:-1,EuroSport 1
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/23252.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14143.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14142.m3u8
-#EXTINF:-1,SKY Sport 1
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22432.m3u8
-#EXTINF:-1,SKY Sport 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14150.m3u8
-#EXTINF:-1,SKY Sport 2
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22433.m3u8
-#EXTINF:-1,SKY Sport 2 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14149.m3u8
-#EXTINF:-1,SKY Sport Austria
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22431.m3u8
-#EXTINF:-1,SKY Sport Austria HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14147.m3u8
-#EXTINF:-1,Sky Sport news HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14148.m3u8
-#EXTINF:-1,Sport 1+ HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22430.m3u8
-#EXTINF:-1,Sport Digital HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14144.m3u8
-#EXTINF:-1,FC Bayern TV
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22429.m3u8
-#EXTINF:-1,FC Bayern TV HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19721.m3u8
-#EXTINF:-1,Motorvision
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27122.m3u8
-#EXTINF:-1,Baden Tv
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27145.m3u8
-#EXTINF:-1,SKY BundesLiga 1 HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/14146.m3u8
-#EXTINF:-1,SKY BundesLiga 2 HD (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/365.m3u8
-#EXTINF:-1,SKY BundesLiga 2 (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27137.m3u8
-#EXTINF:-1,SKY BundesLiga 3 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13222.m3u8
-#EXTINF:-1,SKY BundesLiga 3 (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27138.m3u8
-#EXTINF:-1,SKY BundesLiga 4 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13221.m3u8
-#EXTINF:-1,SKY BundesLiga 5 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13220.m3u8
-#EXTINF:-1,SKY BundesLiga 6 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13219.m3u8
-#EXTINF:-1,SKY BundesLiga 7 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13218.m3u8
-#EXTINF:-1,SKY BundesLiga 8 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13217.m3u8
-#EXTINF:-1,SKY BundesLiga 9 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13216.m3u8
-#EXTINF:-1,SKY BundesLiga 10 (HD) (Match Time)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/13215.m3u8
-#EXTINF:-1,EURONEWS
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/384.m3u8
-#EXTINF:-1,Welt (N24)
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27103.m3u8
-#EXTINF:-1,Welt (N24) HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19761.m3u8
-#EXTINF:-1,TOGGO plus HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19758.m3u8
-#EXTINF:-1,Boomerang
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22909.m3u8
-#EXTINF:-1,Disney Channel
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22908.m3u8
-#EXTINF:-1,Disney Junior
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22907.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22436.m3u8
-#EXTINF:-1,Disney Cinemagic
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27130.m3u8
-#EXTINF:-1,Disney XD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22906.m3u8
-#EXTINF:-1,Junior
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22905.m3u8
-#EXTINF:-1,KiKa HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22910.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22911.m3u8
-#EXTINF:-1,Nickelodeon
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27120.m3u8
-#EXTINF:-1,TOGGO plus
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/22912.m3u8
-#EXTINF:-1,Cartoon Network
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/19723.m3u8
-#EXTINF:-1,FILM CLUB HD 1
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27102.m3u8
-#EXTINF:-1,FILM CLUB HD 2
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27101.m3u8
-#EXTINF:-1,FILM CLUB HD 3
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27100.m3u8
-#EXTINF:-1,FILM CLUB HD 4
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27099.m3u8
-#EXTINF:-1,FILM CLUB HD 5
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/27098.m3u8
-#EXTINF:-1,SKY SELECT 1
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/348.m3u8
-#EXTINF:-1,SKY SELECT 2
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/349.m3u8
-#EXTINF:-1,SKY SELECT 3
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/350.m3u8
-#EXTINF:-1,SKY SELECT 4
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/351.m3u8
-#EXTINF:-1,SKY SELECT 5
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/1892.m3u8
-#EXTINF:-1,SKY SELECT 6
-http://live.xtreamhost.top:80/live/Host11059/b48b978871/1893.m3u8
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3708
+#EXTINF:-1,DISCOVERY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/580
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3712
+#EXTINF:-1,HISTORY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3051
+#EXTINF:-1,NATGEO HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8515
+#EXTINF:-1,NAT GEO WILD HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8516
+#EXTINF:-1,TLC HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38228
+#EXTINF:-1,RTL LIVING
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/74430
+#EXTINF:-1,SPIEGEL GESCHICHTE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/569
+#EXTINF:-1,123TV HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56982
+#EXTINF:-1,HSE24 EXTRA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56980
+#EXTINF:-1,HSE24 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56988
+#EXTINF:-1,JUWELO HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56993
+#EXTINF:-1,MDR S-ANHALT HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/57004
+#EXTINF:-1,MDR SACHSEN HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/57003
+#EXTINF:-1,NDR FS HH HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94761
+#EXTINF:-1,NDR FS MV HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94760
+#EXTINF:-1,NDR FS NDS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94759
+#EXTINF:-1,NDR FS SH HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94758
+#EXTINF:-1,NICK+/MTV HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56987
+#EXTINF:-1,NITRO
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38236
+#EXTINF:-1,PEARL.TV HD SHOP
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56991
+#EXTINF:-1,QVC HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56986
+#EXTINF:-1,QVC2 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56985
+#EXTINF:-1,SERVUSTV HD DEUTSCHLAND
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94755
+#EXTINF:-1,RBB BERLIN HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/57001
+#EXTINF:-1,RBB BRANDENBURG HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/57000
+#EXTINF:-1,SONNENKLAR.TV HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56990
+#EXTINF:-1,SWR FERNSEHEN BW
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38242
+#EXTINF:-1,WDR HD AACHEN
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56998
+#EXTINF:-1,WDR HD BONN
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56997
+#EXTINF:-1,WDR HD DUISBURG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56996
+#EXTINF:-1,WDR HD WUPPERTAL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56995
+#EXTINF:-1,BOOMERANG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3709
+#EXTINF:-1,SUPER RTL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/557
+#EXTINF:-1,CARTOON NETWORK
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3710
+#EXTINF:-1,DISNEY CHANNEL HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38234
+#EXTINF:-1,KIKA
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/561
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/571
+#EXTINF:-1,DISNEY JUNIOR HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/572
+#EXTINF:-1,NICK+/MTV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/13282
+#EXTINF:-1,COMEDY CENTRAL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56979
+#EXTINF:-1,N-TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38229
+#EXTINF:-1,N24
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/68308
+#EXTINF:-1,EURONEWS FRENCH
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8521
+#EXTINF:-1,EURONEWS GERMAN
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94739
+#EXTINF:-1,WELT HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/56984
+#EXTINF:-1,SYFY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2576
+#EXTINF:-1,TNT SERIE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2549
+#EXTINF:-1,FOX HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2573
+#EXTINF:-1,13TH STREET HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8517
+#EXTINF:-1,HEIMATKANAL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/567
+#EXTINF:-1,KINOWELT TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3049
+#EXTINF:-1,RTL CRIME HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3718
+#EXTINF:-1,RTL PASSION HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/68300
+#EXTINF:-1,ROMANCE TV
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/49100
+#EXTINF:-1,ZEE ONE
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38227
+#EXTINF:-1,ZEE ONE HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/35994
+#EXTINF:-1,SKY 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38349
+#EXTINF:-1,SKY ATLANTIC
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2574
+#EXTINF:-1,SKY ATLANTIC HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/38233
+#EXTINF:-1,SKY CINEMA +1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/8514
+#EXTINF:-1,SKY CINEMA +24 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/599
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3050
+#EXTINF:-1,SKY CINEMA COMEDY
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/72544
+#EXTINF:-1,SKY CINEMA EMOTION
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/592
+#EXTINF:-1,SKY CINEMA TIERISCH
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/3048
+#EXTINF:-1,SKY CINEMA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/597
+#EXTINF:-1,SKY CINEMA HITS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/590
+#EXTINF:-1,SKY CINEMA NOSTALGIE
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/591
+#EXTINF:-1,SKY CINEMA TIERISCH HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/94754
+#EXTINF:-1,SKY KRIMI
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/594
+#EXTINF:-1,TNT COMEDY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/2575
+#EXTINF:-1,TNT FILM HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/581
+#EXTINF:-1,SKY SELECT
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/42825
+#EXTINF:-1,SKY SELECT 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97842
+#EXTINF:-1,SKY SELECT 2 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/42824
+#EXTINF:-1,SKY SELECT 3 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/42823
+#EXTINF:-1,SKY SELECT 4 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/42822
+#EXTINF:-1,SKY SELECT 5 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/42821
+#EXTINF:-1,SKY SELECT 6 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97838
+#EXTINF:-1,SKY SELECT 7 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97837
+#EXTINF:-1,SKY SELECT 8 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97836
+#EXTINF:-1,SKY SELECT 9 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97835
+#EXTINF:-1,ELIT CINEMA 1 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97326
+#EXTINF:-1,ELIT CINEMA 24 HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97325
+#EXTINF:-1,ELIT CINEMA ACTION HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97324
+#EXTINF:-1,ELIT CINEMA COMEDY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97323
+#EXTINF:-1,ELIT CINEMA DRAMA  HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97322
+#EXTINF:-1,ELIT CINEMA FAMILY HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97321
+#EXTINF:-1,ELIT CINEMA HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97320
+#EXTINF:-1,ELIT CINEMA HITS HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97319
+#EXTINF:-1,TELEKOM - BBL SPORT 1 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97189
+#EXTINF:-1,TELEKOM - BBL SPORT 2 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97188
+#EXTINF:-1,TELEKOM - BBL SPORT 3 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97187
+#EXTINF:-1,TELEKOM - BBL SPORT 4 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97186
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 1 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97185
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 2 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97184
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 3 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97183
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 4 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97182
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 5 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97181
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 6 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97180
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 7 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97179
+#EXTINF:-1,TELEKOM - BUNDESLIGA 3 - 8 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97178
+#EXTINF:-1,TELEKOM - DEL SPORT 1 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97177
+#EXTINF:-1,TELEKOM - DEL SPORT 2 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97176
+#EXTINF:-1,TELEKOM - DEL SPORT 4 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97174
+#EXTINF:-1,TELEKOM - DEL SPORT 5 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97173
+#EXTINF:-1,TELEKOM - DEL SPORT 6 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97172
+#EXTINF:-1,TELEKOM - DEL SPORT 7 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97171
+#EXTINF:-1,TELEKOM - DEL SPORT3 LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97175
+#EXTINF:-1,TELEKOM - FC BAYERN TV FULL HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97170
+#EXTINF:-1,TELEKOM - FC BAYERN TV HD
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97169
+#EXTINF:-1,TELEKOM - FC BAYERN TV SD LOCAL
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97168
+#EXTINF:-1,TELEKOM - SKY SPORT KOMPAKT 1 HD LOCAL NUR SPIEL TAG
+http://line.myott.net:80/nNtdff8cEs/CeSujOqM6Z/97167
