@@ -1,4 +1,58 @@
 #EXTM3U
+#EXTINF:-1,AL MAJD
+http://voxtv.dynns.com:8000/arabic/arabic/880
+#EXTINF:-1,AL MAGHRIBYA
+http://voxtv.dynns.com:8000/live/arabic/arabic/879.m3u8
+#EXTINF:-1,AL JAZEERA DOC
+http://voxtv.dynns.com:8000/live/arabic/arabic/878.m3u8
+#EXTINF:-1,AL IKHBARIA SYRIA
+http://voxtv.dynns.com:8000/live/arabic/arabic/887.m3u8
+#EXTINF:-1,AL HADATH
+http://voxtv.dynns.com:8000/live/arabic/arabic/874.m3u8
+#EXTINF:-1,AL ARABIYA
+http://voxtv.dynns.com:8000/live/arabic/arabic/873.m3u8
+#EXTINF:-1,AL AAN TV
+http://voxtv.dynns.com:8000/live/arabic/arabic/885.m3u8
+#EXTINF:-1,AGHANINA TV
+http://voxtv.dynns.com:8000/live/arabic/arabic/872.m3u8
+#EXTINF:-1,AGHANI TV
+http://voxtv.dynns.com:8000/live/arabic/arabic/871.m3u8
+#EXTINF:-1,ABU DHABI DARAMA
+http://voxtv.dynns.com:8000/live/arabic/arabic/870.m3u8
+#EXTINF:-1,AR ZEE ALWAN
+http://voxtv.dynns.com:8000/live/arabic/arabic/1009.m3u8
+#EXTINF:-1,MBC 3
+http://voxtv.dynns.com:8000/live/arabic/arabic/1012.m3u8
+#EXTINF:-1,OSN YAHALA HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/968.m3u8
+#EXTINF:-1,OSN YAHALA DRAMA HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/967.m3u8
+#EXTINF:-1,OSN ON DEMAND EXTRA 2 HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/966.m3u8
+#EXTINF:-1,OSN ON DEMAND EXTRA 1 HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/965.m3u8
+#EXTINF:-1,OSN MOVIES PREMIERE
+http://voxtv.dynns.com:8000/live/arabic/arabic/964.m3u8
+#EXTINF:-1,OSN MOVIES HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/946.m3u8
+#EXTINF:-1,AR OSN MOVIES FESTIVAL
+http://voxtv.dynns.com:8000/live/arabic/arabic/963.m3u8
+#EXTINF:-1,OSN MOVIES DRAMA
+http://voxtv.dynns.com:8000/live/arabic/arabic/962.m3u8
+#EXTINF:-1,OSN MOVIES COMEDY
+http://voxtv.dynns.com:8000/live/arabic/arabic/961.m3u8
+#EXTINF:-1,OSN MOVIES ACTION
+http://voxtv.dynns.com:8000/live/arabic/arabic/960.m3u8
+#EXTINF:-1,OSN MOVIE ACTION +2
+http://voxtv.dynns.com:8000/live/arabic/arabic/959.m3u8
+#EXTINF:-1,OSN FIRST COMEDY +2 HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/958.m3u8
+#EXTINF:-1,OSN BOX OFFICE 3 HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/957.m3u8
+#EXTINF:-1,OSN BOX OFFICE 2 HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/956.m3u8
+#EXTINF:-1,OSN BOX OFFICE 1 HD
+http://voxtv.dynns.com:8000/live/arabic/arabic/955.m3u8
 #EXTINF:-1,ZEE AFLAM
 http://voxtv.dynns.com:8000/live/arabic/arabic/1000.m3u8
 #EXTINF:-1,UNIVERSAL TV
@@ -41,56 +95,6 @@ http://voxtv.dynns.com:8000/live/arabic/arabic/981.m3u8
 http://voxtv.dynns.com:8000/live/arabic/arabic/980.m3u8
 #EXTINF:-1,RTD DJIBOUTI
 http://voxtv.dynns.com:8000/live/arabic/arabic/979.m3u8
-#EXTINF:-1,ROTANA MUSIC
-http://voxtv.dynns.com:8000/live/arabic/arabic/978.m3u8
-#EXTINF:-1,ROTANA MASSRIA
-http://voxtv.dynns.com:8000/live/arabic/arabic/977.m3u8
-#EXTINF:-1,ROTANA KHALIJIA
-http://voxtv.dynns.com:8000/live/arabic/arabic/976.m3u8
-#EXTINF:-1,ROTANA CLIP
-http://voxtv.dynns.com:8000/live/arabic/arabic/975.m3u8
-#EXTINF:-1,ROTANA CLASSIC
-http://voxtv.dynns.com:8000/live/arabic/arabic/974.m3u8
-#EXTINF:-1,ROTANA CINEMAA
-http://voxtv.dynns.com:8000/live/arabic/arabic/973.m3u8
-#EXTINF:-1,PANORAMA FOOD
-http://voxtv.dynns.com:8000/live/arabic/arabic/972.m3u8
-#EXTINF:-1,PANORAMA DRAMA 2
-http://voxtv.dynns.com:8000/live/arabic/arabic/971.m3u8
-#EXTINF:-1,PANORAMA DRAMA
-http://voxtv.dynns.com:8000/live/arabic/arabic/970.m3u8
-#EXTINF:-1,PANORAMA COMEDY
-http://voxtv.dynns.com:8000/live/arabic/arabic/969.m3u8
-#EXTINF:-1,OSN YAHALA HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/968.m3u8
-#EXTINF:-1,OSN YAHALA DRAMA HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/967.m3u8
-#EXTINF:-1,OSN ON DEMAND EXTRA 2 HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/966.m3u8
-#EXTINF:-1,OSN ON DEMAND EXTRA 1 HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/965.m3u8
-#EXTINF:-1,OSN MOVIES PREMIERE
-http://voxtv.dynns.com:8000/live/arabic/arabic/964.m3u8
-#EXTINF:-1,OSN MOVIES HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/946.m3u8
-#EXTINF:-1,AR OSN MOVIES FESTIVAL
-http://voxtv.dynns.com:8000/live/arabic/arabic/963.m3u8
-#EXTINF:-1,OSN MOVIES DRAMA
-http://voxtv.dynns.com:8000/live/arabic/arabic/962.m3u8
-#EXTINF:-1,OSN MOVIES COMEDY
-http://voxtv.dynns.com:8000/live/arabic/arabic/961.m3u8
-#EXTINF:-1,OSN MOVIES ACTION
-http://voxtv.dynns.com:8000/live/arabic/arabic/960.m3u8
-#EXTINF:-1,OSN MOVIE ACTION +2
-http://voxtv.dynns.com:8000/live/arabic/arabic/959.m3u8
-#EXTINF:-1,OSN FIRST COMEDY +2 HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/958.m3u8
-#EXTINF:-1,OSN BOX OFFICE 3 HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/957.m3u8
-#EXTINF:-1,OSN BOX OFFICE 2 HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/956.m3u8
-#EXTINF:-1,OSN BOX OFFICE 1 HD
-http://voxtv.dynns.com:8000/live/arabic/arabic/955.m3u8
 #EXTINF:-1,OMAN TV
 http://voxtv.dynns.com:8000/live/arabic/arabic/954.m3u8
 #EXTINF:-1,NILE SPORT
@@ -229,27 +233,23 @@ http://voxtv.dynns.com:8000/live/arabic/arabic/883.m3u8
 http://voxtv.dynns.com:8000/live/arabic/arabic/882.m3u8
 #EXTINF:-1,AL OLAULA
 http://voxtv.dynns.com:8000/live/arabic/arabic/881.m3u8
-#EXTINF:-1,AL MAJD
-http://voxtv.dynns.com:8000/live/arabic/arabic/880.m3u8
-#EXTINF:-1,AL MAGHRIBYA
-http://voxtv.dynns.com:8000/live/arabic/arabic/879.m3u8
-#EXTINF:-1,AL JAZEERA DOC
-http://voxtv.dynns.com:8000/live/arabic/arabic/878.m3u8
-#EXTINF:-1,AL IKHBARIA SYRIA
-http://voxtv.dynns.com:8000/live/arabic/arabic/887.m3u8
-#EXTINF:-1,AL HADATH
-http://voxtv.dynns.com:8000/live/arabic/arabic/874.m3u8
-#EXTINF:-1,AL ARABIYA
-http://voxtv.dynns.com:8000/live/arabic/arabic/873.m3u8
-#EXTINF:-1,AL AAN TV
-http://voxtv.dynns.com:8000/live/arabic/arabic/885.m3u8
-#EXTINF:-1,AGHANINA TV
-http://voxtv.dynns.com:8000/live/arabic/arabic/872.m3u8
-#EXTINF:-1,AGHANI TV
-http://voxtv.dynns.com:8000/live/arabic/arabic/871.m3u8
-#EXTINF:-1,ABU DHABI DARAMA
-http://voxtv.dynns.com:8000/live/arabic/arabic/870.m3u8
-#EXTINF:-1,AR ZEE ALWAN
-http://voxtv.dynns.com:8000/live/arabic/arabic/1009.m3u8
-#EXTINF:-1,MBC 3
-http://voxtv.dynns.com:8000/live/arabic/arabic/1012.m3u8
+#EXTINF:-1,ROTANA MUSIC
+http://voxtv.dynns.com:8000/arabic/arabic/978
+#EXTINF:-1,ROTANA MASSRIA
+http://voxtv.dynns.com:8000/live/arabic/arabic/977.m3u8
+#EXTINF:-1,ROTANA KHALIJIA
+http://voxtv.dynns.com:8000/live/arabic/arabic/976.m3u8
+#EXTINF:-1,ROTANA CLIP
+http://voxtv.dynns.com:8000/live/arabic/arabic/975.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+http://voxtv.dynns.com:8000/live/arabic/arabic/974.m3u8
+#EXTINF:-1,ROTANA CINEMAA
+http://voxtv.dynns.com:8000/live/arabic/arabic/973.m3u8
+#EXTINF:-1,PANORAMA FOOD
+http://voxtv.dynns.com:8000/live/arabic/arabic/972.m3u8
+#EXTINF:-1,PANORAMA DRAMA 2
+http://voxtv.dynns.com:8000/live/arabic/arabic/971.m3u8
+#EXTINF:-1,PANORAMA DRAMA
+http://voxtv.dynns.com:8000/live/arabic/arabic/970.m3u8
+#EXTINF:-1,PANORAMA COMEDY
+http://voxtv.dynns.com:8000/live/arabic/arabic/969.m3u8
