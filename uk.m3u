@@ -1,230 +1,517 @@
-#EXTINF:-1,NEWS | BLOOMBERG TV UK
-http://shacktv.com:8080/Chuck1/Chuck123/105037
-#EXTINF:-1,NEWS | RT UK
-http://shacktv.com:8080/Chuck1/Chuck123/105036
-#EXTINF:-1,PPV UK BOXING LIVE
-http://shacktv.com:8080/Chuck1/Chuck123/61064
-#EXTINF:-1,&TV HD
-http://shacktv.com:8080/Chuck1/Chuck123/21726
-#EXTINF:-1,ALIBI HD
-http://shacktv.com:8080/Chuck1/Chuck123/21775
+#EXTM3U
+#EXTINF:-1,2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119922
+#EXTINF:-1,4 MUSIC HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119921
+#EXTINF:-1,5 SPIKE
+http://live.eurovipserver.com:1453/Halil/Akdogan/119919
+#EXTINF:-1,5 Star
+http://live.eurovipserver.com:1453/Halil/Akdogan/119918
+#EXTINF:-1,5 USA
+http://live.eurovipserver.com:1453/Halil/Akdogan/119917
+#EXTINF:-1,92 NEWS
+http://live.eurovipserver.com:1453/Halil/Akdogan/119916
+#EXTINF:-1,ABC News HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119915
+#EXTINF:-1,ABN TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119914
+#EXTINF:-1,Alibi HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119913
+#EXTINF:-1,ALJAZEERA HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119912
 #EXTINF:-1,AMC HD
-http://shacktv.com:8080/Chuck1/Chuck123/21684
-#EXTINF:-1,ANIMAL PLANET FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21676
+http://live.eurovipserver.com:1453/Halil/Akdogan/119911
+#EXTINF:-1,ANIMAL PLANET HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119910
+#EXTINF:-1,Baby TV HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119909
 #EXTINF:-1,BBC 1 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21772
-#EXTINF:-1,BBC 1 NORTHERN IRELAND HD
-http://shacktv.com:8080/Chuck1/Chuck123/21727
+http://live.eurovipserver.com:1453/Halil/Akdogan/119908
 #EXTINF:-1,BBC 2 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21771
-#EXTINF:-1,BBC 3 / CBBC HD
-http://shacktv.com:8080/Chuck1/Chuck123/21770
+http://live.eurovipserver.com:1453/Halil/Akdogan/119906
+#EXTINF:-1,BBC 3 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119905
 #EXTINF:-1,BBC 4 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21769
-#EXTINF:-1,BBC CBBC HD
-http://shacktv.com:8080/Chuck1/Chuck123/21773
-#EXTINF:-1,BBC NEWS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21767
-#EXTINF:-1,BBC ONE SCOTLAND HD
-http://shacktv.com:8080/Chuck1/Chuck123/21725
-#EXTINF:-1,BBC RED BUTTON 1 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21694
-#EXTINF:-1,BBC RED BUTTON 2 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21693
-#EXTINF:-1,BBC RED BUTTON 8 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21687
-#EXTINF:-1,BLOOMBERG HD
-http://shacktv.com:8080/Chuck1/Chuck123/21782
-#EXTINF:-1,BOXNATION HD
-http://shacktv.com:8080/Chuck1/Chuck123/21700
-#EXTINF:-1,BT SPORTS 1 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21821
-#EXTINF:-1,BT SPORTS 2 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21820
-#EXTINF:-1,BT SPORTS 3 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21819
-#EXTINF:-1,BT SPORTS ESPN HD
-http://shacktv.com:8080/Chuck1/Chuck123/21818
-#EXTINF:-1,BT SPORTS EXTRA 3
-http://shacktv.com:8080/Chuck1/Chuck123/21815
-#EXTINF:-1,BT SPORTS EXTRA 4
-http://shacktv.com:8080/Chuck1/Chuck123/21814
-#EXTINF:-1,BT SPORTS FHD 1
-http://shacktv.com:8080/Chuck1/Chuck123/21812
-#EXTINF:-1,BT SPORTS FHD 2
-http://shacktv.com:8080/Chuck1/Chuck123/21811
-#EXTINF:-1,BT SPORTS FHD 3
-http://shacktv.com:8080/Chuck1/Chuck123/21810
-#EXTINF:-1,CARTOON NETWORK HD
-http://shacktv.com:8080/Chuck1/Chuck123/21766
-#EXTINF:-1,CBEEBIES HD
-http://shacktv.com:8080/Chuck1/Chuck123/21768
-#EXTINF:-1,CHANNEL 4 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21765
-#EXTINF:-1,CHANNEL 5 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21764
+http://live.eurovipserver.com:1453/Halil/Akdogan/119904
+#EXTINF:-1,BBC Alba HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119903
+#EXTINF:-1,BBC Brit
+http://live.eurovipserver.com:1453/Halil/Akdogan/119902
+#EXTINF:-1,BBC Earth
+http://live.eurovipserver.com:1453/Halil/Akdogan/119901
+#EXTINF:-1,BBC Entertainment HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119900
+#EXTINF:-1,BBC Parliament
+http://live.eurovipserver.com:1453/Halil/Akdogan/119899
+#EXTINF:-1,BBC Red Button
+http://live.eurovipserver.com:1453/Halil/Akdogan/119898
+#EXTINF:-1,BBC TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119897
+#EXTINF:-1,BET HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119896
+#EXTINF:-1,Blaze HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119895
+#EXTINF:-1,Bloomberg HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119894
+#EXTINF:-1,BOOMERANG HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119893
+#EXTINF:-1,BOX HITS HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119892
+#EXTINF:-1,BOX NATION FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119891
+#EXTINF:-1,BOX OFFICE 1 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119890
+#EXTINF:-1,BOX OFFICE 2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119889
+#EXTINF:-1,BOX OFFICE 3 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119888
+#EXTINF:-1,BOX OFFICE 4 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119887
+#EXTINF:-1,BOX OFFICE 5 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119886
+#EXTINF:-1,BOX OFFICE 6 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119885
+#EXTINF:-1,BOX OFFICE 7 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119884
+#EXTINF:-1,BOX OFFICE 8 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119883
+#EXTINF:-1,BOX OFFICE 9 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119882
+#EXTINF:-1,Bravo FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119881
+#EXTINF:-1,British Muslim
+http://live.eurovipserver.com:1453/Halil/Akdogan/119880
+#EXTINF:-1,BT Sport 1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119879
+#EXTINF:-1,BT Sport 1 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119878
+#EXTINF:-1,BT Sport 2
+http://live.eurovipserver.com:1453/Halil/Akdogan/119877
+#EXTINF:-1,BT Sport 2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119876
+#EXTINF:-1,BT Sport 3 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119875
+#EXTINF:-1,BT Sport ESPN FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119874
+#EXTINF:-1,BT Sport Extra 1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119873
+#EXTINF:-1,BT Sport Extra 2
+http://live.eurovipserver.com:1453/Halil/Akdogan/119872
+#EXTINF:-1,BT Sport Extra 3
+http://live.eurovipserver.com:1453/Halil/Akdogan/119871
+#EXTINF:-1,BT Sport Extra 4
+http://live.eurovipserver.com:1453/Halil/Akdogan/119870
+#EXTINF:-1,BT Sport Extra 5
+http://live.eurovipserver.com:1453/Halil/Akdogan/119869
+#EXTINF:-1,C ITV HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119868
+#EXTINF:-1,CARTOON NETWORK FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119867
+#EXTINF:-1,Cartoonito HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119866
+#EXTINF:-1,CBBC HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119865
+#EXTINF:-1,CBS Action HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119863
+#EXTINF:-1,CBS Drama
+http://live.eurovipserver.com:1453/Halil/Akdogan/119862
+#EXTINF:-1,CBS justice
+http://live.eurovipserver.com:1453/Halil/Akdogan/119861
+#EXTINF:-1,CBS Reality
+http://live.eurovipserver.com:1453/Halil/Akdogan/119860
+#EXTINF:-1,CGTN News
+http://live.eurovipserver.com:1453/Halil/Akdogan/119859
+#EXTINF:-1,Challenge HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119858
+#EXTINF:-1,CHANNEL 4 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119857
+#EXTINF:-1,CHANNEL 5 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119856
+#EXTINF:-1,CHART SHOW TV HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119854
 #EXTINF:-1,CHELSEA TV HD
-http://shacktv.com:8080/Chuck1/Chuck123/21776
-#EXTINF:-1,CNN HD
-http://shacktv.com:8080/Chuck1/Chuck123/21763
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21682
-#EXTINF:-1,DISCOVERY FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21681
-#EXTINF:-1,DISCOVERY HD
-http://shacktv.com:8080/Chuck1/Chuck123/21760
+http://live.eurovipserver.com:1453/Halil/Akdogan/119853
+#EXTINF:-1,Clubland TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119851
+#EXTINF:-1,CNBC
+http://live.eurovipserver.com:1453/Halil/Akdogan/119850
+#EXTINF:-1,CNN News
+http://live.eurovipserver.com:1453/Halil/Akdogan/119849
+#EXTINF:-1,COMEDY CENTRAL HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119848
+#EXTINF:-1,Crime & Investigation FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119847
+#EXTINF:-1,Culao 4
+http://live.eurovipserver.com:1453/Halil/Akdogan/119846
+#EXTINF:-1,DAVE FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119845
+#EXTINF:-1,Discovery Channel HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119844
+#EXTINF:-1,Discovery H&H
+http://live.eurovipserver.com:1453/Halil/Akdogan/119843
+#EXTINF:-1,Discovery HISTORY CHANNEL HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119842
+#EXTINF:-1,Discovery SCIENCE HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119841
+#EXTINF:-1,Discovery Shed HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119840
+#EXTINF:-1,Discovery TURBO HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119839
 #EXTINF:-1,DISNEY CHANNEL HD
-http://shacktv.com:8080/Chuck1/Chuck123/21780
+http://live.eurovipserver.com:1453/Halil/Akdogan/119838
 #EXTINF:-1,DISNEY JUNIOR HD
-http://shacktv.com:8080/Chuck1/Chuck123/21697
+http://live.eurovipserver.com:1453/Halil/Akdogan/119837
 #EXTINF:-1,DISNEY XD HD
-http://shacktv.com:8080/Chuck1/Chuck123/21698
+http://live.eurovipserver.com:1453/Halil/Akdogan/119836
+#EXTINF:-1,DMAX HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119835
+#EXTINF:-1,Drama
+http://live.eurovipserver.com:1453/Halil/Akdogan/119834
+#EXTINF:-1,E! HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119833
 #EXTINF:-1,E4 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21759
-#EXTINF:-1,EUROSPORTS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21731
-#EXTINF:-1,EUROSPORTS HD 2
-http://shacktv.com:8080/Chuck1/Chuck123/21730
-#EXTINF:-1,FILM 4 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21757
-#EXTINF:-1,FOX HD
-http://shacktv.com:8080/Chuck1/Chuck123/21756
-#EXTINF:-1,HISTORY FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21673
-#EXTINF:-1,ITV BE HD
-http://shacktv.com:8080/Chuck1/Chuck123/21753
-#EXTINF:-1,ITV HD 1
-http://shacktv.com:8080/Chuck1/Chuck123/21752
-#EXTINF:-1,ITV HD 2
-http://shacktv.com:8080/Chuck1/Chuck123/21751
-#EXTINF:-1,ITV HD 3
-http://shacktv.com:8080/Chuck1/Chuck123/21750
-#EXTINF:-1,ITV HD 4
-http://shacktv.com:8080/Chuck1/Chuck123/21749
-#EXTINF:-1,ITV London HD
-http://shacktv.com:8080/Chuck1/Chuck123/21723
-#EXTINF:-1,LIFETIME HD
-http://shacktv.com:8080/Chuck1/Chuck123/21748
-#EXTINF:-1,MORE 4 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21747
+http://live.eurovipserver.com:1453/Halil/Akdogan/119832
+#EXTINF:-1,Eden
+http://live.eurovipserver.com:1453/Halil/Akdogan/119831
+#EXTINF:-1,EIR SPORTS 1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119830
+#EXTINF:-1,EIR SPORTS 2
+http://live.eurovipserver.com:1453/Halil/Akdogan/119829
+#EXTINF:-1,EIR SPORTS 2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119828
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119827
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119826
+#EXTINF:-1,ESPN
+http://live.eurovipserver.com:1453/Halil/Akdogan/119825
+#EXTINF:-1,euronews HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119824
+#EXTINF:-1,EUROSPORT 1 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119823
+#EXTINF:-1,EUROSPORT 2 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119822
+#EXTINF:-1,Fightbox HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119821
+#EXTINF:-1,Film 4  1 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119820
+#EXTINF:-1,Film 4 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119819
+#EXTINF:-1,Fine Living Network
+http://live.eurovipserver.com:1453/Halil/Akdogan/119818
+#EXTINF:-1,Food Network
+http://live.eurovipserver.com:1453/Halil/Akdogan/119817
+#EXTINF:-1,Forces TV HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119816
+#EXTINF:-1,FOX FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119815
+#EXTINF:-1,Fox News HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119814
+#EXTINF:-1,FRANCE 24
+http://live.eurovipserver.com:1453/Halil/Akdogan/119813
+#EXTINF:-1,Free Sports TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119812
+#EXTINF:-1,GOLD FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119810
+#EXTINF:-1,GOOD FOOD HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119809
+#EXTINF:-1,h&h
+http://live.eurovipserver.com:1453/Halil/Akdogan/119808
+#EXTINF:-1,H2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119807
+#EXTINF:-1,HBO Comedy HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119805
+#EXTINF:-1,HBO HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119804
+#EXTINF:-1,High Street TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119803
+#EXTINF:-1,Hillsong
+http://live.eurovipserver.com:1453/Halil/Akdogan/119802
+#EXTINF:-1,HISTORY CHANNEL HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119801
+#EXTINF:-1,HORROR CHANNEL
+http://live.eurovipserver.com:1453/Halil/Akdogan/119799
+#EXTINF:-1,Horse Country
+http://live.eurovipserver.com:1453/Halil/Akdogan/119798
+#EXTINF:-1,HUM Masala
+http://live.eurovipserver.com:1453/Halil/Akdogan/119796
+#EXTINF:-1,ID
+http://live.eurovipserver.com:1453/Halil/Akdogan/119795
+#EXTINF:-1,Ideal World
+http://live.eurovipserver.com:1453/Halil/Akdogan/119793
+#EXTINF:-1,Investigation Discovery FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119792
+#EXTINF:-1,ISLAM CHANNEL
+http://live.eurovipserver.com:1453/Halil/Akdogan/119791
+#EXTINF:-1,ITV 1 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119790
+#EXTINF:-1,ITV 2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119789
+#EXTINF:-1,ITV 3 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119788
+#EXTINF:-1,ITV 4 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119787
+#EXTINF:-1,ITV Be FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119786
+#EXTINF:-1,Keep It Country TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119785
+#EXTINF:-1,Kerrang
+http://live.eurovipserver.com:1453/Halil/Akdogan/119784
+#EXTINF:-1,KISS
+http://live.eurovipserver.com:1453/Halil/Akdogan/119783
+#EXTINF:-1,LFC TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119781
+#EXTINF:-1,Lifetime HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119780
+#EXTINF:-1,Little be HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119779
+#EXTINF:-1,Living
+http://live.eurovipserver.com:1453/Halil/Akdogan/119778
+#EXTINF:-1,London Live
+http://live.eurovipserver.com:1453/Halil/Akdogan/119777
+#EXTINF:-1,Magic TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119776
+#EXTINF:-1,Manchester United TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119775
+#EXTINF:-1,More 4 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119774
+#EXTINF:-1,MOVIES 24
+http://live.eurovipserver.com:1453/Halil/Akdogan/119771
+#EXTINF:-1,MOVIES 4 MEN
+http://live.eurovipserver.com:1453/Halil/Akdogan/119772
+#EXTINF:-1,MTV Base HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119769
+#EXTINF:-1,MTV Classic HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119768
+#EXTINF:-1,MTV Club
+http://live.eurovipserver.com:1453/Halil/Akdogan/119767
+#EXTINF:-1,MTV Dance
+http://live.eurovipserver.com:1453/Halil/Akdogan/119766
+#EXTINF:-1,MTV HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119765
+#EXTINF:-1,MTV Hits
+http://live.eurovipserver.com:1453/Halil/Akdogan/119764
+#EXTINF:-1,MTV Live FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119763
+#EXTINF:-1,MTV Music HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119762
+#EXTINF:-1,MTV OMG HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119761
+#EXTINF:-1,MTV ONE
+http://live.eurovipserver.com:1453/Halil/Akdogan/119760
+#EXTINF:-1,MTV Rocks HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119759
 #EXTINF:-1,MUTV HD
-http://shacktv.com:8080/Chuck1/Chuck123/21777
-#EXTINF:-1,NAT GEO HD
-http://shacktv.com:8080/Chuck1/Chuck123/21744
+http://live.eurovipserver.com:1453/Halil/Akdogan/119758
+#EXTINF:-1,My TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119757
+#EXTINF:-1,My5
+http://live.eurovipserver.com:1453/Halil/Akdogan/119756
+#EXTINF:-1,NAT GEO
+http://live.eurovipserver.com:1453/Halil/Akdogan/119755
 #EXTINF:-1,NAT GEO WILD HD
-http://shacktv.com:8080/Chuck1/Chuck123/21743
-#EXTINF:-1,NICK HD
-http://shacktv.com:8080/Chuck1/Chuck123/21742
+http://live.eurovipserver.com:1453/Halil/Akdogan/119754
+#EXTINF:-1,Nick Junior TOO
+http://live.eurovipserver.com:1453/Halil/Akdogan/119752
+#EXTINF:-1,Nick Toons HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119751
+#EXTINF:-1,Nickelodeon
+http://live.eurovipserver.com:1453/Halil/Akdogan/119750
+#EXTINF:-1,PBS America
+http://live.eurovipserver.com:1453/Halil/Akdogan/119749
+#EXTINF:-1,Pick TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119748
+#EXTINF:-1,Pop Max
+http://live.eurovipserver.com:1453/Halil/Akdogan/119747
+#EXTINF:-1,POP TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119746
+#EXTINF:-1,PTC Punjabi
+http://live.eurovipserver.com:1453/Halil/Akdogan/119745
+#EXTINF:-1,QUEST
+http://live.eurovipserver.com:1453/Halil/Akdogan/119744
+#EXTINF:-1,Quest Red
+http://live.eurovipserver.com:1453/Halil/Akdogan/119743
+#EXTINF:-1,QVC Beauty HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119742
+#EXTINF:-1,QVC Style
+http://live.eurovipserver.com:1453/Halil/Akdogan/119741
+#EXTINF:-1,Racing HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119740
 #EXTINF:-1,RACING UK HD
-http://shacktv.com:8080/Chuck1/Chuck123/21729
-#EXTINF:-1,RTE ONE HD
-http://shacktv.com:8080/Chuck1/Chuck123/21779
-#EXTINF:-1,RTE TWO  HD
-http://shacktv.com:8080/Chuck1/Chuck123/21778
-#EXTINF:-1,SKY ARTS FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21679
-#EXTINF:-1,SKY ARTS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21696
+http://live.eurovipserver.com:1453/Halil/Akdogan/119739
+#EXTINF:-1,REAL LIVES
+http://live.eurovipserver.com:1453/Halil/Akdogan/119738
+#EXTINF:-1,Really
+http://live.eurovipserver.com:1453/Halil/Akdogan/119737
+#EXTINF:-1,Revelation
+http://live.eurovipserver.com:1453/Halil/Akdogan/119736
+#EXTINF:-1,RISHTEY EUROPE
+http://live.eurovipserver.com:1453/Halil/Akdogan/119735
+#EXTINF:-1,ROK TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119734
+#EXTINF:-1,RTE 1 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119733
+#EXTINF:-1,RTE 2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119732
+#EXTINF:-1,RTE Junior
+http://live.eurovipserver.com:1453/Halil/Akdogan/119731
+#EXTINF:-1,RTE NEWS
+http://live.eurovipserver.com:1453/Halil/Akdogan/119730
+#EXTINF:-1,RTE ONE
+http://live.eurovipserver.com:1453/Halil/Akdogan/119729
+#EXTINF:-1,S4C
+http://live.eurovipserver.com:1453/Halil/Akdogan/119728
+#EXTINF:-1,SAB TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119727
+#EXTINF:-1,Setanta Sports
+http://live.eurovipserver.com:1453/Halil/Akdogan/119726
+#EXTINF:-1,Sky 1 FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119725
+#EXTINF:-1,Sky 2 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119724
+#EXTINF:-1,SKY ARTS 1 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119723
+#EXTINF:-1,Sky Arts HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119722
 #EXTINF:-1,Sky Atlantic HD
-http://shacktv.com:8080/Chuck1/Chuck123/21783
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://shacktv.com:8080/Chuck1/Chuck123/21809
-#EXTINF:-1,SKY CINEMA ACTION MEN FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21713
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21712
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://shacktv.com:8080/Chuck1/Chuck123/21808
-#EXTINF:-1,SKY CINEMA DISNEY FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21711
-#EXTINF:-1,SKY CINEMA DISNEY HD
-http://shacktv.com:8080/Chuck1/Chuck123/21807
-#EXTINF:-1,SKY CINEMA DRAMA FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21710
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://shacktv.com:8080/Chuck1/Chuck123/21806
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21709
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://shacktv.com:8080/Chuck1/Chuck123/21805
-#EXTINF:-1,SKY CINEMA GREATS FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21708
-#EXTINF:-1,SKY CINEMA GREATS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21799
-#EXTINF:-1,SKY CINEMA HEROES HD
-http://shacktv.com:8080/Chuck1/Chuck123/21804
-#EXTINF:-1,SKY CINEMA HITS FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21707
-#EXTINF:-1,SKY CINEMA HITS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21803
-#EXTINF:-1,SKY CINEMA PREMIER FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21706
-#EXTINF:-1,SKY CINEMA PREMIERE HD
-http://shacktv.com:8080/Chuck1/Chuck123/21802
-#EXTINF:-1,SKY CINEMA SCI-FI HORROR FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21705
-#EXTINF:-1,SKY CINEMA SCI-FI HORROR HD
-http://shacktv.com:8080/Chuck1/Chuck123/21801
-#EXTINF:-1,SKY CINEMA THRILLER FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21703
-#EXTINF:-1,SKY CINEMA THRILLER HD
-http://shacktv.com:8080/Chuck1/Chuck123/21798
-#EXTINF:-1,SKY LIVING HD
-http://shacktv.com:8080/Chuck1/Chuck123/21740
-#EXTINF:-1,SKY NEWS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21739
-#EXTINF:-1,SKY ONE HD
-http://shacktv.com:8080/Chuck1/Chuck123/21741
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://shacktv.com:8080/Chuck1/Chuck123/21795
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://shacktv.com:8080/Chuck1/Chuck123/21716
-#EXTINF:-1,SKY SPORTS CRICKET HD
-http://shacktv.com:8080/Chuck1/Chuck123/21796
-#EXTINF:-1,SKY SPORTS CRICKET SD
-http://shacktv.com:8080/Chuck1/Chuck123/21715
-#EXTINF:-1,SKY SPORTS F1 HD
-http://shacktv.com:8080/Chuck1/Chuck123/21792
-#EXTINF:-1,SKY SPORTS FHD ACTION
-http://shacktv.com:8080/Chuck1/Chuck123/21789
-#EXTINF:-1,SKY SPORTS FHD ARENA
-http://shacktv.com:8080/Chuck1/Chuck123/21718
-#EXTINF:-1,SKY SPORTS FHD CRICKET
-http://shacktv.com:8080/Chuck1/Chuck123/21790
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21786
-#EXTINF:-1,SKY SPORTS FHD FOOTBALL
-http://shacktv.com:8080/Chuck1/Chuck123/21717
-#EXTINF:-1,SKY SPORTS FHD GOLF
-http://shacktv.com:8080/Chuck1/Chuck123/21788
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21791
-#EXTINF:-1,SKY SPORTS FHD PREMIER LEAGUE
-http://shacktv.com:8080/Chuck1/Chuck123/21787
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://shacktv.com:8080/Chuck1/Chuck123/21714
-#EXTINF:-1,SKY SPORTS GOLF HD
-http://shacktv.com:8080/Chuck1/Chuck123/21794
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://shacktv.com:8080/Chuck1/Chuck123/21797
-#EXTINF:-1,SKY SPORTS MIX HD
-http://shacktv.com:8080/Chuck1/Chuck123/21785
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://shacktv.com:8080/Chuck1/Chuck123/21784
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://shacktv.com:8080/Chuck1/Chuck123/21793
-#EXTINF:-1,SYFY HD
-http://shacktv.com:8080/Chuck1/Chuck123/21738
+http://live.eurovipserver.com:1453/Halil/Akdogan/119721
+#EXTINF:-1,SKY CIENMA ACTION HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119719
+#EXTINF:-1,SKY CIENMA COMEDY HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119718
+#EXTINF:-1,SKY CIENMA Family HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119717
+#EXTINF:-1,SKY CIENMA HITS HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119715
+#EXTINF:-1,SKY CIENMA PREMIER HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119714
+#EXTINF:-1,SKY CIENMA SELECT HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119713
+#EXTINF:-1,Sky Cinema Action HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119712
+#EXTINF:-1,Sky Cinema Box Office 1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119711
+#EXTINF:-1,Sky Cinema Box Office 2
+http://live.eurovipserver.com:1453/Halil/Akdogan/119710
+#EXTINF:-1,Sky Cinema Box Office 3
+http://live.eurovipserver.com:1453/Halil/Akdogan/119709
+#EXTINF:-1,Sky Cinema Box Office 4
+http://live.eurovipserver.com:1453/Halil/Akdogan/119708
+#EXTINF:-1,Sky Cinema Comedy HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119707
+#EXTINF:-1,Sky Cinema Crime & Thriller FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119706
+#EXTINF:-1,Sky Cinema Disney
+http://live.eurovipserver.com:1453/Halil/Akdogan/119705
+#EXTINF:-1,Sky Cinema Drama
+http://live.eurovipserver.com:1453/Halil/Akdogan/119704
+#EXTINF:-1,Sky Cinema Drama & Romance FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119703
+#EXTINF:-1,Sky Cinema Family HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119702
+#EXTINF:-1,Sky Cinema Modern Greats
+http://live.eurovipserver.com:1453/Halil/Akdogan/119700
+#EXTINF:-1,Sky Cinema Premier FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119699
+#EXTINF:-1,Sky Cinema Premiere HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119698
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119697
+#EXTINF:-1,Sky Cinema Select FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119696
+#EXTINF:-1,Sky Cinema Showcase HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119695
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119694
+#EXTINF:-1,SKY LIVING FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119693
+#EXTINF:-1,Sky Living UK
+http://live.eurovipserver.com:1453/Halil/Akdogan/119692
+#EXTINF:-1,Sky News HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119691
+#EXTINF:-1,Sky One
+http://live.eurovipserver.com:1453/Halil/Akdogan/119690
+#EXTINF:-1,Sky Sports 1 Main Events
+http://live.eurovipserver.com:1453/Halil/Akdogan/119689
+#EXTINF:-1,Sky Sports Action
+http://live.eurovipserver.com:1453/Halil/Akdogan/119685
+#EXTINF:-1,Sky Sports Arena
+http://live.eurovipserver.com:1453/Halil/Akdogan/119683
+#EXTINF:-1,Sky Sports F1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119681
+#EXTINF:-1,Sky Sports Football
+http://live.eurovipserver.com:1453/Halil/Akdogan/119680
+#EXTINF:-1,Sky Sports Football FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119687
+#EXTINF:-1,Sky Sports GOLF
+http://live.eurovipserver.com:1453/Halil/Akdogan/119679
+#EXTINF:-1,Sky Sports Golf HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119678
+#EXTINF:-1,Sky Sports Main Event
+http://live.eurovipserver.com:1453/Halil/Akdogan/119677
+#EXTINF:-1,Sky Sports Mix HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119676
+#EXTINF:-1,Sky Sports News HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119675
+#EXTINF:-1,Sky Sports Premier League HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119674
+#EXTINF:-1,Sky Sports Racing FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119686
+#EXTINF:-1,SKY THRILLER HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119672
+#EXTINF:-1,Sky Witness HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119671
+#EXTINF:-1,SONY Max
+http://live.eurovipserver.com:1453/Halil/Akdogan/119670
+#EXTINF:-1,Sony Movies
+http://live.eurovipserver.com:1453/Halil/Akdogan/119669
+#EXTINF:-1,Sony TV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119668
+#EXTINF:-1,STAR BHARAT
+http://live.eurovipserver.com:1453/Halil/Akdogan/119667
+#EXTINF:-1,STAR GOLD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119666
+#EXTINF:-1,STAR PLUS
+http://live.eurovipserver.com:1453/Halil/Akdogan/119665
+#EXTINF:-1,STV FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119664
+#EXTINF:-1,Syfy FHD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119663
 #EXTINF:-1,TCM FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21674
-#EXTINF:-1,TCM HD
-http://shacktv.com:8080/Chuck1/Chuck123/21737
-#EXTINF:-1,TLC FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21678
-#EXTINF:-1,UNIVERSAL FHD
-http://shacktv.com:8080/Chuck1/Chuck123/21677
-#EXTINF:-1,UTV HD
-http://shacktv.com:8080/Chuck1/Chuck123/21735
-#EXTINF:-1,VICELAND HD
-http://shacktv.com:8080/Chuck1/Chuck123/21683
+http://live.eurovipserver.com:1453/Halil/Akdogan/119661
+#EXTINF:-1,The Box
+http://live.eurovipserver.com:1453/Halil/Akdogan/119660
+#EXTINF:-1,The Vault
+http://live.eurovipserver.com:1453/Halil/Akdogan/119659
+#EXTINF:-1,Tiny POP
+http://live.eurovipserver.com:1453/Halil/Akdogan/119658
+#EXTINF:-1,TLC HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119657
+#EXTINF:-1,Travel Channel
+http://live.eurovipserver.com:1453/Halil/Akdogan/119656
+#EXTINF:-1,True Entertainment
+http://live.eurovipserver.com:1453/Halil/Akdogan/119655
+#EXTINF:-1,True Movies 1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119654
+#EXTINF:-1,TV 3
+http://live.eurovipserver.com:1453/Halil/Akdogan/119653
+#EXTINF:-1,TV3 Plus 1
+http://live.eurovipserver.com:1453/Halil/Akdogan/119652
+#EXTINF:-1,TV5 Monde
+http://live.eurovipserver.com:1453/Halil/Akdogan/119651
+#EXTINF:-1,Universal Channel HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119650
+#EXTINF:-1,UTV
+http://live.eurovipserver.com:1453/Halil/Akdogan/119649
+#EXTINF:-1,VH 1 CLASSIC
+http://live.eurovipserver.com:1453/Halil/Akdogan/119647
+#EXTINF:-1,VH1 HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119646
+#EXTINF:-1,Viceland HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119645
+#EXTINF:-1,Watch HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119644
+#EXTINF:-1,WWE Raw Network HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/119642
+#EXTINF:-1,ZEE CINEMA
+http://live.eurovipserver.com:1453/Halil/Akdogan/119641
