@@ -1,129 +1,157 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidenetherlands.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UuVwFHP.png" group-title="",1Twente
-http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="",BNR Nieuwsradio
-http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3omdaMe.jpg" group-title="",Breda Nu
-https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82/live-audio101_dut=128000-video=2200000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BP322Ly.png" group-title="",Centraal TV Weststellingwerf
-http://streams.uitzending.tv/centraaltv/centraaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BP322Ly.png" group-title="",Centraal TV Weststellingwerf Webcam
-http://streams.uitzending.tv/centraal/centraal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="",Den Haag TV
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="",DNO Streek TV
-http://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="",DNO Streek TV
-http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7AC8etU.png" group-title="Music",Gigant FM
-http://streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music",GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAD13mY.png" group-title="",HTR
-http://live.streamone.nl/livestream/h3kXcf2yyam/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QV73Guo.jpg" group-title="",Klipkar TV
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/index.m3u8:Klipkar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QV73Guo.jpg" group-title="",Klipkar TV
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
-#EXTINF:-1 tvg-id="L1 TV NL" tvg-name="L1 TV NL" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="",L1mburg
-http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="",Meer TV
-http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gtlwWbJ.png" group-title="Music",Norderney 192 TV
-http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wc0CUVt.jpg" group-title="",Omroep Assen
-http://media.streamone.net/hlslive/account=BpRIEq4LT84W/livestream=IjYFI8qBJM0W/events.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="",Omroep Brabant
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="",Omroep Brabant Radio
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="",Omroep Ede
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" group-title="",Omroep Flevoland
-http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="TV Gelderland NL" tvg-name="TV Gelderland NL" tvg-logo="https://i.imgur.com/2LZJo7k.png" group-title="",Omroep Gelderland
-http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 tvg-id="TV Gelderland NL" tvg-name="TV Gelderland NL" tvg-logo="https://i.imgur.com/2LZJo7k.png" group-title="",Omroep Gelderland
-http://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1uxxeWX.png" group-title="",Omroep P&M
-http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vzA35yi.png" group-title="",Omroep Súdwest
-http://media.streamone.net/hlslive/account=E7RAPuILTJc2/livestream=-ZZMK-aARoY2/events.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="",Omroep Tilburg
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV West NL" tvg-name="TV West NL" tvg-logo="https://i.imgur.com/2YELwRl.jpg" group-title="",Omroep West
-http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Omroep Zeeland NL" tvg-name="Omroep Zeeland NL" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="",Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" group-title="",Omrop Fryslan
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
-#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" group-title="",Omrop Fryslan
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZeGhaT4.jpg" group-title="",OOG TV
-http://media.streamone.net/hlslive/account=BAAIMu-JR8Yy/livestream=ERREOY4AeMUU/events.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" group-title="Music",Operator Radio
-http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Music",Qmusic
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="",Radio 10
-http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="",Radio 538
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="",Radio 538
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8xWxeG.png" group-title="",Radio Beverwijk
-http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c8jl6Yn.png" group-title="",Radio Continu
-http://84.22.97.59:80/radiocontinu/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="",Radio Veronica
-http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T2K6xqz.jpg" group-title="Music",Redlight Radio
-http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="",Regio TV Nieuws
-http://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="",Regio TV Nieuws
-http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EevQ6GV.jpg" group-title="",RTV 1
-http://media.streamone.net/hlslive/account=lqRIFo4bDtQ2/livestream=X7ZMrsKBXl8S/events.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="",RTV Arnhem
-http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="",RTV Dordrecht
-http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsD7Tsu.png" group-title="",RTV Drenthe
-https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T2m57nB.jpg" group-title="",RTV GO!
-http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" group-title="",RTV Maastricht
-http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QNEol97.jpg" group-title="",RTV Meppel
-http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/events.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="",RTV Noord Extra
-http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="",RTV Noordoost Friesland
-http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="",RTV Noordoost Friesland
-http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TYsLlr0.png" group-title="",RTV Rijnmond
-https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/86oiZRV.jpg" group-title="",RTV Westerwolde
-http://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w60x1M7.jpg" group-title="",Simone FM
-http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0Yabfsv.jpg" group-title="",Studio 040 Eindhoven
-http://ms2.mx-cd.net/tv/117-475839/Studio040.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="",TV Ellef
-http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="",TV Valkenburg
-http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AcDgf25.jpg" group-title="",WEEF
-http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UtOWySG.jpg" group-title="",WOS TV
-http://ms7.mx-cd.net/tv/99-475825/WOS.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KrEBHLw.jpg" group-title="",ZO!34
-http://558bd16067b67.streamlock.net/rtvemmen_tv/rtvemmen_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qThQP4f.jpg" group-title="",ZO-NWS
-http://media.streamone.net/hlslive/account=FjJBFsIbBtw2/livestream=1QJFCqsQeMwQ/events.m3u8
+#EXTM3U
+#EXTINF:-1,100_NL
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44798.m3u8
+#EXTINF:-1,24Kitchen
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1742.m3u8
+#EXTINF:-1,Animal_Planet
+http://universeiptv.com:8000/live/Lemuel/Lemuel/3661.m3u8
+#EXTINF:-1,AT5
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44796.m3u8
+#EXTINF:-1,Baby_TV
+http://universeiptv.com:8000/live/Lemuel/Lemuel/9254.m3u8
+#EXTINF:-1,BBC_Entertainment
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1915.m3u8
+#EXTINF:-1,BBC_First
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44789.m3u8
+#EXTINF:-1,Boomerang
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2693.m3u8
+#EXTINF:-1,CARTOON_NETWORK
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2694.m3u8
+#EXTINF:-1,CBS_Reality
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44787.m3u8
+#EXTINF:-1,Comedy_Central
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2695.m3u8
+#EXTINF:-1,Comedy_Central_Extra
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37330.m3u8
+#EXTINF:-1,Crime_and_Investigation
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37329.m3u8
+#EXTINF:-1,Discovery_HD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1748.m3u8
+#EXTINF:-1,Discovery_Science
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37328.m3u8
+#EXTINF:-1,Discovery_Showcase
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44788.m3u8
+#EXTINF:-1,Discovery_World
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37327.m3u8
+#EXTINF:-1,Disney_Channel
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2692.m3u8
+#EXTINF:-1,Disney_XD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1746.m3u8
+#EXTINF:-1,E_Entertainment_HD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44800.m3u8
+#EXTINF:-1,EUROSPORT_1
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37326.m3u8
+#EXTINF:-1,EUROSPORT_2
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37325.m3u8
+#EXTINF:-1,Family_7
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44786.m3u8
+#EXTINF:-1,Film_1_Action
+http://universeiptv.com:8000/live/Lemuel/Lemuel/933.m3u8
+#EXTINF:-1,Film_1_Drama
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37324.m3u8
+#EXTINF:-1,Film_1_Family
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37323.m3u8
+#EXTINF:-1,FILM_1_PREMIER
+http://universeiptv.com:8000/live/Lemuel/Lemuel/763.m3u8
+#EXTINF:-1,Film_Europe
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44783.m3u8
+#EXTINF:-1,FOX_Channel
+http://universeiptv.com:8000/live/Lemuel/Lemuel/3662.m3u8
+#EXTINF:-1,Fox_Sports_1
+http://universeiptv.com:8000/live/Lemuel/Lemuel/926.m3u8
+#EXTINF:-1,Fox_Sports_2
+http://universeiptv.com:8000/live/Lemuel/Lemuel/762.m3u8
+#EXTINF:-1,Fox_Sports_3
+http://universeiptv.com:8000/live/Lemuel/Lemuel/927.m3u8
+#EXTINF:-1,Fox_Sports_4
+http://universeiptv.com:8000/live/Lemuel/Lemuel/928.m3u8
+#EXTINF:-1,Fox_Sports_5
+http://universeiptv.com:8000/live/Lemuel/Lemuel/929.m3u8
+#EXTINF:-1,Fox_Sports_6
+http://universeiptv.com:8000/live/Lemuel/Lemuel/9253.m3u8
+#EXTINF:-1,History_HD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2269.m3u8
+#EXTINF:-1,Horse_and_Country_TV
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44792.m3u8
+#EXTINF:-1,Investigation_Discovery
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2268.m3u8
+#EXTINF:-1,Mezzo
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44799.m3u8
+#EXTINF:-1,MTV
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44797.m3u8
+#EXTINF:-1,NAT_GEO_WILD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/3660.m3u8
+#EXTINF:-1,NATIONAL_GEOGRAPHIC
+http://universeiptv.com:8000/live/Lemuel/Lemuel/941.m3u8
+#EXTINF:-1,NET_5
+http://universeiptv.com:8000/live/Lemuel/Lemuel/935.m3u8
+#EXTINF:-1,Nick_Jr
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1745.m3u8
+#EXTINF:-1,Nick_Music
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44801.m3u8
+#EXTINF:-1,Nickelodeon
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1743.m3u8
+#EXTINF:-1,Nicktoons
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1744.m3u8
+#EXTINF:-1,NPO_1
+http://universeiptv.com:8000/live/Lemuel/Lemuel/922.m3u8
+#EXTINF:-1,NPO_2
+http://universeiptv.com:8000/live/Lemuel/Lemuel/923.m3u8
+#EXTINF:-1,NPO_3
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1741.m3u8
+#EXTINF:-1,NPO_Nieuws
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44785.m3u8
+#EXTINF:-1,NPO_Politiek/Sport
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2263.m3u8
+#EXTINF:-1,NPO_Zappelin_Xtra
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44793.m3u8
+#EXTINF:-1,Pebble_TV
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44784.m3u8
+#EXTINF:-1,RTL_4
+http://universeiptv.com:8000/live/Lemuel/Lemuel/938.m3u8
+#EXTINF:-1,RTL_5
+http://universeiptv.com:8000/live/Lemuel/Lemuel/939.m3u8
+#EXTINF:-1,RTL_7
+http://universeiptv.com:8000/live/Lemuel/Lemuel/940.m3u8
+#EXTINF:-1,RTL_8
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1740.m3u8
+#EXTINF:-1,RTL_Crime
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37320.m3u8
+#EXTINF:-1,RTL_Lounge
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2260.m3u8
+#EXTINF:-1,RTL_Telekids
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37319.m3u8
+#EXTINF:-1,RTL_Z
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1917.m3u8
+#EXTINF:-1,RTV_7
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44791.m3u8
+#EXTINF:-1,RTV_Drenthe
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44802.m3u8
+#EXTINF:-1,RTV_Utrecht
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44782.m3u8
+#EXTINF:-1,SBS_6
+http://universeiptv.com:8000/live/Lemuel/Lemuel/936.m3u8
+#EXTINF:-1,SBS_9
+http://universeiptv.com:8000/live/Lemuel/Lemuel/937.m3u8
+#EXTINF:-1,Spike_HD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44795.m3u8
+#EXTINF:-1,TLC
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1918.m3u8
+#EXTINF:-1,TV_Oranje
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44790.m3u8
+#EXTINF:-1,Veronica_and_Disney_XD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37318.m3u8
+#EXTINF:-1,ViceLand_HD
+http://universeiptv.com:8000/live/Lemuel/Lemuel/44794.m3u8
+#EXTINF:-1,Ziggo_Sport_Docu
+http://universeiptv.com:8000/live/Lemuel/Lemuel/37316.m3u8
+#EXTINF:-1,Ziggo_Sport_Extra_1
+http://universeiptv.com:8000/live/Lemuel/Lemuel/931.m3u8
+#EXTINF:-1,Ziggo_Sport_Golf
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1578.m3u8
+#EXTINF:-1,Ziggo_Sport_Racing
+http://universeiptv.com:8000/live/Lemuel/Lemuel/3659.m3u8
+#EXTINF:-1,Ziggo_Sport_Select
+http://universeiptv.com:8000/live/Lemuel/Lemuel/1577.m3u8
+#EXTINF:-1,Ziggo_Sport_Voetbal
+http://universeiptv.com:8000/live/Lemuel/Lemuel/2327.m3u8
