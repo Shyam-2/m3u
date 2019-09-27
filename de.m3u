@@ -1,531 +1,303 @@
 #EXTM3U
-#EXTINF:-1,DAS ERSTE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12436.m3u8
-#EXTINF:-1,DAS ERSTE HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12517.m3u8
-#EXTINF:-1,3SAT FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12465.m3u8
-#EXTINF:-1,3SAT HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12518.m3u8
-#EXTINF:-1,ZDF FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12463.m3u8
-#EXTINF:-1,ZDF HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12560.m3u8
-#EXTINF:-1,ZDF INFO FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12483.m3u8
-#EXTINF:-1,ZDF NEO FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12484.m3u8
-#EXTINF:-1,VOX FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12481.m3u8
-#EXTINF:-1,VOX HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12559.m3u8
-#EXTINF:-1,WDR FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12462.m3u8
-#EXTINF:-1,TELE 5 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12421.m3u8
-#EXTINF:-1,SWR FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12417.m3u8
-#EXTINF:-1,SAT 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12494.m3u8
-#EXTINF:-1,SAT 1 EMOTIONS FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12427.m3u8
-#EXTINF:-1,SPIEGEL GESCHICHTE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12478.m3u8
-#EXTINF:-1,SPIEGEL GESCHICHTE HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12555.m3u8
-#EXTINF:-1,ANIXE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12466.m3u8
-#EXTINF:-1,ANIXE HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12528.m3u8
-#EXTINF:-1,ARTE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12467.m3u8
-#EXTINF:-1,123 TV FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12414.m3u8
-#EXTINF:-1,DEUTSCHE WELLE HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12582.m3u8
-#EXTINF:-1,SONNENKLAR TV HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12579.m3u8
-#EXTINF:-1,HEIMATKANAL HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12524.m3u8
-#EXTINF:-1,KABEL EINS FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12455.m3u8
-#EXTINF:-1,KABEL EINS CLASSICS FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12433.m3u8
-#EXTINF:-1,MDR FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12468.m3u8
-#EXTINF:-1,N24 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12565.m3u8
-#EXTINF:-1,NDR FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12469.m3u8
-#EXTINF:-1,ONE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12419.m3u8
-#EXTINF:-1,NTV FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12490.m3u8
-#EXTINF:-1,PHOENIX HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12538.m3u8
-#EXTINF:-1,TAGESCHAU 24 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12581.m3u8
-#EXTINF:-1,SIXX FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12475.m3u8
-#EXTINF:-1,ORF 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12470.m3u8
-#EXTINF:-1,ORF 1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12574.m3u8
-#EXTINF:-1,ORF 2 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12471.m3u8
-#EXTINF:-1,ORF 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12573.m3u8
-#EXTINF:-1,SRF 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12460.m3u8
-#EXTINF:-1,SFR 2 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12461.m3u8
-#EXTINF:-1,PROSIEBEN FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12472.m3u8
-#EXTINF:-1,PROSIEBEN HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12570.m3u8
-#EXTINF:-1,PROSIEBEN FUN FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12430.m3u8
-#EXTINF:-1,PRO7 MAXX FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12415.m3u8
-#EXTINF:-1,PRO 7 MAXX HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12585.m3u8
-#EXTINF:-1,RTL FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12451.m3u8
-#EXTINF:-1,RTL HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12575.m3u8
-#EXTINF:-1,RTL 2 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12473.m3u8
-#EXTINF:-1,RTL 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12540.m3u8
-#EXTINF:-1,RTL 2 YOU FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12501.m3u8
-#EXTINF:-1,RTL CRIME FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12445.m3u8
-#EXTINF:-1,RTL CRIME HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12541.m3u8
-#EXTINF:-1,RTL LIVING FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12492.m3u8
-#EXTINF:-1,RTL PASSION FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12428.m3u8
-#EXTINF:-1,RTL PASSION HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12542.m3u8
-#EXTINF:-1,SUPER RTL HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12556.m3u8
-#EXTINF:-1,NITRO FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12493.m3u8
-#EXTINF:-1,BOOMERANG FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12438.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12567.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12437.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12527.m3u8
-#EXTINF:-1,DISNEY XD FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12487.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12435.m3u8
-#EXTINF:-1,DISNEY CINEMAGIC FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12440.m3u8
-#EXTINF:-1,DISNEY JUNIOR FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12441.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12530.m3u8
-#EXTINF:-1,KIKA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12456.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12587.m3u8
-#EXTINF:-1,NICK JUNIOR FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12444.m3u8
-#EXTINF:-1,SKY DISNEY CHANNEL FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12477.m3u8
-#EXTINF:-1,13TH STREET FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12464.m3u8
-#EXTINF:-1,13TH STREET HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12577.m3u8
-#EXTINF:-1,FOX FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12454.m3u8
-#EXTINF:-1,FOX HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12535.m3u8
-#EXTINF:-1,FASHION TV 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12513.m3u8
-#EXTINF:-1,E! Entertainement FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12434.m3u8
-#EXTINF:-1,TLC FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12450.m3u8
-#EXTINF:-1,SYFY FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12449.m3u8
-#EXTINF:-1,SYFY HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12557.m3u8
-#EXTINF:-1,SONY ENTERTAINMENT FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12424.m3u8
-#EXTINF:-1,ZEE ONE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12422.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12480.m3u8
-#EXTINF:-1,TOGGO PLUS HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12521.m3u8
-#EXTINF:-1,TNT FILM FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12499.m3u8
-#EXTINF:-1,TNT FILM HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12519.m3u8
-#EXTINF:-1,TNT COMEDY HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12505.m3u8
-#EXTINF:-1,TNT SERIE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12479.m3u8
-#EXTINF:-1,TNT SERIE HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12558.m3u8
-#EXTINF:-1,ROMANCE TV FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12429.m3u8
-#EXTINF:-1,ROMANCE TV HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12539.m3u8
-#EXTINF:-1,DISCOVERY FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12486.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12586.m3u8
-#EXTINF:-1,HISTORY FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12442.m3u8
-#EXTINF:-1,HISTORY HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12536.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12489.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12569.m3u8
-#EXTINF:-1,NAT GEO WILD FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12443.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12572.m3u8
-#EXTINF:-1,PLANET FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12491.m3u8
-#EXTINF:-1,A&E FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12439.m3u8
-#EXTINF:-1,A&E HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12520.m3u8
-#EXTINF:-1,AXN FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12500.m3u8
-#EXTINF:-1,Sky AXN FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12457.m3u8
-#EXTINF:-1,DMAX FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12488.m3u8
-#EXTINF:-1,DMAX HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12531.m3u8
-#EXTINF:-1,SKY CINEMA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12458.m3u8
-#EXTINF:-1,SKY CINEMA   +24 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12503.m3u8
-#EXTINF:-1,SKY CINEMA +1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12476.m3u8
-#EXTINF:-1,SKY CINEMA  +1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12545.m3u8
-#EXTINF:-1,SKY 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12420.m3u8
-#EXTINF:-1,SKY ATLANTIC FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12452.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12544.m3u8
-#EXTINF:-1,SKY ATLANTIC  +1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12495.m3u8
-#EXTINF:-1,SKY CINEMA ACTION FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12446.m3u8
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12543.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12447.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12516.m3u8
-#EXTINF:-1,SKY CINEMA EMOTION HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12546.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12426.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12515.m3u8
-#EXTINF:-1,SKY CINEMA HITS FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12459.m3u8
-#EXTINF:-1,SKY CINEMA NOSTALGIE HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12548.m3u8
-#EXTINF:-1,SKY KRIMI HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12547.m3u8
-#EXTINF:-1,KINOWELT TV HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12537.m3u8
-#EXTINF:-1,SKY SELECT 1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12549.m3u8
-#EXTINF:-1,SKY SELECT 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12550.m3u8
-#EXTINF:-1,SKY SELECT 3 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12561.m3u8
-#EXTINF:-1,SKY SELECT 4 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12551.m3u8
-#EXTINF:-1,SKY SELECT 5 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12552.m3u8
-#EXTINF:-1,SKY SELECT 6 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12553.m3u8
-#EXTINF:-1,SKY SELECT 7 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12562.m3u8
-#EXTINF:-1,SKY SELECT 8 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12563.m3u8
-#EXTINF:-1,SKY SELECT 9 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12554.m3u8
-#EXTINF:-1,POPCORN SELECT 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12598.m3u8
-#EXTINF:-1,SELECT POPCORN 2
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12596.m3u8
-#EXTINF:-1,SELECT POPCORN 3
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12595.m3u8
-#EXTINF:-1,SELECT POPCORN 4
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12594.m3u8
-#EXTINF:-1,SELECT POPCORN 5
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12593.m3u8
-#EXTINF:-1,POPCORN SELECT 6
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12597.m3u8
-#EXTINF:-1,SPORTDIGITAL FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12448.m3u8
-#EXTINF:-1,SPORT + FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12498.m3u8
-#EXTINF:-1,SPORT 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12497.m3u8
-#EXTINF:-1,SPORT 1 US FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12504.m3u8
-#EXTINF:-1,SKY SPORT NEWS FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12425.m3u8
-#EXTINF:-1,SKY SPORT NEWS HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12571.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12512.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12511.m3u8
-#EXTINF:-1,EUROSPORT 2 XTRA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12416.m3u8
-#EXTINF:-1,DAZN SPORT 1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/26827.m3u8
-#EXTINF:-1,DAZN SPORT 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/26828.m3u8
-#EXTINF:-1,SKY SPORT 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12413.m3u8
-#EXTINF:-1,SKY SPORT 1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12510.m3u8
-#EXTINF:-1,SKY SPORT 2 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12412.m3u8
-#EXTINF:-1,SKY SPORT 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12509.m3u8
-#EXTINF:-1,SKY SPORT AUSTRIA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12496.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12411.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12508.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12410.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12507.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 3 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12409.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 4 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12408.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 5 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12407.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 5 HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12506.m3u8
-#EXTINF:-1,MOTORVISION HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12523.m3u8
-#EXTINF:-1,MOTORVISION TV HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12568.m3u8
-#EXTINF:-1,MTV FHD 4K
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12432.m3u8
-#EXTINF:-1,CLASSICA HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/12529.m3u8
-#EXTINF:-1,=====|GERMANY HD |=====
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/45763.m3u8
-#EXTINF:-1,ZDF
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44566.m3u8
-#EXTINF:-1,ZDF INFO
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44565.m3u8
-#EXTINF:-1,ZDF NEO
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44564.m3u8
-#EXTINF:-1,KABEL EINS
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44629.m3u8
-#EXTINF:-1,DAS ERSTE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44647.m3u8
-#EXTINF:-1,ANIXE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44651.m3u8
-#EXTINF:-1,A&E
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44652.m3u8
-#EXTINF:-1,3SAT
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44653.m3u8
-#EXTINF:-1,ARTE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44650.m3u8
-#EXTINF:-1,DELUXE MUSIC
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44642.m3u8
-#EXTINF:-1,CLASSICA
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44562.m3u8
-#EXTINF:-1,N-TV
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44624.m3u8
-#EXTINF:-1,PRO 7
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44618.m3u8
-#EXTINF:-1,PRO 7 MAXX
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44619.m3u8
-#EXTINF:-1,Super RTL
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44577.m3u8
-#EXTINF:-1,RTL
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44616.m3u8
-#EXTINF:-1,RTL 2
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44617.m3u8
-#EXTINF:-1,RTL PLUS HD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/78400.m3u8
-#EXTINF:-1,SAT 1 GOLD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44615.m3u8
-#EXTINF:-1,SAT 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44614.m3u8
-#EXTINF:-1,SIXX
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44613.m3u8
-#EXTINF:-1,NITRO
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44620.m3u8
-#EXTINF:-1,ROMANCE TV
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44559.m3u8
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44578.m3u8
-#EXTINF:-1,SPIEGEL TV WISSEN
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44558.m3u8
-#EXTINF:-1,SWR BW
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44576.m3u8
-#EXTINF:-1,TELE 5
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44574.m3u8
-#EXTINF:-1,WELT
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44567.m3u8
-#EXTINF:-1,VOX
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44568.m3u8
-#EXTINF:-1,13TH STREET
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44654.m3u8
-#EXTINF:-1,BOOMERANG
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44649.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44648.m3u8
-#EXTINF:-1,DAZN 1 BAR
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44646.m3u8
-#EXTINF:-1,DAZN 2 BAR
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44645.m3u8
-#EXTINF:-1,DAZN SPORT 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44644.m3u8
-#EXTINF:-1,DAZN SPORT 2
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44643.m3u8
-#EXTINF:-1,DISCOVERY
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44641.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44640.m3u8
-#EXTINF:-1,DISNEY CINEMAGIC
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44639.m3u8
-#EXTINF:-1,DISNEY JR
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44638.m3u8
-#EXTINF:-1,DISNEY XD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44561.m3u8
-#EXTINF:-1,DMAX
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44637.m3u8
-#EXTINF:-1,E! ENTERTAIMENT
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44636.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44635.m3u8
-#EXTINF:-1,EUROSPORT 2 XTRA
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44634.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44633.m3u8
-#EXTINF:-1,FOX
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44632.m3u8
-#EXTINF:-1,HEIMAT
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44560.m3u8
-#EXTINF:-1,HISTORY
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44631.m3u8
-#EXTINF:-1,JUKEBOX
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44630.m3u8
-#EXTINF:-1,KIKA
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44628.m3u8
-#EXTINF:-1,KINOWELT TV
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44627.m3u8
-#EXTINF:-1,MOTORVISION
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44626.m3u8
-#EXTINF:-1,MTV
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44625.m3u8
-#EXTINF:-1,NAT GEO
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44623.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44622.m3u8
-#EXTINF:-1,NICKELODEON
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44621.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44611.m3u8
-#EXTINF:-1,SKY CINEMA
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44605.m3u8
-#EXTINF:-1,SKY CINEMA  24
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44609.m3u8
-#EXTINF:-1,SKY CINEMA 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44610.m3u8
-#EXTINF:-1,SKY CINEMA ACTION
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44608.m3u8
-#EXTINF:-1,SKY CINEMA EMOTION
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44607.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44606.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44604.m3u8
-#EXTINF:-1,SKY CINEMA NOSTALGIE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44603.m3u8
-#EXTINF:-1,SKY KRIMI
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44602.m3u8
-#EXTINF:-1,SKY SPORT 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44601.m3u8
-#EXTINF:-1,SKY SPORT 2
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44598.m3u8
-#EXTINF:-1,SKY SPORT 3
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44597.m3u8
-#EXTINF:-1,SKY SPORT 4
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44596.m3u8
-#EXTINF:-1,SKY SPORT 5
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44595.m3u8
-#EXTINF:-1,SKY SPORT 6
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44594.m3u8
-#EXTINF:-1,SKY SPORT 7
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44593.m3u8
-#EXTINF:-1,SKY SPORT 8
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44592.m3u8
-#EXTINF:-1,SKY SPORT 9
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44591.m3u8
-#EXTINF:-1,SKY SPORT 10
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44600.m3u8
-#EXTINF:-1,SKY SPORT 11
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44599.m3u8
-#EXTINF:-1,SKY SPORT AUSTRIA
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44590.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44589.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44587.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 3
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44586.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 4
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44585.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 5
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44584.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 6
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44583.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 7
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44582.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 8
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44581.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 9
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44580.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 10
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44588.m3u8
-#EXTINF:-1,SKY SPORT NEWS
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44579.m3u8
-#EXTINF:-1,SYFY
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44575.m3u8
-#EXTINF:-1,TLC
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44573.m3u8
-#EXTINF:-1,TNT COMEDY
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44572.m3u8
-#EXTINF:-1,TNT FILM
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44571.m3u8
-#EXTINF:-1,TNT SERIE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44570.m3u8
-#EXTINF:-1,UNIVERSAL
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44569.m3u8
-#EXTINF:-1,ZEE ONE
-http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44557.m3u8
+#EXTINF:-1,Das Erste  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4655
+#EXTINF:-1,Das Erste HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4657
+#EXTINF:-1,Das Erste  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53004
+#EXTINF:-1,ZDF HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5842
+#EXTINF:-1,ZDF  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52929
+#EXTINF:-1,ZDF info HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4636
+#EXTINF:-1,ZDF info HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52928
+#EXTINF:-1,ZDF neo HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12801
+#EXTINF:-1,Pro 7  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4651
+#EXTINF:-1,Pro 7 FUN HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12800
+#EXTINF:-1,Pro 7 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52974
+#EXTINF:-1,Pro 7 Maxx HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4652
+#EXTINF:-1,Pro 7 Maxx  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52973
+#EXTINF:-1,Kabel 1 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4643
+#EXTINF:-1,Kabel 1 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52991
+#EXTINF:-1,Kabel 1  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52990
+#EXTINF:-1,Kabel  1 Classics
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12803
+#EXTINF:-1,Kabel 1  DoKu HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12802
+#EXTINF:-1,Kabel 1 Doku HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52992
+#EXTINF:-1,RTL  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4644
+#EXTINF:-1,RTL HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52968
+#EXTINF:-1,RTL 2  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4645
+#EXTINF:-1,RTL 2 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52971
+#EXTINF:-1,RTL Living HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4648
+#EXTINF:-1,RTL Nitro HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4646
+#EXTINF:-1,RTL Nitro HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52967
+#EXTINF:-1,RTL Crime  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52970
+#EXTINF:-1,RTL Crime  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4663
+#EXTINF:-1,RTL Passion  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4662
+#EXTINF:-1,RTL  Passion HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52965
+#EXTINF:-1,RTL  Plus HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12813
+#EXTINF:-1,RTL Plus HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52964
+#EXTINF:-1,Sat 1  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4642
+#EXTINF:-1,Sat 1 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52963
+#EXTINF:-1,Sat 1 emotions HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12806
+#EXTINF:-1,Sat 1 Gold HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12807
+#EXTINF:-1,Sat 1 Gold HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52962
+#EXTINF:-1,VOX. HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4637
+#EXTINF:-1,VOX HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52932
+#EXTINF:-1,3SAT. HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12830
+#EXTINF:-1,3sat HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53010
+#EXTINF:-1,N24 News HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4656
+#EXTINF:-1,Sixx  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4640
+#EXTINF:-1,ORF1 HD (AU)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4638
+#EXTINF:-1,ORF 2 HD+ (AU)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4639
+#EXTINF:-1,ORF 3 HD (AU)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12804
+#EXTINF:-1,ORF Sport + HD (AU)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12805
+#EXTINF:-1,ORF SPORT+ HD+ (AU)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52978
+#EXTINF:-1,ORF SPORT HD+ (AU)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52977
+#EXTINF:-1,ANNIXE
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12829
+#EXTINF:-1,ARD HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12828
+#EXTINF:-1,ARD Alpha
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85900
+#EXTINF:-1,Arte  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12827
+#EXTINF:-1,Arte HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53006
+#EXTINF:-1,ATV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12826
+#EXTINF:-1,Classica.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12824
+#EXTINF:-1,DMAX  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/17388
+#EXTINF:-1,DMAX HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52999
+#EXTINF:-1,AUSTRIA 24
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12825
+#EXTINF:-1,FC Bayern TV HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12822
+#EXTINF:-1,Hr HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12821
+#EXTINF:-1,MDR  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12819
+#EXTINF:-1,Ndr HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12818
+#EXTINF:-1,Anixe  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51272
+#EXTINF:-1,NTV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12817
+#EXTINF:-1,NTV HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52981
+#EXTINF:-1,DW TV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51239
+#EXTINF:-1,Euronews. HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51231
+#EXTINF:-1,Euronews  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52997
+#EXTINF:-1,MTV  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51166
+#EXTINF:-1,MTV HITS HD.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51165
+#EXTINF:-1,MUNCHEN TV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51164
+#EXTINF:-1,NRJ TV HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51155
+#EXTINF:-1,Phoenix HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12816
+#EXTINF:-1,Servus TV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12812
+#EXTINF:-1,Romance  TV HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12814
+#EXTINF:-1,TAGESSCHAU 24
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12811
+#EXTINF:-1,Zee One HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12808
+#EXTINF:-1,Anixe HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53007
+#EXTINF:-1,Kinowelt TV HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52988
+#EXTINF:-1,One HD +
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52980
+#EXTINF:-1,Phoenix HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52976
+#EXTINF:-1,Plus 8 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52975
+#EXTINF:-1,Romance TV HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52972
+#EXTINF:-1,Sixx HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52959
+#EXTINF:-1,TELE 5 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52940
+#EXTINF:-1,TLC HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52939
+#EXTINF:-1,Universal HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52934
+#EXTINF:-1,VIVA HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52933
+#EXTINF:-1,WDR HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/12810
+#EXTINF:-1,Baby TV.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/51265
+#EXTINF:-1,KIKA HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7780
+#EXTINF:-1,KIKA HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52989
+#EXTINF:-1,TOGGO HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52935
+#EXTINF:-1,SUPER  RTL HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4650
+#EXTINF:-1,Super RTL HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52943
+#EXTINF:-1,Boomerang HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7766
+#EXTINF:-1,Cartoon Network HD+.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53005
+#EXTINF:-1,Cartoon Network.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7772
+#EXTINF:-1,Nickellodeon
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4658
+#EXTINF:-1,Nickelodeon HD+.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52982
+#EXTINF:-1,Disney XD.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4681
+#EXTINF:-1,Disney XD  HD +
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53000
+#EXTINF:-1,Disney Channel.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7769
+#EXTINF:-1,Disney Junior HD +
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53001
+#EXTINF:-1,Disney Junior.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4680
+#EXTINF:-1,Disney Cinemagic.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4682
+#EXTINF:-1,Disney Cinemagic HD+.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53002
+#EXTINF:-1,NAT GEO HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4665
+#EXTINF:-1,NAT GEO HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52984
+#EXTINF:-1,NAT GEO WILD  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7756
+#EXTINF:-1,NAT GEO WILD HD+.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52983
+#EXTINF:-1,A&E HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7750
+#EXTINF:-1,A&E HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53009
+#EXTINF:-1,History Channel HD.+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7759
+#EXTINF:-1,History HD +
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52993
+#EXTINF:-1,Discovery HD+..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53003
+#EXTINF:-1,Discovery HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7754
+#EXTINF:-1,E! Entertainment HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7751
+#EXTINF:-1,E! Entertainment  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52998
+#EXTINF:-1,Animal Planet HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7758
+#EXTINF:-1,Animal Planet HD+.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53008
+#EXTINF:-1,SKY Cinema Nostalgie HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4664
+#EXTINF:-1,Sky Cinema Nostalgie HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52947
+#EXTINF:-1,Sky Cinema Comedy HD.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4673
+#EXTINF:-1,Sky Cinema Comedy HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52952
+#EXTINF:-1,SKY Cinema HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4670
+#EXTINF:-1,Sky Cinema HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52949
+#EXTINF:-1,Sky Cinema +24 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4671
+#EXTINF:-1,Sky Cinema +24 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52954
+#EXTINF:-1,Sky Cinema Atlantic HD.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4675
+#EXTINF:-1,Sky Cinema Atlantic HD +
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52956
+#EXTINF:-1,Sky Cinema Action HD.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4672
+#EXTINF:-1,Sky Cinema Action HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52953
+#EXTINF:-1,SKY CIinema Family HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7729
+#EXTINF:-1,SKY Cinema Family  HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52950
+#EXTINF:-1,SKY Cinema Hits HD.
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7728
+#EXTINF:-1,Sky Cinema Hits HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52948
+#EXTINF:-1,Sky Cinema Krimi HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7746
+#EXTINF:-1,Sky Cinema Krimi HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52946
+#EXTINF:-1,SKY 1 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52958
+#EXTINF:-1,Sky Arts HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52957
+#EXTINF:-1,Sky Cinema +1 HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52955
+#EXTINF:-1,Sky Cinema Emotion HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52951
+#EXTINF:-1,TNT Film HD..
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7747
+#EXTINF:-1,TNT Film HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52937
+#EXTINF:-1,TNT Comedy HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/7749
+#EXTINF:-1,TNT Comedy HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52938
+#EXTINF:-1,TNT Series HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/52936
+#EXTINF:-1,13th Street HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/53011
+#EXTINF:-1,13 th Street. HD+
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/4677
