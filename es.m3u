@@ -1,387 +1,265 @@
 #EXTM3U
+#EXTINF:-1,LA 1
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/110
 #EXTINF:-1,LA 1 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7471.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9158
+#EXTINF:-1,LA 1 FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/489
+#EXTINF:-1,LA 2 PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9037
 #EXTINF:-1,LA 2
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7470.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/109
+#EXTINF:-1,La 2 FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7540
+#EXTINF:-1,ANTENA 3 PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9065
+#EXTINF:-1,ANTENA 3
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/111
 #EXTINF:-1,ANTENA 3 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7497.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9159
+#EXTINF:-1,ANTENA 3 FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1209
+#EXTINF:-1,CUATRO PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9066
+#EXTINF:-1,CUATRO
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/88
 #EXTINF:-1,CUATRO HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7482.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9160
+#EXTINF:-1,CUATRO FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/497
+#EXTINF:-1,TELECINCO PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9034
+#EXTINF:-1,TELECINCO
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/496
 #EXTINF:-1,TELECINCO HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7447.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9161
+#EXTINF:-1,TELECINCO FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/79
+#EXTINF:-1,LA SEXTA PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9067
+#EXTINF:-1,LA SEXTA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/81
 #EXTINF:-1,LA SEXTA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7469.m3u8
-#EXTINF:-1,VIAJAR HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54100.m3u8
-#EXTINF:-1,24 HORAS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7499.m3u8
-#EXTINF:-1,#0 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7511.m3u8
-#EXTINF:-1,CANAL SUR ANDALUCIA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7487.m3u8
-#EXTINF:-1,TV3 CATALUNYA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/83418.m3u8
-#EXTINF:-1,FDF
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/28521.m3u8
-#EXTINF:-1,A3 SERIES
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57937.m3u8
-#EXTINF:-1,TELEMADRID
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57980.m3u8
-#EXTINF:-1,SOMOS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57936.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/32503.m3u8
-#EXTINF:-1,TVE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59109.m3u8
-#EXTINF:-1,TV GALICIA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/32504.m3u8
-#EXTINF:-1,COCINA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7508.m3u8
-#EXTINF:-1,COCINA TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7507.m3u8
-#EXTINF:-1,DECASA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7512.m3u8
-#EXTINF:-1,DIVINITY
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7506.m3u8
-#EXTINF:-1,ENERGY
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7503.m3u8
-#EXTINF:-1,NEOX
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7452.m3u8
-#EXTINF:-1,ODISEA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7501.m3u8
-#EXTINF:-1,ODISEA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7500.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9162
+#EXTINF:-1,LA SEXTA  FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1016
 #EXTINF:-1,FOX
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7476.m3u8
-#EXTINF:-1,FOX LIFE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6989.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7475.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/28
 #EXTINF:-1,FOX HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71925.m3u8
-#EXTINF:-1,FOX NEWS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71924.m3u8
-#EXTINF:-1,COSMO FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6991.m3u8
-#EXTINF:-1,COSMO HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7484.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7489.m3u8
-#EXTINF:-1,MEGA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6981.m3u8
-#EXTINF:-1,NICKELODEON FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6987.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7485.m3u8
-#EXTINF:-1,CANAL PANDA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7488.m3u8
-#EXTINF:-1,BOING
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7490.m3u8
-#EXTINF:-1,BABY TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7493.m3u8
-#EXTINF:-1,DISNEY JR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7480.m3u8
-#EXTINF:-1,DISNEY XD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7479.m3u8
-#EXTINF:-1,SYFY HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7448.m3u8
-#EXTINF:-1,TNT
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7446.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9165
+#EXTINF:-1,FOX FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1186
+#EXTINF:-1,FOX LIFE PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9081
+#EXTINF:-1,FOX LIFE
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/20
+#EXTINF:-1,FOX LIVE HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9166
+#EXTINF:-1,FOX LIFE FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1187
+#EXTINF:-1,AXN PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9068
 #EXTINF:-1,AXN
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7495.m3u8
-#EXTINF:-1,AXN WHITE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6984.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7494.m3u8
-#EXTINF:-1,MOVIESTAR CINE ESPANHOL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7467.m3u8
-#EXTINF:-1,MOVIESTAR GOLF HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7460.m3u8
-#EXTINF:-1,MOVIESTAR SERIES XTRA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7457.m3u8
-#EXTINF:-1,MEZZO LIVE FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6983.m3u8
-#EXTINF:-1,MOVIESTAR COMEDIA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6994.m3u8
-#EXTINF:-1,MOVIESTAR COMEDIA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7466.m3u8
-#EXTINF:-1,MOVISTAR SERIESMANIA FHD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/30588.m3u8
-#EXTINF:-1,MOVIESTAR DISNEY HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71921.m3u8
-#EXTINF:-1,MOVISTAR SERIESMANIA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/30589.m3u8
-#EXTINF:-1,MOVIESTAR ACCION HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71933.m3u8
-#EXTINF:-1,MOVIESTAR DEPORTES HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71922.m3u8
-#EXTINF:-1,MOVIESTAR DRAMA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71932.m3u8
-#EXTINF:-1,HOLLYWOOD FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7009.m3u8
-#EXTINF:-1,PARAMOUNT
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7450.m3u8
-#EXTINF:-1,LA LIGA TV HD BAR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6996.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71926.m3u8
-#EXTINF:-1,MOVISTAR PARTIDAZO HD ( LIVE EVENT )
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/62568.m3u8
-#EXTINF:-1,MOVIESTAR LIGA CAMPEONES FHD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/31673.m3u8
-#EXTINF:-1,MOVIESTAR LIGA CAMPEONES HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/31674.m3u8
-#EXTINF:-1,LA LIGA 123 TV HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71923.m3u8
-#EXTINF:-1,MOVIESTAR DEPORTE 1 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7464.m3u8
-#EXTINF:-1,MOVIESTAR DEPORTE 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7463.m3u8
-#EXTINF:-1,BEIN SPORTS FHD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7004.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7491.m3u8
-#EXTINF:-1,BEIN LALIGA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71929.m3u8
-#EXTINF:-1,BEIN LALIGA 1HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54149.m3u8
-#EXTINF:-1,MOVIESTAR ESTRENOS FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6999.m3u8
-#EXTINF:-1,GOL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7474.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7001.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7478.m3u8
-#EXTINF:-1,MOVIESTAR FORMULA 1 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7461.m3u8
-#EXTINF:-1,MOVIESTAR FOTBOL FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7000.m3u8
-#EXTINF:-1,MOVIESTAR XTRA FHD 4K
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/6990.m3u8
-#EXTINF:-1,REAL MADRID TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7449.m3u8
-#EXTINF:-1,BARCA TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7492.m3u8
-#EXTINF:-1,DISCOVERY
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7481.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7454.m3u8
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7453.m3u8
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7483.m3u8
-#EXTINF:-1,CAZA Y PESCA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7486.m3u8
-#EXTINF:-1,HISTORIA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7473.m3u8
-#EXTINF:-1,TOROS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7445.m3u8
-#EXTINF:-1,MTV ESPANHA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7455.m3u8
-#EXTINF:-1,IBERALIA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/7472.m3u8
-#EXTINF:-1,ACCION HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54147.m3u8
-#EXTINF:-1,BLAZE ESPANA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54148.m3u8
-#EXTINF:-1,CLASSICA EUROPE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54134.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54135.m3u8
-#EXTINF:-1,FACTORIA DE FICCION
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54136.m3u8
-#EXTINF:-1,I24 NEWS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54137.m3u8
-#EXTINF:-1,MOTOGP HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54138.m3u8
-#EXTINF:-1,MOVISTAR SERIES HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54139.m3u8
-#EXTINF:-1,MULTIDEPORTE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54140.m3u8
-#EXTINF:-1,NICK JR ESPANA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54141.m3u8
-#EXTINF:-1,NOVA SPAIN
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54142.m3u8
-#EXTINF:-1,SUNDANCE TV ESPANA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54143.m3u8
-#EXTINF:-1,TBN ESPANA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54144.m3u8
-#EXTINF:-1,TCM ESPANA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54145.m3u8
-#EXTINF:-1,TELESUR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54146.m3u8
-#EXTINF:-1,#VAMOS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71934.m3u8
-#EXTINF:-1,ARAGON TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71931.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/18
+#EXTINF:-1,AXN HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9163
+#EXTINF:-1,AXN FULL HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1189
+#EXTINF:-1,AXN WAHIT PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9080
+#EXTINF:-1,AXN  WHITE
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/19
+#EXTINF:-1,AXN WAHITE HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9164
+#EXTINF:-1,AXN  WHITE FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1190
+#EXTINF:-1,AMC PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9070
+#EXTINF:-1,AMC
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/29
+#EXTINF:-1,AMC FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1188
+#EXTINF:-1,TNT PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9082
+#EXTINF:-1,TNT
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/30
+#EXTINF:-1,TNT HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9167
+#EXTINF:-1,TNT FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1194
+#EXTINF:-1,SYFY PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9105
+#EXTINF:-1,SYFY
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/15
+#EXTINF:-1,SYFY HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9170
+#EXTINF:-1,SYFY FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/638
+#EXTINF:-1,COSMOS
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/629
+#EXTINF:-1,COSMOS HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9171
+#EXTINF:-1,COSMOPOLITAN  FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/2
+#EXTINF:-1,COMEDY CENTRAL PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9057
+#EXTINF:-1,COMEDY  CENTRAL
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/26
+#EXTINF:-1,COMEDY CENTRAL HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9172
+#EXTINF:-1,COMEDY CENTRAL FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/5502
+#EXTINF:-1,ES:MTV PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9096
+#EXTINF:-1,MTV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7
+#EXTINF:-1,FDF
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/46
+#EXTINF:-1,ES:DKISS PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9095
+#EXTINF:-1,DKISS
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1192
+#EXTINF:-1,A3SERIES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/82
+#EXTINF:-1,***** ESTILO DE VIDA *****
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9184
+#EXTINF:-1,MEGA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/43
+#EXTINF:-1,ENERGY PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9094
+#EXTINF:-1,ENERGY
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/72
+#EXTINF:-1,DIVINITY PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9108
+#EXTINF:-1,DIVINITY
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/80
+#EXTINF:-1,CI PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9051
+#EXTINF:-1,CRIMEN  + INVESTIGACION
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/40
+#EXTINF:-1,DECASA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/449
+#EXTINF:-1,DECASA HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9704
+#EXTINF:-1,DECASA FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9703
+#EXTINF:-1,COCINA PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9114
+#EXTINF:-1,CANAL COCINA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/117
+#EXTINF:-1,CANAL COCINA HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9191
+#EXTINF:-1,CANAL COCINA FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/8734
+#EXTINF:-1,BE MAD PARA MOVIL
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9101
+#EXTINF:-1,BE MAD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9100
 #EXTINF:-1,BE MAD HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71930.m3u8
-#EXTINF:-1,CANAL ORBE 21
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71928.m3u8
-#EXTINF:-1,CLAN TVE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/71927.m3u8
-#EXTINF:-1,Alcudia Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57669.m3u8
-#EXTINF:-1,Alpicat Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57668.m3u8
-#EXTINF:-1,Amposta Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57667.m3u8
-#EXTINF:-1,Cadena Dial
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57666.m3u8
-#EXTINF:-1,Canal Blau
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57665.m3u8
-#EXTINF:-1,Catalunya iCat FM
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57663.m3u8
-#EXTINF:-1,Catalunya Informació
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57662.m3u8
-#EXTINF:-1,Catalunya Música / Cat Música
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57661.m3u8
-#EXTINF:-1,Catalunya Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57664.m3u8
-#EXTINF:-1,Cugat ràdio en directe
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57660.m3u8
-#EXTINF:-1,digital Hits FM
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57659.m3u8
-#EXTINF:-1,El 9 FM
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57658.m3u8
-#EXTINF:-1,Flaix fm
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57657.m3u8
-#EXTINF:-1,IB3 Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57656.m3u8
-#EXTINF:-1,Kiss FM
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57654.m3u8
-#EXTINF:-1,La  Plana Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57653.m3u8
-#EXTINF:-1,Llagostera Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57652.m3u8
-#EXTINF:-1,Los40
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57651.m3u8
-#EXTINF:-1,Maxima FM
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57650.m3u8
-#EXTINF:-1,Nova Ràdio Lloret
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57649.m3u8
-#EXTINF:-1,Ona de Sants-Montjuïc
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57648.m3u8
-#EXTINF:-1,PallarsFM 4G
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57647.m3u8
-#EXTINF:-1,Pròxima fm
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57646.m3u8
-#EXTINF:-1,RAC 1
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57645.m3u8
-#EXTINF:-1,Ràdio 4
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57643.m3u8
-#EXTINF:-1,Ràdio 90
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57642.m3u8
-#EXTINF:-1,Ràdio Arenys de Mar
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57641.m3u8
-#EXTINF:-1,Ràdio Arenys de Munt
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57640.m3u8
-#EXTINF:-1,Ràdio Arrels / Flash
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57639.m3u8
-#EXTINF:-1,Ràdio Badalona
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57638.m3u8
-#EXTINF:-1,Ràdio Balaguer
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57637.m3u8
-#EXTINF:-1,Ràdio Banyoles
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57636.m3u8
-#EXTINF:-1,Ràdio Barça / Engels
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57635.m3u8
-#EXTINF:-1,Ràdio Begur
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57634.m3u8
-#EXTINF:-1,Radio Bisbal
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57633.m3u8
-#EXTINF:-1,Ràdio Blanes RB
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57632.m3u8
-#EXTINF:-1,Ràdio Capital / Empordà Premium Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57630.m3u8
-#EXTINF:-1,Ràdio Capital / la ràdio de l'Empordà
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57631.m3u8
-#EXTINF:-1,Ràdio Capital / Ràdio Indiana
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57629.m3u8
-#EXTINF:-1,Ràdio Cassà
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57628.m3u8
-#EXTINF:-1,Ràdio Cunit
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57627.m3u8
-#EXTINF:-1,Ràdio Estel
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57626.m3u8
-#EXTINF:-1,Ràdio Falset
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57625.m3u8
-#EXTINF:-1,Ràdio Flaixbac
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57624.m3u8
-#EXTINF:-1,Ràdio Girona
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57623.m3u8
-#EXTINF:-1,Ràdio Granollers
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57622.m3u8
-#EXTINF:-1,Ràdio Igualada
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57621.m3u8
-#EXTINF:-1,Ràdio Lleida
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57620.m3u8
-#EXTINF:-1,Ràdio Manresa
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57619.m3u8
-#EXTINF:-1,Ràdio Maricel de Sitges
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57618.m3u8
-#EXTINF:-1,Ràdio Montblanc
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57617.m3u8
-#EXTINF:-1,Ràdio Móra d'Ebre
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57616.m3u8
-#EXTINF:-1,Ràdio Municipal de Terrassa
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57615.m3u8
-#EXTINF:-1,Ràdio Nova / Vilanova del Camí
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57614.m3u8
-#EXTINF:-1,Radio Olot
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57613.m3u8
-#EXTINF:-1,Ràdio Ona
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57612.m3u8
-#EXTINF:-1,Ràdio Palafrugell
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57611.m3u8
-#EXTINF:-1,Ràdio Palamós
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57610.m3u8
-#EXTINF:-1,Ràdio Puig-reig
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57609.m3u8
-#EXTINF:-1,Ràdio Puigcerdà
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57608.m3u8
-#EXTINF:-1,Ràdio Ràpita
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57607.m3u8
-#EXTINF:-1,Ràdio Ripoll
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57606.m3u8
-#EXTINF:-1,Ràdio Sabadell
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57605.m3u8
-#EXTINF:-1,Ràdio Santa Susanna
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57604.m3u8
-#EXTINF:-1,Ràdio Seu
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57603.m3u8
-#EXTINF:-1,Ràdio Sió Agramunt
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57602.m3u8
-#EXTINF:-1,Ràdio Tàrrega
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57601.m3u8
-#EXTINF:-1,Ràdio Tortosa
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57600.m3u8
-#EXTINF:-1,Ràdio Tot Bisbal
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57599.m3u8
-#EXTINF:-1,Ràdio Valls
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57598.m3u8
-#EXTINF:-1,Ràdio Vic 90.3
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57597.m3u8
-#EXTINF:-1,Ràdio Vilafant
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57596.m3u8
-#EXTINF:-1,Ràdio Vilafranca
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57595.m3u8
-#EXTINF:-1,Ràdio Vilamajor
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57594.m3u8
-#EXTINF:-1,Ràdio Voltregà
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57593.m3u8
-#EXTINF:-1,Rap 107 fm
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57592.m3u8
-#EXTINF:-1,Ripollet Ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57591.m3u8
-#EXTINF:-1,SER Reus
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57590.m3u8
-#EXTINF:-1,Tarragona ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57589.m3u8
-#EXTINF:-1,Titoieta ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57588.m3u8
-#EXTINF:-1,Tot ràdio
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57587.m3u8
-#EXTINF:-1,XtraFM Costa Brava
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/57586.m3u8
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9192
+#EXTINF:-1,BE MAD FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/546
+#EXTINF:-1,NEOX ES PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9098
+#EXTINF:-1,NEOX
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/41
+#EXTINF:-1,NOVA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/42
+#EXTINF:-1,***** INFANTIL *****
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9185
+#EXTINF:-1,MOVISTAR DISNEY PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9090
+#EXTINF:-1,MOVISTAR DISNEY
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/2774
+#EXTINF:-1,ES:DISNEY XD PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9048
+#EXTINF:-1,DISNEY  XD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/44
+#EXTINF:-1,DISNEY JR
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/8
+#EXTINF:-1,ES:DISNEY CHANNEL PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9042
+#EXTINF:-1,DISNEY CHANNEL
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/6
+#EXTINF:-1,DISNEY CHANNEL HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9179
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/661
+#EXTINF:-1,CLAN
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/4
+#EXTINF:-1,CLAN HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9180
+#EXTINF:-1,CLAN FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7874
+#EXTINF:-1,ES:BOING PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9054
+#EXTINF:-1,BOING
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/36
+#EXTINF:-1,CANAL PANDA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/55
+#EXTINF:-1,BABY  TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/5
+#EXTINF:-1,NICKELOODEON PARA MOVILES
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9113
+#EXTINF:-1,NICKELODEON
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/70
+#EXTINF:-1,NICKELODEON HD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9181
+#EXTINF:-1,NICKELODEON FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/627
+#EXTINF:-1,NICK JR
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/481
+#EXTINF:-1,***** AUTONÓMICOS *****
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9188
+#EXTINF:-1,13 TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7870
+#EXTINF:-1,7RM FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7877
+#EXTINF:-1,CANAL SUR
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/9702
+#EXTINF:-1,CANAL SUR FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7869
+#EXTINF:-1,CMM FULLHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7871
+#EXTINF:-1,ETB 1
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7867
+#EXTINF:-1,EXTREMADURA TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7881
+#EXTINF:-1,LA OTRA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7868
+#EXTINF:-1,INTERECONOMIA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7872
+#EXTINF:-1,TELEMADRID FHD
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/7866
+#EXTINF:-1,CANAL ORBE21
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/1311
+#EXTINF:-1,FOX NEWS
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/8246
+#EXTINF:-1,324
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13492
+#EXTINF:-1,324 Exclusiu
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8
+#EXTINF:-1,TV3
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13491
+#EXTINF:-1,TV3 Càmeres
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13495
+#EXTINF:-1,33
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13496
+#EXTINF:-1,Lebrija TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13478
+#EXTINF:-1,Teleonuba
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13479
+#EXTINF:-1,InterAlmería TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13481
+#EXTINF:-1,PTV Málaga
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13482
+#EXTINF:-1,Cadena Elite
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13485
+#EXTINF:-1,Condavisión
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13487
+#EXTINF:-1,Alternativa TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13488
+#EXTINF:-1,Bon Dia TV
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/13493
+#EXTINF:-1,CLASSICA
+http://movspain.com:25461/e4fxaBvinG/hWnbLsOqhT/8245
