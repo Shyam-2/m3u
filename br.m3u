@@ -1,280 +1,687 @@
-#EXTINF:-1,RECORD TV HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59191.m3u8
-#EXTINF:-1,RECORD TV NORDESTE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59190.m3u8
+#EXTM3U
 #EXTINF:-1,RECORD NEWS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59189.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60225
+#EXTINF:-1,RECORD TV HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60227
+#EXTINF:-1,RECORD TV NORDESTE HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60226
 #EXTINF:-1,GLOBO
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59251.m3u8
-#EXTINF:-1,GLOBO RJ HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59241.m3u8
-#EXTINF:-1,GLOBO RJ
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59242.m3u8
-#EXTINF:-1,GLOBO SP HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59237.m3u8
-#EXTINF:-1,GLOBO SP
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59238.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60224
+#EXTINF:-1,GLOBO AMAZONAS
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60219
+#EXTINF:-1,GLOBO ANHANGUERA GOIANIA
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60218
 #EXTINF:-1,GLOBO BRASILIA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59248.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60217
 #EXTINF:-1,GLOBO EPTV CAMPINAS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59247.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60216
 #EXTINF:-1,GLOBO EPTV RIBEIRO PRETO
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59246.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60215
 #EXTINF:-1,GLOBO FORTALEZA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59245.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60214
 #EXTINF:-1,GLOBO NEWS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59244.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60213
 #EXTINF:-1,GLOBO NORDESTE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59243.m3u8
-#EXTINF:-1,GLOBO INTERNATIONAL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59240.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60212
+#EXTINF:-1,GLOBO PREMIUM
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60211
 #EXTINF:-1,GLOBO RBS PORTO ALGRE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59239.m3u8
-#EXTINF:-1,GLOBO TV CABUGI
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59236.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60210
+#EXTINF:-1,GLOBO RJ
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60222
+#EXTINF:-1,GLOBO RJ HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60223
+#EXTINF:-1,GLOBO SP
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60220
+#EXTINF:-1,GLOBO SP HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60221
+#EXTINF:-1,Globo Anhanguera Goiania SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79906
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79907
+#EXTINF:-1,Globo SP FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60209
 #EXTINF:-1,GLOBO TV TEM BAURU
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59235.m3u8
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59234.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60208
+#EXTINF:-1,GLOBO TV TRIBUNA SANTONS
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60207
 #EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59233.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59277.m3u8
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59276.m3u8
-#EXTINF:-1,DISCOVERY H&H HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59275.m3u8
-#EXTINF:-1,DISCOVERY KIDS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59274.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59273.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59272.m3u8
-#EXTINF:-1,DISCOVERY TURBO HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59271.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59302.m3u8
-#EXTINF:-1,NAT GEO HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59212.m3u8
-#EXTINF:-1,NAT GEO KIDS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59211.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59210.m3u8
-#EXTINF:-1,HISTORY CHANNEL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59223.m3u8
-#EXTINF:-1,ID DISCOVERY HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59222.m3u8
-#EXTINF:-1,BAND HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59296.m3u8
-#EXTINF:-1,BAND NEWS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59295.m3u8
-#EXTINF:-1,BAND SPORTS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59294.m3u8
-#EXTINF:-1,BIS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59292.m3u8
-#EXTINF:-1,ARTE 1
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59299.m3u8
-#EXTINF:-1,AXN HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59298.m3u8
-#EXTINF:-1,A&E HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59303.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59280.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59269.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59270.m3u8
-#EXTINF:-1,DISNEY XD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59268.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59283.m3u8
-#EXTINF:-1,BABY TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59297.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59209.m3u8
-#EXTINF:-1,NICK JR HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59208.m3u8
-#EXTINF:-1,AMC HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59301.m3u8
-#EXTINF:-1,APARECIDA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59300.m3u8
-#EXTINF:-1,BANDEIRANTES
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59293.m3u8
-#EXTINF:-1,BOA VONTADE TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59291.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59290.m3u8
-#EXTINF:-1,CANAL BRASIL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59289.m3u8
-#EXTINF:-1,CANAL NOVA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59287.m3u8
-#EXTINF:-1,CANAL OFF MULTISHOW HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59286.m3u8
-#EXTINF:-1,CANAL RURAL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59285.m3u8
-#EXTINF:-1,CANAL SONY HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59284.m3u8
-#EXTINF:-1,CINEMAX HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59282.m3u8
-#EXTINF:-1,COMBATE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59281.m3u8
-#EXTINF:-1,CURTA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59278.m3u8
-#EXTINF:-1,E! HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59267.m3u8
-#EXTINF:-1,ESPN
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59266.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59264.m3u8
-#EXTINF:-1,ESPN BRASIL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59263.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59262.m3u8
-#EXTINF:-1,ESPN HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59265.m3u8
-#EXTINF:-1,FISH TV HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59261.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59260.m3u8
-#EXTINF:-1,FOX HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59259.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59258.m3u8
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59257.m3u8
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59256.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59254.m3u8
-#EXTINF:-1,FOX SPORTS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59255.m3u8
-#EXTINF:-1,FUTURA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59253.m3u8
-#EXTINF:-1,FX HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59252.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60206
 #EXTINF:-1,GLOBOSAT HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59232.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60146
 #EXTINF:-1,GLOOB HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59231.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60145
+#EXTINF:-1,A&E |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60186
+#EXTINF:-1,AMC |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60177
+#EXTINF:-1,ANIMAL PLANET. HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60198
+#EXTINF:-1,APARECIDA
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60176
+#EXTINF:-1,ARTE 1
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60188
+#EXTINF:-1,AXN |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60187
+#EXTINF:-1,BABY . TV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60180
+#EXTINF:-1,BAND HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60192
+#EXTINF:-1,BAND NEWS HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60191
+#EXTINF:-1,Aparceida
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79927
+#EXTINF:-1,BAND.SPORT HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79903
+#EXTINF:-1,Globo Eptv Campinas HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79905
+#EXTINF:-1,Gloobinho FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79910
+#EXTINF:-1,HBO+ FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79911
+#EXTINF:-1,MAX Prime  FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79912
+#EXTINF:-1,Prime Box Brazil HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79913
+#EXTINF:-1,Record HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79914
+#EXTINF:-1,Record News .HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79917
+#EXTINF:-1,Record Nordeste. HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79916
+#EXTINF:-1,Record Tv Leste HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79915
+#EXTINF:-1,Rede Super
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79920
+#EXTINF:-1,REDE TV HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79921
+#EXTINF:-1,SBT Brasil HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79923
+#EXTINF:-1,Sbt FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79922
+#EXTINF:-1,Sbt Nordeste HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79924
+#EXTINF:-1,TNT .HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79925
+#EXTINF:-1,TNT Series FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79926
+#EXTINF:-1,TV BRASIL
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79928
+#EXTINF:-1,BAND SPORTS
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60190
+#EXTINF:-1,BIS HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60189
+#EXTINF:-1,BOA VONTADE TV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60174
+#EXTINF:-1,BOOMERANG .HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60173
+#EXTINF:-1,CANAL BRASIL
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60172
+#EXTINF:-1,CANAL NOVA
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60170
+#EXTINF:-1,CANAL OFF MULTISHOW HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60169
+#EXTINF:-1,CANAL RURAL
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60168
+#EXTINF:-1,CANAL SONY HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60167
+#EXTINF:-1,CARTOON  NETWORK HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60181
+#EXTINF:-1,CINEMAX  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60166
+#EXTINF:-1,CNT
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60165
+#EXTINF:-1,COMBATE HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60164
+#EXTINF:-1,COMEDY_CENTRAL HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60185
+#EXTINF:-1,CURTA HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60163
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60205
+#EXTINF:-1,DISCOVERY  CIVILIZATION
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60204
+#EXTINF:-1,DISCOVERY H&H HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60203
+#EXTINF:-1,DISCOVERY KIDS HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60202
+#EXTINF:-1,DISCOVERY SCIENCE
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60201
+#EXTINF:-1,DISCOVERY THEATER HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60200
+#EXTINF:-1,DISCOVERY TURBO HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60199
+#EXTINF:-1,DISNEY CHANNL
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60183
+#EXTINF:-1,DISNEY_JUNIOR HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60184
+#EXTINF:-1,DISNEY. XD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60182
+#EXTINF:-1,E!  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60162
+#EXTINF:-1,ESPN
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60161
+#EXTINF:-1,ESPN. 2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60160
+#EXTINF:-1,ESPN BRASIL HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60159
+#EXTINF:-1,ESPN EXTRA HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60158
+#EXTINF:-1,ESPN HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60157
+#EXTINF:-1,FISH TV HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60156
+#EXTINF:-1,FOOD NETWORK |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60155
+#EXTINF:-1,FOX | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60154
+#EXTINF:-1,FOX LIFE |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60153
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60152
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60151
+#EXTINF:-1,FOX SPORTS.2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60150
+#EXTINF:-1,FOX SPORTS HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60149
+#EXTINF:-1,FUTURA
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60148
+#EXTINF:-1,FX | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60147
 #EXTINF:-1,GNT
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59230.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60144
 #EXTINF:-1,H2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59229.m3u8
-#EXTINF:-1,HBO 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59227.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59226.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60143
+#EXTINF:-1,HBO. 2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60142
+#EXTINF:-1,HBO FAMILY | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60141
 #EXTINF:-1,HBO HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59228.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60140
 #EXTINF:-1,HBO PLUS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59225.m3u8
-#EXTINF:-1,HBO SIGNATURE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59224.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60139
+#EXTINF:-1,HBO  SIGNATURE HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60138
+#EXTINF:-1,HISTORY CHANNEL HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60194
+#EXTINF:-1,ID DISCOVERY HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60193
 #EXTINF:-1,LIFETIME HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59221.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60137
 #EXTINF:-1,MAIS GLOBOSAT
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59220.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60136
 #EXTINF:-1,MAX HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59219.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60135
 #EXTINF:-1,MAX PRIME HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59218.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60134
 #EXTINF:-1,MAX UP
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59217.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60133
 #EXTINF:-1,MEGAPIX
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59216.m3u8
-#EXTINF:-1,MTV HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59215.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60132
+#EXTINF:-1,MTV  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60131
+#EXTINF:-1,VH1 Mega Hits
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/79936
 #EXTINF:-1,MULTISHOW HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59214.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60130
 #EXTINF:-1,MUSIC BOX
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59213.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60129
+#EXTINF:-1,NAT GEO HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60197
+#EXTINF:-1,NAT GEO KDS HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60196
+#EXTINF:-1,NAT GEO WLD HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60195
+#EXTINF:-1,NICK JR HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60178
+#EXTINF:-1,NICKELODEON . HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60179
 #EXTINF:-1,NOVO TEMPO
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59207.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60128
 #EXTINF:-1,OFF
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59206.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60127
 #EXTINF:-1,PARAMOUNT HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59205.m3u8
-#EXTINF:-1,PLAY TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59204.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60126
 #EXTINF:-1,PREMIERE 2
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59202.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60123
 #EXTINF:-1,PREMIERE 3 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59201.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60122
 #EXTINF:-1,PREMIERE 4 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59200.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60121
 #EXTINF:-1,PREMIERE 5 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59199.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60120
 #EXTINF:-1,PREMIERE 6 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59198.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60119
 #EXTINF:-1,PREMIERE 7
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59197.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60118
 #EXTINF:-1,PREMIERE 8
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59196.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60117
+#EXTINF:-1,PREMIERE 9
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60116
 #EXTINF:-1,PREMIERE CLUBES HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59194.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60115
 #EXTINF:-1,PRIME BOX BRASIL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59193.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60114
+#EXTINF:-1,RBI
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60113
 #EXTINF:-1,REDE TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59188.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60112
 #EXTINF:-1,REDE VIDA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59187.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60111
 #EXTINF:-1,RIT TV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/54171.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60110
 #EXTINF:-1,SBT HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59186.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60109
 #EXTINF:-1,SPACE HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59185.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60108
 #EXTINF:-1,SPORTV 2 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59183.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60107
 #EXTINF:-1,SPORTV 3 HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59182.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60106
 #EXTINF:-1,SPORTV HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59184.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60105
 #EXTINF:-1,STUDIO UNIVERSAL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59181.m3u8
-#EXTINF:-1,SYFY HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59180.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60104
+#EXTINF:-1,SYFY | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60103
 #EXTINF:-1,TBS HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59179.m3u8
-#EXTINF:-1,TCM HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59178.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60102
+#EXTINF:-1,TCM | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60101
 #EXTINF:-1,TELECINE ACTION HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59176.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60100
 #EXTINF:-1,TELECINE CULT HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59175.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60099
 #EXTINF:-1,TELECINE FUN HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59174.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60098
 #EXTINF:-1,TELECINE PIPOCA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59173.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60097
 #EXTINF:-1,TELECINE PREMIUM HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59172.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60096
 #EXTINF:-1,TELECINE TOUCH HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59171.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60095
 #EXTINF:-1,TERRA VIVA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59177.m3u8
-#EXTINF:-1,TLC HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59170.m3u8
-#EXTINF:-1,TNT
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59169.m3u8
-#EXTINF:-1,TNT SERIES HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59168.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60094
+#EXTINF:-1,TLC | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60093
+#EXTINF:-1,TNT |
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60092
+#EXTINF:-1,TNT | SERIES HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60091
 #EXTINF:-1,TOONCAST HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59167.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60090
 #EXTINF:-1,TRUTV
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59166.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60089
 #EXTINF:-1,TV BRASIL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59165.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60088
+#EXTINF:-1,TV CAMARA
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60087
+#EXTINF:-1,TV CULTURA HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60086
 #EXTINF:-1,TV ESCOLA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59162.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60085
 #EXTINF:-1,TV JUSTICA
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59161.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59158.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60084
+#EXTINF:-1,Tv A Plateia Rs
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60083
+#EXTINF:-1,TV SENADO
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60082
+#EXTINF:-1,UNIVERSAL. CHANNEL
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60081
 #EXTINF:-1,VH1 MEGAHITS
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59157.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60080
 #EXTINF:-1,VIVA HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59156.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60079
 #EXTINF:-1,WARNER CHANNEL HD
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59155.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60078
 #EXTINF:-1,WOOHOO
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/59154.m3u8
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/60077
+#EXTINF:-1,A&E HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85381
+#EXTINF:-1,AMC HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85379
+#EXTINF:-1,Animal  Planet | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85378
+#EXTINF:-1,Arte 1 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85377
+#EXTINF:-1,AXN HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85376
+#EXTINF:-1,Baby Tv  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85375
+#EXTINF:-1,Tv Boa Esperan
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85374
+#EXTINF:-1,Band  News | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85373
+#EXTINF:-1,Band  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85372
+#EXTINF:-1,Band SP FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85371
+#EXTINF:-1,Band Sports HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85370
+#EXTINF:-1,BBC HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85368
+#EXTINF:-1,BIS  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85367
+#EXTINF:-1,Boomerang | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85366
+#EXTINF:-1,Canal Do  Boi SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85365
+#EXTINF:-1,Canal Rural SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85364
+#EXTINF:-1,Canal Sony  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85363
+#EXTINF:-1,Rede Vida
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85362
+#EXTINF:-1,Cartoon Network FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85361
+#EXTINF:-1,Cartoon  Network  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85360
+#EXTINF:-1,CINE PREMIUM HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85359
+#EXTINF:-1,CINE PIPOCA HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85357
+#EXTINF:-1,CINE ACTION HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85355
+#EXTINF:-1,CINE CULT HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85354
+#EXTINF:-1,Cinemax | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85353
+#EXTINF:-1,Cinemax  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85352
+#EXTINF:-1,Combate FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85350
+#EXTINF:-1,Combate  | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85349
+#EXTINF:-1,Comedy  Central HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85348
+#EXTINF:-1,Curta! HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85345
+#EXTINF:-1,Discovery Channel FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85344
+#EXTINF:-1,Discovery Civilization HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85343
+#EXTINF:-1,Discovery Home Health HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85342
+#EXTINF:-1,Discovery  Kids  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85341
+#EXTINF:-1,Discovery  Science  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85340
+#EXTINF:-1,Discovery Theater | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85339
+#EXTINF:-1,Discovery TLC HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85338
+#EXTINF:-1,Discovery Turbo FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85337
+#EXTINF:-1,Discovery World | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85336
+#EXTINF:-1,Disney Channel | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85335
+#EXTINF:-1,Disney Jr  | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85334
+#EXTINF:-1,Disney Jr  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85333
+#EXTINF:-1,Disney XD  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85332
+#EXTINF:-1,Disney XD SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85331
+#EXTINF:-1,DW HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85330
+#EXTINF:-1,E! |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85329
+#EXTINF:-1,Espn 2 FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85327
+#EXTINF:-1,Espn Brasil FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85326
+#EXTINF:-1,Espn Extra FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85325
+#EXTINF:-1,Espn  Extra HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85324
+#EXTINF:-1,Espn | FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85323
+#EXTINF:-1,Espn | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85322
+#EXTINF:-1,Espn International  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85321
+#EXTINF:-1,Espn  | SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85320
+#EXTINF:-1,Esporte Int.HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85319
+#EXTINF:-1,Esporte Int.SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85318
+#EXTINF:-1,Fashion Tv HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85317
+#EXTINF:-1,Fish  Tv HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85316
+#EXTINF:-1,Food Network  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85314
+#EXTINF:-1,Fox  FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85313
+#EXTINF:-1,Fox  Premium 1 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85312
+#EXTINF:-1,Fox  Premium 2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85311
+#EXTINF:-1,Fox SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85310
+#EXTINF:-1,Fox  Sports 2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85309
+#EXTINF:-1,Fox Sports 2 SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85308
+#EXTINF:-1,Fox Sports | FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85307
+#EXTINF:-1,Fox  Sports  | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85306
+#EXTINF:-1,Fox Sports  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85305
+#EXTINF:-1,FX  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85304
+#EXTINF:-1,FX  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85303
+#EXTINF:-1,Gazeta  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85301
+#EXTINF:-1,Globo  Bahia HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85297
+#EXTINF:-1,Globo Brasilia SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85296
+#EXTINF:-1,Globo Eptv  Campinas HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85295
+#EXTINF:-1,Globo Internacional HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85294
+#EXTINF:-1,Globo MG HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85293
+#EXTINF:-1,Globo MG SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85292
+#EXTINF:-1,Globo  Nordeste HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85291
+#EXTINF:-1,Globo Rbs Porto Alegre SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85290
+#EXTINF:-1,Globo RJ  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85289
+#EXTINF:-1,Globo SP  FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85287
+#EXTINF:-1,Globo Tv Tem Bauru  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85286
+#EXTINF:-1,Globo TV Tem  Bauru SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85285
+#EXTINF:-1,Globo Tv Tribuna  Santos SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85283
+#EXTINF:-1,Globo Tv Vanguarda S.J Dos Campos SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85282
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85281
+#EXTINF:-1,Globo news HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85280
+#EXTINF:-1,Globonews  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85279
+#EXTINF:-1,Globosat  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85278
+#EXTINF:-1,Globosat SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85277
+#EXTINF:-1,Gloob  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85276
+#EXTINF:-1,Gloob  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85275
+#EXTINF:-1,Gloobinho  FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85274
+#EXTINF:-1,Gnt  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85273
+#EXTINF:-1,Gospel Cartoon SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85272
+#EXTINF:-1,Gospel Movies Television  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85271
+#EXTINF:-1,H2  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85269
+#EXTINF:-1,HBO |  2  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85268
+#EXTINF:-1,HBO 2 |SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85267
+#EXTINF:-1,|HBO HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85264
+#EXTINF:-1,|HBO Plus SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85262
+#EXTINF:-1,HBO Plus | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85261
+#EXTINF:-1,HBO Signature  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85259
+#EXTINF:-1,HBO Signature  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85258
+#EXTINF:-1,History  Channel|  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85257
+#EXTINF:-1,History Channel  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85256
+#EXTINF:-1,ID  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85255
+#EXTINF:-1,ID  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85254
+#EXTINF:-1,Igreja Mundial Do Poder De Deus SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85252
+#EXTINF:-1,Lifetime  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85251
+#EXTINF:-1,Lifetime SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85250
+#EXTINF:-1,Max  | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85249
+#EXTINF:-1,Max Prime  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85248
+#EXTINF:-1,Max Prime  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85247
+#EXTINF:-1,Max  Prime HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85246
+#EXTINF:-1,Max Prime |SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85245
+#EXTINF:-1,Max | SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85244
+#EXTINF:-1,Max Up  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85243
+#EXTINF:-1,Max Up | SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85242
+#EXTINF:-1,Megapix  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85241
+#EXTINF:-1,Megapix  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85240
+#EXTINF:-1,Mtv  | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85239
+#EXTINF:-1,Mtv  | SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85238
+#EXTINF:-1,Multishow  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85237
+#EXTINF:-1,Multishow | SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85236
+#EXTINF:-1,Music Box Brazil HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85386
+#EXTINF:-1,Music Box Brazil SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85385
+#EXTINF:-1,Natgeo  Wild HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85234
+#EXTINF:-1,National  Geographic | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85233
+#EXTINF:-1,NBR  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85232
+#EXTINF:-1,Nick Jr  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85231
+#EXTINF:-1,Nick Jr  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85230
+#EXTINF:-1,Nickelodeon  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85229
+#EXTINF:-1,Nickelodeon  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85228
+#EXTINF:-1,OFF HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85227
+#EXTINF:-1,Paramount | HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85226
+#EXTINF:-1,Play Tv SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85225
+#EXTINF:-1,Premiere 2 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85223
+#EXTINF:-1,Premiere 3 FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85222
+#EXTINF:-1,Premiere 4 FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85221
+#EXTINF:-1,Premiere 5 FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85220
+#EXTINF:-1,Premiere 6 FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85219
+#EXTINF:-1,Premiere 7 HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85218
+#EXTINF:-1,Premiere 8 SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85217
+#EXTINF:-1,Premiere 9 SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85216
+#EXTINF:-1,Premiere Clubes FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85215
+#EXTINF:-1,Premiere Clubes SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85212
+#EXTINF:-1,Prime Box Brazil  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85384
+#EXTINF:-1,Prime Box Brazil SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85383
+#EXTINF:-1,Ratimbum HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85209
+#EXTINF:-1,Rbi SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85207
+#EXTINF:-1,Record Amazonas| SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85206
+#EXTINF:-1,TV Guará (Record News)
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85205
+#EXTINF:-1,Record  News HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85204
+#EXTINF:-1,Record Nordeste HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85203
+#EXTINF:-1,Record SP HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85202
+#EXTINF:-1,BR: TV Record HD,
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85201
+#EXTINF:-1,Red Bull Tv HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85200
+#EXTINF:-1,Rede Genesis SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85199
+#EXTINF:-1,Rede Gospel  HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85198
+#EXTINF:-1,Rede Minas FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85195
+#EXTINF:-1,Rede Minas Tv Rio Doce SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85194
+#EXTINF:-1,Rede New  Tv SP
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85193
+#EXTINF:-1,Rede Super SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85190
+#EXTINF:-1,Rede Plenitude TV
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85188
+#EXTINF:-1,Rede Tv SP
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85187
+#EXTINF:-1,Rede  Vida SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85186
+#EXTINF:-1,Redetv! SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85185
+#EXTINF:-1,Rit  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85183
+#EXTINF:-1,Rtpi SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85182
+#EXTINF:-1,Sbt  | FHD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85180
+#EXTINF:-1,Sbt  |HD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85179
+#EXTINF:-1,Sbt Interior SP
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85178
+#EXTINF:-1,Sbt  SD
+http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/85176
