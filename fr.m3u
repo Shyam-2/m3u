@@ -1,149 +1,341 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",Alsace 20
-http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
-#EXTINF:-1 tvg-id="Arte FR" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="",Arte
-https://s1.tntendirect.com/arte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rCurmKp.jpg" group-title="",Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGOT4iz.png" group-title="",Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z1DWn1M.png" group-title="",Bblack! Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="",BFM TV
-https://s1.tntendirect.com/bmftv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="",C8
-https://s1.tntendirect.com/d8/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J FR" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="",Canal J
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="",CStar
-https://s1.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="",EMCI TV
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-id="France 2 FR" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="",France 2
-https://s1.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="",France 3
-http://109.236.92.216:9090/France3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="",France 3
-https://s1.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="",France 4
-https://s1.tntendirect.com/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 5 FR" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="",France 5
-https://s1.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France O FR" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="",France Ô
-https://s1.tntendirect.com/franceo/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Gulli FR" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="",Gulli
-https://s1.tntendirect.com/gulli/live/playlist.m3u8
-#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="LEquipe 21 FR" tvg-logo="https://i.imgur.com/B6r4RgK.jpg" group-title="",L'Equipe 21
-https://s1.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="",M6
-https://s1.tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="Music",MCM Top HD
-http://92.43.140.249/s49/04.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="Music",MCM Top HD
-http://ott-cdn.ucom.am/s49/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://i.imgur.com/ejEcufH.png" group-title="Music",Mezzo
-http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://i.imgur.com/ejEcufH.png" group-title="Music",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="",NRJ 12
-https://s1.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC Decouverte FR" tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg" group-title="",RMC Decouverte
-https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg" group-title="",RMC Story
-https://s1.tntendirect.com/numero23/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 FR" tvg-logo="https://i.imgur.com/06fP5xL.jpg" group-title="",TF1
-https://s1.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 Series Film FR" tvg-logo="https://i.imgur.com/RcUdig8.jpg" group-title="Movies",TF1 Series Film
-https://s1.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="",TFX
-https://s1.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC FR" tvg-logo="https://i.imgur.com/cV2Os0a.jpg" group-title="",TMC
-https://s1.tntendirect.com/tmc/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.imgur.com/bQ0qIxF.jpg" group-title="",TV8 Montblanc
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Kids",TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/803evgT.png" group-title="",viàVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="",W9
-https://s1.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KVtWkO8.jpg" group-title="XXX",XXL
-http://51.15.125.186:8081/live/xxl/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,beIN SPORTS 1 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47186.ts
+#EXTINF:-1,beIN SPORTS 2 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47184.ts
+#EXTINF:-1,beIN SPORTS 3 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47182.ts
+#EXTINF:-1,BEIN Sports MAX 10
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47174.ts
+#EXTINF:-1,BEIN Sports MAX 4
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47180.ts
+#EXTINF:-1,BEIN Sports MAX 5
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47179.ts
+#EXTINF:-1,BEIN Sports MAX 6
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47178.ts
+#EXTINF:-1,BEIN Sports MAX 7
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47177.ts
+#EXTINF:-1,BEIN Sports MAX 8
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47176.ts
+#EXTINF:-1,BEIN Sports MAX 9
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47175.ts
+#EXTINF:-1,BET HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47239.ts
+#EXTINF:-1,BFM Business
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47198.ts
+#EXTINF:-1,BFM PARIS
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47129.ts
+#EXTINF:-1,BFM TV HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47199.ts
+#EXTINF:-1,Boing HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47150.ts
+#EXTINF:-1,Boomerang HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47153.ts
+#EXTINF:-1,C8 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47238.ts
+#EXTINF:-1,Canal   Cinéma HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47279.ts
+#EXTINF:-1,Canal   Décalé HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47275.ts
+#EXTINF:-1,Canal   Family HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47276.ts
+#EXTINF:-1,Canal   Séries HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47277.ts
+#EXTINF:-1,Canal   Sport HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47278.ts
+#EXTINF:-1,CANAL  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47281.ts
+#EXTINF:-1,Canal  Sport 1 Afrique
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47148.ts
+#EXTINF:-1,Canal Alpha JU
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47133.ts
+#EXTINF:-1,CANAL J HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47151.ts
+#EXTINF:-1,Cartoon Network HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47152.ts
+#EXTINF:-1,CGTN Français
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47192.ts
+#EXTINF:-1,Chasse & Peche
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47203.ts
+#EXTINF:-1,Chï؟½rie 25 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47229.ts
+#EXTINF:-1,Cine   Classic HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47269.ts
+#EXTINF:-1,Cine   Club HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47270.ts
+#EXTINF:-1,Cine   ةmotion HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47272.ts
+#EXTINF:-1,Cine   Famiz HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47271.ts
+#EXTINF:-1,Cine   Frisson HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47273.ts
+#EXTINF:-1,Cine   Premier HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47274.ts
+#EXTINF:-1,Clubbing TV
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47122.ts
+#EXTINF:-1,CNews HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47200.ts
+#EXTINF:-1,Comï؟½die   HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47260.ts
+#EXTINF:-1,Crime District HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47219.ts
+#EXTINF:-1,CSTAR HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47233.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47224.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD  1
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47223.ts
+#EXTINF:-1,DISCOVERY FAMILY
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47222.ts
+#EXTINF:-1,Discovery Science HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47221.ts
+#EXTINF:-1,Disney Channel HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47160.ts
+#EXTINF:-1,Disney Channel HD  1
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47159.ts
+#EXTINF:-1,Disney Cinema HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47265.ts
+#EXTINF:-1,Disney Junior HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47158.ts
+#EXTINF:-1,Disney XD HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47157.ts
+#EXTINF:-1,DJAZZ TV HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47123.ts
+#EXTINF:-1,Elle Girl HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47255.ts
+#EXTINF:-1,EQUIDIA
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47166.ts
+#EXTINF:-1,EQUIDIA HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47167.ts
+#EXTINF:-1,EURO Channel
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47193.ts
+#EXTINF:-1,Eurosport 1 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47171.ts
+#EXTINF:-1,Eurosport 2 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47170.ts
+#EXTINF:-1,EXTREME SPORT HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47164.ts
+#EXTINF:-1,Foot  24 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47191.ts
+#EXTINF:-1,FRANCE 2 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47286.ts
+#EXTINF:-1,FRANCE 24 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47194.ts
+#EXTINF:-1,FRANCE 3 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47285.ts
+#EXTINF:-1,FRANCE 4 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47284.ts
+#EXTINF:-1,FRANCE 5 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47283.ts
+#EXTINF:-1,France Info HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47195.ts
+#EXTINF:-1,France ش HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47282.ts
+#EXTINF:-1,Game One  1
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47252.ts
+#EXTINF:-1,Game One HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47251.ts
+#EXTINF:-1,GOLF  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47168.ts
+#EXTINF:-1,Gong HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47246.ts
+#EXTINF:-1,GONG MAX HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47247.ts
+#EXTINF:-1,Gong TV
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47248.ts
+#EXTINF:-1,Grand Lille TV
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47142.ts
+#EXTINF:-1,Gulli HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47149.ts
+#EXTINF:-1,Histoire HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47208.ts
+#EXTINF:-1,InfoSport  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47173.ts
+#EXTINF:-1,Investigation Discovery HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47220.ts
+#EXTINF:-1,J-one HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47250.ts
+#EXTINF:-1,Kombat sport
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47127.ts
+#EXTINF:-1,KTO
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47132.ts
+#EXTINF:-1,L'ةquipe 21 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47172.ts
+#EXTINF:-1,La Chaine Normande HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47131.ts
+#EXTINF:-1,LCI
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47197.ts
+#EXTINF:-1,LCP HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47196.ts
+#EXTINF:-1,M6
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47288.ts
+#EXTINF:-1,M6 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47289.ts
+#EXTINF:-1,M6 HD  1
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47287.ts
+#EXTINF:-1,M6 Music HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47136.ts
+#EXTINF:-1,Mangas HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47245.ts
+#EXTINF:-1,MCM HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47253.ts
+#EXTINF:-1,Melody
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47140.ts
+#EXTINF:-1,Mezzo
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47261.ts
+#EXTINF:-1,MTV Dance
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47145.ts
+#EXTINF:-1,MTV HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47256.ts
+#EXTINF:-1,MTV Hits HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47146.ts
+#EXTINF:-1,MTV LIVE
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47147.ts
+#EXTINF:-1,MTV Music
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47144.ts
+#EXTINF:-1,MYZEN TV HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47225.ts
+#EXTINF:-1,NAT GEO HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47214.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47213.ts
+#EXTINF:-1,Nickelodeon HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47156.ts
+#EXTINF:-1,Nickelodeon Junior HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47155.ts
+#EXTINF:-1,Nollywood
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47143.ts
+#EXTINF:-1,NOVELAS
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47254.ts
+#EXTINF:-1,NOVELAS HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47154.ts
+#EXTINF:-1,NRJ 12 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47234.ts
+#EXTINF:-1,NRJ Hits HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47135.ts
+#EXTINF:-1,NRJ TV HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47126.ts
+#EXTINF:-1,OCS City HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47267.ts
+#EXTINF:-1,OCS Geants HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47266.ts
+#EXTINF:-1,OCS MAX HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47268.ts
+#EXTINF:-1,OL TV HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47169.ts
+#EXTINF:-1,Paramount Channel HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47263.ts
+#EXTINF:-1,Paris Premiere HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47241.ts
+#EXTINF:-1,Piwi  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47163.ts
+#EXTINF:-1,Planète  Action & Experience HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47217.ts
+#EXTINF:-1,Planète  Crime Investigation HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47216.ts
+#EXTINF:-1,Planï؟½te  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47218.ts
+#EXTINF:-1,RMC Dï؟½couverte HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47202.ts
+#EXTINF:-1,RMC SPORT 1 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47190.ts
+#EXTINF:-1,RMC SPORT 2 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47189.ts
+#EXTINF:-1,RMC SPORT 3 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47188.ts
+#EXTINF:-1,RMC SPORT 4 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47187.ts
+#EXTINF:-1,RMC Story HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47230.ts
+#EXTINF:-1,RTL 9 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47240.ts
+#EXTINF:-1,Science & Vie HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47207.ts
+#EXTINF:-1,Seasons HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47204.ts
+#EXTINF:-1,Sï؟½rie Club HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47258.ts
+#EXTINF:-1,Syfy HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47259.ts
+#EXTINF:-1,TCM Cinéma HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47264.ts
+#EXTINF:-1,TeleClub Sport Flash
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47128.ts
+#EXTINF:-1,TéléToon  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47161.ts
+#EXTINF:-1,Téva
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47242.ts
+#EXTINF:-1,TF1 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47291.ts
+#EXTINF:-1,TF1 SD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47290.ts
+#EXTINF:-1,TF1 SERIES FILMS HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47232.ts
+#EXTINF:-1,TFX HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47235.ts
+#EXTINF:-1,Tiji HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47162.ts
+#EXTINF:-1,TMC HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47236.ts
+#EXTINF:-1,TOONAMI HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47249.ts
+#EXTINF:-1,Toute Histoire
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47210.ts
+#EXTINF:-1,Toute Histoire HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47209.ts
+#EXTINF:-1,TRACE GOSPEL
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47137.ts
+#EXTINF:-1,TRACE TROPICAL
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47139.ts
+#EXTINF:-1,TRACE URBAN
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47138.ts
+#EXTINF:-1,Trek HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47205.ts
+#EXTINF:-1,TV BREIZH HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47243.ts
+#EXTINF:-1,TV5 Maghreb Orient
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47227.ts
+#EXTINF:-1,TV5 Monde Afrique
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47226.ts
+#EXTINF:-1,TV5 Monde Amérique Latine
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47228.ts
+#EXTINF:-1,Ushuaia HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47212.ts
+#EXTINF:-1,Ushuaï؟½a TV
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47211.ts
+#EXTINF:-1,VH1
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47125.ts
+#EXTINF:-1,VH1 Classic
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47134.ts
+#EXTINF:-1,VICELAND HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47215.ts
+#EXTINF:-1,Vosges Télévision HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47130.ts
+#EXTINF:-1,Voyage HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47201.ts
+#EXTINF:-1,W9 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47237.ts
+#EXTINF:-1,13ème Rue HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47257.ts
+#EXTINF:-1,6ter HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47231.ts
+#EXTINF:-1,A  HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47141.ts
+#EXTINF:-1,AB1 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47244.ts
+#EXTINF:-1,AB3 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47120.ts
+#EXTINF:-1,Action HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47262.ts
+#EXTINF:-1,Aerostar HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47119.ts
+#EXTINF:-1,Africa 24
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47124.ts
+#EXTINF:-1,Alsace 20
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47121.ts
+#EXTINF:-1,ANIMAUX
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47206.ts
+#EXTINF:-1,ARTE HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47280.ts
+#EXTINF:-1,Automoto la chaîne HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/47165.ts
