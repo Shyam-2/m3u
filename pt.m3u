@@ -1,457 +1,239 @@
 #EXTM3U
-#EXTINF:0,RTP 1
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/47.ts
-#EXTINF:0,RTP 2
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/45.ts
-#EXTINF:0,SIC
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/43.ts
-#EXTINF:0,TVI
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/41.ts
-#EXTINF:0,RTP 1 FHD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/46.ts
-#EXTINF:0,RTP 2 FHD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/44.ts
-#EXTINF:0,SIC FHD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/42.ts
-#EXTINF:0,TVI FHD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/40.ts
-#EXTINF:0,TVI 24
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/25.ts
-#EXTINF:0,SIC NOTICIAS HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/27.ts
-#EXTINF:0,RTP 3
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/35.ts
-#EXTINF:0,PORTO CANAL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/36.ts
-#EXTINF:0,CMTV HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/37.ts
-#EXTINF:0,RTP INTERNACIONAL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/32.ts
-#EXTINF:0,SIC MULHER HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/28.ts
-#EXTINF:0,SIC CARAS HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/29.ts
-#EXTINF:0,SIC RADICAL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/26.ts
-#EXTINF:0,CANAL Q
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/38.ts
-#EXTINF:0,RTP MEMORIA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/30.ts
-#EXTINF:0,RTP AFRICA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/33.ts
-#EXTINF:0,RTP MADEIRA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/31.ts
-#EXTINF:0,RTP ACORES
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/34.ts
-#EXTINF:0,TVI REALITY
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/23.ts
-#EXTINF:0,TVI FICCAO
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/24.ts
-#EXTINF:0,TV RECORD HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/2.ts
-#EXTINF:0,GLOBO
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/16.ts
-#EXTINF:0,GLOBO NOW
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/15.ts
-#EXTINF:0,ABOLA TV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/89.ts
-#EXTINF:0,CANAL 11 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/17.ts
-#EXTINF:0,SPORTV + FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/13.ts
-#EXTINF:0,SPORTV +
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/14.ts
-#EXTINF:0,SPORTV 4K
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/3.ts
-#EXTINF:0,SPORTV 1 FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/12.ts
-#EXTINF:0,SPORTV 1 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/11.ts
-#EXTINF:0,SPORTV 1
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/10.ts
-#EXTINF:0,SPORTV 2 FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/9.ts
-#EXTINF:0,SPORTV 2 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/8.ts
-#EXTINF:0,SPORTV 2
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/7.ts
-#EXTINF:0,SPORTV 3 FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/6.ts
-#EXTINF:0,SPORTV 3 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/5.ts
-#EXTINF:0,SPORTV 3
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/4.ts
-#EXTINF:0,SPORTV 4 FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/92.ts
-#EXTINF:0,SPORTV 4 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/91.ts
-#EXTINF:0,SPORTV 4
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/90.ts
-#EXTINF:0,SPORTV 5 FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/95.ts
-#EXTINF:0,SPORTV 5 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/94.ts
-#EXTINF:0,SPORTV 5
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/93.ts
-#EXTINF:0,SPORTV NBA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/60.ts
-#EXTINF:0,BTV 1 FULL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/88.ts
-#EXTINF:0,BTV 1 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/87.ts
-#EXTINF:0,BTV 1
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/86.ts
-#EXTINF:0,ELEVEN SPORTS 1 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/85.ts
-#EXTINF:0,ELEVEN SPORTS 1
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/84.ts
-#EXTINF:0,ELEVEN SPORTS 2 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/83.ts
-#EXTINF:0,ELEVEN SPORTS 2
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/82.ts
-#EXTINF:0,ELEVEN SPORTS 3 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/81.ts
-#EXTINF:0,ELEVEN SPORTS 3
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/80.ts
-#EXTINF:0,ELEVEN SPORTS 4 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/79.ts
-#EXTINF:0,ELEVEN SPORTS 4
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/78.ts
-#EXTINF:0,ELEVEN SPORTS 5 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/77.ts
-#EXTINF:0,ELEVEN SPORTS 5
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/76.ts
-#EXTINF:0,ELEVEN SPORTS 6 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/75.ts
-#EXTINF:0,ELEVEN SPORTS 6
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/74.ts
-#EXTINF:0,PFC
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/63.ts
-#EXTINF:0,SPORTING TV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/61.ts
-#EXTINF:0,REAL MADRID TV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/62.ts
-#EXTINF:0,EUROSPORT 1 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/70.ts
-#EXTINF:0,EUROSPORT 2 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/69.ts
-#EXTINF:0,MOTORVISION
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/65.ts
-#EXTINF:0,FUEL TV HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/67.ts
-#EXTINF:0,FIGHT NETWORK
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/68.ts
-#EXTINF:0,KOMBAT SPORT
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/66.ts
-#EXTINF:0,CACAVISION
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/72.ts
-#EXTINF:0,CACA E PESCA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/73.ts
-#EXTINF:0,OUTDOOR HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/64.ts
-#EXTINF:0,TOROS TV HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/59.ts
-#EXTINF:0,DOG TV HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/71.ts
-#EXTINF:0,DISNEY CHANNEL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/179.ts
-#EXTINF:0,DISNEY JUNIOR
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/178.ts
-#EXTINF:0,NICK JR
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/166.ts
-#EXTINF:0,CANAL PANDA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/186.ts
-#EXTINF:0,PANDA BIGGS
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/164.ts
-#EXTINF:0,BOOMRANG
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/188.ts
-#EXTINF:0,JIM JAM
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/172.ts
-#EXTINF:0,NICKELODEAN
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/165.ts
-#EXTINF:0,CARTOON NETWORK
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/184.ts
-#EXTINF:0,SIC K
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/152.ts
-#EXTINF:0,TIJI
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/150.ts
-#EXTINF:0,BABY TV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/191.ts
-#EXTINF:0,TVCINE 1 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/58.ts
-#EXTINF:0,TVCINE 1
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/57.ts
-#EXTINF:0,TVCINE 2 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/56.ts
-#EXTINF:0,TVCINE 2
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/55.ts
-#EXTINF:0,TVCINE 3 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/54.ts
-#EXTINF:0,TVCINE 3
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/53.ts
-#EXTINF:0,TVCINE 4 HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/52.ts
-#EXTINF:0,TVCINE 4
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/51.ts
-#EXTINF:0,TVSERIES HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/110.ts
-#EXTINF:0,NOS STUDIOS HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/115.ts
-#EXTINF:0,HOLLYWOOD HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/120.ts
-#EXTINF:0,EUROCHANNEL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/127.ts
-#EXTINF:0,CINEMUNDO
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/132.ts
-#EXTINF:0,AMC HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/139.ts
-#EXTINF:0,FOX MOVIES HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/121.ts
-#EXTINF:0,SYFY HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/113.ts
-#EXTINF:0,AXN HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/137.ts
-#EXTINF:0,AXN WHITE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/136.ts
-#EXTINF:0,AXN BLACK
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/138.ts
-#EXTINF:0,FOX HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/123.ts
-#EXTINF:0,FOX LIFE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/122.ts
-#EXTINF:0,FOX COMEDY HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/125.ts
-#EXTINF:0,FOX CRIME
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/124.ts
-#EXTINF:0,ID INVESTIGATION DISCOVERY
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/119.ts
-#EXTINF:0,CRIME + INVESTIGATION
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/131.ts
-#EXTINF:0,CANAL HISTORIA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/134.ts
-#EXTINF:0,ODISSEIA HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/114.ts
-#EXTINF:0,NAT GEOGRAFIC
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/116.ts
-#EXTINF:0,NAT GEO WILD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/117.ts
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/130.ts
-#EXTINF:0,DISCOVERY HD SHOWCASE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/129.ts
-#EXTINF:0,FTV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/108.ts
-#EXTINF:0,TLC
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/112.ts
-#EXTINF:0,FINE LIVING NETWORK
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/109.ts
-#EXTINF:0,TRAVEL CHANNEL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/111.ts
-#EXTINF:0,E! Entertainment HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/128.ts
-#EXTINF:0,CBS REALTY
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/133.ts
-#EXTINF:0,BLAZE HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/135.ts
-#EXTINF:0,MY CUISINE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/118.ts
-#EXTINF:0,24 KITCHEN
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/140.ts
-#EXTINF:0,FOOD NETWORK HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/126.ts
-#EXTINF:0,DEUTSCHE WELLE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/180.ts
-#EXTINF:0,SANTUARIO FATIMA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/156.ts
-#EXTINF:0,CANCAO NOVA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/185.ts
-#EXTINF:0,KURIAKOS TV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/170.ts
-#EXTINF:0,TV GALICIA
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/148.ts
-#EXTINF:0,TVE INTERNATIONAL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/146.ts
-#EXTINF:0,TV5 MONDE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/147.ts
-#EXTINF:0,M6
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/168.ts
-#EXTINF:0,FRANCE 24
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/175.ts
-#EXTINF:0,TPA INTERNATIONAL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/149.ts
-#EXTINF:0,TCV INTERNATIONAL
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/151.ts
-#EXTINF:0,CUBAVISION
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/181.ts
-#EXTINF:0,LOCALVISAO
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/169.ts
-#EXTINF:0,REGIOES TV
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/157.ts
-#EXTINF:0,EURONEWS
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/176.ts
-#EXTINF:0,RECORD NEWS
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/159.ts
-#EXTINF:0,CNN
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/182.ts
-#EXTINF:0,BBC WORLD NEWS
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/190.ts
-#EXTINF:0,KBS WORLD HD
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/171.ts
-#EXTINF:0,RTP 1 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/198.ts
-#EXTINF:0,RTP 2 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/197.ts
-#EXTINF:0,SIC MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/195.ts
-#EXTINF:0,TVI MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/192.ts
-#EXTINF:0,TVI 24 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/193.ts
-#EXTINF:0,SIC NOTICIAS MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/194.ts
-#EXTINF:0,RTP 3 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/196.ts
-#EXTINF:0,PORTO CANAL MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/199.ts
-#EXTINF:0,CMTV MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/200.ts
-#EXTINF:0,TVI REALITY MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/201.ts
-#EXTINF:0,SIC MULHER MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/205.ts
-#EXTINF:0,SIC CARAS MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/206.ts
-#EXTINF:0,SIC RADICAL MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/204.ts
-#EXTINF:0,TVI FICCAO MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/202.ts
-#EXTINF:0,TV RECORD MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/203.ts
-#EXTINF:0,GLOBO MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/271.ts
-#EXTINF:0,GLOBO NOW MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/270.ts
-#EXTINF:0,ABOLA TV MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/273.ts
-#EXTINF:0,SPORTV + MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/267.ts
-#EXTINF:0,SPORTV 1 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/212.ts
-#EXTINF:0,SPORTV 2 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/211.ts
-#EXTINF:0,SPORTV 3 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/210.ts
-#EXTINF:0,SPORTV 4 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/209.ts
-#EXTINF:0,SPORTV 5 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/208.ts
-#EXTINF:0,SPORTV NBA MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/215.ts
-#EXTINF:0,ELEVEN SPORTS 1 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/213.ts
-#EXTINF:0,ELEVEN SPORTS 2 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/266.ts
-#EXTINF:0,ELEVEN SPORTS 3 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/272.ts
-#EXTINF:0,ELEVEN SPORTS 4 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/222.ts
-#EXTINF:0,ELEVEN SPORTS 5 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/221.ts
-#EXTINF:0,ELEVEN SPORTS 6 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/220.ts
-#EXTINF:0,BTV 1 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/214.ts
-#EXTINF:0,SPORTING TV MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/216.ts
-#EXTINF:0,PFC MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/217.ts
-#EXTINF:0,EUROSPORT 1 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/219.ts
-#EXTINF:0,EUROSPORT 2 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/218.ts
-#EXTINF:0,MOTORVISION MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/231.ts
-#EXTINF:0,KOMBAT SPORT MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/232.ts
-#EXTINF:0,CACA E PESCA MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/230.ts
-#EXTINF:0,DISNEY CHANNEL MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/245.ts
-#EXTINF:0,DISNEY JUNIOR MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/244.ts
-#EXTINF:0,CANAL PANDA MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/247.ts
-#EXTINF:0,PANDA BIGGS MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/250.ts
-#EXTINF:0,SIC K MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/242.ts
-#EXTINF:0,JIMJAM MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/240.ts
-#EXTINF:0,NICKELODEON MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/251.ts
-#EXTINF:0,BABY TV MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/248.ts
-#EXTINF:0,CARTOON NETWORK MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/246.ts
-#EXTINF:0,TVCINE 1 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/229.ts
-#EXTINF:0,TVCINE 2 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/228.ts
-#EXTINF:0,TVCINE 3 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/227.ts
-#EXTINF:0,TVCINE 4 MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/226.ts
-#EXTINF:0,TVSERIES MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/223.ts
-#EXTINF:0,HOLLYWOOD MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/243.ts
-#EXTINF:0,CINEMUNDO MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/225.ts
-#EXTINF:0,EUROCHANNEL MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/258.ts
-#EXTINF:0,SYFY MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/241.ts
-#EXTINF:0,AMC MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/249.ts
-#EXTINF:0,AXN MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/237.ts
-#EXTINF:0,AXH WHITE MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/239.ts
-#EXTINF:0,AXN BLACK MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/238.ts
-#EXTINF:0,FOX MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/224.ts
-#EXTINF:0,FOX MOVIES MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/233.ts
-#EXTINF:0,FOX LIFE MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/234.ts
-#EXTINF:0,FOX CRIME MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/235.ts
-#EXTINF:0,FOX COMEDY MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/236.ts
-#EXTINF:0,CANAL HISTORIA MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/264.ts
-#EXTINF:0,ODISSEIA MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/262.ts
-#EXTINF:0,NAT GEO MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/252.ts
-#EXTINF:0,DISCOVERY MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/256.ts
-#EXTINF:0,DISCOVERY SHOWCASE MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/255.ts
-#EXTINF:0,CANAL Q MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/207.ts
-#EXTINF:0,TLC MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/260.ts
-#EXTINF:0,BLAZE MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/265.ts
-#EXTINF:0,MY CUISINE MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/253.ts
-#EXTINF:0,FOOD NETWORK MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/254.ts
-#EXTINF:0,24 KITCHEN MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/257.ts
-#EXTINF:0,RTP A«ORES MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/269.ts
-#EXTINF:0,RTP MADEIRA MOBILE
-http://sv1.ip4you.kim:8080/live/hrzlekkyCg/3NyuKVuwJJ/268.ts
+#EXTINF:-1,RTP 1 HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23261.m3u8
+#EXTINF:-1,RTP 1
+http://platineiptv.pro:8789/live/bodox85/bodo41/23260.m3u8
+#EXTINF:-1,RTP2 HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23259.m3u8
+#EXTINF:-1,RTP 2
+http://platineiptv.pro:8789/live/bodox85/bodo41/23258.m3u8
+#EXTINF:-1,RTP 3
+http://platineiptv.pro:8789/live/bodox85/bodo41/23257.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://platineiptv.pro:8789/live/bodox85/bodo41/23256.m3u8
+#EXTINF:-1,RTP AFRICA
+http://platineiptv.pro:8789/live/bodox85/bodo41/23255.m3u8
+#EXTINF:-1,TCV
+http://platineiptv.pro:8789/live/bodox85/bodo41/23254.m3u8
+#EXTINF:-1,RTP ACORES
+http://platineiptv.pro:8789/live/bodox85/bodo41/23253.m3u8
+#EXTINF:-1,SIC RADICAL
+http://platineiptv.pro:8789/live/bodox85/bodo41/23252.m3u8
+#EXTINF:-1,SIC MULHER
+http://platineiptv.pro:8789/live/bodox85/bodo41/23251.m3u8
+#EXTINF:-1,SIC CARAS
+http://platineiptv.pro:8789/live/bodox85/bodo41/23250.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://platineiptv.pro:8789/live/bodox85/bodo41/23249.m3u8
+#EXTINF:-1,SIC HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23248.m3u8
+#EXTINF:-1,SIC
+http://platineiptv.pro:8789/live/bodox85/bodo41/23247.m3u8
+#EXTINF:-1,TVI HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23246.m3u8
+#EXTINF:-1,TVI
+http://platineiptv.pro:8789/live/bodox85/bodo41/23245.m3u8
+#EXTINF:-1,TVI FICCAO
+http://platineiptv.pro:8789/live/bodox85/bodo41/23244.m3u8
+#EXTINF:-1,CANAL Q
+http://platineiptv.pro:8789/live/bodox85/bodo41/23243.m3u8
+#EXTINF:-1,GLOBO PREM
+http://platineiptv.pro:8789/live/bodox85/bodo41/23242.m3u8
+#EXTINF:-1,TV RECORD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23241.m3u8
+#EXTINF:-1,TVI24
+http://platineiptv.pro:8789/live/bodox85/bodo41/23240.m3u8
+#EXTINF:-1,CM TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/23239.m3u8
+#EXTINF:-1,TV GLOBO
+http://platineiptv.pro:8789/live/bodox85/bodo41/23238.m3u8
+#EXTINF:-1,RECORD NEWS
+http://platineiptv.pro:8789/live/bodox85/bodo41/1061.m3u8
+#EXTINF:-1,EURONEWS
+http://platineiptv.pro:8789/live/bodox85/bodo41/23237.m3u8
+#EXTINF:-1,PORTO CANAL
+http://platineiptv.pro:8789/live/bodox85/bodo41/23236.m3u8
+#EXTINF:-1,|PT|*****SPORT*****|PT|
+http://platineiptv.pro:8789/live/bodox85/bodo41/23235.m3u8
+#EXTINF:-1,SPORT TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/14108.m3u8
+#EXTINF:-1,SPORT TV1 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14102.m3u8
+#EXTINF:-1,SPORT TV1
+http://platineiptv.pro:8789/live/bodox85/bodo41/14107.m3u8
+#EXTINF:-1,SPORT TV2 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14101.m3u8
+#EXTINF:-1,SPORT TV2
+http://platineiptv.pro:8789/live/bodox85/bodo41/14106.m3u8
+#EXTINF:-1,SPORT TV3 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14100.m3u8
+#EXTINF:-1,SPORT TV3
+http://platineiptv.pro:8789/live/bodox85/bodo41/14105.m3u8
+#EXTINF:-1,SPORT TV4 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14099.m3u8
+#EXTINF:-1,SPORT TV4
+http://platineiptv.pro:8789/live/bodox85/bodo41/14104.m3u8
+#EXTINF:-1,SPORT TV5 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14098.m3u8
+#EXTINF:-1,SPORT TV5
+http://platineiptv.pro:8789/live/bodox85/bodo41/14103.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/29988.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 BKP
+http://platineiptv.pro:8789/live/bodox85/bodo41/35371.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/29987.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 BKP
+http://platineiptv.pro:8789/live/bodox85/bodo41/35372.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/29986.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 BKP
+http://platineiptv.pro:8789/live/bodox85/bodo41/35373.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/29985.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/29984.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/29983.m3u8
+#EXTINF:-1,BENIFICA TV FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14092.m3u8
+#EXTINF:-1,BENIFICA TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/14093.m3u8
+#EXTINF:-1,SPORTING TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/14091.m3u8
+#EXTINF:-1,A BOLA TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/14087.m3u8
+#EXTINF:-1,PFC
+http://platineiptv.pro:8789/live/bodox85/bodo41/14086.m3u8
+#EXTINF:-1,KOMBATSPORT
+http://platineiptv.pro:8789/live/bodox85/bodo41/14090.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://platineiptv.pro:8789/live/bodox85/bodo41/14096.m3u8
+#EXTINF:-1,EUROSPORT 1HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/14097.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://platineiptv.pro:8789/live/bodox85/bodo41/14095.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://platineiptv.pro:8789/live/bodox85/bodo41/14094.m3u8
+#EXTINF:-1,FUEL TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/23234.m3u8
+#EXTINF:-1,MOTORSPORT TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/14089.m3u8
+#EXTINF:-1,MOTORVISION
+http://platineiptv.pro:8789/live/bodox85/bodo41/14088.m3u8
+#EXTINF:-1,TOROS
+http://platineiptv.pro:8789/live/bodox85/bodo41/23233.m3u8
+#EXTINF:-1,|PT|*****ENFANTS*****|PT|
+http://platineiptv.pro:8789/live/bodox85/bodo41/23232.m3u8
+#EXTINF:-1,JIM JAM
+http://platineiptv.pro:8789/live/bodox85/bodo41/23231.m3u8
+#EXTINF:-1,BABY FIRST
+http://platineiptv.pro:8789/live/bodox85/bodo41/23230.m3u8
+#EXTINF:-1,BABY TV
+http://platineiptv.pro:8789/live/bodox85/bodo41/23229.m3u8
+#EXTINF:-1,CANAL PANDA
+http://platineiptv.pro:8789/live/bodox85/bodo41/23228.m3u8
+#EXTINF:-1,BIGGS
+http://platineiptv.pro:8789/live/bodox85/bodo41/23227.m3u8
+#EXTINF:-1,NICKELODEON
+http://platineiptv.pro:8789/live/bodox85/bodo41/23226.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://platineiptv.pro:8789/live/bodox85/bodo41/23225.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://platineiptv.pro:8789/live/bodox85/bodo41/23224.m3u8
+#EXTINF:-1,CARTOONNETWORK
+http://platineiptv.pro:8789/live/bodox85/bodo41/23223.m3u8
+#EXTINF:-1,SIC K
+http://platineiptv.pro:8789/live/bodox85/bodo41/23222.m3u8
+#EXTINF:-1,|PT|*****CINEMA*****|PT|
+http://platineiptv.pro:8789/live/bodox85/bodo41/23221.m3u8
+#EXTINF:-1,TVCINE1 HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23220.m3u8
+#EXTINF:-1,TVCINE1
+http://platineiptv.pro:8789/live/bodox85/bodo41/23219.m3u8
+#EXTINF:-1,TVCINE 2HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23218.m3u8
+#EXTINF:-1,TVCINE2
+http://platineiptv.pro:8789/live/bodox85/bodo41/23217.m3u8
+#EXTINF:-1,TVCINE  3HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23216.m3u8
+#EXTINF:-1,TVCINE3
+http://platineiptv.pro:8789/live/bodox85/bodo41/23215.m3u8
+#EXTINF:-1,TVCINE 4HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23214.m3u8
+#EXTINF:-1,TVCINE4
+http://platineiptv.pro:8789/live/bodox85/bodo41/23213.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23212.m3u8
+#EXTINF:-1,NATGEO HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23211.m3u8
+#EXTINF:-1,FOX MOVIES
+http://platineiptv.pro:8789/live/bodox85/bodo41/23210.m3u8
+#EXTINF:-1,AMC
+http://platineiptv.pro:8789/live/bodox85/bodo41/23209.m3u8
+#EXTINF:-1,CINEMUNDO
+http://platineiptv.pro:8789/live/bodox85/bodo41/23208.m3u8
+#EXTINF:-1,|PT|*****CULTURE*****|PT|
+http://platineiptv.pro:8789/live/bodox85/bodo41/23207.m3u8
+#EXTINF:-1,ODISSEIA
+http://platineiptv.pro:8789/live/bodox85/bodo41/23206.m3u8
+#EXTINF:-1,NATGEO WILD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23205.m3u8
+#EXTINF:-1,DISCOVERY
+http://platineiptv.pro:8789/live/bodox85/bodo41/23204.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23203.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23202.m3u8
+#EXTINF:-1, HISTORIA
+http://platineiptv.pro:8789/live/bodox85/bodo41/23201.m3u8
+#EXTINF:-1,CAÃ‡A E PESCA
+http://platineiptv.pro:8789/live/bodox85/bodo41/23200.m3u8
+#EXTINF:-1,FOOD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23199.m3u8
+#EXTINF:-1,NATGEO
+http://platineiptv.pro:8789/live/bodox85/bodo41/23198.m3u8
+#EXTINF:-1,CASAVISION
+http://platineiptv.pro:8789/live/bodox85/bodo41/23197.m3u8
+#EXTINF:-1,|PT|*****SERIES*****|PT|
+http://platineiptv.pro:8789/live/bodox85/bodo41/23196.m3u8
+#EXTINF:-1,FOX HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23195.m3u8
+#EXTINF:-1,FOX CRIME FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23194.m3u8
+#EXTINF:-1,FOX CRIME
+http://platineiptv.pro:8789/live/bodox85/bodo41/23193.m3u8
+#EXTINF:-1,FOX COMEDY
+http://platineiptv.pro:8789/live/bodox85/bodo41/23192.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23191.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23190.m3u8
+#EXTINF:-1,AXN HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23189.m3u8
+#EXTINF:-1,AXN BLACK FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23188.m3u8
+#EXTINF:-1,AXN BLACK
+http://platineiptv.pro:8789/live/bodox85/bodo41/23187.m3u8
+#EXTINF:-1,SYFY HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23186.m3u8
+#EXTINF:-1,SYFY
+http://platineiptv.pro:8789/live/bodox85/bodo41/23185.m3u8
+#EXTINF:-1,TLC
+http://platineiptv.pro:8789/live/bodox85/bodo41/23184.m3u8
+#EXTINF:-1,TVSERIE FHD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23183.m3u8
+#EXTINF:-1,TVSERIES
+http://platineiptv.pro:8789/live/bodox85/bodo41/23182.m3u8
+#EXTINF:-1,MCS LIFESTYLE
+http://platineiptv.pro:8789/live/bodox85/bodo41/23181.m3u8
+#EXTINF:-1,CBSREALITY
+http://platineiptv.pro:8789/live/bodox85/bodo41/23180.m3u8
+#EXTINF:-1,TVI REALITY
+http://platineiptv.pro:8789/live/bodox85/bodo41/23179.m3u8
+#EXTINF:-1,E!
+http://platineiptv.pro:8789/live/bodox85/bodo41/23178.m3u8
+#EXTINF:-1,A&E
+http://platineiptv.pro:8789/live/bodox85/bodo41/23177.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://platineiptv.pro:8789/live/bodox85/bodo41/23176.m3u8
