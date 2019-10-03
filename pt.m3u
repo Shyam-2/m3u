@@ -1,239 +1,739 @@
 #EXTM3U
+#EXTINF:-1,RTP 1 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/668.ts
+#EXTINF:-1,RTP 2 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/669.ts
+#EXTINF:-1,SIC LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/674.ts
+#EXTINF:-1,TVI LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/701.ts
+#EXTINF:-1,SIC NOTICIAS LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/678.ts
+#EXTINF:-1,TVI 24 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/702.ts
+#EXTINF:-1,RTP 3 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/670.ts
+#EXTINF:-1,CMTV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/624.ts
+#EXTINF:-1,PORTO CANAL LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/666.ts
+#EXTINF:-1,TVSERIES LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/705.ts
+#EXTINF:-1,TVI REALITY LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/704.ts
+#EXTINF:-1,TVI FICCAO LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/703.ts
+#EXTINF:-1,TVCINE 1 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/697.ts
+#EXTINF:-1,TVCINE 2 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/698.ts
+#EXTINF:-1,TVCINE 3 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/699.ts
+#EXTINF:-1,TVCINE 4 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/700.ts
+#EXTINF:-1,TV RECORD LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/696.ts
+#EXTINF:-1,TRACE URBAN LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/695.ts
+#EXTINF:-1,TRACE TOCA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/694.ts
+#EXTINF:-1,TPA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/693.ts
+#EXTINF:-1,TLC LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/692.ts
+#EXTINF:-1,THE FOOD NETWORK LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/691.ts
+#EXTINF:-1,TCV INTERNACIONAL LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/690.ts
+#EXTINF:-1,SYFY LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/689.ts
+#EXTINF:-1,SPORTING TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/688.ts
+#EXTINF:-1,SPORT TV NBA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/687.ts
+#EXTINF:-1,SPORT TV   LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/681.ts
+#EXTINF:-1,SPORT TV 1 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/682.ts
+#EXTINF:-1,SPORT TV 2 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/683.ts
+#EXTINF:-1,SPORT TV 3 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/684.ts
+#EXTINF:-1,SPORT TV 4 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/685.ts
+#EXTINF:-1,SPORT TV 5 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/686.ts
+#EXTINF:-1,SKY NEWS LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/680.ts
+#EXTINF:-1,SIC RADICAL LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/679.ts
+#EXTINF:-1,SIC MULHER LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/677.ts
+#EXTINF:-1,SIC K LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/676.ts
+#EXTINF:-1,SIC CARAS LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/675.ts
+#EXTINF:-1,RUSSIA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/673.ts
+#EXTINF:-1,RTP MEMOORIA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/672.ts
+#EXTINF:-1,RTP MADEIRA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/671.ts
+#EXTINF:-1,RECORD NEWS LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/667.ts
+#EXTINF:-1,PFC LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/665.ts
+#EXTINF:-1,PANDA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/663.ts
+#EXTINF:-1,PANDA BIGGS LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/664.ts
+#EXTINF:-1,ODISSEIA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/662.ts
+#EXTINF:-1,NICKELODEON LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/661.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/660.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/659.ts
+#EXTINF:-1,MY CUISINE LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/658.ts
+#EXTINF:-1,MOTORVISION LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/657.ts
+#EXTINF:-1,MCM TOP LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/656.ts
+#EXTINF:-1,KOMBAT SPORT LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/655.ts
+#EXTINF:-1,JIM JAM LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/654.ts
+#EXTINF:-1,HOLLYWOOD LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/653.ts
+#EXTINF:-1,HISTORIA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/652.ts
+#EXTINF:-1,GLOBO NOW LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/651.ts
+#EXTINF:-1,GLOBO LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/650.ts
+#EXTINF:-1,GINX ESPORTS TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/649.ts
+#EXTINF:-1,FUEL TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/648.ts
+#EXTINF:-1,FRANCE 24 F LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/647.ts
+#EXTINF:-1,FOX MOVIES LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/646.ts
+#EXTINF:-1,FOX LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/642.ts
+#EXTINF:-1,FOX LIFE LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/645.ts
+#EXTINF:-1,FOX CRIME LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/644.ts
+#EXTINF:-1,FOX COMEDY LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/643.ts
+#EXTINF:-1,FASHION TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/641.ts
+#EXTINF:-1,EUROSPORT 2 HD LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/640.ts
+#EXTINF:-1,EUROSPORT 1 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/639.ts
+#EXTINF:-1,EURONEWS LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/638.ts
+#EXTINF:-1,EUROCHANNEL LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/637.ts
+#EXTINF:-1,ELEVEN SPORTS 1 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/631.ts
+#EXTINF:-1,ELEVEN SPORTS 2 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/632.ts
+#EXTINF:-1,ELEVEN SPORTS 3 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/633.ts
+#EXTINF:-1,ELEVEN SPORTS 4 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/634.ts
+#EXTINF:-1,ELEVEN SPORTS 5 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/635.ts
+#EXTINF:-1,ELEVEN SPORTS 6 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/636.ts
+#EXTINF:-1,E! ENTERTAINMENT LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/630.ts
+#EXTINF:-1,DOG TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/629.ts
+#EXTINF:-1,DISNEY JUNIOR LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/628.ts
+#EXTINF:-1,DISNEY CHANNEL LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/627.ts
+#EXTINF:-1,DISCOVERY CHANNEL LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/626.ts
+#EXTINF:-1,DEUTSCH WELLE LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/625.ts
+#EXTINF:-1,CINEMUNDO LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/623.ts
+#EXTINF:-1,CANAL Q LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/621.ts
+#EXTINF:-1,CANAL 11 LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/620.ts
+#EXTINF:-1,CACAVISION LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/619.ts
+#EXTINF:-1,CACA E PESCA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/618.ts
+#EXTINF:-1,C-MUSIC LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/617.ts
+#EXTINF:-1,BTV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/616.ts
+#EXTINF:-1,BOOMERANG LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/615.ts
+#EXTINF:-1,BLAZE LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/614.ts
+#EXTINF:-1,BABY TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/613.ts
+#EXTINF:-1,AXN WHITE LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/612.ts
+#EXTINF:-1,AXN LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/610.ts
+#EXTINF:-1,AXN BLACK LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/611.ts
+#EXTINF:-1,AMC LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/609.ts
+#EXTINF:-1,ALJAZEERA LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/608.ts
+#EXTINF:-1,A BOLA TV LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/607.ts
+#EXTINF:-1,24 KITCHEN LOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/606.ts
+#EXTINF:-1,RTP 1 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/489.ts
 #EXTINF:-1,RTP 1 HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23261.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/487.ts
 #EXTINF:-1,RTP 1
-http://platineiptv.pro:8789/live/bodox85/bodo41/23260.m3u8
-#EXTINF:-1,RTP2 HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23259.m3u8
-#EXTINF:-1,RTP 2
-http://platineiptv.pro:8789/live/bodox85/bodo41/23258.m3u8
-#EXTINF:-1,RTP 3
-http://platineiptv.pro:8789/live/bodox85/bodo41/23257.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://platineiptv.pro:8789/live/bodox85/bodo41/23256.m3u8
-#EXTINF:-1,RTP AFRICA
-http://platineiptv.pro:8789/live/bodox85/bodo41/23255.m3u8
-#EXTINF:-1,TCV
-http://platineiptv.pro:8789/live/bodox85/bodo41/23254.m3u8
-#EXTINF:-1,RTP ACORES
-http://platineiptv.pro:8789/live/bodox85/bodo41/23253.m3u8
-#EXTINF:-1,SIC RADICAL
-http://platineiptv.pro:8789/live/bodox85/bodo41/23252.m3u8
-#EXTINF:-1,SIC MULHER
-http://platineiptv.pro:8789/live/bodox85/bodo41/23251.m3u8
-#EXTINF:-1,SIC CARAS
-http://platineiptv.pro:8789/live/bodox85/bodo41/23250.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://platineiptv.pro:8789/live/bodox85/bodo41/23249.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/488.ts
+#EXTINF:-1,RTP 2 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/490.ts
+#EXTINF:-1,SIC 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/504.ts
 #EXTINF:-1,SIC HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23248.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/502.ts
 #EXTINF:-1,SIC
-http://platineiptv.pro:8789/live/bodox85/bodo41/23247.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/503.ts
 #EXTINF:-1,TVI HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23246.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/582.ts
 #EXTINF:-1,TVI
-http://platineiptv.pro:8789/live/bodox85/bodo41/23245.m3u8
-#EXTINF:-1,TVI FICCAO
-http://platineiptv.pro:8789/live/bodox85/bodo41/23244.m3u8
-#EXTINF:-1,CANAL Q
-http://platineiptv.pro:8789/live/bodox85/bodo41/23243.m3u8
-#EXTINF:-1,GLOBO PREM
-http://platineiptv.pro:8789/live/bodox85/bodo41/23242.m3u8
-#EXTINF:-1,TV RECORD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23241.m3u8
-#EXTINF:-1,TVI24
-http://platineiptv.pro:8789/live/bodox85/bodo41/23240.m3u8
-#EXTINF:-1,CM TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/23239.m3u8
-#EXTINF:-1,TV GLOBO
-http://platineiptv.pro:8789/live/bodox85/bodo41/23238.m3u8
-#EXTINF:-1,RECORD NEWS
-http://platineiptv.pro:8789/live/bodox85/bodo41/1061.m3u8
-#EXTINF:-1,EURONEWS
-http://platineiptv.pro:8789/live/bodox85/bodo41/23237.m3u8
-#EXTINF:-1,PORTO CANAL
-http://platineiptv.pro:8789/live/bodox85/bodo41/23236.m3u8
-#EXTINF:-1,|PT|*****SPORT*****|PT|
-http://platineiptv.pro:8789/live/bodox85/bodo41/23235.m3u8
-#EXTINF:-1,SPORT TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/14108.m3u8
-#EXTINF:-1,SPORT TV1 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14102.m3u8
-#EXTINF:-1,SPORT TV1
-http://platineiptv.pro:8789/live/bodox85/bodo41/14107.m3u8
-#EXTINF:-1,SPORT TV2 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14101.m3u8
-#EXTINF:-1,SPORT TV2
-http://platineiptv.pro:8789/live/bodox85/bodo41/14106.m3u8
-#EXTINF:-1,SPORT TV3 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14100.m3u8
-#EXTINF:-1,SPORT TV3
-http://platineiptv.pro:8789/live/bodox85/bodo41/14105.m3u8
-#EXTINF:-1,SPORT TV4 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14099.m3u8
-#EXTINF:-1,SPORT TV4
-http://platineiptv.pro:8789/live/bodox85/bodo41/14104.m3u8
-#EXTINF:-1,SPORT TV5 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14098.m3u8
-#EXTINF:-1,SPORT TV5
-http://platineiptv.pro:8789/live/bodox85/bodo41/14103.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/29988.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 BKP
-http://platineiptv.pro:8789/live/bodox85/bodo41/35371.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/29987.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 BKP
-http://platineiptv.pro:8789/live/bodox85/bodo41/35372.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/29986.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 BKP
-http://platineiptv.pro:8789/live/bodox85/bodo41/35373.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/29985.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/29984.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/29983.m3u8
-#EXTINF:-1,BENIFICA TV FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14092.m3u8
-#EXTINF:-1,BENIFICA TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/14093.m3u8
-#EXTINF:-1,SPORTING TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/14091.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/583.ts
+#EXTINF:-1,SIC NOTICIAS(ENCODER G1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/511.ts
+#EXTINF:-1,SIC NOTICIAS HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/510.ts
+#EXTINF:-1,TVI 24 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/584.ts
+#EXTINF:-1,TVI 24
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/585.ts
+#EXTINF:-1,RTP 3 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/491.ts
+#EXTINF:-1,RTP 3
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/492.ts
+#EXTINF:-1,PORTO CANAL 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/483.ts
+#EXTINF:-1,PORTO CANAL HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/482.ts
+#EXTINF:-1,CMTV 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/374.ts
+#EXTINF:-1,CMTV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/372.ts
+#EXTINF:-1,CMTV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/373.ts
+#EXTINF:-1,GLOBO NOW HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/442.ts
+#EXTINF:-1,GLOBO NOW
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/443.ts
+#EXTINF:-1,GLOBO HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/441.ts
+#EXTINF:-1,CANAL 11 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/362.ts
+#EXTINF:-1,CANAL11
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/364.ts
+#EXTINF:-1,CANAL 11
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/363.ts
+#EXTINF:-1,A BOLA TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/328.ts
 #EXTINF:-1,A BOLA TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/14087.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/329.ts
+#EXTINF:-1,SPORT TV   HD 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/518.ts
+#EXTINF:-1,SPORT TV   HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/517.ts
+#EXTINF:-1,SPORT TV 1 HD (ENCODER B)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/524.ts
+#EXTINF:-1,SPORT TV 1 HD  (ENCODER B)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/523.ts
+#EXTINF:-1,SPORT TV 1 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/521.ts
+#EXTINF:-1,SPORT TV 1  (ENCODER SWV)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/522.ts
+#EXTINF:-1,SPORT TV 2 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/527.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/519.ts
+#EXTINF:-1,SPORT TV 1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/520.ts
+#EXTINF:-1,SPORT TV 2 HD(ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/529.ts
+#EXTINF:-1,SPORT TV 2 HD 720(ENCODER B)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/530.ts
+#EXTINF:-1,SPORT TV 2 HD 1080 (ENCODER B)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/528.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/525.ts
+#EXTINF:-1,SPORT TV 2
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/526.ts
+#EXTINF:-1,SPORT TV 3 HD(ENCODER SWV)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/535.ts
+#EXTINF:-1,SPORT TV 3 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/534.ts
+#EXTINF:-1,SPORT TV 3 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/533.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/531.ts
+#EXTINF:-1,SPORT TV 3
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/532.ts
+#EXTINF:-1,SPORT TV 4 HD 1080p (ENCODER G)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/541.ts
+#EXTINF:-1,SPORT TV 4 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/538.ts
+#EXTINF:-1,SPORT TV 4 HD 1080 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/539.ts
+#EXTINF:-1,SPORT TV 4 HD 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/540.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/536.ts
+#EXTINF:-1,SPORT TV 4
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/537.ts
+#EXTINF:-1,SPORT TV 5 HD 1080p (ENCODER G)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/547.ts
+#EXTINF:-1,SPORT TV 5 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/546.ts
+#EXTINF:-1,SPORT TV 5 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/545.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/543.ts
+#EXTINF:-1,SPORT TV 5
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/544.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD? (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/393.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/392.ts
+#EXTINF:-1,ELEVEN SPORTS 1 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/395.ts
+#EXTINF:-1,ELEVEN SPORTS 1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/394.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD? (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/397.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/396.ts
+#EXTINF:-1,ELEVEN SPORTS 2 1080p (ENCODER G)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/400.ts
+#EXTINF:-1,ELEVEN SPORTS 2   (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/399.ts
+#EXTINF:-1,ELEVEN SPORTS 2
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/398.ts
+#EXTINF:-1,ELEVEN SPORTS 3(ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/402.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/401.ts
+#EXTINF:-1,ELEVEN SPORTS 3 1080p (ENCODER G)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/405.ts
+#EXTINF:-1,ELEVEN SPORTS 3 (ENCOoDER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/404.ts
+#EXTINF:-1,ELEVEN SPORTS 3
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/403.ts
+#EXTINF:-1,ELEVEN SPORTS 4(ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/409.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/406.ts
+#EXTINF:-1,ELEVEN SPORTS 4 1080p (ENCODER G)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/410.ts
+#EXTINF:-1,ELEVEN SPORTS 4 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/407.ts
+#EXTINF:-1,ELEVEN SPORTS 4
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/408.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/411.ts
+#EXTINF:-1,ELEVEN SPORTS 5 720 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/414.ts
+#EXTINF:-1,ELEVEN SPORTS 5 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/412.ts
+#EXTINF:-1,ELEVEN SPORTS 5
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/413.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/415.ts
+#EXTINF:-1,ELEVEN SPORTS 6 720 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/418.ts
+#EXTINF:-1,ELEVEN SPORTS 6 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/419.ts
+#EXTINF:-1,ELEVEN SPORTS 6 (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/416.ts
+#EXTINF:-1,ELEVEN SPORTS 6
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/417.ts
+#EXTINF:-1,BTV(ENCODER B)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/357.ts
+#EXTINF:-1,BTV XXX (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/354.ts
+#EXTINF:-1,BTV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/351.ts
+#EXTINF:-1,BTV 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/356.ts
+#EXTINF:-1,BTV 1080 (ENCODER B)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/355.ts
+#EXTINF:-1,BTV (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/353.ts
+#EXTINF:-1,BTV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/352.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/423.ts
+#EXTINF:-1,EUROSPORT 2 HD HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/424.ts
+#EXTINF:-1,SPORTING TV HD   (ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/552.ts
+#EXTINF:-1,SPORTING TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/551.ts
+#EXTINF:-1,SPORT TV NBA. (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/550.ts
+#EXTINF:-1,SPORT TV NBA (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/549.ts
+#EXTINF:-1,SPORT TV NBA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/548.ts
+#EXTINF:-1,TOROS TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/559.ts
+#EXTINF:-1,PFC HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/480.ts
 #EXTINF:-1,PFC
-http://platineiptv.pro:8789/live/bodox85/bodo41/14086.m3u8
-#EXTINF:-1,KOMBATSPORT
-http://platineiptv.pro:8789/live/bodox85/bodo41/14090.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://platineiptv.pro:8789/live/bodox85/bodo41/14096.m3u8
-#EXTINF:-1,EUROSPORT 1HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/14097.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://platineiptv.pro:8789/live/bodox85/bodo41/14095.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://platineiptv.pro:8789/live/bodox85/bodo41/14094.m3u8
-#EXTINF:-1,FUEL TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/23234.m3u8
-#EXTINF:-1,MOTORSPORT TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/14089.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/481.ts
+#EXTINF:-1,DOG TV HD?
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/390.ts
+#EXTINF:-1,DOG TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/388.ts
+#EXTINF:-1,DOG TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/389.ts
+#EXTINF:-1,CACAVISION HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/360.ts
+#EXTINF:-1,CACAVISION
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/361.ts
+#EXTINF:-1,CACA E PESCA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/359.ts
+#EXTINF:-1,MOTORVISION HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/459.ts
+#EXTINF:-1,MOTORVISION 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/461.ts
 #EXTINF:-1,MOTORVISION
-http://platineiptv.pro:8789/live/bodox85/bodo41/14088.m3u8
-#EXTINF:-1,TOROS
-http://platineiptv.pro:8789/live/bodox85/bodo41/23233.m3u8
-#EXTINF:-1,|PT|*****ENFANTS*****|PT|
-http://platineiptv.pro:8789/live/bodox85/bodo41/23232.m3u8
-#EXTINF:-1,JIM JAM
-http://platineiptv.pro:8789/live/bodox85/bodo41/23231.m3u8
-#EXTINF:-1,BABY FIRST
-http://platineiptv.pro:8789/live/bodox85/bodo41/23230.m3u8
-#EXTINF:-1,BABY TV
-http://platineiptv.pro:8789/live/bodox85/bodo41/23229.m3u8
-#EXTINF:-1,CANAL PANDA
-http://platineiptv.pro:8789/live/bodox85/bodo41/23228.m3u8
-#EXTINF:-1,BIGGS
-http://platineiptv.pro:8789/live/bodox85/bodo41/23227.m3u8
-#EXTINF:-1,NICKELODEON
-http://platineiptv.pro:8789/live/bodox85/bodo41/23226.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://platineiptv.pro:8789/live/bodox85/bodo41/23225.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://platineiptv.pro:8789/live/bodox85/bodo41/23224.m3u8
-#EXTINF:-1,CARTOONNETWORK
-http://platineiptv.pro:8789/live/bodox85/bodo41/23223.m3u8
-#EXTINF:-1,SIC K
-http://platineiptv.pro:8789/live/bodox85/bodo41/23222.m3u8
-#EXTINF:-1,|PT|*****CINEMA*****|PT|
-http://platineiptv.pro:8789/live/bodox85/bodo41/23221.m3u8
-#EXTINF:-1,TVCINE1 HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23220.m3u8
-#EXTINF:-1,TVCINE1
-http://platineiptv.pro:8789/live/bodox85/bodo41/23219.m3u8
-#EXTINF:-1,TVCINE 2HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23218.m3u8
-#EXTINF:-1,TVCINE2
-http://platineiptv.pro:8789/live/bodox85/bodo41/23217.m3u8
-#EXTINF:-1,TVCINE  3HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23216.m3u8
-#EXTINF:-1,TVCINE3
-http://platineiptv.pro:8789/live/bodox85/bodo41/23215.m3u8
-#EXTINF:-1,TVCINE 4HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23214.m3u8
-#EXTINF:-1,TVCINE4
-http://platineiptv.pro:8789/live/bodox85/bodo41/23213.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23212.m3u8
-#EXTINF:-1,NATGEO HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23211.m3u8
-#EXTINF:-1,FOX MOVIES
-http://platineiptv.pro:8789/live/bodox85/bodo41/23210.m3u8
-#EXTINF:-1,AMC
-http://platineiptv.pro:8789/live/bodox85/bodo41/23209.m3u8
-#EXTINF:-1,CINEMUNDO
-http://platineiptv.pro:8789/live/bodox85/bodo41/23208.m3u8
-#EXTINF:-1,|PT|*****CULTURE*****|PT|
-http://platineiptv.pro:8789/live/bodox85/bodo41/23207.m3u8
-#EXTINF:-1,ODISSEIA
-http://platineiptv.pro:8789/live/bodox85/bodo41/23206.m3u8
-#EXTINF:-1,NATGEO WILD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23205.m3u8
-#EXTINF:-1,DISCOVERY
-http://platineiptv.pro:8789/live/bodox85/bodo41/23204.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23203.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23202.m3u8
-#EXTINF:-1, HISTORIA
-http://platineiptv.pro:8789/live/bodox85/bodo41/23201.m3u8
-#EXTINF:-1,CAÃ‡A E PESCA
-http://platineiptv.pro:8789/live/bodox85/bodo41/23200.m3u8
-#EXTINF:-1,FOOD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23199.m3u8
-#EXTINF:-1,NATGEO
-http://platineiptv.pro:8789/live/bodox85/bodo41/23198.m3u8
-#EXTINF:-1,CASAVISION
-http://platineiptv.pro:8789/live/bodox85/bodo41/23197.m3u8
-#EXTINF:-1,|PT|*****SERIES*****|PT|
-http://platineiptv.pro:8789/live/bodox85/bodo41/23196.m3u8
-#EXTINF:-1,FOX HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23195.m3u8
-#EXTINF:-1,FOX CRIME FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23194.m3u8
-#EXTINF:-1,FOX CRIME
-http://platineiptv.pro:8789/live/bodox85/bodo41/23193.m3u8
-#EXTINF:-1,FOX COMEDY
-http://platineiptv.pro:8789/live/bodox85/bodo41/23192.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23191.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23190.m3u8
-#EXTINF:-1,AXN HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23189.m3u8
-#EXTINF:-1,AXN BLACK FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23188.m3u8
-#EXTINF:-1,AXN BLACK
-http://platineiptv.pro:8789/live/bodox85/bodo41/23187.m3u8
-#EXTINF:-1,SYFY HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23186.m3u8
-#EXTINF:-1,SYFY
-http://platineiptv.pro:8789/live/bodox85/bodo41/23185.m3u8
-#EXTINF:-1,TLC
-http://platineiptv.pro:8789/live/bodox85/bodo41/23184.m3u8
-#EXTINF:-1,TVSERIE FHD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23183.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/460.ts
+#EXTINF:-1,KOMBAT SPORT HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/450.ts
+#EXTINF:-1,KOMBAT SPORT
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/451.ts
+#EXTINF:-1,COMBATE
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/377.ts
+#EXTINF:-1,NBA TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/471.ts
+#EXTINF:-1,VH1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/598.ts
+#EXTINF:-1,UM EUROPA
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/597.ts
 #EXTINF:-1,TVSERIES
-http://platineiptv.pro:8789/live/bodox85/bodo41/23182.m3u8
-#EXTINF:-1,MCS LIFESTYLE
-http://platineiptv.pro:8789/live/bodox85/bodo41/23181.m3u8
-#EXTINF:-1,CBSREALITY
-http://platineiptv.pro:8789/live/bodox85/bodo41/23180.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/596.ts
+#EXTINF:-1,TVSERIES HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/595.ts
 #EXTINF:-1,TVI REALITY
-http://platineiptv.pro:8789/live/bodox85/bodo41/23179.m3u8
-#EXTINF:-1,E!
-http://platineiptv.pro:8789/live/bodox85/bodo41/23178.m3u8
-#EXTINF:-1,A&E
-http://platineiptv.pro:8789/live/bodox85/bodo41/23177.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/590.ts
+#EXTINF:-1,TVI REALITY HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/589.ts
+#EXTINF:-1,TVI INTERNACIONAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/587.ts
+#EXTINF:-1,TVE INTERNACIONAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/581.ts
+#EXTINF:-1,TVE 24H
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/580.ts
+#EXTINF:-1,TVI FICCAO HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/586.ts
+#EXTINF:-1,TVCINE 1 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/570.ts
+#EXTINF:-1,TVCINE 1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/571.ts
+#EXTINF:-1,TVCINE 2 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/573.ts
+#EXTINF:-1,TVCINE 2
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/574.ts
+#EXTINF:-1,TVCINE 3 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/575.ts
+#EXTINF:-1,TVCINE 3
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/576.ts
+#EXTINF:-1,TVCINE 4 HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/577.ts
+#EXTINF:-1,TVCINE 4
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/578.ts
+#EXTINF:-1,CINEMUNDO HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/370.ts
+#EXTINF:-1,HOLLYWOOD HD ENCODER G1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/446.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/445.ts
+#EXTINF:-1,SYFY HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/553.ts
+#EXTINF:-1,SYFY 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/555.ts
+#EXTINF:-1,SYFY (ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/554.ts
+#EXTINF:-1,FOX MOVIES HD 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/435.ts
+#EXTINF:-1,FOX MOVIES HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/434.ts
+#EXTINF:-1,FOX LIFE HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/433.ts
+#EXTINF:-1,FOX HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/428.ts
+#EXTINF:-1,FOX CRIME HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/432.ts
+#EXTINF:-1,FOX COMEDY HD 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/431.ts
+#EXTINF:-1,FOX COMEDY HD (ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/430.ts
+#EXTINF:-1,FOX COMEDY HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/429.ts
+#EXTINF:-1,AXN WHITE HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/341.ts
+#EXTINF:-1,AXN HD 1080p (ENCODER G)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/338.ts
+#EXTINF:-1,AXN HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/336.ts
+#EXTINF:-1,AXN BLACK HD(ENCODER G1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/340.ts
+#EXTINF:-1,AXN BLACK HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/339.ts
+#EXTINF:-1,AXN
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/337.ts
+#EXTINF:-1,CRIME INVESTIGATION
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/378.ts
+#EXTINF:-1,TVC NEWS
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/569.ts
+#EXTINF:-1,TV5 MONDE
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/568.ts
+#EXTINF:-1,TV RECORD HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/567.ts
+#EXTINF:-1,TV MOCAMBIQUE INTERNACIONAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/566.ts
+#EXTINF:-1,TV GALICIA
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/564.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/563.ts
+#EXTINF:-1,TPA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/560.ts
+#EXTINF:-1,TLC HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/558.ts
+#EXTINF:-1,THE FOOD NETWORK HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/557.ts
+#EXTINF:-1,TCV INTERNACIONAL HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/556.ts
+#EXTINF:-1,SKY NEWS HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/515.ts
+#EXTINF:-1,SKY NEWS
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/516.ts
+#EXTINF:-1,SIC RADICAL HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/512.ts
+#EXTINF:-1,SIC RADICAL (ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/514.ts
+#EXTINF:-1,SIC RADICAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/513.ts
+#EXTINF:-1,SIC MULHER HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/508.ts
+#EXTINF:-1,SIC MULHER
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/509.ts
+#EXTINF:-1,SIC INTERNACIONAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/499.ts
+#EXTINF:-1,SIC CARAS HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/505.ts
+#EXTINF:-1,SAUDEENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/501.ts
+#EXTINF:-1,SAUDE (ENCODER V)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/500.ts
+#EXTINF:-1,RUSSIA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/498.ts
+#EXTINF:-1,RTP MEMOORIA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/497.ts
+#EXTINF:-1,RTP MADEIRA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/495.ts
+#EXTINF:-1,RTP MADEIRA
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/496.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/494.ts
+#EXTINF:-1,RTP AFRICA low1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/493.ts
+#EXTINF:-1,RT DOC
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/486.ts
+#EXTINF:-1,REGIOES TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/485.ts
+#EXTINF:-1,RECORD NEWS HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/484.ts
+#EXTINF:-1,NOS STUDIOS
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/476.ts
+#EXTINF:-1,SIC K HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/506.ts
+#EXTINF:-1,SIC K
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/507.ts
+#EXTINF:-1,PANDA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/478.ts
+#EXTINF:-1,PANDA BIGGS HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/479.ts
+#EXTINF:-1,NICKELODEON HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/474.ts
+#EXTINF:-1,NICKELODEON
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/475.ts
+#EXTINF:-1,NICK JR
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/473.ts
+#EXTINF:-1,NHK WORLD JAPAN
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/472.ts
+#EXTINF:-1,ODISSEIA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/477.ts
+#EXTINF:-1,HISTORIA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/444.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/469.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/470.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/468.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/467.ts
+#EXTINF:-1,MY CUISINE HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/465.ts
+#EXTINF:-1,MY CUISINE
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/466.ts
+#EXTINF:-1,MVM
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/464.ts
+#EXTINF:-1,TRACE URBAN HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/562.ts
+#EXTINF:-1,TRACE TOCA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/561.ts
+#EXTINF:-1,MTV 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/463.ts
+#EXTINF:-1,MTV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/462.ts
+#EXTINF:-1,MIAMI TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/458.ts
+#EXTINF:-1,MEZZO
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/457.ts
+#EXTINF:-1,MCM TOP HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/456.ts
+#EXTINF:-1,MCM POP
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/455.ts
+#EXTINF:-1,MAS CHIC
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/454.ts
+#EXTINF:-1,MACAU TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/453.ts
+#EXTINF:-1,LOCALVISAO 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/452.ts
+#EXTINF:-1,IUTV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/447.ts
+#EXTINF:-1,FOX NEWS
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/436.ts
+#EXTINF:-1,GINX ESPORTS TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/440.ts
+#EXTINF:-1,GAMETOON
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/439.ts
+#EXTINF:-1,FUEL TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/438.ts
+#EXTINF:-1,FRANCE 24 F HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/437.ts
+#EXTINF:-1,FINE LIVING NETWORK 1080p
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/427.ts
+#EXTINF:-1,FATIMA TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/426.ts
+#EXTINF:-1,FASHION TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/425.ts
+#EXTINF:-1,EURONEWS HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/422.ts
+#EXTINF:-1,EUROCHANNEL HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/420.ts
+#EXTINF:-1,EUROCHANNEL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/421.ts
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/391.ts
+#EXTINF:-1,JIM JAM HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/448.ts
+#EXTINF:-1,JIM JAM
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/449.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/386.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/387.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/384.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/385.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD (ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/383.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/381.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/382.ts
+#EXTINF:-1,DEUTSCH WELLE HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/380.ts
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/379.ts
+#EXTINF:-1,CNN
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/376.ts
+#EXTINF:-1,CNBC EUROPE
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/375.ts
+#EXTINF:-1,CLUBBING TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/371.ts
+#EXTINF:-1,CHANNEL 1 RUSSIA
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/369.ts
+#EXTINF:-1,CBS REALITY
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/368.ts
+#EXTINF:-1,CBS NEWS
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/367.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/366.ts
+#EXTINF:-1,CANAL Q HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/365.ts
+#EXTINF:-1,C-MUSIC HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/358.ts
+#EXTINF:-1,AFRO MUSIC
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/330.ts
+#EXTINF:-1,BOOMERANG HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/350.ts
+#EXTINF:-1,BLAZE HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/349.ts
+#EXTINF:-1,BEBLACK CLASSIK
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/348.ts
+#EXTINF:-1,BEBLACK CARIBEAN
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/347.ts
+#EXTINF:-1,BEBLACK AFRICA
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/346.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/345.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/344.ts
+#EXTINF:-1,BABY TV HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/342.ts
+#EXTINF:-1,BABY TV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/343.ts
+#EXTINF:-1,AUTOMOTO
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/335.ts
+#EXTINF:-1,ARTV
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/334.ts
+#EXTINF:-1,AMC HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/332.ts
+#EXTINF:-1,AMC ENCODER P1)
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/333.ts
+#EXTINF:-1,ALJAZEERA HD
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/331.ts
 #EXTINF:-1,24 KITCHEN HD
-http://platineiptv.pro:8789/live/bodox85/bodo41/23176.m3u8
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/327.ts
+#EXTINF:-1,180
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/326.ts
+#EXTINF:-1,1 1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/325.ts
+#EXTINF:-1,TVI REALITY CAM 4
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/594.ts
+#EXTINF:-1,TVI REALITY CAM 3
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/593.ts
+#EXTINF:-1,TVI REALITY CAM 2
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/592.ts
+#EXTINF:-1,TVI REALITY CAM 1
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/591.ts
+#EXTINF:-1,TVI MOSAICO
+http://okip.poio.kim:8080/live/Pedro123/Pedro123/588.ts
