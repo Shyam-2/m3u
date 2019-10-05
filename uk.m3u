@@ -1,299 +1,411 @@
 #EXTM3U
-#EXTINF:-1,BBC 1
-http://inkpens.art:80/live/Sol/Sol123/699.m3u8
-#EXTINF:-1,BBC 2 FHD
-http://inkpens.art:80/live/Sol/Sol123/581.m3u8
-#EXTINF:-1,BBC 2
-http://inkpens.art:80/live/Sol/Sol123/698.m3u8
-#EXTINF:-1,ITV 1 FHD
-http://inkpens.art:80/live/Sol/Sol123/580.m3u8
-#EXTINF:-1,ITV 1
-http://inkpens.art:80/live/Sol/Sol123/697.m3u8
-#EXTINF:-1,Channel 4 FHD
-http://inkpens.art:80/live/Sol/Sol123/579.m3u8
-#EXTINF:-1,Channel 4
-http://inkpens.art:80/live/Sol/Sol123/696.m3u8
-#EXTINF:-1,Channel 5 FHD
-http://inkpens.art:80/live/Sol/Sol123/578.m3u8
-#EXTINF:-1,Channel 5
-http://inkpens.art:80/live/Sol/Sol123/695.m3u8
-#EXTINF:-1,Sky One FHD
-http://inkpens.art:80/live/Sol/Sol123/577.m3u8
-#EXTINF:-1,Sky One
-http://inkpens.art:80/live/Sol/Sol123/694.m3u8
-#EXTINF:-1,Sky Two
-http://inkpens.art:80/live/Sol/Sol123/693.m3u8
-#EXTINF:-1,ITV 2 FHD
-http://inkpens.art:80/live/Sol/Sol123/575.m3u8
-#EXTINF:-1,ITV 2
-http://inkpens.art:80/live/Sol/Sol123/690.m3u8
-#EXTINF:-1,ITV Be FHD
-http://inkpens.art:80/live/Sol/Sol123/574.m3u8
-#EXTINF:-1,ITV Be
-http://inkpens.art:80/live/Sol/Sol123/686.m3u8
-#EXTINF:-1,ITV 3
-http://inkpens.art:80/live/Sol/Sol123/688.m3u8
-#EXTINF:-1,ITV 4
-http://inkpens.art:80/live/Sol/Sol123/687.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://inkpens.art:80/live/Sol/Sol123/576.m3u8
-#EXTINF:-1,Sky Atlantic
-http://inkpens.art:80/live/Sol/Sol123/691.m3u8
-#EXTINF:-1,Sky Arts HD
-http://inkpens.art:80/live/Sol/Sol123/662.m3u8
-#EXTINF:-1,Cbeebies
-http://inkpens.art:80/live/Sol/Sol123/689.m3u8
-#EXTINF:-1,E4 FHD
-http://inkpens.art:80/live/Sol/Sol123/1797.m3u8
+#EXTINF:-1,BBC One 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19314.m3u8
+#EXTINF:-1,BBC One HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19315.m3u8
+#EXTINF:-1,BBC Two 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19316.m3u8
+#EXTINF:-1,BBC Two HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19317.m3u8
+#EXTINF:-1,Cbeebies 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19318.m3u8
+#EXTINF:-1,Cbeebies HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19319.m3u8
+#EXTINF:-1,BBC News 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19320.m3u8
+#EXTINF:-1,BBC News HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19321.m3u8
+#EXTINF:-1,BBC Parliament
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19322.m3u8
+#EXTINF:-1,BBC Alba
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19323.m3u8
+#EXTINF:-1,BBC Four HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6733.m3u8
+#EXTINF:-1,CNN HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19324.m3u8
+#EXTINF:-1,CNN HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19325.m3u8
+#EXTINF:-1,Fox News 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19326.m3u8
+#EXTINF:-1,ITV 1 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19327.m3u8
+#EXTINF:-1,ITV 1 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19328.m3u8
+#EXTINF:-1,ITV 2 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19329.m3u8
+#EXTINF:-1,ITV 2 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19330.m3u8
+#EXTINF:-1,ITV 2 +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19331.m3u8
+#EXTINF:-1,ITV 3 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19332.m3u8
+#EXTINF:-1,ITV3 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19333.m3u8
+#EXTINF:-1,ITV 4 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19334.m3u8
+#EXTINF:-1,ITV 4 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19335.m3u8
+#EXTINF:-1,ITV 4 +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19336.m3u8
+#EXTINF:-1,ITV BE 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19337.m3u8
+#EXTINF:-1,ITV BE HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19338.m3u8
+#EXTINF:-1,ITV BE +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19339.m3u8
+#EXTINF:-1,ITV Encore
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19340.m3u8
+#EXTINF:-1,CITV
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19341.m3u8
 #EXTINF:-1,E4
-http://inkpens.art:80/live/Sol/Sol123/685.m3u8
-#EXTINF:-1,More 4 FHD
-http://inkpens.art:80/live/Sol/Sol123/572.m3u8
-#EXTINF:-1,More 4
-http://inkpens.art:80/live/Sol/Sol123/684.m3u8
-#EXTINF:-1,4 Seven
-http://inkpens.art:80/live/Sol/Sol123/683.m3u8
-#EXTINF:-1,5 USA
-http://inkpens.art:80/live/Sol/Sol123/682.m3u8
-#EXTINF:-1,5 Star
-http://inkpens.art:80/live/Sol/Sol123/681.m3u8
-#EXTINF:-1,5 Spike
-http://inkpens.art:80/live/Sol/Sol123/674.m3u8
-#EXTINF:-1,Gold
-http://inkpens.art:80/live/Sol/Sol123/680.m3u8
-#EXTINF:-1,Fox FHD
-http://inkpens.art:80/live/Sol/Sol123/571.m3u8
-#EXTINF:-1,Fox SD
-http://inkpens.art:80/live/Sol/Sol123/679.m3u8
-#EXTINF:-1,Dave
-http://inkpens.art:80/live/Sol/Sol123/678.m3u8
-#EXTINF:-1,Comedy Central
-http://inkpens.art:80/live/Sol/Sol123/677.m3u8
-#EXTINF:-1,Comedy Central Extra
-http://inkpens.art:80/live/Sol/Sol123/676.m3u8
-#EXTINF:-1,Syfy FHD
-http://inkpens.art:80/live/Sol/Sol123/570.m3u8
-#EXTINF:-1,Syfy SD
-http://inkpens.art:80/live/Sol/Sol123/675.m3u8
-#EXTINF:-1,AMC
-http://inkpens.art:80/live/Sol/Sol123/673.m3u8
-#EXTINF:-1,E! Entertainment HD
-http://inkpens.art:80/live/Sol/Sol123/672.m3u8
-#EXTINF:-1,Challenge HD
-http://inkpens.art:80/live/Sol/Sol123/671.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19342.m3u8
+#EXTINF:-1,More 4 HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19347.m3u8
+#EXTINF:-1,More 4 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19348.m3u8
+#EXTINF:-1,Channel 4 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19343.m3u8
+#EXTINF:-1,Channel 4 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19344.m3u8
+#EXTINF:-1,Channel 5 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19345.m3u8
+#EXTINF:-1,Channel 5 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19346.m3u8
+#EXTINF:-1,5USA
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19349.m3u8
+#EXTINF:-1,CBS Action HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19350.m3u8
 #EXTINF:-1,CBS Action HD
-http://inkpens.art:80/live/Sol/Sol123/670.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19351.m3u8
+#EXTINF:-1,CBS Drama HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19352.m3u8
 #EXTINF:-1,CBS Drama HD
-http://inkpens.art:80/live/Sol/Sol123/669.m3u8
-#EXTINF:-1,CBS Reality HD
-http://inkpens.art:80/live/Sol/Sol123/668.m3u8
-#EXTINF:-1,Universal Channel HD
-http://inkpens.art:80/live/Sol/Sol123/667.m3u8
-#EXTINF:-1,TLC FHD
-http://inkpens.art:80/live/Sol/Sol123/569.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19353.m3u8
+#EXTINF:-1,CBS Reality HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19354.m3u8
+#EXTINF:-1,CBS Reality +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19356.m3u8
+#EXTINF:-1,Alibi
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19357.m3u8
+#EXTINF:-1,Alibi +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19358.m3u8
+#EXTINF:-1,Dave
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19359.m3u8
+#EXTINF:-1,DMAX
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19360.m3u8
+#EXTINF:-1,DMAX +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19361.m3u8
+#EXTINF:-1,Drama
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19362.m3u8
+#EXTINF:-1,Fox
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19363.m3u8
+#EXTINF:-1,Sky 1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19364.m3u8
+#EXTINF:-1,Sky 2
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19365.m3u8
+#EXTINF:-1,Sky News HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6780.m3u8
+#EXTINF:-1,RTÉ One HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6775.m3u8
+#EXTINF:-1,RTÉ 2 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6776.m3u8
+#EXTINF:-1,H2 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6773.m3u8
+#EXTINF:-1,TG4 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6781.m3u8
+#EXTINF:-1,Gold HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6772.m3u8
 #EXTINF:-1,TLC HD
-http://inkpens.art:80/live/Sol/Sol123/666.m3u8
-#EXTINF:-1,True Entertainment SD
-http://inkpens.art:80/live/Sol/Sol123/665.m3u8
-#EXTINF:-1,Tru TV SD
-http://inkpens.art:80/live/Sol/Sol123/664.m3u8
-#EXTINF:-1,Horror Channel SD
-http://inkpens.art:80/live/Sol/Sol123/661.m3u8
-#EXTINF:-1,Quest HD
-http://inkpens.art:80/live/Sol/Sol123/659.m3u8
-#EXTINF:-1,Pick TV
-http://inkpens.art:80/live/Sol/Sol123/658.m3u8
-#EXTINF:-1,PBS America
-http://inkpens.art:80/live/Sol/Sol123/657.m3u8
-#EXTINF:-1,Drama HD
-http://inkpens.art:80/live/Sol/Sol123/655.m3u8
-#EXTINF:-1,DMAX HD
-http://inkpens.art:80/live/Sol/Sol123/656.m3u8
-#EXTINF:-1,Real Lives HD
-http://inkpens.art:80/live/Sol/Sol123/654.m3u8
-#EXTINF:-1,RTE ONE
-http://inkpens.art:80/live/Sol/Sol123/653.m3u8
-#EXTINF:-1,UK FHD : RTE ONE FHD
-http://inkpens.art:80/live/Sol/Sol123/567.m3u8
-#EXTINF:-1,UK FHD : RTE TWO FHD
-http://inkpens.art:80/live/Sol/Sol123/566.m3u8
-#EXTINF:-1,RTE TWO
-http://inkpens.art:80/live/Sol/Sol123/652.m3u8
-#EXTINF:-1,RTE JUNIOR
-http://inkpens.art:80/live/Sol/Sol123/651.m3u8
-#EXTINF:-1,UK HD : BE3 HD
-http://inkpens.art:80/live/Sol/Sol123/565.m3u8
-#EXTINF:-1,TV3
-http://inkpens.art:80/live/Sol/Sol123/650.m3u8
-#EXTINF:-1,UK HD : TG4 HD
-http://inkpens.art:80/live/Sol/Sol123/564.m3u8
-#EXTINF:-1,UK FHD : UTV FHD
-http://inkpens.art:80/live/Sol/Sol123/563.m3u8
-#EXTINF:-1,Really SD
-http://inkpens.art:80/live/Sol/Sol123/660.m3u8
-#EXTINF:-1,EDEN FHD
-http://inkpens.art:80/live/Sol/Sol123/562.m3u8
-#EXTINF:-1,EDEN
-http://inkpens.art:80/live/Sol/Sol123/649.m3u8
-#EXTINF:-1,LIFETIME FHD
-http://inkpens.art:80/live/Sol/Sol123/561.m3u8
-#EXTINF:-1,LIFETIME
-http://inkpens.art:80/live/Sol/Sol123/648.m3u8
-#EXTINF:-1,YESTERDAY
-http://inkpens.art:80/live/Sol/Sol123/647.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://inkpens.art:80/live/Sol/Sol123/646.m3u8
-#EXTINF:-1,GOOD FOOD FHD
-http://inkpens.art:80/live/Sol/Sol123/560.m3u8
-#EXTINF:-1,H2 FHD
-http://inkpens.art:80/live/Sol/Sol123/559.m3u8
-#EXTINF:-1,DISCOVERY FHD
-http://inkpens.art:80/live/Sol/Sol123/558.m3u8
-#EXTINF:-1,DISCOVERY
-http://inkpens.art:80/live/Sol/Sol123/640.m3u8
-#EXTINF:-1,DISCOVERY HISTORY
-http://inkpens.art:80/live/Sol/Sol123/639.m3u8
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://inkpens.art:80/live/Sol/Sol123/638.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://inkpens.art:80/live/Sol/Sol123/637.m3u8
-#EXTINF:-1,DISCOVERY SHED
-http://inkpens.art:80/live/Sol/Sol123/636.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://inkpens.art:80/live/Sol/Sol123/635.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY (ID)
-http://inkpens.art:80/live/Sol/Sol123/634.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION FHD
-http://inkpens.art:80/live/Sol/Sol123/557.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
-http://inkpens.art:80/live/Sol/Sol123/633.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://inkpens.art:80/live/Sol/Sol123/555.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://inkpens.art:80/live/Sol/Sol123/631.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://inkpens.art:80/live/Sol/Sol123/556.m3u8
-#EXTINF:-1,NAT GEO
-http://inkpens.art:80/live/Sol/Sol123/632.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD
-http://inkpens.art:80/live/Sol/Sol123/554.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://inkpens.art:80/live/Sol/Sol123/630.m3u8
-#EXTINF:-1,SKY CINEMA ACTION FHD
-http://inkpens.art:80/live/Sol/Sol123/553.m3u8
-#EXTINF:-1,SKY CINEMA ACTION
-http://inkpens.art:80/live/Sol/Sol123/1742.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://inkpens.art:80/live/Sol/Sol123/550.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://inkpens.art:80/live/Sol/Sol123/624.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://inkpens.art:80/live/Sol/Sol123/552.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY
-http://inkpens.art:80/live/Sol/Sol123/1741.m3u8
-#EXTINF:-1,UK  : SKY CINEMA DISNEY FHD
-http://inkpens.art:80/live/Sol/Sol123/551.m3u8
-#EXTINF:-1,SKY CINEMA DISNEY
-http://inkpens.art:80/live/Sol/Sol123/1740.m3u8
-#EXTINF:-1,SKY CINEMA GREATS FHD
-http://inkpens.art:80/live/Sol/Sol123/549.m3u8
-#EXTINF:-1,SKY CINEMA GREATS
-http://inkpens.art:80/live/Sol/Sol123/629.m3u8
-#EXTINF:-1,SKY CINEMA SKI-FI FHD
-http://inkpens.art:80/live/Sol/Sol123/547.m3u8
-#EXTINF:-1,SKY CINEMA SKI-FI
-http://inkpens.art:80/live/Sol/Sol123/626.m3u8
-#EXTINF:-1,SKY CINEMA PREMIER FHD
-http://inkpens.art:80/live/Sol/Sol123/548.m3u8
-#EXTINF:-1,SKY CINEMA PREMIER
-http://inkpens.art:80/live/Sol/Sol123/627.m3u8
-#EXTINF:-1,SKY CINEMA SELECT FHD
-http://inkpens.art:80/live/Sol/Sol123/546.m3u8
-#EXTINF:-1,SKY CINEMA SELECT
-http://inkpens.art:80/live/Sol/Sol123/1739.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER FHD
-http://inkpens.art:80/live/Sol/Sol123/545.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER
-http://inkpens.art:80/live/Sol/Sol123/1738.m3u8
-#EXTINF:-1,SKY CINEMA HITS FHD
-http://inkpens.art:80/live/Sol/Sol123/1737.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://inkpens.art:80/live/Sol/Sol123/628.m3u8
-#EXTINF:-1,FILM 4 FHD
-http://inkpens.art:80/live/Sol/Sol123/544.m3u8
-#EXTINF:-1,Film 4
-http://inkpens.art:80/live/Sol/Sol123/1736.m3u8
-#EXTINF:-1,TCM
-http://inkpens.art:80/live/Sol/Sol123/623.m3u8
-#EXTINF:-1,Sky Sports Main Event FHD
-http://inkpens.art:80/live/Sol/Sol123/1778.m3u8
-#EXTINF:-1,Sky Sports Main Event SD
-http://inkpens.art:80/live/Sol/Sol123/585.m3u8
-#EXTINF:-1,Sky Sports Main Event HD
-http://inkpens.art:80/live/Sol/Sol123/10991.m3u8
-#EXTINF:-1,Sky Sports Action FHD
-http://inkpens.art:80/live/Sol/Sol123/497.m3u8
-#EXTINF:-1,Sky Sports Action SD
-http://inkpens.art:80/live/Sol/Sol123/591.m3u8
-#EXTINF:-1,Sky Sports Action HD
-http://inkpens.art:80/live/Sol/Sol123/10997.m3u8
-#EXTINF:-1,Sky Sports Arena FHD
-http://inkpens.art:80/live/Sol/Sol123/496.m3u8
-#EXTINF:-1,Sky Sports Arena SD
-http://inkpens.art:80/live/Sol/Sol123/590.m3u8
-#EXTINF:-1,Sky Sports Arena HD
-http://inkpens.art:80/live/Sol/Sol123/10996.m3u8
-#EXTINF:-1,Sky Sports Football FHD
-http://inkpens.art:80/live/Sol/Sol123/1780.m3u8
-#EXTINF:-1,Sky Sports Football SD
-http://inkpens.art:80/live/Sol/Sol123/587.m3u8
-#EXTINF:-1,Sky Sports Football HD
-http://inkpens.art:80/live/Sol/Sol123/10993.m3u8
-#EXTINF:-1,Sky Sports Cricket FHD
-http://inkpens.art:80/live/Sol/Sol123/495.m3u8
-#EXTINF:-1,Sky Sports Cricket SD
-http://inkpens.art:80/live/Sol/Sol123/589.m3u8
-#EXTINF:-1,Sky Sports Cricket HD
-http://inkpens.art:80/live/Sol/Sol123/10995.m3u8
-#EXTINF:-1,Sky Sports F1 FHD
-http://inkpens.art:80/live/Sol/Sol123/1781.m3u8
-#EXTINF:-1,Sky Sports F1 SD
-http://inkpens.art:80/live/Sol/Sol123/588.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9475.m3u8
+#EXTINF:-1,Animal Planet HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9489.m3u8
+#EXTINF:-1,ID
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9517.m3u8
+#EXTINF:-1,5 Spike
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23749.m3u8
+#EXTINF:-1,5Star
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23745.m3u8
+#EXTINF:-1,Animal Planet +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23693.m3u8
+#EXTINF:-1,At The Races
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23719.m3u8
+#EXTINF:-1,Boomerang +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23681.m3u8
+#EXTINF:-1,BoxNation 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23716.m3u8
+#EXTINF:-1,Cartoon Network
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23682.m3u8
+#EXTINF:-1,Cartoonito
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23683.m3u8
+#EXTINF:-1,CCN 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23699.m3u8
+#EXTINF:-1,Chelsea TV
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23726.m3u8
+#EXTINF:-1,Crime & Investigation
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23698.m3u8
+#EXTINF:-1,Dave ja vu
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23708.m3u8
+#EXTINF:-1,Discovery Channel
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23687.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23686.m3u8
+#EXTINF:-1,Discovery History
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23689.m3u8
+#EXTINF:-1,Discovery Science
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23690.m3u8
+#EXTINF:-1,Discovery Shed
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23691.m3u8
+#EXTINF:-1,Discovery Turbo
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23688.m3u8
+#EXTINF:-1,E!
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23756.m3u8
+#EXTINF:-1,Eleven Sport 1 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23717.m3u8
+#EXTINF:-1,Euro Sport 1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23714.m3u8
+#EXTINF:-1,Euro Sport 1 FHD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23712.m3u8
+#EXTINF:-1,Euro Sport 2
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23715.m3u8
+#EXTINF:-1,Euro Sport 2 FHD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23713.m3u8
+#EXTINF:-1,EuroNews
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23748.m3u8
+#EXTINF:-1,Film4 +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23740.m3u8
+#EXTINF:-1,Film4 HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23739.m3u8
+#EXTINF:-1,Food Network
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23694.m3u8
+#EXTINF:-1,Food Network +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23695.m3u8
+#EXTINF:-1,Free Sports
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23721.m3u8
+#EXTINF:-1,Good Food
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23696.m3u8
+#EXTINF:-1,Good Food +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23697.m3u8
+#EXTINF:-1,History Channel
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23701.m3u8
+#EXTINF:-1,History Channel FHD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23700.m3u8
+#EXTINF:-1,Home
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23706.m3u8
+#EXTINF:-1,Home & Health +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23705.m3u8
+#EXTINF:-1,Home +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23707.m3u8
+#EXTINF:-1,Investigation Discovery
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23692.m3u8
+#EXTINF:-1,Liverpool FC TV HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23723.m3u8
+#EXTINF:-1,Manchtster United TV HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23724.m3u8
+#EXTINF:-1,Movie24
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23754.m3u8
+#EXTINF:-1,Movies4Men
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23755.m3u8
+#EXTINF:-1,MTV +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23729.m3u8
+#EXTINF:-1,MTV Music +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23728.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23685.m3u8
+#EXTINF:-1,National Geographic 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23684.m3u8
+#EXTINF:-1,Nick Junior TOO
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23680.m3u8
+#EXTINF:-1,Nickelodeon
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23679.m3u8
+#EXTINF:-1,Paddy Power 3
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23725.m3u8
+#EXTINF:-1,Premier Sports
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23711.m3u8
+#EXTINF:-1,Racing
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23720.m3u8
+#EXTINF:-1,Sony Crime
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23751.m3u8
+#EXTINF:-1,Sony Crime 2
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23752.m3u8
+#EXTINF:-1,Sony Movies
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23753.m3u8
+#EXTINF:-1,SYFY HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23747.m3u8
+#EXTINF:-1,TCM HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23750.m3u8
+#EXTINF:-1,Travel Chanenl +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23703.m3u8
+#EXTINF:-1,Travel Channel
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23702.m3u8
+#EXTINF:-1,Tru TV
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23742.m3u8
+#EXTINF:-1,True Entertainment
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23743.m3u8
+#EXTINF:-1,True Movies
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23744.m3u8
+#EXTINF:-1,Home & Health
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23704.m3u8
+#EXTINF:-1,Univseral TV
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23746.m3u8
+#EXTINF:-1,Motorsport TV
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9518.m3u8
+#EXTINF:-1,S4C HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9479.m3u8
+#EXTINF:-1,STV HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9481.m3u8
+#EXTINF:-1,UTV HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/9483.m3u8
+#EXTINF:-1,Disney XD HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6787.m3u8
+#EXTINF:-1,Disney Channel HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6788.m3u8
+#EXTINF:-1,Disney Junior HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6789.m3u8
+#EXTINF:-1,Nick Junior HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6790.m3u8
+#EXTINF:-1,Boomerang HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6783.m3u8
+#EXTINF:-1,Baby TV HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6784.m3u8
+#EXTINF:-1,Comedy Central HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6785.m3u8
+#EXTINF:-1,Sky Movies Action 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23375.m3u8
+#EXTINF:-1,Sky Movies Action HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6792.m3u8
+#EXTINF:-1,Sky Movies Action
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23376.m3u8
+#EXTINF:-1,Sky Movies Drama & Romance 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23377.m3u8
+#EXTINF:-1,Sky Movies Drama & Romance HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6798.m3u8
+#EXTINF:-1,Sky Movies Drama & Romance
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23378.m3u8
+#EXTINF:-1,Sky Movies Crime & Thriller 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23379.m3u8
+#EXTINF:-1,Sky Movies Crime & Thriller HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6795.m3u8
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23380.m3u8
+#EXTINF:-1,Sky Movies Sci-Fi & Horror 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23381.m3u8
+#EXTINF:-1,Sky Movies Sci-Fi & Horror HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6802.m3u8
+#EXTINF:-1,Sky Movies Sci-Fi & Horror
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23382.m3u8
+#EXTINF:-1,Sky Movies Premiere 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23383.m3u8
+#EXTINF:-1,Sky Movies Premiere HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6801.m3u8
+#EXTINF:-1,Sky Movies Premiere
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23384.m3u8
+#EXTINF:-1,Sky Movies Premiere +1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23385.m3u8
+#EXTINF:-1,Sky Movies Comedy 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23386.m3u8
+#EXTINF:-1,Sky Movies Comedy HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6794.m3u8
+#EXTINF:-1,Sky Movies Comedy
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23387.m3u8
+#EXTINF:-1,Sky Movies Disney 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23388.m3u8
+#EXTINF:-1,Sky Movies Disney HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6797.m3u8
+#EXTINF:-1,Sky Movies Disney
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23389.m3u8
+#EXTINF:-1,Sky Movies Modern Greats 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23390.m3u8
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6800.m3u8
+#EXTINF:-1,Sky Movies Modern Greats
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23391.m3u8
+#EXTINF:-1,Sky Movies Family 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23392.m3u8
+#EXTINF:-1,Sky Movies Family HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6799.m3u8
+#EXTINF:-1,Sky Movies Family
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23393.m3u8
+#EXTINF:-1,Sky Movies Select 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23373.m3u8
+#EXTINF:-1,Sky Movies Select HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/8522.m3u8
+#EXTINF:-1,Sky Movies Select
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23374.m3u8
+#EXTINF:-1,Sky Sports Main Event 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23363.m3u8
+#EXTINF:-1,Sky Sport Main Event HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6805.m3u8
+#EXTINF:-1,Sky Sports Cricket 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23367.m3u8
+#EXTINF:-1,Sky Sport Cricket HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6806.m3u8
+#EXTINF:-1,Sky Sports Action 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23369.m3u8
+#EXTINF:-1,Sky Sport Action HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6807.m3u8
+#EXTINF:-1,Sky Sport Golf 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23366.m3u8
+#EXTINF:-1,Sky Sport Golf HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6808.m3u8
+#EXTINF:-1,Sky Sport Premier League 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23364.m3u8
+#EXTINF:-1,Sky Sport Premier League HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6809.m3u8
+#EXTINF:-1,Sky Sport Football 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23365.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/12026.m3u8
+#EXTINF:-1,Sky Sports Arena 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23370.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/12024.m3u8
+#EXTINF:-1,Sky Sport Mix 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23371.m3u8
+#EXTINF:-1,Sky Sport Mix HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/12022.m3u8
+#EXTINF:-1,Sky Sports F1 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23368.m3u8
 #EXTINF:-1,Sky Sports F1 HD
-http://inkpens.art:80/live/Sol/Sol123/10994.m3u8
-#EXTINF:-1,Sky Sports Golf FHD
-http://inkpens.art:80/live/Sol/Sol123/1779.m3u8
-#EXTINF:-1,Sky Sports Golf SD
-http://inkpens.art:80/live/Sol/Sol123/586.m3u8
-#EXTINF:-1,Sky Sports Golf HD
-http://inkpens.art:80/live/Sol/Sol123/10992.m3u8
-#EXTINF:-1,Sky Sports Premier League FHD
-http://inkpens.art:80/live/Sol/Sol123/1777.m3u8
-#EXTINF:-1,Sky Sports Premier League SD
-http://inkpens.art:80/live/Sol/Sol123/583.m3u8
-#EXTINF:-1,Sky Sports Premier League HD
-http://inkpens.art:80/live/Sol/Sol123/10990.m3u8
-#EXTINF:-1,Sky Sports Mix FHD
-http://inkpens.art:80/live/Sol/Sol123/502.m3u8
-#EXTINF:-1,Sky Sports News FHD
-http://inkpens.art:80/live/Sol/Sol123/501.m3u8
-#EXTINF:-1,Sky Sports News SD
-http://inkpens.art:80/live/Sol/Sol123/584.m3u8
-#EXTINF:-1,BT Sport 1 FHD
-http://inkpens.art:80/live/Sol/Sol123/500.m3u8
-#EXTINF:-1,BT Sport 1
-http://inkpens.art:80/live/Sol/Sol123/595.m3u8
-#EXTINF:-1,BT Sport 2 FHD
-http://inkpens.art:80/live/Sol/Sol123/499.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6811.m3u8
+#EXTINF:-1,Sky Sport News 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23372.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6812.m3u8
+#EXTINF:-1,BoxNation HD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/6810.m3u8
+#EXTINF:-1,BT Sport 1 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23345.m3u8
+#EXTINF:-1,BT Sport 1 HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23346.m3u8
+#EXTINF:-1,BT Sport 1 SD
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23347.m3u8
+#EXTINF:-1,BT Sport 2 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23348.m3u8
+#EXTINF:-1,BT Sport 2 HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23349.m3u8
 #EXTINF:-1,BT Sport 2
-http://inkpens.art:80/live/Sol/Sol123/594.m3u8
-#EXTINF:-1,BT Sport 3 FHD
-http://inkpens.art:80/live/Sol/Sol123/498.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23350.m3u8
+#EXTINF:-1,BT Sport 3 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23351.m3u8
+#EXTINF:-1,BT Sport  3 HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23352.m3u8
 #EXTINF:-1,BT Sport 3
-http://inkpens.art:80/live/Sol/Sol123/593.m3u8
-#EXTINF:-1,BT ESPN
-http://inkpens.art:80/live/Sol/Sol123/596.m3u8
-#EXTINF:-1,BT Sport Mosaic
-http://inkpens.art:80/live/Sol/Sol123/592.m3u8
-#EXTINF:-1,Sky Sports Racing SD
-http://inkpens.art:80/live/Sol/Sol123/706.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23353.m3u8
+#EXTINF:-1,BT Sport Extra 1
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23357.m3u8
+#EXTINF:-1,BT Sport Extra 2
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23358.m3u8
+#EXTINF:-1,BT Sport Extra 3
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23359.m3u8
+#EXTINF:-1,BT Sport Extra 4
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23360.m3u8
+#EXTINF:-1,BT Sport Extra 5
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23361.m3u8
+#EXTINF:-1,BT Sport Extra 6
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23362.m3u8
+#EXTINF:-1,BT Sport ESPN 4K+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23354.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23356.m3u8
+#EXTINF:-1,BT Sport ESPN HD+
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/23355.m3u8
