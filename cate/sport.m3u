@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
+https://sportbar.biz/lba/123/g2/maineventss.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="Sport",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="Sport",A Spor
@@ -357,8 +359,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cZOIHf8.jpg" group-title="Sport",Sky Sports
 http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
 https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="Sport",SPORT TV 1
