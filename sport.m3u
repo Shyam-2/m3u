@@ -371,6 +371,8 @@ http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104386
 http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104385
 #EXTINF:-1,Eleven Sport PL 08 (Events Only)
 http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
+https://sportbar.biz/lba/123/g2/maineventss.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="Sport",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="Sport",A Spor
@@ -637,6 +639,8 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
 http://149.100.10.162:8011/play/s234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" group-title="Sport",ON Sport
 http://149.100.10.162:8018/play/s213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" group-title="Sport",ON Sport
+https://swhd.herokuapp.com/http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="Sport",Pro X
 https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D3Pt9UL.png" group-title="Sport",Qazsport
@@ -727,8 +731,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cZOIHf8.jpg" group-title="Sport",Sky Sports
 http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
 https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="Sport",SPORT TV 1
@@ -783,6 +786,8 @@ https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sZpnm3U.png" group-title="Sport",StreamSport
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Super Soccer TV
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Super Soccer TV
