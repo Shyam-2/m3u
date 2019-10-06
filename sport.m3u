@@ -1,36 +1,344 @@
 #EXTM3U
-#EXTINF:-1,Bein Sports 1 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26647
-#EXTINF:-1,Bein Sports 2 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26649
-#EXTINF:-1,Bein Sports 3 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26651
-#EXTINF:-1,Bein Sports 4 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26653
-#EXTINF:-1,Bein Sports 5 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26655
-#EXTINF:-1,Bein Sports 6 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26657
-#EXTINF:-1,Bein Sports 7 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26659
-#EXTINF:-1,Bein Sports 8 4K
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26661
-#EXTINF:-1,Bein Sports 1 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26648
-#EXTINF:-1,Bein Sports 2 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26650
-#EXTINF:-1,Bein Sports 3 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26652
-#EXTINF:-1,Bein Sports 4 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26654
-#EXTINF:-1,Bein Sports 5 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26656
-#EXTINF:-1,Bein Sports 6 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26658
-#EXTINF:-1,Bein Sports 7 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26660
-#EXTINF:-1,Bein Sports 8 FHD
-http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26662
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50188
+#EXTINF:-1,SKY SPORTS CRICKET FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50187
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50186
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50185
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50184
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50189
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50183
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50182
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50181
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50180
+#EXTINF:-1,SKY SPORTS RACING FHD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79691
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50178
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50177
+#EXTINF:-1,SKY SPORTS F1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50176
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50175
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50174
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50173
+#EXTINF:-1,SKY SPORTS MIX HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50172
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50171
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50170
+#EXTINF:-1,SKY SPORTS ACTION SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50169
+#EXTINF:-1,SKY SPORTS ARENA SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50168
+#EXTINF:-1,SKY SPORTS CRICKET SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50167
+#EXTINF:-1,SKY SPORTS F1 SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50166
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50165
+#EXTINF:-1,SKY SPORTS GOLF SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50164
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50163
+#EXTINF:-1,SKY SPORTS MIX SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50162
+#EXTINF:-1,SKY SPORTS NEWS SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50161
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/50160
+#EXTINF:-1,BT SPORTS 1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/14391
+#EXTINF:-1,BT SPORTS 2 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/17508
+#EXTINF:-1,BT SPORTS 3 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16934
+#EXTINF:-1,BT SPORTS ESPN HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/15152
+#EXTINF:-1,BT SPORTS 1
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/13846
+#EXTINF:-1,BT SPORTS 2
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/13809
+#EXTINF:-1,BT SPORTS 3
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/13877
+#EXTINF:-1,BT SPORTS ESPN
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16910
+#EXTINF:-1,BOX NATION
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16943
+#EXTINF:-1,EIR SPORTS 1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16931
+#EXTINF:-1,EIR SPORTS 2 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16930
+#EXTINF:-1,CHELSEA TV
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/22127
+#EXTINF:-1,LFC TV
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/22126
+#EXTINF:-1,MUFC TV
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16926
+#EXTINF:-1,PREMIER SPORTS HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/13955
+#EXTINF:-1,EUROSPORT 1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/13581
+#EXTINF:-1,EUROSPORT 2 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16928
+#EXTINF:-1,At The Races
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/13736
+#EXTINF:-1,Racing UK
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/16694
+#EXTINF:-1,UFC FIGHT NIGHT PASS
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70308
+#EXTINF:-1,BT SPORTS EXTRA 1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70481
+#EXTINF:-1,BT SPORTS EXTRA 2 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70480
+#EXTINF:-1,BT SPORTS EXTRA 3 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70479
+#EXTINF:-1,BT SPORTS EXTRA 4 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70478
+#EXTINF:-1,BT SPORTS EXTRA 5 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70477
+#EXTINF:-1,BT SPORTS EXTRA 6 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70476
+#EXTINF:-1,BT SPORTS EXTRA 7 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/70475
+#EXTINF:-1,ELEVEN SPORTS 1
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/69441
+#EXTINF:-1,ELEVEN SPORTS 2
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/69436
+#EXTINF:-1,PL:-GS ELEVEN SPORT 1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79368
+#EXTINF:-1,PL:-GS EUROSPORT
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79365
+#EXTINF:-1,PL:-GS EUROSPORT 2
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79364
+#EXTINF:-1,PL:-GS EUROSPORT2
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79363
+#EXTINF:-1,PL:-GS Extreme Sports
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79362
+#EXTINF:-1,PL:-GS POLSAT SPORT EXTRA HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79406
+#EXTINF:-1,PL:-GS Polsat Sport News
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79405
+#EXTINF:-1,PL:-GS POLSAT SPORTS NEWS
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/79404
+#EXTINF:-1,OSN_Sports_Action_2_HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/85752
+#EXTINF:-1,IR:Sky Sport Action HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87130
+#EXTINF:-1,IR:Sky Sports Arena HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87129
+#EXTINF:-1,IR:Sky Sports Cricket HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87128
+#EXTINF:-1,IR:Sky Sports F1 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87127
+#EXTINF:-1,IR:Sky Sports Football HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87126
+#EXTINF:-1,IR:Sky Sports Golf HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87125
+#EXTINF:-1,IR:Sky Sports Main Event HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87124
+#EXTINF:-1,IR:Sky Sports Mix
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87123
+#EXTINF:-1,IR:Sky Sports News HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87122
+#EXTINF:-1,IR:Sky Sports Premier League HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/87121
+#EXTINF:-1,beIN SPORTS 1
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91311
+#EXTINF:-1,beIN SPORTS 2
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91310
+#EXTINF:-1,beIN SPORTS 3
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91309
+#EXTINF:-1,beIN SPORTS 4
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91308
+#EXTINF:-1,beIN SPORTS 5
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91307
+#EXTINF:-1,beIN SPORTS 6
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91306
+#EXTINF:-1,beIN SPORTS 7
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91305
+#EXTINF:-1,beIN SPORTS 8
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91304
+#EXTINF:-1,beIN SPORTS 9
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91303
+#EXTINF:-1,beIN SPORTS 10
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91302
+#EXTINF:-1,beIN SPORTS 11 EN
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91301
+#EXTINF:-1,beIN SPORTS 12 EN
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91300
+#EXTINF:-1,beIN SPORTS NEWS
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/91312
+#EXTINF:-1,US: BEIN SPORT | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101282
+#EXTINF:-1,US: BEIN SPORTS ? | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101280
+#EXTINF:-1,US: BEIN SPORTS (espa?ol) | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101281
+#EXTINF:-1,US: FOX SPORTS 1 | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101298
+#EXTINF:-1,US: FOX SPORTS 1 | HD*
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101297
+#EXTINF:-1,US: FOX SPORTS 2 | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101296
+#EXTINF:-1,US: FOX SPORTS 2 | HD*
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101295
+#EXTINF:-1,US: NBC SPORTS (Chicago) | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101336
+#EXTINF:-1,US: NBC SPORTS BAY AREA | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101335
+#EXTINF:-1,US: NBC Sports Network | HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/101334
+#EXTINF:-1,PREMIER SPORTS 2 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104195
+#EXTINF:-1,ESPN (PLUS) : STREAM 01 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104326
+#EXTINF:-1,ESPN (PLUS) : STREAM 02 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104325
+#EXTINF:-1,ESPN (PLUS) : STREAM 03 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104324
+#EXTINF:-1,ESPN (PLUS) : STREAM 04 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104323
+#EXTINF:-1,ESPN (PLUS) : STREAM 05 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104322
+#EXTINF:-1,ESPN (PLUS) : STREAM 06 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104321
+#EXTINF:-1,ESPN (PLUS) : STREAM 07 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104320
+#EXTINF:-1,ESPN (PLUS) : STREAM 08 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104319
+#EXTINF:-1,ESPN (PLUS) : STREAM 09 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104318
+#EXTINF:-1,ESPN (PLUS) : STREAM 10 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104317
+#EXTINF:-1,ESPN (PLUS) : STREAM 11 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104316
+#EXTINF:-1,ESPN (PLUS) : STREAM 12 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104315
+#EXTINF:-1,ESPN (PLUS) : STREAM 13 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104314
+#EXTINF:-1,ESPN (PLUS) : STREAM 14 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104313
+#EXTINF:-1,ESPN (PLUS) : STREAM 15 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104312
+#EXTINF:-1,ESPN (PLUS) : STREAM 16 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104311
+#EXTINF:-1,ESPN (PLUS) : STREAM 17 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104310
+#EXTINF:-1,ESPN (PLUS) : STREAM 18 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104309
+#EXTINF:-1,ESPN (PLUS) : STREAM 19 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104308
+#EXTINF:-1,ESPN (PLUS) : STREAM 20 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104307
+#EXTINF:-1,ESPN (PLUS) : STREAM 21 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104306
+#EXTINF:-1,ESPN (PLUS) : STREAM 22 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104305
+#EXTINF:-1,ESPN (PLUS) : STREAM 23 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104304
+#EXTINF:-1,ESPN (PLUS) : STREAM 24 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104303
+#EXTINF:-1,ESPN (PLUS) : STREAM 25 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104357
+#EXTINF:-1,ESPN (PLUS) : STREAM 26 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104356
+#EXTINF:-1,ESPN (PLUS) : STREAM 27 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104355
+#EXTINF:-1,ESPN (PLUS) : STREAM 28 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104354
+#EXTINF:-1,ESPN (PLUS) : STREAM 29 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104353
+#EXTINF:-1,ESPN (PLUS) : STREAM 30 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104352
+#EXTINF:-1,ESPN (PLUS) : STREAM 31 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104351
+#EXTINF:-1,ESPN (PLUS) : STREAM 32 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104350
+#EXTINF:-1,ESPN (PLUS) : STREAM 33 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104349
+#EXTINF:-1,ESPN (PLUS) : STREAM 34 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104348
+#EXTINF:-1,ESPN (PLUS) : STREAM 35 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104347
+#EXTINF:-1,ESPN (PLUS) : STREAM 36 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104346
+#EXTINF:-1,ESPN (PLUS) : STREAM 37 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104345
+#EXTINF:-1,ESPN (PLUS) : STREAM 38 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104344
+#EXTINF:-1,ESPN (PLUS) : STREAM 39 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104343
+#EXTINF:-1,ESPN (PLUS) : STREAM 40 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104342
+#EXTINF:-1,ESPN (PLUS) : STREAM 41 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104341
+#EXTINF:-1,ESPN (PLUS) : STREAM 42 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104340
+#EXTINF:-1,ESPN (PLUS) : STREAM 43 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104339
+#EXTINF:-1,ESPN (PLUS) : STREAM 44 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104338
+#EXTINF:-1,ESPN (PLUS) : STREAM 45 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104337
+#EXTINF:-1,ESPN (PLUS) : STREAM 46 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104336
+#EXTINF:-1,ESPN (PLUS) : STREAM 47 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104335
+#EXTINF:-1,ESPN (PLUS) : STREAM 48 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104334
+#EXTINF:-1,ESPN (PLUS) : STREAM 49 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104333
+#EXTINF:-1,ESPN (PLUS) : STREAM 50 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104332
+#EXTINF:-1,ESPN (PLUS) : STREAM 51 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104331
+#EXTINF:-1,ESPN (PLUS) : STREAM 52 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104330
+#EXTINF:-1,ESPN (PLUS) : STREAM 53 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104329
+#EXTINF:-1,ESPN (PLUS) : STREAM 54 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104328
+#EXTINF:-1,ESPN (PLUS) : STREAM 55 HD
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104327
+#EXTINF:-1,SPFL: CELTIC TV (Match time Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104368
+#EXTINF:-1,SPFL: CELTIC TV BU (Match time Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104367
+#EXTINF:-1,SPFL: RANGERS TV (Match time Only) 1080p
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104366
+#EXTINF:-1,SPFL: RANGERS TV (Match time Only) 720p
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104365
+#EXTINF:-1,SPFL: RANGERS TV* (Match time Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104364
+#EXTINF:-1,Eleven Sport PL 01 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104391
+#EXTINF:-1,Eleven Sport PL 02 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104390
+#EXTINF:-1,Eleven Sport PL 03 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104389
+#EXTINF:-1,Eleven Sport PL 04 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104388
+#EXTINF:-1,Eleven Sport PL 05 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104387
+#EXTINF:-1,Eleven Sport PL 06 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104386
+#EXTINF:-1,Eleven Sport PL 07 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104385
+#EXTINF:-1,Eleven Sport PL 08 (Events Only)
+http://ppvplug.net:8000/6Uc00IyQ4T/HjkqJkAusn/104384
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="Sport",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="Sport",A Spor
