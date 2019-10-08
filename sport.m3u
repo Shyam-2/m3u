@@ -1,70 +1,125 @@
-#EXTM3U
-#EXTINF:0,TR | BEIN SPORT 1 |720p|
-http://live.eurovipserver.com:1453/erol/uslu/123738
-#EXTINF:0,TR | VIP BEIN SPORTS 1 HD
-http://live.eurovipserver.com:1453/erol/uslu/56738
-#EXTINF:0,TR | VIP BeIN SPORTS 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/2903
-#EXTINF:0,TR | VIP BEIN SPORTS 3 HD
-http://live.eurovipserver.com:1453/erol/uslu/2902
-#EXTINF:0,TR | VIP BeIN SPORTS 4 HD
-http://live.eurovipserver.com:1453/erol/uslu/89976
-#EXTINF:0,TR | VIP BeIN SPORT MAX 1 HD
-http://live.eurovipserver.com:1453/erol/uslu/117663
-#EXTINF:0,TR | VIP BeIN SPORT MAX 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/117662
-#EXTINF:0,TR | beINSPORTS 4K Plus
-http://live.eurovipserver.com:1453/erol/uslu/92368
-#EXTINF:0,TR | BEIN SPORT 1 |1080p|
-http://live.eurovipserver.com:1453/erol/uslu/123739
-#EXTINF:0,TR | BEIN SPORTS 1 Plus
-http://live.eurovipserver.com:1453/erol/uslu/107152
-#EXTINF:0,TR | BEIN SPORTS 2 Plus
-http://live.eurovipserver.com:1453/erol/uslu/107151
-#EXTINF:0,TR | BEIN SPORTS 3 Plus
-http://live.eurovipserver.com:1453/erol/uslu/107150
-#EXTINF:0,TR | BEIN SPORTS 4 Plus
-http://live.eurovipserver.com:1453/erol/uslu/107149
-#EXTINF:0,TR |  TRT SPORT
-http://live.eurovipserver.com:1453/erol/uslu/120218
-#EXTINF:0,DE | Sky Sport 1
-http://live.eurovipserver.com:1453/erol/uslu/117719
-#EXTINF:0,DE | Sky Sport 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/117716
-#EXTINF:0,FR | BEINSPORT 2 FHD
-http://live.eurovipserver.com:1453/erol/uslu/122388
-#EXTINF:0,AR | Abu Dhabi Sport 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/126751
-#EXTINF:0,AR | Abu Dhabi Sport 4 HD
-http://live.eurovipserver.com:1453/erol/uslu/126750
-#EXTINF:0,AR | Abu Dhabi SPORTS 3 HD
-http://live.eurovipserver.com:1453/erol/uslu/126749
-#EXTINF:0,AR | Al Kass Sport 3 HD
-http://live.eurovipserver.com:1453/erol/uslu/126680
-#EXTINF:0,AR | Al Kass Sport 5 HD
-http://live.eurovipserver.com:1453/erol/uslu/126678
-#EXTINF:0,AR | Bahrain Sports 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/126533
-#EXTINF:0,AR | beIN Sports
-http://live.eurovipserver.com:1453/erol/uslu/126507
-#EXTINF:0,AR | beIN Sports 9
-http://live.eurovipserver.com:1453/erol/uslu/126506
-#EXTINF:0,AR | beIN Sports Max 5
-http://live.eurovipserver.com:1453/erol/uslu/126503
-#EXTINF:0,AR | DUBAI SPORT 1 HD
-http://live.eurovipserver.com:1453/erol/uslu/126419
-#EXTINF:0,AR | Jordan Sports
-http://live.eurovipserver.com:1453/erol/uslu/126322
-#EXTINF:0,AR | KSA Sport 1
-http://live.eurovipserver.com:1453/erol/uslu/126313
-#EXTINF:0,AR | KSA SPORTS 2 HD
-http://live.eurovipserver.com:1453/erol/uslu/126312
-#EXTINF:0,AR | Nile Sports
-http://live.eurovipserver.com:1453/erol/uslu/126201
-#EXTINF:0,AL | K Sport 1 HD
-http://live.eurovipserver.com:1453/erol/uslu/119301
-#EXTINF:0,AL | K Sport 3 HD
-http://live.eurovipserver.com:1453/erol/uslu/119299
+#EXTINF:-1,FR:CANAL_SPORT_SD
+http://goldpro.ddns.net:1991/nizar/nizar1234/8476
+#EXTINF:-1,FR:CANAL+ SPORT HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/4271
+#EXTINF:-1,FR:EUROSPORT 1 HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/5533
+#EXTINF:-1,FR:EUROSPORT 2 SD
+http://goldpro.ddns.net:1991/nizar/nizar1234/8449
+#EXTINF:-1,FR:EUROSPORT 2 HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/5534
+#EXTINF:-1,FR:INFOSPORT_SD
+http://goldpro.ddns.net:1991/nizar/nizar1234/8434
+#EXTINF:-1,FR:INFOSPORT_HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/7613
+#EXTINF:-1,FR:RMC SPORT HD_1
+http://goldpro.ddns.net:1991/nizar/nizar1234/28191
+#EXTINF:-1,FR:RMC_SPORT 1 HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/6053
+#EXTINF:-1,FR:RMC SPORT HD_2
+http://goldpro.ddns.net:1991/nizar/nizar1234/28190
+#EXTINF:-1,FR:RMC_SPORT 2 HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/6052
+#EXTINF:-1,FR:RMC SPORT HD_3
+http://goldpro.ddns.net:1991/nizar/nizar1234/28189
+#EXTINF:-1,FR:BEINSPORT_1_HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/5525
+#EXTINF:-1,FR:BEINSPORT_2_SD
+http://goldpro.ddns.net:1991/nizar/nizar1234/8487
+#EXTINF:-1,FR:BEINSPORT_3_SD
+http://goldpro.ddns.net:1991/nizar/nizar1234/8486
+#EXTINF:-1,AR: BEINSPORTS_HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/13150
+#EXTINF:-1,AR: BEINSPORTS_HD1
+http://goldpro.ddns.net:1991/nizar/nizar1234/11138
+#EXTINF:-1,AR: BEINSPORTS_HD3
+http://goldpro.ddns.net:1991/nizar/nizar1234/11141
+#EXTINF:-1,AR: BEINSPORTS_HD4
+http://goldpro.ddns.net:1991/nizar/nizar1234/11142
+#EXTINF:-1,AR: BEINSPORTS_HD5
+http://goldpro.ddns.net:1991/nizar/nizar1234/12994
+#EXTINF:-1,AR: BEINSPORTS_HD6
+http://goldpro.ddns.net:1991/nizar/nizar1234/13138
+#EXTINF:-1,AR: BEINSPORTS_HD7
+http://goldpro.ddns.net:1991/nizar/nizar1234/13141
+#EXTINF:-1,AR: BEINSPORTS_HD8
+http://goldpro.ddns.net:1991/nizar/nizar1234/13139
+#EXTINF:-1,AR: BEINSPORTS_HD9
+http://goldpro.ddns.net:1991/nizar/nizar1234/13142
+#EXTINF:-1,AR: BEINSPORTS_HD10
+http://goldpro.ddns.net:1991/nizar/nizar1234/13140
+#EXTINF:-1,BEINSPORTS_HD11 ( EN )
+http://goldpro.ddns.net:1991/nizar/nizar1234/17892
+#EXTINF:-1,AR: BEINSPORTS_SD1
+http://goldpro.ddns.net:1991/nizar/nizar1234/9206
+#EXTINF:-1,AR: BEINSPORTS_SD2
+http://goldpro.ddns.net:1991/nizar/nizar1234/9205
+#EXTINF:-1,AR: BEINSPORTS_SD4
+http://goldpro.ddns.net:1991/nizar/nizar1234/9203
+#EXTINF:-1,AR: BEINSPORTS_SD5
+http://goldpro.ddns.net:1991/nizar/nizar1234/9202
+#EXTINF:-1,AR: BEINSPORTS_SD6
+http://goldpro.ddns.net:1991/nizar/nizar1234/9201
+#EXTINF:-1,AR: BEINSPORTS_SD7
+http://goldpro.ddns.net:1991/nizar/nizar1234/9200
+#EXTINF:-1,AR: BEINSPORTS_SD8
+http://goldpro.ddns.net:1991/nizar/nizar1234/15755
+#EXTINF:-1,AR: BEINSPORTS_SD9
+http://goldpro.ddns.net:1991/nizar/nizar1234/9199
+#EXTINF:-1,AR: BEINSPORTS_SD10
+http://goldpro.ddns.net:1991/nizar/nizar1234/9198
+#EXTINF:-1,BEINSPORTS HD1 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7931
+#EXTINF:-1,BEINSPORTS HD2 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7930
+#EXTINF:-1,BEINSPORTS HD3 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7929
+#EXTINF:-1,BEINSPORTS HD4 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7928
+#EXTINF:-1,BEINSPORTS HD5 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7927
+#EXTINF:-1,BEINSPORTS HD6 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7926
+#EXTINF:-1,BEINSPORTS HD7 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7925
+#EXTINF:-1,BEINSPORTS HD8 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7924
+#EXTINF:-1,BEINSPORTS HD9 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7923
+#EXTINF:-1,BEINSPORTS HD10 B
+http://goldpro.ddns.net:1991/nizar/nizar1234/7922
+#EXTINF:-1,-IT: EUROSPORT 2 HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/25289
+#EXTINF:-1,TR| BEIN SPORTS 1 TR
+http://goldpro.ddns.net:1991/nizar/nizar1234/32253
+#EXTINF:-1,TR| BEIN SPORTS 3 TR
+http://goldpro.ddns.net:1991/nizar/nizar1234/32250
+#EXTINF:-1,TR| SPORTS TV HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/32236
+#EXTINF:-1,UK : BT Sport1
+http://goldpro.ddns.net:1991/nizar/nizar1234/22166
+#EXTINF:-1,UK : EUROSPORT 1
+http://goldpro.ddns.net:1991/nizar/nizar1234/22143
+#EXTINF:-1,UK : EUROSPORT 2 UK
+http://goldpro.ddns.net:1991/nizar/nizar1234/22142
+#EXTINF:-1,UK : PREMIERE SPORT
+http://goldpro.ddns.net:1991/nizar/nizar1234/22111
+#EXTINF:-1,UK : SKY SPORT 2
+http://goldpro.ddns.net:1991/nizar/nizar1234/22078
+#EXTINF:-1,NL| FOX SPORTS 4
+http://goldpro.ddns.net:1991/nizar/nizar1234/31724
+#EXTINF:-1,NL| ZIGGO SPORT SELECT
+http://goldpro.ddns.net:1991/nizar/nizar1234/31698
+#EXTINF:-1,NL| ZIGGO SPORT VOETBAL
+http://goldpro.ddns.net:1991/nizar/nizar1234/31922
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://goldpro.ddns.net:1991/nizar/nizar1234/28410
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD NET FRACA
+http://goldpro.ddns.net:1991/nizar/nizar1234/28409
+#EXTINF:-1,SR: Arena Sport 5
+http://goldpro.ddns.net:1991/nizar/nizar1234/12198
+#EXTINF:-1,SR: Sport Klub 1
+http://goldpro.ddns.net:1991/nizar/nizar1234/12197
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
 https://sportbar.biz/lba/123/g2/maineventss.m3u8
