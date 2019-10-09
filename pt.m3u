@@ -1,367 +1,193 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7231.m3u8
-#EXTINF:-1,RTP 1
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1721.m3u8
-#EXTINF:-1,RTP 2 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81072.m3u8
-#EXTINF:-1,RTP 2
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1722.m3u8
-#EXTINF:-1,SIC HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7232.m3u8
-#EXTINF:-1,SIC
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1723.m3u8
-#EXTINF:-1,SIC LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/9541.m3u8
-#EXTINF:-1,SIC INT.
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18578.m3u8
+#EXTINF:-1,RTP 1 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2615
+#EXTINF:-1,RTP 2 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2616
+#EXTINF:-1,RTP 3 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2617
+#EXTINF:-1,RTP ACORES HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2621
+#EXTINF:-1,RTP MEMORIA HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2618
+#EXTINF:-1,RTP AFRICA HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2620
+#EXTINF:-1,RTP INTER HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50199
+#EXTINF:-1,TPA (Angola)
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/70066
+#EXTINF:-1,TCV Cabo.
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/56881
+#EXTINF:-1,DISNEY JUNIOR .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2651
+#EXTINF:-1,DISNEY CHANNEL .HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2650
+#EXTINF:-1,NICKLODEON HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2648
+#EXTINF:-1,CARTON NETWORK .HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2649
+#EXTINF:-1,PANDA BIGGS HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2653
+#EXTINF:-1,JIMJAM HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50194
+#EXTINF:-1,PANDA HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2652
+#EXTINF:-1,National  Geographic  HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6294
+#EXTINF:-1,NAT GEO WILD .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2646
+#EXTINF:-1,DISCOVERY CHANNEL .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5453
+#EXTINF:-1,DISCOVERY SHOWCASE .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5452
+#EXTINF:-1,Odisseia HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5451
+#EXTINF:-1,CANAL HISTÓRIA HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2641
+#EXTINF:-1,E! HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6307
+#EXTINF:-1,24 KITCHEN .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50192
+#EXTINF:-1,BABY FIRST HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50195
+#EXTINF:-1,CAÇA PESCA
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50202
+#EXTINF:-1,CAçAVISION HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50201
+#EXTINF:-1,MY CUISINE HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50191
+#EXTINF:-1,TRAVEL-CHANNEL HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50190
 #EXTINF:-1,TVI HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7234.m3u8
-#EXTINF:-1,TVI
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1724.m3u8
-#EXTINF:-1,TVI LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/9540.m3u8
-#EXTINF:-1,TVI INT.
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18579.m3u8
-#EXTINF:-1,TVI FICCAO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1716.m3u8
-#EXTINF:-1,TVI REALITY 24
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1666.m3u8
-#EXTINF:-1,TVI REALITY MOSAICO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/26560.m3u8
-#EXTINF:-1,SIC MULHER HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18560.m3u8
-#EXTINF:-1,SIC MULHER
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1727.m3u8
-#EXTINF:-1,SIC CARAS HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81073.m3u8
-#EXTINF:-1,SIC CARAS
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1728.m3u8
-#EXTINF:-1,SIC RADICAL HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/19886.m3u8
-#EXTINF:-1,SIC RADICAL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1729.m3u8
-#EXTINF:-1,CANAL Q
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1733.m3u8
-#EXTINF:-1,PORTO CANAL HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18559.m3u8
-#EXTINF:-1,PORTO CANAL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1734.m3u8
-#EXTINF:-1,RTP AFRICA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1690.m3u8
-#EXTINF:-1,RTP ACORES
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3265.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4484.m3u8
-#EXTINF:-1,RTP INTERNATIONAL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3744.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3266.m3u8
-#EXTINF:-1,NOTICIAS
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3764.m3u8
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5449
+#EXTINF:-1,TVI 24 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50228
+#EXTINF:-1,TVI Reality HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5447
+#EXTINF:-1,TVI Ficção HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5448
+#EXTINF:-1,SIC HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2622
+#EXTINF:-1,SIC MULHER HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2624
+#EXTINF:-1,SIC Radical HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6280
 #EXTINF:-1,SIC NOTICIAS HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18561.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1725.m3u8
-#EXTINF:-1,TVI 24
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1726.m3u8
-#EXTINF:-1,CMTV HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7235.m3u8
-#EXTINF:-1,CMTV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1732.m3u8
-#EXTINF:-1,RTP 3 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81071.m3u8
-#EXTINF:-1,RTP 3
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3259.m3u8
-#EXTINF:-1,ARTV PARLAMENTO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4493.m3u8
-#EXTINF:-1,DESPORTO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3763.m3u8
-#EXTINF:-1,CANAL 11 FPF HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/92824.m3u8
-#EXTINF:-1,SPORT TV + HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7238.m3u8
-#EXTINF:-1,SPORT TV +
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4494.m3u8
-#EXTINF:-1,SPORT TV 4K UHD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/13907.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1736.m3u8
-#EXTINF:-1,SPORT TV 1 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/9538.m3u8
-#EXTINF:-1,SPORT TV 1
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3760.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1737.m3u8
-#EXTINF:-1,SPORT TV 2 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/9539.m3u8
-#EXTINF:-1,SPORT TV 2
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3759.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1738.m3u8
-#EXTINF:-1,SPORT TV 3 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/24579.m3u8
-#EXTINF:-1,SPORT TV 3
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3758.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1739.m3u8
-#EXTINF:-1,SPORT TV 4 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/24580.m3u8
-#EXTINF:-1,SPORT TV 4
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3757.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1740.m3u8
-#EXTINF:-1,SPORT TV 5 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/24581.m3u8
-#EXTINF:-1,SPORT TV 5
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3756.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/31399.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/38934.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/31398.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/38946.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/31397.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/39074.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/31396.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/39075.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/31395.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/39076.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/31394.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/39077.m3u8
-#EXTINF:-1,BENFICA TV 1 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/8668.m3u8
-#EXTINF:-1,BENFICA TV 1 HD LOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/9542.m3u8
-#EXTINF:-1,BENFICA TV 1
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4497.m3u8
-#EXTINF:-1,SPORTING TV HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7239.m3u8
-#EXTINF:-1,SPORTING TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1743.m3u8
-#EXTINF:-1,ABOLA TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1744.m3u8
-#EXTINF:-1,PFC
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1747.m3u8
-#EXTINF:-1,SPORT TV NBA HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18558.m3u8
-#EXTINF:-1,SPORT TV NBA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4485.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7251.m3u8
-#EXTINF:-1,EUROSPORT
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1745.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1746.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4489.m3u8
-#EXTINF:-1,FIGHT NETWORK
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7240.m3u8
-#EXTINF:-1,FUEL TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1702.m3u8
-#EXTINF:-1,MOTORVISION
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1748.m3u8
-#EXTINF:-1,MOVIES & SERIES
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3762.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3745.m3u8
-#EXTINF:-1,TVCINE 1
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1750.m3u8
-#EXTINF:-1,TVCINE 2 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3746.m3u8
-#EXTINF:-1,TVCINE 2
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1751.m3u8
-#EXTINF:-1,TVCINE 3 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3747.m3u8
-#EXTINF:-1,TVCINE 3
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1752.m3u8
-#EXTINF:-1,TVCINE 4 HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3748.m3u8
-#EXTINF:-1,TVCINE 4
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1753.m3u8
-#EXTINF:-1,NOS STUDIOS HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/87555.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7230.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1756.m3u8
-#EXTINF:-1,CINEMUNDO HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81078.m3u8
-#EXTINF:-1,CINEMUNDO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1687.m3u8
-#EXTINF:-1,AMC HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7248.m3u8
-#EXTINF:-1,AMC
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1686.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7249.m3u8
-#EXTINF:-1,FOX MOVIES
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1698.m3u8
-#EXTINF:-1,TV SERIES HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1754.m3u8
-#EXTINF:-1,TV SERIES
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/20030.m3u8
-#EXTINF:-1,FOX HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1718.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1758.m3u8
-#EXTINF:-1,FOX CRIME
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18557.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1757.m3u8
-#EXTINF:-1,FOX LIFE
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18556.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/19941.m3u8
-#EXTINF:-1,FOX COMEDY
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3261.m3u8
-#EXTINF:-1,AXN HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1720.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1759.m3u8
-#EXTINF:-1,AXN WHITE
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18552.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1760.m3u8
-#EXTINF:-1,AXN BLACK
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18553.m3u8
-#EXTINF:-1,SYFY HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7246.m3u8
-#EXTINF:-1,SYFY
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1755.m3u8
-#EXTINF:-1,DOCUMENTARIOS
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3766.m3u8
-#EXTINF:-1,NAT. GEOGRAPHIC HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1714.m3u8
-#EXTINF:-1,NAT. GEOGRAPHIC
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/42279.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/20010.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1764.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1765.m3u8
-#EXTINF:-1,CANAL HISTORIA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1688.m3u8
-#EXTINF:-1,ODISSEIA HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81074.m3u8
-#EXTINF:-1,ODISSEIA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1706.m3u8
-#EXTINF:-1,ID INVESTIGATION DISCOVERY HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/57767.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18554.m3u8
-#EXTINF:-1,CACA E PESCA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1749.m3u8
-#EXTINF:-1,CACAVISION
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1719.m3u8
-#EXTINF:-1,TOROS TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1704.m3u8
-#EXTINF:-1,KIDS
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3761.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1708.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1767.m3u8
-#EXTINF:-1,CANAL PANDA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1709.m3u8
-#EXTINF:-1,PANDA BIGGS
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1705.m3u8
-#EXTINF:-1,JIM JAM
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1707.m3u8
-#EXTINF:-1,BABY TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1769.m3u8
-#EXTINF:-1,NICKELODEON
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1768.m3u8
-#EXTINF:-1,NICK JR.
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18565.m3u8
-#EXTINF:-1,SIC K HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7233.m3u8
-#EXTINF:-1,SIC K
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1766.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1691.m3u8
-#EXTINF:-1,LIFESTYLE
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/43602.m3u8
-#EXTINF:-1,LUXE TV HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7237.m3u8
-#EXTINF:-1,BLAZE
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1710.m3u8
-#EXTINF:-1,CBS REALITY
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/2870.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1761.m3u8
-#EXTINF:-1,KURIAKOS TV HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/19931.m3u8
-#EXTINF:-1,LOCALVISAO HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7244.m3u8
-#EXTINF:-1,OUTDOOR HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7243.m3u8
-#EXTINF:-1,FINE LIVING HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7241.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/19885.m3u8
-#EXTINF:-1,TLC
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1762.m3u8
-#EXTINF:-1,FASHION TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7255.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1692.m3u8
-#EXTINF:-1,CANCAO NOVA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3262.m3u8
-#EXTINF:-1,SANTUARIO FATIMA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4483.m3u8
-#EXTINF:-1,MY CUISINE
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4666.m3u8
-#EXTINF:-1,24 KITCHEN HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1763.m3u8
-#EXTINF:-1,DOG TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7236.m3u8
-#EXTINF:-1,INTERNACIONAL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/43603.m3u8
-#EXTINF:-1,GLOBO HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81076.m3u8
-#EXTINF:-1,GLOBO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1697.m3u8
-#EXTINF:-1,GLOBO NOW
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1696.m3u8
-#EXTINF:-1,TV RECORD HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18551.m3u8
-#EXTINF:-1,TV RECORD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1735.m3u8
-#EXTINF:-1,TPA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/2874.m3u8
-#EXTINF:-1,ZAP VIVA HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81117.m3u8
-#EXTINF:-1,TCV INTERNACIONAL
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/18550.m3u8
-#EXTINF:-1,MUSICA
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3768.m3u8
-#EXTINF:-1,MCM POP
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/59392.m3u8
-#EXTINF:-1,MTV HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/81075.m3u8
-#EXTINF:-1,MTV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/3260.m3u8
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2623
+#EXTINF:-1,SIC KIDS HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50193
+#EXTINF:-1,SIC CARAS HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6281
+#EXTINF:-1,TV Globo
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/9681
+#EXTINF:-1,TV Globo Premium HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/9682
+#EXTINF:-1,TV Record HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/9683
+#EXTINF:-1,MTV PORTUGAL HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2647
+#EXTINF:-1,SYFY .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5450
 #EXTINF:-1,VH1
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1703.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7253.m3u8
-#EXTINF:-1,AFRO TV
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/1700.m3u8
-#EXTINF:-1,TRACE URBAN
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4482.m3u8
-#EXTINF:-1,ICONCERTS HD
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/7242.m3u8
-#EXTINF:-1,MEZZO
-http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/4486.m3u8
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/5446
+#EXTINF:-1,TLC .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50188
+#EXTINF:-1,A BOLA HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50203
+#EXTINF:-1,AMC HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50196
+#EXTINF:-1,BLAZE
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50227
+#EXTINF:-1,PORTO CANAL HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50230
+#EXTINF:-1,CBS REALITY HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50229
+#EXTINF:-1,CM TV HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6287
+#EXTINF:-1,PFC HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50206
+#EXTINF:-1,TVCINE 1 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2627
+#EXTINF:-1,TVCINE 2 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2628
+#EXTINF:-1,TVCINE 3 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2629
+#EXTINF:-1,TVCINE 4 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2630
+#EXTINF:-1,Hollywood  HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6298
+#EXTINF:-1,CINE MUNDO HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2632
+#EXTINF:-1,CINE MUNDO .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6299
+#EXTINF:-1,FOX LIFE HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2644
+#EXTINF:-1,Fox  Life  HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6302
+#EXTINF:-1,FOX  HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2643
+#EXTINF:-1,Fox  Movies  HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6303
+#EXTINF:-1,Fox  Comedy  HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6304
+#EXTINF:-1,FOX CRIME HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2645
+#EXTINF:-1,AXN HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/2642
+#EXTINF:-1,AXN White HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6305
+#EXTINF:-1,AXN Black HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6306
+#EXTINF:-1,Porto Canal HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50225
+#EXTINF:-1,REAL MADRID HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50211
+#EXTINF:-1,EUROSPORT 2HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50207
+#EXTINF:-1,KOMBAT  SPORT
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50209
+#EXTINF:-1,MOTORVISION HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50204
+#EXTINF:-1,NBA .HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50205
+#EXTINF:-1,TOROS TV HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50198
+#EXTINF:-1,RECORD NEWS HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50226
+#EXTINF:-1,Benfica TV HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/11401
+#EXTINF:-1,Sporting TV HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/9680
+#EXTINF:-1,SPORT TV HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50197
+#EXTINF:-1,SPORT TV 1 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50223
+#EXTINF:-1,SPORT TV 1 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6726
+#EXTINF:-1,SPORT TV 2 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50231
+#EXTINF:-1,SPORT TV 2 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6727
+#EXTINF:-1,SPORT TV 3 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50222
+#EXTINF:-1,SPORT TV 3 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6728
+#EXTINF:-1,SPORTV 4 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50221
+#EXTINF:-1,SPORT TV 4 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6729
+#EXTINF:-1,SPORT TV 5 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50220
+#EXTINF:-1,SPORT TV 5 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/6730
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50215
+#EXTINF:-1,ELEVEN SPORTS  1 HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50218
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50214
+#EXTINF:-1,ELEVEN SPORTS  2  HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50217
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50213
+#EXTINF:-1,ELEVEN SPORTS  3  HD+
+http://free-iptv.pro:8000/1iQ40rKDdy/BzML05Thxu/50216
