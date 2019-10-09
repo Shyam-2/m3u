@@ -1,179 +1,1185 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=3157566659
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 5 ARB" tvg-name="Abu Dhabi Sports 5 ARB" tvg-logo="https://i.imgur.com/7snS5Ki.png" group-title="Sport",Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 6 ARB" tvg-name="Abu Dhabi Sports 6 ARB" tvg-logo="https://i.imgur.com/icskFzD.png" group-title="Sport",Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="Ajman TV ARB" tvg-name="Ajman TV ARB" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" group-title="",Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-logo="https://i.imgur.com/Jcr3plu.jpg" group-title="",Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9SIuRz.jpg" group-title="News",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b1400000.m3u8
-#EXTINF:-1 tvg-id="Al Wousta from Al Dhaid ARB" tvg-name="Al Wousta from Al Dhaid ARB" tvg-logo="https://i.imgur.com/FpKvYT1.png" group-title="",Al Wousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
-#EXTINF:-1 tvg-id="B4U Aflam ARB" tvg-name="B4U Aflam ARB" tvg-logo="https://i.imgur.com/IvIdaGB.png" group-title="",B4U Aflam
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-#EXTINF:-1 tvg-id="B4U Plus ARB" tvg-name="B4U Plus ARB" tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="",B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network Arabic ARB" tvg-name="Cartoon Network Arabic ARB" tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="",Cartoon Network كرتون
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-logo="https://i.imgur.com/lNhSZ9N.png" group-title="Movies",Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-logo="https://i.imgur.com/lNhSZ9N.png" group-title="Movies",Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-logo="https://i.imgur.com/lNhSZ9N.png" group-title="Movies",Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-logo="https://i.imgur.com/lNhSZ9N.png" group-title="Movies",Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
-#EXTINF:-1 tvg-id="Citruss TV ARB" tvg-name="Citruss TV ARB" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="",Citruss TV
-https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QKXDeMQ.png" group-title="",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="",Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="",Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV
-http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
-#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV
-http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
-#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV
-http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
-#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="Music",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="Music",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="Music",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="",National Geographic Abu Dhabi
-http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
-#EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="",Noor Dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
-#EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="",Noor Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aNM8KfS.png" group-title="News",Orient News
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="",Peace TV
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="",Sama Dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="",Sama Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="",Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sharqiya from Kalba ARB" tvg-name="Sharqiya from Kalba ARB" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="",Sharqiya from Kalba TV
-http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
-#EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",Star World
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="",Toheed TV
-http://51.158.73.206/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="",Wanasah
-http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+#EXTM3U
+#EXTINF:-1,AL AOULA INTER
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2189
+#EXTINF:-1,AL AOULA INTER HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/939
+#EXTINF:-1,LAAYOUNE TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/94730
+#EXTINF:-1,2M MAROC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/937
+#EXTINF:-1,2M MAROC NATIONAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51467
+#EXTINF:-1,ARRYADIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/940
+#EXTINF:-1,ARRABIAA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/938
+#EXTINF:-1,AL MAGHRIBIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/941
+#EXTINF:-1,ASSADISSA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/942
+#EXTINF:-1,ASSABIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3299
+#EXTINF:-1,TV TAMAZIGHT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/944
+#EXTINF:-1,MEDI 1 TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/943
+#EXTINF:-1,MEDI 1 TV AFRIQUE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3599
+#EXTINF:-1,TELE MAROC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3303
+#EXTINF:-1,CHADA FM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/8508
+#EXTINF:-1,AL ONS TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/11468
+#EXTINF:-1,CANAL ATLAS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3598
+#EXTINF:-1,TNT AL OULA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9053
+#EXTINF:-1,TNT AL OULA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9054
+#EXTINF:-1,TNT AL OULA INTER
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9052
+#EXTINF:-1,TNT 2M MAROC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9051
+#EXTINF:-1,TNT ARRYADIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/74429
+#EXTINF:-1,TNT ARRIADIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9050
+#EXTINF:-1,TNT ARRABIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9049
+#EXTINF:-1,TNT AL MAGHRIBIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9048
+#EXTINF:-1,TNT ASSADISSA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9047
+#EXTINF:-1,TNT ASSABIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9046
+#EXTINF:-1,TNT TAMAZIGHT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9045
+#EXTINF:-1,TNT MEDI 1 TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/9044
+#EXTINF:-1,ENTV ALGERIE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1255
+#EXTINF:-1,CANAL ALGERIE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/979
+#EXTINF:-1,A3 ALGERIE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/981
+#EXTINF:-1,CHOUROUK TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/983
+#EXTINF:-1,ECHOUROUK
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3891
+#EXTINF:-1,CHOUROUK NEWS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/984
+#EXTINF:-1,ECHOUROUK NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3890
+#EXTINF:-1,ECHOROUK +
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3333
+#EXTINF:-1,SAMIRA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1038
+#EXTINF:-1,EL HEDDAF
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1264
+#EXTINF:-1,EL BILAD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3898
+#EXTINF:-1,NUMIDIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1246
+#EXTINF:-1,EL DJAZAIRIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/982
+#EXTINF:-1,ENNAHAR ALGERIE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/989
+#EXTINF:-1, AL HAYAT DZ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/68307
+#EXTINF:-1,DZAIR JANNAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/991
+#EXTINF:-1,AL ANIS TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1159
+#EXTINF:-1,AL MAGHARIBIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1017
+#EXTINF:-1,AL MAGHARIBIA 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1018
+#EXTINF:-1,BAHIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1149
+#EXTINF:-1,BEUR TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/988
+#EXTINF:-1,BERBERE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2960
+#EXTINF:-1,HALA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3885
+#EXTINF:-1,DZAIR 24
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3641
+#EXTINF:-1,DZAIR 3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3636
+#EXTINF:-1,ALGERIE 4
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/11529
+#EXTINF:-1,ALGERIE 5
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/11528
+#EXTINF:-1,EL FADJR TV DZ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72064
+#EXTINF:-1,AMEL TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/89302
+#EXTINF:-1,M TUNISIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/996
+#EXTINF:-1,TUNISNA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/997
+#EXTINF:-1,HANNIBAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/998
+#EXTINF:-1,ATTESSIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/999
+#EXTINF:-1,ZITOUNA HEDAYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1002
+#EXTINF:-1,AL JANOUBIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1003
+#EXTINF:-1,TUNESIE TELEVISION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1004
+#EXTINF:-1,TUNISIA NATIONAL 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1005
+#EXTINF:-1,TUNISIA NATIONAL 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1006
+#EXTINF:-1,AL INSEN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1116
+#EXTINF:-1,NESSMA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2039
+#EXTINF:-1,TELVZA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2113
+#EXTINF:-1,ZAYTOONA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2214
+#EXTINF:-1,ELHIWAR ETTOUNSI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/11369
+#EXTINF:-1,CARTHAGE+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72533
+#EXTINF:-1,ART AFLAM 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/107
+#EXTINF:-1,ART AFLAM 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/108
+#EXTINF:-1,ART HEKAYAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/102
+#EXTINF:-1,ART HEKAYAT 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/105
+#EXTINF:-1,MBC 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/945
+#EXTINF:-1,MBC 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/946
+#EXTINF:-1,MBC 3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/947
+#EXTINF:-1,MBC 4
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/948
+#EXTINF:-1,MBC 5
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99772
+#EXTINF:-1,MBC ACTION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/951
+#EXTINF:-1,MBC MAX
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/950
+#EXTINF:-1,MBC DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/949
+#EXTINF:-1,MBC BOLLYWOOD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/952
+#EXTINF:-1,MBC IRAQ HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72490
+#EXTINF:-1,B4U AFLAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1056
+#EXTINF:-1,B4U PLUS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1057
+#EXTINF:-1,ZEE ALWAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1053
+#EXTINF:-1,ZEE AFLAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1054
+#EXTINF:-1,ROTANA AFLAM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34065
+#EXTINF:-1,ROTANA DRAMA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34061
+#EXTINF:-1,ROTANA CINEMA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34064
+#EXTINF:-1,ROTANA CLASSIC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34063
+#EXTINF:-1,ROTANA KHALIJIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34062
+#EXTINF:-1,ROTANA MUSIC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34060
+#EXTINF:-1,ROTANA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/953
+#EXTINF:-1,ROTANA CLIP
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/954
+#EXTINF:-1,ROTANA CINEMA KSA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/956
+#EXTINF:-1,ROTANA CLASSIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/957
+#EXTINF:-1,ROTANA KHALIJIAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/959
+#EXTINF:-1,ROTANA DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/15197
+#EXTINF:-1,WANASAH TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1254
+#EXTINF:-1,MAZZIKA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/73568
+#EXTINF:-1,MICKEY CHANNEL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2206
+#EXTINF:-1,MODY KIDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2205
+#EXTINF:-1,JEEM KIDS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1051
+#EXTINF:-1,ATFAL & MAWAHEB
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2223
+#EXTINF:-1,DMC KIDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2965
+#EXTINF:-1,TAHA KIDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2216
+#EXTINF:-1,BARAEM KIDS EUROPE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1049
+#EXTINF:-1,HOD HOD TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1048
+#EXTINF:-1,TOYOR AL JANAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1050
+#EXTINF:-1,TOYOR BABY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2224
+#EXTINF:-1,AL MAJD KIDS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1863
+#EXTINF:-1,SPACETOON
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1047
+#EXTINF:-1,AL JAZEERA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1010
+#EXTINF:-1,AL JAZEERA DOCUMENTARY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2227
+#EXTINF:-1,AL JAZEERA MUBASHER HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1009
+#EXTINF:-1,AL ARABIYA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1014
+#EXTINF:-1,AL ARABIYA AL HADATH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1015
+#EXTINF:-1,BBC ARABIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1019
+#EXTINF:-1,FRANCE 24
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1261
+#EXTINF:-1,RT ARAB
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1022
+#EXTINF:-1,SKY NEWS ARABIA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1012
+#EXTINF:-1,AL HURRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1177
+#EXTINF:-1,AL ARABY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1168
+#EXTINF:-1,TRT ARABIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18135
+#EXTINF:-1,AL ALAM NEWS CHANNEL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1011
+#EXTINF:-1,DW ARABIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18136
+#EXTINF:-1,AL GHAD HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3882
+#EXTINF:-1,CNBC ARABIYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1262
+#EXTINF:-1,HADATH NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1130
+#EXTINF:-1,AL HIWAR HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3155
+#EXTINF:-1,AL MUSTAKILA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3896
+#EXTINF:-1,AL JAZEERA ENGLISH HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2226
+#EXTINF:-1,AL JAZEERA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1007
+#EXTINF:-1,BBC WORLD NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1259
+#EXTINF:-1,AL JAZEERA DOCUMENTARY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1008
+#EXTINF:-1,AL JAZEERA ENGLISH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2969
+#EXTINF:-1,I24 NEWS  (AR)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72539
+#EXTINF:-1,I24 NEWS HD FRENCH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2973
+#EXTINF:-1,I24 NEWS HD ENGLISH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/49798
+#EXTINF:-1,SBC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88754
+#EXTINF:-1,SAUDI 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1142
+#EXTINF:-1,SAUDI 24
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1143
+#EXTINF:-1,SAUDI FAMILY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3901
+#EXTINF:-1,AL AMAKEN DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1192
+#EXTINF:-1,SAUDI ANTI TERRORISM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1144
+#EXTINF:-1,KSA SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1250
+#EXTINF:-1,KSA SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/48240
+#EXTINF:-1,KSA SPORTS PLUS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/48241
+#EXTINF:-1,KSA SPORTS PLUS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/48242
+#EXTINF:-1,AL MERGAB
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1198
+#EXTINF:-1,MASDAR TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1202
+#EXTINF:-1,NABA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96751
+#EXTINF:-1,AL SAHRAA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96758
+#EXTINF:-1,SAUDI QURAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1024
+#EXTINF:-1,SAUDI QURAN HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72518
+#EXTINF:-1,SAUDI SUNNAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/90433
+#EXTINF:-1,SAUDI SUNNAH HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1025
+#EXTINF:-1,IQRAA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1023
+#EXTINF:-1,RESALA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34066
+#EXTINF:-1,AL RAHMA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1027
+#EXTINF:-1,MECCA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1031
+#EXTINF:-1,AHLU ALQURAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1209
+#EXTINF:-1,ZAD TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88209
+#EXTINF:-1,AL MAJD 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1029
+#EXTINF:-1,AL MAJD 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1028
+#EXTINF:-1,AL MAJD 3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2118
+#EXTINF:-1,AL MAJD 4
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2119
+#EXTINF:-1,BIN OUTHAYMINE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3889
+#EXTINF:-1,TANASOH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3895
+#EXTINF:-1,SAFA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3888
+#EXTINF:-1,AL RESALA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1030
+#EXTINF:-1,MTA MUSLIM TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1034
+#EXTINF:-1,MTA INTERNATIONAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1035
+#EXTINF:-1,AL HAQIQA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1036
+#EXTINF:-1,WESAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1211
+#EXTINF:-1,AL SIRAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1212
+#EXTINF:-1,KAIFA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/4024
+#EXTINF:-1,DAWAAH TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72541
+#EXTINF:-1,TIME SPORTS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/91956
+#EXTINF:-1,TIME SPORTS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/91957
+#EXTINF:-1,ESC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1058
+#EXTINF:-1,ALTHANYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3620
+#EXTINF:-1,MBC MASR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/104
+#EXTINF:-1,MBC MASR 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/103
+#EXTINF:-1,CBC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1059
+#EXTINF:-1,CBC DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1061
+#EXTINF:-1,CBC SOFRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1063
+#EXTINF:-1,CBC EXTRA NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1062
+#EXTINF:-1,AL NAHAR ONE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1081
+#EXTINF:-1,AL NAHAR DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1085
+#EXTINF:-1,ALHAYAT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17654
+#EXTINF:-1,ALHAYAT 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3637
+#EXTINF:-1,AL HAYAT MUSLSALAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1066
+#EXTINF:-1,ALHAYAT WE ALNAS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3643
+#EXTINF:-1,AL KAHERA WE ALNASS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1075
+#EXTINF:-1,AL KAHERA WEL NES
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1076
+#EXTINF:-1,SADA EL BALAD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1077
+#EXTINF:-1,SADA EL BALAD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2229
+#EXTINF:-1,SADA EL BALAD DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1078
+#EXTINF:-1,PANORAMA DRAMA 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3917
+#EXTINF:-1,PANORAMA DRAMA 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3918
+#EXTINF:-1,PANORAMA FOOD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3919
+#EXTINF:-1,APPLE TODAY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/90599
+#EXTINF:-1,APPLE AFLAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/90601
+#EXTINF:-1,APPLE MOSALSALAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/90600
+#EXTINF:-1,APPLE COMEDY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/90597
+#EXTINF:-1,APPLE HEKAYAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/90602
+#EXTINF:-1,TEN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1080
+#EXTINF:-1,DREAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1079
+#EXTINF:-1,MEHWAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1089
+#EXTINF:-1,MELODY CLASSIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2201
+#EXTINF:-1,AL MASRIYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3633
+#EXTINF:-1,MASPERO ZAMAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2121
+#EXTINF:-1,MAESTRO TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96752
+#EXTINF:-1,TOK TOK AFLAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3331
+#EXTINF:-1,STAR CINEMA 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1090
+#EXTINF:-1,STAR CINEMA 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1091
+#EXTINF:-1,CINEMA PRO
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1102
+#EXTINF:-1,SEHATY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3629
+#EXTINF:-1,NILE DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1068
+#EXTINF:-1,NILE COMEDY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1070
+#EXTINF:-1,NILE FAMILY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1069
+#EXTINF:-1,NILE LIFE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1072
+#EXTINF:-1,NILE CULTURE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2123
+#EXTINF:-1,NILE NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1071
+#EXTINF:-1,NILE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3635
+#EXTINF:-1,NILE SPORT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1073
+#EXTINF:-1,ON TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2958
+#EXTINF:-1,ON TV DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3887
+#EXTINF:-1,ON TV E
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3886
+#EXTINF:-1,ON TV E HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3880
+#EXTINF:-1,ON TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3879
+#EXTINF:-1,ON TV LIVE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2033
+#EXTINF:-1,ON TV LIVE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3878
+#EXTINF:-1,ON TV SPORT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2154
+#EXTINF:-1,ON TV SPORT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3927
+#EXTINF:-1,DMC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3876
+#EXTINF:-1,DMC DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2966
+#EXTINF:-1,DMC SPORTS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2964
+#EXTINF:-1,AL AHLY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3915
+#EXTINF:-1,AL HADATH AL YOUM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2180
+#EXTINF:-1,AL GHAD TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2183
+#EXTINF:-1,MAZAZIKH TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1045
+#EXTINF:-1,AFRAH TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1106
+#EXTINF:-1,ARABICA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1162
+#EXTINF:-1,HALABA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1110
+#EXTINF:-1,EL SHARQ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1115
+#EXTINF:-1,AL SHAREYYAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1155
+#EXTINF:-1,MEKAMELEEN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1064
+#EXTINF:-1,WATAN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3302
+#EXTINF:-1,AL NAS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/54110
+#EXTINF:-1,AZHARI TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1218
+#EXTINF:-1,AL HIWAR ETTOUNSI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1088
+#EXTINF:-1,MIX HOLLYWOOD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72532
+#EXTINF:-1,CIMA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1103
+#EXTINF:-1,AL GHAD MUSHREQ TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1104
+#EXTINF:-1,AL KAHERA WAL NAS +2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2182
+#EXTINF:-1,AL MASRAWIA AFLAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1204
+#EXTINF:-1,DMC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2963
+#EXTINF:-1,DMC MASRAHEYAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2967
+#EXTINF:-1,DMC NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2968
+#EXTINF:-1,LBC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/34067
+#EXTINF:-1,LEBANON TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2186
+#EXTINF:-1,MTV LEBANON HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1042
+#EXTINF:-1,AL JADEED
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2048
+#EXTINF:-1,OTV TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1041
+#EXTINF:-1,LDC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1040
+#EXTINF:-1,ONE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/73584
+#EXTINF:-1,FUTURE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1043
+#EXTINF:-1,NBN LEBANON HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/35990
+#EXTINF:-1,ALAAN TV LEBANON
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1044
+#EXTINF:-1,AGHANI AGHANI TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1108
+#EXTINF:-1,AL MANAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3043
+#EXTINF:-1,LBC SAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1039
+#EXTINF:-1,MTV LEBANON HD²
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18449
+#EXTINF:-1,AL ASRAR TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1118
+#EXTINF:-1,AL WAAD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1140
+#EXTINF:-1,AL NADA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1193
+#EXTINF:-1,AL QANAT 9
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1196
+#EXTINF:-1,TELELIBAN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3593
+#EXTINF:-1,AL MAYADEEN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1016
+#EXTINF:-1,QUEST ARABIYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96757
+#EXTINF:-1,DUBAI TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2129
+#EXTINF:-1,SAMA DUBAI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72531
+#EXTINF:-1,SAMA DUBAI HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1273
+#EXTINF:-1,DUBAI ZAMAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1275
+#EXTINF:-1,DUBAI ONE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1274
+#EXTINF:-1,NOOR DUBAI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1272
+#EXTINF:-1,ABU DHABI TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1862
+#EXTINF:-1,ABU DHABI DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72537
+#EXTINF:-1,ABU DHABI DRAMA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1861
+#EXTINF:-1,ABU DHABI AL EMARAT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2192
+#EXTINF:-1,ABU DHABI NAT GEO.
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72538
+#EXTINF:-1,ABU DHABI NAT GEO. HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1860
+#EXTINF:-1,NAT GEO KIDS ABU DHABI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/85339
+#EXTINF:-1,AL SHARJAH HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/42561
+#EXTINF:-1,AL WAHA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1082
+#EXTINF:-1,DUBAI SPORT 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1280
+#EXTINF:-1,YAS SPORTS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2190
+#EXTINF:-1,DUBAI RACING 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1283
+#EXTINF:-1,DUBAI RACING 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1284
+#EXTINF:-1,DUBAI RACING 3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1285
+#EXTINF:-1,ABU DHABI SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3883
+#EXTINF:-1,ABU DHABI SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1859
+#EXTINF:-1,DUBAI TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1277
+#EXTINF:-1,BAHRAIN SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3596
+#EXTINF:-1,BAHRAIN SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3597
+#EXTINF:-1,BAHRAIN TV  HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3595
+#EXTINF:-1,BAHRAIN INTERNATIONAL HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3594
+#EXTINF:-1,AL MAAREF
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1151
+#EXTINF:-1,BAHRAIN INTERNATIONAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1215
+#EXTINF:-1,BAHRAIN QURAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1268
+#EXTINF:-1,JORDAN HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3648
+#EXTINF:-1,ROYA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3647
+#EXTINF:-1,KARAMEESH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1052
+#EXTINF:-1,ZWEINA BALADNA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1191
+#EXTINF:-1,JORDAN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1221
+#EXTINF:-1,JORDAN SPORT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1225
+#EXTINF:-1,JORDAN SAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1224
+#EXTINF:-1,JORDAN NOW
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1223
+#EXTINF:-1,JORDAN MANASEER
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1230
+#EXTINF:-1,JORDAN AMEN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1229
+#EXTINF:-1,AMMAN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/92875
+#EXTINF:-1,NOOR JORDAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1232
+#EXTINF:-1,MUSAWA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2135
+#EXTINF:-1,JORDAN DERETNA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3640
+#EXTINF:-1,LIBYA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41737
+#EXTINF:-1,LIBYA CHANNEL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41736
+#EXTINF:-1,LIBYA AL HADATH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41738
+#EXTINF:-1,LIBYA EL AHRAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41739
+#EXTINF:-1,LIBYA EL WATAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41740
+#EXTINF:-1,LIBYA TANASUH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41741
+#EXTINF:-1,LIBYA 218
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1234
+#EXTINF:-1,LIBYA AL RSMIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1236
+#EXTINF:-1,LIBYA PANORAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/4029
+#EXTINF:-1,LIBYA ALWATANIYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72542
+#EXTINF:-1,LIBYA SPORT CHANNEL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72543
+#EXTINF:-1,LIBYA FEBRAYER TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88210
+#EXTINF:-1,LIBYA WAAD FM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/93948
+#EXTINF:-1,AGHAPY TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1125
+#EXTINF:-1,CTV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3187
+#EXTINF:-1,ME SAT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2207
+#EXTINF:-1,AL HAYAT CRISTIAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1065
+#EXTINF:-1,AL KARMA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1117
+#EXTINF:-1,AL MALAKOOT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3893
+#EXTINF:-1,AL HORREYA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/14990
+#EXTINF:-1,AL FADY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1164
+#EXTINF:-1,MIRACLE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1111
+#EXTINF:-1,SAT 7 ARABIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1179
+#EXTINF:-1,SAT 7 KIDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1181
+#EXTINF:-1,NOURSAT CHRISTIAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/39580
+#EXTINF:-1,LOGOS TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/67751
+#EXTINF:-1,NOURSAT AL CHABAB
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1121
+#EXTINF:-1,KOOGI TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/89356
+#EXTINF:-1,NOUR EL KODDAAS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/98618
+#EXTINF:-1,NOUR EL MARIAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/98621
+#EXTINF:-1,NOUR EL SHARQ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/98619
+#EXTINF:-1,NOUR EL SPIRIT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/98620
+#EXTINF:-1,ASSYRIA SAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/98725
+#EXTINF:-1,AL IRAQIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1170
+#EXTINF:-1,IRAQIA NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2972
+#EXTINF:-1,AL SHARQIYA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2127
+#EXTINF:-1,AL SHARQIA NEWS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1178
+#EXTINF:-1,AL RASHEED TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1137
+#EXTINF:-1,AL SUMARIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1184
+#EXTINF:-1,ASIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2231
+#EXTINF:-1,DIJLAH TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2672
+#EXTINF:-1,SAMARRAE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3907
+#EXTINF:-1,AL IRAQIA SPORT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3924
+#EXTINF:-1,AL MAWSLYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3916
+#EXTINF:-1,AL FORAT TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1169
+#EXTINF:-1,HONA BAGHDAD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1171
+#EXTINF:-1,IRAQI EDUCATION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2194
+#EXTINF:-1,AR : AL TAGHIER
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50136
+#EXTINF:-1,FALLUJAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3884
+#EXTINF:-1,IRAQ NOW
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3911
+#EXTINF:-1,AL ANWAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3913
+#EXTINF:-1,AL ANWAR 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/5429
+#EXTINF:-1,AL AQILA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3905
+#EXTINF:-1,AL GHADEER
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3906
+#EXTINF:-1,AL MANHAJ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3903
+#EXTINF:-1,AL MINHAJ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3910
+#EXTINF:-1,AL RAFIDAYN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3923
+#EXTINF:-1,AL MASAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3908
+#EXTINF:-1,AL MASSAR AL OULA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2215
+#EXTINF:-1,AFAQ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72535
+#EXTINF:-1,AL NAEEM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1157
+#EXTINF:-1,AL BASIRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1174
+#EXTINF:-1,AL SHARQIA NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2203
+#EXTINF:-1,AL AHD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2130
+#EXTINF:-1,KARBALA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1183
+#EXTINF:-1,AL AYAM TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72536
+#EXTINF:-1,AL AWHAD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1189
+#EXTINF:-1,AL KAWTHAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1252
+#EXTINF:-1,EL IMAN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2954
+#EXTINF:-1,AL ANBAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3645
+#EXTINF:-1,AL ESHRAQ TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3625
+#EXTINF:-1,AL HURRA IRAQ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3632
+#EXTINF:-1,AL MAJLIS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3605
+#EXTINF:-1,AL QURAIN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3603
+#EXTINF:-1,ALMASALAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3639
+#EXTINF:-1,BELADI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3630
+#EXTINF:-1,DEWAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3644
+#EXTINF:-1,DUA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3626
+#EXTINF:-1,ETIHAD TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3622
+#EXTINF:-1,AL THAQALAYN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3624
+#EXTINF:-1,MARJAEYAT TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/44468
+#EXTINF:-1,ANB TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2220
+#EXTINF:-1,W. TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96753
+#EXTINF:-1,TURKUMAN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96754
+#EXTINF:-1,MAAN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1131
+#EXTINF:-1,PALESTINE TODAY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2140
+#EXTINF:-1,PALESTINE SPORT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2139
+#EXTINF:-1,PALESTINE NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2138
+#EXTINF:-1,PALESTINE LIVE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2137
+#EXTINF:-1,PALESTINE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2136
+#EXTINF:-1,AWDEH TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2134
+#EXTINF:-1,ANNAJAH NBC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2133
+#EXTINF:-1,FALASTINI. TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96755
+#EXTINF:-1,SYRIA SATELLITE TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/68968
+#EXTINF:-1,SYRIA DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1133
+#EXTINF:-1,SYRIA EDUCATION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1134
+#EXTINF:-1,AL EKHBARIYA AL SORIYA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1136
+#EXTINF:-1,SAMA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3042
+#EXTINF:-1,LANA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32851
+#EXTINF:-1,LANA+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/80582
+#EXTINF:-1,SYRIA TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32842
+#EXTINF:-1,NOOR AL SHAM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3592
+#EXTINF:-1,SHAM TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32846
+#EXTINF:-1,SYRIA FM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32848
+#EXTINF:-1,SYRIA MEDICAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32853
+#EXTINF:-1,ALYAWM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32843
+#EXTINF:-1,ORIENT TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/4287
+#EXTINF:-1,MARA7
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32852
+#EXTINF:-1,MINBIJ
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/32850
+#EXTINF:-1,KTV 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1288
+#EXTINF:-1,KTV 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1289
+#EXTINF:-1,KTV PLUS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1287
+#EXTINF:-1,KTV AL ARABI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2587
+#EXTINF:-1,KTV ETHRAA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3604
+#EXTINF:-1,KTV SPORT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3606
+#EXTINF:-1,KTV KIDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99787
+#EXTINF:-1,FUNOON TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1249
+#EXTINF:-1,ALRAI HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99786
+#EXTINF:-1,YEMEN SAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1161
+#EXTINF:-1,YEMEN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1216
+#EXTINF:-1,YEMEN SHABAB
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1217
+#EXTINF:-1,SUHAIL TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2212
+#EXTINF:-1,SHEBA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2952
+#EXTINF:-1,YEMEN TODAY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2951
+#EXTINF:-1,ADEN TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2953
+#EXTINF:-1,AR : AL SAEEDAH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/43655
+#EXTINF:-1,AR : HADRAMOOT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/43654
+#EXTINF:-1,AR : AIC TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97191
+#EXTINF:-1,OMAN TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1213
+#EXTINF:-1,AL ISTIQAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/2126
+#EXTINF:-1,AL RAYYAN HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3881
+#EXTINF:-1,AL RAYYAN AL QADEEM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72997
+#EXTINF:-1,QATAR TV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/1239
+#EXTINF:-1,ELMOURITANIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3610
+#EXTINF:-1,ELMOURITANIA 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3612
+#EXTINF:-1,ATAQUAFIA MR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97061
+#EXTINF:-1,ARRIADIA MR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97060
+#EXTINF:-1,CHINGUIT TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97062
+#EXTINF:-1,EL BARLAMANIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97063
+#EXTINF:-1,ALMOURABITOUNE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3608
+#EXTINF:-1,ELMAHADRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3613
+#EXTINF:-1,ELWATANIA TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/3611
+#EXTINF:-1,SAHEL TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/96756
+#EXTINF:-1,4K - BEIN  SPORT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28573
+#EXTINF:-1,4K - BEIN SPORT NEWS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28572
+#EXTINF:-1,4K - BEIN SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28571
+#EXTINF:-1,4K - BEIN SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28570
+#EXTINF:-1,4K - BEIN SPORTS 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28569
+#EXTINF:-1,4K - BEIN SPORTS 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28568
+#EXTINF:-1,4K - BEIN SPORTS 5 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28567
+#EXTINF:-1,4K - BEIN SPORTS 6 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28566
+#EXTINF:-1,4K - BEIN SPORTS 7 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28565
+#EXTINF:-1,4K - BEIN SPORTS 8 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28564
+#EXTINF:-1,4K - BEIN SPORTS 9 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28562
+#EXTINF:-1,4K - BEIN SPORTS 10 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28563
+#EXTINF:-1,4K - BEIN SPORTS 11 HD EN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28561
+#EXTINF:-1,4K - BEIN SPORTS 12 HD EN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28560
+#EXTINF:-1,4K - BEIN SPORTS 13 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28559
+#EXTINF:-1,4K - BEIN SPORTS 14 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28558
+#EXTINF:-1,4K - BEIN SPORTS 15 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28557
+#EXTINF:-1,4K - BEIN SPORTS 16 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28556
+#EXTINF:-1,4K - BEIN SPORTS NBA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28554
+#EXTINF:-1,SD - BEIN SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97215
+#EXTINF:-1,SD - BEIN SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97214
+#EXTINF:-1,SD - BEIN SPORTS 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97213
+#EXTINF:-1,SD - BEIN SPORTS 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97212
+#EXTINF:-1,SD - BEIN SPORTS 5 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97211
+#EXTINF:-1,SD - BEIN SPORTS 6 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97210
+#EXTINF:-1,SD - BEIN SPORTS 7 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97209
+#EXTINF:-1,SD - BEIN SPORTS 8 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97208
+#EXTINF:-1,SD - BEIN SPORTS 9 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97207
+#EXTINF:-1,SD - BEIN SPORTS 10 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97206
+#EXTINF:-1,SD - BEIN SPORTS 11 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97205
+#EXTINF:-1,SD - BEIN SPORTS 12 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97204
+#EXTINF:-1,SD - BEIN SPORTS 13 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97203
+#EXTINF:-1,SD - BEIN SPORTS 14 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97202
+#EXTINF:-1,SD - BEIN SPORTS 15 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97201
+#EXTINF:-1,SD - BEIN SPORTS 16 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97200
+#EXTINF:-1,SD - BEIN SPORTS NBA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97199
+#EXTINF:-1,BEIN SPORTS 1 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51278
+#EXTINF:-1,BEIN SPORTS 2 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51277
+#EXTINF:-1,BEIN SPORTS 3 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51276
+#EXTINF:-1,BEIN SPORTS 4 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51275
+#EXTINF:-1,BEIN SPORTS 5 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51274
+#EXTINF:-1,BEIN SPORTS 6 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51273
+#EXTINF:-1,BEIN SPORTS 7 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51272
+#EXTINF:-1,BEIN SPORTS 8 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51271
+#EXTINF:-1,BEIN SPORTS 9 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51270
+#EXTINF:-1,BEIN SPORTS 10 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/51269
+#EXTINF:-1,BEIN SPORTS 11 : UHD+ EN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97839
+#EXTINF:-1,BEIN SPORTS 12 : UHD+ EN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97840
+#EXTINF:-1,BEIN SPORTS 13 : UHD+
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97841
+#EXTINF:-1,ALKASS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/69428
+#EXTINF:-1,ALKASS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/69425
+#EXTINF:-1,ALKASS 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/69422
+#EXTINF:-1,4K - BEIN MOVIES 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28553
+#EXTINF:-1,4K - BEIN MOVIES 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28552
+#EXTINF:-1,4K - BEIN MOVIES 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28551
+#EXTINF:-1,4K - BEIN MOVIES 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28550
+#EXTINF:-1,BEIN SERIES 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28549
+#EXTINF:-1,BEIN SERIES 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28548
+#EXTINF:-1,BEIN DRAMA 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28547
+#EXTINF:-1,BEIN AMC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50943
+#EXTINF:-1,BEIN FOX ACTION MOVIES HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50942
+#EXTINF:-1,BEIN TRAVEL HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28539
+#EXTINF:-1,BEIN BOOMERANG HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50936
+#EXTINF:-1,BEIN GOURMET HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28529
+#EXTINF:-1,BEIN BARAEM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28535
+#EXTINF:-1,BEIN BEJUNIOR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28534
+#EXTINF:-1,BEIN CARTON NETWORK HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28532
+#EXTINF:-1,BEIN FATAFEAT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28530
+#EXTINF:-1,BEIN FOX HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28541
+#EXTINF:-1,BEIN HGTV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28540
+#EXTINF:-1,BEIN JEEM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28528
+#EXTINF:-1,BEIN NAT GEO
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28537
+#EXTINF:-1,BEIN NAT PEOPLE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28538
+#EXTINF:-1,BEIN NAT WILD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28536
+#EXTINF:-1,BEIN DISCOVERY KIDS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50940
+#EXTINF:-1,BEIN DISCOVERY LIFE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50938
+#EXTINF:-1,BEIN DISCOVERY MAX HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50937
+#EXTINF:-1,BEIN DISCOVERY TURBO XTRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/50939
+#EXTINF:-1,ABUDHABI SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41691
+#EXTINF:-1,ABUDHABI SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41690
+#EXTINF:-1,ABUDHABI SPORTS 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41689
+#EXTINF:-1,ABUDHABI SPORTS 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41688
+#EXTINF:-1,ABUDHABI SPORTS 5 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41687
+#EXTINF:-1,ABUDHABI SPORTS 6 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/41686
+#EXTINF:-1,OSN YAHALA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88979
+#EXTINF:-1,OSN YAHALA OULA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88981
+#EXTINF:-1,OSN YAHALA CINEMA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88980
+#EXTINF:-1,OSN MOVIES HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88978
+#EXTINF:-1,OSN MOVIES DISNEY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88975
+#EXTINF:-1,OSN MOVIES FIRST HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88976
+#EXTINF:-1,OSN MOVIES ACTION HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88977
+#EXTINF:-1,OSN SERIES COMEDY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88972
+#EXTINF:-1,OSN SERIES FIRST HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88971
+#EXTINF:-1,OSN STAR MOVIES HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88970
+#EXTINF:-1,OSN STAR WORLD HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88969
+#EXTINF:-1,OSN NICKELODEON HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88954
+#EXTINF:-1,OSN DISNEY JUNIOR HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88955
+#EXTINF:-1,OSN ALFA ALYOUM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88946
+#EXTINF:-1,OSN ALFA CINEMA 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88944
+#EXTINF:-1,OSN ALFA MUSALSALAT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88942
+#EXTINF:-1,OSN ALFA MUSIC NOW HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88945
+#EXTINF:-1,OSN ALFA CINEMA 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88943
+#EXTINF:-1,OSN ANIMAL PLANET HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88959
+#EXTINF:-1,OSN DISCOVERY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88962
+#EXTINF:-1,OSN DISCOVERY ID HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88964
+#EXTINF:-1,OSN DISCOVERY SC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88961
+#EXTINF:-1,OSN NAT GEO HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88958
+#EXTINF:-1,OSN NAT GEO WILD HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88957
+#EXTINF:-1,OSN NAT PEOPLe HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88956
+#EXTINF:-1,OSN TRAVEL HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88963
+#EXTINF:-1,OSN HISTORY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88960
+#EXTINF:-1,OSN SYFY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88968
+#EXTINF:-1,OSN TLC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88967
+#EXTINF:-1,OSN ENIGMA HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88973
+#EXTINF:-1,OSN ITV CHOICE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88965
+#EXTINF:-1,OSN KIDS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88974
+#EXTINF:-1,OSN LIVING HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88966
+#EXTINF:-1,OSN SPORTS CRICKET HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/88948
