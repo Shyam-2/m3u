@@ -1,77 +1,401 @@
 #EXTM3U
-#EXTINF:-1,CANAL PANDA
-http://78.83.88.38:8899/play/a02o
-#EXTINF:-1,Disney Junior HD
-http://78.83.88.38:8899/play/a029
-#EXTINF:-1,Disney XD
-http://78.83.88.38:8899/play/a00s
-#EXTINF:-1,EUROSPORT 2
-http://78.83.88.38:8899/play/a02q
-#EXTINF:-1,Goldstar TV
-http://78.83.88.38:8899/play/a022
-#EXTINF:-1,Heimatkanal
-http://78.83.88.38:8899/play/a014
-#EXTINF:-1,INSIGHT TV HD
-http://78.83.88.38:8899/play/a02d
-#EXTINF:-1,Junior
-http://78.83.88.38:8899/play/a00o
-#EXTINF:-1,KiKA HD
-http://78.83.88.38:8899/play/a02i
-#EXTINF:-1,Kinowelt TV
-http://78.83.88.38:8899/play/a00w
-#EXTINF:-1,NEOX
-http://78.83.88.38:8899/play/a02n
-#EXTINF:-1,NHK WORLD-JPN
-http://78.83.88.38:8899/play/a02f
-#EXTINF:-1,PARAMOUNT
-http://78.83.88.38:8899/play/a02l
-#EXTINF:-1,Pro7 MAXX HD
-http://78.83.88.38:8899/play/a00j
-#EXTINF:-1,ProSieben HD
-http://78.83.88.38:8899/play/a00g
-#EXTINF:-1,R. MADRID TV
-http://78.83.88.38:8899/play/a02p
-#EXTINF:-1,Romance TV
-http://78.83.88.38:8899/play/a025
-#EXTINF:-1,SAT.1 HD
-http://78.83.88.38:8899/play/a00f
-#EXTINF:-1,SIXX HD
-http://78.83.88.38:8899/play/a00i
-#EXTINF:-1,Sky Bundesliga 6
-http://78.83.88.38:8899/play/a010
-#EXTINF:-1,Sky Bundesliga 7
-http://78.83.88.38:8899/play/a01d
-#EXTINF:-1,Sky Bundesliga 8
-http://78.83.88.38:8899/play/a01e
-#EXTINF:-1,Sky Comedy
-http://78.83.88.38:8899/play/a00l
-#EXTINF:-1,Sky Emotion
-http://78.83.88.38:8899/play/a005
-#EXTINF:-1,Sky Krimi
-http://78.83.88.38:8899/play/a00a
-#EXTINF:-1,Sky Nostalgie
-http://78.83.88.38:8899/play/a011
-#EXTINF:-1,Sky Sport 10
-http://78.83.88.38:8899/play/a01s
-#EXTINF:-1,Sky Sport 11
-http://78.83.88.38:8899/play/a012
-#EXTINF:-1,Sky Sport 9
-http://78.83.88.38:8899/play/a01r
-#EXTINF:-1,TNT Film HD
-http://78.83.88.38:8899/play/a02a
+#EXTINF:-1,RTL 2 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/902.ts
+#EXTINF:-1,RTL Nitro Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/903.ts
+#EXTINF:-1,RTL Passion Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/906.ts
+#EXTINF:-1,Super RTL Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/907.ts
+#EXTINF:-1,RTL Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/901.ts
+#EXTINF:-1,N-TV Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/908.ts
+#EXTINF:-1,Welt Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/909.ts
+#EXTINF:-1,Sat 1 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/910.ts
+#EXTINF:-1,Sat 1 Gold Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/911.ts
+#EXTINF:-1,ZDF Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/913.ts
+#EXTINF:-1,ZDF info Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/914.ts
+#EXTINF:-1,ZDF Neo Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/915.ts
+#EXTINF:-1,ProSieben Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/916.ts
+#EXTINF:-1,ProSieben Maxx Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/917.ts
+#EXTINF:-1,ProSieben Fun Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/918.ts
+#EXTINF:-1,Universal Channel Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/919.ts
+#EXTINF:-1,Vox Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/920.ts
+#EXTINF:-1,Sixx Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/924.ts
+#EXTINF:-1,Bon Gusto Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/925.ts
+#EXTINF:-1,Kabel Eins Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/926.ts
+#EXTINF:-1,Kabel Eins Classics Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/927.ts
+#EXTINF:-1,RTL HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/928.ts
+#EXTINF:-1,RTL SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/929.ts
+#EXTINF:-1,RTL 2 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/930.ts
+#EXTINF:-1,RTL 2 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/931.ts
+#EXTINF:-1,RTL Plus HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/932.ts
+#EXTINF:-1,RTL Living HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/933.ts
+#EXTINF:-1,RTL Passion HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/934.ts
+#EXTINF:-1,RTL Nitro HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/935.ts
+#EXTINF:-1,RTL Crime HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/937.ts
+#EXTINF:-1,Super RTL
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/938.ts
+#EXTINF:-1,ARD Das Erste HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/939.ts
+#EXTINF:-1,ARD Alpha
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/940.ts
 #EXTINF:-1,ZDF HD
-http://78.83.88.38:8899/play/a01a
-#EXTINF:-1,kabel eins HD
-http://78.83.88.38:8899/play/a00h
-#EXTINF:-1,zdf_neo HD
-http://78.83.88.38:8899/play/a01y
-#EXTINF:-1,Beate-Uhse.TV HD
-http://78.83.88.38:8899/play/a028
-#EXTINF:-1,DE:ZDF
-http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1359
-#EXTINF:-1,DE:3 Sat
-http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1361
-#EXTINF:-1,3sat HD
-http://78.83.88.38:8899/play/a02h
-#EXTINF:-1,DE:ARD
-http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1360
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/942.ts
+#EXTINF:-1,ZDF Neo
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/944.ts
+#EXTINF:-1,ZDF info HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/945.ts
+#EXTINF:-1,N-TV HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/952.ts
+#EXTINF:-1,Tagesschau 24
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/954.ts
+#EXTINF:-1,Spiegel TV Wissen
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/960.ts
+#EXTINF:-1,3Sat HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/968.ts
+#EXTINF:-1,Sat 1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/969.ts
+#EXTINF:-1,Sat 1 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/970.ts
+#EXTINF:-1,Sat 1 Gold HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/972.ts
+#EXTINF:-1,Sat 1 Gold SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/973.ts
+#EXTINF:-1,ProSieben HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/974.ts
+#EXTINF:-1,ProSieben SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/975.ts
+#EXTINF:-1,ProSieben Maxx HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/976.ts
+#EXTINF:-1,ProSieben Maxx SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/977.ts
+#EXTINF:-1,ProSieben Fun HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/978.ts
+#EXTINF:-1,Universal channels HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/979.ts
+#EXTINF:-1,Vox HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/980.ts
+#EXTINF:-1,Vox SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/981.ts
+#EXTINF:-1,Sixx HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/983.ts
+#EXTINF:-1,Kinowelt
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/986.ts
+#EXTINF:-1,KABEL Eins Doku HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/987.ts
+#EXTINF:-1,KABEL Eins Doku SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/988.ts
+#EXTINF:-1,Kabel Eins Classics HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/989.ts
+#EXTINF:-1,MTV HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/991.ts
+#EXTINF:-1,Sky Germany Cinema Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/998.ts
+#EXTINF:-1,Sky Germany Cinema +1 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/999.ts
+#EXTINF:-1,Sky Germany Cinema +24 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1000.ts
+#EXTINF:-1,Sky Germany Family Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1001.ts
+#EXTINF:-1,Sky Germany Hits Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1002.ts
+#EXTINF:-1,Sky Germany Action Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1003.ts
+#EXTINF:-1,Sky Germany Cinema HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1005.ts
+#EXTINF:-1,Sky Germany Cinema SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1006.ts
+#EXTINF:-1,Sky Germany Cinema +1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1007.ts
+#EXTINF:-1,Sky Germany Cinema +1 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1008.ts
+#EXTINF:-1,Sky Germany Cinema +24 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1009.ts
+#EXTINF:-1,Sky Germany Cinema +24 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1010.ts
+#EXTINF:-1,Sky Germany Family HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1011.ts
+#EXTINF:-1,Sky Germany Family SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1012.ts
+#EXTINF:-1,Sky Germany Hits HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1013.ts
+#EXTINF:-1,Sky Germany Hits SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1014.ts
+#EXTINF:-1,Sky Germany Action HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1015.ts
+#EXTINF:-1,Sky Germany Action SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1016.ts
+#EXTINF:-1,Sky Germany Krimi HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1017.ts
+#EXTINF:-1,Sky Germany Krimi SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1018.ts
+#EXTINF:-1,Sky Germany Emotion
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1019.ts
+#EXTINF:-1,Sky Germany Comedy
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1020.ts
+#EXTINF:-1,Sky Germany Silverline
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1021.ts
+#EXTINF:-1,Sky Germany Nostalgie
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1022.ts
+#EXTINF:-1,Sony HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1023.ts
+#EXTINF:-1,Sky Sport News Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/845.ts
+#EXTINF:-1,Sky Sport Austria Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/846.ts
+#EXTINF:-1,Eurosport 1 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/847.ts
+#EXTINF:-1,Eurosport 2 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/848.ts
+#EXTINF:-1,Eurosport 2 Xtra Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/849.ts
+#EXTINF:-1,Olimpic Channel Sport Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/850.ts
+#EXTINF:-1,Olimpic Channel Sport 2 Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/851.ts
+#EXTINF:-1,Sport1 Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/852.ts
+#EXTINF:-1,Sky Sport 1 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/853.ts
+#EXTINF:-1, Sky Sport 2 Super HD ON MATCHDAY 
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1052.ts
+#EXTINF:-1,Sky Sport 3 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/854.ts
+#EXTINF:-1,Sky Sport 4 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/855.ts
+#EXTINF:-1,Sky Sport 5 Super HD  ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/856.ts
+#EXTINF:-1,Sky Sport 6 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/857.ts
+#EXTINF:-1,Sky Sport 7 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/858.ts
+#EXTINF:-1,Sky Sport 8 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/859.ts
+#EXTINF:-1,Sky Sport 9 Super HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/860.ts
+#EXTINF:-1,Sky Sport 10 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/861.ts
+#EXTINF:-1,Sky Sport 11 Super HD ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/862.ts
+#EXTINF:-1,Sky Sport News HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/863.ts
+#EXTINF:-1,Sky Sport Austria HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/864.ts
+#EXTINF:-1,SportDigital HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/865.ts
+#EXTINF:-1,Sport1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/866.ts
+#EXTINF:-1,Sport+1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/867.ts
+#EXTINF:-1,Bayern Tv HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/868.ts
+#EXTINF:-1,Motorvision HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/869.ts
+#EXTINF:-1,Auto Moto Sport TV HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/870.ts
+#EXTINF:-1,Eurosport 1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/871.ts
+#EXTINF:-1,Eurosport 2 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/872.ts
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/873.ts
+#EXTINF:-1,Sky Sport Kompakt 1 HD (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/874.ts
+#EXTINF:-1,Sky Sport Kompakt 2 HD (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/875.ts
+#EXTINF:-1,Sport Fight (ONLY ON FIGHTDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/876.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/877.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/878.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/879.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/880.ts
+#EXTINF:-1,Sky Sport 3 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/881.ts
+#EXTINF:-1,Sky Sport 3 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/882.ts
+#EXTINF:-1,Sky Sport 4 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/883.ts
+#EXTINF:-1,Sky Sport 4 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/884.ts
+#EXTINF:-1,Sky Sport 5 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/885.ts
+#EXTINF:-1,Sky Sport 5 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/886.ts
+#EXTINF:-1,Sky Sport 6 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/887.ts
+#EXTINF:-1,Sky Sport 6 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/888.ts
+#EXTINF:-1,Sky Sport 7 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/889.ts
+#EXTINF:-1,Sky Sport 7 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/890.ts
+#EXTINF:-1,Sky Sport 8 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/891.ts
+#EXTINF:-1,Sky Sport 8 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/892.ts
+#EXTINF:-1,Sky Sport 9 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/893.ts
+#EXTINF:-1,Sky Sport 9 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/894.ts
+#EXTINF:-1,Sky Sport 10 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/895.ts
+#EXTINF:-1,Sky Sport 10 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/896.ts
+#EXTINF:-1,Sky Sport 11 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/897.ts
+#EXTINF:-1,Sky Sport 11 SD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/898.ts
+#EXTINF:-1,DAZN 1 Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/810.ts
+#EXTINF:-1,DAZN 2 Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/811.ts
+#EXTINF:-1,Sky Bundesliga 1 Super HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/814.ts
+#EXTINF:-1,Sky Bundesliga 2 Super HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/815.ts
+#EXTINF:-1,Sky Bundesliga 3 Super HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/816.ts
+#EXTINF:-1,Sky Bundesliga 4 Super HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/817.ts
+#EXTINF:-1,Sky Bundesliga 5 Super HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/818.ts
+#EXTINF:-1,Sky Bundesliga 6 Super HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/819.ts
+#EXTINF:-1,Sky Bundesliga 7 Full HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/820.ts
+#EXTINF:-1,Sky Bundesliga 8 Full HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/821.ts
+#EXTINF:-1,Sky Bundesliga 9 Full HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/822.ts
+#EXTINF:-1,Sky Bundesliga 10 Full HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/823.ts
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/824.ts
+#EXTINF:-1,Sky Bundesliga 1 SD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/825.ts
+#EXTINF:-1,Sky Bundesliga 2 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/826.ts
+#EXTINF:-1,Sky Bundesliga 2 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/827.ts
+#EXTINF:-1,Sky Bundesliga 3 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/828.ts
+#EXTINF:-1,Sky Bundesliga 3 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/829.ts
+#EXTINF:-1,Sky Bundesliga 4 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/830.ts
+#EXTINF:-1,Sky Bundesliga 4 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/831.ts
+#EXTINF:-1,Sky Bundesliga 5 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/832.ts
+#EXTINF:-1,Sky Bundesliga 5 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/833.ts
+#EXTINF:-1,Sky Bundesliga 6 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/834.ts
+#EXTINF:-1,Sky Bundesliga 6 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/835.ts
+#EXTINF:-1,Sky Bundesliga 7 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/836.ts
+#EXTINF:-1,Sky Bundesliga 7 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/837.ts
+#EXTINF:-1,Sky Bundesliga 8 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/838.ts
+#EXTINF:-1,Sky Bundesliga 8 SD - ONMATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/839.ts
+#EXTINF:-1,Sky Bundesliga 9 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/840.ts
+#EXTINF:-1,Sky Bundesliga 10 HD - ON MATCHDAY
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/841.ts
+#EXTINF:-1,3. Bundesliga 1 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1055.ts
+#EXTINF:-1,3. Bundesliga 2 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1056.ts
+#EXTINF:-1,3. Bundesliga 3 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1057.ts
+#EXTINF:-1,3. Bundesliga 4 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1058.ts
+#EXTINF:-1,3. Bundesliga 5 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1059.ts
+#EXTINF:-1,3. Bundesliga 6 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1060.ts
+#EXTINF:-1,3. Bundesliga 7 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1061.ts
+#EXTINF:-1,3. Bundesliga 8 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1062.ts
+#EXTINF:-1,BBL Sport 1 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1063.ts
+#EXTINF:-1,BBL Sport 2 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1064.ts
+#EXTINF:-1,BBL Sport 3 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1065.ts
+#EXTINF:-1,BBL Sport 4 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1066.ts
+#EXTINF:-1,DEL Sport 1 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1067.ts
+#EXTINF:-1,DEL Sport 2 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1068.ts
+#EXTINF:-1,DEL Sport 3 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1069.ts
+#EXTINF:-1,DEL Sport 4 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1070.ts
+#EXTINF:-1,DEL Sport 5 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1071.ts
+#EXTINF:-1,DEL Sport 6 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1072.ts
+#EXTINF:-1,DEL Sport 7 (ONLY ON MATCHDAY)
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/1073.ts
+#EXTINF:-1,Deluxe Music HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/797.ts
+#EXTINF:-1,Juke Box Full HD
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/798.ts
+#EXTINF:-1,1 LIVE RADIO
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/799.ts
+#EXTINF:-1,B5 Aktuell
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/800.ts
+#EXTINF:-1,Bayern 1
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/801.ts
+#EXTINF:-1,Bayern Plus
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/802.ts
+#EXTINF:-1,HR Info
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/803.ts
+#EXTINF:-1,Live Diggi
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/804.ts
+#EXTINF:-1,LIVE SPECIAL
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/805.ts
+#EXTINF:-1,MDR Kultur
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/806.ts
+#EXTINF:-1,NDR Plus
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/807.ts
+#EXTINF:-1,SWR Aktuell
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/808.ts
+#EXTINF:-1,WDR 2
+http://privacysun.io:1926/live/giovannifratello/fratellogiovanni/809.ts
