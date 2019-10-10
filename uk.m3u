@@ -1,165 +1,509 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideuk.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kDB44LV.jpg" group-title="Music",60 North
-https://eu-de-edge-01.zetcast.net/ShetlandWebcams/Studio1ABR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R9G7kvW.jpg" group-title="",ABN TV
-https://1239101249.rsc.cdn77.org//LS-59570-ABN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="",Ahlulbayt TV
-http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Al Araby
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vqz9oc6.jpg" group-title="",Al Magharibia
-http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al-Hiwar
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al-Hiwar
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="News",BBC News
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="News",BBC News
-https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="News",BBC News
-https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i0tCMgq.png" group-title="News",BBC Persian
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="",British Muslim TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="Sport",BT Sport 2
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8vfNhjn.jpg" group-title="Sport",BT Sport ESPN
-https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="",Cruise 1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PUpt2Gw.png" group-title="Entertainment",E4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gemporia
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RB7OHmi.jpg" group-title="",Iran International
-https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ssybCGi.jpg" group-title="",Islam Channel
-http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://desibox.0hi.me/1.png" group-title="Music",JattTV (HQ)
-https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="",Mafa Shortfilm
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="",Mafa Shortfilm
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1bXWt0N.png" group-title="Entertainment",Manoto
-https://dow6lwapg8fa4.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FFwyWSd.png" group-title="",Manoto
-https://dzll8dnb13thz.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XStfgbe.png" group-title="",Only Motors
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="Entertainment",Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FE6M4rs.png" group-title="",Primal Living TV
-https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Music",Rathergood Radio
-https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="News",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="News",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television
-http://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="",Sheffield TV
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="Movies",Sony Movies Christmas
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JCWNJzh.jpg" group-title="",Takbeer TV
-http://cdn02.iqbroadcast.tv/iqb/d04ca797cb0590a3ad4aea3cce2ea93e.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="https://i.imgur.com/5xj48vw.png" group-title="",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
-http://45.77.90.56:8080/hls/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
-https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1EwXIh.png" group-title="Local",View TV - Berkshire
-https://streamingserver001.viewtvgroup.com/local-test2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="Music",Vintage Music TV
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pYEGZrO.png" group-title="",Vox Africa UK
-http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
+#EXTM3U
+#EXTINF:-1,BBC 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18006
+#EXTINF:-1,BBC 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18134
+#EXTINF:-1,BBC 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18004
+#EXTINF:-1,BBC 4 / CBBC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18005
+#EXTINF:-1,BBC ONE NORTHERN IRELAND HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17989
+#EXTINF:-1,BBC ONE WALES HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17999
+#EXTINF:-1,BBC ONE SCOTTLAND HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18000
+#EXTINF:-1,ITV LONDON HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/97065
+#EXTINF:-1,ITV 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17998
+#EXTINF:-1,ITV 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17988
+#EXTINF:-1,ITV 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17987
+#EXTINF:-1,ITV 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17986
+#EXTINF:-1,QUEST TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/67720
+#EXTINF:-1,BBC 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46511
+#EXTINF:-1,BBC 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46510
+#EXTINF:-1,BBC 3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46509
+#EXTINF:-1,BBC 4
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46508
+#EXTINF:-1,ITV 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46494
+#EXTINF:-1,ITV 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46493
+#EXTINF:-1, ITV3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46492
+#EXTINF:-1,ITV 4
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46491
+#EXTINF:-1,ITV BE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46496
+#EXTINF:-1,CNN HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17993
+#EXTINF:-1,BBC NEWS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18001
+#EXTINF:-1,SKY NEWS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23104
+#EXTINF:-1,EURONEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/73245
+#EXTINF:-1,FOOD NETWORK
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/57009
+#EXTINF:-1,FOOD NETWORK +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/57008
+#EXTINF:-1,SKY ONE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18023
+#EXTINF:-1,FOX HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17957
+#EXTINF:-1,SYFY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17966
+#EXTINF:-1,TCM HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17965
+#EXTINF:-1,TLC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17964
+#EXTINF:-1,UNIVERSAL HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17962
+#EXTINF:-1,E4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17960
+#EXTINF:-1,CHANNEL 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17995
+#EXTINF:-1,CHANNEL 5 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17994
+#EXTINF:-1,ALIBI HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18008
+#EXTINF:-1,DAVE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17991
+#EXTINF:-1,EDEN HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17959
+#EXTINF:-1,W HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18007
+#EXTINF:-1,MORE 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17953
+#EXTINF:-1,ITV BE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17990
+#EXTINF:-1,STV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17997
+#EXTINF:-1,TV3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17963
+#EXTINF:-1,LIFETIME HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17954
+#EXTINF:-1,SKY ONE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46515
+#EXTINF:-1,SKY TWO
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46514
+#EXTINF:-1,FOX
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46512
+#EXTINF:-1,SYFY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46516
+#EXTINF:-1,TCM
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46535
+#EXTINF:-1,TLC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46536
+#EXTINF:-1,5STAR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17910
+#EXTINF:-1,5USA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46528
+#EXTINF:-1,E!
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23111
+#EXTINF:-1,CHANNEL 4
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46523
+#EXTINF:-1,CHANNEL 5
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46522
+#EXTINF:-1,CHANNEL 5 +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46521
+#EXTINF:-1,ALIBI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17909
+#EXTINF:-1,DAVE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46537
+#EXTINF:-1,EDEN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46538
+#EXTINF:-1,CHALLENGE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46524
+#EXTINF:-1,PICK TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46532
+#EXTINF:-1,YESTERDAY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46533
+#EXTINF:-1,AMC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17908
+#EXTINF:-1,BLAZE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17996
+#EXTINF:-1,GOLD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23114
+#EXTINF:-1,HORROR CHANNEL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17907
+#EXTINF:-1,HORROR CHANNEL +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46513
+#EXTINF:-1,CBS ACTION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17927
+#EXTINF:-1,CBS DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17925
+#EXTINF:-1,CBS REALITY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17924
+#EXTINF:-1,CBS REALITY 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17923
+#EXTINF:-1,TRUE ENTERTAINMENT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17904
+#EXTINF:-1,SONY CRIME CHANNEL 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46483
+#EXTINF:-1,QVC BEAUTY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23254
+#EXTINF:-1,QVC EXTRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23253
+#EXTINF:-1,QVC STYLE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23252
+#EXTINF:-1,QVC U.K.
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23251
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18011
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18019
+#EXTINF:-1,SKY CINEMA GREATS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18018
+#EXTINF:-1,SKY CINEMA HITS HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18017
+#EXTINF:-1,SKY CINEMA PREMIER HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18016
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18022
+#EXTINF:-1,SKY CINEMA DISNEY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18021
+#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18020
+#EXTINF:-1,SKY CINEMA SCI-FI HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18015
+#EXTINF:-1,SKY CINEMA SELECT HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18014
+#EXTINF:-1,SKY CINEMA THRILLER HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18013
+#EXTINF:-1,SKY CINEMA HEROES HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18010
+#EXTINF:-1,SKY ATLANTIC HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18024
+#EXTINF:-1,FILM 4 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17958
+#EXTINF:-1,SKY CINEMA ACTION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46444
+#EXTINF:-1,SKY CINEMA COMEDY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46443
+#EXTINF:-1,SKY CINEMA DISNEY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46442
+#EXTINF:-1,SKY CINEMA DRAMA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46441
+#EXTINF:-1,SKY CINEMA FAMILY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46440
+#EXTINF:-1,SKY CINEMA GREATS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46439
+#EXTINF:-1,SKY CINEMA PREMIERE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46438
+#EXTINF:-1,SKY CINEMA SCI-FI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46437
+#EXTINF:-1,SKY CINEMA SELECT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46436
+#EXTINF:-1,SKY CINEMA THRILLER
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46435
+#EXTINF:-1,TRUE CHRISTMAS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17903
+#EXTINF:-1,TRUE CHRISTMAS +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17902
+#EXTINF:-1,DISNEY CHANNEL HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17980
+#EXTINF:-1,DISNEY JUNIOR HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17978
+#EXTINF:-1,DISNEY XD HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17977
+#EXTINF:-1,BBC CBEEBIES HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18002
+#EXTINF:-1,BLOOMBERG HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17976
+#EXTINF:-1,NICK HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17979
+#EXTINF:-1,COMEDY CENTRAL HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17992
+#EXTINF:-1,CARTOON NETWORK HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17981
+#EXTINF:-1,ZOOMOO HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/74421
+#EXTINF:-1,DISNEY CHANNEL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17943
+#EXTINF:-1,DISNEY JUNIOR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17942
+#EXTINF:-1,BABY TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17948
+#EXTINF:-1,NICKELODEON EUROPE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17938
+#EXTINF:-1,NICK TOONS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17939
+#EXTINF:-1,NICK JUNIOR
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17940
+#EXTINF:-1,NICK JUNIOR +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17934
+#EXTINF:-1,NICK JR TOO
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17941
+#EXTINF:-1,CARTONITO  ( NOT 24H )
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17949
+#EXTINF:-1,COMEDY CENTRAL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17945
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17944
+#EXTINF:-1,BOOMERANG
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17947
+#EXTINF:-1,POP
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17922
+#EXTINF:-1,POP +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17930
+#EXTINF:-1,POP MAX
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17921
+#EXTINF:-1,POP MAX +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17931
+#EXTINF:-1,SPIKE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17936
+#EXTINF:-1,SPIKE +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17929
+#EXTINF:-1,TINY POP
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17935
+#EXTINF:-1,TINY POP +1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17928
+#EXTINF:-1,DISCOVERY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17972
+#EXTINF:-1,ANIMAL PLANET HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17967
+#EXTINF:-1,NAT GEO HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17969
+#EXTINF:-1,NAT GEO WILD HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46426
+#EXTINF:-1,HISTORY HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17971
+#EXTINF:-1,HISTORY 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17970
+#EXTINF:-1,CI HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46427
+#EXTINF:-1,ANIMAL PLANET
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46433
+#EXTINF:-1,CRIME INVESTIGATION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46432
+#EXTINF:-1,HISTORY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46431
+#EXTINF:-1,HISTORY 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46430
+#EXTINF:-1,NAT GEO
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46429
+#EXTINF:-1,NAT GEO WILD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46428
+#EXTINF:-1,DISCOVERY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46445
+#EXTINF:-1,DISCOVERY TURBO
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23105
+#EXTINF:-1,DISCOVERY SHED
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23109
+#EXTINF:-1,DISCOVERY SCIENCE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23108
+#EXTINF:-1,DISCOVERY HISTORY
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23107
+#EXTINF:-1,INVESTIGATION DISCOVERY (ID)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17906
+#EXTINF:-1,HOME & HEALTH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/23106
+#EXTINF:-1,HD SPORTS NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99775
+#EXTINF:-1,HD SPORTS ACTION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99783
+#EXTINF:-1,HD SPORTS FOOTBALL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99778
+#EXTINF:-1,HD SPORTS PREMIER LEAGUE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99774
+#EXTINF:-1,HD SPORTS MAIN EVENT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99776
+#EXTINF:-1,HD SPORTS MIX
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99782
+#EXTINF:-1,HD SPORTS ARENA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99781
+#EXTINF:-1,HD SPORTS CRICKET
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99780
+#EXTINF:-1,HD SPORTS F1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99779
+#EXTINF:-1,HD SPORTS GOLF
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99777
+#EXTINF:-1,HD SPORTS RACING
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99773
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99784
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99785
+#EXTINF:-1,FHD SPORTS ACTION
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99825
+#EXTINF:-1,FHD SPORTS FOOTBALL
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99821
+#EXTINF:-1,FHD SPORTS PREMIER LEAGUE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99823
+#EXTINF:-1,FHD SPORTS MAIN EVENT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99826
+#EXTINF:-1,FHD SPORTS ARENA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99818
+#EXTINF:-1,FHD SPORTS GOLF
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99822
+#EXTINF:-1,FHD SPORTS F1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99820
+#EXTINF:-1,FHD SPORTS CRICKET
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99819
+#EXTINF:-1,FHD SPORTS RACING
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/99824
+#EXTINF:-1,BT SPORTS ESPN HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18034
+#EXTINF:-1,BT SPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/35991
+#EXTINF:-1,BT SPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/35992
+#EXTINF:-1,BT SPORTS 3 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/35993
+#EXTINF:-1,BT SPORTS 1 FHD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18033
+#EXTINF:-1,BT SPORTS 2 FHD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18032
+#EXTINF:-1,BT SPORTS 3 FHD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18031
+#EXTINF:-1,ESPN
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46413
+#EXTINF:-1,BT SPORTS 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46422
+#EXTINF:-1,BT SPORTS 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46421
+#EXTINF:-1,BT SPORTS 3
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46420
+#EXTINF:-1,EUROSPORTS 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18029
+#EXTINF:-1,EUROSPORTS 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18028
+#EXTINF:-1,PREMIER SPORT 1 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18026
+#EXTINF:-1,PREMIER SPORT 2 HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/98110
+#EXTINF:-1,MUTV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18027
+#EXTINF:-1,RACING UK HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18030
+#EXTINF:-1,BOXNATION HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/18035
+#EXTINF:-1,PREMIER SPORTS 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46400
+#EXTINF:-1,PREMIER SPORTS 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46399
+#EXTINF:-1,EUROSPORTS 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46412
+#EXTINF:-1,EUROSPORTS 2
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46411
+#EXTINF:-1,FREESPORT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46410
+#EXTINF:-1,LIVERPOOL TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/42890
+#EXTINF:-1,LFC TV
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46485
+#EXTINF:-1,SHEFFIELD STEELERS TV (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46476
+#EXTINF:-1,CELTIC.FC HD (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/89494
+#EXTINF:-1,PDC DARTS (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46446
+#EXTINF:-1,BT SPORTS EXTRA 1 (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46419
+#EXTINF:-1,BT SPORTS EXTRA 2 (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46418
+#EXTINF:-1,BT SPORTS EXTRA 3 (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46417
+#EXTINF:-1,BT SPORTS EXTRA 4 (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46416
+#EXTINF:-1,BT SPORTS EXTRA 5 (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46415
+#EXTINF:-1,BT SPORTS EXTRA 6 (ONLY MATCH TIME)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46414
+#EXTINF:-1,EVENT 1 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72669
+#EXTINF:-1,EVENT 2 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72668
+#EXTINF:-1,EVENT 3 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72667
+#EXTINF:-1,EVENT 4 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/72666
+#EXTINF:-1,EVENT 6 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/91375
+#EXTINF:-1,EVENT 7 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/91374
+#EXTINF:-1,EVENT 8 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/91373
+#EXTINF:-1,EVENT 9 (ONLY DURING LIVE MATCHES)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/91372
+#EXTINF:-1,BBC ALBA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46507
+#EXTINF:-1,BBC NEWS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46506
+#EXTINF:-1,BBC ONE CAMBRIDGE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28443
+#EXTINF:-1,BBC ONE CUMBRIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28442
+#EXTINF:-1,BBC ONE EAST MIDLANDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28439
+#EXTINF:-1,BBC ONE ISLANDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28438
+#EXTINF:-1,BBC ONE LONDON
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28437
+#EXTINF:-1,BBC ONE MIDLANDS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28436
+#EXTINF:-1,BBC ONE NI
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28435
+#EXTINF:-1,BBC ONE NORTH EAST
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28441
+#EXTINF:-1,BBC ONE NORTH WEST
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28434
+#EXTINF:-1,BBC ONE OXFORD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28433
+#EXTINF:-1,BBC ONE SOUTH
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28432
+#EXTINF:-1,BBC ONE SOUTH EAST
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28440
+#EXTINF:-1,BBC ONE WALES
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28431
+#EXTINF:-1,BBC ONE WEST
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28430
+#EXTINF:-1,BBC ONE YORKSHIRE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/28429
+#EXTINF:-1,BBC ONE CUMBIA
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46505
+#EXTINF:-1,BBC ONE SCOTLAND
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46504
+#EXTINF:-1,BBC ONE SOUT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46503
+#EXTINF:-1,BBC ONE SOUTH EAST (ALT)
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46502
+#EXTINF:-1,BBC TWO SCOTLAND
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46498
+#EXTINF:-1,BBC TWO WALES
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46497
+#EXTINF:-1,MTV HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17952
+#EXTINF:-1,MTV LIVE HD
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17951
+#EXTINF:-1,MTV BASE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17920
+#EXTINF:-1,MTV CLASSIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17919
+#EXTINF:-1,MTV DANCE
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17918
+#EXTINF:-1,MTV HITS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17917
+#EXTINF:-1,MTV MUSIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17916
+#EXTINF:-1,MTV OMG
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17915
+#EXTINF:-1,MTV ROCKS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/17914
+#EXTINF:-1,BOX UPFRONT
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46423
+#EXTINF:-1,BOX HITS
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46424
+#EXTINF:-1,VH 1
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46517
+#EXTINF:-1, 4MUSIC
+http://mag.royal-ott.net:80/k7MBAAumzg/JYChDubh0m/46527
