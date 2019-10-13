@@ -1,413 +1,677 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OVpsupt.png" group-title="",111 TV Liguria
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BZSFqUz.png" group-title="",111 TV Liguria
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",111tv
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="",51 Radio TV
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJVnvuI.png" group-title="",ALICE
-https://stream.next-sys.it:8443/live/alice/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud
-http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Antenna Tre
-http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="",Azzurra TV
-https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="",CafèTV24
-http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png" group-title="",Canale 10
-http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="",Canale 2 Altamura
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 8
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 85 Puglia
-http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canale85.it/wp-content/uploads/2018/10/canale85.png" group-title="",Canale 85 Puglia
-https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png" group-title="",Canale Italia 83
-http://ac024fe.streamcloud.it/service/media-provider/live/4847/playlist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="",Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Carina TV
-http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Company TV
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Deejay TV IT" tvg-name="Deejay TV IT" tvg-logo="" group-title="Music",DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="Deejay TV IT" tvg-name="Deejay TV IT" tvg-logo="" group-title="Music",DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 tvg-id="DMAX IT" tvg-name="DMAX IT" tvg-logo="http://tv-online.in/wp-content/uploads/2015/02/DMax-live.gif" group-title="",DMAX
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N6OtbVs.png" group-title="",Donna TV
-http://wms.shared.streamshow.it/okitalia/okitalia/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elivebrescia.tv/wp-content/uploads/2018/09/Logo_nuovo_CLAIM.png" group-title="",Elive TV Brescia
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ottoetrenta.it/wp-content/uploads/2014/12/esperia.png" group-title="",Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esperia.tv/file/2018/10/EsperiaTVwhite.png" group-title="",Esperia TV
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.etvmarche.it/wp-content/uploads/2017/07/logo_etv.png" group-title="",ETV Marche
-http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ETV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ETV Marche
-http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8Nba42X.png" group-title="",Gold TV Roma
-http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="History",History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="History",History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/12/Histori-Lab.png" group-title="History",History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="",Icaro TV
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",IRC Sport TV
-http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="Sport",IRC Sport TV
-http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png" group-title="",Italia 141
-http://streamcloud-idc.azureedge.net/ac024_live/iphone1/chunklist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
-#EXTINF:-1 tvg-id="Italia 2 IT" tvg-name="Italia 2 IT" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="",Italia 2 TV
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oXZQO0W.png" group-title="",Julie Italia
-https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IFPpG7X.png" group-title="",La Tr3
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="La7 IT" tvg-name="La7 IT" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",La7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
-http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="" group-title="Music",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="" group-title="Music",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="Music",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="" group-title="Music",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="" group-title="Music",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fLuxaEb.jpg" group-title="",Medjugorje Italia TV
-http://94.23.67.20:1935/medjugorjeitaliatv/medjugorjeitaliatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="Auto",MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 tvg-id="Nove IT" tvg-name="Nove IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/K2_new_logo.svg/150px-K2_new_logo.svg.png" group-title="",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mB1tcQM.png" group-title="",Ora TV
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662093/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="",Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ottofm.com/wp-content/uploads/2017/07/01anni80.png" group-title="",Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="",Padre Pio TV
-https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="",Paradise TV
-https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SjbqyAx.png" group-title="",Parole di Vita
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@624452/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PHmQHas.png" group-title="",Pescara TV
-http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.primativvu.it/wordpress/wp-content/uploads/2015/03/Prima-Tivvu.png" group-title="",Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ouSptk1.png" group-title="",Prima TV
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title="",Primocanale Liguria
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMs3Sp6.png" group-title="",Quarto Canale Flegreo
-http://live-fs.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="QVC IT" tvg-name="QVC IT" tvg-logo="https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg" group-title="",QVC
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio 105
-http://fms.105.net:1935/live/105Test1/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio 105
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="",Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Radio Bruno IT" tvg-name="Radio Bruno IT" tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="",Radio Bruno
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Bruno TV
-http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-120126-main_images-Capital_FM_Network_logo_0--default--300.png" group-title="",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="",Radio Freccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio Italia Tv IT" tvg-name="Radio Italia Tv IT" tvg-logo="https://api.superguidatv.it/v1/channels/165/logo?width=120&theme=light" group-title="",Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nododigordio.org/assets/uploads/2018/10/RL_06-300x168.png" group-title="",Radio Lombardia TV
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Monte Carlo TV
-http://bit.ly/2GeFyWc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wE5N6H3.jpg" group-title="Music",Radio Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/b2f4d5bb1b78b392048436a272d6e7ac.jpeg" group-title="Music",Radio Monte Carlo TV
-http://tv.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="Music",Radio Monte Carlo TV
-http://tv.105.net/live/rmc3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="Music",Radio Monte Carlo TV
-http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Monte Carlo TV
-http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="Music",Radio Monte Carlo TV
-http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="Music",Radio Piter Pan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiosienatv.it/wp-content/themes/newstube-child/img/logo-radiosienatv-nero.png" group-title="",Radio Siena TV
-http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png" group-title="Music",Radio Taormina
-http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Tivù Azzurra
-http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NiO6TYC.png" group-title="Music",Radio Zeta TV
-https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Radionorba TV IT" tvg-name="Radionorba TV IT" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/25780_home.png" group-title="Music",Radionorba TV
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://92.43.140.249/s29/04.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://ott-cdn.ucom.am/s29/04.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="" group-title="",Rai 1
-http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="" group-title="",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://i.imgur.com/IIqn1oG.jpg" group-title="",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="https://i.imgur.com/U2TCH5e.png" group-title="",Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-#EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="" group-title="",Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="" group-title="",Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="" group-title="",Rai 5
-http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
-#EXTINF:-1 tvg-id="Rai Gulp IT" tvg-name="Rai Gulp IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie IT" tvg-logo="" group-title="Movies",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/1200px-Rai_News_-_Logo_2010.svg.png" group-title="News",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="Movies",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport
-http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
-#EXTINF:-1 tvg-id="Rai YoYo IT" tvg-name="Rai YoYo IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="",Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="",RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EiIygb1.png" group-title="",Rei Tv
-https://ad.mysisli.com/live/ReiTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vClKdtx.png" group-title="",Rete Oro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="",Retesole Lazio
-http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kEje57b.png" group-title="",Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="",RMK TV Sciacca
-http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mekD49a.png" group-title="",RMM TV
-http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="",RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="",RTC Telecalabria
-http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/529.png" group-title="",RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="",RTL 102.5 TV
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="",RTP
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZmpQGTr.png" group-title="",RTR 99 TV
-https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTTR
-http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VZvOidh.png" group-title="",RTV Ilirida
-http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Sport",RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
-https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Senato della Repubblica
-http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV
-https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",SporTVL
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",SporTVL
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",SporTVL
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Studio 100
-http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Studio 100
-http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
-#EXTINF:-1 tvg-id="Super IT" tvg-name="Super IT" tvg-logo="" group-title="",Super
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H3uItqg.png" group-title="",Super J TV
-https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YBdq3Y2.png" group-title="",Tele 8
-http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tele Arena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/flg9vfT.png" group-title="",Tele One
-http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telechiara
-http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bPFcGBW.png" group-title="",Telecitta
-http://213.187.12.18/live/tv1.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.telecitta.tv/wp-content/uploads/2017/01/telecitta-logo.jpg" group-title="",Telecitta
-http://213.187.12.18:80/live/tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg" group-title="",Telefriuli
-http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E68cSgK.png" group-title="",Telegenova
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662062/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-8gAN3pOqt7M/UK8We1rH1yI/AAAAAAAADjU/bya6H2ZbcJk/s1600/logo-telemia.png" group-title="",TeleMia
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aTs88Es.png" group-title="",Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q7Gj1rG.jpg" group-title="",TeleMonteve
-http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TeleMonteve 3
-http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Woq6TJo.png" group-title="",TeleNordest
-http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Woq6TJo.png" group-title="",TeleNordest
-https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleonda.it/wp-content/uploads/2019/05/cropped-Teleonda_antennasud_live_png-1.png" group-title="",Teleonda
-https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TelePavia
-http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TelePavia
-http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TelePavia
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.saladellamemoriaheysel.it/IMMAGINI/Logo_Tele_Quattro.png" group-title="",TeleQuattro
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NmvOzhg.png" group-title="",TeleRama
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Teleromagna
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Teleromagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U1BjkEl.png" group-title="",TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="",Teletricolore
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K6tTjJC.png" group-title="",TeleTusciaSabina 2000
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/crMQmn4.png" group-title="",TeleVideo Agrigento
-https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.italianews24.it/public/tv/Televomero.jpg" group-title="",Televomero
-http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teveretv.it/Images/Icone/logo.png" group-title="",Tevere TV
-https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="" group-title="News",TG Norba24
-http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="",TR Mia
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TR24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/32xXpaS.png" group-title="",TRG Umbria
-http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JEw9RCq.png" group-title="",TRM h24 Basilicata
-http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xnXdUjz.png" group-title="",TSD TV Arezzo
-http://dcunilive20-lh.akamaihd.net/i/dclive_1@195975/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN Livigno
-http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN Livigno
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN Tele Sondrio News
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/m0EffED.png" group-title="",TV Campane 1 (Napoli)
-http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/154AQjl.png" group-title="",TV Qui (Modena)
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="" group-title="",TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1280px-Logo_tv2000_2015.svg.png" group-title="",TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://i.imgur.com/C5FuJmG.png" group-title="",TV2000
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CM1bQ1I.png" group-title="",TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ndFoo4V.png" group-title="",TV7 Triveneta
-http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVA (Vicenza)
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oVsMybF.jpg" group-title="",TVL Toscana
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0vLfpFD.png" group-title="",TVR Xenon (Caltagirone)
-http://player.adobemediaserver.it/speedweb-hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0vLfpFD.png" group-title="",TVR Xenon (Caltagirone)
-http://player.adobemediaserver.it/speedweb-hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Vera TV (Marche)
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kXDdx0h.png" group-title="",Vera TV Marche
-http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="",VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Video Mediterraneo
-http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="",Videolina  (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dinamobasket.com/sites/default/files/videolina2012_tr.png" group-title="",Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg" group-title="",Videostar TV (Lombardia)
-http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iOJkDQ1.png" group-title="",WLTV Siracusa
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@531020/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NUCVVx8.png" group-title="Music",Zerouno TV
-https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8
+#EXTM3U
+#EXTINF:-1,RAI 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80185.m3u8
+#EXTINF:-1,RAI 1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80184.m3u8
+#EXTINF:-1,RAI 2 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80182.m3u8
+#EXTINF:-1,RAI 2 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80181.m3u8
+#EXTINF:-1,RAI 3 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80179.m3u8
+#EXTINF:-1,RAI 3 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80178.m3u8
+#EXTINF:-1,RETE 4 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80176.m3u8
+#EXTINF:-1,RETE 4 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80175.m3u8
+#EXTINF:-1,CANALE 5 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80173.m3u8
+#EXTINF:-1,CANALE 5 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80172.m3u8
+#EXTINF:-1,ITALIA 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80170.m3u8
+#EXTINF:-1,ITALIA 1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80169.m3u8
+#EXTINF:-1,LA 7HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80167.m3u8
+#EXTINF:-1,LA 7 +1HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80166.m3u8
+#EXTINF:-1,LA 7D HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80165.m3u8
+#EXTINF:-1,TV 8 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80164.m3u8
+#EXTINF:-1,TV 8 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80163.m3u8
+#EXTINF:-1,NOVE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80162.m3u8
+#EXTINF:-1,NOVE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80161.m3u8
+#EXTINF:-1,NOVE +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80160.m3u8
+#EXTINF:-1,RAI 4 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80159.m3u8
+#EXTINF:-1,RAI 4 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80158.m3u8
+#EXTINF:-1,RAI 5 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80157.m3u8
+#EXTINF:-1,LA 5
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80156.m3u8
+#EXTINF:-1,MEDIASET 20 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80155.m3u8
+#EXTINF:-1,MEDIASET 20 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80154.m3u8
+#EXTINF:-1,RSI LA 1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80153.m3u8
+#EXTINF:-1,RSI LA 2 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80152.m3u8
+#EXTINF:-1,RAI 1 +6
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80151.m3u8
+#EXTINF:-1,RETE 4 +6
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80148.m3u8
+#EXTINF:-1,=====|INTRATTENIMENTO|======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80134.m3u8
+#EXTINF:-1,SKY UNO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80227.m3u8
+#EXTINF:-1,SKY UNO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80226.m3u8
+#EXTINF:-1,SKY UNO +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80225.m3u8
+#EXTINF:-1,SKY UNO +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80224.m3u8
+#EXTINF:-1,SKY UNO +2 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80223.m3u8
+#EXTINF:-1,SKY ATLANTIC FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80222.m3u8
+#EXTINF:-1,SKY ATLANTIC HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80221.m3u8
+#EXTINF:-1,SKY ATLANTIC +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80220.m3u8
+#EXTINF:-1,SKY ATLANTIC +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80219.m3u8
+#EXTINF:-1,BLAZE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80217.m3u8
+#EXTINF:-1,BLAZE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80216.m3u8
+#EXTINF:-1,MTV FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80215.m3u8
+#EXTINF:-1,MTV HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80214.m3u8
+#EXTINF:-1,FOX FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80212.m3u8
+#EXTINF:-1,FOX HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80211.m3u8
+#EXTINF:-1,FOX LIFE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80209.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80208.m3u8
+#EXTINF:-1,FOX CRIME FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80206.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80205.m3u8
+#EXTINF:-1,FOX COMEDY FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80203.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80202.m3u8
+#EXTINF:-1,FOX ANIMATION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80200.m3u8
+#EXTINF:-1,FOX ANIMATION HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80199.m3u8
+#EXTINF:-1,FOX ANIMATION +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80198.m3u8
+#EXTINF:-1,CI CRIME & INVESTIGATION HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80196.m3u8
+#EXTINF:-1,CI CRIME INVESTIGATION +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80195.m3u8
+#EXTINF:-1,SKY ARTE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80194.m3u8
+#EXTINF:-1,SKY ARTE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80193.m3u8
+#EXTINF:-1,SKY ARTE +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80192.m3u8
+#EXTINF:-1,CIELO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80191.m3u8
+#EXTINF:-1,LEI
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80190.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80189.m3u8
+#EXTINF:-1,COMEDY CENTRAL +1
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80188.m3u8
+#EXTINF:-1,CLASSICA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80187.m3u8
+#EXTINF:-1,MEDIASET EXTRA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80186.m3u8
+#EXTINF:-1,=====|SKY CINEMA |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80135.m3u8
+#EXTINF:-1,SKY CINEMA UNO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80263.m3u8
+#EXTINF:-1,SKY CINEMA UNO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80262.m3u8
+#EXTINF:-1,SKY CINEMA UNO +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80261.m3u8
+#EXTINF:-1,SKY CINEMA UNO +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80260.m3u8
+#EXTINF:-1,SKY CINEMA UNO +24 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80259.m3u8
+#EXTINF:-1,SKY CINEMA UNO +24 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80258.m3u8
+#EXTINF:-1,SKY CINEMA DUE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80257.m3u8
+#EXTINF:-1,SKY CINEMA DUE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80256.m3u8
+#EXTINF:-1,SKY CINEMA DUE +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80254.m3u8
+#EXTINF:-1,SKY CINEMA DUE +24 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80253.m3u8
+#EXTINF:-1,SKY CINEMA DUE +24 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80252.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80251.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80250.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80249.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80248.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80247.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80246.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80245.m3u8
+#EXTINF:-1,SKY CINEMA ACTION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80244.m3u8
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80243.m3u8
+#EXTINF:-1,SKY CINEMA ACTION +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80242.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80241.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80240.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80239.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80238.m3u8
+#EXTINF:-1,SKY CINEMA ROMANCE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80237.m3u8
+#EXTINF:-1,SKY CINEMA ROMANCE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80236.m3u8
+#EXTINF:-1,SKY CINEMA ROMANCE +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80235.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80230.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80229.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80228.m3u8
+#EXTINF:-1,SKY CINEMA SUSPENSE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80233.m3u8
+#EXTINF:-1,SKY CINEMA SUSPENSE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80232.m3u8
+#EXTINF:-1,=====|SKY PRIMA-FILA |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80136.m3u8
+#EXTINF:-1,VETRINA SKY PRIMAFILA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80293.m3u8
+#EXTINF:-1,SKY PRIMAFILA 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80292.m3u8
+#EXTINF:-1,SKY PRIMAFILA 2 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80291.m3u8
+#EXTINF:-1,SKY PRIMAFILA 3 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80290.m3u8
+#EXTINF:-1,SKY PRIMAFILA 4 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80288.m3u8
+#EXTINF:-1,SKY PRIMAFILA 5 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80287.m3u8
+#EXTINF:-1,SKY PRIMAFILA 6 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80286.m3u8
+#EXTINF:-1,SKY PRIMAFILA 7 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80285.m3u8
+#EXTINF:-1,SKY PRIMAFILA 8 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80284.m3u8
+#EXTINF:-1,SKY PRIMAFILA 9 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80283.m3u8
+#EXTINF:-1,SKY PRIMAFILA 10 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80282.m3u8
+#EXTINF:-1,SKY PRIMAFILA 11 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80281.m3u8
+#EXTINF:-1,SKY PRIMAFILA 12 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80280.m3u8
+#EXTINF:-1,SKY PRIMAFILA 13 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80279.m3u8
+#EXTINF:-1,SKY PRIMAFILA 14 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80278.m3u8
+#EXTINF:-1,SKY PRIMAFILA 15 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80277.m3u8
+#EXTINF:-1,SKY PRIMAFILA 16 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80276.m3u8
+#EXTINF:-1,SKY PRIMAFILA 17 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80275.m3u8
+#EXTINF:-1,SKY PRIMAFILA WWE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80272.m3u8
+#EXTINF:-1,SKY PRIMAFILA MULTIVISION 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80274.m3u8
+#EXTINF:-1,SKY PRIMAFILA MULTIVISION 2 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80273.m3u8
+#EXTINF:-1,SKY PRIMAFILA 1 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80270.m3u8
+#EXTINF:-1,SKY PRIMAFILA 2 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80269.m3u8
+#EXTINF:-1,SKY PRIMAFILA 3 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80268.m3u8
+#EXTINF:-1,SKY PRIMAFILA 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80271.m3u8
+#EXTINF:-1,SKY PRIMAFILA 4 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80267.m3u8
+#EXTINF:-1,SKY PRIMAFILA 5 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80266.m3u8
+#EXTINF:-1,SKY PRIMAFILA 6 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80265.m3u8
+#EXTINF:-1,SKY PRIMAFILA 7 4K
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80264.m3u8
+#EXTINF:-1,SKY PRIMAFILA 3D
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80289.m3u8
+#EXTINF:-1,=====| MEDIASET PREMIUM|======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80137.m3u8
+#EXTINF:-1,PREMIUM CINEMA FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80330.m3u8
+#EXTINF:-1,PREMIUM CINEMA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80329.m3u8
+#EXTINF:-1,PREMIUM CINEMA +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80328.m3u8
+#EXTINF:-1,PREMIUM CINEMA +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80327.m3u8
+#EXTINF:-1,PREMIUM CINEMA  24 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80323.m3u8
+#EXTINF:-1,PREMIUM CINEMA+ 24 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80326.m3u8
+#EXTINF:-1,PREMIUM CINEMA +24 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80324.m3u8
+#EXTINF:-1,PREMIUM CINEMA +24 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80325.m3u8
+#EXTINF:-1,PREMIUM ACTION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80322.m3u8
+#EXTINF:-1,PREMIUM ACTION HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80321.m3u8
+#EXTINF:-1,PREMIUM ACTION +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80320.m3u8
+#EXTINF:-1,PREMIUM ACTION +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80319.m3u8
+#EXTINF:-1,PREMIUM CRIME FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80318.m3u8
+#EXTINF:-1,PREMIUM CRIME HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80317.m3u8
+#EXTINF:-1,PREMIUM CRIME +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80316.m3u8
+#EXTINF:-1,PREMIUM CRIME  +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80315.m3u8
+#EXTINF:-1,PREMIUM COMEDY FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80314.m3u8
+#EXTINF:-1,PREMIUM COMEDY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80313.m3u8
+#EXTINF:-1,PREMIUM CINEMA COMEDY +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80312.m3u8
+#EXTINF:-1,PREMIUM CINEMA COMEDY +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80311.m3u8
+#EXTINF:-1,PREMIUM CINEMA EMOTION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80305.m3u8
+#EXTINF:-1,PREMIUM CINEMA EMOTION +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80304.m3u8
+#EXTINF:-1,PREMIUM EMOTION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80306.m3u8
+#EXTINF:-1,PREMIUM CINEMA EMOTION +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80303.m3u8
+#EXTINF:-1,PREMIUM STORIES FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80301.m3u8
+#EXTINF:-1,PREMIUM STORIES
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80300.m3u8
+#EXTINF:-1,PREMIUM STORIES +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80299.m3u8
+#EXTINF:-1,PREMIUM STORIES +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80298.m3u8
+#EXTINF:-1,PREMIUM ENERGY FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80310.m3u8
+#EXTINF:-1,PREMIUM ENERGY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80309.m3u8
+#EXTINF:-1,PREMIUM CINEMA ENERGY +1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80308.m3u8
+#EXTINF:-1,PREMIUM CINEMA ENERGY +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80307.m3u8
+#EXTINF:-1,IRIS
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80297.m3u8
+#EXTINF:-1,TOPCRIME
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80296.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80295.m3u8
+#EXTINF:-1,CINE SONY
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80294.m3u8
+#EXTINF:-1,=====|SKY SPORT |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80138.m3u8
+#EXTINF:-1,SKY SPORTS 24 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80360.m3u8
+#EXTINF:-1,SKY SPORTS 24 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80359.m3u8
+#EXTINF:-1,SKY SPORTS UNO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80358.m3u8
+#EXTINF:-1,SKY SPORTS UNO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80357.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80356.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80355.m3u8
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80354.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80353.m3u8
+#EXTINF:-1,SKY SPORTS COLLECTION FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80352.m3u8
+#EXTINF:-1,SKY SPORTS COLLECTION HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80351.m3u8
+#EXTINF:-1,SKY SPORTS NBA FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80350.m3u8
+#EXTINF:-1,SKY SPORTS NBA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80349.m3u8
+#EXTINF:-1,SKY FORMULA 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80348.m3u8
+#EXTINF:-1,SKY FORMULA 1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80347.m3u8
+#EXTINF:-1,Sky FORMULA 1 +1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80346.m3u8
+#EXTINF:-1,MOTO GP FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80345.m3u8
+#EXTINF:-1,SKY MOTO GP HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80344.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80342.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80341.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80340.m3u8
+#EXTINF:-1,MOTORTREND
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80331.m3u8
+#EXTINF:-1,HORSE TV HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80332.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80339.m3u8
+#EXTINF:-1,RAI SPORT HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80338.m3u8
+#EXTINF:-1,AUTOMOTO TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80337.m3u8
+#EXTINF:-1,SUPERTENNIS
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80336.m3u8
+#EXTINF:-1,BIKE CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80335.m3u8
+#EXTINF:-1,UNIRESAT FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80334.m3u8
+#EXTINF:-1,UNIRESAT HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80333.m3u8
+#EXTINF:-1,=====|SKY CALCIO |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80139.m3u8
+#EXTINF:-1,SKY SPORTS SERIE A FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80383.m3u8
+#EXTINF:-1,SKY SPORTS SERIE A HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80382.m3u8
+#EXTINF:-1,SKY SPORTS 251 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80381.m3u8
+#EXTINF:-1,SKY SPORTS 251 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80380.m3u8
+#EXTINF:-1,(252) SKY SPORTS
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80377.m3u8
+#EXTINF:-1,(253) SKY SPORTS
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80374.m3u8
+#EXTINF:-1,SKY CALCIO 1 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80379.m3u8
+#EXTINF:-1,SKY CALCIO 2 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80378.m3u8
+#EXTINF:-1,SKY CALCIO 3 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80376.m3u8
+#EXTINF:-1,SKY CALCIO 3 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80375.m3u8
+#EXTINF:-1,SKY CALCIO 4 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80373.m3u8
+#EXTINF:-1,SKY CALCIO 4 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80372.m3u8
+#EXTINF:-1,SKY CALCIO 5 FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80371.m3u8
+#EXTINF:-1,SKY CALCIO 5 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80370.m3u8
+#EXTINF:-1,SKY CALCIO 6 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80369.m3u8
+#EXTINF:-1,SKY CALCIO 7 HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80368.m3u8
+#EXTINF:-1,TOP CALCIO 24
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80361.m3u8
+#EXTINF:-1,INTER CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80366.m3u8
+#EXTINF:-1,MILAN CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80365.m3u8
+#EXTINF:-1,ROMA CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80367.m3u8
+#EXTINF:-1,LAZIO CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80363.m3u8
+#EXTINF:-1,TORINO CHANNEL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80364.m3u8
+#EXTINF:-1,=====|BAMBINI |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80140.m3u8
+#EXTINF:-1,BABY TV FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80407.m3u8
+#EXTINF:-1,BABY TV HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80406.m3u8
+#EXTINF:-1,MANGA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80405.m3u8
+#EXTINF:-1,DISNEY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80404.m3u8
+#EXTINF:-1,DISNEY JR
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80403.m3u8
+#EXTINF:-1,DISNEY XD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80402.m3u8
+#EXTINF:-1,BOOMERANG
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80387.m3u8
+#EXTINF:-1,BOING
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80391.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80399.m3u8
+#EXTINF:-1,NICKELODEON
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80397.m3u8
+#EXTINF:-1,NICK JR
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80398.m3u8
+#EXTINF:-1,CARTOONITO
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80396.m3u8
+#EXTINF:-1,DEA JUNIOR
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80401.m3u8
+#EXTINF:-1,DEA KIDS
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80400.m3u8
+#EXTINF:-1,FRISBEE
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80390.m3u8
+#EXTINF:-1,K2
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80392.m3u8
+#EXTINF:-1,MASHA E ORSO TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80386.m3u8
+#EXTINF:-1,RAI YOYO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80395.m3u8
+#EXTINF:-1,RAI YOYO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80394.m3u8
+#EXTINF:-1,RAI GULP
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80393.m3u8
+#EXTINF:-1,POP
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80388.m3u8
+#EXTINF:-1,PAW PATROL TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80385.m3u8
+#EXTINF:-1,SUPER!
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80389.m3u8
+#EXTINF:-1,TEEN TITANS TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80384.m3u8
+#EXTINF:-1,=====|DOCUMENTARI |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80141.m3u8
+#EXTINF:-1,RAI MOVIE
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80441.m3u8
+#EXTINF:-1,RAI PREMIUM
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80440.m3u8
+#EXTINF:-1,RAI STORIA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80439.m3u8
+#EXTINF:-1,MEDIASET ITALIA 2
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80438.m3u8
+#EXTINF:-1,GIALLO
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80437.m3u8
+#EXTINF:-1,REAL TIME FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80436.m3u8
+#EXTINF:-1,REAL TIME HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80435.m3u8
+#EXTINF:-1,NAT GEO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80425.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80426.m3u8
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80432.m3u8
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80419.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80430.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80431.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80429.m3u8
+#EXTINF:-1,DEEJAY TV HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80421.m3u8
+#EXTINF:-1,DMAX FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80418.m3u8
+#EXTINF:-1,DMAX HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80422.m3u8
+#EXTINF:-1,HISTORY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80427.m3u8
+#EXTINF:-1,GAMBERO ROSSO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80428.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80424.m3u8
+#EXTINF:-1,CACCIA & PESCA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80417.m3u8
+#EXTINF:-1,CACCIA & PESCA 2
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80416.m3u8
+#EXTINF:-1,ITALIAN FISION
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80420.m3u8
+#EXTINF:-1,LA EFFE
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80415.m3u8
+#EXTINF:-1,MARCOPOLO
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80412.m3u8
+#EXTINF:-1,SPIKE
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80413.m3u8
+#EXTINF:-1,ALICE
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80434.m3u8
+#EXTINF:-1,DOVE TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80414.m3u8
+#EXTINF:-1,FOCUS
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80433.m3u8
+#EXTINF:-1,ALPHA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80423.m3u8
+#EXTINF:-1,=====|NOTI ZIARI |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80142.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80408.m3u8
+#EXTINF:-1,SKY TG 24
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80411.m3u8
+#EXTINF:-1,TG COM24
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80409.m3u8
+#EXTINF:-1,TG NORBA 24
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80410.m3u8
+#EXTINF:-1,=====|EAGLE CINEMA |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80143.m3u8
+#EXTINF:-1,EAGLE CINEMA ANIMAZIONE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80460.m3u8
+#EXTINF:-1,EAGLE CINEMA AVENTURE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80459.m3u8
+#EXTINF:-1,EAGLE CINEMA AZIONE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80458.m3u8
+#EXTINF:-1,EAGLE CINEMA COMICO CULT FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80457.m3u8
+#EXTINF:-1,EAGLE CINEMA COMMEDIA FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80456.m3u8
+#EXTINF:-1,EAGLE CINEMA DRAMMATICO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80455.m3u8
+#EXTINF:-1,EAGLE CINEMA FANTASTICO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80454.m3u8
+#EXTINF:-1,EAGLE CINEMA HORROR FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80453.m3u8
+#EXTINF:-1,EAGLE CINEMA MITOLOGIA HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80452.m3u8
+#EXTINF:-1,EAGLE CINEMA PASSIONE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80451.m3u8
+#EXTINF:-1,EAGLE CINEMA PRIMA VISIONE FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80450.m3u8
+#EXTINF:-1,EAGLE CINEMA SORRISO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80449.m3u8
+#EXTINF:-1,EAGLE CINEMA STORICO FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80448.m3u8
+#EXTINF:-1,EAGLE CINEMA THRILLER FHD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80447.m3u8
+#EXTINF:-1,EAGLE FIABE MAGICHE HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80446.m3u8
+#EXTINF:-1,EAGLE LE FIABE DISNEY HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80445.m3u8
+#EXTINF:-1,EAGLE LOONEY TOONS HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80444.m3u8
+#EXTINF:-1,EAGLE MESHA E ORSO HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80443.m3u8
+#EXTINF:-1,EAGLE PEPPE PIG HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80442.m3u8
+#EXTINF:-1,=====|REGIONALI |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80144.m3u8
+#EXTINF:-1,VIDEOLINA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/9649.m3u8
+#EXTINF:-1,PADRE PIO TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80479.m3u8
+#EXTINF:-1,CAMPANIA CANALE 21
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80477.m3u8
+#EXTINF:-1,CAMPANIA CANALE 8
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80478.m3u8
+#EXTINF:-1,PUGLIA STUDIO 100
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80473.m3u8
+#EXTINF:-1,SICILIAN RADIO TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80471.m3u8
+#EXTINF:-1,=====|MUSICA |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80480.m3u8
+#EXTINF:-1,M2O
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80467.m3u8
+#EXTINF:-1,RADIO CAPITAL
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80465.m3u8
+#EXTINF:-1,RADIO ITALIA tv
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80464.m3u8
+#EXTINF:-1,RADIOFRECCIA
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80462.m3u8
+#EXTINF:-1,RADIONORBATV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80461.m3u8
+#EXTINF:-1,RTL102.5TV
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80469.m3u8
+#EXTINF:-1,VIRGIN RADIO
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80463.m3u8
+#EXTINF:-1,=====|DAZN SPORT |======
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80145.m3u8
+#EXTINF:-1,DAZN VETRINO ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80481.m3u8
+#EXTINF:-1,DAZN 1 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80500.m3u8
+#EXTINF:-1,DAZN 2 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80491.m3u8
+#EXTINF:-1,DAZN 3 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80490.m3u8
+#EXTINF:-1,DAZN 4 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80489.m3u8
+#EXTINF:-1,DAZN 5 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80488.m3u8
+#EXTINF:-1,DAZN 6 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80487.m3u8
+#EXTINF:-1,DAZN 7 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80486.m3u8
+#EXTINF:-1,DAZN 8 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80485.m3u8
+#EXTINF:-1,DAZN 9 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80484.m3u8
+#EXTINF:-1,DAZN 10 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80496.m3u8
+#EXTINF:-1,DAZN 11 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80495.m3u8
+#EXTINF:-1,DAZN 12 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80494.m3u8
+#EXTINF:-1,DAZN 13 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80493.m3u8
+#EXTINF:-1,DAZN 14 HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80492.m3u8
+#EXTINF:-1,DAZN 1 BAR FHD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80499.m3u8
+#EXTINF:-1,DAZN 1 SERIE A HD ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80498.m3u8
+#EXTINF:-1,DAZN 1 SERIE A ( LIVE EVENT )
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80497.m3u8
+#EXTINF:-1,DAZN SPORT SERIE A HD
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80483.m3u8
+#EXTINF:-1,DAZN SPORT SERIE A
+http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80482.m3u8
