@@ -1,183 +1,285 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",Alsace 20
-http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rCurmKp.jpg" group-title="",Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGOT4iz.png" group-title="",Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z1DWn1M.png" group-title="",Bblack! Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J FR" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="",Canal J
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="",EMCI TV
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://bit.ly/2zOVkbF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://ott-cdn.ucom.am/s30/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
-http://ott-cdn.ucom.am/s25/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="Music",MCM Top HD
-http://92.43.140.249/s49/04.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="Music",MCM Top HD
-http://ott-cdn.ucom.am/s49/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/34Uwo3S.png" group-title="",Melody
-https://str81.creacast.com/telemelody/57b74e8c17c81edb6508b3944839d99b/chunklist.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://i.imgur.com/ejEcufH.png" group-title="Music",Mezzo
-http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://i.imgur.com/ejEcufH.png" group-title="Music",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="",Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="Trace Africa FR" tvg-logo="https://i.imgur.com/SUhmboG.png" group-title="Music",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UOG2hKQ.png" group-title="Music",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BUQA8VB.png" group-title="Music",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vJZIrJ0.png" group-title="Music",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="Trace Tropical FR" tvg-logo="https://i.imgur.com/MoqoYvL.png" group-title="Music",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="Trace Urban HD FR" tvg-logo="https://i.imgur.com/qMYXsMH.png" group-title="Music",Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.imgur.com/bQ0qIxF.jpg" group-title="",TV8 Montblanc
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Kids",TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/803evgT.png" group-title="",viàVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTM3U
+#EXTINF:-1,TF1
+http://w.bs-share.com:8000/live/bs/524470739/595.m3u8
+#EXTINF:-1,TF1_SERIES_FILMS
+http://w.bs-share.com:8000/live/bs/524470739/1309.m3u8
+#EXTINF:-1,TFX
+http://w.bs-share.com:8000/live/bs/524470739/601.m3u8
+#EXTINF:-1,M6
+http://w.bs-share.com:8000/live/bs/524470739/152.m3u8
+#EXTINF:-1,W9
+http://w.bs-share.com:8000/live/bs/524470739/153.m3u8
+#EXTINF:-1,FRANCE2
+http://w.bs-share.com:8000/live/bs/524470739/596.m3u8
+#EXTINF:-1,FRANCE3
+http://w.bs-share.com:8000/live/bs/524470739/597.m3u8
+#EXTINF:-1,FRANCE4
+http://w.bs-share.com:8000/live/bs/524470739/598.m3u8
+#EXTINF:-1,FRANCE5
+http://w.bs-share.com:8000/live/bs/524470739/599.m3u8
+#EXTINF:-1,FRANCE_O
+http://w.bs-share.com:8000/live/bs/524470739/600.m3u8
+#EXTINF:-1,FRANCE_INFO
+http://w.bs-share.com:8000/live/bs/524470739/5632.m3u8
+#EXTINF:-1,C8
+http://w.bs-share.com:8000/live/bs/524470739/5635.m3u8
+#EXTINF:-1,NRJ12
+http://w.bs-share.com:8000/live/bs/524470739/602.m3u8
+#EXTINF:-1,LCI
+http://w.bs-share.com:8000/live/bs/524470739/5630.m3u8
+#EXTINF:-1,TMC
+http://w.bs-share.com:8000/live/bs/524470739/1716.m3u8
+#EXTINF:-1,6TER
+http://w.bs-share.com:8000/live/bs/524470739/593.m3u8
+#EXTINF:-1,ARTE
+http://w.bs-share.com:8000/live/bs/524470739/154.m3u8
+#EXTINF:-1,BFM_TV
+http://w.bs-share.com:8000/live/bs/524470739/1311.m3u8
+#EXTINF:-1,Cherie25
+http://w.bs-share.com:8000/live/bs/524470739/592.m3u8
+#EXTINF:-1,CNEWS
+http://w.bs-share.com:8000/live/bs/524470739/5634.m3u8
+#EXTINF:-1,CSTAR
+http://w.bs-share.com:8000/live/bs/524470739/5633.m3u8
+#EXTINF:-1,GULLI
+http://w.bs-share.com:8000/live/bs/524470739/376.m3u8
+#EXTINF:-1,L'EQUIPE
+http://w.bs-share.com:8000/live/bs/524470739/5631.m3u8
+#EXTINF:-1,RMC_DECOUVERTE
+http://w.bs-share.com:8000/live/bs/524470739/5629.m3u8
+#EXTINF:-1,RMC_STORY
+http://w.bs-share.com:8000/live/bs/524470739/5628.m3u8
+#EXTINF:-1,CANAL_HD
+http://w.bs-share.com:8000/live/bs/524470739/569.m3u8
+#EXTINF:-1,CANAL_CINEMA
+http://w.bs-share.com:8000/live/bs/524470739/572.m3u8
+#EXTINF:-1,CANAL_DECALE
+http://w.bs-share.com:8000/live/bs/524470739/571.m3u8
+#EXTINF:-1,CANAL_FAMILY
+http://w.bs-share.com:8000/live/bs/524470739/570.m3u8
+#EXTINF:-1,CANAL_SERIE
+http://w.bs-share.com:8000/live/bs/524470739/573.m3u8
+#EXTINF:-1,CANAL_SPORT
+http://w.bs-share.com:8000/live/bs/524470739/568.m3u8
+#EXTINF:-1,RTL9
+http://w.bs-share.com:8000/live/bs/524470739/589.m3u8
+#EXTINF:-1,Syfy
+http://w.bs-share.com:8000/live/bs/524470739/588.m3u8
+#EXTINF:-1,Teva
+http://w.bs-share.com:8000/live/bs/524470739/594.m3u8
+#EXTINF:-1,TIJI
+http://w.bs-share.com:8000/live/bs/524470739/377.m3u8
+#EXTINF:-1,Action
+http://w.bs-share.com:8000/live/bs/524470739/590.m3u8
+#EXTINF:-1,13eme_Rue
+http://w.bs-share.com:8000/live/bs/524470739/604.m3u8
+#EXTINF:-1,E!_Entertainement
+http://w.bs-share.com:8000/live/bs/524470739/1679.m3u8
+#EXTINF:-1,Euronews
+http://w.bs-share.com:8000/live/bs/524470739/168.m3u8
+#EXTINF:-1,TV_BREIZH
+http://w.bs-share.com:8000/live/bs/524470739/1649.m3u8
+#EXTINF:-1,AB1
+http://w.bs-share.com:8000/live/bs/524470739/1715.m3u8
+#EXTINF:-1,AB_Moteur
+http://w.bs-share.com:8000/live/bs/524470739/1682.m3u8
+#EXTINF:-1,TREK
+http://w.bs-share.com:8000/live/bs/524470739/3729.m3u8
+#EXTINF:-1,D17
+http://w.bs-share.com:8000/live/bs/524470739/1308.m3u8
+#EXTINF:-1,D8
+http://w.bs-share.com:8000/live/bs/524470739/1307.m3u8
+#EXTINF:-1,COMEDIE
+http://w.bs-share.com:8000/live/bs/524470739/587.m3u8
+#EXTINF:-1,CANAL_9
+http://w.bs-share.com:8000/live/bs/524470739/157.m3u8
+#EXTINF:-1,Cine_Club
+http://w.bs-share.com:8000/live/bs/524470739/1680.m3u8
+#EXTINF:-1,CINE_CLASSIC
+http://w.bs-share.com:8000/live/bs/524470739/582.m3u8
+#EXTINF:-1,CINE_EMOTION
+http://w.bs-share.com:8000/live/bs/524470739/580.m3u8
+#EXTINF:-1,CINE_FAMIZ
+http://w.bs-share.com:8000/live/bs/524470739/579.m3u8
+#EXTINF:-1,CINE_FRISSON
+http://w.bs-share.com:8000/live/bs/524470739/578.m3u8
+#EXTINF:-1,CINE_POLAR
+http://w.bs-share.com:8000/live/bs/524470739/577.m3u8
+#EXTINF:-1,CINE_PREMIER
+http://w.bs-share.com:8000/live/bs/524470739/576.m3u8
+#EXTINF:-1,CINE_FX
+http://w.bs-share.com:8000/live/bs/524470739/581.m3u8
+#EXTINF:-1,OCS_CHOC
+http://w.bs-share.com:8000/live/bs/524470739/583.m3u8
+#EXTINF:-1,OCS_City
+http://w.bs-share.com:8000/live/bs/524470739/586.m3u8
+#EXTINF:-1,OCS_Geants
+http://w.bs-share.com:8000/live/bs/524470739/584.m3u8
+#EXTINF:-1,OCS_GO_COMEDIE
+http://w.bs-share.com:8000/live/bs/524470739/1696.m3u8
+#EXTINF:-1,OCS_GO_HORREUR
+http://w.bs-share.com:8000/live/bs/524470739/1695.m3u8
+#EXTINF:-1,OCS_MAX
+http://w.bs-share.com:8000/live/bs/524470739/585.m3u8
+#EXTINF:-1,WEO
+http://w.bs-share.com:8000/live/bs/524470739/155.m3u8
+#EXTINF:-1,Tout_histoire
+http://w.bs-share.com:8000/live/bs/524470739/2802.m3u8
+#EXTINF:-1,USHUAIA
+http://w.bs-share.com:8000/live/bs/524470739/608.m3u8
+#EXTINF:-1,VOYAGE
+http://w.bs-share.com:8000/live/bs/524470739/2803.m3u8
+#EXTINF:-1,ANIMAUX
+http://w.bs-share.com:8000/live/bs/524470739/616.m3u8
+#EXTINF:-1,PLANET
+http://w.bs-share.com:8000/live/bs/524470739/613.m3u8
+#EXTINF:-1,PLANETE_A&E
+http://w.bs-share.com:8000/live/bs/524470739/615.m3u8
+#EXTINF:-1,PLANETE_CI
+http://w.bs-share.com:8000/live/bs/524470739/614.m3u8
+#EXTINF:-1,SCIENCES&VIE
+http://w.bs-share.com:8000/live/bs/524470739/617.m3u8
+#EXTINF:-1,NAT_GEO
+http://w.bs-share.com:8000/live/bs/524470739/609.m3u8
+#EXTINF:-1,NAT_GEO_WILD
+http://w.bs-share.com:8000/live/bs/524470739/610.m3u8
+#EXTINF:-1,Seasons
+http://w.bs-share.com:8000/live/bs/524470739/2877.m3u8
+#EXTINF:-1,Chasse_et_Peche
+http://w.bs-share.com:8000/live/bs/524470739/618.m3u8
+#EXTINF:-1,DISCOVERY
+http://w.bs-share.com:8000/live/bs/524470739/611.m3u8
+#EXTINF:-1,DISCOVERY_SCIENCE
+http://w.bs-share.com:8000/live/bs/524470739/612.m3u8
+#EXTINF:-1,HISTOIRE
+http://w.bs-share.com:8000/live/bs/524470739/2801.m3u8
+#EXTINF:-1,Bein_Sport_1
+http://w.bs-share.com:8000/live/bs/524470739/538.m3u8
+#EXTINF:-1,Bein_Sport_2
+http://w.bs-share.com:8000/live/bs/524470739/539.m3u8
+#EXTINF:-1,Bein_Sport_3
+http://w.bs-share.com:8000/live/bs/524470739/540.m3u8
+#EXTINF:-1,RMC_SPORT_Access1
+http://w.bs-share.com:8000/live/bs/524470739/5299.m3u8
+#EXTINF:-1,RMC_SPORT_Access2
+http://w.bs-share.com:8000/live/bs/524470739/5298.m3u8
+#EXTINF:-1,RMC_SPORT_Access3
+http://w.bs-share.com:8000/live/bs/524470739/5297.m3u8
+#EXTINF:-1,RMC_SPORT1
+http://w.bs-share.com:8000/live/bs/524470739/2075.m3u8
+#EXTINF:-1,RMC_SPORT2
+http://w.bs-share.com:8000/live/bs/524470739/2076.m3u8
+#EXTINF:-1,RMC_SPORT3
+http://w.bs-share.com:8000/live/bs/524470739/2077.m3u8
+#EXTINF:-1,RMC_SPORT_5
+http://w.bs-share.com:8000/live/bs/524470739/2283.m3u8
+#EXTINF:-1,BFM_SPORT
+http://w.bs-share.com:8000/live/bs/524470739/2857.m3u8
+#EXTINF:-1,EUROSPORT_1
+http://w.bs-share.com:8000/live/bs/524470739/1712.m3u8
+#EXTINF:-1,EUROSPORT_2
+http://w.bs-share.com:8000/live/bs/524470739/1713.m3u8
+#EXTINF:-1,Equidia_live
+http://w.bs-share.com:8000/live/bs/524470739/2074.m3u8
+#EXTINF:-1,Canal_J
+http://w.bs-share.com:8000/live/bs/524470739/1681.m3u8
+#EXTINF:-1,JOne
+http://w.bs-share.com:8000/live/bs/524470739/1678.m3u8
+#EXTINF:-1,BOOMERANG
+http://w.bs-share.com:8000/live/bs/524470739/374.m3u8
+#EXTINF:-1,Cartoon_Network
+http://w.bs-share.com:8000/live/bs/524470739/378.m3u8
+#EXTINF:-1,Disney_Channel
+http://w.bs-share.com:8000/live/bs/524470739/379.m3u8
+#EXTINF:-1,DISNEY_CINEMA
+http://w.bs-share.com:8000/live/bs/524470739/380.m3u8
+#EXTINF:-1,DISNEY_XD
+http://w.bs-share.com:8000/live/bs/524470739/381.m3u8
+#EXTINF:-1,DisneyJunior
+http://w.bs-share.com:8000/live/bs/524470739/372.m3u8
+#EXTINF:-1,GameOne
+http://w.bs-share.com:8000/live/bs/524470739/1650.m3u8
+#EXTINF:-1,MANGAS
+http://w.bs-share.com:8000/live/bs/524470739/375.m3u8
+#EXTINF:-1,Piwi
+http://w.bs-share.com:8000/live/bs/524470739/373.m3u8
+#EXTINF:-1,TOONAMI
+http://w.bs-share.com:8000/live/bs/524470739/3728.m3u8
+#EXTINF:-1,NICKELEDON
+http://w.bs-share.com:8000/live/bs/524470739/1651.m3u8
+#EXTINF:-1,CNA
+http://w.bs-share.com:8000/live/bs/524470739/158.m3u8
+#EXTINF:-1,Foot_24
+http://w.bs-share.com:8000/live/bs/524470739/371.m3u8
+#EXTINF:-1,france_24
+http://w.bs-share.com:8000/live/bs/524470739/167.m3u8
+#EXTINF:-1,GOLF
+http://w.bs-share.com:8000/live/bs/524470739/1714.m3u8
+#EXTINF:-1,I-Tele
+http://w.bs-share.com:8000/live/bs/524470739/1310.m3u8
+#EXTINF:-1,INFOSPORT
+http://w.bs-share.com:8000/live/bs/524470739/2318.m3u8
+#EXTINF:-1,LA_TELE
+http://w.bs-share.com:8000/live/bs/524470739/156.m3u8
+#EXTINF:-1,MONTE_CARLO
+http://w.bs-share.com:8000/live/bs/524470739/166.m3u8
+#EXTINF:-1,BOING
+http://w.bs-share.com:8000/live/bs/524470739/3730.m3u8
+#EXTINF:-1,PARAMOUNT
+http://w.bs-share.com:8000/live/bs/524470739/575.m3u8
+#EXTINF:-1,PARIS_PREMIERE_HD
+http://w.bs-share.com:8000/live/bs/524470739/574.m3u8
+#EXTINF:-1,SERIE_CLUB
+http://w.bs-share.com:8000/live/bs/524470739/605.m3u8
+#EXTINF:-1,TCM_CINEMA
+http://w.bs-share.com:8000/live/bs/524470739/1711.m3u8
+#EXTINF:-1,Orange_Cinema_ACTION
+http://w.bs-share.com:8000/live/bs/524470739/2869.m3u8
+#EXTINF:-1,Orange_Cinema_Aventure
+http://w.bs-share.com:8000/live/bs/524470739/2868.m3u8
+#EXTINF:-1,Orange_Cinema_COMEDIE
+http://w.bs-share.com:8000/live/bs/524470739/2867.m3u8
+#EXTINF:-1,Orange_Cinema_DISNEY
+http://w.bs-share.com:8000/live/bs/524470739/2866.m3u8
+#EXTINF:-1,Orange_Cinema_DOCUMENTAIRE
+http://w.bs-share.com:8000/live/bs/524470739/2865.m3u8
+#EXTINF:-1,Orange_Cinema_ENQUETE_EXCLUSIVE
+http://w.bs-share.com:8000/live/bs/524470739/2864.m3u8
+#EXTINF:-1,Orange_Cinema_HORREUR
+http://w.bs-share.com:8000/live/bs/524470739/2863.m3u8
+#EXTINF:-1,A_LA_CARTE_1
+http://w.bs-share.com:8000/live/bs/524470739/1299.m3u8
+#EXTINF:-1,A_LA_CARTE_2
+http://w.bs-share.com:8000/live/bs/524470739/1300.m3u8
+#EXTINF:-1,A_LA_CARTE_3
+http://w.bs-share.com:8000/live/bs/524470739/1301.m3u8
+#EXTINF:-1,A_LA_CARTE_4
+http://w.bs-share.com:8000/live/bs/524470739/1302.m3u8
+#EXTINF:-1,A_LA_CARTE_5
+http://w.bs-share.com:8000/live/bs/524470739/1303.m3u8
+#EXTINF:-1,A_LA_CARTE_6
+http://w.bs-share.com:8000/live/bs/524470739/1304.m3u8
+#EXTINF:-1,A_LA_CARTE_7
+http://w.bs-share.com:8000/live/bs/524470739/1305.m3u8
+#EXTINF:-1,A_LA_CARTE_8
+http://w.bs-share.com:8000/live/bs/524470739/1306.m3u8
+#EXTINF:-1,CANALPLAY_1
+http://w.bs-share.com:8000/live/bs/524470739/2813.m3u8
+#EXTINF:-1,CANAL_PLAY_2
+http://w.bs-share.com:8000/live/bs/524470739/2812.m3u8
+#EXTINF:-1,CANAL_PLAY_3
+http://w.bs-share.com:8000/live/bs/524470739/2811.m3u8
+#EXTINF:-1,CANAL_PLAY_4
+http://w.bs-share.com:8000/live/bs/524470739/2810.m3u8
+#EXTINF:-1,CANAL_PLAY_5
+http://w.bs-share.com:8000/live/bs/524470739/2809.m3u8
+#EXTINF:-1,CANAL_PLAY_6
+http://w.bs-share.com:8000/live/bs/524470739/2808.m3u8
+#EXTINF:-1,CANAL_PLAY_7
+http://w.bs-share.com:8000/live/bs/524470739/2807.m3u8
+#EXTINF:-1,CANAL_PLAY_8
+http://w.bs-share.com:8000/live/bs/524470739/2806.m3u8
+#EXTINF:-1,CANAL_PLAY_9
+http://w.bs-share.com:8000/live/bs/524470739/2805.m3u8
+#EXTINF:-1,CANAL_PLAY_10
+http://w.bs-share.com:8000/live/bs/524470739/2804.m3u8
