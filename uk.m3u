@@ -1,169 +1,671 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideuk.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kDB44LV.jpg" group-title="Music",60 North
-https://eu-de-edge-01.zetcast.net/ShetlandWebcams/Studio1ABR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R9G7kvW.jpg" group-title="",ABN TV
-https://1239101249.rsc.cdn77.org//LS-59570-ABN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="",Ahlulbayt TV
-http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Al Araby
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vqz9oc6.jpg" group-title="",Al Magharibia
-http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al-Hiwar
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al-Hiwar
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qJ8Gazo.jpg" group-title="News",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="News",BBC News
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="News",BBC News
-https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="News",BBC News
-https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i0tCMgq.png" group-title="News",BBC Persian
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="",British Muslim TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="Sport",BT Sport 2
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8vfNhjn.jpg" group-title="Sport",BT Sport ESPN
-https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="",Cruise 1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PUpt2Gw.png" group-title="Entertainment",E4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gemporia
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RB7OHmi.jpg" group-title="",Iran International
-https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ssybCGi.jpg" group-title="",Islam Channel
-http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://desibox.0hi.me/1.png" group-title="Music",JattTV (HQ)
-https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="",Mafa Shortfilm
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="",Mafa Shortfilm
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1bXWt0N.png" group-title="Entertainment",Manoto
-https://dow6lwapg8fa4.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FFwyWSd.png" group-title="",Manoto
-https://dzll8dnb13thz.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XStfgbe.png" group-title="",Only Motors
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="Entertainment",Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FE6M4rs.png" group-title="",Primal Living TV
-https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Music",Rathergood Radio
-https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="News",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="News",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television
-http://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="",Sheffield TV
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="Movies",Sony Movies Christmas
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JCWNJzh.jpg" group-title="",Takbeer TV
-http://cdn02.iqbroadcast.tv/iqb/d04ca797cb0590a3ad4aea3cce2ea93e.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="https://i.imgur.com/5xj48vw.png" group-title="",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
-http://45.77.90.56:8080/hls/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
-https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1EwXIh.png" group-title="Local",View TV - Berkshire
-https://streamingserver001.viewtvgroup.com/local-test2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="Music",Vintage Music TV
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pYEGZrO.png" group-title="",Vox Africa UK
-http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
+#EXTM3U
+#EXTINF:-1,Sky Movies Hits FHD
+http://nitro.ltd:25461/Edward/Edward/19848
+#EXTINF:-1,Sky Movies Animation HD
+http://nitro.ltd:25461/Edward/Edward/22831
+#EXTINF:-1,Sky Cinema Modern Greats
+http://nitro.ltd:25461/Edward/Edward/22832
+#EXTINF:-1,SKY Movies Select FHD
+http://nitro.ltd:25461/Edward/Edward/1357
+#EXTINF:-1,Sky Movies Thriller FHD
+http://nitro.ltd:25461/Edward/Edward/1358
+#EXTINF:-1,Sky Movies Showcase
+http://nitro.ltd:25461/Edward/Edward/3142
+#EXTINF:-1,SKY Movies Action FHD
+http://nitro.ltd:25461/Edward/Edward/1348
+#EXTINF:-1,SKY Movies Premier FHD
+http://nitro.ltd:25461/Edward/Edward/1355
+#EXTINF:-1,SKY Movies Drama FHD
+http://nitro.ltd:25461/Edward/Edward/1351
+#EXTINF:-1,Sky Movies Comedy HD
+http://nitro.ltd:25461/Edward/Edward/3391
+#EXTINF:-1,Sky Movies Sci-Fi and Horror FHD
+http://nitro.ltd:25461/Edward/Edward/1356
+#EXTINF:-1,UK:Sky Movies Modern Greats HD
+http://nitro.ltd:25461/Edward/Edward/22968
+#EXTINF:-1,Sky Cinema Crime & Thriller FHD
+http://nitro.ltd:25461/Edward/Edward/22962
+#EXTINF:-1,Sky Cinema Family FHD
+http://nitro.ltd:25461/Edward/Edward/22963
+#EXTINF:-1,CNN HD
+http://nitro.ltd:25461/Edward/Edward/1322
+#EXTINF:-1,RTE News
+http://nitro.ltd:25461/Edward/Edward/3147
+#EXTINF:-1,Sky News FHD
+http://nitro.ltd:25461/Edward/Edward/1359
+#EXTINF:-1,Sky News
+http://nitro.ltd:25461/Edward/Edward/3437
+#EXTINF:-1,Sky News Arabia
+http://nitro.ltd:25461/Edward/Edward/3141
+#EXTINF:-1,Boomerang
+http://nitro.ltd:25461/Edward/Edward/3176
+#EXTINF:-1,Cartoon Network FHD
+http://nitro.ltd:25461/Edward/Edward/1321
+#EXTINF:-1,Cbeebies HD
+http://nitro.ltd:25461/Edward/Edward/3131
+#EXTINF:-1,Disney Channel FHD
+http://nitro.ltd:25461/Edward/Edward/3410
+#EXTINF:-1,Disney Jr.
+http://nitro.ltd:25461/Edward/Edward/3194
+#EXTINF:-1,Disney XD
+http://nitro.ltd:25461/Edward/Edward/3168
+#EXTINF:-1,Nickelodeon HD
+http://nitro.ltd:25461/Edward/Edward/1340
+#EXTINF:-1,Nickelodeon
+http://nitro.ltd:25461/Edward/Edward/3384
+#EXTINF:-1,Nick Jr
+http://nitro.ltd:25461/Edward/Edward/3380
+#EXTINF:-1,Nick Jr Too
+http://nitro.ltd:25461/Edward/Edward/3378
+#EXTINF:-1,Nicktoons
+http://nitro.ltd:25461/Edward/Edward/3434
+#EXTINF:-1,RTE jr
+http://nitro.ltd:25461/Edward/Edward/3148
+#EXTINF:-1,Sky Movies Disney FHD
+http://nitro.ltd:25461/Edward/Edward/1350
+#EXTINF:-1,Hillsong Chnnel
+http://nitro.ltd:25461/Edward/Edward/28497
+#EXTINF:-1,EWTN Catholic
+http://nitro.ltd:25461/Edward/Edward/28500
+#EXTINF:-1,BT SPORTS 1 HD
+http://nitro.ltd:25461/Edward/Edward/1318
+#EXTINF:-1,BT SPORTS 2 FHD
+http://nitro.ltd:25461/Edward/Edward/1319
+#EXTINF:-1,BT SPORTS 3 FHD
+http://nitro.ltd:25461/Edward/Edward/1320
+#EXTINF:-1,BT SPORT ESPN
+http://nitro.ltd:25461/Edward/Edward/3396
+#EXTINF:-1,BoxNation
+http://nitro.ltd:25461/Edward/Edward/2191
+#EXTINF:-1,BoxNation HD
+http://nitro.ltd:25461/Edward/Edward/12355
+#EXTINF:-1,Eurosport 1 HD
+http://nitro.ltd:25461/Edward/Edward/2088
+#EXTINF:-1,Eurosport 2 HD
+http://nitro.ltd:25461/Edward/Edward/2087
+#EXTINF:-1,Premier Sports 1 FHD
+http://nitro.ltd:25461/Edward/Edward/2089
+#EXTINF:-1,Premier Sports 2 FHD
+http://nitro.ltd:25461/Edward/Edward/1341
+#EXTINF:-1,Racing UK HD
+http://nitro.ltd:25461/Edward/Edward/1342
+#EXTINF:-1,At The Races
+http://nitro.ltd:25461/Edward/Edward/2086
+#EXTINF:-1,Racing UK
+http://nitro.ltd:25461/Edward/Edward/3386
+#EXTINF:-1,eir Sport 1 FHD
+http://nitro.ltd:25461/Edward/Edward/2090
+#EXTINF:-1,eir Sport 2 FHD
+http://nitro.ltd:25461/Edward/Edward/5313
+#EXTINF:-1,BT SPORT 1
+http://nitro.ltd:25461/Edward/Edward/3399
+#EXTINF:-1,BT SPORT 2
+http://nitro.ltd:25461/Edward/Edward/3398
+#EXTINF:-1,BT SPORT 3
+http://nitro.ltd:25461/Edward/Edward/3397
+#EXTINF:-1,BT Sport Extra 1
+http://nitro.ltd:25461/Edward/Edward/2095
+#EXTINF:-1,BT Sport Extra 2
+http://nitro.ltd:25461/Edward/Edward/2094
+#EXTINF:-1,Eleven Sports HD
+http://nitro.ltd:25461/Edward/Edward/2100
+#EXTINF:-1,Skynet Sports HD.
+http://nitro.ltd:25461/Edward/Edward/25150
+#EXTINF:-1,Skynet Sports 1
+http://nitro.ltd:25461/Edward/Edward/25156
+#EXTINF:-1,Skynet Sports 2
+http://nitro.ltd:25461/Edward/Edward/25154
+#EXTINF:-1,Skynet Sports 3
+http://nitro.ltd:25461/Edward/Edward/25153
+#EXTINF:-1,SkyNet Sports 4
+http://nitro.ltd:25461/Edward/Edward/25152
+#EXTINF:-1,Skynet Sports 5
+http://nitro.ltd:25461/Edward/Edward/25151
+#EXTINF:-1,UK|  FrontRunner
+http://nitro.ltd:25461/Edward/Edward/23497
+#EXTINF:-1,UK| At The Races
+http://nitro.ltd:25461/Edward/Edward/23496
+#EXTINF:-1,RACING HD
+http://nitro.ltd:25461/Edward/Edward/23486
+#EXTINF:-1,UK| Racing UK
+http://nitro.ltd:25461/Edward/Edward/23485
+#EXTINF:-1,Sky Sports Main Event FHD
+http://nitro.ltd:25461/Edward/Edward/25170
+#EXTINF:-1,Sky Sports Cricket FHD
+http://nitro.ltd:25461/Edward/Edward/25174
+#EXTINF:-1,Sky Sports Action FHD
+http://nitro.ltd:25461/Edward/Edward/25176
+#EXTINF:-1,Sky Sports Golf FHD
+http://nitro.ltd:25461/Edward/Edward/25171
+#EXTINF:-1,Sky Sports Football FHD
+http://nitro.ltd:25461/Edward/Edward/25172
+#EXTINF:-1,Sky Sports Arena FHD
+http://nitro.ltd:25461/Edward/Edward/25175
+#EXTINF:-1,Sky Sports Mix FHD
+http://nitro.ltd:25461/Edward/Edward/25169
+#EXTINF:-1,Sky Sports News FHD
+http://nitro.ltd:25461/Edward/Edward/25168
+#EXTINF:-1,Sky Sports Arena HD
+http://nitro.ltd:25461/Edward/Edward/7949
+#EXTINF:-1,Sky Sports Football HD
+http://nitro.ltd:25461/Edward/Edward/7951
+#EXTINF:-1,Sky Sports News HD
+http://nitro.ltd:25461/Edward/Edward/1369
+#EXTINF:-1,SKY SPORTS F1 HD
+http://nitro.ltd:25461/Edward/Edward/1368
+#EXTINF:-1,SKY SPORTS Main Event HD
+http://nitro.ltd:25461/Edward/Edward/1366
+#EXTINF:-1,SKY SPORTS Action HD
+http://nitro.ltd:25461/Edward/Edward/1367
+#EXTINF:-1,Sky Sports Cricket HD
+http://nitro.ltd:25461/Edward/Edward/7947
+#EXTINF:-1,Sky Sports Box Office HD
+http://nitro.ltd:25461/Edward/Edward/25161
+#EXTINF:-1,Sky Sports Red Button 01
+http://nitro.ltd:25461/Edward/Edward/25199
+#EXTINF:-1,Sky Sports Red Button 02
+http://nitro.ltd:25461/Edward/Edward/25198
+#EXTINF:-1,Sky Sports Red Button 03
+http://nitro.ltd:25461/Edward/Edward/25197
+#EXTINF:-1,Sky Sports Red Button 04
+http://nitro.ltd:25461/Edward/Edward/25196
+#EXTINF:-1,Sky Sports Red Button 05
+http://nitro.ltd:25461/Edward/Edward/25195
+#EXTINF:-1,Sky Sports Red Button 06
+http://nitro.ltd:25461/Edward/Edward/25194
+#EXTINF:-1,Sky Sports Red Button 07
+http://nitro.ltd:25461/Edward/Edward/25193
+#EXTINF:-1,Sky Sports Red Button 08
+http://nitro.ltd:25461/Edward/Edward/25192
+#EXTINF:-1,Sky Sports Red Button 09
+http://nitro.ltd:25461/Edward/Edward/25191
+#EXTINF:-1,SkyNet Sports 6
+http://nitro.ltd:25461/Edward/Edward/25149
+#EXTINF:-1,Eurosport 4k
+http://nitro.ltd:25461/Edward/Edward/41411
+#EXTINF:-1,EPL 1 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17397
+#EXTINF:-1,EPL 2 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17400
+#EXTINF:-1,EPL 3 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17401
+#EXTINF:-1,EPL 4 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17402
+#EXTINF:-1,EPL 5 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17403
+#EXTINF:-1,EPL 6 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17398
+#EXTINF:-1,EPL 7 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17399
+#EXTINF:-1,EPL 8 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/17396
+#EXTINF:-1,EPL 9 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/35228
+#EXTINF:-1,EPL 10 (matchday only)
+http://nitro.ltd:25461/Edward/Edward/35229
+#EXTINF:-1,TSN 1 HD (3pm kick offs)
+http://nitro.ltd:25461/Edward/Edward/22989
+#EXTINF:-1,TSN 2 HD (3pm kick offs)
+http://nitro.ltd:25461/Edward/Edward/22988
+#EXTINF:-1,TSN 3 HD (3pm kick offs)
+http://nitro.ltd:25461/Edward/Edward/22987
+#EXTINF:-1,TSN 4 HD (3pm kick offs)
+http://nitro.ltd:25461/Edward/Edward/22986
+#EXTINF:-1,TSN 5 HD (3pm kick offs)
+http://nitro.ltd:25461/Edward/Edward/22985
+#EXTINF:-1,UK| Sky Sports Premier League FHD
+http://nitro.ltd:25461/Edward/Edward/22992
+#EXTINF:-1,ABERDEEN TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22972
+#EXTINF:-1,UK : CELTIC TV (LIVE MATCHES ONLY)
+http://nitro.ltd:25461/Edward/Edward/22996
+#EXTINF:-1,UK| CELTIC TV BU (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22974
+#EXTINF:-1,UK| CELTIC TV BU2 (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22973
+#EXTINF:-1,Chelsea FC TV HD
+http://nitro.ltd:25461/Edward/Edward/3552
+#EXTINF:-1,DUNDEE TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22971
+#EXTINF:-1,Everton TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22970
+#EXTINF:-1,HEARTS TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22983
+#EXTINF:-1,HIBS TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22982
+#EXTINF:-1,Leeds FC TV (Live For Matches)
+http://nitro.ltd:25461/Edward/Edward/22981
+#EXTINF:-1,Leeds FC TV BU (Live For Matches) BU
+http://nitro.ltd:25461/Edward/Edward/22980
+#EXTINF:-1,Liverpool  FC TV HD
+http://nitro.ltd:25461/Edward/Edward/3371
+#EXTINF:-1,LFC TV BU
+http://nitro.ltd:25461/Edward/Edward/22984
+#EXTINF:-1,UK| LFC TV
+http://nitro.ltd:25461/Edward/Edward/22993
+#EXTINF:-1,LFC HD
+http://nitro.ltd:25461/Edward/Edward/3551
+#EXTINF:-1,MUTV HD
+http://nitro.ltd:25461/Edward/Edward/3383
+#EXTINF:-1,Manchester United TV
+http://nitro.ltd:25461/Edward/Edward/22994
+#EXTINF:-1,NEWCASTLE TV (Live For Matches
+http://nitro.ltd:25461/Edward/Edward/22976
+#EXTINF:-1,PARTICK THISLTE TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22975
+#EXTINF:-1,Rangers FC TV HD( LIVE ON MATCHES)
+http://nitro.ltd:25461/Edward/Edward/1343
+#EXTINF:-1,UK : RANGERS TV (LIVE MATCHES ONLY)
+http://nitro.ltd:25461/Edward/Edward/22995
+#EXTINF:-1,UK| RANGERS TV (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22979
+#EXTINF:-1,UK| RANGERS TV BU (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22978
+#EXTINF:-1,UK| RANGERS TV BU2 (Match time Only)
+http://nitro.ltd:25461/Edward/Edward/22977
+#EXTINF:-1,Red FC TV HD( LIVE ON MATCHES )
+http://nitro.ltd:25461/Edward/Edward/5307
+#EXTINF:-1,Sky Sports Box Office PPV
+http://nitro.ltd:25461/Edward/Edward/7955
+#EXTINF:-1,ALIBI HD
+http://nitro.ltd:25461/Edward/Edward/3452
+#EXTINF:-1,AND TV HD
+http://nitro.ltd:25461/Edward/Edward/1306
+#EXTINF:-1,Animal Planet HD
+http://nitro.ltd:25461/Edward/Edward/1308
+#EXTINF:-1,Baby TV
+http://nitro.ltd:25461/Edward/Edward/3188
+#EXTINF:-1,BBC 1 HD
+http://nitro.ltd:25461/Edward/Edward/1310
+#EXTINF:-1,BBC 2 HD
+http://nitro.ltd:25461/Edward/Edward/1311
+#EXTINF:-1,BBC 3
+http://nitro.ltd:25461/Edward/Edward/3451
+#EXTINF:-1,BBC 4 HD
+http://nitro.ltd:25461/Edward/Edward/3447
+#EXTINF:-1,BBC NEWS HD
+http://nitro.ltd:25461/Edward/Edward/1313
+#EXTINF:-1,BET HD
+http://nitro.ltd:25461/Edward/Edward/3185
+#EXTINF:-1,Blaze
+http://nitro.ltd:25461/Edward/Edward/3177
+#EXTINF:-1,CBBC HD
+http://nitro.ltd:25461/Edward/Edward/3174
+#EXTINF:-1,CBS Justice (Action)
+http://nitro.ltd:25461/Edward/Edward/3191
+#EXTINF:-1,CBS Drama
+http://nitro.ltd:25461/Edward/Edward/3444
+#EXTINF:-1,CBS Reality
+http://nitro.ltd:25461/Edward/Edward/3425
+#EXTINF:-1,Challenge
+http://nitro.ltd:25461/Edward/Edward/3443
+#EXTINF:-1,Channel 4 HD
+http://nitro.ltd:25461/Edward/Edward/3190
+#EXTINF:-1,Chart Show TV
+http://nitro.ltd:25461/Edward/Edward/3172
+#EXTINF:-1,Channel 5 HD
+http://nitro.ltd:25461/Edward/Edward/3388
+#EXTINF:-1,Comedy Central HD
+http://nitro.ltd:25461/Edward/Edward/1323
+#EXTINF:-1,ComedyXtra
+http://nitro.ltd:25461/Edward/Edward/3428
+#EXTINF:-1,Crime & Investigation
+http://nitro.ltd:25461/Edward/Edward/3196
+#EXTINF:-1,Dave HD
+http://nitro.ltd:25461/Edward/Edward/1324
+#EXTINF:-1,Discovery Channel HD
+http://nitro.ltd:25461/Edward/Edward/2066
+#EXTINF:-1,Discovery History
+http://nitro.ltd:25461/Edward/Edward/2065
+#EXTINF:-1,Discovery Science
+http://nitro.ltd:25461/Edward/Edward/2063
+#EXTINF:-1,Discovery Turbo
+http://nitro.ltd:25461/Edward/Edward/2061
+#EXTINF:-1,Discovery Shed
+http://nitro.ltd:25461/Edward/Edward/2062
+#EXTINF:-1,Drama
+http://nitro.ltd:25461/Edward/Edward/3442
+#EXTINF:-1,DMAX
+http://nitro.ltd:25461/Edward/Edward/3195
+#EXTINF:-1,Eden HD
+http://nitro.ltd:25461/Edward/Edward/1327
+#EXTINF:-1,E4 HD
+http://nitro.ltd:25461/Edward/Edward/1326
+#EXTINF:-1,E! Entertainment
+http://nitro.ltd:25461/Edward/Edward/3200
+#EXTINF:-1,Film4 HD
+http://nitro.ltd:25461/Edward/Edward/1330
+#EXTINF:-1,Food Network
+http://nitro.ltd:25461/Edward/Edward/3368
+#EXTINF:-1,Forces TV
+http://nitro.ltd:25461/Edward/Edward/3166
+#EXTINF:-1,FOX HD
+http://nitro.ltd:25461/Edward/Edward/1331
+#EXTINF:-1,Good Food HD
+http://nitro.ltd:25461/Edward/Edward/1332
+#EXTINF:-1,GOLD FHD
+http://nitro.ltd:25461/Edward/Edward/3416
+#EXTINF:-1,H2 HD
+http://nitro.ltd:25461/Edward/Edward/3165
+#EXTINF:-1,History HD
+http://nitro.ltd:25461/Edward/Edward/3164
+#EXTINF:-1,HISTORY 2 HD
+http://nitro.ltd:25461/Edward/Edward/1333
+#EXTINF:-1,Home
+http://nitro.ltd:25461/Edward/Edward/3163
+#EXTINF:-1,Home&Health
+http://nitro.ltd:25461/Edward/Edward/2064
+#EXTINF:-1,Horse Country
+http://nitro.ltd:25461/Edward/Edward/3162
+#EXTINF:-1,Horror Channel
+http://nitro.ltd:25461/Edward/Edward/3431
+#EXTINF:-1,Investigation Discovery HD
+http://nitro.ltd:25461/Edward/Edward/3374
+#EXTINF:-1,ITV 1 HD
+http://nitro.ltd:25461/Edward/Edward/3207
+#EXTINF:-1,ITV 2 HD
+http://nitro.ltd:25461/Edward/Edward/3206
+#EXTINF:-1,ITV 3 HD
+http://nitro.ltd:25461/Edward/Edward/3205
+#EXTINF:-1,ITV 4 HD
+http://nitro.ltd:25461/Edward/Edward/3204
+#EXTINF:-1,ITV BE HD
+http://nitro.ltd:25461/Edward/Edward/3203
+#EXTINF:-1,ITV ENCORE HD
+http://nitro.ltd:25461/Edward/Edward/1299
+#EXTINF:-1,London Live
+http://nitro.ltd:25461/Edward/Edward/3159
+#EXTINF:-1,Lifetime HD
+http://nitro.ltd:25461/Edward/Edward/1300
+#EXTINF:-1,More4 HD
+http://nitro.ltd:25461/Edward/Edward/3382
+#EXTINF:-1,Motors TV
+http://nitro.ltd:25461/Edward/Edward/3379
+#EXTINF:-1,Movies4men
+http://nitro.ltd:25461/Edward/Edward/3422
+#EXTINF:-1,Movies 24
+http://nitro.ltd:25461/Edward/Edward/3381
+#EXTINF:-1,MTV BASE
+http://nitro.ltd:25461/Edward/Edward/3158
+#EXTINF:-1,MTV CLASSIC
+http://nitro.ltd:25461/Edward/Edward/3157
+#EXTINF:-1,MTV DANCE
+http://nitro.ltd:25461/Edward/Edward/3156
+#EXTINF:-1,MTV HD
+http://nitro.ltd:25461/Edward/Edward/1335
+#EXTINF:-1,MTV Hits
+http://nitro.ltd:25461/Edward/Edward/3372
+#EXTINF:-1,MTV Live HD
+http://nitro.ltd:25461/Edward/Edward/1336
+#EXTINF:-1,MTV MUSIC
+http://nitro.ltd:25461/Edward/Edward/3155
+#EXTINF:-1,MTV ROCKS
+http://nitro.ltd:25461/Edward/Edward/3154
+#EXTINF:-1,Nat Geo HD
+http://nitro.ltd:25461/Edward/Edward/1338
+#EXTINF:-1,National Geographic HD
+http://nitro.ltd:25461/Edward/Edward/3433
+#EXTINF:-1,National Geographic Wild HD
+http://nitro.ltd:25461/Edward/Edward/3377
+#EXTINF:-1,Nat Geo Wild HD
+http://nitro.ltd:25461/Edward/Edward/1339
+#EXTINF:-1,Nollywood Movies
+http://nitro.ltd:25461/Edward/Edward/3376
+#EXTINF:-1,Pick TV
+http://nitro.ltd:25461/Edward/Edward/3387
+#EXTINF:-1,Quest HD
+http://nitro.ltd:25461/Edward/Edward/3385
+#EXTINF:-1,QVC
+http://nitro.ltd:25461/Edward/Edward/36329
+#EXTINF:-1,QVC Plus
+http://nitro.ltd:25461/Edward/Edward/36613
+#EXTINF:-1,QVC Style
+http://nitro.ltd:25461/Edward/Edward/36614
+#EXTINF:-1,Real Lives
+http://nitro.ltd:25461/Edward/Edward/3392
+#EXTINF:-1,Really
+http://nitro.ltd:25461/Edward/Edward/3389
+#EXTINF:-1,RTE ONE HD
+http://nitro.ltd:25461/Edward/Edward/3435
+#EXTINF:-1,RTE TWO HD
+http://nitro.ltd:25461/Edward/Edward/3436
+#EXTINF:-1,Safari Live
+http://nitro.ltd:25461/Edward/Edward/37885
+#EXTINF:-1,Sky One FHD
+http://nitro.ltd:25461/Edward/Edward/1346
+#EXTINF:-1,Sky Arts HD
+http://nitro.ltd:25461/Edward/Edward/1302
+#EXTINF:-1,Sky Atlantic FHD
+http://nitro.ltd:25461/Edward/Edward/3390
+#EXTINF:-1,Sky Witness FHD
+http://nitro.ltd:25461/Edward/Edward/22830
+#EXTINF:-1,Sony SAB
+http://nitro.ltd:25461/Edward/Edward/3140
+#EXTINF:-1,SONY SET MAX
+http://nitro.ltd:25461/Edward/Edward/3421
+#EXTINF:-1,Sony TV HD
+http://nitro.ltd:25461/Edward/Edward/3409
+#EXTINF:-1,Spike
+http://nitro.ltd:25461/Edward/Edward/3415
+#EXTINF:-1,Starz TV
+http://nitro.ltd:25461/Edward/Edward/3139
+#EXTINF:-1,STV HD
+http://nitro.ltd:25461/Edward/Edward/3138
+#EXTINF:-1,SyFy HD
+http://nitro.ltd:25461/Edward/Edward/3411
+#EXTINF:-1,S4C HD
+http://nitro.ltd:25461/Edward/Edward/3146
+#EXTINF:-1,TCM HD
+http://nitro.ltd:25461/Edward/Edward/1372
+#EXTINF:-1,TG4
+http://nitro.ltd:25461/Edward/Edward/3412
+#EXTINF:-1,The Vault
+http://nitro.ltd:25461/Edward/Edward/3414
+#EXTINF:-1,Tiny Pop
+http://nitro.ltd:25461/Edward/Edward/3137
+#EXTINF:-1,TLC
+http://nitro.ltd:25461/Edward/Edward/3413
+#EXTINF:-1,Travel Channel
+http://nitro.ltd:25461/Edward/Edward/3136
+#EXTINF:-1,True Entertainment
+http://nitro.ltd:25461/Edward/Edward/1376
+#EXTINF:-1,True Movies
+http://nitro.ltd:25461/Edward/Edward/3418
+#EXTINF:-1,True Movies 2
+http://nitro.ltd:25461/Edward/Edward/3193
+#EXTINF:-1,TV3
+http://nitro.ltd:25461/Edward/Edward/3189
+#EXTINF:-1,Universal FHD
+http://nitro.ltd:25461/Edward/Edward/1373
+#EXTINF:-1,VH1
+http://nitro.ltd:25461/Edward/Edward/3417
+#EXTINF:-1,VH1 Classic
+http://nitro.ltd:25461/Edward/Edward/3420
+#EXTINF:-1,Viceland
+http://nitro.ltd:25461/Edward/Edward/2104
+#EXTINF:-1,Vintage TV
+http://nitro.ltd:25461/Edward/Edward/3132
+#EXTINF:-1,VIVA
+http://nitro.ltd:25461/Edward/Edward/3445
+#EXTINF:-1,W HD
+http://nitro.ltd:25461/Edward/Edward/1375
+#EXTINF:-1,Watch
+http://nitro.ltd:25461/Edward/Edward/3184
+#EXTINF:-1,Yesterday
+http://nitro.ltd:25461/Edward/Edward/3439
+#EXTINF:-1,ZEE TV HD
+http://nitro.ltd:25461/Edward/Edward/3182
+#EXTINF:-1,4 Seven HD
+http://nitro.ltd:25461/Edward/Edward/3454
+#EXTINF:-1,5Star HD
+http://nitro.ltd:25461/Edward/Edward/3453
+#EXTINF:-1,3E HD
+http://nitro.ltd:25461/Edward/Edward/3181
+#EXTINF:-1,5USA HD
+http://nitro.ltd:25461/Edward/Edward/3448
+#EXTINF:-1,4Music
+http://nitro.ltd:25461/Edward/Edward/3180
+#EXTINF:-1,UK : EIR SPORTS 2
+http://nitro.ltd:25461/Edward/Edward/39731
+#EXTINF:-1,UK : RTE NEWS
+http://nitro.ltd:25461/Edward/Edward/39730
+#EXTINF:-1,ITV FHD 1
+http://nitro.ltd:25461/Edward/Edward/39718
+#EXTINF:-1,ITV FHD 2
+http://nitro.ltd:25461/Edward/Edward/39717
+#EXTINF:-1,ITV FHD 3
+http://nitro.ltd:25461/Edward/Edward/39716
+#EXTINF:-1,ITV FHD 4
+http://nitro.ltd:25461/Edward/Edward/39715
+#EXTINF:-1,ITV 1 ANGLIA EAST
+http://nitro.ltd:25461/Edward/Edward/39681
+#EXTINF:-1,ITV 1 ANGLIA EAST 1
+http://nitro.ltd:25461/Edward/Edward/39680
+#EXTINF:-1,ITV 1 ANGLIA WEST
+http://nitro.ltd:25461/Edward/Edward/39679
+#EXTINF:-1,ITV 1 CENTRAL EAST
+http://nitro.ltd:25461/Edward/Edward/39678
+#EXTINF:-1,ITV 1 CENTRAL WEST
+http://nitro.ltd:25461/Edward/Edward/39677
+#EXTINF:-1,ITV 1 CENTRAL WEST 1
+http://nitro.ltd:25461/Edward/Edward/39676
+#EXTINF:-1,ITV 1 GRANADA
+http://nitro.ltd:25461/Edward/Edward/39675
+#EXTINF:-1,ITV 1 GRANADA 1
+http://nitro.ltd:25461/Edward/Edward/39674
+#EXTINF:-1,ITV 1 LONDON 1
+http://nitro.ltd:25461/Edward/Edward/39673
+#EXTINF:-1,ITV 1 MERIDIAN EAST
+http://nitro.ltd:25461/Edward/Edward/39672
+#EXTINF:-1,ITV 1 MERIDIAN EAST 1
+http://nitro.ltd:25461/Edward/Edward/39671
+#EXTINF:-1,ITV 1 MERIDIAN TV NORTH
+http://nitro.ltd:25461/Edward/Edward/39670
+#EXTINF:-1,ITV 1 MERIDIAN TV SOUTH
+http://nitro.ltd:25461/Edward/Edward/39669
+#EXTINF:-1,ITV 1 TYNE TEES
+http://nitro.ltd:25461/Edward/Edward/39668
+#EXTINF:-1,ITV 1 TYNE TEES TV NORTH
+http://nitro.ltd:25461/Edward/Edward/39667
+#EXTINF:-1,ITV 1 WALES
+http://nitro.ltd:25461/Edward/Edward/39666
+#EXTINF:-1,ITV 1 WESTCOUNTRY SOUTH 1
+http://nitro.ltd:25461/Edward/Edward/39665
+#EXTINF:-1,ITV 1 WESTCOUNTRY SOUTH WEST
+http://nitro.ltd:25461/Edward/Edward/39664
+#EXTINF:-1,ITV 1 WESTCOUNTRY WEST
+http://nitro.ltd:25461/Edward/Edward/39663
+#EXTINF:-1,ITV 1 YORKSHIRE TV EAST
+http://nitro.ltd:25461/Edward/Edward/39662
+#EXTINF:-1,ITV 1 YORKSHIRE TV EAST 1
+http://nitro.ltd:25461/Edward/Edward/39661
+#EXTINF:-1,ITV 1 YORKSHIRE WEST
+http://nitro.ltd:25461/Edward/Edward/39660
+#EXTINF:-1,ITV BE FHD
+http://nitro.ltd:25461/Edward/Edward/39719
+#EXTINF:-1,ITV BORDER
+http://nitro.ltd:25461/Edward/Edward/39659
+#EXTINF:-1,ITV WALES
+http://nitro.ltd:25461/Edward/Edward/39657
+#EXTINF:-1,ITV TV
+http://nitro.ltd:25461/Edward/Edward/39658
+#EXTINF:-1,ITV1  1
+http://nitro.ltd:25461/Edward/Edward/39656
+#EXTINF:-1,ITV2 1
+http://nitro.ltd:25461/Edward/Edward/39655
+#EXTINF:-1,ITV3 1
+http://nitro.ltd:25461/Edward/Edward/39654
+#EXTINF:-1,ITV4 1
+http://nitro.ltd:25461/Edward/Edward/39653
+#EXTINF:-1,BBC 1 FHD
+http://nitro.ltd:25461/Edward/Edward/39727
+#EXTINF:-1,BBC 2 FHD
+http://nitro.ltd:25461/Edward/Edward/39726
+#EXTINF:-1,BBC 3 FHD /CBBC
+http://nitro.ltd:25461/Edward/Edward/39725
+#EXTINF:-1,BBC 4 FHD /CBEEBIES
+http://nitro.ltd:25461/Edward/Edward/39724
+#EXTINF:-1,BBC NEWS FHD
+http://nitro.ltd:25461/Edward/Edward/39723
+#EXTINF:-1,BBC ONE CAMBRIDGE
+http://nitro.ltd:25461/Edward/Edward/39714
+#EXTINF:-1,BBC ONE CHANNEL ISLANDS
+http://nitro.ltd:25461/Edward/Edward/39713
+#EXTINF:-1,BBC ONE EAST
+http://nitro.ltd:25461/Edward/Edward/39712
+#EXTINF:-1,BBC ONE EAST MIDLANDS
+http://nitro.ltd:25461/Edward/Edward/39711
+#EXTINF:-1,BBC ONE LONDON
+http://nitro.ltd:25461/Edward/Edward/39710
+#EXTINF:-1,BBC ONE NORTH EAST & CUMBRIA
+http://nitro.ltd:25461/Edward/Edward/39709
+#EXTINF:-1,BBC ONE NORTH WEST
+http://nitro.ltd:25461/Edward/Edward/39708
+#EXTINF:-1,BBC ONE NORTHEN IRELAND
+http://nitro.ltd:25461/Edward/Edward/39707
+#EXTINF:-1,BBC ONE OXFORD
+http://nitro.ltd:25461/Edward/Edward/39706
+#EXTINF:-1,BBC ONE SCOTLAND
+http://nitro.ltd:25461/Edward/Edward/39705
+#EXTINF:-1,BBC ONE SOUTH
+http://nitro.ltd:25461/Edward/Edward/39704
+#EXTINF:-1,BBC One South East
+http://nitro.ltd:25461/Edward/Edward/39703
+#EXTINF:-1,BBC ONE SOUTH WEST
+http://nitro.ltd:25461/Edward/Edward/39702
+#EXTINF:-1,BBC ONE WALES
+http://nitro.ltd:25461/Edward/Edward/39701
+#EXTINF:-1,BBC ONE WEST
+http://nitro.ltd:25461/Edward/Edward/39700
+#EXTINF:-1,BBC ONE WEST MIDLANDS
+http://nitro.ltd:25461/Edward/Edward/39699
+#EXTINF:-1,BBC ONE YORK
+http://nitro.ltd:25461/Edward/Edward/39698
+#EXTINF:-1,BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://nitro.ltd:25461/Edward/Edward/39697
+#EXTINF:-1,BBC PARLIAMENT
+http://nitro.ltd:25461/Edward/Edward/39696
+#EXTINF:-1,BBC RED BUTTON 1
+http://nitro.ltd:25461/Edward/Edward/39695
+#EXTINF:-1,BBC SCOTLAND FHD
+http://nitro.ltd:25461/Edward/Edward/39722
+#EXTINF:-1,BBC TWO ENGLAND
+http://nitro.ltd:25461/Edward/Edward/39694
+#EXTINF:-1,BBC TWO NORTHEN IRELAND
+http://nitro.ltd:25461/Edward/Edward/39693
+#EXTINF:-1,BBC TWO SCOTLAND
+http://nitro.ltd:25461/Edward/Edward/39692
+#EXTINF:-1,BBC TWO WALES
+http://nitro.ltd:25461/Edward/Edward/39691
+#EXTINF:-1,CHANNEL 4 FHD
+http://nitro.ltd:25461/Edward/Edward/39721
+#EXTINF:-1,CHANNEL 4 MIDLANDS
+http://nitro.ltd:25461/Edward/Edward/39690
+#EXTINF:-1,CHANNEL 4 NORTH
+http://nitro.ltd:25461/Edward/Edward/39689
+#EXTINF:-1,CHANNEL 4 NORTH 1
+http://nitro.ltd:25461/Edward/Edward/39688
+#EXTINF:-1,CHANNEL 4 NORTHEN IRELAND
+http://nitro.ltd:25461/Edward/Edward/39687
+#EXTINF:-1,CHANNEL 4 SCOTLAND
+http://nitro.ltd:25461/Edward/Edward/39686
+#EXTINF:-1,CHANNEL 4 SCOTLANND 1
+http://nitro.ltd:25461/Edward/Edward/39685
+#EXTINF:-1,CHANNEL 4 SOUTH AND EAST
+http://nitro.ltd:25461/Edward/Edward/39684
+#EXTINF:-1,CHANNEL 4 SOUTH AND EAST 1
+http://nitro.ltd:25461/Edward/Edward/39683
+#EXTINF:-1,CHANNEL 5  1
+http://nitro.ltd:25461/Edward/Edward/39682
+#EXTINF:-1,CHANNEL 5 FHD
+http://nitro.ltd:25461/Edward/Edward/39720
+#EXTINF:-1,TV BORDER SCOTLAND
+http://nitro.ltd:25461/Edward/Edward/39649
+#EXTINF:-1,UTV 1
+http://nitro.ltd:25461/Edward/Edward/39648
+#EXTINF:-1,UTV ULSTER
+http://nitro.ltd:25461/Edward/Edward/39647
+#EXTINF:-1,STV CENTRAL WEST
+http://nitro.ltd:25461/Edward/Edward/39651
+#EXTINF:-1,STV NORTH
+http://nitro.ltd:25461/Edward/Edward/39650
