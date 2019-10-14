@@ -1,139 +1,177 @@
 #EXTM3U
-#EXTINF:-1,TVC
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/18884.m3u8
-#EXTINF:-1,RTP 1
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4776.m3u8
-#EXTINF:-1,RTP 2
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4777.m3u8
-#EXTINF:-1,RTP 3
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4778.m3u8
-#EXTINF:-1,RTP Africa
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4808.m3u8
-#EXTINF:-1,RTP AÇORES
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4809.m3u8
-#EXTINF:-1,RTP Madeira
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4806.m3u8
-#EXTINF:-1,RTP Memoria
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4805.m3u8
-#EXTINF:-1,RTP Internacional
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4807.m3u8
-#EXTINF:-1,TVI
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4783.m3u8
-#EXTINF:-1,TVI FICÇÃO
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4781.m3u8
-#EXTINF:-1,TVI Reality
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4780.m3u8
-#EXTINF:-1,TV Record
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4790.m3u8
-#EXTINF:-1,TV Globo
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4788.m3u8
-#EXTINF:-1,TV Globo Premium
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4789.m3u8
-#EXTINF:-1,TVI 24
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4782.m3u8
-#EXTINF:-1,SIC
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4779.m3u8
-#EXTINF:-1,Sic Caras
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4803.m3u8
-#EXTINF:-1,SIC NOTÍCIAS
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4800.m3u8
-#EXTINF:-1,SIC MULHER
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4801.m3u8
-#EXTINF:-1,Sic Radical
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4799.m3u8
-#EXTINF:-1,Sic Kids
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4802.m3u8
-#EXTINF:-1,SBT Brasil
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4804.m3u8
-#EXTINF:-1,TV Cine 1
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4784.m3u8
-#EXTINF:-1,TVCine 2
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4785.m3u8
-#EXTINF:-1,TV Cine 3
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4786.m3u8
-#EXTINF:-1,TV Cine 4
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4787.m3u8
-#EXTINF:-1,Cinemundo
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4832.m3u8
-#EXTINF:-1,Fox
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4823.m3u8
-#EXTINF:-1,Fox Comedy
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4822.m3u8
-#EXTINF:-1,Fox Crime
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4821.m3u8
-#EXTINF:-1,Fox Movies
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4819.m3u8
-#EXTINF:-1,Fox Life
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4820.m3u8
-#EXTINF:-1,Sport TV 1
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4798.m3u8
-#EXTINF:-1,Sport TV 2
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4797.m3u8
-#EXTINF:-1,Sport TV 3
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4796.m3u8
-#EXTINF:-1,Sport TV 4
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4795.m3u8
-#EXTINF:-1,Sport TV 5
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4794.m3u8
-#EXTINF:-1,Sporting TV
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4793.m3u8
-#EXTINF:-1,Benfica TV1
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4839.m3u8
-#EXTINF:-1,Eurosport 1
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4826.m3u8
-#EXTINF:-1,EuroSport 2
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4825.m3u8
 #EXTINF:-1,Porto Canal
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4810.m3u8
-#EXTINF:-1,TLC
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4791.m3u8
-#EXTINF:-1,SYSF
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4792.m3u8
+http://nitro.ltd:25461/Edward/Edward/3491
 #EXTINF:-1,PFC
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4811.m3u8
-#EXTINF:-1,Nickeloden
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4812.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4813.m3u8
-#EXTINF:-1,Nat geo
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4814.m3u8
-#EXTINF:-1,Motorsport TV
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4816.m3u8
-#EXTINF:-1,Jim Jam
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4817.m3u8
-#EXTINF:-1,Hollywood
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4818.m3u8
-#EXTINF:-1,E! Entertainment
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4827.m3u8
-#EXTINF:-1,Disney Junior
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4828.m3u8
-#EXTINF:-1,Discovery Showcase
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4829.m3u8
-#EXTINF:-1,Discovery Channel
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4830.m3u8
-#EXTINF:-1,CM TV
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4831.m3u8
-#EXTINF:-1,Cartoon Network
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4834.m3u8
-#EXTINF:-1,Canal Q
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4835.m3u8
-#EXTINF:-1,Canal Panda
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4836.m3u8
-#EXTINF:-1,Caca & Pesca
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4837.m3u8
-#EXTINF:-1,Biggs
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4838.m3u8
-#EXTINF:-1,Baby TV
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4841.m3u8
-#EXTINF:-1,AXN White
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4842.m3u8
-#EXTINF:-1,AXN Black
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4843.m3u8
-#EXTINF:-1,AXN
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4844.m3u8
-#EXTINF:-1,AMC
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4845.m3u8
+http://nitro.ltd:25461/Edward/Edward/3492
+#EXTINF:-1,TCV Cabo Verde
+http://nitro.ltd:25461/Edward/Edward/21748
 #EXTINF:-1,24 KITCHEN
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4847.m3u8
+http://nitro.ltd:25461/Edward/Edward/3518
+#EXTINF:-1,A Bola TV
+http://nitro.ltd:25461/Edward/Edward/3543
+#EXTINF:-1,A&E
+http://nitro.ltd:25461/Edward/Edward/3542
+#EXTINF:-1,AMC
+http://nitro.ltd:25461/Edward/Edward/3541
+#EXTINF:-1,ARTV
+http://nitro.ltd:25461/Edward/Edward/3540
+#EXTINF:-1,AXN Black HD
+http://nitro.ltd:25461/Edward/Edward/3539
+#EXTINF:-1,AXN HD
+http://nitro.ltd:25461/Edward/Edward/3538
+#EXTINF:-1,AXN White HD
+http://nitro.ltd:25461/Edward/Edward/3537
+#EXTINF:-1,Baby TV
+http://nitro.ltd:25461/Edward/Edward/3536
+#EXTINF:-1,Caça e Pesca
+http://nitro.ltd:25461/Edward/Edward/3532
+#EXTINF:-1,Caçavision
+http://nitro.ltd:25461/Edward/Edward/3531
+#EXTINF:-1,Canal Panda
+http://nitro.ltd:25461/Edward/Edward/3530
+#EXTINF:-1,Canal Q
+http://nitro.ltd:25461/Edward/Edward/3529
+#EXTINF:-1,Cançao Nova
+http://nitro.ltd:25461/Edward/Edward/3528
+#EXTINF:-1,CBS Reality
+http://nitro.ltd:25461/Edward/Edward/3526
+#EXTINF:-1,Cine Mundo
+http://nitro.ltd:25461/Edward/Edward/3525
+#EXTINF:-1,CM TV
+http://nitro.ltd:25461/Edward/Edward/3524
+#EXTINF:-1,Discovery Channel
+http://nitro.ltd:25461/Edward/Edward/3523
+#EXTINF:-1,Discovery Showcase
+http://nitro.ltd:25461/Edward/Edward/3522
+#EXTINF:-1,DISNEY CHANNEL
+http://nitro.ltd:25461/Edward/Edward/3515
+#EXTINF:-1,Disney junior
+http://nitro.ltd:25461/Edward/Edward/3521
+#EXTINF:-1,E! ENTERTAINMENT
+http://nitro.ltd:25461/Edward/Edward/3520
+#EXTINF:-1,EUROSPORT 1 HD 1080
+http://nitro.ltd:25461/Edward/Edward/3517
+#EXTINF:-1,EUROSPORT 2 HD
+http://nitro.ltd:25461/Edward/Edward/3516
+#EXTINF:-1,FOX COMEDY HD
+http://nitro.ltd:25461/Edward/Edward/3513
+#EXTINF:-1,Fox Crime
+http://nitro.ltd:25461/Edward/Edward/3512
+#EXTINF:-1,Fox HD
+http://nitro.ltd:25461/Edward/Edward/3511
+#EXTINF:-1,Fox Life
+http://nitro.ltd:25461/Edward/Edward/3510
+#EXTINF:-1,Fox Movies
+http://nitro.ltd:25461/Edward/Edward/3509
 #EXTINF:-1,Fuel TV
-http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8950.m3u8
+http://nitro.ltd:25461/Edward/Edward/3508
+#EXTINF:-1,Historia
+http://nitro.ltd:25461/Edward/Edward/3507
+#EXTINF:-1,Hollywood
+http://nitro.ltd:25461/Edward/Edward/3506
+#EXTINF:-1,JimJam
+http://nitro.ltd:25461/Edward/Edward/3505
+#EXTINF:-1,Kombat Sports
+http://nitro.ltd:25461/Edward/Edward/3504
+#EXTINF:-1,Motors TV
+http://nitro.ltd:25461/Edward/Edward/3502
+#EXTINF:-1,MTV
+http://nitro.ltd:25461/Edward/Edward/3499
+#EXTINF:-1,Nat Geo Wild
+http://nitro.ltd:25461/Edward/Edward/3498
+#EXTINF:-1,National Geographic
+http://nitro.ltd:25461/Edward/Edward/3497
+#EXTINF:-1,NICKELODEON
+http://nitro.ltd:25461/Edward/Edward/3496
+#EXTINF:-1,Odisseia
+http://nitro.ltd:25461/Edward/Edward/3495
+#EXTINF:-1,PANDA BIGGS
+http://nitro.ltd:25461/Edward/Edward/3493
+#EXTINF:-1,Record News
+http://nitro.ltd:25461/Edward/Edward/3490
+#EXTINF:-1,RTP 1
+http://nitro.ltd:25461/Edward/Edward/3489
+#EXTINF:-1,RTP 2
+http://nitro.ltd:25461/Edward/Edward/3488
+#EXTINF:-1,RTP 3
+http://nitro.ltd:25461/Edward/Edward/3487
+#EXTINF:-1,RTP Acores
+http://nitro.ltd:25461/Edward/Edward/3486
+#EXTINF:-1,RTP ï¿½FRICA
+http://nitro.ltd:25461/Edward/Edward/3485
+#EXTINF:-1,RTP Internacional
+http://nitro.ltd:25461/Edward/Edward/3484
+#EXTINF:-1,RTP MADEIRA
+http://nitro.ltd:25461/Edward/Edward/3483
+#EXTINF:-1,RTP Memoria
+http://nitro.ltd:25461/Edward/Edward/3482
+#EXTINF:-1,SIC
+http://nitro.ltd:25461/Edward/Edward/3481
+#EXTINF:-1,SIC CARAS
+http://nitro.ltd:25461/Edward/Edward/3480
+#EXTINF:-1,SIC KIDS
+http://nitro.ltd:25461/Edward/Edward/3479
+#EXTINF:-1,SIC MULHER
+http://nitro.ltd:25461/Edward/Edward/3478
+#EXTINF:-1,SIC Noticias
+http://nitro.ltd:25461/Edward/Edward/3477
+#EXTINF:-1,SIC Radical
+http://nitro.ltd:25461/Edward/Edward/3476
+#EXTINF:-1,Sport TV
+http://nitro.ltd:25461/Edward/Edward/3475
+#EXTINF:-1,Sport TV 1 HD
+http://nitro.ltd:25461/Edward/Edward/3474
+#EXTINF:-1,Sport TV 2 HD
+http://nitro.ltd:25461/Edward/Edward/3473
+#EXTINF:-1,Sport TV 3 HD
+http://nitro.ltd:25461/Edward/Edward/3472
+#EXTINF:-1,Sport TV 4 HD
+http://nitro.ltd:25461/Edward/Edward/3471
+#EXTINF:-1,Sport TV 5 HD
+http://nitro.ltd:25461/Edward/Edward/3470
+#EXTINF:-1,Sporting TV HD 1080
+http://nitro.ltd:25461/Edward/Edward/3469
+#EXTINF:-1,Benfica TV 1 HD
+http://nitro.ltd:25461/Edward/Edward/3535
+#EXTINF:-1,Eleven Sports 1 HD
+http://nitro.ltd:25461/Edward/Edward/41457
+#EXTINF:-1,Eleven Sports 2 HD
+http://nitro.ltd:25461/Edward/Edward/41456
+#EXTINF:-1,Eleven Sports 3 HD
+http://nitro.ltd:25461/Edward/Edward/41455
+#EXTINF:-1,Eleven Sports 4 HD
+http://nitro.ltd:25461/Edward/Edward/41454
+#EXTINF:-1,Eleven Sports 5 HD
+http://nitro.ltd:25461/Edward/Edward/41453
+#EXTINF:-1,Eleven Sports 6 HD
+http://nitro.ltd:25461/Edward/Edward/41452
+#EXTINF:-1,SYFY
+http://nitro.ltd:25461/Edward/Edward/3468
+#EXTINF:-1,TLC
+http://nitro.ltd:25461/Edward/Edward/3467
+#EXTINF:-1,Trace Urban
+http://nitro.ltd:25461/Edward/Edward/3466
+#EXTINF:-1,Travel Channel
+http://nitro.ltd:25461/Edward/Edward/3465
+#EXTINF:-1,TV Globo
+http://nitro.ltd:25461/Edward/Edward/3464
+#EXTINF:-1,TV Record
+http://nitro.ltd:25461/Edward/Edward/3463
+#EXTINF:-1,TV SERIES
+http://nitro.ltd:25461/Edward/Edward/3462
+#EXTINF:-1,TVCine 1
+http://nitro.ltd:25461/Edward/Edward/3461
+#EXTINF:-1,TVCine 2
+http://nitro.ltd:25461/Edward/Edward/3460
+#EXTINF:-1,TVCine 3
+http://nitro.ltd:25461/Edward/Edward/3459
+#EXTINF:-1,TVCine 4
+http://nitro.ltd:25461/Edward/Edward/3458
+#EXTINF:-1,TVI
+http://nitro.ltd:25461/Edward/Edward/3457
+#EXTINF:-1,TVI 24
+http://nitro.ltd:25461/Edward/Edward/3456
+#EXTINF:-1,TVI REALITY
+http://nitro.ltd:25461/Edward/Edward/3455
+#EXTINF:-1,VH1
+http://nitro.ltd:25461/Edward/Edward/3519
