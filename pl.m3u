@@ -1,29 +1,195 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidepoland.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rrukOU4.png" group-title="",dlaCiebie TV
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Hope.png" group-title="",Hope Channel
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YUY1nca.png" group-title="",Sfera TV
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/911157852294787072/K-mU7Tn__400x400.jpg" group-title="",Telewizja Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="",Telewizja Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BLFrhLJ.png" group-title="XXX",Zest TV
-http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTM3U
+#EXTINF:-1,TVP 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8436.m3u8
+#EXTINF:-1,TVP 1 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8437.m3u8
+#EXTINF:-1,TVP 1 HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19067.m3u8
+#EXTINF:-1,TVP 2 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8855.m3u8
+#EXTINF:-1,TVP 2 HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19068.m3u8
+#EXTINF:-1,TVP 3 Warszawa HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8965.m3u8
+#EXTINF:-1,TVP Info 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19069.m3u8
+#EXTINF:-1,TVP Polonia
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8856.m3u8
+#EXTINF:-1,TVP ABC HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8438.m3u8
+#EXTINF:-1,TVP Kultura HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8439.m3u8
+#EXTINF:-1,TVP Rozrywka HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8440.m3u8
+#EXTINF:-1,TVP Seriale HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8441.m3u8
+#EXTINF:-1,TVP Historia HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19070.m3u8
+#EXTINF:-1,TVN 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8442.m3u8
+#EXTINF:-1,TVN HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19071.m3u8
+#EXTINF:-1,TVN 7 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8444.m3u8
+#EXTINF:-1,TVN 7 HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19072.m3u8
+#EXTINF:-1,TVN 24 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8443.m3u8
+#EXTINF:-1,TVN 24 HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19073.m3u8
+#EXTINF:-1,TVN Style 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8445.m3u8
+#EXTINF:-1,TVN Turbo 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8446.m3u8
+#EXTINF:-1,TVN 24 BIS 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19075.m3u8
+#EXTINF:-1,TVN 24 BIS HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19076.m3u8
+#EXTINF:-1,TVN Style HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19074.m3u8
+#EXTINF:-1,TVN Fabula 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19077.m3u8
+#EXTINF:-1,TVS HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8450.m3u8
+#EXTINF:-1,TV 4 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8448.m3u8
+#EXTINF:-1,TV 6 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8449.m3u8
+#EXTINF:-1,TV Republika HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8451.m3u8
+#EXTINF:-1,TV Puls 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8452.m3u8
+#EXTINF:-1,TV Puls 2 HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8474.m3u8
+#EXTINF:-1,Polsat 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8453.m3u8
+#EXTINF:-1,Polsat HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19078.m3u8
+#EXTINF:-1,Polsat 2 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8454.m3u8
+#EXTINF:-1,Polsat News 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8456.m3u8
+#EXTINF:-1,Polsat News 2 HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19079.m3u8
+#EXTINF:-1,Polsat Café 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8455.m3u8
+#EXTINF:-1,Polsat Play 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8457.m3u8
+#EXTINF:-1,Polsat Film 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19081.m3u8
+#EXTINF:-1,Polsat Film HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19082.m3u8
+#EXTINF:-1,Polsat Romans HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19080.m3u8
+#EXTINF:-1,Polsat Sport 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19088.m3u8
+#EXTINF:-1,Polsat Sport HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8458.m3u8
+#EXTINF:-1,Polsat Sport Extra 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19090.m3u8
+#EXTINF:-1,Polsat Sport Extra HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8459.m3u8
+#EXTINF:-1,Polsat Sport Fight 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19083.m3u8
+#EXTINF:-1,Polsat Sport Fight HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19087.m3u8
+#EXTINF:-1,Polsat Sport News 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19084.m3u8
+#EXTINF:-1,Polsat Viasat Explore 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8461.m3u8
+#EXTINF:-1,Polsat Viasat History 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19091.m3u8
+#EXTINF:-1,Polsat Viasat Nature 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19092.m3u8
+#EXTINF:-1,Polsat Doku 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19089.m3u8
+#EXTINF:-1,Super Polsat 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8460.m3u8
+#EXTINF:-1,Polsat Jim Jam HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19085.m3u8
+#EXTINF:-1,Polsat Music 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19086.m3u8
+#EXTINF:-1,Canal+ HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8464.m3u8
+#EXTINF:-1,Canal+ Film HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8462.m3u8
+#EXTINF:-1,Canal+ Family HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8463.m3u8
+#EXTINF:-1,Canal+ Seriale HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8465.m3u8
+#EXTINF:-1,Canal+ Sport HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8466.m3u8
+#EXTINF:-1,Canal+ Sport 2 HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8467.m3u8
+#EXTINF:-1,Filmbox HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8468.m3u8
+#EXTINF:-1,Filmbox Premium HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8472.m3u8
+#EXTINF:-1,Filmbox Action HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8469.m3u8
+#EXTINF:-1,Filmbox Family HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8471.m3u8
+#EXTINF:-1,Filmbox Arthouse HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8470.m3u8
+#EXTINF:-1,Ale Kino+ HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8475.m3u8
+#EXTINF:-1,Disney XD HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8476.m3u8
+#EXTINF:-1,Disney Channel 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8483.m3u8
+#EXTINF:-1,MiniMini HD
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/26165.m3u8
+#EXTINF:-1,CBS Action HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8477.m3u8
+#EXTINF:-1,CBS Reality HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8482.m3u8
+#EXTINF:-1,AXN 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8478.m3u8
+#EXTINF:-1,AXN White HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8481.m3u8
+#EXTINF:-1,AXN Black HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8479.m3u8
+#EXTINF:-1,AXN Spin 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8480.m3u8
+#EXTINF:-1,Discovery Channel 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8484.m3u8
+#EXTINF:-1,Discovery Historia HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8485.m3u8
+#EXTINF:-1,Discovery Life 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8486.m3u8
+#EXTINF:-1,Discovery Science 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/15768.m3u8
+#EXTINF:-1,Nat Geo 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8490.m3u8
+#EXTINF:-1,Nat Geo Wild HD+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8491.m3u8
+#EXTINF:-1,Nat Geo People 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/19094.m3u8
+#EXTINF:-1,History Channel 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8493.m3u8
+#EXTINF:-1,Animal Planet 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8492.m3u8
+#EXTINF:-1,Planete 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8494.m3u8
+#EXTINF:-1,Eleven Sport 1 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8501.m3u8
+#EXTINF:-1,Eleven Sport 2 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8502.m3u8
+#EXTINF:-1,E! Entertainment 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8500.m3u8
+#EXTINF:-1,Eleven Sport 3 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/15769.m3u8
+#EXTINF:-1,Eleven Sport 4 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/15770.m3u8
+#EXTINF:-1,nSport+ 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8496.m3u8
+#EXTINF:-1,TVP Sport 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8966.m3u8
+#EXTINF:-1,Kuchina+ 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8495.m3u8
+#EXTINF:-1,AMC 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8499.m3u8
+#EXTINF:-1,Romance TV 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8498.m3u8
+#EXTINF:-1,Teletoon 4K+
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8497.m3u8

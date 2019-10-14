@@ -1,363 +1,139 @@
 #EXTM3U
-#EXTINF:-1,RTP INTERNACIONAL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/44498.m3u8
-#EXTINF:-1,RTP 1 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90730.m3u8
-#EXTINF:-1,RTP 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7276.m3u8
-#EXTINF:-1,RTP 1 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/24071.m3u8
-#EXTINF:-1,RTP 2 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90729.m3u8
-#EXTINF:-1,RTP 2 HD 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/24069.m3u8
+#EXTINF:-1,TVC
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/18884.m3u8
+#EXTINF:-1,RTP 1
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4776.m3u8
 #EXTINF:-1,RTP 2
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7275.m3u8
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4777.m3u8
 #EXTINF:-1,RTP 3
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7274.m3u8
-#EXTINF:-1,PORTO CANAL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7277.m3u8
-#EXTINF:-1,RTP ACORES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7273.m3u8
-#EXTINF:-1,RTP AFRICA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7272.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7271.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7270.m3u8
-#EXTINF:-1,TV RECORD HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7252.m3u8
-#EXTINF:-1,TV RECORD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/32912.m3u8
-#EXTINF:-1,NOS STUDIOS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/75223.m3u8
-#EXTINF:-1,ZAP VIVA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/75224.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7308.m3u8
-#EXTINF:-1,TCV CABO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/86460.m3u8
-#EXTINF:-1,GLOBO INTERNACIONAL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/79655.m3u8
-#EXTINF:-1,TV GLOBO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7285.m3u8
-#EXTINF:-1,TV GLOBO NOW
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7284.m3u8
-#EXTINF:-1,SIC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7269.m3u8
-#EXTINF:-1,SIC HD +
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/24072.m3u8
-#EXTINF:-1,SIC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/24073.m3u8
-#EXTINF:-1,SIC CARAS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7246.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/25356.m3u8
-#EXTINF:-1,SIC K
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7268.m3u8
-#EXTINF:-1,SIC MULHER
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7267.m3u8
-#EXTINF:-1,SIC RADICAL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7266.m3u8
-#EXTINF:-1,CMTV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7295.m3u8
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4778.m3u8
+#EXTINF:-1,RTP Africa
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4808.m3u8
+#EXTINF:-1,RTP AÇORES
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4809.m3u8
+#EXTINF:-1,RTP Madeira
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4806.m3u8
+#EXTINF:-1,RTP Memoria
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4805.m3u8
+#EXTINF:-1,RTP Internacional
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4807.m3u8
 #EXTINF:-1,TVI
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7250.m3u8
-#EXTINF:-1,TVI HD +
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/24074.m3u8
-#EXTINF:-1,TVI FICCAO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7249.m3u8
-#EXTINF:-1,TVI REALITY
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7248.m3u8
-#EXTINF:-1,TVI24
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7247.m3u8
-#EXTINF:-1,CANAL Q
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7298.m3u8
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4783.m3u8
+#EXTINF:-1,TVI FICÇÃO
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4781.m3u8
+#EXTINF:-1,TVI Reality
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4780.m3u8
+#EXTINF:-1,TV Record
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4790.m3u8
+#EXTINF:-1,TV Globo
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4788.m3u8
+#EXTINF:-1,TV Globo Premium
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4789.m3u8
+#EXTINF:-1,TVI 24
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4782.m3u8
+#EXTINF:-1,SIC
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4779.m3u8
+#EXTINF:-1,Sic Caras
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4803.m3u8
+#EXTINF:-1,SIC NOTÍCIAS
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4800.m3u8
+#EXTINF:-1,SIC MULHER
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4801.m3u8
+#EXTINF:-1,Sic Radical
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4799.m3u8
+#EXTINF:-1,Sic Kids
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4802.m3u8
+#EXTINF:-1,SBT Brasil
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4804.m3u8
+#EXTINF:-1,TV Cine 1
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4784.m3u8
+#EXTINF:-1,TVCine 2
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4785.m3u8
+#EXTINF:-1,TV Cine 3
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4786.m3u8
+#EXTINF:-1,TV Cine 4
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4787.m3u8
+#EXTINF:-1,Cinemundo
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4832.m3u8
+#EXTINF:-1,Fox
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4823.m3u8
+#EXTINF:-1,Fox Comedy
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4822.m3u8
+#EXTINF:-1,Fox Crime
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4821.m3u8
+#EXTINF:-1,Fox Movies
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4819.m3u8
+#EXTINF:-1,Fox Life
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4820.m3u8
+#EXTINF:-1,Sport TV 1
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4798.m3u8
+#EXTINF:-1,Sport TV 2
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4797.m3u8
+#EXTINF:-1,Sport TV 3
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4796.m3u8
+#EXTINF:-1,Sport TV 4
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4795.m3u8
+#EXTINF:-1,Sport TV 5
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4794.m3u8
+#EXTINF:-1,Sporting TV
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4793.m3u8
+#EXTINF:-1,Benfica TV1
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4839.m3u8
+#EXTINF:-1,Eurosport 1
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4826.m3u8
+#EXTINF:-1,EuroSport 2
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4825.m3u8
+#EXTINF:-1,Porto Canal
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4810.m3u8
 #EXTINF:-1,TLC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7258.m3u8
-#EXTINF:-1,BLAZE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40317.m3u8
-#EXTINF:-1,CBS REALITY
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40314.m3u8
-#EXTINF:-1,FASHION TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40312.m3u8
-#EXTINF:-1,LOCALVISSAO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40316.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40313.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40307.m3u8
-#EXTINF:-1,MY CUISINE TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40304.m3u8
-#EXTINF:-1,SANTUARIO DE FATIMA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40303.m3u8
-#EXTINF:-1,KURIAKOS TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40305.m3u8
-#EXTINF:-1,ODISSEIA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40311.m3u8
-#EXTINF:-1,FINE LIVING FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40306.m3u8
-#EXTINF:-1,FOX HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7289.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7288.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7287.m3u8
-#EXTINF:-1,FOX NEWS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7286.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7290.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7291.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7280.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40310.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7294.m3u8
-#EXTINF:-1,CI INVESTIGATION
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40308.m3u8
-#EXTINF:-1,HISTORIA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7283.m3u8
-#EXTINF:-1,TRAVEL CHANNEL  HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7257.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40325.m3u8
-#EXTINF:-1,24KITCHEN HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7310.m3u8
-#EXTINF:-1,CACE E  PESCA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7301.m3u8
-#EXTINF:-1,CACAVISION
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40309.m3u8
-#EXTINF:-1,BABYFIRST
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7304.m3u8
-#EXTINF:-1,CANAL BIGGS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7303.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7296.m3u8
-#EXTINF:-1,CANAL PANDA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7299.m3u8
-#EXTINF:-1,JIM JAM
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7282.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7292.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7293.m3u8
-#EXTINF:-1,NICKELODEON
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7279.m3u8
-#EXTINF:-1,KURIAKOS KIDS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40320.m3u8
-#EXTINF:-1,BTV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/78410.m3u8
-#EXTINF:-1,BTV 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7302.m3u8
-#EXTINF:-1,PFC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7278.m3u8
-#EXTINF:-1,SPORT TV 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7265.m3u8
-#EXTINF:-1,SPORTING TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7259.m3u8
-#EXTINF:-1,A BOLA TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7309.m3u8
-#EXTINF:-1,SPORT TV 1 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90727.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7264.m3u8
-#EXTINF:-1,SPORT TV 2 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90726.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7263.m3u8
-#EXTINF:-1,SPORT TV 3 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90725.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7262.m3u8
-#EXTINF:-1,SPORT TV 4 HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90724.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7261.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7260.m3u8
-#EXTINF:-1,SPORT TV NBA HD 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90723.m3u8
-#EXTINF:-1,SPORT TV NBA HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90722.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40324.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40337.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40336.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40335.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40334.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40333.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40332.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40331.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40329.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40327.m3u8
-#EXTINF:-1,MOTORVISION
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7281.m3u8
-#EXTINF:-1,AXN HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7306.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7307.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7305.m3u8
-#EXTINF:-1,TV SERIES HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7251.m3u8
-#EXTINF:-1,CANAL HOLLYWOOD HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40323.m3u8
-#EXTINF:-1,CINEMUNDO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40319.m3u8
-#EXTINF:-1,TV CINE 1 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90720.m3u8
-#EXTINF:-1,TV CINE 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7256.m3u8
-#EXTINF:-1,TV CINE 2 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90719.m3u8
-#EXTINF:-1,TV CINE 2 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7255.m3u8
-#EXTINF:-1,TV CINE 3 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90718.m3u8
-#EXTINF:-1,TV CINE 3 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7254.m3u8
-#EXTINF:-1,TV CINE 4 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90717.m3u8
-#EXTINF:-1,TV CINE 4 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7253.m3u8
-#EXTINF:-1,AMC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40322.m3u8
-#EXTINF:-1,SYFY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40321.m3u8
-#EXTINF:-1,CANCAO NOVA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7297.m3u8
-#EXTINF:-1,TRACE TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40302.m3u8
-#EXTINF:-1,ICONCERTS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40301.m3u8
-#EXTINF:-1,MCM POP
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40299.m3u8
-#EXTINF:-1,MCM TOP
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40298.m3u8
-#EXTINF:-1,MEZZO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40297.m3u8
-#EXTINF:-1,MTV DANCE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40296.m3u8
-#EXTINF:-1,MTV PORTUGAL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40295.m3u8
-#EXTINF:-1,VH1
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40294.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40293.m3u8
-#EXTINF:-1,AE PORTUGAL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54151.m3u8
-#EXTINF:-1,AR TV CANAL PARLEMENTO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54150.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/40315.m3u8
-#EXTINF:-1,BENFICA TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54152.m3u8
-#EXTINF:-1,BLOOMBERG TV EUROPE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54153.m3u8
-#EXTINF:-1,CANAL NOS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54154.m3u8
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4791.m3u8
+#EXTINF:-1,SYSF
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4792.m3u8
+#EXTINF:-1,PFC
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4811.m3u8
+#EXTINF:-1,Nickeloden
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4812.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4813.m3u8
+#EXTINF:-1,Nat geo
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4814.m3u8
+#EXTINF:-1,Motorsport TV
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4816.m3u8
+#EXTINF:-1,Jim Jam
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4817.m3u8
+#EXTINF:-1,Hollywood
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4818.m3u8
+#EXTINF:-1,E! Entertainment
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4827.m3u8
+#EXTINF:-1,Disney Junior
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4828.m3u8
+#EXTINF:-1,Discovery Showcase
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4829.m3u8
+#EXTINF:-1,Discovery Channel
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4830.m3u8
 #EXTINF:-1,CM TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54155.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54157.m3u8
-#EXTINF:-1,EURO NEWS PORTUGUES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54158.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54159.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54160.m3u8
-#EXTINF:-1,FOX
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54162.m3u8
-#EXTINF:-1,FOX MOVIES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54161.m3u8
-#EXTINF:-1,FUEL TV EUROPE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54163.m3u8
-#EXTINF:-1,GALICIA TV EUROPA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54164.m3u8
-#EXTINF:-1,NBA SPORT HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/45344.m3u8
-#EXTINF:-1,TLC PAN REGIONAL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54166.m3u8
-#EXTINF:-1,TVE INTERNATIONAL EUROPA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/54167.m3u8
-#EXTINF:-1,11 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90760.m3u8
-#EXTINF:-1,11 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90759.m3u8
-#EXTINF:-1,24 KITCHEN HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90758.m3u8
-#EXTINF:-1,AXN BLACK HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90757.m3u8
-#EXTINF:-1,AXN HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90756.m3u8
-#EXTINF:-1,AXN WHITE HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90755.m3u8
-#EXTINF:-1,BABY TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90754.m3u8
-#EXTINF:-1,BIGGS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90753.m3u8
-#EXTINF:-1,BTV HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90752.m3u8
-#EXTINF:-1,CNBC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90750.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90749.m3u8
-#EXTINF:-1,DISCOVERY HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90748.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90747.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90746.m3u8
-#EXTINF:-1,CMTV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90751.m3u8
-#EXTINF:-1,EUROCHANNEL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90745.m3u8
-#EXTINF:-1,EUROSPORT 1 HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90744.m3u8
-#EXTINF:-1,FOX CRIME HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90743.m3u8
-#EXTINF:-1,FOX HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90742.m3u8
-#EXTINF:-1,FOX LIFE HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90741.m3u8
-#EXTINF:-1,FTV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90740.m3u8
-#EXTINF:-1,HOLLYWOOD HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90738.m3u8
-#EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90737.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90736.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90735.m3u8
-#EXTINF:-1,NBA TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90734.m3u8
-#EXTINF:-1,NICK JR. 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90733.m3u8
-#EXTINF:-1,NOS STUDIOS HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90732.m3u8
-#EXTINF:-1,PARLAMENTO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90731.m3u8
-#EXTINF:-1,SIC HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90728.m3u8
-#EXTINF:-1,TV GALICIA 
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90721.m3u8
-#EXTINF:-1,TVE 24H
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90716.m3u8
-#EXTINF:-1,TV SERIES HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90715.m3u8
-#EXTINF:-1,VENUS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90714.m3u8
-#EXTINF:-1,ZAP VIVA HD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/90713.m3u8
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4831.m3u8
+#EXTINF:-1,Cartoon Network
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4834.m3u8
+#EXTINF:-1,Canal Q
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4835.m3u8
+#EXTINF:-1,Canal Panda
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4836.m3u8
+#EXTINF:-1,Caca & Pesca
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4837.m3u8
+#EXTINF:-1,Biggs
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4838.m3u8
+#EXTINF:-1,Baby TV
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4841.m3u8
+#EXTINF:-1,AXN White
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4842.m3u8
+#EXTINF:-1,AXN Black
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4843.m3u8
+#EXTINF:-1,AXN
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4844.m3u8
+#EXTINF:-1,AMC
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4845.m3u8
+#EXTINF:-1,24 KITCHEN
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/4847.m3u8
+#EXTINF:-1,Fuel TV
+http://31.220.1.135:88/live/p6QIv0O94I/9oe5AVwKGP/8950.m3u8
