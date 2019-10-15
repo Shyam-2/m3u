@@ -1,515 +1,195 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/976.m3u8
-#EXTINF:-1,NPO 2 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/974.m3u8
-#EXTINF:-1,NPO 3 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/973.m3u8
-#EXTINF:-1,RTL 4 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/968.m3u8
-#EXTINF:-1,RTL 5 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/967.m3u8
-#EXTINF:-1,SBS 6 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/961.m3u8
-#EXTINF:-1,RTL 7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/966.m3u8
-#EXTINF:-1,RTL 8 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1019.m3u8
-#EXTINF:-1,RTL CRIME HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2724.m3u8
-#EXTINF:-1,RTL LOUNGE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1175.m3u8
-#EXTINF:-1,RTL Z HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1272.m3u8
-#EXTINF:-1,SBS 9 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/960.m3u8
-#EXTINF:-1,FOX HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/990.m3u8
-#EXTINF:-1,VERONICA HD /DISNEY XD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/950.m3u8
-#EXTINF:-1,NET 5  HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/979.m3u8
-#EXTINF:-1,BVN
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50309.m3u8
-#EXTINF:-1,CBS REALITY
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3653.m3u8
+#EXTINF:-1,ZIGGO SPORT Voetbal HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/820.ts
+#EXTINF:-1,Ziggo Sport Select HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/821.ts
+#EXTINF:-1,Ziggo Sport Racing HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/822.ts
+#EXTINF:-1,Ziggo Sport HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/823.ts
+#EXTINF:-1,ZIGGO SPORT Golf HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/824.ts
+#EXTINF:-1,Ziggo Sport Extra HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/825.ts
+#EXTINF:-1,Ziggo Sport Docu HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/826.ts
+#EXTINF:-1,Xite
+http://live.faucontv.com:8000/live/arbi1/arbi2/827.ts
+#EXTINF:-1,Viceland HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/828.ts
+#EXTINF:-1,VH1 Classic
+http://live.faucontv.com:8000/live/arbi1/arbi2/829.ts
+#EXTINF:-1,Veronica/DisneyXD HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/830.ts
+#EXTINF:-1,TV West
+http://live.faucontv.com:8000/live/arbi1/arbi2/831.ts
+#EXTINF:-1,TV Rijnmond
+http://live.faucontv.com:8000/live/arbi1/arbi2/832.ts
+#EXTINF:-1,TV Oranje
+http://live.faucontv.com:8000/live/arbi1/arbi2/833.ts
+#EXTINF:-1,TV Oost
+http://live.faucontv.com:8000/live/arbi1/arbi2/834.ts
+#EXTINF:-1,TV Noord
+http://live.faucontv.com:8000/live/arbi1/arbi2/835.ts
+#EXTINF:-1,TV Gelderland
+http://live.faucontv.com:8000/live/arbi1/arbi2/836.ts
+#EXTINF:-1,TV Drenthe
+http://live.faucontv.com:8000/live/arbi1/arbi2/837.ts
 #EXTINF:-1,TLC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1193.m3u8
-#EXTINF:-1,BBC ONE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52121.m3u8
-#EXTINF:-1,BBC FIRST HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52120.m3u8
-#EXTINF:-1,BBC THREE / CBBC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52123.m3u8
-#EXTINF:-1,BBC FOUR / CBEEBIES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52122.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52124.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1921.m3u8
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/993.m3u8
-#EXTINF:-1,FILM 1 ACTION HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/995.m3u8
-#EXTINF:-1,FILM 1 FAMILY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/994.m3u8
-#EXTINF:-1,FILM 1 DRAMA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/992.m3u8
-#EXTINF:-1,HBO FILMS 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80065.m3u8
-#EXTINF:-1,HBO HOLLAND 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80843.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/956.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1015.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/957.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1016.m3u8
-#EXTINF:-1,ZIGGO SPORT DOCU HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/26217.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/26218.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/998.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3651.m3u8
-#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1026.m3u8
-#EXTINF:-1,FOX SPORTS 2  HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1025.m3u8
-#EXTINF:-1,FOX SPORTS 3 EREDIVISIE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1024.m3u8
-#EXTINF:-1,FOX SPORTS 4  HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/989.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1023.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1022.m3u8
-#EXTINF:-1,UFC 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77060.m3u8
-#EXTINF:-1,WWE 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80840.m3u8
-#EXTINF:-1,BOXNATION 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80773.m3u8
-#EXTINF:-1,EXTREME SPORTS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2192.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1214.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1616.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1617.m3u8
-#EXTINF:-1,ID HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1229.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1877.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1166.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC WILD HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1213.m3u8
-#EXTINF:-1,LOVE NATURE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84287.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1539.m3u8
-#EXTINF:-1,VICELAND HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3648.m3u8
-#EXTINF:-1,SPIKE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/4064.m3u8
-#EXTINF:-1,HISTORY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/985.m3u8
-#EXTINF:-1,TVELLEF
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/83705.m3u8
-#EXTINF:-1,HORSE & COUNTRY
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3568.m3u8
-#EXTINF:-1,24KITCHEN HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1013.m3u8
-#EXTINF:-1,MR. BEAN CHANNEL 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/49272.m3u8
-#EXTINF:-1,TOM & JERRY CHANNEL 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/49271.m3u8
-#EXTINF:-1,TOM & JERRY CLASSIC (1940-60)
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77058.m3u8
-#EXTINF:-1,TOM & JERRY VERHAALTJES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77056.m3u8
-#EXTINF:-1,TELETUBBIES ANIMATIE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84286.m3u8
-#EXTINF:-1,TELETUBBIES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77052.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/4275.m3u8
-#EXTINF:-1,FAMILY 7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7081.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1004.m3u8
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1879.m3u8
-#EXTINF:-1,BOOMERANG
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1220.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1005.m3u8
-#EXTINF:-1,BABY TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1008.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3232.m3u8
-#EXTINF:-1,NICK MUSIC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1681.m3u8
-#EXTINF:-1,NICK TOONS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/977.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/1020.m3u8
-#EXTINF:-1,RTL TELEKIDS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/965.m3u8
-#EXTINF:-1,PEBBLE TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3569.m3u8
+http://live.faucontv.com:8000/live/arbi1/arbi2/838.ts
+#EXTINF:-1,Spike
+http://live.faucontv.com:8000/live/arbi1/arbi2/839.ts
+#EXTINF:-1,SLAM!
+http://live.faucontv.com:8000/live/arbi1/arbi2/840.ts
+#EXTINF:-1,SBS 9 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/841.ts
+#EXTINF:-1,SBS 6 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/842.ts
+#EXTINF:-1,RTV Utrecht
+http://live.faucontv.com:8000/live/arbi1/arbi2/843.ts
+#EXTINF:-1,RTV 7
+http://live.faucontv.com:8000/live/arbi1/arbi2/844.ts
+#EXTINF:-1,RTL Z
+http://live.faucontv.com:8000/live/arbi1/arbi2/845.ts
+#EXTINF:-1,RTL telekids HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/846.ts
+#EXTINF:-1,RTL Lounge HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/847.ts
+#EXTINF:-1,RTL Crime HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/848.ts
+#EXTINF:-1,RTL 8 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/849.ts
+#EXTINF:-1,RTL 7 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/850.ts
+#EXTINF:-1,RTL 5 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/851.ts
+#EXTINF:-1,RTL 4 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/852.ts
+#EXTINF:-1,Pebble
+http://live.faucontv.com:8000/live/arbi1/arbi2/853.ts
 #EXTINF:-1,ONS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/18683.m3u8
-#EXTINF:-1,NPO 1 EXTRA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13919.m3u8
-#EXTINF:-1,NPO 2 EXTRA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13920.m3u8
-#EXTINF:-1,NPO POLITIEK
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/18682.m3u8
-#EXTINF:-1,BNR TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84290.m3u8
-#EXTINF:-1,NPO NIEUWS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/70083.m3u8
-#EXTINF:-1,SHORTS TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13918.m3u8
-#EXTINF:-1,MYZEN HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13921.m3u8
-#EXTINF:-1,OUT TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13923.m3u8
-#EXTINF:-1,FASHION TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/46872.m3u8
-#EXTINF:-1,AT 5
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2196.m3u8
-#EXTINF:-1,NH NIEUWS
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61345.m3u8
-#EXTINF:-1,TV GELDERLAND
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2197.m3u8
-#EXTINF:-1,TV NOORD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2166.m3u8
-#EXTINF:-1,TV OOST
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2165.m3u8
-#EXTINF:-1,RTV DRENTHE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3650.m3u8
-#EXTINF:-1,RTV UTRECHT
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3567.m3u8
-#EXTINF:-1,L1MBURG
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/26288.m3u8
-#EXTINF:-1,TV WEST
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/26287.m3u8
-#EXTINF:-1,OMROEP FRIESLAND
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84322.m3u8
-#EXTINF:-1,OMROEP BRABANT TELEVISIE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2183.m3u8
-#EXTINF:-1,TV RIJNMOND
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/28507.m3u8
-#EXTINF:-1,XITE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2161.m3u8
-#EXTINF:-1,TV ORANJE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2164.m3u8
-#EXTINF:-1,TV 538
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/953.m3u8
-#EXTINF:-1,SLAM FM
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3645.m3u8
-#EXTINF:-1,192 TV
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/3654.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2187.m3u8
-#EXTINF:-1,MTV MUSIC 24
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/2186.m3u8
-#EXTINF:-1,DANCE TRIPPIN HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/4231.m3u8
-#EXTINF:-1,BRAVA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7080.m3u8
-#EXTINF:-1,100% NL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13924.m3u8
+http://live.faucontv.com:8000/live/arbi1/arbi2/854.ts
+#EXTINF:-1,Omroep Zeeland
+http://live.faucontv.com:8000/live/arbi1/arbi2/855.ts
+#EXTINF:-1,Omroep Friesland
+http://live.faucontv.com:8000/live/arbi1/arbi2/856.ts
+#EXTINF:-1,Omroep Flevoland
+http://live.faucontv.com:8000/live/arbi1/arbi2/857.ts
+#EXTINF:-1,Omroep Brabant
+http://live.faucontv.com:8000/live/arbi1/arbi2/858.ts
+#EXTINF:-1,NPO Zap Extra
+http://live.faucontv.com:8000/live/arbi1/arbi2/859.ts
+#EXTINF:-1,NPO Politiek
+http://live.faucontv.com:8000/live/arbi1/arbi2/860.ts
+#EXTINF:-1,NPO Nieuws
+http://live.faucontv.com:8000/live/arbi1/arbi2/861.ts
+#EXTINF:-1,NPO 3 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/862.ts
+#EXTINF:-1,NPO 2 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/863.ts
+#EXTINF:-1,NPO 1 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/864.ts
+#EXTINF:-1,Nickelodeon
+http://live.faucontv.com:8000/live/arbi1/arbi2/865.ts
+#EXTINF:-1,Nick toons
+http://live.faucontv.com:8000/live/arbi1/arbi2/866.ts
+#EXTINF:-1,Nick Music
+http://live.faucontv.com:8000/live/arbi1/arbi2/867.ts
+#EXTINF:-1,Nick Jr.
+http://live.faucontv.com:8000/live/arbi1/arbi2/868.ts
+#EXTINF:-1,Net 5 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/869.ts
+#EXTINF:-1,National Geographic HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/870.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/871.ts
+#EXTINF:-1,MTV Music 24
+http://live.faucontv.com:8000/live/arbi1/arbi2/872.ts
+#EXTINF:-1,MTV HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/873.ts
+#EXTINF:-1,MTV Brand New
+http://live.faucontv.com:8000/live/arbi1/arbi2/874.ts
 #EXTINF:-1,MEZZO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13927.m3u8
-#EXTINF:-1,MTV BRAND
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13928.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13926.m3u8
-#EXTINF:-1,STINGRAY DJAZZ
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/13925.m3u8
-#EXTINF:-1,SUR| RTV 7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84291.m3u8
-#EXTINF:-1,||CURA|| TELECURACAO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84302.m3u8
-#EXTINF:-1,||ARU|| TELEARUBA
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84301.m3u8
-#EXTINF:-1,DOMMEL & SEMAFOOR 1
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77274.m3u8
-#EXTINF:-1,DOMMEL & SEMAFOOR 2
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81383.m3u8
-#EXTINF:-1,DOLLY EN HAAR VRIENDEN
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84289.m3u8
-#EXTINF:-1,HOOPLAKIDZ
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84288.m3u8
-#EXTINF:-1,KUIFJE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77275.m3u8
-#EXTINF:-1,CALIMERO
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81384.m3u8
-#EXTINF:-1,LOONEY TUNES
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77054.m3u8
-#EXTINF:-1,LOONEY TUNES 2
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81378.m3u8
-#EXTINF:-1,LUCKY LUCK & THE DALTONS 1
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77278.m3u8
-#EXTINF:-1,LUCKY LUCK & THE DALTONS 2
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81377.m3u8
-#EXTINF:-1,PEPPA PIG
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81381.m3u8
-#EXTINF:-1,PINK PANTHER
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81382.m3u8
-#EXTINF:-1,PIPI LANGKOUS 1
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77276.m3u8
-#EXTINF:-1,PIPI LANGKOUS 2
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81385.m3u8
-#EXTINF:-1,POPEYE
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/81379.m3u8
-#EXTINF:-1,NPO 1 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50179.m3u8
-#EXTINF:-1,NPO 2 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50178.m3u8
-#EXTINF:-1,NPO 3 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50177.m3u8
-#EXTINF:-1,RTL 4 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50176.m3u8
-#EXTINF:-1,RTL 5 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50175.m3u8
-#EXTINF:-1,SBS 6 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50171.m3u8
-#EXTINF:-1,RTL 7 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50174.m3u8
-#EXTINF:-1,RTL 8 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50173.m3u8
-#EXTINF:-1,RTL CRIME FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/5311.m3u8
-#EXTINF:-1,RTL LOUNGE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/5310.m3u8
-#EXTINF:-1,RTL Z FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50172.m3u8
-#EXTINF:-1,SBS 9 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50170.m3u8
-#EXTINF:-1,FOX FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50192.m3u8
-#EXTINF:-1,VERONICA FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50167.m3u8
-#EXTINF:-1,NET 5 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50180.m3u8
-#EXTINF:-1,BVN HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52172.m3u8
-#EXTINF:-1,CBS REALITY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52171.m3u8
-#EXTINF:-1,TLC FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50168.m3u8
-#EXTINF:-1,BBC ONE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50917.m3u8
-#EXTINF:-1,BBC FIRST FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50206.m3u8
-#EXTINF:-1,BBC TWO FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50205.m3u8
-#EXTINF:-1,BBC THREE / CBBC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52170.m3u8
-#EXTINF:-1,BBC FOUR / CBEEBIES HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52169.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52168.m3u8
-#EXTINF:-1,E! ENTERTAINMENT FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50199.m3u8
-#EXTINF:-1,FILM 1 PREMIERE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50193.m3u8
-#EXTINF:-1,FILM 1 ACTION FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50196.m3u8
-#EXTINF:-1,FILM 1 DRAMA FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50195.m3u8
-#EXTINF:-1,FILM 1 FAMILY FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50194.m3u8
-#EXTINF:-1,HBO FILMS 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/82201.m3u8
-#EXTINF:-1,HBO HOLLAND 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/82202.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50161.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50160.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50919.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50162.m3u8
-#EXTINF:-1,ZIGGO SPORT DOCU FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50164.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50163.m3u8
-#EXTINF:-1,EUROSPORT1 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50197.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50915.m3u8
-#EXTINF:-1,FOX SPORTS 1 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50191.m3u8
-#EXTINF:-1,FOX SPORTS 2 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50190.m3u8
-#EXTINF:-1,FOX SPORTS 3 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50189.m3u8
-#EXTINF:-1,FOX SPORTS 4 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50188.m3u8
-#EXTINF:-1,FOX SPORTS 5 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50187.m3u8
-#EXTINF:-1,FOX SPORTS 6 FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50186.m3u8
-#EXTINF:-1,UFC 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77061.m3u8
-#EXTINF:-1,WWE 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80841.m3u8
-#EXTINF:-1,BOXNATION 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/80774.m3u8
-#EXTINF:-1,EXTREME SPORTS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52165.m3u8
-#EXTINF:-1,DISCOVERY FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50202.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50201.m3u8
-#EXTINF:-1,DISCOVERY WORLD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61546.m3u8
-#EXTINF:-1,ID FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50184.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52164.m3u8
-#EXTINF:-1,NAT GEO FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50181.m3u8
-#EXTINF:-1,NAT GEO WILD FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50182.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61559.m3u8
-#EXTINF:-1,VICELAND FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50166.m3u8
-#EXTINF:-1,SPIKE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50169.m3u8
-#EXTINF:-1,HISTORY FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50185.m3u8
-#EXTINF:-1,HORSE & COUNTRY HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52163.m3u8
-#EXTINF:-1,24 KITCHEN FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50207.m3u8
-#EXTINF:-1,MR. BEAN CHANNEL 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52162.m3u8
-#EXTINF:-1,TOM & JERRY CHANNEL 24/7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52161.m3u8
-#EXTINF:-1,TOM & JERRY VERHAALTJES HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77057.m3u8
-#EXTINF:-1, TOM & JERRY CLASSIC (1940-60) 24/7
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/82213.m3u8
-#EXTINF:-1,TELETUBBIES HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/77053.m3u8
-#EXTINF:-1,TELETUBBIES ANIMATIE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84295.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50200.m3u8
-#EXTINF:-1,FAMILY 7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52159.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52158.m3u8
-#EXTINF:-1,COMEDY CENTRAL EXTRA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52157.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52156.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50203.m3u8
-#EXTINF:-1,BABY TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52154.m3u8
-#EXTINF:-1,NICKELODEON FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61560.m3u8
-#EXTINF:-1,NICK JUNIOR HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52153.m3u8
-#EXTINF:-1,NICK MUSIC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52152.m3u8
-#EXTINF:-1,NICK TOONS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52151.m3u8
-#EXTINF:-1,RTL TELEKIDS FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50920.m3u8
-#EXTINF:-1,PEBBLE TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52150.m3u8
-#EXTINF:-1,KETNET HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52149.m3u8
-#EXTINF:-1,ONS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52148.m3u8
-#EXTINF:-1,NPO 1 ZAPP XTRA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52147.m3u8
-#EXTINF:-1,NPO 2 EXTRA HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52146.m3u8
-#EXTINF:-1,NPO POLITIEK HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52145.m3u8
-#EXTINF:-1,NPO NIEUWS HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/70110.m3u8
-#EXTINF:-1,BNR TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84297.m3u8
-#EXTINF:-1,MYZEN FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50914.m3u8
-#EXTINF:-1,FASHION TV FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50918.m3u8
-#EXTINF:-1,AT 5 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52144.m3u8
-#EXTINF:-1,TV GELDERLAND HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52143.m3u8
-#EXTINF:-1,TV NOORD HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52142.m3u8
-#EXTINF:-1,TV OOST HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52141.m3u8
-#EXTINF:-1,RTV DRENTHE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52140.m3u8
-#EXTINF:-1,RTV UTRECHT HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52139.m3u8
-#EXTINF:-1,L1MBURG HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52138.m3u8
-#EXTINF:-1,TV WEST HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52137.m3u8
-#EXTINF:-1,OMROEP BRABANT HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52136.m3u8
-#EXTINF:-1,TV RIJNMOND HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52135.m3u8
-#EXTINF:-1,XITE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50165.m3u8
-#EXTINF:-1,TV ORANJE HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52134.m3u8
-#EXTINF:-1,SLAM FM HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52132.m3u8
-#EXTINF:-1,TV 538 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52133.m3u8
-#EXTINF:-1,MTV FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50183.m3u8
-#EXTINF:-1,MTV LIVE FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50916.m3u8
-#EXTINF:-1,MTV MUSIC 24 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52130.m3u8
-#EXTINF:-1,MTV BRAND HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52127.m3u8
-#EXTINF:-1,DANCE TRIPPIN FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/7079.m3u8
-#EXTINF:-1,100% NL HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52129.m3u8
-#EXTINF:-1,STINGRAY DJAZZ HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52126.m3u8
-#EXTINF:-1,MEZZO HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52128.m3u8
-#EXTINF:-1,192 TV SD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52131.m3u8
-#EXTINF:-1,SHORTS TV FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50921.m3u8
-#EXTINF:-1,EEN FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50198.m3u8
-#EXTINF:-1,CANVAS FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/50204.m3u8
-#EXTINF:-1,BRAVA FHD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61563.m3u8
-#EXTINF:-1,OUT TV FHD HEVC
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61561.m3u8
-#EXTINF:-1,NH TV HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/61562.m3u8
-#EXTINF:-1,VH1 CLASSIC HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/52125.m3u8
-#EXTINF:-1,SUR| RTV 7 HD
-http://line.dynoconnect.me:8000/live/OyqFnMDC2H/JFCfX3pMEw/84292.m3u8
+http://live.faucontv.com:8000/live/arbi1/arbi2/875.ts
+#EXTINF:-1,Ketnet
+http://live.faucontv.com:8000/live/arbi1/arbi2/876.ts
+#EXTINF:-1,ID HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/877.ts
+#EXTINF:-1,Horse & Country TV HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/878.ts
+#EXTINF:-1,History HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/879.ts
+#EXTINF:-1,FOX Sports 6 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/880.ts
+#EXTINF:-1,FOX Sports 5 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/881.ts
+#EXTINF:-1,FOX Sports 4 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/882.ts
+#EXTINF:-1,FOX Sports 3 HD Eredivisie
+http://live.faucontv.com:8000/live/arbi1/arbi2/883.ts
+#EXTINF:-1,FOX Sports 2 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/884.ts
+#EXTINF:-1,FOX Sports 1 HD Eredivisie
+http://live.faucontv.com:8000/live/arbi1/arbi2/885.ts
+#EXTINF:-1,FOX HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/886.ts
+#EXTINF:-1,Film 1 Premiere HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/887.ts
+#EXTINF:-1,Film 1 Family HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/888.ts
+#EXTINF:-1,Film 1 Drama HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/889.ts
+#EXTINF:-1,Film 1 Action HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/890.ts
+#EXTINF:-1,Family 7
+http://live.faucontv.com:8000/live/arbi1/arbi2/891.ts
+#EXTINF:-1,Extreme Sports Channel
+http://live.faucontv.com:8000/live/arbi1/arbi2/892.ts
+#EXTINF:-1,Eurosport 2 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/893.ts
+#EXTINF:-1,Eurosport 1 HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/894.ts
+#EXTINF:-1,Een HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/895.ts
+#EXTINF:-1,E! Entertainment HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/896.ts
+#EXTINF:-1,Djazz tv
+http://live.faucontv.com:8000/live/arbi1/arbi2/897.ts
+#EXTINF:-1,Disney Channel HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/898.ts
+#EXTINF:-1,Discovery World
+http://live.faucontv.com:8000/live/arbi1/arbi2/899.ts
+#EXTINF:-1,Discovery Science HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/900.ts
+#EXTINF:-1,Discovery Channel HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/901.ts
+#EXTINF:-1,Den Haag TV
+http://live.faucontv.com:8000/live/arbi1/arbi2/902.ts
+#EXTINF:-1,Dance Trippin
+http://live.faucontv.com:8000/live/arbi1/arbi2/903.ts
+#EXTINF:-1,Comedy Central Extra
+http://live.faucontv.com:8000/live/arbi1/arbi2/904.ts
+#EXTINF:-1,Comedy Central
+http://live.faucontv.com:8000/live/arbi1/arbi2/905.ts
+#EXTINF:-1,CI
+http://live.faucontv.com:8000/live/arbi1/arbi2/906.ts
+#EXTINF:-1,Canvas HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/908.ts
+#EXTINF:-1,Brava
+http://live.faucontv.com:8000/live/arbi1/arbi2/909.ts
+#EXTINF:-1,Boomerang
+http://live.faucontv.com:8000/live/arbi1/arbi2/910.ts
+#EXTINF:-1,BBC First HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/911.ts
+#EXTINF:-1,Baby TV
+http://live.faucontv.com:8000/live/arbi1/arbi2/912.ts
+#EXTINF:-1,AT5
+http://live.faucontv.com:8000/live/arbi1/arbi2/913.ts
+#EXTINF:-1,Animal Planet HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/914.ts
+#EXTINF:-1,24 Kitchen HD
+http://live.faucontv.com:8000/live/arbi1/arbi2/915.ts
+#EXTINF:-1,192TV
+http://live.faucontv.com:8000/live/arbi1/arbi2/916.ts
+#EXTINF:-1,100% NL TV
+http://live.faucontv.com:8000/live/arbi1/arbi2/917.ts
