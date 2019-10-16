@@ -1,57 +1,355 @@
 #EXTM3U
 #EXTINF:-1,TF1 HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/363
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/363.m3u8
+#EXTINF:-1,TFX
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/17301.m3u8
+#EXTINF:-1,TF1 SERIES FILMS HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/17300.m3u8
+#EXTINF:-1,FRANCE 2
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/370.m3u8
+#EXTINF:-1,FRANCE 3
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/369.m3u8
+#EXTINF:-1,CANAL+ HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/361.m3u8
+#EXTINF:-1,ARTE HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1072.m3u8
 #EXTINF:-1,M6 HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/365
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/365.m3u8
 #EXTINF:-1,W9 HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/362
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/362.m3u8
 #EXTINF:-1,W9
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9935
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9935.m3u8
 #EXTINF:-1,FRANCE 4
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/368
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/368.m3u8
 #EXTINF:-1,FRANCE 5
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/367
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/367.m3u8
 #EXTINF:-1,FRANCE O
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/366
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/366.m3u8
 #EXTINF:-1,BEINSPORT 1HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/14140
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/14140.m3u8
 #EXTINF:-1,BEINSPORT 2HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/347
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/347.m3u8
 #EXTINF:-1,BEINSPORT 3HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/346
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/346.m3u8
 #EXTINF:-1,BEINSPORT MAX 4
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2515
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2515.m3u8
 #EXTINF:-1,BEINSPORT MAX 5
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2516
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2516.m3u8
 #EXTINF:-1,BEINSPORT MAX 6
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2517
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2517.m3u8
 #EXTINF:-1,BEINSPORT MAX 7
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2518
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2518.m3u8
 #EXTINF:-1,BEINSPORT MAX 8
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2519
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2519.m3u8
 #EXTINF:-1,BEINSPORT MAX 9
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2520
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2520.m3u8
 #EXTINF:-1,BEINSPORT MAX 10
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2521
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2521.m3u8
+#EXTINF:-1,FOOT+24 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1244.m3u8
+#EXTINF:-1,EUROSPORT 1HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/345.m3u8
+#EXTINF:-1,EUROSPORT 2HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/344.m3u8
+#EXTINF:-1,L'equipe 21 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1068.m3u8
+#EXTINF:-1,CANAL+ DECALE
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/359.m3u8
+#EXTINF:-1,CANAL+ FAMILY
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/358.m3u8
+#EXTINF:-1,CANAL+ CINEMA
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5897.m3u8
+#EXTINF:-1,CANAL+ SERIES
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/357.m3u8
+#EXTINF:-1,CANAL+ SPORT
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/356.m3u8
+#EXTINF:-1,CINE+ PREMIER
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/350.m3u8
+#EXTINF:-1,CINE+ FRISSON
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/351.m3u8
+#EXTINF:-1,CINE+ EMOTION
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/352.m3u8
+#EXTINF:-1,ACTION HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/349.m3u8
+#EXTINF:-1,Ushuaia HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/337.m3u8
+#EXTINF:-1,Trek HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1065.m3u8
+#EXTINF:-1,PLANETE CI
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/353.m3u8
+#EXTINF:-1,Planete  A&E HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/644.m3u8
+#EXTINF:-1,Sciences & Vie TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/643.m3u8
 #EXTINF:-1,Disney Channel HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/645
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/645.m3u8
+#EXTINF:-1,Paris Premiere HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1066.m3u8
+#EXTINF:-1,C news SD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1069.m3u8
+#EXTINF:-1,Histoire
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1070.m3u8
 #EXTINF:-1,Discovery Science HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/646
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/646.m3u8
 #EXTINF:-1,Nat Geo Wild HD
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9815
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9815.m3u8
+#EXTINF:-1,Animaux HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/642.m3u8
+#EXTINF:-1,NAT GEO HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/336.m3u8
+#EXTINF:-1,DISCOVERY
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/355.m3u8
+#EXTINF:-1,6 TER HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12013.m3u8
+#EXTINF:-1,AB 1
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/10356.m3u8
+#EXTINF:-1,NT1 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/340.m3u8
+#EXTINF:-1,NRJ12 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/364.m3u8
+#EXTINF:-1,E! HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7684.m3u8
+#EXTINF:-1,C NEWS HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16097.m3u8
+#EXTINF:-1,Elle Girl FHD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16099.m3u8
+#EXTINF:-1,GOLF Channel HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16109.m3u8
+#EXTINF:-1,InfoSport+ HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/342.m3u8
+#EXTINF:-1,VOYAGE HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2771.m3u8
+#EXTINF:-1,Toute l Histoire HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2770.m3u8
+#EXTINF:-1,TMC
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2769.m3u8
+#EXTINF:-1,RTS UN HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2768.m3u8
+#EXTINF:-1,RTS DEUX HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2767.m3u8
+#EXTINF:-1,HD1
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2766.m3u8
+#EXTINF:-1,C8 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2765.m3u8
+#EXTINF:-1,C star HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2764.m3u8
 #EXTINF:-1,NICKELODEON
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7712
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7712.m3u8
 #EXTINF:-1,NICKELODEON JR
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7713
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7713.m3u8
+#EXTINF:-1,TIJI
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3765.m3u8
+#EXTINF:-1,SYFY HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3760.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3770.m3u8
+#EXTINF:-1,OCS MAX HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3767.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3768.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3769.m3u8
+#EXTINF:-1,EURONEWS
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/8255.m3u8
+#EXTINF:-1,TV 5 Monde
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/8256.m3u8
+#EXTINF:-1,Planet HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/10594.m3u8
+#EXTINF:-1,NUMERO 23 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3762.m3u8
 #EXTINF:-1,MTV Hits
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3774
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3774.m3u8
 #EXTINF:-1,M6 MUSIC
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3775
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3775.m3u8
 #EXTINF:-1,FRANCE 24
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7867
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7867.m3u8
+#EXTINF:-1,LCP HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3776.m3u8
+#EXTINF:-1,KTO
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3777.m3u8
+#EXTINF:-1,RMC Decouverte
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3766.m3u8
+#EXTINF:-1,Season HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3773.m3u8
+#EXTINF:-1,GOLF+ HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7834.m3u8
+#EXTINF:-1,EQUIDIA LIVE
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3771.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3772.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3764.m3u8
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3763.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3761.m3u8
+#EXTINF:-1,BERBERE TELEVISION
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3778.m3u8
+#EXTINF:-1,BERBERE JEUNESSE
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16438.m3u8
+#EXTINF:-1,BERBERE MUSIC
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16439.m3u8
+#EXTINF:-1,J-ONE HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3779.m3u8
+#EXTINF:-1,BFM Paris HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3780.m3u8
+#EXTINF:-1,AB MOTEUR
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3758.m3u8
+#EXTINF:-1,13EME RUE HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3759.m3u8
+#EXTINF:-1,BFM TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2763.m3u8
+#EXTINF:-1,MANGAS HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/341.m3u8
+#EXTINF:-1,PIWI  HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/339.m3u8
+#EXTINF:-1,BREIZH TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2609.m3u8
+#EXTINF:-1,Game One
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9113.m3u8
+#EXTINF:-1,LCI HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9112.m3u8
+#EXTINF:-1,TMC HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2606.m3u8
+#EXTINF:-1,Teva HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2602.m3u8
+#EXTINF:-1,BET HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2620.m3u8
+#EXTINF:-1,Serie Club HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2605.m3u8
+#EXTINF:-1,Canal Alpha
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12528.m3u8
+#EXTINF:-1,Chasse & Peche
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12522.m3u8
+#EXTINF:-1,CINE CLUB
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12523.m3u8
+#EXTINF:-1,CINE FX
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12524.m3u8
+#EXTINF:-1,Clubbing TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12529.m3u8
+#EXTINF:-1,Gong Base
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12525.m3u8
+#EXTINF:-1,Baby HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12526.m3u8
+#EXTINF:-1,MCM POP
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12530.m3u8
+#EXTINF:-1,TCM Cinema
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/12527.m3u8
+#EXTINF:-1,RTL9
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2601.m3u8
+#EXTINF:-1,CANAL J
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2619.m3u8
+#EXTINF:-1,Boomerang
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2622.m3u8
+#EXTINF:-1,BBLACK AFRICA
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18641.m3u8
+#EXTINF:-1,BBLACK Classic
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18642.m3u8
+#EXTINF:-1,BRAVA HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18648.m3u8
+#EXTINF:-1,Extreme Sport HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18655.m3u8
+#EXTINF:-1,GongMax
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18667.m3u8
+#EXTINF:-1,GRAND LILLE
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18660.m3u8
+#EXTINF:-1,IL TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18636.m3u8
+#EXTINF:-1,LA CHAINE METEO HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18666.m3u8
+#EXTINF:-1,Leman Bleu TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18659.m3u8
+#EXTINF:-1,Lucky Jack TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18650.m3u8
+#EXTINF:-1,M6 Boutique
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18651.m3u8
+#EXTINF:-1,MOOV TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18646.m3u8
+#EXTINF:-1,VIP ES1 HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18662.m3u8
+#EXTINF:-1,OM TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18678.m3u8
+#EXTINF:-1,MCM HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/31445.m3u8
+#EXTINF:-1,Ofive TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18640.m3u8
+#EXTINF:-1,OL TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18645.m3u8
+#EXTINF:-1,ONE TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18637.m3u8
+#EXTINF:-1,Pitchoun TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18654.m3u8
+#EXTINF:-1,Rouge TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18664.m3u8
+#EXTINF:-1,Sundance TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18661.m3u8
+#EXTINF:-1,TV7
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18665.m3u8
+#EXTINF:-1,TVM 3
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18635.m3u8
+#EXTINF:-1,VOSGUE TV
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/18653.m3u8
+#EXTINF:-1,6TER HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2608.m3u8
+#EXTINF:-1,BOING
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2623.m3u8
+#EXTINF:-1,OCS CITY HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2613.m3u8
+#EXTINF:-1,Gulli
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2625.m3u8
+#EXTINF:-1,Disney Junior
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2624.m3u8
+#EXTINF:-1,BE Curious HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2607.m3u8
+#EXTINF:-1,Comedie+ HD
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2604.m3u8
+#EXTINF:-1,CINE+ FAMIZ
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2611.m3u8
+#EXTINF:-1,CINE+ CLASSIC
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2612.m3u8
+#EXTINF:-1,CINE+ POLAR
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2610.m3u8
+#EXTINF:-1,Cartoon Network
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2621.m3u8
+#EXTINF:-1,i24 News
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9015.m3u8
+#EXTINF:-1,Canal Play 1
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2614.m3u8
+#EXTINF:-1,Canal Play 2
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2615.m3u8
+#EXTINF:-1,Canal Play 3
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2616.m3u8
+#EXTINF:-1,Canal Play 4
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2617.m3u8
+#EXTINF:-1,Canal Play 5
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2618.m3u8
+#EXTINF:-1,A LA CARTE 1
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3345.m3u8
+#EXTINF:-1,A LA CARTE 2
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3346.m3u8
+#EXTINF:-1,A LA CARTE 3
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3347.m3u8
+#EXTINF:-1,A LA CARTE 4
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3348.m3u8
+#EXTINF:-1,A LA CARTE 5
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3349.m3u8
+#EXTINF:-1,A LA CARTE 6
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3350.m3u8
+#EXTINF:-1,A LA CARTE 7
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3351.m3u8
+#EXTINF:-1,A LA CARTE 8
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3352.m3u8
+#EXTINF:-1,A LA CARTE 9
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3353.m3u8
+#EXTINF:-1,A LA CARTE 10
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3354.m3u8
+#EXTINF:-1,NJR Radio
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16373.m3u8
+#EXTINF:-1,Cherie
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16377.m3u8
 #EXTINF:-1,France Inter
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16374
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16374.m3u8
 #EXTINF:-1,Rire & Chansons
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16376
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16376.m3u8
 #EXTINF:-1,RTL
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16375
+http://livegopanel.club:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16375.m3u8
