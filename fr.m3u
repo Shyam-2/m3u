@@ -1,279 +1,57 @@
 #EXTM3U
-#EXTINF:-1,TF1 4K
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9066.m3u8
-#EXTINF:-1,TF1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9067.m3u8
-#EXTINF:-1,France 2 4K
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9068.m3u8
-#EXTINF:-1,France 2 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9069.m3u8
-#EXTINF:-1,France 3 4K
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9070.m3u8
-#EXTINF:-1,France 3 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9071.m3u8
-#EXTINF:-1,France 4 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9072.m3u8
-#EXTINF:-1,France 4 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9073.m3u8
-#EXTINF:-1,France 5 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9074.m3u8
-#EXTINF:-1,France 5 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9075.m3u8
-#EXTINF:-1,France 24 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9077.m3u8
-#EXTINF:-1,France Ô HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9079.m3u8
-#EXTINF:-1,M6 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9080.m3u8
+#EXTINF:-1,TF1 HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/363
 #EXTINF:-1,M6 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9081.m3u8
-#EXTINF:-1,W9 4K
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9082.m3u8
-#EXTINF:-1,W9 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9083.m3u8
-#EXTINF:-1,Weo HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9084.m3u8
-#EXTINF:-1,C8 4K
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9097.m3u8
-#EXTINF:-1,Arte HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9085.m3u8
-#EXTINF:-1,AB1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9089.m3u8
-#EXTINF:-1,Animaux HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9091.m3u8
-#EXTINF:-1,BFM HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9093.m3u8
-#EXTINF:-1,6TER HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9088.m3u8
-#EXTINF:-1,Action HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9090.m3u8
-#EXTINF:-1,Boing HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9095.m3u8
-#EXTINF:-1,Boomerang HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9096.m3u8
-#EXTINF:-1,13Eme Rue HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9086.m3u8
-#EXTINF:-1,13Eme Rue HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9087.m3u8
-#EXTINF:-1,Canal+ HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9104.m3u8
-#EXTINF:-1,Canal+ HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9105.m3u8
-#EXTINF:-1,Canal+ Cinema HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9098.m3u8
-#EXTINF:-1,Canal+ Cinema HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9099.m3u8
-#EXTINF:-1,Canal+ Decale HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9100.m3u8
-#EXTINF:-1,Canal+ Decale HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9101.m3u8
-#EXTINF:-1,Canal+ Family HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9102.m3u8
-#EXTINF:-1,Canal+ Family HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9103.m3u8
-#EXTINF:-1,Canal+ Series HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9107.m3u8
-#EXTINF:-1,Canal J HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9106.m3u8
-#EXTINF:-1,Canal+ Sport HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9109.m3u8
-#EXTINF:-1,Canal+ Play 1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9111.m3u8
-#EXTINF:-1,Canal+ Play 2 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9112.m3u8
-#EXTINF:-1,Canal+ Play 3 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9113.m3u8
-#EXTINF:-1,Canal+ Play 4 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9114.m3u8
-#EXTINF:-1,Canal+ Play 5 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9115.m3u8
-#EXTINF:-1,Canal+ Play 6 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9256.m3u8
-#EXTINF:-1,Cine+ Premier HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9130.m3u8
-#EXTINF:-1,Cine+ Premier HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9131.m3u8
-#EXTINF:-1,Cine+ Emotion HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9122.m3u8
-#EXTINF:-1,Cine+ Emotion HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9123.m3u8
-#EXTINF:-1,Cine+ Famiz HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9124.m3u8
-#EXTINF:-1,Cine+ Famiz HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9125.m3u8
-#EXTINF:-1,Cine+ Classic HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9119.m3u8
-#EXTINF:-1,Cine+ Classic HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9120.m3u8
-#EXTINF:-1,Cine+ Frisson HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9126.m3u8
-#EXTINF:-1,Cine+ Frisson HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9127.m3u8
-#EXTINF:-1,Cine+ Polar HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9129.m3u8
-#EXTINF:-1,Cine+ FX HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9128.m3u8
-#EXTINF:-1,La Carte 1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9257.m3u8
-#EXTINF:-1,La Carte 2 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9258.m3u8
-#EXTINF:-1,La Carte 3 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9259.m3u8
-#EXTINF:-1,La Carte 4 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9260.m3u8
-#EXTINF:-1,La Carte 5 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9261.m3u8
-#EXTINF:-1,Cartoon Network HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9116.m3u8
-#EXTINF:-1,Chasse & Peche
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9117.m3u8
-#EXTINF:-1,Cherie 25 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9118.m3u8
-#EXTINF:-1,Comédie+ HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9132.m3u8
-#EXTINF:-1,Cstar HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9133.m3u8
-#EXTINF:-1,E! Entertemaint HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9140.m3u8
-#EXTINF:-1,Equidia Live HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9143.m3u8
-#EXTINF:-1,Disney XD HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9139.m3u8
-#EXTINF:-1,Disney Channel HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9136.m3u8
-#EXTINF:-1,Disney Junior HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9138.m3u8
-#EXTINF:-1,Disney Cinema HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9137.m3u8
-#EXTINF:-1,Discovery Channel HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9134.m3u8
-#EXTINF:-1,Discovery Science HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9135.m3u8
-#EXTINF:-1,Game One HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9145.m3u8
-#EXTINF:-1,Gulli HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9147.m3u8
-#EXTINF:-1,HD1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9148.m3u8
-#EXTINF:-1,LCI HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9150.m3u8
-#EXTINF:-1,M6 Music HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9151.m3u8
-#EXTINF:-1,Mangas HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9152.m3u8
-#EXTINF:-1,MCM HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9153.m3u8
-#EXTINF:-1,MTV HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9154.m3u8
-#EXTINF:-1,National Geographic HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9155.m3u8
-#EXTINF:-1,National Geographic Wild HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9156.m3u8
-#EXTINF:-1,NRJ 12 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9157.m3u8
-#EXTINF:-1,NT1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9158.m3u8
-#EXTINF:-1,Numero 23 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9159.m3u8
-#EXTINF:-1,OCS Choc 4K
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9160.m3u8
-#EXTINF:-1,OCS Choc HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9161.m3u8
-#EXTINF:-1,OCS City HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9162.m3u8
-#EXTINF:-1,OCH City HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9163.m3u8
-#EXTINF:-1,OCS Max HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9166.m3u8
-#EXTINF:-1,OCS Max HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9167.m3u8
-#EXTINF:-1,OCS Geants HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9164.m3u8
-#EXTINF:-1,OCS Geants HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9165.m3u8
-#EXTINF:-1,Nickelodeon HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9168.m3u8
-#EXTINF:-1,NRJ Hits HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9183.m3u8
-#EXTINF:-1,Paramount Channel HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9180.m3u8
-#EXTINF:-1,Paris Premiere HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9179.m3u8
-#EXTINF:-1,PIWI HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9170.m3u8
-#EXTINF:-1,RMC D HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9184.m3u8
-#EXTINF:-1,RTL 9 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9175.m3u8
-#EXTINF:-1,Serie Club HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9172.m3u8
-#EXTINF:-1,SYFY HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9174.m3u8
-#EXTINF:-1,TeleToon HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9169.m3u8
-#EXTINF:-1,Teva HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9173.m3u8
-#EXTINF:-1,TMC HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9176.m3u8
-#EXTINF:-1,Trace Urban HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9181.m3u8
-#EXTINF:-1,TV Breizh HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9171.m3u8
-#EXTINF:-1,TV5 Monde Europe HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9178.m3u8
-#EXTINF:-1,Bein Sports 1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9329.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9195.m3u8
-#EXTINF:-1,Bein Sports 2 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9330.m3u8
-#EXTINF:-1,Bein Sports 2 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9196.m3u8
-#EXTINF:-1,Bein Sports 3 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9331.m3u8
-#EXTINF:-1,Bein Sports 3 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9197.m3u8
-#EXTINF:-1,Bein Sports 4 Max  HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9198.m3u8
-#EXTINF:-1,Bein Sports 5 Max  HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9199.m3u8
-#EXTINF:-1,Bein Sports 6 Max HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9200.m3u8
-#EXTINF:-1,Bein Sports 7 Max HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9201.m3u8
-#EXTINF:-1,Bein Sports 8 Max HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9202.m3u8
-#EXTINF:-1,Bein Sports 9 Max HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9203.m3u8
-#EXTINF:-1,Bein Sports 10 Max HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9204.m3u8
-#EXTINF:-1,RMC Sport 1 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/29298.m3u8
-#EXTINF:-1,RMC Sport 2 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/29299.m3u8
-#EXTINF:-1,RMC Sport 3 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/29300.m3u8
-#EXTINF:-1,RMC Sport 4 HD
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/29301.m3u8
-#EXTINF:-1,Info Sports HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9188.m3u8
-#EXTINF:-1,Eurosport 1 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9189.m3u8
-#EXTINF:-1,Eurosport 2 HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9190.m3u8
-#EXTINF:-1,AB Moteur HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9187.m3u8
-#EXTINF:-1,Planete+ HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9209.m3u8
-#EXTINF:-1,Planete A&E HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9254.m3u8
-#EXTINF:-1,Planete CI HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9255.m3u8
-#EXTINF:-1,Science & Vie HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9208.m3u8
-#EXTINF:-1,Seasons HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9205.m3u8
-#EXTINF:-1,Toute LHistoire
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9206.m3u8
-#EXTINF:-1,Ushauia TV HD+
-http://123iptv.nl:88/live/p6QIv0O94I/9oe5AVwKGP/9207.m3u8
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/365
+#EXTINF:-1,W9 HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/362
+#EXTINF:-1,W9
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9935
+#EXTINF:-1,FRANCE 4
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/368
+#EXTINF:-1,FRANCE 5
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/367
+#EXTINF:-1,FRANCE O
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/366
+#EXTINF:-1,BEINSPORT 1HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/14140
+#EXTINF:-1,BEINSPORT 2HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/347
+#EXTINF:-1,BEINSPORT 3HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/346
+#EXTINF:-1,BEINSPORT MAX 4
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2515
+#EXTINF:-1,BEINSPORT MAX 5
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2516
+#EXTINF:-1,BEINSPORT MAX 6
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2517
+#EXTINF:-1,BEINSPORT MAX 7
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2518
+#EXTINF:-1,BEINSPORT MAX 8
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2519
+#EXTINF:-1,BEINSPORT MAX 9
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2520
+#EXTINF:-1,BEINSPORT MAX 10
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2521
+#EXTINF:-1,Disney Channel HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/645
+#EXTINF:-1,Discovery Science HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/646
+#EXTINF:-1,Nat Geo Wild HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/9815
+#EXTINF:-1,NICKELODEON
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7712
+#EXTINF:-1,NICKELODEON JR
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7713
+#EXTINF:-1,MTV Hits
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3774
+#EXTINF:-1,M6 MUSIC
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3775
+#EXTINF:-1,FRANCE 24
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7867
+#EXTINF:-1,France Inter
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16374
+#EXTINF:-1,Rire & Chansons
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16376
+#EXTINF:-1,RTL
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16375
