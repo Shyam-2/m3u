@@ -1,161 +1,317 @@
 #EXTM3U
-#EXTINF:-1,SKY:SELECT:HD:2
-http://bizimip.com:8000/live/emin/gunes/318.ts
-#EXTINF:-1,SKY:SELECT:HD:3
-http://bizimip.com:8000/live/emin/gunes/319.ts
-#EXTINF:-1,SKY:SELECT:HD:4
-http://bizimip.com:8000/live/emin/gunes/320.ts
-#EXTINF:-1,SKY:SELECT:HD:5
-http://bizimip.com:8000/live/emin/gunes/321.ts
-#EXTINF:-1,SKY:SELECT:6
-http://bizimip.com:8000/live/emin/gunes/706.ts
-#EXTINF:-1,SKY:SELECT:7
-http://bizimip.com:8000/live/emin/gunes/707.ts
-#EXTINF:-1,SAT:1:GOLD:HD
-http://bizimip.com:8000/live/emin/gunes/709.ts
-#EXTINF:-1,SPORT:DIGITAL:HD
-http://bizimip.com:8000/live/emin/gunes/708.ts
-#EXTINF:-1,SRF:1:HD
-http://bizimip.com:8000/live/emin/gunes/290.ts
-#EXTINF:-1,RTL:2:HD
-http://bizimip.com:8000/live/emin/gunes/292.ts
+#EXTINF:-1,KinoBox 1
+http://linux-app.tv:6204/live/21164920/31520888/23808.m3u8
+#EXTINF:-1,KinoBox 2
+http://linux-app.tv:6204/live/21164920/31520888/23807.m3u8
+#EXTINF:-1,KinoBox 3
+http://linux-app.tv:6204/live/21164920/31520888/23806.m3u8
+#EXTINF:-1,KinoBox 4
+http://linux-app.tv:6204/live/21164920/31520888/23805.m3u8
+#EXTINF:-1,KinoBox 5
+http://linux-app.tv:6204/live/21164920/31520888/23804.m3u8
+#EXTINF:-1,KinoBox 6
+http://linux-app.tv:6204/live/21164920/31520888/23803.m3u8
+#EXTINF:-1,KinoBox 7
+http://linux-app.tv:6204/live/21164920/31520888/23802.m3u8
+#EXTINF:-1,KinoBox 8
+http://linux-app.tv:6204/live/21164920/31520888/23801.m3u8
+#EXTINF:-1,KinoBox 9
+http://linux-app.tv:6204/live/21164920/31520888/23800.m3u8
+#EXTINF:-1,KinoBox 10
+http://linux-app.tv:6204/live/21164920/31520888/23799.m3u8
+#EXTINF:-1,Sky Select 1
+http://linux-app.tv:6204/live/21164920/31520888/27728.m3u8
+#EXTINF:-1,Sky Select 2
+http://linux-app.tv:6204/live/21164920/31520888/27727.m3u8
+#EXTINF:-1,Sky Select 3
+http://linux-app.tv:6204/live/21164920/31520888/27726.m3u8
+#EXTINF:-1,Sky Select 4
+http://linux-app.tv:6204/live/21164920/31520888/27725.m3u8
+#EXTINF:-1,Sky Select 5
+http://linux-app.tv:6204/live/21164920/31520888/27724.m3u8
+#EXTINF:-1,Sky Select 6
+http://linux-app.tv:6204/live/21164920/31520888/27723.m3u8
+#EXTINF:-1,Sky Select 7
+http://linux-app.tv:6204/live/21164920/31520888/27722.m3u8
+#EXTINF:-1,Sky Select 8
+http://linux-app.tv:6204/live/21164920/31520888/27721.m3u8
+#EXTINF:-1,Sky Select 9
+http://linux-app.tv:6204/live/21164920/31520888/27720.m3u8
+#EXTINF:-1,Sky Select 10
+http://linux-app.tv:6204/live/21164920/31520888/27719.m3u8
+#EXTINF:-1,Sky Select 1 4K
+http://linux-app.tv:6204/live/21164920/31520888/23793.m3u8
+#EXTINF:-1,Sky Select 2 4K
+http://linux-app.tv:6204/live/21164920/31520888/23792.m3u8
+#EXTINF:-1,Sky Select 3 4K
+http://linux-app.tv:6204/live/21164920/31520888/23791.m3u8
+#EXTINF:-1,Sky Select 4 4K
+http://linux-app.tv:6204/live/21164920/31520888/23790.m3u8
+#EXTINF:-1,Sky Select 5 4K
+http://linux-app.tv:6204/live/21164920/31520888/23789.m3u8
+#EXTINF:-1,Sky 1
+http://linux-app.tv:6204/live/21164920/31520888/27667.m3u8
+#EXTINF:-1,Sky Action
+http://linux-app.tv:6204/live/21164920/31520888/27675.m3u8
+#EXTINF:-1,Sky Atlantic
+http://linux-app.tv:6204/live/21164920/31520888/27668.m3u8
+#EXTINF:-1,Sky Cinema
+http://linux-app.tv:6204/live/21164920/31520888/27672.m3u8
+#EXTINF:-1,Sky Cinema  1
+http://linux-app.tv:6204/live/21164920/31520888/27674.m3u8
+#EXTINF:-1,Sky Cinema  24
+http://linux-app.tv:6204/live/21164920/31520888/27673.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://linux-app.tv:6204/live/21164920/31520888/27671.m3u8
+#EXTINF:-1,Sky Comedy
+http://linux-app.tv:6204/live/21164920/31520888/27669.m3u8
+#EXTINF:-1,Sky EMOTION HD
+http://linux-app.tv:6204/live/21164920/31520888/27666.m3u8
+#EXTINF:-1,Sky Hits
+http://linux-app.tv:6204/live/21164920/31520888/27670.m3u8
+#EXTINF:-1,Sky Krimi HD
+http://linux-app.tv:6204/live/21164920/31520888/27665.m3u8
+#EXTINF:-1,Sky Nostalgie HD
+http://linux-app.tv:6204/live/21164920/31520888/27664.m3u8
+#EXTINF:-1,RTL 1
+http://linux-app.tv:6204/live/21164920/31520888/27637.m3u8
+#EXTINF:-1,RTL 2
+http://linux-app.tv:6204/live/21164920/31520888/27638.m3u8
+#EXTINF:-1,RTL CRIME
+http://linux-app.tv:6204/live/21164920/31520888/27653.m3u8
+#EXTINF:-1,RTL CRIME HD
+http://linux-app.tv:6204/live/21164920/31520888/27652.m3u8
+#EXTINF:-1,RTL Living
+http://linux-app.tv:6204/live/21164920/31520888/27651.m3u8
+#EXTINF:-1,RTL PASSION
+http://linux-app.tv:6204/live/21164920/31520888/27650.m3u8
+#EXTINF:-1,RTL plus
+http://linux-app.tv:6204/live/21164920/31520888/27636.m3u8
+#EXTINF:-1,Super RTL
+http://linux-app.tv:6204/live/21164920/31520888/27629.m3u8
 #EXTINF:-1,ZDF
-http://bizimip.com:8000/live/emin/gunes/426.ts
+http://linux-app.tv:6204/live/21164920/31520888/27634.m3u8
+#EXTINF:-1,ZDF info HD
+http://linux-app.tv:6204/live/21164920/31520888/27633.m3u8
+#EXTINF:-1,ZDFneo
+http://linux-app.tv:6204/live/21164920/31520888/27632.m3u8
+#EXTINF:-1,ZEE ONE HD
+http://linux-app.tv:6204/live/21164920/31520888/27649.m3u8
+#EXTINF:-1,Fox
+http://linux-app.tv:6204/live/21164920/31520888/27659.m3u8
 #EXTINF:-1,VOX
-http://bizimip.com:8000/live/emin/gunes/427.ts
-#EXTINF:-1,TLC
-http://bizimip.com:8000/live/emin/gunes/710.ts
-#EXTINF:-1,RTL:CRiME
-http://bizimip.com:8000/live/emin/gunes/444.ts
-#EXTINF:-1,SKY:COMEDY
-http://bizimip.com:8000/live/emin/gunes/430.ts
-#EXTINF:-1,SKY:KRIMI
-http://bizimip.com:8000/live/emin/gunes/429.ts
-#EXTINF:-1,ARTE
-http://bizimip.com:8000/live/emin/gunes/433.ts
-#EXTINF:-1,PRO:7:MAXX
-http://bizimip.com:8000/live/emin/gunes/435.ts
-#EXTINF:-1,NATGEODE
-http://bizimip.com:8000/live/emin/gunes/437.ts
-#EXTINF:-1,KABEL:1
-http://bizimip.com:8000/live/emin/gunes/438.ts
-#EXTINF:-1,SKY:TNT:FILME
-http://bizimip.com:8000/live/emin/gunes/440.ts
-#EXTINF:-1,PRO:7
-http://bizimip.com:8000/live/emin/gunes/428.ts
-#EXTINF:-1,KIKA
-http://bizimip.com:8000/live/emin/gunes/295.ts
-#EXTINF:-1,SKY:NATONAL:WILD
-http://bizimip.com:8000/live/emin/gunes/86.ts
-#EXTINF:-1,SKY:1
-http://bizimip.com:8000/live/emin/gunes/92.ts
-#EXTINF:-1,SKY:CINEMA:24
-http://bizimip.com:8000/live/emin/gunes/93.ts
-#EXTINF:-1,AXN
-http://bizimip.com:8000/live/emin/gunes/95.ts
-#EXTINF:-1,ARD
-http://bizimip.com:8000/live/emin/gunes/445.ts
+http://linux-app.tv:6204/live/21164920/31520888/27642.m3u8
+#EXTINF:-1,SAT 1
+http://linux-app.tv:6204/live/21164920/31520888/27648.m3u8
+#EXTINF:-1,Sat 1 Emotions
+http://linux-app.tv:6204/live/21164920/31520888/27619.m3u8
+#EXTINF:-1,SAT 1 GOLD
+http://linux-app.tv:6204/live/21164920/31520888/27647.m3u8
 #EXTINF:-1,SIXX
-http://bizimip.com:8000/live/emin/gunes/264.ts
-#EXTINF:-1,SAT:1:HD
-http://bizimip.com:8000/live/emin/gunes/265.ts
-#EXTINF:-1,RTL:CRIME:HD
-http://bizimip.com:8000/live/emin/gunes/267.ts
-#EXTINF:-1,SUPER:RTL
-http://bizimip.com:8000/live/emin/gunes/289.ts
-#EXTINF:-1,SYFY
-http://bizimip.com:8000/live/emin/gunes/288.ts
-#EXTINF:-1,SKY:DISCOVERY:HD
-http://bizimip.com:8000/live/emin/gunes/296.ts
-#EXTINF:-1,RTL:PASSION
-http://bizimip.com:8000/live/emin/gunes/297.ts
-#EXTINF:-1,N:TV
-http://bizimip.com:8000/live/emin/gunes/286.ts
-#EXTINF:-1,SKY:FOX
-http://bizimip.com:8000/live/emin/gunes/285.ts
-#EXTINF:-1,DISNEY
-http://bizimip.com:8000/live/emin/gunes/300.ts
-#EXTINF:-1,TOGGO:PLUS
-http://bizimip.com:8000/live/emin/gunes/303.ts
-#EXTINF:-1,RTL
-http://bizimip.com:8000/live/emin/gunes/268.ts
-#EXTINF:-1,SKY:ATLANTIC:HD
-http://bizimip.com:8000/live/emin/gunes/101.ts
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://bizimip.com:8000/live/emin/gunes/351.ts
-#EXTINF:-1,SKY:SPORT:2:HD
-http://bizimip.com:8000/live/emin/gunes/348.ts
-#EXTINF:-1,WDR:HD
-http://bizimip.com:8000/live/emin/gunes/379.ts
-#EXTINF:-1,TVA
-http://bizimip.com:8000/live/emin/gunes/381.ts
-#EXTINF:-1,ORF:1
-http://bizimip.com:8000/live/emin/gunes/384.ts
-#EXTINF:-1,ORF:2
-http://bizimip.com:8000/live/emin/gunes/375.ts
-#EXTINF:-1,SKY:13:STREET:HD
-http://bizimip.com:8000/live/emin/gunes/359.ts
-#EXTINF:-1,EURONEWS
-http://bizimip.com:8000/live/emin/gunes/352.ts
-#EXTINF:-1,N24
-http://bizimip.com:8000/live/emin/gunes/345.ts
-#EXTINF:-1,DAZN:SPORT:HD:1
-http://bizimip.com:8000/live/emin/gunes/10280.ts
-#EXTINF:-1,DAZN:SPORT:HD:2
-http://bizimip.com:8000/live/emin/gunes/10281.ts
-#EXTINF:-1,BUNDESLIGA:1:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/446.ts
-#EXTINF:-1,BUNDESLIGA:2:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/447.ts
-#EXTINF:-1,BUNDESLIGA:3:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/448.ts
-#EXTINF:-1,BUNDESLIGA:4:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/449.ts
-#EXTINF:-1,BUNDESLIGA:5:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/450.ts
-#EXTINF:-1,BUNDESLIGA:6:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/451.ts
-#EXTINF:-1,BUNDESLIGA:7:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/452.ts
-#EXTINF:-1,BUNDESLIGA:8:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/453.ts
-#EXTINF:-1,BUNDESLIGA:9:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/454.ts
-#EXTINF:-1,BUNDESLIGA:10:HD:VIP
-http://bizimip.com:8000/live/emin/gunes/455.ts
-#EXTINF:-1,BUNDESLIGA:3:1:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15809.ts
-#EXTINF:-1,BUNDESLIGA:3:2:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15810.ts
-#EXTINF:-1,BUNDESLIGA:3:3:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15811.ts
-#EXTINF:-1,BUNDESLIGA:3:4:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15812.ts
-#EXTINF:-1,BUNDESLIGA:3:5:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15813.ts
-#EXTINF:-1,BUNDESLIGA:3:6:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15814.ts
-#EXTINF:-1,BUNDESLIGA:3:7:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15816.ts
-#EXTINF:-1,EUROSPORT:2:HD:XTRA
-http://bizimip.com:8000/live/emin/gunes/1298.ts
-#EXTINF:-1,ORF:SPORT
-http://bizimip.com:8000/live/emin/gunes/410.ts
-#EXTINF:-1,KABEL:EINS:DOKU
-http://bizimip.com:8000/live/emin/gunes/17517.ts
-#EXTINF:-1,KABEL:EINS:CLASSIC:HD
-http://bizimip.com:8000/live/emin/gunes/17515.ts
-#EXTINF:-1,ZDF:INFO:HD
-http://bizimip.com:8000/live/emin/gunes/17513.ts
-#EXTINF:-1,ZDF:NEO:HD
-http://bizimip.com:8000/live/emin/gunes/17512.ts
-#EXTINF:-1,VH1 SHUFFLE
-http://bizimip.com:8000/live/emin/gunes/23850.ts
-#EXTINF:-1,BUNDESLIGA:3:8:LOCAL:NUR:SPIEL:TAG
-http://bizimip.com:8000/live/emin/gunes/15817.ts
-#EXTINF:-1,KiNOBOX 1 HD
-http://bizimip.com:8000/live/emin/gunes/17577.ts
-#EXTINF:-1,KiNOBOX 2 HD
-http://bizimip.com:8000/live/emin/gunes/17576.ts
-#EXTINF:-1,KiNOBOX 3 HD
-http://bizimip.com:8000/live/emin/gunes/17575.ts
+http://linux-app.tv:6204/live/21164920/31520888/27643.m3u8
+#EXTINF:-1,Pro 7
+http://linux-app.tv:6204/live/21164920/31520888/27646.m3u8
+#EXTINF:-1,Pro 7 FUN HD
+http://linux-app.tv:6204/live/21164920/31520888/27644.m3u8
+#EXTINF:-1,Pro 7 Maxx
+http://linux-app.tv:6204/live/21164920/31520888/27645.m3u8
+#EXTINF:-1,Puls 4 HD
+http://linux-app.tv:6204/live/21164920/31520888/27654.m3u8
+#EXTINF:-1,TLC HD
+http://linux-app.tv:6204/live/21164920/31520888/27604.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://linux-app.tv:6204/live/21164920/31520888/27663.m3u8
+#EXTINF:-1,TNT Film HD
+http://linux-app.tv:6204/live/21164920/31520888/27662.m3u8
+#EXTINF:-1,TNT Serie HD
+http://linux-app.tv:6204/live/21164920/31520888/27661.m3u8
+#EXTINF:-1,Universal Channel
+http://linux-app.tv:6204/live/21164920/31520888/27657.m3u8
+#EXTINF:-1,SYFY HD
+http://linux-app.tv:6204/live/21164920/31520888/27656.m3u8
+#EXTINF:-1,13th Street
+http://linux-app.tv:6204/live/21164920/31520888/27660.m3u8
+#EXTINF:-1,3 SAT HD
+http://linux-app.tv:6204/live/21164920/31520888/27631.m3u8
+#EXTINF:-1,ARD Alpha
+http://linux-app.tv:6204/live/21164920/31520888/27590.m3u8
+#EXTINF:-1,Arte
+http://linux-app.tv:6204/live/21164920/31520888/27641.m3u8
+#EXTINF:-1,DAS ERSTE
+http://linux-app.tv:6204/live/21164920/31520888/27627.m3u8
+#EXTINF:-1,ONE HD
+http://linux-app.tv:6204/live/21164920/31520888/27635.m3u8
+#EXTINF:-1,Classica
+http://linux-app.tv:6204/live/21164920/31520888/27617.m3u8
+#EXTINF:-1,Heimat Kanal
+http://linux-app.tv:6204/live/21164920/31520888/27616.m3u8
+#EXTINF:-1,Kino welt TV
+http://linux-app.tv:6204/live/21164920/31520888/27655.m3u8
+#EXTINF:-1,PHOENIX HD
+http://linux-app.tv:6204/live/21164920/31520888/27600.m3u8
+#EXTINF:-1,ROMANCE TV
+http://linux-app.tv:6204/live/21164920/31520888/27620.m3u8
+#EXTINF:-1,Kabel 1
+http://linux-app.tv:6204/live/21164920/31520888/27640.m3u8
+#EXTINF:-1,Kabel 1 Doku
+http://linux-app.tv:6204/live/21164920/31520888/27609.m3u8
+#EXTINF:-1,Kabel 1 Classics HD
+http://linux-app.tv:6204/live/21164920/31520888/27804.m3u8
+#EXTINF:-1,NTV
+http://linux-app.tv:6204/live/21164920/31520888/27601.m3u8
+#EXTINF:-1,TOGGO Plus
+http://linux-app.tv:6204/live/21164920/31520888/27628.m3u8
+#EXTINF:-1,KIKA HD
+http://linux-app.tv:6204/live/21164920/31520888/27602.m3u8
+#EXTINF:-1,Boomerang
+http://linux-app.tv:6204/live/21164920/31520888/27625.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://linux-app.tv:6204/live/21164920/31520888/27624.m3u8
+#EXTINF:-1,Nickelodeon
+http://linux-app.tv:6204/live/21164920/31520888/27626.m3u8
+#EXTINF:-1,Disney XD
+http://linux-app.tv:6204/live/21164920/31520888/27622.m3u8
+#EXTINF:-1,Sky Disney Junior
+http://linux-app.tv:6204/live/21164920/31520888/27630.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://linux-app.tv:6204/live/21164920/31520888/27623.m3u8
+#EXTINF:-1,Disney Junior
+http://linux-app.tv:6204/live/21164920/31520888/27621.m3u8
+#EXTINF:-1,Discovery Channel
+http://linux-app.tv:6204/live/21164920/31520888/27612.m3u8
+#EXTINF:-1,Planet HD
+http://linux-app.tv:6204/live/21164920/31520888/27953.m3u8
+#EXTINF:-1,Animal Planet
+http://linux-app.tv:6204/live/21164920/31520888/27613.m3u8
+#EXTINF:-1,History
+http://linux-app.tv:6204/live/21164920/31520888/27610.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://linux-app.tv:6204/live/21164920/31520888/27607.m3u8
+#EXTINF:-1,National Geographic
+http://linux-app.tv:6204/live/21164920/31520888/27606.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://linux-app.tv:6204/live/21164920/31520888/27599.m3u8
+#EXTINF:-1,DMAX HD
+http://linux-app.tv:6204/live/21164920/31520888/27611.m3u8
+#EXTINF:-1,Welt der Wunder
+http://linux-app.tv:6204/live/21164920/31520888/27603.m3u8
+#EXTINF:-1,WELT HD
+http://linux-app.tv:6204/live/21164920/31520888/27614.m3u8
+#EXTINF:-1,SR Fernsehen HD
+http://linux-app.tv:6204/live/21164920/31520888/27589.m3u8
+#EXTINF:-1,SWR BW HD
+http://linux-app.tv:6204/live/21164920/31520888/27588.m3u8
+#EXTINF:-1,SWR RP HD
+http://linux-app.tv:6204/live/21164920/31520888/27587.m3u8
+#EXTINF:-1,Tagesschau24 HD
+http://linux-app.tv:6204/live/21164920/31520888/27586.m3u8
+#EXTINF:-1,TELE 5 HD
+http://linux-app.tv:6204/live/21164920/31520888/27615.m3u8
+#EXTINF:-1,SPIEGEL TV Wissen HD
+http://linux-app.tv:6204/live/21164920/31520888/27605.m3u8
+#EXTINF:-1,ANIXE
+http://linux-app.tv:6204/live/21164920/31520888/27618.m3u8
+#EXTINF:-1,AXN
+http://linux-app.tv:6204/live/21164920/31520888/27658.m3u8
+#EXTINF:-1,NITRO
+http://linux-app.tv:6204/live/21164920/31520888/27639.m3u8
+#EXTINF:-1,Baden Tv
+http://linux-app.tv:6204/live/21164920/31520888/21471.m3u8
+#EXTINF:-1,Br Tv
+http://linux-app.tv:6204/live/21164920/31520888/21470.m3u8
+#EXTINF:-1,Deutsches Musik
+http://linux-app.tv:6204/live/21164920/31520888/21469.m3u8
+#EXTINF:-1,Douna Tv
+http://linux-app.tv:6204/live/21164920/31520888/21468.m3u8
+#EXTINF:-1,Franken Tv
+http://linux-app.tv:6204/live/21164920/31520888/21472.m3u8
+#EXTINF:-1,Hr Tv
+http://linux-app.tv:6204/live/21164920/31520888/21466.m3u8
+#EXTINF:-1,Munchen Tv
+http://linux-app.tv:6204/live/21164920/31520888/21473.m3u8
+#EXTINF:-1,Oberpfalz Tv
+http://linux-app.tv:6204/live/21164920/31520888/21478.m3u8
+#EXTINF:-1,Oldenburg eins Tv
+http://linux-app.tv:6204/live/21164920/31520888/21474.m3u8
+#EXTINF:-1,Ran 1Tv
+http://linux-app.tv:6204/live/21164920/31520888/21476.m3u8
+#EXTINF:-1,Rbw Tv
+http://linux-app.tv:6204/live/21164920/31520888/21475.m3u8
+#EXTINF:-1,Trp 1Tv
+http://linux-app.tv:6204/live/21164920/31520888/21477.m3u8
+#EXTINF:-1,Tva Tv
+http://linux-app.tv:6204/live/21164920/31520888/21467.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://linux-app.tv:6204/live/21164920/31520888/27591.m3u8
+#EXTINF:-1,GoTv
+http://linux-app.tv:6204/live/21164920/31520888/27598.m3u8
+#EXTINF:-1,JukeBox HD
+http://linux-app.tv:6204/live/21164920/31520888/27597.m3u8
+#EXTINF:-1,MTV
+http://linux-app.tv:6204/live/21164920/31520888/27596.m3u8
+#EXTINF:-1,MTV Dance
+http://linux-app.tv:6204/live/21164920/31520888/27595.m3u8
+#EXTINF:-1,MTV Hits
+http://linux-app.tv:6204/live/21164920/31520888/27594.m3u8
+#EXTINF:-1,MTV Music 24
+http://linux-app.tv:6204/live/21164920/31520888/27593.m3u8
+#EXTINF:-1,MTV ROCKS
+http://linux-app.tv:6204/live/21164920/31520888/27592.m3u8
+#EXTINF:-1,N24 Doku
+http://linux-app.tv:6204/live/21164920/31520888/27608.m3u8
+#EXTINF:-1,DAZN Bar 1 HD
+http://linux-app.tv:6204/live/21164920/31520888/28357.m3u8
+#EXTINF:-1,DAZN Bar 2 HD
+http://linux-app.tv:6204/live/21164920/31520888/28358.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://linux-app.tv:6204/live/21164920/31520888/27689.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://linux-app.tv:6204/live/21164920/31520888/27688.m3u8
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://linux-app.tv:6204/live/21164920/31520888/27687.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://linux-app.tv:6204/live/21164920/31520888/28322.m3u8
+#EXTINF:-1,Sport 1 HD
+http://linux-app.tv:6204/live/21164920/31520888/28359.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://linux-app.tv:6204/live/21164920/31520888/28326.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://linux-app.tv:6204/live/21164920/31520888/28324.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://linux-app.tv:6204/live/21164920/31520888/28325.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://linux-app.tv:6204/live/21164920/31520888/27701.m3u8
+#EXTINF:-1,Sky Sport 4 HD
+http://linux-app.tv:6204/live/21164920/31520888/27699.m3u8
+#EXTINF:-1,Sky Sport 5 HD
+http://linux-app.tv:6204/live/21164920/31520888/27697.m3u8
+#EXTINF:-1,Sky Sport 6 HD
+http://linux-app.tv:6204/live/21164920/31520888/27696.m3u8
+#EXTINF:-1,Sky Sport 7 HD
+http://linux-app.tv:6204/live/21164920/31520888/27695.m3u8
+#EXTINF:-1,Sky Sport 8 HD
+http://linux-app.tv:6204/live/21164920/31520888/27694.m3u8
+#EXTINF:-1,Sky Sport 9 HD
+http://linux-app.tv:6204/live/21164920/31520888/27693.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://linux-app.tv:6204/live/21164920/31520888/27692.m3u8
+#EXTINF:-1,Sky Sport 11 HD
+http://linux-app.tv:6204/live/21164920/31520888/27691.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://linux-app.tv:6204/live/21164920/31520888/28323.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://linux-app.tv:6204/live/21164920/31520888/27715.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://linux-app.tv:6204/live/21164920/31520888/27713.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://linux-app.tv:6204/live/21164920/31520888/27711.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://linux-app.tv:6204/live/21164920/31520888/27710.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://linux-app.tv:6204/live/21164920/31520888/27709.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://linux-app.tv:6204/live/21164920/31520888/27708.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://linux-app.tv:6204/live/21164920/31520888/27707.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://linux-app.tv:6204/live/21164920/31520888/27706.m3u8
