@@ -1,457 +1,233 @@
 #EXTM3U
-#EXTINF:-1,tv8 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3813.ts
-#EXTINF:-1,Tv2000
-http://live.faucontv.com:8000/live/arbi1/arbi2/3654.ts
-#EXTINF:-1,Torino Channel
-http://live.faucontv.com:8000/live/arbi1/arbi2/3793.ts
-#EXTINF:-1,Top Crime
-http://live.faucontv.com:8000/live/arbi1/arbi2/3655.ts
-#EXTINF:-1,TeeNick
-http://live.faucontv.com:8000/live/arbi1/arbi2/3635.ts
-#EXTINF:-1,Super
-http://live.faucontv.com:8000/live/arbi1/arbi2/3626.ts
-#EXTINF:-1,Spike
-http://live.faucontv.com:8000/live/arbi1/arbi2/3656.ts
-#EXTINF:-1,Sky Uno FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3658.ts
-#EXTINF:-1,Sky Uno 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3657.ts
-#EXTINF:-1,Sky Sport Uno HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3776.ts
-#EXTINF:-1,Sky sport uno FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3775.ts
-#EXTINF:-1,Sky Sport serie A FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3687.ts
-#EXTINF:-1,Sky Sport NBA HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3778.ts
-#EXTINF:-1,Sky sport NBA FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3777.ts
-#EXTINF:-1,Sky sport MOTOGP HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3782.ts
-#EXTINF:-1,Sky sport MOTOGP FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3781.ts
-#EXTINF:-1,Sky sport football HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3780.ts
-#EXTINF:-1,Sky sport football FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3779.ts
+#EXTINF:-1,Rai1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31406.ts
+#EXTINF:-1,Rai2 HD
+http://iptvnetwork.link:25461/live/MH/MH/31405.ts
+#EXTINF:-1,Rai3 HD
+http://iptvnetwork.link:25461/live/MH/MH/31404.ts
+#EXTINF:-1,Rai4 HD
+http://iptvnetwork.link:25461/live/MH/MH/31403.ts
+#EXTINF:-1,Rai5
+http://iptvnetwork.link:25461/live/MH/MH/31402.ts
+#EXTINF:-1,Rai Yoyo
+http://iptvnetwork.link:25461/live/MH/MH/31357.ts
+#EXTINF:-1,Rai Sport2
+http://iptvnetwork.link:25461/live/MH/MH/31407.ts
+#EXTINF:-1,Rai Sport 1
+http://iptvnetwork.link:25461/live/MH/MH/31408.ts
+#EXTINF:-1,Rai Premium
+http://iptvnetwork.link:25461/live/MH/MH/31409.ts
+#EXTINF:-1,IT:Super Tennis
+http://iptvnetwork.link:25461/live/MH/MH/31324.ts
+#EXTINF:-1,IT:Sky Primafila 9
+http://iptvnetwork.link:25461/live/MH/MH/31325.ts
+#EXTINF:-1,IT:Sky Primafila 5
+http://iptvnetwork.link:25461/live/MH/MH/31326.ts
+#EXTINF:-1,IT:Sky Primafila 4
+http://iptvnetwork.link:25461/live/MH/MH/31327.ts
+#EXTINF:-1,IT:SKY Primafila 2
+http://iptvnetwork.link:25461/live/MH/MH/31328.ts
+#EXTINF:-1,IT:Sky Primafila 14
+http://iptvnetwork.link:25461/live/MH/MH/31329.ts
+#EXTINF:-1,IT:Sky Primafila 13
+http://iptvnetwork.link:25461/live/MH/MH/31330.ts
+#EXTINF:-1,IT:Sky Primafila 12
+http://iptvnetwork.link:25461/live/MH/MH/31331.ts
+#EXTINF:-1,IT:Sky Primafila 10
+http://iptvnetwork.link:25461/live/MH/MH/31332.ts
+#EXTINF:-1,IT:SKY Primafila 1
+http://iptvnetwork.link:25461/live/MH/MH/31333.ts
+#EXTINF:-1,IT:SKY Cinema 3D
+http://iptvnetwork.link:25461/live/MH/MH/31334.ts
+#EXTINF:-1,IT:CARTOON  NETWORK
+http://iptvnetwork.link:25461/live/MH/MH/31341.ts
+#EXTINF:-1,TOP CRIME
+http://iptvnetwork.link:25461/live/MH/MH/31322.ts
+#EXTINF:-1,Teleticino
+http://iptvnetwork.link:25461/live/MH/MH/31323.ts
+#EXTINF:-1,Supercalcio HD
+http://iptvnetwork.link:25461/live/MH/MH/31342.ts
+#EXTINF:-1,SUPER TENNIS (Backup)
+http://iptvnetwork.link:25461/live/MH/MH/31435.ts
+#EXTINF:-1,SPORT ITALIA
+http://iptvnetwork.link:25461/live/MH/MH/31343.ts
+#EXTINF:-1,Sky Uno HD
+http://iptvnetwork.link:25461/live/MH/MH/31381.ts
+#EXTINF:-1,SKY TG 24
+http://iptvnetwork.link:25461/live/MH/MH/31344.ts
+#EXTINF:-1,Sky Sport3 HD
+http://iptvnetwork.link:25461/live/MH/MH/31383.ts
+#EXTINF:-1,Sky Sport2 HD
+http://iptvnetwork.link:25461/live/MH/MH/31384.ts
+#EXTINF:-1,Sky Sport1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31385.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3784.ts
-#EXTINF:-1,Sky sport F1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3783.ts
-#EXTINF:-1,Sky Sport ARENA HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3786.ts
-#EXTINF:-1,Sky sport arena FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3785.ts
+http://iptvnetwork.link:25461/live/MH/MH/31386.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3774.ts
-#EXTINF:-1,Sky sport 24 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3773.ts
-#EXTINF:-1,Sky EuroSport 2 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3787.ts
-#EXTINF:-1,Sky EuroSport 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3788.ts
-#EXTINF:-1,Sky cinema uno HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3814.ts
-#EXTINF:-1,Sky cinema uno FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3815.ts
-#EXTINF:-1,Sky cinema suspance HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3816.ts
-#EXTINF:-1,Sky cinema Suspance
-http://live.faucontv.com:8000/live/arbi1/arbi2/3817.ts
-#EXTINF:-1,Sky cinema Romance HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3818.ts
-#EXTINF:-1,Sky cinema romance FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3819.ts
-#EXTINF:-1,Sky cinema family HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3820.ts
-#EXTINF:-1,Sky cinema family FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3821.ts
-#EXTINF:-1,Sky cinema due HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3822.ts
-#EXTINF:-1,Sky cinema due FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3823.ts
-#EXTINF:-1,Sky cinema Drama HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3824.ts
-#EXTINF:-1,Sky cinema Drama FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3825.ts
-#EXTINF:-1,Sky cinema comedy HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3826.ts
-#EXTINF:-1,Sky cinema comedy FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3827.ts
-#EXTINF:-1,Sky cinema collection FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3828.ts
-#EXTINF:-1,sky cinema action HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3829.ts
-#EXTINF:-1,Sky cinema Action FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3830.ts
-#EXTINF:-1,Sky calcio 5 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3697.ts
-#EXTINF:-1,Sky calcio 5 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3696.ts
-#EXTINF:-1,Sky calcio 4 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3695.ts
-#EXTINF:-1,sky calcio 4 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3694.ts
-#EXTINF:-1,Sky calcio 3 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3693.ts
-#EXTINF:-1,Sky calcio 3 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3692.ts
-#EXTINF:-1,Sky calcio 2 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3691.ts
-#EXTINF:-1,Sky calcio 2 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3690.ts
-#EXTINF:-1,Sky Calcio 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3688.ts
-#EXTINF:-1,Sky caclio 1 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3689.ts
-#EXTINF:-1,Sky Atlantic FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3659.ts
-#EXTINF:-1,Sky Atlantic 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3660.ts
-#EXTINF:-1,RSILa2FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3625.ts
-#EXTINF:-1,RSILa1FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3624.ts
-#EXTINF:-1,Roma Channel
-http://live.faucontv.com:8000/live/arbi1/arbi2/3792.ts
-#EXTINF:-1,rete4 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3618.ts
-#EXTINF:-1,rete 4 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3619.ts
-#EXTINF:-1,RealTime FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3661.ts
-#EXTINF:-1,RealTime  1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3662.ts
-#EXTINF:-1,RaiYoYo FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3627.ts
-#EXTINF:-1,RaiMovie HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3831.ts
-#EXTINF:-1,RaiGulp
-http://live.faucontv.com:8000/live/arbi1/arbi2/3628.ts
-#EXTINF:-1,Rai5 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3663.ts
-#EXTINF:-1,Rai4 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3664.ts
-#EXTINF:-1,Rai Premium FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3665.ts
-#EXTINF:-1,Rai Movie FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3832.ts
-#EXTINF:-1,Rai 3 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3616.ts
-#EXTINF:-1,Rai 3 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3617.ts
-#EXTINF:-1,Rai 2 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3614.ts
-#EXTINF:-1,Rai 2 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3615.ts
-#EXTINF:-1,Rai 1 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3612.ts
-#EXTINF:-1,Rai 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3613.ts
-#EXTINF:-1,Premium stories
-http://live.faucontv.com:8000/live/arbi1/arbi2/3833.ts
-#EXTINF:-1,Premium crime
-http://live.faucontv.com:8000/live/arbi1/arbi2/3834.ts
-#EXTINF:-1,Premium cinema FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3835.ts
-#EXTINF:-1,Premium cinema Energy FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3836.ts
-#EXTINF:-1,Premium cinema Emotion FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3837.ts
-#EXTINF:-1,Premium cinema comedy FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3838.ts
-#EXTINF:-1,Premium Action FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3839.ts
-#EXTINF:-1,Pop
-http://live.faucontv.com:8000/live/arbi1/arbi2/3629.ts
-#EXTINF:-1,NickJR 1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3631.ts
-#EXTINF:-1,NickJR
-http://live.faucontv.com:8000/live/arbi1/arbi2/3630.ts
-#EXTINF:-1,Nickelodeon 1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3632.ts
-#EXTINF:-1,Nickelodeon
-http://live.faucontv.com:8000/live/arbi1/arbi2/3633.ts
-#EXTINF:-1,MotorTrend FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3666.ts
+http://iptvnetwork.link:25461/live/MH/MH/31387.ts
+#EXTINF:-1,Sky Primafila 8
+http://iptvnetwork.link:25461/live/MH/MH/31345.ts
+#EXTINF:-1,Sky Primafila 7
+http://iptvnetwork.link:25461/live/MH/MH/31346.ts
+#EXTINF:-1,Sky Primafila 6
+http://iptvnetwork.link:25461/live/MH/MH/31347.ts
+#EXTINF:-1,SKY Primafila 3
+http://iptvnetwork.link:25461/live/MH/MH/31348.ts
+#EXTINF:-1,Sky Moto GP HD
+http://iptvnetwork.link:25461/live/MH/MH/31388.ts
+#EXTINF:-1,Sky Foxcrime HD
+http://iptvnetwork.link:25461/live/MH/MH/31389.ts
+#EXTINF:-1,Sky Fox Comedy HD
+http://iptvnetwork.link:25461/live/MH/MH/31349.ts
+#EXTINF:-1,SKY F1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31390.ts
+#EXTINF:-1,SKY CINEMA24 HD
+http://iptvnetwork.link:25461/live/MH/MH/31391.ts
+#EXTINF:-1,Sky Cinema1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31392.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptvnetwork.link:25461/live/MH/MH/31393.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptvnetwork.link:25461/live/MH/MH/31394.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptvnetwork.link:25461/live/MH/MH/31395.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptvnetwork.link:25461/live/MH/MH/31396.ts
+#EXTINF:-1,Sky Cinema Classic HD(1)
+http://iptvnetwork.link:25461/live/MH/MH/31397.ts
+#EXTINF:-1,Sky Cinema  1 HD(1)
+http://iptvnetwork.link:25461/live/MH/MH/31398.ts
+#EXTINF:-1,Sky Calcio 7
+http://iptvnetwork.link:25461/live/MH/MH/31350.ts
+#EXTINF:-1,Sky Calcio 6
+http://iptvnetwork.link:25461/live/MH/MH/31351.ts
+#EXTINF:-1,Sky Calcio 5
+http://iptvnetwork.link:25461/live/MH/MH/31352.ts
+#EXTINF:-1,Sky Calcio 4
+http://iptvnetwork.link:25461/live/MH/MH/31353.ts
+#EXTINF:-1,Sky Calcio 3
+http://iptvnetwork.link:25461/live/MH/MH/31354.ts
+#EXTINF:-1,Sky Calcio 2
+http://iptvnetwork.link:25461/live/MH/MH/31355.ts
+#EXTINF:-1,Sky Calcio 1
+http://iptvnetwork.link:25461/live/MH/MH/31356.ts
+#EXTINF:-1,RSI La2 HD
+http://iptvnetwork.link:25461/live/MH/MH/31399.ts
+#EXTINF:-1,IT | Premium Calcio 1*
+http://iptvnetwork.link:25461/live/MH/MH/31422.ts
+#EXTINF:-1,RSI La1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31400.ts
+#EXTINF:-1,Rete4 HD
+http://iptvnetwork.link:25461/live/MH/MH/31401.ts
+#EXTINF:-1,Real Time
+http://iptvnetwork.link:25461/live/MH/MH/31335.ts
+#EXTINF:-1,Rai Gulp
+http://iptvnetwork.link:25461/live/MH/MH/31336.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptvnetwork.link:25461/live/MH/MH/31358.ts
+#EXTINF:-1,Premium Stories
+http://iptvnetwork.link:25461/live/MH/MH/31411.ts
+#EXTINF:-1,Premium Sport HD
+http://iptvnetwork.link:25461/live/MH/MH/31382.ts
+#EXTINF:-1,Premium Sport 2
+http://iptvnetwork.link:25461/live/MH/MH/31359.ts
+#EXTINF:-1,Premium Joy
+http://iptvnetwork.link:25461/live/MH/MH/31412.ts
+#EXTINF:-1,Premium Emotion
+http://iptvnetwork.link:25461/live/MH/MH/31413.ts
+#EXTINF:-1,Premium Disney Junior(1)
+http://iptvnetwork.link:25461/live/MH/MH/31337.ts
+#EXTINF:-1,Premium Disney Junior
+http://iptvnetwork.link:25461/live/MH/MH/31360.ts
+#EXTINF:-1,Premium Crime
+http://iptvnetwork.link:25461/live/MH/MH/31414.ts
+#EXTINF:-1,Premium Comedy
+http://iptvnetwork.link:25461/live/MH/MH/31361.ts
+#EXTINF:-1,Premium Cinema Energy
+http://iptvnetwork.link:25461/live/MH/MH/31416.ts
+#EXTINF:-1,Premium Cinema 2
+http://iptvnetwork.link:25461/live/MH/MH/31415.ts
+#EXTINF:-1,Premium Calcio 5*
+http://iptvnetwork.link:25461/live/MH/MH/31418.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptvnetwork.link:25461/live/MH/MH/31419.ts
+#EXTINF:-1,Premium Calcio 3*
+http://iptvnetwork.link:25461/live/MH/MH/31420.ts
+#EXTINF:-1,Premium Calcio 2*
+http://iptvnetwork.link:25461/live/MH/MH/31421.ts
+#EXTINF:-1,Premium Calcio
+http://iptvnetwork.link:25461/live/MH/MH/31362.ts
+#EXTINF:-1,Premium Action
+http://iptvnetwork.link:25461/live/MH/MH/31363.ts
+#EXTINF:-1,Pesca e Caccia
+http://iptvnetwork.link:25461/live/MH/MH/31364.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvnetwork.link:25461/live/MH/MH/31365.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvnetwork.link:25461/live/MH/MH/31366.ts
 #EXTINF:-1,Milan Channel
-http://live.faucontv.com:8000/live/arbi1/arbi2/3790.ts
-#EXTINF:-1,Mediaset ItaliaDue
-http://live.faucontv.com:8000/live/arbi1/arbi2/3667.ts
+http://iptvnetwork.link:25461/live/MH/MH/31338.ts
+#EXTINF:-1,Mediaset Iris
+http://iptvnetwork.link:25461/live/MH/MH/31339.ts
+#EXTINF:-1,Mediaset Extra(1)
+http://iptvnetwork.link:25461/live/MH/MH/31423.ts
 #EXTINF:-1,Mediaset Extra
-http://live.faucontv.com:8000/live/arbi1/arbi2/3668.ts
-#EXTINF:-1,MAN-GA
-http://live.faucontv.com:8000/live/arbi1/arbi2/3634.ts
-#EXTINF:-1,LPCViterbeseCastrese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3698.ts
-#EXTINF:-1,LPCViterbese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3699.ts
-#EXTINF:-1,LPCVisPesaro
-http://live.faucontv.com:8000/live/arbi1/arbi2/3700.ts
-#EXTINF:-1,LPCVirtusVerona
-http://live.faucontv.com:8000/live/arbi1/arbi2/3701.ts
-#EXTINF:-1,LPCVirtusFrancavilla
-http://live.faucontv.com:8000/live/arbi1/arbi2/3702.ts
-#EXTINF:-1,LPCVirtusEntella
-http://live.faucontv.com:8000/live/arbi1/arbi2/3703.ts
-#EXTINF:-1,LPCVicenza
-http://live.faucontv.com:8000/live/arbi1/arbi2/3704.ts
-#EXTINF:-1,LPCVibonese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3705.ts
-#EXTINF:-1,LPCUnionArzignanoChiampo
-http://live.faucontv.com:8000/live/arbi1/arbi2/3706.ts
-#EXTINF:-1,LPCTriestina
-http://live.faucontv.com:8000/live/arbi1/arbi2/3707.ts
-#EXTINF:-1,LPCTrapani
-http://live.faucontv.com:8000/live/arbi1/arbi2/3708.ts
-#EXTINF:-1,LPCTernana
-http://live.faucontv.com:8000/live/arbi1/arbi2/3709.ts
-#EXTINF:-1,LPCTeramo
-http://live.faucontv.com:8000/live/arbi1/arbi2/3710.ts
-#EXTINF:-1,LPCSudtirol
-http://live.faucontv.com:8000/live/arbi1/arbi2/3711.ts
-#EXTINF:-1,LPCSiracusa
-http://live.faucontv.com:8000/live/arbi1/arbi2/3712.ts
-#EXTINF:-1,LPCSiculaLeonzio
-http://live.faucontv.com:8000/live/arbi1/arbi2/3713.ts
-#EXTINF:-1,LPCSambenedettese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3714.ts
-#EXTINF:-1,LPCRoburSiena
-http://live.faucontv.com:8000/live/arbi1/arbi2/3715.ts
-#EXTINF:-1,LPCRimini
-http://live.faucontv.com:8000/live/arbi1/arbi2/3716.ts
-#EXTINF:-1,LPCRieti
-http://live.faucontv.com:8000/live/arbi1/arbi2/3717.ts
-#EXTINF:-1,LPCRende
-http://live.faucontv.com:8000/live/arbi1/arbi2/3718.ts
-#EXTINF:-1,LPCRenate
-http://live.faucontv.com:8000/live/arbi1/arbi2/3719.ts
-#EXTINF:-1,LPCReggioAudace
-http://live.faucontv.com:8000/live/arbi1/arbi2/3720.ts
-#EXTINF:-1,LPCReggina
-http://live.faucontv.com:8000/live/arbi1/arbi2/3721.ts
-#EXTINF:-1,LPCRavenna
-http://live.faucontv.com:8000/live/arbi1/arbi2/3722.ts
-#EXTINF:-1,LPCProvercelli
-http://live.faucontv.com:8000/live/arbi1/arbi2/3723.ts
-#EXTINF:-1,LPCProPiacenza
-http://live.faucontv.com:8000/live/arbi1/arbi2/3724.ts
-#EXTINF:-1,LPCProPatria
-http://live.faucontv.com:8000/live/arbi1/arbi2/3725.ts
-#EXTINF:-1,LPCPotenza
-http://live.faucontv.com:8000/live/arbi1/arbi2/3726.ts
-#EXTINF:-1,LPCPordenone
-http://live.faucontv.com:8000/live/arbi1/arbi2/3727.ts
-#EXTINF:-1,LPCPontedera
-http://live.faucontv.com:8000/live/arbi1/arbi2/3728.ts
-#EXTINF:-1,LPCPistoiese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3729.ts
-#EXTINF:-1,LPCPisa
-http://live.faucontv.com:8000/live/arbi1/arbi2/3730.ts
-#EXTINF:-1,LPCPianese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3731.ts
-#EXTINF:-1,LPCPiacenza
-http://live.faucontv.com:8000/live/arbi1/arbi2/3732.ts
-#EXTINF:-1,LPCPergolettese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3733.ts
-#EXTINF:-1,LPCPaganese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3734.ts
-#EXTINF:-1,LPCPadova
-http://live.faucontv.com:8000/live/arbi1/arbi2/3735.ts
-#EXTINF:-1,LPCOlbia
-http://live.faucontv.com:8000/live/arbi1/arbi2/3736.ts
-#EXTINF:-1,LPCNovara
-http://live.faucontv.com:8000/live/arbi1/arbi2/3737.ts
-#EXTINF:-1,LPCMonza
-http://live.faucontv.com:8000/live/arbi1/arbi2/3738.ts
-#EXTINF:-1,LPCMonopoli
-http://live.faucontv.com:8000/live/arbi1/arbi2/3739.ts
-#EXTINF:-1,LPCModena
-http://live.faucontv.com:8000/live/arbi1/arbi2/3740.ts
-#EXTINF:-1,LPCMatera
-http://live.faucontv.com:8000/live/arbi1/arbi2/3741.ts
-#EXTINF:-1,LPCLucchese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3742.ts
-#EXTINF:-1,LPCLecco
-http://live.faucontv.com:8000/live/arbi1/arbi2/3743.ts
-#EXTINF:-1,LPCJuveStabia
-http://live.faucontv.com:8000/live/arbi1/arbi2/3744.ts
-#EXTINF:-1,LPCJuventus23
-http://live.faucontv.com:8000/live/arbi1/arbi2/3745.ts
-#EXTINF:-1,LPCImolese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3746.ts
-#EXTINF:-1,LPCGubbio
-http://live.faucontv.com:8000/live/arbi1/arbi2/3747.ts
-#EXTINF:-1,LPCGozzano
-http://live.faucontv.com:8000/live/arbi1/arbi2/3748.ts
-#EXTINF:-1,LPCGianaErminio
-http://live.faucontv.com:8000/live/arbi1/arbi2/3749.ts
-#EXTINF:-1,LPCFrancavilla
-http://live.faucontv.com:8000/live/arbi1/arbi2/3750.ts
-#EXTINF:-1,LPCFermana
-http://live.faucontv.com:8000/live/arbi1/arbi2/3751.ts
-#EXTINF:-1,LPCFeralpisal
-http://live.faucontv.com:8000/live/arbi1/arbi2/3752.ts
-#EXTINF:-1,LPCFano
-http://live.faucontv.com:8000/live/arbi1/arbi2/3753.ts
-#EXTINF:-1,LPCCuneo
-http://live.faucontv.com:8000/live/arbi1/arbi2/3754.ts
-#EXTINF:-1,LPCComo
-http://live.faucontv.com:8000/live/arbi1/arbi2/3755.ts
-#EXTINF:-1,LPCCesena
-http://live.faucontv.com:8000/live/arbi1/arbi2/3756.ts
-#EXTINF:-1,LPCCavese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3757.ts
-#EXTINF:-1,LPCCatanzaro
-http://live.faucontv.com:8000/live/arbi1/arbi2/3758.ts
-#EXTINF:-1,LPCCatania
-http://live.faucontv.com:8000/live/arbi1/arbi2/3759.ts
-#EXTINF:-1,LPCCasertana
-http://live.faucontv.com:8000/live/arbi1/arbi2/3760.ts
-#EXTINF:-1,LPCCarrarese
-http://live.faucontv.com:8000/live/arbi1/arbi2/3761.ts
-#EXTINF:-1,LPCCarpi
-http://live.faucontv.com:8000/live/arbi1/arbi2/3762.ts
-#EXTINF:-1,LPCBisceglie
-http://live.faucontv.com:8000/live/arbi1/arbi2/3763.ts
-#EXTINF:-1,LPCBari
-http://live.faucontv.com:8000/live/arbi1/arbi2/3764.ts
-#EXTINF:-1,LPCAZPicerno
-http://live.faucontv.com:8000/live/arbi1/arbi2/3765.ts
-#EXTINF:-1,LPCAvellino
-http://live.faucontv.com:8000/live/arbi1/arbi2/3766.ts
-#EXTINF:-1,LPCArzignano
-http://live.faucontv.com:8000/live/arbi1/arbi2/3767.ts
-#EXTINF:-1,LPCArezzo
-http://live.faucontv.com:8000/live/arbi1/arbi2/3768.ts
-#EXTINF:-1,LPCAltoAdige
-http://live.faucontv.com:8000/live/arbi1/arbi2/3769.ts
-#EXTINF:-1,LPCAlessandria
-http://live.faucontv.com:8000/live/arbi1/arbi2/3770.ts
-#EXTINF:-1,LPCAlbissola
-http://live.faucontv.com:8000/live/arbi1/arbi2/3771.ts
-#EXTINF:-1,Lazio Channel
-http://live.faucontv.com:8000/live/arbi1/arbi2/3791.ts
-#EXTINF:-1,La7D
-http://live.faucontv.com:8000/live/arbi1/arbi2/3669.ts
-#EXTINF:-1,La5
-http://live.faucontv.com:8000/live/arbi1/arbi2/3670.ts
-#EXTINF:-1,K2
-http://live.faucontv.com:8000/live/arbi1/arbi2/3636.ts
-#EXTINF:-1,Italia1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3622.ts
-#EXTINF:-1,Italia 1 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3623.ts
+http://iptvnetwork.link:25461/live/MH/MH/31367.ts
+#EXTINF:-1,MarcoPolo
+http://iptvnetwork.link:25461/live/MH/MH/31439.ts
+#EXTINF:-1,La7
+http://iptvnetwork.link:25461/live/MH/MH/31424.ts
+#EXTINF:-1,Juventus TV
+http://iptvnetwork.link:25461/live/MH/MH/31380.ts
+#EXTINF:-1,italia1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31425.ts
+#EXTINF:-1,Italia 2
+http://iptvnetwork.link:25461/live/MH/MH/31426.ts
 #EXTINF:-1,Inter Channel
-http://live.faucontv.com:8000/live/arbi1/arbi2/3789.ts
-#EXTINF:-1,GoalCollection
-http://live.faucontv.com:8000/live/arbi1/arbi2/3772.ts
-#EXTINF:-1,Giallo FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3671.ts
-#EXTINF:-1,Frisbee
-http://live.faucontv.com:8000/live/arbi1/arbi2/3637.ts
-#EXTINF:-1,Fox Life FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3673.ts
-#EXTINF:-1,Fox Life 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3674.ts
-#EXTINF:-1,Fox FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3675.ts
-#EXTINF:-1,Fox Crime FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3676.ts
-#EXTINF:-1,Fox Crime 2 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3678.ts
-#EXTINF:-1,Fox Crime 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3677.ts
-#EXTINF:-1,Fox Comedy FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3679.ts
-#EXTINF:-1,Fox Animation FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3680.ts
-#EXTINF:-1,Fox 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3672.ts
-#EXTINF:-1,FoodNetwork
-http://live.faucontv.com:8000/live/arbi1/arbi2/3681.ts
-#EXTINF:-1,DMax FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3683.ts
-#EXTINF:-1,DMax 1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3682.ts
-#EXTINF:-1,DisneyXD HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3638.ts
-#EXTINF:-1,DisneyXD 1 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3639.ts
-#EXTINF:-1,DisneyJunior HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3640.ts
-#EXTINF:-1,DisneyJunior 1HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3641.ts
-#EXTINF:-1,DisneyChannel FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3643.ts
-#EXTINF:-1,DisneyChannel 1 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3642.ts
-#EXTINF:-1,DeAJunior
-http://live.faucontv.com:8000/live/arbi1/arbi2/3644.ts
-#EXTINF:-1,DeA Kids 1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3646.ts
-#EXTINF:-1,DeA Kids
-http://live.faucontv.com:8000/live/arbi1/arbi2/3645.ts
-#EXTINF:-1,DAZN9 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3805.ts
-#EXTINF:-1,DAZN8 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3804.ts
-#EXTINF:-1,DAZN7 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3803.ts
-#EXTINF:-1,DAZN6 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3802.ts
-#EXTINF:-1,DAZN5 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3801.ts
-#EXTINF:-1,DAZN4 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3800.ts
-#EXTINF:-1,DAZN3 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3799.ts
-#EXTINF:-1,DAZN2 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3798.ts
-#EXTINF:-1,DAZN16 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3812.ts
-#EXTINF:-1,DAZN15 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3811.ts
-#EXTINF:-1,DAZN14 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3810.ts
-#EXTINF:-1,DAZN13 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3809.ts
-#EXTINF:-1,DAZN12 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3808.ts
-#EXTINF:-1,DAZN11 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3807.ts
-#EXTINF:-1,DAZN10 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3806.ts
-#EXTINF:-1,DAZN1 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3797.ts
-#EXTINF:-1,DAZN VETRINA
-http://live.faucontv.com:8000/live/arbi1/arbi2/3796.ts
-#EXTINF:-1,DAZN SOLO EVENTI serie A HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3794.ts
-#EXTINF:-1,DAZN SOLO EVENTI serie A FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3795.ts
-#EXTINF:-1,CartoonNetworkHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3647.ts
-#EXTINF:-1,Cartoon 1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3648.ts
-#EXTINF:-1,Cartonito
-http://live.faucontv.com:8000/live/arbi1/arbi2/3649.ts
-#EXTINF:-1,canale5 FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3620.ts
-#EXTINF:-1,canale 5 HD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3621.ts
-#EXTINF:-1,Boomerang 1
-http://live.faucontv.com:8000/live/arbi1/arbi2/3651.ts
-#EXTINF:-1,Boomerang
-http://live.faucontv.com:8000/live/arbi1/arbi2/3650.ts
+http://iptvnetwork.link:25461/live/MH/MH/31368.ts
+#EXTINF:-1,History
+http://iptvnetwork.link:25461/live/MH/MH/31438.ts
+#EXTINF:-1,FOX Sport HD
+http://iptvnetwork.link:25461/live/MH/MH/31369.ts
+#EXTINF:-1,Fox Life HD
+http://iptvnetwork.link:25461/live/MH/MH/31370.ts
+#EXTINF:-1,FOX HD
+http://iptvnetwork.link:25461/live/MH/MH/31371.ts
+#EXTINF:-1,Fox Crime HD(1)
+http://iptvnetwork.link:25461/live/MH/MH/31427.ts
+#EXTINF:-1,Fox Crime HD
+http://iptvnetwork.link:25461/live/MH/MH/31372.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptvnetwork.link:25461/live/MH/MH/31428.ts
+#EXTINF:-1,Fox Animation
+http://iptvnetwork.link:25461/live/MH/MH/31434.ts
+#EXTINF:-1,FISHING TV
+http://iptvnetwork.link:25461/live/MH/MH/31437.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptvnetwork.link:25461/live/MH/MH/31429.ts
+#EXTINF:-1,Eurosport 1 HD
+http://iptvnetwork.link:25461/live/MH/MH/31430.ts
+#EXTINF:-1,Dmax HD
+http://iptvnetwork.link:25461/live/MH/MH/31431.ts
+#EXTINF:-1,Discovery Travel&Living HD
+http://iptvnetwork.link:25461/live/MH/MH/31373.ts
+#EXTINF:-1,Discovery Science HD
+http://iptvnetwork.link:25461/live/MH/MH/31374.ts
+#EXTINF:-1,Discovery HD
+http://iptvnetwork.link:25461/live/MH/MH/31375.ts
+#EXTINF:-1,Discovery Focus
+http://iptvnetwork.link:25461/live/MH/MH/31340.ts
+#EXTINF:-1,Cielo
+http://iptvnetwork.link:25461/live/MH/MH/31376.ts
+#EXTINF:-1,Cartoonito
+http://iptvnetwork.link:25461/live/MH/MH/31377.ts
+#EXTINF:-1,Canale5 HD
+http://iptvnetwork.link:25461/live/MH/MH/31432.ts
+#EXTINF:-1,Canal 5 HD
+http://iptvnetwork.link:25461/live/MH/MH/31378.ts
 #EXTINF:-1,Boing
-http://live.faucontv.com:8000/live/arbi1/arbi2/3652.ts
-#EXTINF:-1,Blaze FHD
-http://live.faucontv.com:8000/live/arbi1/arbi2/3686.ts
-#EXTINF:-1,BabyTV
-http://live.faucontv.com:8000/live/arbi1/arbi2/3653.ts
-#EXTINF:-1,Alpha
-http://live.faucontv.com:8000/live/arbi1/arbi2/3684.ts
-#EXTINF:-1,20Mediaset
-http://live.faucontv.com:8000/live/arbi1/arbi2/3685.ts
+http://iptvnetwork.link:25461/live/MH/MH/31436.ts
+#EXTINF:-1,Animal Planet
+http://iptvnetwork.link:25461/live/MH/MH/31379.ts
+#EXTINF:-1,Alice
+http://iptvnetwork.link:25461/live/MH/MH/31433.ts
