@@ -1,27 +1,327 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidepoland.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rrukOU4.png" group-title="",dlaCiebie TV
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Hope.png" group-title="",Hope Channel
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/911157852294787072/K-mU7Tn__400x400.jpg" group-title="",Telewizja Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="",Telewizja Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BLFrhLJ.png" group-title="XXX",Zest TV
-http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTM3U
+#EXTINF:-1,Zoom TV
+http://iptvnetwork.link:25461/live/MH/MH/33643.ts
+#EXTINF:-1,Zest TV
+http://iptvnetwork.link:25461/live/MH/MH/33703.ts
+#EXTINF:-1,WP
+http://iptvnetwork.link:25461/live/MH/MH/33642.ts
+#EXTINF:-1,Wellbeing
+http://iptvnetwork.link:25461/live/MH/MH/33641.ts
+#EXTINF:-1,VIVA POLSKA
+http://iptvnetwork.link:25461/live/MH/MH/33558.ts
+#EXTINF:-1,VH1
+http://iptvnetwork.link:25461/live/MH/MH/33640.ts
+#EXTINF:-1,UNIVERSAL HD
+http://iptvnetwork.link:25461/live/MH/MH/33557.ts
+#EXTINF:-1,TVS
+http://iptvnetwork.link:25461/live/MH/MH/33639.ts
+#EXTINF:-1,TVP3
+http://iptvnetwork.link:25461/live/MH/MH/33620.ts
+#EXTINF:-1,TVP Sport HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33619.ts
+#EXTINF:-1,TVP SPORT HD
+http://iptvnetwork.link:25461/live/MH/MH/33556.ts
+#EXTINF:-1,TVP SERIALE
+http://iptvnetwork.link:25461/live/MH/MH/33618.ts
+#EXTINF:-1,TVP Rozrywka
+http://iptvnetwork.link:25461/live/MH/MH/33638.ts
+#EXTINF:-1,TVP Polonia
+http://iptvnetwork.link:25461/live/MH/MH/33637.ts
+#EXTINF:-1,TVP KULTURA
+http://iptvnetwork.link:25461/live/MH/MH/33617.ts
+#EXTINF:-1,TVP INFO
+http://iptvnetwork.link:25461/live/MH/MH/33616.ts
+#EXTINF:-1,TVP Historia
+http://iptvnetwork.link:25461/live/MH/MH/33636.ts
+#EXTINF:-1,TVP HD
+http://iptvnetwork.link:25461/live/MH/MH/33555.ts
+#EXTINF:-1,TVP ABC
+http://iptvnetwork.link:25461/live/MH/MH/33635.ts
+#EXTINF:-1,TVP 2 HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33615.ts
+#EXTINF:-1,TVP 2 HD
+http://iptvnetwork.link:25461/live/MH/MH/33554.ts
+#EXTINF:-1,TVP 1 HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33614.ts
+#EXTINF:-1,TVP 1 HD
+http://iptvnetwork.link:25461/live/MH/MH/33553.ts
+#EXTINF:-1,TVN Turbo
+http://iptvnetwork.link:25461/live/MH/MH/33514.ts
+#EXTINF:-1,TVN Style HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33613.ts
+#EXTINF:-1,Tvn Style
+http://iptvnetwork.link:25461/live/MH/MH/33575.ts
+#EXTINF:-1,TVN HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33612.ts
+#EXTINF:-1,TVN Fabula HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33611.ts
+#EXTINF:-1,Tvn Fabula HD
+http://iptvnetwork.link:25461/live/MH/MH/33574.ts
+#EXTINF:-1,TVN 7 FHD
+http://iptvnetwork.link:25461/live/MH/MH/33625.ts
+#EXTINF:-1,TVN 7
+http://iptvnetwork.link:25461/live/MH/MH/33624.ts
+#EXTINF:-1,TVN 24
+http://iptvnetwork.link:25461/live/MH/MH/33552.ts
+#EXTINF:-1,TV4 HD
+http://iptvnetwork.link:25461/live/MH/MH/33551.ts
+#EXTINF:-1,TV4
+http://iptvnetwork.link:25461/live/MH/MH/33702.ts
+#EXTINF:-1,TV Trwam
+http://iptvnetwork.link:25461/live/MH/MH/33634.ts
+#EXTINF:-1,TV Republika
+http://iptvnetwork.link:25461/live/MH/MH/33633.ts
+#EXTINF:-1,TV Puls
+http://iptvnetwork.link:25461/live/MH/MH/33632.ts
+#EXTINF:-1,TTV HD
+http://iptvnetwork.link:25461/live/MH/MH/33701.ts
+#EXTINF:-1,TNT HD
+http://iptvnetwork.link:25461/live/MH/MH/33631.ts
+#EXTINF:-1,TLC HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33610.ts
+#EXTINF:-1,TeleToon  HD
+http://iptvnetwork.link:25461/live/MH/MH/33630.ts
+#EXTINF:-1,Super Polsat
+http://iptvnetwork.link:25461/live/MH/MH/33629.ts
+#EXTINF:-1,Stopklatka TV
+http://iptvnetwork.link:25461/live/MH/MH/33628.ts
+#EXTINF:-1,Stars TV
+http://iptvnetwork.link:25461/live/MH/MH/33627.ts
+#EXTINF:-1,Sport Klub Polska
+http://iptvnetwork.link:25461/live/MH/MH/33621.ts
+#EXTINF:-1,SciFi Universal
+http://iptvnetwork.link:25461/live/MH/MH/33626.ts
+#EXTINF:-1,Puls 2
+http://iptvnetwork.link:25461/live/MH/MH/33699.ts
+#EXTINF:-1,Power TV
+http://iptvnetwork.link:25461/live/MH/MH/33698.ts
+#EXTINF:-1,Polsat Viasat Nature
+http://iptvnetwork.link:25461/live/MH/MH/33697.ts
+#EXTINF:-1,Polsat Viasat History HD
+http://iptvnetwork.link:25461/live/MH/MH/33696.ts
+#EXTINF:-1,Polsat Viasat Explore HD
+http://iptvnetwork.link:25461/live/MH/MH/33695.ts
+#EXTINF:-1,POLSAT SPORTS
+http://iptvnetwork.link:25461/live/MH/MH/33549.ts
+#EXTINF:-1,Polsat Sport News HD 1080
+http://iptvnetwork.link:25461/live/MH/MH/33609.ts
+#EXTINF:-1,Polsat Sport Fight HD
+http://iptvnetwork.link:25461/live/MH/MH/33694.ts
+#EXTINF:-1,Polsat Sport Extra HD
+http://iptvnetwork.link:25461/live/MH/MH/33515.ts
+#EXTINF:-1,Polsat Sport Extra
+http://iptvnetwork.link:25461/live/MH/MH/33550.ts
+#EXTINF:-1,POLSAT ROMANS HD
+http://iptvnetwork.link:25461/live/MH/MH/33693.ts
+#EXTINF:-1,Polsat Play HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33608.ts
+#EXTINF:-1,POLSAT PLAY
+http://iptvnetwork.link:25461/live/MH/MH/33548.ts
+#EXTINF:-1,Polsat News
+http://iptvnetwork.link:25461/live/MH/MH/33573.ts
+#EXTINF:-1,Polsat Music FHD
+http://iptvnetwork.link:25461/live/MH/MH/33692.ts
+#EXTINF:-1,Polsat Jim Jam
+http://iptvnetwork.link:25461/live/MH/MH/33607.ts
+#EXTINF:-1,Polsat HD
+http://iptvnetwork.link:25461/live/MH/MH/33606.ts
+#EXTINF:-1,Polsat Film HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33605.ts
+#EXTINF:-1,Polsat Doku FHD
+http://iptvnetwork.link:25461/live/MH/MH/33691.ts
+#EXTINF:-1,Polsat Cafe HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33604.ts
+#EXTINF:-1,Polsat Cafe
+http://iptvnetwork.link:25461/live/MH/MH/33516.ts
+#EXTINF:-1,Polsat 2 HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33603.ts
+#EXTINF:-1,POLSAT 2
+http://iptvnetwork.link:25461/live/MH/MH/33546.ts
+#EXTINF:-1,Polsat
+http://iptvnetwork.link:25461/live/MH/MH/33517.ts
+#EXTINF:-1,Polo TV
+http://iptvnetwork.link:25461/live/MH/MH/33690.ts
+#EXTINF:-1,PLAY HD
+http://iptvnetwork.link:25461/live/MH/MH/33545.ts
+#EXTINF:-1,Planete  HD
+http://iptvnetwork.link:25461/live/MH/MH/33689.ts
+#EXTINF:-1,Paramount Channel HD
+http://iptvnetwork.link:25461/live/MH/MH/33688.ts
+#EXTINF:-1,Nsport HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33602.ts
+#EXTINF:-1,Nsport
+http://iptvnetwork.link:25461/live/MH/MH/33572.ts
+#EXTINF:-1,NOWA TV
+http://iptvnetwork.link:25461/live/MH/MH/33687.ts
+#EXTINF:-1,Nick Jr
+http://iptvnetwork.link:25461/live/MH/MH/33623.ts
+#EXTINF:-1,Nat Geographic
+http://iptvnetwork.link:25461/live/MH/MH/33571.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptvnetwork.link:25461/live/MH/MH/33544.ts
+#EXTINF:-1,Nat Geo People HD
+http://iptvnetwork.link:25461/live/MH/MH/33686.ts
+#EXTINF:-1,Nat Geo HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33601.ts
+#EXTINF:-1,MTV Polska HD
+http://iptvnetwork.link:25461/live/MH/MH/33685.ts
+#EXTINF:-1,MTV Dance HD
+http://iptvnetwork.link:25461/live/MH/MH/33684.ts
+#EXTINF:-1,MiniMini  HD
+http://iptvnetwork.link:25461/live/MH/MH/33683.ts
+#EXTINF:-1,Metro
+http://iptvnetwork.link:25461/live/MH/MH/33682.ts
+#EXTINF:-1,Mango 24
+http://iptvnetwork.link:25461/live/MH/MH/33700.ts
+#EXTINF:-1,Lifetime HD
+http://iptvnetwork.link:25461/live/MH/MH/33681.ts
+#EXTINF:-1,Kuchnia  HD HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33600.ts
+#EXTINF:-1,Kino Tv
+http://iptvnetwork.link:25461/live/MH/MH/33680.ts
+#EXTINF:-1,Kino Polska Muzyka
+http://iptvnetwork.link:25461/live/MH/MH/33679.ts
+#EXTINF:-1,KINO POLSKA
+http://iptvnetwork.link:25461/live/MH/MH/33678.ts
+#EXTINF:-1,History HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33599.ts
+#EXTINF:-1,History
+http://iptvnetwork.link:25461/live/MH/MH/33570.ts
+#EXTINF:-1,HIP HOP TV
+http://iptvnetwork.link:25461/live/MH/MH/33677.ts
+#EXTINF:-1,HGTV HD
+http://iptvnetwork.link:25461/live/MH/MH/33622.ts
+#EXTINF:-1,HBO HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33598.ts
+#EXTINF:-1,HBO HD
+http://iptvnetwork.link:25461/live/MH/MH/33542.ts
+#EXTINF:-1,HBO 3 HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33597.ts
+#EXTINF:-1,HBO 2 HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33596.ts
+#EXTINF:-1,HBO 2 HD
+http://iptvnetwork.link:25461/live/MH/MH/33543.ts
+#EXTINF:-1,H2 HD
+http://iptvnetwork.link:25461/live/MH/MH/33676.ts
+#EXTINF:-1,Golf Channel HD
+http://iptvnetwork.link:25461/live/MH/MH/33675.ts
+#EXTINF:-1,FOX HD
+http://iptvnetwork.link:25461/live/MH/MH/33674.ts
+#EXTINF:-1,FOX COMEDY
+http://iptvnetwork.link:25461/live/MH/MH/33541.ts
+#EXTINF:-1,FOKUS TV
+http://iptvnetwork.link:25461/live/MH/MH/33673.ts
+#EXTINF:-1,Filmbox Premium
+http://iptvnetwork.link:25461/live/MH/MH/33518.ts
+#EXTINF:-1,Filmbox Family
+http://iptvnetwork.link:25461/live/MH/MH/33519.ts
+#EXTINF:-1,FILMBOX EXTRA
+http://iptvnetwork.link:25461/live/MH/MH/33540.ts
+#EXTINF:-1,Filmbox Arthouse
+http://iptvnetwork.link:25461/live/MH/MH/33672.ts
+#EXTINF:-1,Filmbox Action
+http://iptvnetwork.link:25461/live/MH/MH/33595.ts
+#EXTINF:-1,Fightbox HD
+http://iptvnetwork.link:25461/live/MH/MH/33539.ts
+#EXTINF:-1,Extreme Sports HD 1080
+http://iptvnetwork.link:25461/live/MH/MH/33569.ts
+#EXTINF:-1,Extreme Sports 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33594.ts
+#EXTINF:-1,Eurosport 2
+http://iptvnetwork.link:25461/live/MH/MH/33568.ts
+#EXTINF:-1,EUROSPORT 1HD 1080P
+http://iptvnetwork.link:25461/live/MH/MH/33593.ts
+#EXTINF:-1,Eurosport 1 HD
+http://iptvnetwork.link:25461/live/MH/MH/33538.ts
+#EXTINF:-1,ESKA TV Extra
+http://iptvnetwork.link:25461/live/MH/MH/33671.ts
+#EXTINF:-1,Eleven Sports HD ( 1080P )
+http://iptvnetwork.link:25461/live/MH/MH/33537.ts
+#EXTINF:-1,ELEVEN SPORTS HD
+http://iptvnetwork.link:25461/live/MH/MH/33536.ts
+#EXTINF:-1,Eleven Sports 4 HD
+http://iptvnetwork.link:25461/live/MH/MH/33670.ts
+#EXTINF:-1,Eleven Sports 3 FHD
+http://iptvnetwork.link:25461/live/MH/MH/33669.ts
+#EXTINF:-1,Eleven Sports 2 FHD
+http://iptvnetwork.link:25461/live/MH/MH/33668.ts
+#EXTINF:-1,Eleven HD ( 1080P )
+http://iptvnetwork.link:25461/live/MH/MH/33535.ts
+#EXTINF:-1,ELEVEN HD
+http://iptvnetwork.link:25461/live/MH/MH/33534.ts
+#EXTINF:-1,Eleven Extra HD
+http://iptvnetwork.link:25461/live/MH/MH/33533.ts
+#EXTINF:-1,E! Entertainment
+http://iptvnetwork.link:25461/live/MH/MH/33667.ts
+#EXTINF:-1,DTX
+http://iptvnetwork.link:25461/live/MH/MH/33666.ts
+#EXTINF:-1,Domo  HD
+http://iptvnetwork.link:25461/live/MH/MH/33567.ts
+#EXTINF:-1,Disney XD
+http://iptvnetwork.link:25461/live/MH/MH/33665.ts
+#EXTINF:-1,Disney Junior
+http://iptvnetwork.link:25461/live/MH/MH/33664.ts
+#EXTINF:-1,DISNEY J
+http://iptvnetwork.link:25461/live/MH/MH/33566.ts
+#EXTINF:-1,Disney Channel
+http://iptvnetwork.link:25461/live/MH/MH/33592.ts
+#EXTINF:-1,DISNEY
+http://iptvnetwork.link:25461/live/MH/MH/33532.ts
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://iptvnetwork.link:25461/live/MH/MH/33531.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptvnetwork.link:25461/live/MH/MH/33591.ts
+#EXTINF:-1,Discovery Life HD
+http://iptvnetwork.link:25461/live/MH/MH/33663.ts
+#EXTINF:-1,Discovery Historia
+http://iptvnetwork.link:25461/live/MH/MH/33590.ts
+#EXTINF:-1,Discovery HD
+http://iptvnetwork.link:25461/live/MH/MH/33565.ts
+#EXTINF:-1,Discovery Channel
+http://iptvnetwork.link:25461/live/MH/MH/33662.ts
+#EXTINF:-1,Disco Polo Music
+http://iptvnetwork.link:25461/live/MH/MH/33661.ts
+#EXTINF:-1,Da Vinci Learning
+http://iptvnetwork.link:25461/live/MH/MH/33660.ts
+#EXTINF:-1,BOOMERANG
+http://iptvnetwork.link:25461/live/MH/MH/33582.ts
+#EXTINF:-1,BBC HD
+http://iptvnetwork.link:25461/live/MH/MH/33581.ts
+#EXTINF:-1,BBC EARTH
+http://iptvnetwork.link:25461/live/MH/MH/33580.ts
+#EXTINF:-1,Baby TV HD
+http://iptvnetwork.link:25461/live/MH/MH/33561.ts
+#EXTINF:-1,AXN White
+http://iptvnetwork.link:25461/live/MH/MH/33578.ts
+#EXTINF:-1,AXN SPIN HD
+http://iptvnetwork.link:25461/live/MH/MH/33652.ts
+#EXTINF:-1,AXN HD
+http://iptvnetwork.link:25461/live/MH/MH/33577.ts
+#EXTINF:-1,AXN Black
+http://iptvnetwork.link:25461/live/MH/MH/33576.ts
+#EXTINF:-1,ATM Rozrywka
+http://iptvnetwork.link:25461/live/MH/MH/33651.ts
+#EXTINF:-1,ANIMAL PLANET HD 1080
+http://iptvnetwork.link:25461/live/MH/MH/33579.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptvnetwork.link:25461/live/MH/MH/33522.ts
+#EXTINF:-1,AMC
+http://iptvnetwork.link:25461/live/MH/MH/33650.ts
+#EXTINF:-1,ALE KINO HD
+http://iptvnetwork.link:25461/live/MH/MH/33521.ts
+#EXTINF:-1,Ale Kino   HD
+http://iptvnetwork.link:25461/live/MH/MH/33649.ts
+#EXTINF:-1,ADVENTURE HD
+http://iptvnetwork.link:25461/live/MH/MH/33648.ts
+#EXTINF:-1,Active Family
+http://iptvnetwork.link:25461/live/MH/MH/33647.ts
+#EXTINF:-1,4Fun Gold Hits
+http://iptvnetwork.link:25461/live/MH/MH/33646.ts
+#EXTINF:-1,4Fun Dance
+http://iptvnetwork.link:25461/live/MH/MH/33645.ts
+#EXTINF:-1,4 Fun TV
+http://iptvnetwork.link:25461/live/MH/MH/33560.ts
+#EXTINF:-1,4 Fun Hits
+http://iptvnetwork.link:25461/live/MH/MH/33559.ts
+#EXTINF:-1,13 Ulica HD
+http://iptvnetwork.link:25461/live/MH/MH/33644.ts
