@@ -1,875 +1,977 @@
 #EXTM3U
-#EXTINF:-1,AMC HD
-http://nitro.ltd:25461/live/Troy/Troy/1448.m3u8
-#EXTINF:-1,AMC HD (option2)
-http://nitro.ltd:25461/live/Troy/Troy/11541.m3u8
-#EXTINF:-1,AXS TV HD
-http://nitro.ltd:25461/live/Troy/Troy/22936.m3u8
-#EXTINF:-1,A&E HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1378.m3u8
-#EXTINF:-1,A&E 720
-http://nitro.ltd:25461/live/Troy/Troy/12213.m3u8
-#EXTINF:-1,AFN Prime Pacific HD
-http://nitro.ltd:25461/live/Troy/Troy/38578.m3u8
-#EXTINF:-1,AFN Spectrum HD
-http://nitro.ltd:25461/live/Troy/Troy/38575.m3u8
-#EXTINF:-1,Audience
-http://nitro.ltd:25461/live/Troy/Troy/41408.m3u8
-#EXTINF:-1,FM
-http://nitro.ltd:25461/live/Troy/Troy/41406.m3u8
-#EXTINF:-1,Ovation
-http://nitro.ltd:25461/live/Troy/Troy/41402.m3u8
-#EXTINF:-1,Comedy TV
-http://nitro.ltd:25461/live/Troy/Troy/41407.m3u8
-#EXTINF:-1,RETRO TV
-http://nitro.ltd:25461/live/Troy/Troy/40894.m3u8
-#EXTINF:-1,Pop
-http://nitro.ltd:25461/live/Troy/Troy/40893.m3u8
-#EXTINF:-1,AFN Prime Atlantic HD
-http://nitro.ltd:25461/live/Troy/Troy/38579.m3u8
-#EXTINF:-1,Cowboy Channel
-http://nitro.ltd:25461/live/Troy/Troy/31030.m3u8
-#EXTINF:-1,Animal Planet HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1449.m3u8
-#EXTINF:-1,BBC America HD
-http://nitro.ltd:25461/live/Troy/Troy/3683.m3u8
-#EXTINF:-1,BET HD
-http://nitro.ltd:25461/live/Troy/Troy/6201.m3u8
-#EXTINF:-1,BET HD(backup)
-http://nitro.ltd:25461/live/Troy/Troy/19733.m3u8
-#EXTINF:-1,BET Her
-http://nitro.ltd:25461/live/Troy/Troy/19688.m3u8
-#EXTINF:-1,Bet Jams
-http://nitro.ltd:25461/live/Troy/Troy/40888.m3u8
-#EXTINF:-1,Bet Soul
-http://nitro.ltd:25461/live/Troy/Troy/40889.m3u8
-#EXTINF:-1,FR: BET HD France
-http://nitro.ltd:25461/live/Troy/Troy/20985.m3u8
+#EXTINF:-1,A&E
+http://thenew.tv:8000/live/carter1/carter2/1.m3u8
+#EXTINF:-1,ABC
+http://thenew.tv:8000/live/carter1/carter2/2.m3u8
+#EXTINF:-1,ABC Albany GA
+http://thenew.tv:8000/live/carter1/carter2/93321.m3u8
+#EXTINF:-1,ABC Atlanta GA
+http://thenew.tv:8000/live/carter1/carter2/93277.m3u8
+#EXTINF:-1,ABC Augusta GA
+http://thenew.tv:8000/live/carter1/carter2/93325.m3u8
+#EXTINF:-1,ABC Baltimore MD
+http://thenew.tv:8000/live/carter1/carter2/93283.m3u8
+#EXTINF:-1,ABC Boston MA
+http://thenew.tv:8000/live/carter1/carter2/93281.m3u8
+#EXTINF:-1,ABC Charlotte NC
+http://thenew.tv:8000/live/carter1/carter2/367.m3u8
+#EXTINF:-1,ABC Chicago IL
+http://thenew.tv:8000/live/carter1/carter2/93279.m3u8
+#EXTINF:-1,ABC Clarksburg WV
+http://thenew.tv:8000/live/carter1/carter2/93324.m3u8
+#EXTINF:-1,ABC Columbus OH
+http://thenew.tv:8000/live/carter1/carter2/334.m3u8
+#EXTINF:-1,ABC Corpus Christi TV
+http://thenew.tv:8000/live/carter1/carter2/93300.m3u8
+#EXTINF:-1,ABC Dallas TX
+http://thenew.tv:8000/live/carter1/carter2/360.m3u8
+#EXTINF:-1,ABC Denver CO
+http://thenew.tv:8000/live/carter1/carter2/352.m3u8
+#EXTINF:-1,ABC Des Moines IA
+http://thenew.tv:8000/live/carter1/carter2/93328.m3u8
+#EXTINF:-1,ABC Detriot MI
+http://thenew.tv:8000/live/carter1/carter2/341.m3u8
+#EXTINF:-1,ABC Durham NC
+http://thenew.tv:8000/live/carter1/carter2/93292.m3u8
+#EXTINF:-1,ABC Fort Wayne IN
+http://thenew.tv:8000/live/carter1/carter2/93329.m3u8
+#EXTINF:-1,ABC Fresno CA
+http://thenew.tv:8000/live/carter1/carter2/93263.m3u8
+#EXTINF:-1,ABC Greenwood MS
+http://thenew.tv:8000/live/carter1/carter2/93320.m3u8
+#EXTINF:-1,ABC Hartford CT
+http://thenew.tv:8000/live/carter1/carter2/93270.m3u8
+#EXTINF:-1,ABC Houston TX
+http://thenew.tv:8000/live/carter1/carter2/93305.m3u8
+#EXTINF:-1,ABC Indianapolis IN
+http://thenew.tv:8000/live/carter1/carter2/332.m3u8
+#EXTINF:-1,ABC Jackson TN
+http://thenew.tv:8000/live/carter1/carter2/93323.m3u8
+#EXTINF:-1,ABC Kansas City MO
+http://thenew.tv:8000/live/carter1/carter2/365.m3u8
+#EXTINF:-1,ABC Knoxville TN
+http://thenew.tv:8000/live/carter1/carter2/93322.m3u8
+#EXTINF:-1,ABC Laredo TX
+http://thenew.tv:8000/live/carter1/carter2/93315.m3u8
+#EXTINF:-1,ABC Meridian MS
+http://thenew.tv:8000/live/carter1/carter2/93330.m3u8
+#EXTINF:-1,ABC Miami FL
+http://thenew.tv:8000/live/carter1/carter2/93272.m3u8
+#EXTINF:-1,ABC Milwaukee WI
+http://thenew.tv:8000/live/carter1/carter2/93311.m3u8
+#EXTINF:-1,ABC Minneapolis MN
+http://thenew.tv:8000/live/carter1/carter2/93289.m3u8
+#EXTINF:-1,ABC Nashville TN
+http://thenew.tv:8000/live/carter1/carter2/93298.m3u8
+#EXTINF:-1,ABC New Haven CT
+http://thenew.tv:8000/live/carter1/carter2/357.m3u8
+#EXTINF:-1,ABC News
+http://thenew.tv:8000/live/carter1/carter2/123.m3u8
+#EXTINF:-1,ABC NYC
+http://thenew.tv:8000/live/carter1/carter2/93295.m3u8
+#EXTINF:-1,ABC Orlando
+http://thenew.tv:8000/live/carter1/carter2/362.m3u8
+#EXTINF:-1,ABC Philadelphia PA 
+http://thenew.tv:8000/live/carter1/carter2/329.m3u8
+#EXTINF:-1,ABC Portland OR
+http://thenew.tv:8000/live/carter1/carter2/93297.m3u8
+#EXTINF:-1,ABC Sacramento CA
+http://thenew.tv:8000/live/carter1/carter2/93264.m3u8
+#EXTINF:-1,ABC Salt Lake City UT
+http://thenew.tv:8000/live/carter1/carter2/93309.m3u8
+#EXTINF:-1,ABC San Diego CA
+http://thenew.tv:8000/live/carter1/carter2/93265.m3u8
+#EXTINF:-1,ABC San Francisco CA 
+http://thenew.tv:8000/live/carter1/carter2/339.m3u8
+#EXTINF:-1,ABC Savannah GA
+http://thenew.tv:8000/live/carter1/carter2/93326.m3u8
+#EXTINF:-1,ABC Seattle WA
+http://thenew.tv:8000/live/carter1/carter2/93310.m3u8
+#EXTINF:-1,ABC Sioux City IA
+http://thenew.tv:8000/live/carter1/carter2/93314.m3u8
+#EXTINF:-1,ABC St. Louis MO
+http://thenew.tv:8000/live/carter1/carter2/93291.m3u8
+#EXTINF:-1,ABC Tampa FL
+http://thenew.tv:8000/live/carter1/carter2/93261.m3u8
+#EXTINF:-1,ABC Tri-Cities TN
+http://thenew.tv:8000/live/carter1/carter2/93327.m3u8
+#EXTINF:-1,ABC Waco TX
+http://thenew.tv:8000/live/carter1/carter2/93319.m3u8
+#EXTINF:-1,ABC Washington DC
+http://thenew.tv:8000/live/carter1/carter2/336.m3u8
+#EXTINF:-1,ABC Weslaco TX
+http://thenew.tv:8000/live/carter1/carter2/93303.m3u8
+#EXTINF:-1,ACC Network
+http://thenew.tv:8000/live/carter1/carter2/229.m3u8
+#EXTINF:-1,Aljazeera English
+http://thenew.tv:8000/live/carter1/carter2/124.m3u8
+#EXTINF:-1,AMC
+http://thenew.tv:8000/live/carter1/carter2/93228.m3u8
+#EXTINF:-1,AMC SD
+http://thenew.tv:8000/live/carter1/carter2/1971.m3u8
+#EXTINF:-1,American Heroes 
+http://thenew.tv:8000/live/carter1/carter2/4.m3u8
+#EXTINF:-1,American Heroes Channel SD
+http://thenew.tv:8000/live/carter1/carter2/1972.m3u8
+#EXTINF:-1,Animal PLanet
+http://thenew.tv:8000/live/carter1/carter2/5.m3u8
+#EXTINF:-1,Animal Planet SD
+http://thenew.tv:8000/live/carter1/carter2/1973.m3u8
+#EXTINF:-1,Animal Planet West SD
+http://thenew.tv:8000/live/carter1/carter2/1974.m3u8
+#EXTINF:-1,Antenna TV
+http://thenew.tv:8000/live/carter1/carter2/6.m3u8
+#EXTINF:-1,Aspire TV
+http://thenew.tv:8000/live/carter1/carter2/7.m3u8
+#EXTINF:-1,AWE 
+http://thenew.tv:8000/live/carter1/carter2/93238.m3u8
+#EXTINF:-1,AXS
+http://thenew.tv:8000/live/carter1/carter2/3034.m3u8
+#EXTINF:-1,BABY FIRST TV | HD
+http://thenew.tv:8000/live/carter1/carter2/196.m3u8
+#EXTINF:-1,BabyTV SD
+http://thenew.tv:8000/live/carter1/carter2/2053.m3u8
+#EXTINF:-1,BBC America
+http://thenew.tv:8000/live/carter1/carter2/8.m3u8
+#EXTINF:-1,BBC World News SD
+http://thenew.tv:8000/live/carter1/carter2/2075.m3u8
+#EXTINF:-1,BBC World News SD
+http://thenew.tv:8000/live/carter1/carter2/2085.m3u8
+#EXTINF:-1,Bein Sports 
+http://thenew.tv:8000/live/carter1/carter2/231.m3u8
+#EXTINF:-1,BET
+http://thenew.tv:8000/live/carter1/carter2/9.m3u8
+#EXTINF:-1,BET Gospel
+http://thenew.tv:8000/live/carter1/carter2/93236.m3u8
+#EXTINF:-1,BET HER
+http://thenew.tv:8000/live/carter1/carter2/3046.m3u8
+#EXTINF:-1,BET Jams
+http://thenew.tv:8000/live/carter1/carter2/93237.m3u8
+#EXTINF:-1,BIG TEN NETWORK
+http://thenew.tv:8000/live/carter1/carter2/3032.m3u8
+#EXTINF:-1,Big Ten Network
+http://thenew.tv:8000/live/carter1/carter2/232.m3u8
+#EXTINF:-1,Bloomberg
+http://thenew.tv:8000/live/carter1/carter2/125.m3u8
+#EXTINF:-1,BNN Bloomberg
+http://thenew.tv:8000/live/carter1/carter2/93369.m3u8
+#EXTINF:-1,BOOMERANG 
+http://thenew.tv:8000/live/carter1/carter2/197.m3u8
+#EXTINF:-1,Boomerang SD
+http://thenew.tv:8000/live/carter1/carter2/2054.m3u8
 #EXTINF:-1,Bounce TV
-http://nitro.ltd:25461/live/Troy/Troy/18516.m3u8
-#EXTINF:-1,Bravo HD
-http://nitro.ltd:25461/live/Troy/Troy/1390.m3u8
-#EXTINF:-1,Bravo 720
-http://nitro.ltd:25461/live/Troy/Troy/11532.m3u8
-#EXTINF:-1,Buzzr
-http://nitro.ltd:25461/live/Troy/Troy/19685.m3u8
-#EXTINF:-1,COMET
-http://nitro.ltd:25461/live/Troy/Troy/40918.m3u8
+http://thenew.tv:8000/live/carter1/carter2/10.m3u8
+#EXTINF:-1,Bravo East
+http://thenew.tv:8000/live/carter1/carter2/11.m3u8
+#EXTINF:-1,Bravo SD
+http://thenew.tv:8000/live/carter1/carter2/1975.m3u8
+#EXTINF:-1,Bravo West
+http://thenew.tv:8000/live/carter1/carter2/12.m3u8
+#EXTINF:-1,Bravo West SD
+http://thenew.tv:8000/live/carter1/carter2/1976.m3u8
+#EXTINF:-1,BT Sport
+http://thenew.tv:8000/live/carter1/carter2/233.m3u8
+#EXTINF:-1,Bt Sport ESPN
+http://thenew.tv:8000/live/carter1/carter2/237.m3u8
+#EXTINF:-1,BT Sports Box Nation
+http://thenew.tv:8000/live/carter1/carter2/236.m3u8
+#EXTINF:-1,Buzzr TV
+http://thenew.tv:8000/live/carter1/carter2/93352.m3u8
+#EXTINF:-1,C-Span
+http://thenew.tv:8000/live/carter1/carter2/127.m3u8
+#EXTINF:-1,C-Span 2
+http://thenew.tv:8000/live/carter1/carter2/126.m3u8
+#EXTINF:-1,Cartoon Network
+http://thenew.tv:8000/live/carter1/carter2/156.m3u8
+#EXTINF:-1,Cartoon Network SD
+http://thenew.tv:8000/live/carter1/carter2/2055.m3u8
+#EXTINF:-1,Cartoon Network SD
+http://thenew.tv:8000/live/carter1/carter2/1977.m3u8
+#EXTINF:-1,Cartoon Network West SD
+http://thenew.tv:8000/live/carter1/carter2/2056.m3u8
+#EXTINF:-1,Cartoon Network West SD
+http://thenew.tv:8000/live/carter1/carter2/1978.m3u8
+#EXTINF:-1,Cartoons 4U
+http://thenew.tv:8000/live/carter1/carter2/157.m3u8
+#EXTINF:-1,CBS 2 NYC
+http://thenew.tv:8000/live/carter1/carter2/1939.m3u8
+#EXTINF:-1,CBS Baltimore MD
+http://thenew.tv:8000/live/carter1/carter2/93284.m3u8
+#EXTINF:-1,CBS Denver CO
+http://thenew.tv:8000/live/carter1/carter2/93268.m3u8
+#EXTINF:-1,CBS Durham NC
+http://thenew.tv:8000/live/carter1/carter2/93293.m3u8
+#EXTINF:-1,CBS East
+http://thenew.tv:8000/live/carter1/carter2/33.m3u8
+#EXTINF:-1,CBS El Paso TX
+http://thenew.tv:8000/live/carter1/carter2/93331.m3u8
+#EXTINF:-1,CBS Grand Rapids MI
+http://thenew.tv:8000/live/carter1/carter2/93286.m3u8
+#EXTINF:-1,CBS Hartford CT
+http://thenew.tv:8000/live/carter1/carter2/93271.m3u8
+#EXTINF:-1,CBS Houston TX
+http://thenew.tv:8000/live/carter1/carter2/93306.m3u8
+#EXTINF:-1,CBS Juneau AK
+http://thenew.tv:8000/live/carter1/carter2/93337.m3u8
+#EXTINF:-1,CBS Kansas City MO
+http://thenew.tv:8000/live/carter1/carter2/594.m3u8
+#EXTINF:-1,CBS Little Rock AK
+http://thenew.tv:8000/live/carter1/carter2/93334.m3u8
+#EXTINF:-1,CBS Los Angeles
+http://thenew.tv:8000/live/carter1/carter2/593.m3u8
+#EXTINF:-1,CBS Miami FL 
+http://thenew.tv:8000/live/carter1/carter2/93273.m3u8
+#EXTINF:-1,CBS News
+http://thenew.tv:8000/live/carter1/carter2/132.m3u8
+#EXTINF:-1,CBS Providence RI
+http://thenew.tv:8000/live/carter1/carter2/93338.m3u8
+#EXTINF:-1,CBS South Bend IN
+http://thenew.tv:8000/live/carter1/carter2/93336.m3u8
+#EXTINF:-1,CBS Sports Network
+http://thenew.tv:8000/live/carter1/carter2/1955.m3u8
+#EXTINF:-1,CBS Tampa FL
+http://thenew.tv:8000/live/carter1/carter2/93262.m3u8
+#EXTINF:-1,CBS Tucson AZ
+http://thenew.tv:8000/live/carter1/carter2/93333.m3u8
+#EXTINF:-1,CBS Wausau WI
+http://thenew.tv:8000/live/carter1/carter2/93335.m3u8
+#EXTINF:-1,CBS Weslaco TX
+http://thenew.tv:8000/live/carter1/carter2/93304.m3u8
+#EXTINF:-1,CBS West
+http://thenew.tv:8000/live/carter1/carter2/34.m3u8
+#EXTINF:-1,Cheddar Big News
+http://thenew.tv:8000/live/carter1/carter2/134.m3u8
+#EXTINF:-1,Cheddar Business SD
+http://thenew.tv:8000/live/carter1/carter2/2076.m3u8
+#EXTINF:-1,Cheddar New SD
+http://thenew.tv:8000/live/carter1/carter2/2077.m3u8
+#EXTINF:-1,CINE SONY SD
+http://thenew.tv:8000/live/carter1/carter2/2063.m3u8
+#EXTINF:-1,CINEMAX 5 STARMAX | HD
+http://thenew.tv:8000/live/carter1/carter2/224.m3u8
+#EXTINF:-1,CINEMAX ACTIONMAX | HD
+http://thenew.tv:8000/live/carter1/carter2/225.m3u8
+#EXTINF:-1,CINEMAX EAST | HD
+http://thenew.tv:8000/live/carter1/carter2/226.m3u8
+#EXTINF:-1,Cinemax East SD
+http://thenew.tv:8000/live/carter1/carter2/2064.m3u8
+#EXTINF:-1,CINEMAX MOREMAX | HD
+http://thenew.tv:8000/live/carter1/carter2/227.m3u8
+#EXTINF:-1,CINEMAX WEST
+http://thenew.tv:8000/live/carter1/carter2/2065.m3u8
 #EXTINF:-1,CLEO TV
-http://nitro.ltd:25461/live/Troy/Troy/40913.m3u8
-#EXTINF:-1,Cooking Channel HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/3678.m3u8
-#EXTINF:-1,CMT HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/19735.m3u8
-#EXTINF:-1,Comedy Central HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/2105.m3u8
-#EXTINF:-1,Comedy Central 720
-http://nitro.ltd:25461/live/Troy/Troy/11665.m3u8
-#EXTINF:-1,AHC HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/19747.m3u8
-#EXTINF:-1,AHC HD 720
-http://nitro.ltd:25461/live/Troy/Troy/22427.m3u8
-#EXTINF:-1,Cozi HD
-http://nitro.ltd:25461/live/Troy/Troy/7372.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/22428.m3u8
-#EXTINF:-1,Discovery HD
-http://nitro.ltd:25461/live/Troy/Troy/1454.m3u8
-#EXTINF:-1,Discovery 720
-http://nitro.ltd:25461/live/Troy/Troy/11563.m3u8
-#EXTINF:-1,Discovery Family HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/3676.m3u8
-#EXTINF:-1,Destination America HD
-http://nitro.ltd:25461/live/Troy/Troy/19684.m3u8
-#EXTINF:-1,DIY HD
-http://nitro.ltd:25461/live/Troy/Troy/3673.m3u8
-#EXTINF:-1,DIY 720
-http://nitro.ltd:25461/live/Troy/Troy/11567.m3u8
-#EXTINF:-1,El Rey Network HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5873.m3u8
-#EXTINF:-1,E! Entertainment HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/3680.m3u8
-#EXTINF:-1,E! Entertainment 720
-http://nitro.ltd:25461/live/Troy/Troy/11531.m3u8
-#EXTINF:-1,Food Network HD
-http://nitro.ltd:25461/live/Troy/Troy/1948.m3u8
-#EXTINF:-1,Food Network 720
-http://nitro.ltd:25461/live/Troy/Troy/11552.m3u8
-#EXTINF:-1,FreeForm HD
-http://nitro.ltd:25461/live/Troy/Troy/1407.m3u8
-#EXTINF:-1,Fuse HD
-http://nitro.ltd:25461/live/Troy/Troy/15161.m3u8
-#EXTINF:-1,Fusion HD
-http://nitro.ltd:25461/live/Troy/Troy/3666.m3u8
-#EXTINF:-1,FX HD
-http://nitro.ltd:25461/live/Troy/Troy/3668.m3u8
-#EXTINF:-1,FX HD 720
-http://nitro.ltd:25461/live/Troy/Troy/5888.m3u8
-#EXTINF:-1,FX 720
-http://nitro.ltd:25461/live/Troy/Troy/11663.m3u8
-#EXTINF:-1,FX Movie Channel HD
-http://nitro.ltd:25461/live/Troy/Troy/19682.m3u8
-#EXTINF:-1,FXX HD
-http://nitro.ltd:25461/live/Troy/Troy/3667.m3u8
-#EXTINF:-1,FXX 720
-http://nitro.ltd:25461/live/Troy/Troy/11668.m3u8
-#EXTINF:-1,FYI HD
-http://nitro.ltd:25461/live/Troy/Troy/5876.m3u8
-#EXTINF:-1,Game Show Network HD 1080p
-http://nitro.ltd:25461/live/Troy/Troy/5877.m3u8
-#EXTINF:-1,Game Show Network HD
-http://nitro.ltd:25461/live/Troy/Troy/19731.m3u8
-#EXTINF:-1,Hallmark HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1410.m3u8
-#EXTINF:-1,Hallmark Drama HD
-http://nitro.ltd:25461/live/Troy/Troy/19730.m3u8
-#EXTINF:-1,Hallmark Movies & Mysteries HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5878.m3u8
-#EXTINF:-1,HGTV HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5881.m3u8
-#EXTINF:-1,HGTV 720
-http://nitro.ltd:25461/live/Troy/Troy/11573.m3u8
-#EXTINF:-1,History Channel HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1466.m3u8
-#EXTINF:-1,History Channel 720
-http://nitro.ltd:25461/live/Troy/Troy/11671.m3u8
-#EXTINF:-1,H2
-http://nitro.ltd:25461/live/Troy/Troy/19659.m3u8
-#EXTINF:-1,IFC HD
-http://nitro.ltd:25461/live/Troy/Troy/3663.m3u8
-#EXTINF:-1,ID East HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1414.m3u8
-#EXTINF:-1,ID 720
-http://nitro.ltd:25461/live/Troy/Troy/11560.m3u8
-#EXTINF:-1,INSP Network HD
-http://nitro.ltd:25461/live/Troy/Troy/23008.m3u8
-#EXTINF:-1,Lifetime HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1467.m3u8
-#EXTINF:-1,Lifetime 720
-http://nitro.ltd:25461/live/Troy/Troy/11667.m3u8
-#EXTINF:-1,Lifetime Movies HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5882.m3u8
-#EXTINF:-1,Lifetime Movies
-http://nitro.ltd:25461/live/Troy/Troy/15179.m3u8
-#EXTINF:-1,Logo
-http://nitro.ltd:25461/live/Troy/Troy/40921.m3u8
-#EXTINF:-1,LawandCrime
-http://nitro.ltd:25461/live/Troy/Troy/40919.m3u8
-#EXTINF:-1,MAV TV HD
-http://nitro.ltd:25461/live/Troy/Troy/18553.m3u8
-#EXTINF:-1,Motor Trend HD (Velocity)
-http://nitro.ltd:25461/live/Troy/Troy/1475.m3u8
-#EXTINF:-1,Motor Trend HD (backup)
-http://nitro.ltd:25461/live/Troy/Troy/28547.m3u8
-#EXTINF:-1,MTV HD
-http://nitro.ltd:25461/live/Troy/Troy/3662.m3u8
-#EXTINF:-1,MTV 2
-http://nitro.ltd:25461/live/Troy/Troy/19738.m3u8
-#EXTINF:-1,MTV Live HD
-http://nitro.ltd:25461/live/Troy/Troy/1417.m3u8
-#EXTINF:-1,MTV Classic
-http://nitro.ltd:25461/live/Troy/Troy/40922.m3u8
-#EXTINF:-1,MTVU
-http://nitro.ltd:25461/live/Troy/Troy/40923.m3u8
-#EXTINF:-1,Nat Geo HD
-http://nitro.ltd:25461/live/Troy/Troy/1377.m3u8
-#EXTINF:-1,Nat Geo 720
-http://nitro.ltd:25461/live/Troy/Troy/11566.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://nitro.ltd:25461/live/Troy/Troy/1469.m3u8
-#EXTINF:-1,Outdoor Channel HD
-http://nitro.ltd:25461/live/Troy/Troy/18449.m3u8
-#EXTINF:-1,Outside TV HD
-http://nitro.ltd:25461/live/Troy/Troy/18551.m3u8
-#EXTINF:-1,OWN 720
-http://nitro.ltd:25461/live/Troy/Troy/3660.m3u8
-#EXTINF:-1,OWN HD
-http://nitro.ltd:25461/live/Troy/Troy/19661.m3u8
-#EXTINF:-1,Oxygen HD
-http://nitro.ltd:25461/live/Troy/Troy/3672.m3u8
-#EXTINF:-1,POP HD
-http://nitro.ltd:25461/live/Troy/Troy/5896.m3u8
-#EXTINF:-1,PixL
-http://nitro.ltd:25461/live/Troy/Troy/40910.m3u8
-#EXTINF:-1,Ride TV
-http://nitro.ltd:25461/live/Troy/Troy/40909.m3u8
-#EXTINF:-1,Paramount Network HD
-http://nitro.ltd:25461/live/Troy/Troy/19662.m3u8
-#EXTINF:-1,Paramount Network (Spike )
-http://nitro.ltd:25461/live/Troy/Troy/1432.m3u8
-#EXTINF:-1,QVC
-http://nitro.ltd:25461/live/Troy/Troy/18527.m3u8
-#EXTINF:-1,QVC Beauty iQ
-http://nitro.ltd:25461/live/Troy/Troy/36587.m3u8
-#EXTINF:-1,Reelz HD
-http://nitro.ltd:25461/live/Troy/Troy/19678.m3u8
-#EXTINF:-1,Revolt HD
-http://nitro.ltd:25461/live/Troy/Troy/15163.m3u8
-#EXTINF:-1,Safari Live
-http://nitro.ltd:25461/live/Troy/Troy/37884.m3u8
-#EXTINF:-1,Science Channel HD
-http://nitro.ltd:25461/live/Troy/Troy/1455.m3u8
-#EXTINF:-1,Smithsonian Channel HD
-http://nitro.ltd:25461/live/Troy/Troy/22939.m3u8
-#EXTINF:-1,SYFY HD
-http://nitro.ltd:25461/live/Troy/Troy/2948.m3u8
-#EXTINF:-1,SYFY 720
-http://nitro.ltd:25461/live/Troy/Troy/11536.m3u8
-#EXTINF:-1,Sundance HD
-http://nitro.ltd:25461/live/Troy/Troy/19676.m3u8
-#EXTINF:-1,Tastemade
-http://nitro.ltd:25461/live/Troy/Troy/40924.m3u8
-#EXTINF:-1,TBS HD
-http://nitro.ltd:25461/live/Troy/Troy/2106.m3u8
-#EXTINF:-1,TBS 720
-http://nitro.ltd:25461/live/Troy/Troy/11537.m3u8
-#EXTINF:-1,TCM HD
-http://nitro.ltd:25461/live/Troy/Troy/19670.m3u8
-#EXTINF:-1,TLC HD East
-http://nitro.ltd:25461/live/Troy/Troy/5892.m3u8
-#EXTINF:-1,TNT HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/21762.m3u8
-#EXTINF:-1,TNT HD
-http://nitro.ltd:25461/live/Troy/Troy/2068.m3u8
-#EXTINF:-1,TNT 720
-http://nitro.ltd:25461/live/Troy/Troy/11534.m3u8
-#EXTINF:-1,Travel Channel HD
-http://nitro.ltd:25461/live/Troy/Troy/3655.m3u8
-#EXTINF:-1,Travel Channel 720
-http://nitro.ltd:25461/live/Troy/Troy/11565.m3u8
-#EXTINF:-1,TruTV HD West
-http://nitro.ltd:25461/live/Troy/Troy/1856.m3u8
-#EXTINF:-1,TruTV Hd 1080 East
-http://nitro.ltd:25461/live/Troy/Troy/11540.m3u8
-#EXTINF:-1,TV Land HD
-http://nitro.ltd:25461/live/Troy/Troy/1853.m3u8
-#EXTINF:-1,TV ONE
-http://nitro.ltd:25461/live/Troy/Troy/18451.m3u8
-#EXTINF:-1,USA Network East
-http://nitro.ltd:25461/live/Troy/Troy/40925.m3u8
-#EXTINF:-1,USA Network West
-http://nitro.ltd:25461/live/Troy/Troy/40914.m3u8
-#EXTINF:-1,USA Network HD
-http://nitro.ltd:25461/live/Troy/Troy/2067.m3u8
-#EXTINF:-1,USA Network HD.
-http://nitro.ltd:25461/live/Troy/Troy/16719.m3u8
-#EXTINF:-1,USA Network 720
-http://nitro.ltd:25461/live/Troy/Troy/18456.m3u8
-#EXTINF:-1,VH1 HD
-http://nitro.ltd:25461/live/Troy/Troy/19668.m3u8
-#EXTINF:-1,VH1 720
-http://nitro.ltd:25461/live/Troy/Troy/1476.m3u8
-#EXTINF:-1,Viceland HD
-http://nitro.ltd:25461/live/Troy/Troy/3734.m3u8
-#EXTINF:-1,World Fishing Network HD
-http://nitro.ltd:25461/live/Troy/Troy/18549.m3u8
-#EXTINF:-1,WE HD
-http://nitro.ltd:25461/live/Troy/Troy/3654.m3u8
-#EXTINF:-1, WE TV
-http://nitro.ltd:25461/live/Troy/Troy/40926.m3u8
+http://thenew.tv:8000/live/carter1/carter2/93366.m3u8
+#EXTINF:-1,CMT
+http://thenew.tv:8000/live/carter1/carter2/32.m3u8
+#EXTINF:-1,CNBC
+http://thenew.tv:8000/live/carter1/carter2/136.m3u8
+#EXTINF:-1,CNBC SD
+http://thenew.tv:8000/live/carter1/carter2/2078.m3u8
+#EXTINF:-1,CNBC World SD
+http://thenew.tv:8000/live/carter1/carter2/2079.m3u8
+#EXTINF:-1,CNN 
+http://thenew.tv:8000/live/carter1/carter2/13.m3u8
+#EXTINF:-1,CNN en Espa_ol SD
+http://thenew.tv:8000/live/carter1/carter2/2080.m3u8
+#EXTINF:-1,CNN SD
+http://thenew.tv:8000/live/carter1/carter2/2081.m3u8
+#EXTINF:-1,College Sports Pacific
+http://thenew.tv:8000/live/carter1/carter2/252.m3u8
+#EXTINF:-1,Comedy Central
+http://thenew.tv:8000/live/carter1/carter2/14.m3u8
+#EXTINF:-1,Comet SD
+http://thenew.tv:8000/live/carter1/carter2/1979.m3u8
+#EXTINF:-1,Comet TV
+http://thenew.tv:8000/live/carter1/carter2/31.m3u8
+#EXTINF:-1,Cooking Channel
+http://thenew.tv:8000/live/carter1/carter2/3036.m3u8
+#EXTINF:-1,Cooking Channel SD
+http://thenew.tv:8000/live/carter1/carter2/1980.m3u8
+#EXTINF:-1,Court TV
+http://thenew.tv:8000/live/carter1/carter2/35.m3u8
+#EXTINF:-1,COZI TV SD
+http://thenew.tv:8000/live/carter1/carter2/1981.m3u8
+#EXTINF:-1,Crime and Investigation
+http://thenew.tv:8000/live/carter1/carter2/84214.m3u8
+#EXTINF:-1,Destination America
+http://thenew.tv:8000/live/carter1/carter2/36.m3u8
+#EXTINF:-1,Destination America SD
+http://thenew.tv:8000/live/carter1/carter2/1982.m3u8
+#EXTINF:-1,Discovery Channel
+http://thenew.tv:8000/live/carter1/carter2/37.m3u8
+#EXTINF:-1,Discovery en Espa_ol SD
+http://thenew.tv:8000/live/carter1/carter2/1983.m3u8
+#EXTINF:-1,Discovery Familia SD
+http://thenew.tv:8000/live/carter1/carter2/1984.m3u8
+#EXTINF:-1,Discovery Family
+http://thenew.tv:8000/live/carter1/carter2/38.m3u8
+#EXTINF:-1,Discovery Family SD
+http://thenew.tv:8000/live/carter1/carter2/1985.m3u8
+#EXTINF:-1,Discovery ID
+http://thenew.tv:8000/live/carter1/carter2/40.m3u8
+#EXTINF:-1,Discovery Life
+http://thenew.tv:8000/live/carter1/carter2/39.m3u8
+#EXTINF:-1,Discovery Life Channel SD
+http://thenew.tv:8000/live/carter1/carter2/1986.m3u8
+#EXTINF:-1,Discovery Science
+http://thenew.tv:8000/live/carter1/carter2/93254.m3u8
+#EXTINF:-1,Discovery Science SD
+http://thenew.tv:8000/live/carter1/carter2/2024.m3u8
+#EXTINF:-1,Discovery SD
+http://thenew.tv:8000/live/carter1/carter2/1987.m3u8
+#EXTINF:-1,Discovery Velocity
+http://thenew.tv:8000/live/carter1/carter2/3041.m3u8
+#EXTINF:-1,DISNEY CHANNEL EAST
+http://thenew.tv:8000/live/carter1/carter2/198.m3u8
+#EXTINF:-1,Disney Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2057.m3u8
+#EXTINF:-1,DISNEY CHANNEL WEST | HD
+http://thenew.tv:8000/live/carter1/carter2/200.m3u8
+#EXTINF:-1,Disney Channel West SD
+http://thenew.tv:8000/live/carter1/carter2/2058.m3u8
+#EXTINF:-1,DISNEY JR
+http://thenew.tv:8000/live/carter1/carter2/205.m3u8
+#EXTINF:-1,DISNEY JR WEST 
+http://thenew.tv:8000/live/carter1/carter2/203.m3u8
+#EXTINF:-1,Disney Junior SD
+http://thenew.tv:8000/live/carter1/carter2/2059.m3u8
+#EXTINF:-1,Disney Junior West SD
+http://thenew.tv:8000/live/carter1/carter2/2060.m3u8
+#EXTINF:-1,Disney West
+http://thenew.tv:8000/live/carter1/carter2/159.m3u8
+#EXTINF:-1,DISNEY XD
+http://thenew.tv:8000/live/carter1/carter2/210.m3u8
+#EXTINF:-1,Disney XD SD
+http://thenew.tv:8000/live/carter1/carter2/2061.m3u8
+#EXTINF:-1,DISNEY XD WEST 
+http://thenew.tv:8000/live/carter1/carter2/208.m3u8
+#EXTINF:-1,Disney XD West SD
+http://thenew.tv:8000/live/carter1/carter2/2062.m3u8
+#EXTINF:-1,DIY
+http://thenew.tv:8000/live/carter1/carter2/41.m3u8
+#EXTINF:-1,DIY SD
+http://thenew.tv:8000/live/carter1/carter2/1988.m3u8
 #EXTINF:-1,Dog TV
-http://nitro.ltd:25461/live/Troy/Troy/22944.m3u8
-#EXTINF:-1,GINXE Sports (Gaming Channel)
-http://nitro.ltd:25461/live/Troy/Troy/22940.m3u8
-#EXTINF:-1,People TV HD
-http://nitro.ltd:25461/live/Troy/Troy/19727.m3u8
-#EXTINF:-1,Red Bull TV
-http://nitro.ltd:25461/live/Troy/Troy/22961.m3u8
-#EXTINF:-1,US .Radio U
-http://nitro.ltd:25461/live/Troy/Troy/22942.m3u8
-#EXTINF:-1,Westerns 4U TV
-http://nitro.ltd:25461/live/Troy/Troy/22937.m3u8
-#EXTINF:-1,Aspire
-http://nitro.ltd:25461/live/Troy/Troy/41409.m3u8
-#EXTINF:-1,Justice Central
-http://nitro.ltd:25461/live/Troy/Troy/41404.m3u8
-#EXTINF:-1,UP
-http://nitro.ltd:25461/live/Troy/Troy/41387.m3u8
-#EXTINF:-1,HBO HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/21761.m3u8
-#EXTINF:-1,HBO HD (backup)
-http://nitro.ltd:25461/live/Troy/Troy/19658.m3u8
-#EXTINF:-1,HBO 720
-http://nitro.ltd:25461/live/Troy/Troy/1464.m3u8
-#EXTINF:-1,HBO 2 HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/2444.m3u8
-#EXTINF:-1,HBO Comedy HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5879.m3u8
-#EXTINF:-1,HBO Signature HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5880.m3u8
-#EXTINF:-1,HBO Family HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/1411.m3u8
-#EXTINF:-1,Starz HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/22502.m3u8
-#EXTINF:-1,Starz East HD
-http://nitro.ltd:25461/live/Troy/Troy/1434.m3u8
-#EXTINF:-1,Starz East FHD
-http://nitro.ltd:25461/live/Troy/Troy/41398.m3u8
-#EXTINF:-1,Starz West FHD
-http://nitro.ltd:25461/live/Troy/Troy/41397.m3u8
-#EXTINF:-1,Starz Edge
-http://nitro.ltd:25461/live/Troy/Troy/41394.m3u8
-#EXTINF:-1,Starz in Black
-http://nitro.ltd:25461/live/Troy/Troy/41389.m3u8
-#EXTINF:-1,Starz Kids & Family
-http://nitro.ltd:25461/live/Troy/Troy/41388.m3u8
-#EXTINF:-1,Starz Encore West
-http://nitro.ltd:25461/live/Troy/Troy/41395.m3u8
-#EXTINF:-1,Starz Encore Suspense
-http://nitro.ltd:25461/live/Troy/Troy/41390.m3u8
-#EXTINF:-1,Starz Encore Family
-http://nitro.ltd:25461/live/Troy/Troy/41391.m3u8
-#EXTINF:-1,Starz Encore East
-http://nitro.ltd:25461/live/Troy/Troy/41396.m3u8
-#EXTINF:-1,Starz Encore Classic
-http://nitro.ltd:25461/live/Troy/Troy/41392.m3u8
-#EXTINF:-1,Starz Encore Action
-http://nitro.ltd:25461/live/Troy/Troy/41393.m3u8
-#EXTINF:-1,Starz Kids & Family HD
-http://nitro.ltd:25461/live/Troy/Troy/6852.m3u8
-#EXTINF:-1,Starz Encore Edge HD
-http://nitro.ltd:25461/live/Troy/Troy/19677.m3u8
-#EXTINF:-1,Starz Encore Comedy HD
-http://nitro.ltd:25461/live/Troy/Troy/19667.m3u8
-#EXTINF:-1,Starz Cinema HD
-http://nitro.ltd:25461/live/Troy/Troy/1433.m3u8
-#EXTINF:-1,Starz Encore Westerns
-http://nitro.ltd:25461/live/Troy/Troy/25047.m3u8
-#EXTINF:-1,Starz Comedy East HD
-http://nitro.ltd:25461/live/Troy/Troy/28529.m3u8
-#EXTINF:-1,Showtime East FHD
-http://nitro.ltd:25461/live/Troy/Troy/41400.m3u8
-#EXTINF:-1,Showtime West FHD
-http://nitro.ltd:25461/live/Troy/Troy/41399.m3u8
-#EXTINF:-1,Showtime HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/8186.m3u8
-#EXTINF:-1,Showtime East HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/19846.m3u8
-#EXTINF:-1,Showtime East HD (bkup)
-http://nitro.ltd:25461/live/Troy/Troy/19665.m3u8
-#EXTINF:-1,Showtime East HD (backup3)
-http://nitro.ltd:25461/live/Troy/Troy/3670.m3u8
-#EXTINF:-1,Showtime 2
-http://nitro.ltd:25461/live/Troy/Troy/41401.m3u8
-#EXTINF:-1,Showtime 2 HD
-http://nitro.ltd:25461/live/Troy/Troy/5883.m3u8
-#EXTINF:-1,Showtime 2 West HD
-http://nitro.ltd:25461/live/Troy/Troy/19663.m3u8
-#EXTINF:-1,Showtime Extreme HD
-http://nitro.ltd:25461/live/Troy/Troy/19666.m3u8
-#EXTINF:-1,Showtime Showcase HD
-http://nitro.ltd:25461/live/Troy/Troy/19664.m3u8
-#EXTINF:-1,Showtime Next HD
-http://nitro.ltd:25461/live/Troy/Troy/28540.m3u8
-#EXTINF:-1,Cinemax East HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/19847.m3u8
-#EXTINF:-1,Cinemax West HD.
-http://nitro.ltd:25461/live/Troy/Troy/1394.m3u8
-#EXTINF:-1,Cinemax Moremax HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/19655.m3u8
-#EXTINF:-1,Cinemax Actionmax HD
-http://nitro.ltd:25461/live/Troy/Troy/19656.m3u8
-#EXTINF:-1,Cinemax Thrillermax HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/3679.m3u8
-#EXTINF:-1,Sony Movies HD
-http://nitro.ltd:25461/live/Troy/Troy/19725.m3u8
-#EXTINF:-1,EPIX HD 1080
-http://nitro.ltd:25461/live/Troy/Troy/5874.m3u8
-#EXTINF:-1,EPIX2
-http://nitro.ltd:25461/live/Troy/Troy/40915.m3u8
+http://thenew.tv:8000/live/carter1/carter2/3040.m3u8
+#EXTINF:-1,E! Entertainment
+http://thenew.tv:8000/live/carter1/carter2/15.m3u8
+#EXTINF:-1,E! Entertainment West
+http://thenew.tv:8000/live/carter1/carter2/16.m3u8
+#EXTINF:-1,E! SD
+http://thenew.tv:8000/live/carter1/carter2/1989.m3u8
+#EXTINF:-1,E! West SD
+http://thenew.tv:8000/live/carter1/carter2/1990.m3u8
+#EXTINF:-1,EL Rey 
+http://thenew.tv:8000/live/carter1/carter2/17.m3u8
+#EXTINF:-1,Eleven Sports Network
+http://thenew.tv:8000/live/carter1/carter2/1956.m3u8
+#EXTINF:-1,Epix
+http://thenew.tv:8000/live/carter1/carter2/62.m3u8
+#EXTINF:-1,Epix 2
+http://thenew.tv:8000/live/carter1/carter2/65.m3u8
+#EXTINF:-1,Epix Drive-In
+http://thenew.tv:8000/live/carter1/carter2/93383.m3u8
 #EXTINF:-1,Epix Hits
-http://nitro.ltd:25461/live/Troy/Troy/40890.m3u8
-#EXTINF:-1,EPIX Drive-In
-http://nitro.ltd:25461/live/Troy/Troy/40912.m3u8
-#EXTINF:-1,HDNet Movies
-http://nitro.ltd:25461/live/Troy/Troy/40911.m3u8
-#EXTINF:-1,UK: Sky Movies Hits FHD
-http://nitro.ltd:25461/live/Troy/Troy/19848.m3u8
-#EXTINF:-1,UK: Sky Movies Animation HD
-http://nitro.ltd:25461/live/Troy/Troy/22831.m3u8
-#EXTINF:-1,UK: Sky Cinema Modern Greats
-http://nitro.ltd:25461/live/Troy/Troy/22832.m3u8
-#EXTINF:-1,UK: SKY Movies Select FHD
-http://nitro.ltd:25461/live/Troy/Troy/1357.m3u8
-#EXTINF:-1,UK: Sky Movies Thriller FHD
-http://nitro.ltd:25461/live/Troy/Troy/1358.m3u8
-#EXTINF:-1,UK: Sky Movies Showcase
-http://nitro.ltd:25461/live/Troy/Troy/3142.m3u8
-#EXTINF:-1,UK: SKY Movies Action FHD
-http://nitro.ltd:25461/live/Troy/Troy/1348.m3u8
-#EXTINF:-1,UK: SKY Movies Premier FHD
-http://nitro.ltd:25461/live/Troy/Troy/1355.m3u8
-#EXTINF:-1,UK: SKY Movies Drama FHD
-http://nitro.ltd:25461/live/Troy/Troy/1351.m3u8
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://nitro.ltd:25461/live/Troy/Troy/3391.m3u8
-#EXTINF:-1,UK: Sky Movies Sci-Fi and Horror FHD
-http://nitro.ltd:25461/live/Troy/Troy/1356.m3u8
-#EXTINF:-1,UK:Sky Movies Modern Greats HD
-http://nitro.ltd:25461/live/Troy/Troy/22968.m3u8
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
-http://nitro.ltd:25461/live/Troy/Troy/22962.m3u8
-#EXTINF:-1,UK: Sky Cinema Family FHD
-http://nitro.ltd:25461/live/Troy/Troy/22963.m3u8
+http://thenew.tv:8000/live/carter1/carter2/67.m3u8
+#EXTINF:-1,EPIX Hits SD
+http://thenew.tv:8000/live/carter1/carter2/2066.m3u8
+#EXTINF:-1,Epix SD
+http://thenew.tv:8000/live/carter1/carter2/2067.m3u8
+#EXTINF:-1,ESPN 
+http://thenew.tv:8000/live/carter1/carter2/234.m3u8
+#EXTINF:-1,ESPN 2
+http://thenew.tv:8000/live/carter1/carter2/235.m3u8
+#EXTINF:-1,ESPN 3
+http://thenew.tv:8000/live/carter1/carter2/93390.m3u8
+#EXTINF:-1,ESPN College Extra 1
+http://thenew.tv:8000/live/carter1/carter2/238.m3u8
+#EXTINF:-1,ESPN College Extra 2
+http://thenew.tv:8000/live/carter1/carter2/239.m3u8
+#EXTINF:-1,ESPN College Extra 3
+http://thenew.tv:8000/live/carter1/carter2/240.m3u8
+#EXTINF:-1,ESPN College Extra 4
+http://thenew.tv:8000/live/carter1/carter2/241.m3u8
+#EXTINF:-1,ESPN College Extra 5
+http://thenew.tv:8000/live/carter1/carter2/242.m3u8
+#EXTINF:-1,ESPN College Extra 6
+http://thenew.tv:8000/live/carter1/carter2/243.m3u8
+#EXTINF:-1,ESPN College Extra 7
+http://thenew.tv:8000/live/carter1/carter2/244.m3u8
+#EXTINF:-1,ESPN College Extra 8
+http://thenew.tv:8000/live/carter1/carter2/245.m3u8
+#EXTINF:-1,ESPN Deportes
+http://thenew.tv:8000/live/carter1/carter2/246.m3u8
+#EXTINF:-1,ESPN Goal Line
+http://thenew.tv:8000/live/carter1/carter2/247.m3u8
+#EXTINF:-1,ESPN News 
+http://thenew.tv:8000/live/carter1/carter2/93349.m3u8
+#EXTINF:-1,ESPN SEC Network
+http://thenew.tv:8000/live/carter1/carter2/248.m3u8
+#EXTINF:-1,ESPN U
+http://thenew.tv:8000/live/carter1/carter2/249.m3u8
+#EXTINF:-1,Fight Network 
+http://thenew.tv:8000/live/carter1/carter2/93346.m3u8
+#EXTINF:-1,FISHING NETWORK
+http://thenew.tv:8000/live/carter1/carter2/93384.m3u8
+#EXTINF:-1,Food Network
+http://thenew.tv:8000/live/carter1/carter2/18.m3u8
+#EXTINF:-1,Food Network SD
+http://thenew.tv:8000/live/carter1/carter2/1991.m3u8
+#EXTINF:-1,Food Network West SD
+http://thenew.tv:8000/live/carter1/carter2/1992.m3u8
+#EXTINF:-1,FOX 13 Tampa
+http://thenew.tv:8000/live/carter1/carter2/3043.m3u8
+#EXTINF:-1,FOX 5 NYC 
+http://thenew.tv:8000/live/carter1/carter2/1937.m3u8
+#EXTINF:-1,FOX Atlanta GA
+http://thenew.tv:8000/live/carter1/carter2/93276.m3u8
+#EXTINF:-1,FOX Buffalo NY
+http://thenew.tv:8000/live/carter1/carter2/93296.m3u8
+#EXTINF:-1,Fox Business 
+http://thenew.tv:8000/live/carter1/carter2/138.m3u8
+#EXTINF:-1,FOX Business Network SD
+http://thenew.tv:8000/live/carter1/carter2/2082.m3u8
+#EXTINF:-1,FOX Charlottesville VA
+http://thenew.tv:8000/live/carter1/carter2/93307.m3u8
+#EXTINF:-1,Fox College Sports Atlantic
+http://thenew.tv:8000/live/carter1/carter2/250.m3u8
+#EXTINF:-1,Fox College Sports Central
+http://thenew.tv:8000/live/carter1/carter2/251.m3u8
+#EXTINF:-1,FOX Corpus Christi TX
+http://thenew.tv:8000/live/carter1/carter2/93301.m3u8
+#EXTINF:-1,FOX Denver CO
+http://thenew.tv:8000/live/carter1/carter2/93269.m3u8
+#EXTINF:-1,FOX Detroit MI
+http://thenew.tv:8000/live/carter1/carter2/93287.m3u8
+#EXTINF:-1,FOX Durham NC
+http://thenew.tv:8000/live/carter1/carter2/93294.m3u8
+#EXTINF:-1,FOX East
+http://thenew.tv:8000/live/carter1/carter2/19.m3u8
+#EXTINF:-1,FOX Harrisonburg VA 
+http://thenew.tv:8000/live/carter1/carter2/93308.m3u8
+#EXTINF:-1,FOX Jacksonville FL
+http://thenew.tv:8000/live/carter1/carter2/93274.m3u8
+#EXTINF:-1,Fox Life SD
+http://thenew.tv:8000/live/carter1/carter2/1993.m3u8
+#EXTINF:-1,FOX Miami FL
+http://thenew.tv:8000/live/carter1/carter2/93275.m3u8
+#EXTINF:-1,FOX Minneapolis MN
+http://thenew.tv:8000/live/carter1/carter2/93290.m3u8
+#EXTINF:-1,FOX Nashville TN
+http://thenew.tv:8000/live/carter1/carter2/93299.m3u8
+#EXTINF:-1,FOX New Orleans LA
+http://thenew.tv:8000/live/carter1/carter2/93280.m3u8
+#EXTINF:-1,Fox News
+http://thenew.tv:8000/live/carter1/carter2/140.m3u8
+#EXTINF:-1,FOX News Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2083.m3u8
+#EXTINF:-1,FOX San Diego CA
+http://thenew.tv:8000/live/carter1/carter2/93266.m3u8
+#EXTINF:-1,FOX Seattle WA
+http://thenew.tv:8000/live/carter1/carter2/1751.m3u8
+#EXTINF:-1,Fox Soccer PLus 
+http://thenew.tv:8000/live/carter1/carter2/253.m3u8
+#EXTINF:-1,Fox Sports 1
+http://thenew.tv:8000/live/carter1/carter2/255.m3u8
+#EXTINF:-1,Fox Sports 2
+http://thenew.tv:8000/live/carter1/carter2/256.m3u8
+#EXTINF:-1,Fox Sports Arizona
+http://thenew.tv:8000/live/carter1/carter2/257.m3u8
+#EXTINF:-1,Fox Sports Atlanta
+http://thenew.tv:8000/live/carter1/carter2/258.m3u8
+#EXTINF:-1,Fox Sports Charlotte
+http://thenew.tv:8000/live/carter1/carter2/259.m3u8
+#EXTINF:-1,Fox Sports Cincinatti
+http://thenew.tv:8000/live/carter1/carter2/260.m3u8
+#EXTINF:-1,Fox Sports Deportes
+http://thenew.tv:8000/live/carter1/carter2/261.m3u8
+#EXTINF:-1,Fox Sports Detroit
+http://thenew.tv:8000/live/carter1/carter2/262.m3u8
+#EXTINF:-1,Fox Sports Florida
+http://thenew.tv:8000/live/carter1/carter2/263.m3u8
+#EXTINF:-1,Fox Sports Houston
+http://thenew.tv:8000/live/carter1/carter2/267.m3u8
+#EXTINF:-1,Fox Sports Indiana
+http://thenew.tv:8000/live/carter1/carter2/268.m3u8
+#EXTINF:-1,Fox Sports Kansas City
+http://thenew.tv:8000/live/carter1/carter2/269.m3u8
+#EXTINF:-1,Fox Sports Midwest
+http://thenew.tv:8000/live/carter1/carter2/270.m3u8
+#EXTINF:-1,Fox Sports New Orleans
+http://thenew.tv:8000/live/carter1/carter2/271.m3u8
+#EXTINF:-1,Fox Sports North
+http://thenew.tv:8000/live/carter1/carter2/273.m3u8
+#EXTINF:-1,Fox Sports North Carolina
+http://thenew.tv:8000/live/carter1/carter2/272.m3u8
+#EXTINF:-1,Fox Sports North Plus
+http://thenew.tv:8000/live/carter1/carter2/254.m3u8
+#EXTINF:-1,Fox Sports Ohio PLUS
+http://thenew.tv:8000/live/carter1/carter2/274.m3u8
+#EXTINF:-1,FOX SPORTS OKLAHOMA
+http://thenew.tv:8000/live/carter1/carter2/3035.m3u8
+#EXTINF:-1,Fox Sports Prime Ticket
+http://thenew.tv:8000/live/carter1/carter2/275.m3u8
+#EXTINF:-1,Fox Sports San Antonio
+http://thenew.tv:8000/live/carter1/carter2/276.m3u8
+#EXTINF:-1,Fox Sports San Diego
+http://thenew.tv:8000/live/carter1/carter2/277.m3u8
+#EXTINF:-1,Fox Sports South
+http://thenew.tv:8000/live/carter1/carter2/279.m3u8
+#EXTINF:-1,Fox Sports South Carolina
+http://thenew.tv:8000/live/carter1/carter2/278.m3u8
+#EXTINF:-1,Fox Sports Southeast
+http://thenew.tv:8000/live/carter1/carter2/280.m3u8
+#EXTINF:-1,Fox Sports Southwest PLUS
+http://thenew.tv:8000/live/carter1/carter2/281.m3u8
+#EXTINF:-1,Fox Sports SUN
+http://thenew.tv:8000/live/carter1/carter2/283.m3u8
+#EXTINF:-1,Fox Sports Tennessee 
+http://thenew.tv:8000/live/carter1/carter2/284.m3u8
+#EXTINF:-1,Fox Sports WEST
+http://thenew.tv:8000/live/carter1/carter2/285.m3u8
+#EXTINF:-1,Fox Sports Wisconsin
+http://thenew.tv:8000/live/carter1/carter2/286.m3u8
+#EXTINF:-1,Fox Sportstime Prime Ohio
+http://thenew.tv:8000/live/carter1/carter2/282.m3u8
+#EXTINF:-1,Free Speech TV
+http://thenew.tv:8000/live/carter1/carter2/143.m3u8
+#EXTINF:-1,FreeForm
+http://thenew.tv:8000/live/carter1/carter2/20.m3u8
+#EXTINF:-1,Freeform SD
+http://thenew.tv:8000/live/carter1/carter2/1994.m3u8
+#EXTINF:-1,Freeform West SD
+http://thenew.tv:8000/live/carter1/carter2/1995.m3u8
+#EXTINF:-1,Fuse
+http://thenew.tv:8000/live/carter1/carter2/42.m3u8
+#EXTINF:-1,Fusion
+http://thenew.tv:8000/live/carter1/carter2/43.m3u8
+#EXTINF:-1,Fusion SD
+http://thenew.tv:8000/live/carter1/carter2/1996.m3u8
+#EXTINF:-1,FX East
+http://thenew.tv:8000/live/carter1/carter2/44.m3u8
+#EXTINF:-1,FX SD
+http://thenew.tv:8000/live/carter1/carter2/1997.m3u8
+#EXTINF:-1,FX West
+http://thenew.tv:8000/live/carter1/carter2/45.m3u8
+#EXTINF:-1,FX West SD
+http://thenew.tv:8000/live/carter1/carter2/1998.m3u8
+#EXTINF:-1,FXM
+http://thenew.tv:8000/live/carter1/carter2/46.m3u8
+#EXTINF:-1,FXM SD
+http://thenew.tv:8000/live/carter1/carter2/1999.m3u8
+#EXTINF:-1,FXX East
+http://thenew.tv:8000/live/carter1/carter2/47.m3u8
+#EXTINF:-1,FXX SD
+http://thenew.tv:8000/live/carter1/carter2/2000.m3u8
+#EXTINF:-1,FXX West SD
+http://thenew.tv:8000/live/carter1/carter2/2001.m3u8
+#EXTINF:-1,FYI 
+http://thenew.tv:8000/live/carter1/carter2/48.m3u8
+#EXTINF:-1,GalaVision
+http://thenew.tv:8000/live/carter1/carter2/93239.m3u8
+#EXTINF:-1,Game Show Network
+http://thenew.tv:8000/live/carter1/carter2/49.m3u8
+#EXTINF:-1,Ginx TV
+http://thenew.tv:8000/live/carter1/carter2/3044.m3u8
+#EXTINF:-1,Gol Tv
+http://thenew.tv:8000/live/carter1/carter2/93396.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://thenew.tv:8000/live/carter1/carter2/3028.m3u8
+#EXTINF:-1,GONE FISHING
+http://thenew.tv:8000/live/carter1/carter2/3026.m3u8
+#EXTINF:-1,Great Amerian Country
+http://thenew.tv:8000/live/carter1/carter2/93364.m3u8
+#EXTINF:-1,Grit TV
+http://thenew.tv:8000/live/carter1/carter2/21.m3u8
+#EXTINF:-1,Hallmark
+http://thenew.tv:8000/live/carter1/carter2/50.m3u8
+#EXTINF:-1,Hallmark Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2002.m3u8
+#EXTINF:-1,Hallmark Drama
+http://thenew.tv:8000/live/carter1/carter2/51.m3u8
+#EXTINF:-1,Hallmark Drama SD
+http://thenew.tv:8000/live/carter1/carter2/2004.m3u8
+#EXTINF:-1,Hallmark Movies & Mysteries SD
+http://thenew.tv:8000/live/carter1/carter2/2005.m3u8
+#EXTINF:-1,Hallmark Movies and Mysteries
+http://thenew.tv:8000/live/carter1/carter2/52.m3u8
+#EXTINF:-1,HBO
+http://thenew.tv:8000/live/carter1/carter2/70.m3u8
+#EXTINF:-1,HBO Comedy
+http://thenew.tv:8000/live/carter1/carter2/72.m3u8
+#EXTINF:-1,HBO East SD
+http://thenew.tv:8000/live/carter1/carter2/2068.m3u8
 #EXTINF:-1,HBO Family East
-http://nitro.ltd:25461/live/Troy/Troy/41405.m3u8
-#EXTINF:-1,NBC HD Raleigh NC
-http://nitro.ltd:25461/live/Troy/Troy/1265.m3u8
-#EXTINF:-1,NBC HD Philadelphia PA
-http://nitro.ltd:25461/live/Troy/Troy/1420.m3u8
-#EXTINF:-1,FOX HD Philadelphia PA
-http://nitro.ltd:25461/live/Troy/Troy/2956.m3u8
-#EXTINF:-1,CBS HD Philadelphia PA
-http://nitro.ltd:25461/live/Troy/Troy/3682.m3u8
-#EXTINF:-1,ABC HD Philadelphia
-http://nitro.ltd:25461/live/Troy/Troy/3684.m3u8
-#EXTINF:-1,NBC HD Boston MA
-http://nitro.ltd:25461/live/Troy/Troy/5947.m3u8
-#EXTINF:-1,NBC HD San Francisco
-http://nitro.ltd:25461/live/Troy/Troy/5949.m3u8
-#EXTINF:-1,NBC HD Los Angeles CA
-http://nitro.ltd:25461/live/Troy/Troy/5950.m3u8
-#EXTINF:-1,FOX HD New York NY
-http://nitro.ltd:25461/live/Troy/Troy/5951.m3u8
-#EXTINF:-1,FOX HD Miami FL
-http://nitro.ltd:25461/live/Troy/Troy/5953.m3u8
-#EXTINF:-1,CBS HD San Francisco CA
-http://nitro.ltd:25461/live/Troy/Troy/5962.m3u8
-#EXTINF:-1,CBS HD Los Angeles CA
-http://nitro.ltd:25461/live/Troy/Troy/5963.m3u8
-#EXTINF:-1,WLNY HD New York
-http://nitro.ltd:25461/live/Troy/Troy/5964.m3u8
-#EXTINF:-1,PBS HD Penn State University
-http://nitro.ltd:25461/live/Troy/Troy/6072.m3u8
-#EXTINF:-1,NBC HD New York NY
-http://nitro.ltd:25461/live/Troy/Troy/6095.m3u8
-#EXTINF:-1,FOX HD San Francisco
-http://nitro.ltd:25461/live/Troy/Troy/6097.m3u8
-#EXTINF:-1,WGN HD Chicago
-http://nitro.ltd:25461/live/Troy/Troy/7958.m3u8
-#EXTINF:-1,NBC HD Houston TX
-http://nitro.ltd:25461/live/Troy/Troy/10160.m3u8
-#EXTINF:-1,FOX HD Houston TX
-http://nitro.ltd:25461/live/Troy/Troy/10163.m3u8
-#EXTINF:-1,CW HD
-http://nitro.ltd:25461/live/Troy/Troy/11669.m3u8
-#EXTINF:-1,CBS HD Nashville TN
-http://nitro.ltd:25461/live/Troy/Troy/11678.m3u8
-#EXTINF:-1,FOX HD Hartford CT
-http://nitro.ltd:25461/live/Troy/Troy/11680.m3u8
-#EXTINF:-1,FOX HD Tampa Bay FL
-http://nitro.ltd:25461/live/Troy/Troy/11682.m3u8
-#EXTINF:-1,FOX HD Detroit MI
-http://nitro.ltd:25461/live/Troy/Troy/11683.m3u8
-#EXTINF:-1,FOX HD Milwaukee WI
-http://nitro.ltd:25461/live/Troy/Troy/11685.m3u8
-#EXTINF:-1,NBC HD Pittsburgh PA
-http://nitro.ltd:25461/live/Troy/Troy/11695.m3u8
-#EXTINF:-1,FOX HD Tacoma
-http://nitro.ltd:25461/live/Troy/Troy/11700.m3u8
-#EXTINF:-1,NBC HD Washington DC
-http://nitro.ltd:25461/live/Troy/Troy/11701.m3u8
-#EXTINF:-1,CBS HD Boston MA
-http://nitro.ltd:25461/live/Troy/Troy/11702.m3u8
-#EXTINF:-1,CBS HD Sacramento CA
-http://nitro.ltd:25461/live/Troy/Troy/11703.m3u8
-#EXTINF:-1,FOX HD Pittsburgh PA
-http://nitro.ltd:25461/live/Troy/Troy/11704.m3u8
-#EXTINF:-1,FOX HD Minneapolis MN
-http://nitro.ltd:25461/live/Troy/Troy/11707.m3u8
-#EXTINF:-1,NBC HD Baltimore MD
-http://nitro.ltd:25461/live/Troy/Troy/11708.m3u8
-#EXTINF:-1,CBS HD Orlando FL
-http://nitro.ltd:25461/live/Troy/Troy/11709.m3u8
-#EXTINF:-1,FOX HD Austin TX
-http://nitro.ltd:25461/live/Troy/Troy/11710.m3u8
-#EXTINF:-1,FOX HD Denver CO
-http://nitro.ltd:25461/live/Troy/Troy/11711.m3u8
-#EXTINF:-1,NBC HD Hartford CT
-http://nitro.ltd:25461/live/Troy/Troy/11712.m3u8
-#EXTINF:-1,FOX HD Salt Lake City UT
-http://nitro.ltd:25461/live/Troy/Troy/11716.m3u8
-#EXTINF:-1,FOX HD Phoenix AZ
-http://nitro.ltd:25461/live/Troy/Troy/11720.m3u8
-#EXTINF:-1,FOX HD Columbus OH
-http://nitro.ltd:25461/live/Troy/Troy/11722.m3u8
-#EXTINF:-1,FOX HD Sacramento CA
-http://nitro.ltd:25461/live/Troy/Troy/11723.m3u8
-#EXTINF:-1,FOX  HD Newport
-http://nitro.ltd:25461/live/Troy/Troy/11725.m3u8
-#EXTINF:-1,FOX HD San Diego
-http://nitro.ltd:25461/live/Troy/Troy/11726.m3u8
-#EXTINF:-1,FOX HD Dallas TX
-http://nitro.ltd:25461/live/Troy/Troy/11729.m3u8
-#EXTINF:-1,NBC HD Detroit MI
-http://nitro.ltd:25461/live/Troy/Troy/11730.m3u8
-#EXTINF:-1,CBS HD Baltimore MD
-http://nitro.ltd:25461/live/Troy/Troy/11735.m3u8
-#EXTINF:-1,CBS HD Seattle WA
-http://nitro.ltd:25461/live/Troy/Troy/11736.m3u8
-#EXTINF:-1,CBS HD Minneapolis MN
-http://nitro.ltd:25461/live/Troy/Troy/11739.m3u8
-#EXTINF:-1,ABC HD New York NY
-http://nitro.ltd:25461/live/Troy/Troy/11740.m3u8
-#EXTINF:-1,CBS HD Chicago IL
-http://nitro.ltd:25461/live/Troy/Troy/11743.m3u8
-#EXTINF:-1,CBS HD Pittsburgh PA
-http://nitro.ltd:25461/live/Troy/Troy/11744.m3u8
-#EXTINF:-1,CBS HD San Diego CA
-http://nitro.ltd:25461/live/Troy/Troy/11745.m3u8
-#EXTINF:-1,FOX HD Chicago IL
-http://nitro.ltd:25461/live/Troy/Troy/11749.m3u8
-#EXTINF:-1,NBC HD Chicago IL
-http://nitro.ltd:25461/live/Troy/Troy/11752.m3u8
-#EXTINF:-1,CBS HD Miami FL
-http://nitro.ltd:25461/live/Troy/Troy/11756.m3u8
-#EXTINF:-1,FOX HD Jacksonville FL
-http://nitro.ltd:25461/live/Troy/Troy/11757.m3u8
-#EXTINF:-1,CBS HD Denver CO
-http://nitro.ltd:25461/live/Troy/Troy/11760.m3u8
-#EXTINF:-1,FOX HD Atlanta GA
-http://nitro.ltd:25461/live/Troy/Troy/11762.m3u8
-#EXTINF:-1,FOX HD Belmont
-http://nitro.ltd:25461/live/Troy/Troy/11767.m3u8
-#EXTINF:-1,FOX HD Kansas City MO
-http://nitro.ltd:25461/live/Troy/Troy/11768.m3u8
-#EXTINF:-1,FOX HD Indianapolis IN
-http://nitro.ltd:25461/live/Troy/Troy/11772.m3u8
-#EXTINF:-1,NBC HD Miami FL
-http://nitro.ltd:25461/live/Troy/Troy/11774.m3u8
-#EXTINF:-1,FOX HD Cleveland OH
-http://nitro.ltd:25461/live/Troy/Troy/11775.m3u8
-#EXTINF:-1,NBC HD Dallas TX
-http://nitro.ltd:25461/live/Troy/Troy/11776.m3u8
-#EXTINF:-1,CBS HD Detroit MI
-http://nitro.ltd:25461/live/Troy/Troy/11777.m3u8
-#EXTINF:-1,FOX HD Orlando FL
-http://nitro.ltd:25461/live/Troy/Troy/11778.m3u8
-#EXTINF:-1,CBS HD Jacksonville FL
-http://nitro.ltd:25461/live/Troy/Troy/11779.m3u8
-#EXTINF:-1,NBC HD San Diego CA
-http://nitro.ltd:25461/live/Troy/Troy/11782.m3u8
-#EXTINF:-1,FOX HD Moorefield
-http://nitro.ltd:25461/live/Troy/Troy/11783.m3u8
-#EXTINF:-1,CBS HD Dallas TX KTVT
-http://nitro.ltd:25461/live/Troy/Troy/11789.m3u8
-#EXTINF:-1,FOX HD Buffalo NY
-http://nitro.ltd:25461/live/Troy/Troy/11791.m3u8
-#EXTINF:-1,CBS HD Columbus OH
-http://nitro.ltd:25461/live/Troy/Troy/11796.m3u8
-#EXTINF:-1,FOX HD Gainsville FL
-http://nitro.ltd:25461/live/Troy/Troy/11797.m3u8
-#EXTINF:-1,FOX HD New Orleans LA
-http://nitro.ltd:25461/live/Troy/Troy/11800.m3u8
-#EXTINF:-1,CBS HD Bay City MI
-http://nitro.ltd:25461/live/Troy/Troy/12531.m3u8
-#EXTINF:-1,CBS HD Lexington KY
-http://nitro.ltd:25461/live/Troy/Troy/12532.m3u8
-#EXTINF:-1,CBS HD Waco TX
-http://nitro.ltd:25461/live/Troy/Troy/12533.m3u8
-#EXTINF:-1,CBS HD Dayton OH
-http://nitro.ltd:25461/live/Troy/Troy/12534.m3u8
-#EXTINF:-1,CBS HD Honolulu HI
-http://nitro.ltd:25461/live/Troy/Troy/12541.m3u8
-#EXTINF:-1,CBS HD Wichita KS
-http://nitro.ltd:25461/live/Troy/Troy/12542.m3u8
-#EXTINF:-1,CBS HD Charleston SC
-http://nitro.ltd:25461/live/Troy/Troy/12544.m3u8
-#EXTINF:-1,CBS HD Tucson AZ
-http://nitro.ltd:25461/live/Troy/Troy/12545.m3u8
-#EXTINF:-1,CBS HD Toledo OH
-http://nitro.ltd:25461/live/Troy/Troy/12548.m3u8
-#EXTINF:-1,CBS Savannah
-http://nitro.ltd:25461/live/Troy/Troy/12549.m3u8
-#EXTINF:-1,CBS HD Fort Myers
-http://nitro.ltd:25461/live/Troy/Troy/12560.m3u8
-#EXTINF:-1,CBS HD Burlington VT
-http://nitro.ltd:25461/live/Troy/Troy/12561.m3u8
-#EXTINF:-1,CBS HD Santa Maria CA
-http://nitro.ltd:25461/live/Troy/Troy/12566.m3u8
-#EXTINF:-1,CBS HD Knoxville TN
-http://nitro.ltd:25461/live/Troy/Troy/12567.m3u8
-#EXTINF:-1,CBS Colorado Springs
-http://nitro.ltd:25461/live/Troy/Troy/12569.m3u8
-#EXTINF:-1,CBS HD Lincoln NE
-http://nitro.ltd:25461/live/Troy/Troy/12570.m3u8
-#EXTINF:-1,CBS HD Roanoke VA
-http://nitro.ltd:25461/live/Troy/Troy/12585.m3u8
-#EXTINF:-1,CBS HD Cadillac MI
-http://nitro.ltd:25461/live/Troy/Troy/12586.m3u8
-#EXTINF:-1,CBS HD Oklahoma City OK
-http://nitro.ltd:25461/live/Troy/Troy/12591.m3u8
-#EXTINF:-1,CBS HD Springfield MO
-http://nitro.ltd:25461/live/Troy/Troy/13118.m3u8
-#EXTINF:-1,CW HD KTLA CH 5 Los Angeles CA
-http://nitro.ltd:25461/live/Troy/Troy/18517.m3u8
-#EXTINF:-1,ABC HD Philadelphia PA
-http://nitro.ltd:25461/live/Troy/Troy/18518.m3u8
-#EXTINF:-1,CBS HD New York NY
-http://nitro.ltd:25461/live/Troy/Troy/18519.m3u8
-#EXTINF:-1,News 12 Bronx
-http://nitro.ltd:25461/live/Troy/Troy/18520.m3u8
-#EXTINF:-1,News 12 Brooklyn
-http://nitro.ltd:25461/live/Troy/Troy/18521.m3u8
-#EXTINF:-1,News 12 Connecticut
-http://nitro.ltd:25461/live/Troy/Troy/18522.m3u8
-#EXTINF:-1,News 12 Hudson Valley
-http://nitro.ltd:25461/live/Troy/Troy/18523.m3u8
-#EXTINF:-1,News 12 Long Island
-http://nitro.ltd:25461/live/Troy/Troy/18524.m3u8
-#EXTINF:-1,News 12 New Jersey
-http://nitro.ltd:25461/live/Troy/Troy/18525.m3u8
-#EXTINF:-1,News 12 Westchester
-http://nitro.ltd:25461/live/Troy/Troy/18526.m3u8
-#EXTINF:-1,ABC HD Detroit MI
-http://nitro.ltd:25461/live/Troy/Troy/19813.m3u8
-#EXTINF:-1,ABC HD Milwaukee WI
-http://nitro.ltd:25461/live/Troy/Troy/19814.m3u8
-#EXTINF:-1,ABC HD Kansas City MO
-http://nitro.ltd:25461/live/Troy/Troy/19815.m3u8
-#EXTINF:-1,ABC HD San Antonio TX
-http://nitro.ltd:25461/live/Troy/Troy/19816.m3u8
-#EXTINF:-1,ABC HD Salt Lake City UT
-http://nitro.ltd:25461/live/Troy/Troy/19817.m3u8
-#EXTINF:-1,ABC HD Minneapolis MN
-http://nitro.ltd:25461/live/Troy/Troy/19818.m3u8
-#EXTINF:-1,ABC HD Baltimore MD
-http://nitro.ltd:25461/live/Troy/Troy/19819.m3u8
-#EXTINF:-1,ABC HD Tampa Bay FL
-http://nitro.ltd:25461/live/Troy/Troy/19820.m3u8
-#EXTINF:-1,ABC HD Phoenix AZ
-http://nitro.ltd:25461/live/Troy/Troy/19821.m3u8
-#EXTINF:-1,ABC HD Indianapolis IN
-http://nitro.ltd:25461/live/Troy/Troy/19822.m3u8
-#EXTINF:-1,ABC HD Cleveland OH
-http://nitro.ltd:25461/live/Troy/Troy/19823.m3u8
-#EXTINF:-1,ABC HD Sacramento CA
-http://nitro.ltd:25461/live/Troy/Troy/19824.m3u8
-#EXTINF:-1,ABC HD Charlotte NC
-http://nitro.ltd:25461/live/Troy/Troy/19825.m3u8
-#EXTINF:-1,ABC HD Miami FL
-http://nitro.ltd:25461/live/Troy/Troy/19826.m3u8
-#EXTINF:-1,ABC HD Orlando FL
-http://nitro.ltd:25461/live/Troy/Troy/19827.m3u8
-#EXTINF:-1,ABC HD Nashville TN
-http://nitro.ltd:25461/live/Troy/Troy/19828.m3u8
-#EXTINF:-1,ABC HD San Diego CA
-http://nitro.ltd:25461/live/Troy/Troy/19829.m3u8
-#EXTINF:-1,ABC HD Denver CO
-http://nitro.ltd:25461/live/Troy/Troy/19830.m3u8
-#EXTINF:-1,ABC HD Dallas TX
-http://nitro.ltd:25461/live/Troy/Troy/19831.m3u8
-#EXTINF:-1,ABC HD Pittsburgh PA
-http://nitro.ltd:25461/live/Troy/Troy/19832.m3u8
-#EXTINF:-1,ABC HD Boston MA
-http://nitro.ltd:25461/live/Troy/Troy/19833.m3u8
-#EXTINF:-1,ABC HD Hartford CT
-http://nitro.ltd:25461/live/Troy/Troy/19835.m3u8
-#EXTINF:-1,ABC HD Fresno CA
-http://nitro.ltd:25461/live/Troy/Troy/19836.m3u8
-#EXTINF:-1,ABC HD Durham
-http://nitro.ltd:25461/live/Troy/Troy/19837.m3u8
-#EXTINF:-1,ABC HD Atlanta GA
-http://nitro.ltd:25461/live/Troy/Troy/19838.m3u8
-#EXTINF:-1,ABC HD Chicago IL
-http://nitro.ltd:25461/live/Troy/Troy/19839.m3u8
-#EXTINF:-1,ABC HD San Francisco CA
-http://nitro.ltd:25461/live/Troy/Troy/19842.m3u8
-#EXTINF:-1,ABC HD Los Angeles CA
-http://nitro.ltd:25461/live/Troy/Troy/19843.m3u8
-#EXTINF:-1,ABC HD Houston TX
-http://nitro.ltd:25461/live/Troy/Troy/19844.m3u8
-#EXTINF:-1,NBC HD Jacksonville FL
-http://nitro.ltd:25461/live/Troy/Troy/19859.m3u8
-#EXTINF:-1,CBS HD Kansas City MO
-http://nitro.ltd:25461/live/Troy/Troy/19860.m3u8
-#EXTINF:-1,CBS HD Tampa Bay FL
-http://nitro.ltd:25461/live/Troy/Troy/19861.m3u8
-#EXTINF:-1,CBS HD Washington DC
-http://nitro.ltd:25461/live/Troy/Troy/19862.m3u8
-#EXTINF:-1,FOX HD Baltimore MD
-http://nitro.ltd:25461/live/Troy/Troy/19864.m3u8
-#EXTINF:-1,NBC HD Kansas City MO
-http://nitro.ltd:25461/live/Troy/Troy/19865.m3u8
-#EXTINF:-1,Fox HD Portland OR
-http://nitro.ltd:25461/live/Troy/Troy/19867.m3u8
-#EXTINF:-1,CBS HD New Orleans LA
-http://nitro.ltd:25461/live/Troy/Troy/19870.m3u8
-#EXTINF:-1,NBC HD New Orleans LA
-http://nitro.ltd:25461/live/Troy/Troy/19871.m3u8
-#EXTINF:-1,FOX HD Boston MA
-http://nitro.ltd:25461/live/Troy/Troy/19872.m3u8
-#EXTINF:-1,CBS HD KCAL Los Angeles CA
-http://nitro.ltd:25461/live/Troy/Troy/19874.m3u8
-#EXTINF:-1,CBS HD Houston TX
-http://nitro.ltd:25461/live/Troy/Troy/19879.m3u8
-#EXTINF:-1,CBS HD Charlotte NC
-http://nitro.ltd:25461/live/Troy/Troy/19880.m3u8
-#EXTINF:-1,NBC HD Charlotte NC
-http://nitro.ltd:25461/live/Troy/Troy/19881.m3u8
-#EXTINF:-1,CBS HD Atlanta GA
-http://nitro.ltd:25461/live/Troy/Troy/19882.m3u8
-#EXTINF:-1,NBC HD Atlanta GA
-http://nitro.ltd:25461/live/Troy/Troy/19883.m3u8
-#EXTINF:-1,FOX HD Charlotte NC
-http://nitro.ltd:25461/live/Troy/Troy/19884.m3u8
-#EXTINF:-1,CBS HD Cleveland OH
-http://nitro.ltd:25461/live/Troy/Troy/19885.m3u8
-#EXTINF:-1,NBC HD Cleveland
-http://nitro.ltd:25461/live/Troy/Troy/19886.m3u8
-#EXTINF:-1,NBC HD Denver CO
-http://nitro.ltd:25461/live/Troy/Troy/19887.m3u8
-#EXTINF:-1,NBC HD Indianapolis IN
-http://nitro.ltd:25461/live/Troy/Troy/19888.m3u8
-#EXTINF:-1,FOX HD Nashville TN
-http://nitro.ltd:25461/live/Troy/Troy/19889.m3u8
-#EXTINF:-1,NBC HD Nashville
-http://nitro.ltd:25461/live/Troy/Troy/19890.m3u8
-#EXTINF:-1,CBS HD Phoenix AZ
-http://nitro.ltd:25461/live/Troy/Troy/19891.m3u8
-#EXTINF:-1,NBC HD Phoenix AZ
-http://nitro.ltd:25461/live/Troy/Troy/19892.m3u8
-#EXTINF:-1,ABC HD Raleigh NC
-http://nitro.ltd:25461/live/Troy/Troy/21757.m3u8
-#EXTINF:-1,ABC HD Columbus
-http://nitro.ltd:25461/live/Troy/Troy/21759.m3u8
-#EXTINF:-1,WGN AMERICA
-http://nitro.ltd:25461/live/Troy/Troy/21780.m3u8
-#EXTINF:-1,FOX HD Albany NY
-http://nitro.ltd:25461/live/Troy/Troy/22836.m3u8
-#EXTINF:-1,FOX HD Burlington VT
-http://nitro.ltd:25461/live/Troy/Troy/22839.m3u8
-#EXTINF:-1,FOX HD Charleston SC
-http://nitro.ltd:25461/live/Troy/Troy/22840.m3u8
-#EXTINF:-1,FOX HD Charleston WV
-http://nitro.ltd:25461/live/Troy/Troy/22841.m3u8
-#EXTINF:-1,FOX HD Chattanooga TN
-http://nitro.ltd:25461/live/Troy/Troy/22842.m3u8
-#EXTINF:-1,FOX HD Cincinnati OH
-http://nitro.ltd:25461/live/Troy/Troy/22843.m3u8
-#EXTINF:-1,Fox HD Columbia SC
-http://nitro.ltd:25461/live/Troy/Troy/22844.m3u8
-#EXTINF:-1,FOX HD Davenport IA
-http://nitro.ltd:25461/live/Troy/Troy/22845.m3u8
-#EXTINF:-1,FOX HD Dayton OH
-http://nitro.ltd:25461/live/Troy/Troy/22846.m3u8
-#EXTINF:-1,FOX HD Des Moines IA
-http://nitro.ltd:25461/live/Troy/Troy/22847.m3u8
-#EXTINF:-1,FOX HD Fargo ND
-http://nitro.ltd:25461/live/Troy/Troy/22848.m3u8
-#EXTINF:-1,FOX HD Flint MI
-http://nitro.ltd:25461/live/Troy/Troy/22849.m3u8
-#EXTINF:-1,FOX HD Fresno CA
-http://nitro.ltd:25461/live/Troy/Troy/22850.m3u8
-#EXTINF:-1,FOX HD Fort Myers FL
-http://nitro.ltd:25461/live/Troy/Troy/22851.m3u8
-#EXTINF:-1,FOX HD Fort Wayne IN
-http://nitro.ltd:25461/live/Troy/Troy/22852.m3u8
-#EXTINF:-1,FOX HD Green Bay WI
-http://nitro.ltd:25461/live/Troy/Troy/22853.m3u8
-#EXTINF:-1,FOX HD Honolulu HI
-http://nitro.ltd:25461/live/Troy/Troy/22854.m3u8
-#EXTINF:-1,FOX HD Knoxville TN
-http://nitro.ltd:25461/live/Troy/Troy/22855.m3u8
-#EXTINF:-1,FOX HD Lexington KY
-http://nitro.ltd:25461/live/Troy/Troy/22856.m3u8
-#EXTINF:-1,FOX HD Lincoln NE
-http://nitro.ltd:25461/live/Troy/Troy/22857.m3u8
-#EXTINF:-1,FOX HD Macon GA
-http://nitro.ltd:25461/live/Troy/Troy/22858.m3u8
-#EXTINF:-1,FOX HD Madison WI
-http://nitro.ltd:25461/live/Troy/Troy/22859.m3u8
-#EXTINF:-1,FOX HD Memphis TN
-http://nitro.ltd:25461/live/Troy/Troy/22860.m3u8
-#EXTINF:-1,FOX HD Salinas CA
-http://nitro.ltd:25461/live/Troy/Troy/22861.m3u8
-#EXTINF:-1,FOX HD Myrtle Beach SC
-http://nitro.ltd:25461/live/Troy/Troy/22862.m3u8
-#EXTINF:-1,FOX HD Oklahoma City OK
-http://nitro.ltd:25461/live/Troy/Troy/22863.m3u8
-#EXTINF:-1,FOX HD Omaha NE
-http://nitro.ltd:25461/live/Troy/Troy/22864.m3u8
-#EXTINF:-1,FOX HD Cape Girardeau MO
-http://nitro.ltd:25461/live/Troy/Troy/22865.m3u8
-#EXTINF:-1,FOX HD Waterville
-http://nitro.ltd:25461/live/Troy/Troy/22866.m3u8
-#EXTINF:-1,FOX HD Raleigh NC
-http://nitro.ltd:25461/live/Troy/Troy/22867.m3u8
-#EXTINF:-1,FOX HD Richmond VA
-http://nitro.ltd:25461/live/Troy/Troy/22868.m3u8
-#EXTINF:-1,FOX HD Rochester NY
-http://nitro.ltd:25461/live/Troy/Troy/22869.m3u8
-#EXTINF:-1,FOX HD San Antonio TX
-http://nitro.ltd:25461/live/Troy/Troy/22870.m3u8
-#EXTINF:-1,FOX HD San Luis Obispo CA
-http://nitro.ltd:25461/live/Troy/Troy/22871.m3u8
-#EXTINF:-1,FOX HD Hardeeville SC
-http://nitro.ltd:25461/live/Troy/Troy/22872.m3u8
-#EXTINF:-1,FOX HD Shreveport LA
-http://nitro.ltd:25461/live/Troy/Troy/22873.m3u8
-#EXTINF:-1,FOX HD Sioux Falls SD
-http://nitro.ltd:25461/live/Troy/Troy/22874.m3u8
-#EXTINF:-1,FOX HD South Bend IN
-http://nitro.ltd:25461/live/Troy/Troy/22875.m3u8
-#EXTINF:-1,FOX HD Springfield IL
-http://nitro.ltd:25461/live/Troy/Troy/22876.m3u8
-#EXTINF:-1,FOX HD Springfield MO
-http://nitro.ltd:25461/live/Troy/Troy/22877.m3u8
-#EXTINF:-1,FOX HD Tallahassee FL
-http://nitro.ltd:25461/live/Troy/Troy/22878.m3u8
-#EXTINF:-1,FOX HD Tucson AZ
-http://nitro.ltd:25461/live/Troy/Troy/22879.m3u8
-#EXTINF:-1,FOX HD Tulsa OK
-http://nitro.ltd:25461/live/Troy/Troy/22880.m3u8
-#EXTINF:-1,FOX HD Tyler TX
-http://nitro.ltd:25461/live/Troy/Troy/22881.m3u8
-#EXTINF:-1,FOX HD Wichita KS
-http://nitro.ltd:25461/live/Troy/Troy/22882.m3u8
-#EXTINF:-1,FOX HD Hazleton PA
-http://nitro.ltd:25461/live/Troy/Troy/22883.m3u8
-#EXTINF:-1,CW HD Atlanta
-http://nitro.ltd:25461/live/Troy/Troy/22884.m3u8
-#EXTINF:-1,CW HD Detroit
-http://nitro.ltd:25461/live/Troy/Troy/22885.m3u8
-#EXTINF:-1,CW HD Philadelphia 1080
-http://nitro.ltd:25461/live/Troy/Troy/22886.m3u8
-#EXTINF:-1,CW HD Jeannette
-http://nitro.ltd:25461/live/Troy/Troy/22887.m3u8
-#EXTINF:-1,CW HD Sacramento
-http://nitro.ltd:25461/live/Troy/Troy/22888.m3u8
-#EXTINF:-1,CW HD Seattle
-http://nitro.ltd:25461/live/Troy/Troy/22889.m3u8
-#EXTINF:-1,CW HD St. Petersburg
-http://nitro.ltd:25461/live/Troy/Troy/22890.m3u8
-#EXTINF:-1,CW HD Harrisburg
-http://nitro.ltd:25461/live/Troy/Troy/22891.m3u8
-#EXTINF:-1,CW HD San Francisco
-http://nitro.ltd:25461/live/Troy/Troy/22892.m3u8
-#EXTINF:-1,WPIX11 HD NY
-http://nitro.ltd:25461/live/Troy/Troy/22964.m3u8
-#EXTINF:-1,ABC HD Portand OR
-http://nitro.ltd:25461/live/Troy/Troy/25027.m3u8
-#EXTINF:-1,NBC HD Portland OR
-http://nitro.ltd:25461/live/Troy/Troy/25028.m3u8
-#EXTINF:-1,My9 New Jersey
-http://nitro.ltd:25461/live/Troy/Troy/25033.m3u8
-#EXTINF:-1,CBS HD Harrisburg PA
-http://nitro.ltd:25461/live/Troy/Troy/25034.m3u8
-#EXTINF:-1,Fox  HD  Washington DC
-http://nitro.ltd:25461/live/Troy/Troy/25038.m3u8
-#EXTINF:-1,Fox HD Norfolk VA
-http://nitro.ltd:25461/live/Troy/Troy/28503.m3u8
-#EXTINF:-1,KTVB CHANNEL 7 BOISE
-http://nitro.ltd:25461/live/Troy/Troy/28548.m3u8
-#EXTINF:-1,Key TV HD
-http://nitro.ltd:25461/live/Troy/Troy/28549.m3u8
-#EXTINF:-1,FOX HD Las Vegas
-http://nitro.ltd:25461/live/Troy/Troy/31028.m3u8
-#EXTINF:-1,CBS HD Hartford CT
-http://nitro.ltd:25461/live/Troy/Troy/31031.m3u8
-#EXTINF:-1,FOX HD Louisville KY
-http://nitro.ltd:25461/live/Troy/Troy/31051.m3u8
-#EXTINF:-1,NBC HD Louisville
-http://nitro.ltd:25461/live/Troy/Troy/31052.m3u8
-#EXTINF:-1,CBS HD San Antonio TX
-http://nitro.ltd:25461/live/Troy/Troy/31054.m3u8
+http://thenew.tv:8000/live/carter1/carter2/74.m3u8
+#EXTINF:-1,HBO West SD
+http://thenew.tv:8000/live/carter1/carter2/2069.m3u8
+#EXTINF:-1,HBO Zone
+http://thenew.tv:8000/live/carter1/carter2/75.m3u8
+#EXTINF:-1,Headline News
+http://thenew.tv:8000/live/carter1/carter2/144.m3u8
+#EXTINF:-1,Heroes and Icons
+http://thenew.tv:8000/live/carter1/carter2/93359.m3u8
+#EXTINF:-1,HGTV
+http://thenew.tv:8000/live/carter1/carter2/22.m3u8
+#EXTINF:-1,HGTV SD
+http://thenew.tv:8000/live/carter1/carter2/2006.m3u8
+#EXTINF:-1,HGTV West SD
+http://thenew.tv:8000/live/carter1/carter2/2007.m3u8
+#EXTINF:-1,History
+http://thenew.tv:8000/live/carter1/carter2/23.m3u8
+#EXTINF:-1,HLN 
+http://thenew.tv:8000/live/carter1/carter2/3014.m3u8
+#EXTINF:-1,HLN SD
+http://thenew.tv:8000/live/carter1/carter2/2008.m3u8
+#EXTINF:-1,IFC SD
+http://thenew.tv:8000/live/carter1/carter2/2009.m3u8
+#EXTINF:-1,Independent Film Channel
+http://thenew.tv:8000/live/carter1/carter2/84.m3u8
+#EXTINF:-1,INSP Channel
+http://thenew.tv:8000/live/carter1/carter2/93356.m3u8
+#EXTINF:-1,Investigation Discovery
+http://thenew.tv:8000/live/carter1/carter2/1791.m3u8
+#EXTINF:-1,Investigation Discovery SD
+http://thenew.tv:8000/live/carter1/carter2/2010.m3u8
+#EXTINF:-1,Investigation Discovery West SD
+http://thenew.tv:8000/live/carter1/carter2/2011.m3u8
+#EXTINF:-1,ION
+http://thenew.tv:8000/live/carter1/carter2/24.m3u8
+#EXTINF:-1,LAFF TV
+http://thenew.tv:8000/live/carter1/carter2/93357.m3u8
+#EXTINF:-1,Law and Crime
+http://thenew.tv:8000/live/carter1/carter2/93367.m3u8
+#EXTINF:-1,Law and Crime SD
+http://thenew.tv:8000/live/carter1/carter2/2012.m3u8
+#EXTINF:-1,Lifetime
+http://thenew.tv:8000/live/carter1/carter2/25.m3u8
+#EXTINF:-1,Lifetime Movies
+http://thenew.tv:8000/live/carter1/carter2/26.m3u8
+#EXTINF:-1,Logo
+http://thenew.tv:8000/live/carter1/carter2/54.m3u8
+#EXTINF:-1,Longhorn Network
+http://thenew.tv:8000/live/carter1/carter2/1957.m3u8
+#EXTINF:-1,MAV TV
+http://thenew.tv:8000/live/carter1/carter2/93354.m3u8
+#EXTINF:-1,Me TV
+http://thenew.tv:8000/live/carter1/carter2/27.m3u8
+#EXTINF:-1,MGM 
+http://thenew.tv:8000/live/carter1/carter2/28.m3u8
+#EXTINF:-1,MLB Network
+http://thenew.tv:8000/live/carter1/carter2/287.m3u8
+#EXTINF:-1,MLB Strike Zone
+http://thenew.tv:8000/live/carter1/carter2/1958.m3u8
+#EXTINF:-1,Motor Trend
+http://thenew.tv:8000/live/carter1/carter2/29.m3u8
+#EXTINF:-1,MSG
+http://thenew.tv:8000/live/carter1/carter2/3033.m3u8
+#EXTINF:-1,MSNBC
+http://thenew.tv:8000/live/carter1/carter2/147.m3u8
+#EXTINF:-1,MSNBC
+http://thenew.tv:8000/live/carter1/carter2/2014.m3u8
+#EXTINF:-1,MSNBC SD
+http://thenew.tv:8000/live/carter1/carter2/2084.m3u8
+#EXTINF:-1,MTV
+http://thenew.tv:8000/live/carter1/carter2/30.m3u8
+#EXTINF:-1,MTV 2
+http://thenew.tv:8000/live/carter1/carter2/93391.m3u8
+#EXTINF:-1,MTV Classic
+http://thenew.tv:8000/live/carter1/carter2/93392.m3u8
+#EXTINF:-1,MTV Live
+http://thenew.tv:8000/live/carter1/carter2/93393.m3u8
+#EXTINF:-1,Nat Geo Mundo  SD
+http://thenew.tv:8000/live/carter1/carter2/2015.m3u8
+#EXTINF:-1,Nat Geo WIld
+http://thenew.tv:8000/live/carter1/carter2/86.m3u8
+#EXTINF:-1,Nat Geo WILD SD
+http://thenew.tv:8000/live/carter1/carter2/2016.m3u8
+#EXTINF:-1,National Geographic
+http://thenew.tv:8000/live/carter1/carter2/85.m3u8
+#EXTINF:-1,National Geographic SD
+http://thenew.tv:8000/live/carter1/carter2/2017.m3u8
+#EXTINF:-1,National Geographic West SD
+http://thenew.tv:8000/live/carter1/carter2/2018.m3u8
+#EXTINF:-1,NBA TV
+http://thenew.tv:8000/live/carter1/carter2/288.m3u8
+#EXTINF:-1,NBC 4 NYC
+http://thenew.tv:8000/live/carter1/carter2/1938.m3u8
+#EXTINF:-1,NBC Atlanta GA
+http://thenew.tv:8000/live/carter1/carter2/93278.m3u8
+#EXTINF:-1,NBC Baltimore MD
+http://thenew.tv:8000/live/carter1/carter2/93285.m3u8
+#EXTINF:-1,NBC Boston MA
+http://thenew.tv:8000/live/carter1/carter2/93282.m3u8
+#EXTINF:-1,NBC Corpus Christi TX
+http://thenew.tv:8000/live/carter1/carter2/93302.m3u8
+#EXTINF:-1,NBC Detroit MI
+http://thenew.tv:8000/live/carter1/carter2/93288.m3u8
+#EXTINF:-1,NBC East
+http://thenew.tv:8000/live/carter1/carter2/87.m3u8
+#EXTINF:-1,NBC Gold 1
+http://thenew.tv:8000/live/carter1/carter2/93373.m3u8
+#EXTINF:-1,NBC Gold 10
+http://thenew.tv:8000/live/carter1/carter2/93382.m3u8
+#EXTINF:-1,NBC Gold 2
+http://thenew.tv:8000/live/carter1/carter2/93374.m3u8
+#EXTINF:-1,NBC Gold 3
+http://thenew.tv:8000/live/carter1/carter2/93375.m3u8
+#EXTINF:-1,NBC Gold 4
+http://thenew.tv:8000/live/carter1/carter2/93376.m3u8
+#EXTINF:-1,NBC Gold 5
+http://thenew.tv:8000/live/carter1/carter2/93377.m3u8
+#EXTINF:-1,NBC Gold 6
+http://thenew.tv:8000/live/carter1/carter2/93378.m3u8
+#EXTINF:-1,NBC Gold 7
+http://thenew.tv:8000/live/carter1/carter2/93379.m3u8
+#EXTINF:-1,NBC Gold 8
+http://thenew.tv:8000/live/carter1/carter2/93380.m3u8
+#EXTINF:-1,NBC Gold 9
+http://thenew.tv:8000/live/carter1/carter2/93381.m3u8
+#EXTINF:-1,NBC San Diego CA
+http://thenew.tv:8000/live/carter1/carter2/93267.m3u8
+#EXTINF:-1,NBCSN
+http://thenew.tv:8000/live/carter1/carter2/296.m3u8
+#EXTINF:-1,NBCSN Bay Area
+http://thenew.tv:8000/live/carter1/carter2/289.m3u8
+#EXTINF:-1,NBCSN Boston
+http://thenew.tv:8000/live/carter1/carter2/290.m3u8
+#EXTINF:-1,NBCSN Chicago
+http://thenew.tv:8000/live/carter1/carter2/93388.m3u8
+#EXTINF:-1,NBCSN Chicago PLUS
+http://thenew.tv:8000/live/carter1/carter2/291.m3u8
+#EXTINF:-1,NBCSN Northwest
+http://thenew.tv:8000/live/carter1/carter2/292.m3u8
+#EXTINF:-1,NBCSN Philadeplhia
+http://thenew.tv:8000/live/carter1/carter2/293.m3u8
+#EXTINF:-1,NBCSN Washington 
+http://thenew.tv:8000/live/carter1/carter2/295.m3u8
+#EXTINF:-1,NBCSN Washington PLUS
+http://thenew.tv:8000/live/carter1/carter2/294.m3u8
+#EXTINF:-1,NESN
+http://thenew.tv:8000/live/carter1/carter2/3030.m3u8
+#EXTINF:-1,NESN Plus
+http://thenew.tv:8000/live/carter1/carter2/93363.m3u8
+#EXTINF:-1,New England Cable News
+http://thenew.tv:8000/live/carter1/carter2/149.m3u8
+#EXTINF:-1,NFL Network
+http://thenew.tv:8000/live/carter1/carter2/297.m3u8
+#EXTINF:-1,NFL Redzone 
+http://thenew.tv:8000/live/carter1/carter2/298.m3u8
+#EXTINF:-1,NHL Network
+http://thenew.tv:8000/live/carter1/carter2/299.m3u8
+#EXTINF:-1,NICK JR
+http://thenew.tv:8000/live/carter1/carter2/212.m3u8
+#EXTINF:-1,Nickelodeon
+http://thenew.tv:8000/live/carter1/carter2/93353.m3u8
+#EXTINF:-1,Nickelodeon
+http://thenew.tv:8000/live/carter1/carter2/93355.m3u8
+#EXTINF:-1,Nicktoons
+http://thenew.tv:8000/live/carter1/carter2/93358.m3u8
+#EXTINF:-1,Olympic Channel
+http://thenew.tv:8000/live/carter1/carter2/300.m3u8
+#EXTINF:-1,One America News
+http://thenew.tv:8000/live/carter1/carter2/151.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://thenew.tv:8000/live/carter1/carter2/3027.m3u8
+#EXTINF:-1,Outside TV
+http://thenew.tv:8000/live/carter1/carter2/88.m3u8
+#EXTINF:-1,Outside TV SD
+http://thenew.tv:8000/live/carter1/carter2/2019.m3u8
+#EXTINF:-1,Ovation
+http://thenew.tv:8000/live/carter1/carter2/93365.m3u8
+#EXTINF:-1,Own
+http://thenew.tv:8000/live/carter1/carter2/89.m3u8
+#EXTINF:-1,OWN SD
+http://thenew.tv:8000/live/carter1/carter2/2020.m3u8
+#EXTINF:-1,Oxygen
+http://thenew.tv:8000/live/carter1/carter2/90.m3u8
+#EXTINF:-1,Oxygen SD
+http://thenew.tv:8000/live/carter1/carter2/2021.m3u8
+#EXTINF:-1,Oxygen West SD
+http://thenew.tv:8000/live/carter1/carter2/2022.m3u8
+#EXTINF:-1,PAC 12 Arizona
+http://thenew.tv:8000/live/carter1/carter2/1950.m3u8
+#EXTINF:-1,PAC 12 Bay Area
+http://thenew.tv:8000/live/carter1/carter2/1949.m3u8
+#EXTINF:-1,PAC 12 Los Angeles 
+http://thenew.tv:8000/live/carter1/carter2/1951.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://thenew.tv:8000/live/carter1/carter2/1952.m3u8
+#EXTINF:-1,Pac 12 Network
+http://thenew.tv:8000/live/carter1/carter2/1953.m3u8
+#EXTINF:-1,PAC 12 Oregon
+http://thenew.tv:8000/live/carter1/carter2/93387.m3u8
+#EXTINF:-1,Pac 12 Washington
+http://thenew.tv:8000/live/carter1/carter2/1954.m3u8
+#EXTINF:-1,Paramount Network
+http://thenew.tv:8000/live/carter1/carter2/91.m3u8
+#EXTINF:-1,PBS
+http://thenew.tv:8000/live/carter1/carter2/465.m3u8
+#EXTINF:-1,Pixl
+http://thenew.tv:8000/live/carter1/carter2/93368.m3u8
+#EXTINF:-1,POP SD
+http://thenew.tv:8000/live/carter1/carter2/2023.m3u8
+#EXTINF:-1,Pop TV
+http://thenew.tv:8000/live/carter1/carter2/92.m3u8
+#EXTINF:-1,QVC
+http://thenew.tv:8000/live/carter1/carter2/94.m3u8
+#EXTINF:-1,Reelz
+http://thenew.tv:8000/live/carter1/carter2/93235.m3u8
+#EXTINF:-1,SEC Network
+http://thenew.tv:8000/live/carter1/carter2/301.m3u8
+#EXTINF:-1,Showtime 2
+http://thenew.tv:8000/live/carter1/carter2/77.m3u8
+#EXTINF:-1,Showtime East
+http://thenew.tv:8000/live/carter1/carter2/76.m3u8
+#EXTINF:-1,Showtime East SD
+http://thenew.tv:8000/live/carter1/carter2/2070.m3u8
+#EXTINF:-1,Showtime West
+http://thenew.tv:8000/live/carter1/carter2/78.m3u8
+#EXTINF:-1,Showtime West SD
+http://thenew.tv:8000/live/carter1/carter2/2072.m3u8
+#EXTINF:-1,Smithsonian
+http://thenew.tv:8000/live/carter1/carter2/97.m3u8
+#EXTINF:-1,Smithsonian Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2025.m3u8
+#EXTINF:-1,Smithsonian Channel West SD
+http://thenew.tv:8000/live/carter1/carter2/2026.m3u8
+#EXTINF:-1,SNY SD
+http://thenew.tv:8000/live/carter1/carter2/2027.m3u8
+#EXTINF:-1,Sony Movie Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2073.m3u8
+#EXTINF:-1,Sony Movie Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2028.m3u8
+#EXTINF:-1,SPECTRUM SPORTSNET
+http://thenew.tv:8000/live/carter1/carter2/3031.m3u8
+#EXTINF:-1,Sportsman Channel
+http://thenew.tv:8000/live/carter1/carter2/93362.m3u8
+#EXTINF:-1,Sportsnet LA Dodgers
+http://thenew.tv:8000/live/carter1/carter2/1941.m3u8
+#EXTINF:-1,Sportsnet LA Lakers
+http://thenew.tv:8000/live/carter1/carter2/1940.m3u8
+#EXTINF:-1,Sportsnet New York
+http://thenew.tv:8000/live/carter1/carter2/1946.m3u8
+#EXTINF:-1,Stadium
+http://thenew.tv:8000/live/carter1/carter2/1944.m3u8
+#EXTINF:-1,Start TV
+http://thenew.tv:8000/live/carter1/carter2/98.m3u8
+#EXTINF:-1,Starz Cinema
+http://thenew.tv:8000/live/carter1/carter2/93370.m3u8
+#EXTINF:-1,Starz Comedy
+http://thenew.tv:8000/live/carter1/carter2/79.m3u8
+#EXTINF:-1,STARZ EAST 
+http://thenew.tv:8000/live/carter1/carter2/93260.m3u8
+#EXTINF:-1,Starz Edge
+http://thenew.tv:8000/live/carter1/carter2/80.m3u8
+#EXTINF:-1,Starz Encore
+http://thenew.tv:8000/live/carter1/carter2/81.m3u8
+#EXTINF:-1,Starz Encore Classic
+http://thenew.tv:8000/live/carter1/carter2/93394.m3u8
+#EXTINF:-1,Starz Encore East SD
+http://thenew.tv:8000/live/carter1/carter2/2074.m3u8
+#EXTINF:-1,Starz In Black
+http://thenew.tv:8000/live/carter1/carter2/93397.m3u8
+#EXTINF:-1,Starz Kids & Family
+http://thenew.tv:8000/live/carter1/carter2/82.m3u8
+#EXTINF:-1,Sundance TV
+http://thenew.tv:8000/live/carter1/carter2/99.m3u8
+#EXTINF:-1,SundanceTV SD
+http://thenew.tv:8000/live/carter1/carter2/2029.m3u8
+#EXTINF:-1,SyFy East
+http://thenew.tv:8000/live/carter1/carter2/100.m3u8
+#EXTINF:-1,Syfy SD
+http://thenew.tv:8000/live/carter1/carter2/2030.m3u8
+#EXTINF:-1,SyFy West
+http://thenew.tv:8000/live/carter1/carter2/101.m3u8
+#EXTINF:-1,Syfy West SD
+http://thenew.tv:8000/live/carter1/carter2/2031.m3u8
+#EXTINF:-1,Tastemade
+http://thenew.tv:8000/live/carter1/carter2/102.m3u8
+#EXTINF:-1,Tastemade  SD
+http://thenew.tv:8000/live/carter1/carter2/2032.m3u8
+#EXTINF:-1,TBS
+http://thenew.tv:8000/live/carter1/carter2/429.m3u8
+#EXTINF:-1,TBS SD
+http://thenew.tv:8000/live/carter1/carter2/2033.m3u8
+#EXTINF:-1,TBS West SD
+http://thenew.tv:8000/live/carter1/carter2/2034.m3u8
+#EXTINF:-1,TeenNick
+http://thenew.tv:8000/live/carter1/carter2/93360.m3u8
+#EXTINF:-1,Tennis Channel
+http://thenew.tv:8000/live/carter1/carter2/1947.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+http://thenew.tv:8000/live/carter1/carter2/3029.m3u8
+#EXTINF:-1,The CW
+http://thenew.tv:8000/live/carter1/carter2/103.m3u8
+#EXTINF:-1,The Movie Channel
+http://thenew.tv:8000/live/carter1/carter2/93371.m3u8
+#EXTINF:-1,The Movie Channel Xtra
+http://thenew.tv:8000/live/carter1/carter2/93372.m3u8
+#EXTINF:-1,The Weather Channel
+http://thenew.tv:8000/live/carter1/carter2/119.m3u8
+#EXTINF:-1,TLC
+http://thenew.tv:8000/live/carter1/carter2/104.m3u8
+#EXTINF:-1,TLC SD
+http://thenew.tv:8000/live/carter1/carter2/2036.m3u8
+#EXTINF:-1,TLC West SD
+http://thenew.tv:8000/live/carter1/carter2/2037.m3u8
+#EXTINF:-1,TNT East
+http://thenew.tv:8000/live/carter1/carter2/105.m3u8
+#EXTINF:-1,TNT SD
+http://thenew.tv:8000/live/carter1/carter2/2038.m3u8
+#EXTINF:-1,TNT West
+http://thenew.tv:8000/live/carter1/carter2/106.m3u8
+#EXTINF:-1,TNT West SD
+http://thenew.tv:8000/live/carter1/carter2/2039.m3u8
+#EXTINF:-1,Travel Channel
+http://thenew.tv:8000/live/carter1/carter2/107.m3u8
+#EXTINF:-1,Travel Channel SD
+http://thenew.tv:8000/live/carter1/carter2/2040.m3u8
+#EXTINF:-1,Travel Channel West SD
+http://thenew.tv:8000/live/carter1/carter2/2041.m3u8
+#EXTINF:-1,Tru TV East
+http://thenew.tv:8000/live/carter1/carter2/108.m3u8
+#EXTINF:-1,Turner Classic Movies
+http://thenew.tv:8000/live/carter1/carter2/93395.m3u8
+#EXTINF:-1,Turner Classic Movies SD
+http://thenew.tv:8000/live/carter1/carter2/2042.m3u8
+#EXTINF:-1,Tv Land 
+http://thenew.tv:8000/live/carter1/carter2/109.m3u8
+#EXTINF:-1,Tv One
+http://thenew.tv:8000/live/carter1/carter2/110.m3u8
+#EXTINF:-1,TVG Network
+http://thenew.tv:8000/live/carter1/carter2/93255.m3u8
+#EXTINF:-1,Universo SD
+http://thenew.tv:8000/live/carter1/carter2/2043.m3u8
+#EXTINF:-1,Universo West SD
+http://thenew.tv:8000/live/carter1/carter2/2044.m3u8
+#EXTINF:-1,Up Tv
+http://thenew.tv:8000/live/carter1/carter2/93385.m3u8
+#EXTINF:-1,Up Tv
+http://thenew.tv:8000/live/carter1/carter2/93386.m3u8
+#EXTINF:-1,USA Network East
+http://thenew.tv:8000/live/carter1/carter2/111.m3u8
+#EXTINF:-1,USA Network West
+http://thenew.tv:8000/live/carter1/carter2/113.m3u8
+#EXTINF:-1,USA SD
+http://thenew.tv:8000/live/carter1/carter2/2045.m3u8
+#EXTINF:-1,USA West SD
+http://thenew.tv:8000/live/carter1/carter2/2046.m3u8
+#EXTINF:-1,VH1
+http://thenew.tv:8000/live/carter1/carter2/115.m3u8
+#EXTINF:-1,Viceland
+http://thenew.tv:8000/live/carter1/carter2/116.m3u8
+#EXTINF:-1,We TV
+http://thenew.tv:8000/live/carter1/carter2/118.m3u8
+#EXTINF:-1,WE tv SD
+http://thenew.tv:8000/live/carter1/carter2/2047.m3u8
+#EXTINF:-1,WGN America
+http://thenew.tv:8000/live/carter1/carter2/84215.m3u8
+#EXTINF:-1,WGN News
+http://thenew.tv:8000/live/carter1/carter2/154.m3u8
+#EXTINF:-1,World Fishing Network
+http://thenew.tv:8000/live/carter1/carter2/93350.m3u8
+#EXTINF:-1,WWE Network
+http://thenew.tv:8000/live/carter1/carter2/1943.m3u8
+#EXTINF:-1,YES Network
+http://thenew.tv:8000/live/carter1/carter2/1942.m3u8
