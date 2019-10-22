@@ -1,315 +1,361 @@
 #EXTM3U
-#EXTINF:-1,Baden Tv
-http://linux-app.tv:6204/adnan123/adnan123/21471
-#EXTINF:-1,Br Tv
-http://linux-app.tv:6204/adnan123/adnan123/21470
-#EXTINF:-1,Deutsches Musik
-http://linux-app.tv:6204/adnan123/adnan123/21469
-#EXTINF:-1,Douna Tv
-http://linux-app.tv:6204/adnan123/adnan123/21468
-#EXTINF:-1,Franken Tv
-http://linux-app.tv:6204/adnan123/adnan123/21472
-#EXTINF:-1,Hr Tv
-http://linux-app.tv:6204/adnan123/adnan123/21466
-#EXTINF:-1,Munchen Tv
-http://linux-app.tv:6204/adnan123/adnan123/21473
-#EXTINF:-1,Oberpfalz Tv
-http://linux-app.tv:6204/adnan123/adnan123/21478
-#EXTINF:-1,Oldenburg eins Tv
-http://linux-app.tv:6204/adnan123/adnan123/21474
-#EXTINF:-1,Ran 1Tv
-http://linux-app.tv:6204/adnan123/adnan123/21476
-#EXTINF:-1,Rbw Tv
-http://linux-app.tv:6204/adnan123/adnan123/21475
-#EXTINF:-1,Trp 1Tv
-http://linux-app.tv:6204/adnan123/adnan123/21477
-#EXTINF:-1,Tva Tv
-http://linux-app.tv:6204/adnan123/adnan123/21467
-#EXTINF:-1,KinoBox 1
-http://linux-app.tv:6204/adnan123/adnan123/23808
-#EXTINF:-1,KinoBox 2
-http://linux-app.tv:6204/adnan123/adnan123/23807
-#EXTINF:-1,KinoBox 3
-http://linux-app.tv:6204/adnan123/adnan123/23806
-#EXTINF:-1,KinoBox 4
-http://linux-app.tv:6204/adnan123/adnan123/23805
-#EXTINF:-1,KinoBox 5
-http://linux-app.tv:6204/adnan123/adnan123/23804
-#EXTINF:-1,KinoBox 6
-http://linux-app.tv:6204/adnan123/adnan123/23803
-#EXTINF:-1,KinoBox 7
-http://linux-app.tv:6204/adnan123/adnan123/23802
-#EXTINF:-1,KinoBox 8
-http://linux-app.tv:6204/adnan123/adnan123/23801
-#EXTINF:-1,KinoBox 9
-http://linux-app.tv:6204/adnan123/adnan123/23800
-#EXTINF:-1,KinoBox 10
-http://linux-app.tv:6204/adnan123/adnan123/23799
-#EXTINF:-1,Sky Select 1 4K
-http://linux-app.tv:6204/adnan123/adnan123/23793
-#EXTINF:-1,Sky Select 2 4K
-http://linux-app.tv:6204/adnan123/adnan123/23792
-#EXTINF:-1,Sky Select 3 4K
-http://linux-app.tv:6204/adnan123/adnan123/23791
-#EXTINF:-1,Sky Select 4 4K
-http://linux-app.tv:6204/adnan123/adnan123/23790
-#EXTINF:-1,Sky Select 5 4K
-http://linux-app.tv:6204/adnan123/adnan123/23789
-#EXTINF:-1,Sky Select 1
-http://linux-app.tv:6204/adnan123/adnan123/27728
-#EXTINF:-1,Sky Select 2
-http://linux-app.tv:6204/adnan123/adnan123/27727
-#EXTINF:-1,Sky Select 3
-http://linux-app.tv:6204/adnan123/adnan123/27726
-#EXTINF:-1,Sky Select 4
-http://linux-app.tv:6204/adnan123/adnan123/27725
-#EXTINF:-1,Sky Select 5
-http://linux-app.tv:6204/adnan123/adnan123/27724
-#EXTINF:-1,Sky Select 6
-http://linux-app.tv:6204/adnan123/adnan123/27723
-#EXTINF:-1,Sky Select 7
-http://linux-app.tv:6204/adnan123/adnan123/27722
-#EXTINF:-1,Sky Select 8
-http://linux-app.tv:6204/adnan123/adnan123/27721
-#EXTINF:-1,Sky Select 9
-http://linux-app.tv:6204/adnan123/adnan123/27720
-#EXTINF:-1,Sky Select 10
-http://linux-app.tv:6204/adnan123/adnan123/27719
-#EXTINF:-1,Sky Sport Austria HD
-http://linux-app.tv:6204/adnan123/adnan123/28322
+#EXTINF:-1,Das Erste
+http://enndy.live:2015/live/birol/17092019/154.ts
+#EXTINF:-1,Das Erste HD
+http://enndy.live:2015/live/birol/17092019/232.ts
 #EXTINF:-1,ZDF
-http://linux-app.tv:6204/adnan123/adnan123/27634
-#EXTINF:-1,ZDF info HD
-http://linux-app.tv:6204/adnan123/adnan123/27633
-#EXTINF:-1,ZDFneo
-http://linux-app.tv:6204/adnan123/adnan123/27632
-#EXTINF:-1,RTL 1
-http://linux-app.tv:6204/adnan123/adnan123/27637
-#EXTINF:-1,RTL 2
-http://linux-app.tv:6204/adnan123/adnan123/27638
-#EXTINF:-1,RTL CRIME
-http://linux-app.tv:6204/adnan123/adnan123/27653
-#EXTINF:-1,RTL CRIME HD
-http://linux-app.tv:6204/adnan123/adnan123/27652
-#EXTINF:-1,RTL Living
-http://linux-app.tv:6204/adnan123/adnan123/27651
-#EXTINF:-1,RTL PASSION
-http://linux-app.tv:6204/adnan123/adnan123/27650
-#EXTINF:-1,RTL plus
-http://linux-app.tv:6204/adnan123/adnan123/27636
-#EXTINF:-1,Super RTL
-http://linux-app.tv:6204/adnan123/adnan123/27629
+http://enndy.live:2015/live/birol/17092019/219.ts
+#EXTINF:-1,ZDF HD
+http://enndy.live:2015/live/birol/17092019/316.ts
+#EXTINF:-1,WDR Köln
+http://enndy.live:2015/live/birol/17092019/217.ts
+#EXTINF:-1,RTL Television
+http://enndy.live:2015/live/birol/17092019/171.ts
+#EXTINF:-1,RTL HD
+http://enndy.live:2015/live/birol/17092019/262.ts
+#EXTINF:-1,RTL2
+http://enndy.live:2015/live/birol/17092019/172.ts
+#EXTINF:-1,RTLII HD
+http://enndy.live:2015/live/birol/17092019/263.ts
+#EXTINF:-1,SAT.1
+http://enndy.live:2015/live/birol/17092019/174.ts
+#EXTINF:-1,SAT.1 HD
+http://enndy.live:2015/live/birol/17092019/265.ts
+#EXTINF:-1,ProSieben
+http://enndy.live:2015/live/birol/17092019/168.ts
+#EXTINF:-1,ProSieben HD
+http://enndy.live:2015/live/birol/17092019/261.ts
+#EXTINF:-1,kabel eins
+http://enndy.live:2015/live/birol/17092019/160.ts
+#EXTINF:-1,kabel eins HD
+http://enndy.live:2015/live/birol/17092019/249.ts
 #EXTINF:-1,VOX
-http://linux-app.tv:6204/adnan123/adnan123/27642
-#EXTINF:-1,Pro 7
-http://linux-app.tv:6204/adnan123/adnan123/27646
-#EXTINF:-1,Pro 7 FUN HD
-http://linux-app.tv:6204/adnan123/adnan123/27644
-#EXTINF:-1,Pro 7 Maxx
-http://linux-app.tv:6204/adnan123/adnan123/27645
-#EXTINF:-1,Puls 4 HD
-http://linux-app.tv:6204/adnan123/adnan123/27654
-#EXTINF:-1,ROMANCE TV
-http://linux-app.tv:6204/adnan123/adnan123/27620
-#EXTINF:-1,SAT 1
-http://linux-app.tv:6204/adnan123/adnan123/27648
-#EXTINF:-1,Sat 1 Emotions
-http://linux-app.tv:6204/adnan123/adnan123/27619
-#EXTINF:-1,SAT 1 GOLD
-http://linux-app.tv:6204/adnan123/adnan123/27647
+http://enndy.live:2015/live/birol/17092019/216.ts
+#EXTINF:-1,VOX HD
+http://enndy.live:2015/live/birol/17092019/313.ts
+#EXTINF:-1,arte HD
+http://enndy.live:2015/live/birol/17092019/225.ts
 #EXTINF:-1,SIXX
-http://linux-app.tv:6204/adnan123/adnan123/27643
-#EXTINF:-1,TNT Comedy HD
-http://linux-app.tv:6204/adnan123/adnan123/27663
-#EXTINF:-1,TNT Film HD
-http://linux-app.tv:6204/adnan123/adnan123/27662
-#EXTINF:-1,TNT Serie HD
-http://linux-app.tv:6204/adnan123/adnan123/27661
+http://enndy.live:2015/live/birol/17092019/176.ts
+#EXTINF:-1,SIXX HD
+http://enndy.live:2015/live/birol/17092019/266.ts
+#EXTINF:-1,TLC
+http://enndy.live:2015/live/birol/17092019/213.ts
 #EXTINF:-1,TLC HD
-http://linux-app.tv:6204/adnan123/adnan123/27604
-#EXTINF:-1,ZEE ONE HD
-http://linux-app.tv:6204/adnan123/adnan123/27649
-#EXTINF:-1,13th Street
-http://linux-app.tv:6204/adnan123/adnan123/27660
-#EXTINF:-1,3 SAT HD
-http://linux-app.tv:6204/adnan123/adnan123/27631
-#EXTINF:-1,Fox
-http://linux-app.tv:6204/adnan123/adnan123/27659
-#EXTINF:-1,Kabel 1
-http://linux-app.tv:6204/adnan123/adnan123/27640
-#EXTINF:-1,Kabel 1 Doku
-http://linux-app.tv:6204/adnan123/adnan123/27609
-#EXTINF:-1,Kabel 1 Classics HD
-http://linux-app.tv:6204/adnan123/adnan123/27804
-#EXTINF:-1,KIKA HD
-http://linux-app.tv:6204/adnan123/adnan123/27602
-#EXTINF:-1,Kino welt TV
-http://linux-app.tv:6204/adnan123/adnan123/27655
-#EXTINF:-1,Heimat Kanal
-http://linux-app.tv:6204/adnan123/adnan123/27616
+http://enndy.live:2015/live/birol/17092019/309.ts
 #EXTINF:-1,ONE HD
-http://linux-app.tv:6204/adnan123/adnan123/27635
-#EXTINF:-1,PHOENIX HD
-http://linux-app.tv:6204/adnan123/adnan123/27600
-#EXTINF:-1,E! Entertainment HD
-http://linux-app.tv:6204/adnan123/adnan123/27599
-#EXTINF:-1,Sky 1
-http://linux-app.tv:6204/adnan123/adnan123/27667
-#EXTINF:-1,Sky Action
-http://linux-app.tv:6204/adnan123/adnan123/27675
-#EXTINF:-1,Sky Atlantic
-http://linux-app.tv:6204/adnan123/adnan123/27668
-#EXTINF:-1,Sky Cinema  1
-http://linux-app.tv:6204/adnan123/adnan123/27674
-#EXTINF:-1,Sky Cinema  24
-http://linux-app.tv:6204/adnan123/adnan123/27673
-#EXTINF:-1,Sky Cinema Family
-http://linux-app.tv:6204/adnan123/adnan123/27671
-#EXTINF:-1,Sky Comedy
-http://linux-app.tv:6204/adnan123/adnan123/27669
-#EXTINF:-1,Sky Disney Junior
-http://linux-app.tv:6204/adnan123/adnan123/27630
-#EXTINF:-1,Sky EMOTION HD
-http://linux-app.tv:6204/adnan123/adnan123/27666
-#EXTINF:-1,Sky Hits
-http://linux-app.tv:6204/adnan123/adnan123/27670
-#EXTINF:-1,Sky Krimi HD
-http://linux-app.tv:6204/adnan123/adnan123/27665
-#EXTINF:-1,Sky Nostalgie HD
-http://linux-app.tv:6204/adnan123/adnan123/27664
-#EXTINF:-1,Classica
-http://linux-app.tv:6204/adnan123/adnan123/27617
-#EXTINF:-1,DAS ERSTE
-http://linux-app.tv:6204/adnan123/adnan123/27627
-#EXTINF:-1,ANIXE
-http://linux-app.tv:6204/adnan123/adnan123/27618
-#EXTINF:-1,AXN
-http://linux-app.tv:6204/adnan123/adnan123/27658
-#EXTINF:-1,ARD Alpha
-http://linux-app.tv:6204/adnan123/adnan123/27590
-#EXTINF:-1,Arte
-http://linux-app.tv:6204/adnan123/adnan123/27641
-#EXTINF:-1,Planet HD
-http://linux-app.tv:6204/adnan123/adnan123/27953
-#EXTINF:-1,Animal Planet
-http://linux-app.tv:6204/adnan123/adnan123/27613
-#EXTINF:-1,Discovery Channel
-http://linux-app.tv:6204/adnan123/adnan123/27612
-#EXTINF:-1,DMAX HD
-http://linux-app.tv:6204/adnan123/adnan123/27611
-#EXTINF:-1,History
-http://linux-app.tv:6204/adnan123/adnan123/27610
-#EXTINF:-1,Nat Geo Wild
-http://linux-app.tv:6204/adnan123/adnan123/27607
-#EXTINF:-1,National Geographic
-http://linux-app.tv:6204/adnan123/adnan123/27606
+http://enndy.live:2015/live/birol/17092019/259.ts
 #EXTINF:-1,NITRO
-http://linux-app.tv:6204/adnan123/adnan123/27639
-#EXTINF:-1,NTV
-http://linux-app.tv:6204/adnan123/adnan123/27601
-#EXTINF:-1,SR Fernsehen HD
-http://linux-app.tv:6204/adnan123/adnan123/27589
-#EXTINF:-1,SWR BW HD
-http://linux-app.tv:6204/adnan123/adnan123/27588
-#EXTINF:-1,SWR RP HD
-http://linux-app.tv:6204/adnan123/adnan123/27587
-#EXTINF:-1,SYFY HD
-http://linux-app.tv:6204/adnan123/adnan123/27656
-#EXTINF:-1,Tagesschau24 HD
-http://linux-app.tv:6204/adnan123/adnan123/27586
-#EXTINF:-1,TELE 5 HD
-http://linux-app.tv:6204/adnan123/adnan123/27615
-#EXTINF:-1,TOGGO Plus
-http://linux-app.tv:6204/adnan123/adnan123/27628
-#EXTINF:-1,Universal Channel
-http://linux-app.tv:6204/adnan123/adnan123/27657
-#EXTINF:-1,Welt der Wunder
-http://linux-app.tv:6204/adnan123/adnan123/27603
-#EXTINF:-1,WELT HD
-http://linux-app.tv:6204/adnan123/adnan123/27614
-#EXTINF:-1,SPIEGEL TV Wissen HD
-http://linux-app.tv:6204/adnan123/adnan123/27605
+http://enndy.live:2015/live/birol/17092019/166.ts
+#EXTINF:-1,NITRO HD
+http://enndy.live:2015/live/birol/17092019/258.ts
+#EXTINF:-1,SAT.1 Gold
+http://enndy.live:2015/live/birol/17092019/175.ts
+#EXTINF:-1,SAT.1 Gold HD
+http://enndy.live:2015/live/birol/17092019/264.ts
+#EXTINF:-1,Pro7 MAXX
+http://enndy.live:2015/live/birol/17092019/167.ts
+#EXTINF:-1,Pro7 MAXX HD
+http://enndy.live:2015/live/birol/17092019/260.ts
+#EXTINF:-1,Zee One
+http://enndy.live:2015/live/birol/17092019/319.ts
+#EXTINF:-1,Zee One HD
+http://enndy.live:2015/live/birol/17092019/320.ts
+#EXTINF:-1,ANIXE
+http://enndy.live:2015/live/birol/17092019/152.ts
+#EXTINF:-1,ANIXE HD
+http://enndy.live:2015/live/birol/17092019/224.ts
+#EXTINF:-1,n-tv
+http://enndy.live:2015/live/birol/17092019/164.ts
+#EXTINF:-1,n-tv HD
+http://enndy.live:2015/live/birol/17092019/254.ts
+#EXTINF:-1,tagesschau24 HD
+http://enndy.live:2015/live/birol/17092019/306.ts
+#EXTINF:-1,zdf_neo
+http://enndy.live:2015/live/birol/17092019/220.ts
+#EXTINF:-1,zdf_neo HD
+http://enndy.live:2015/live/birol/17092019/317.ts
+#EXTINF:-1,ZDFinfo
+http://enndy.live:2015/live/birol/17092019/221.ts
+#EXTINF:-1,ZDFinfo HD
+http://enndy.live:2015/live/birol/17092019/318.ts
+#EXTINF:-1,NICK/MTV
+http://enndy.live:2015/live/birol/17092019/257.ts
+#EXTINF:-1,KiKA HD
+http://enndy.live:2015/live/birol/17092019/250.ts
+#EXTINF:-1,KiKA
+http://enndy.live:2015/live/birol/17092019/162.ts
+#EXTINF:-1,TOGGO plus
+http://enndy.live:2015/live/birol/17092019/215.ts
+#EXTINF:-1,SUPER RTL HD
+http://enndy.live:2015/live/birol/17092019/303.ts
+#EXTINF:-1,SUPER RTL
+http://enndy.live:2015/live/birol/17092019/212.ts
+#EXTINF:-1,Junior
+http://enndy.live:2015/live/birol/17092019/159.ts
 #EXTINF:-1,Boomerang
-http://linux-app.tv:6204/adnan123/adnan123/27625
-#EXTINF:-1,Cartoon Network HD
-http://linux-app.tv:6204/adnan123/adnan123/27624
+http://enndy.live:2015/live/birol/17092019/157.ts
+#EXTINF:-1,Disney Junior HD
+http://enndy.live:2015/live/birol/17092019/156.ts
 #EXTINF:-1,Disney Cinemagic HD
-http://linux-app.tv:6204/adnan123/adnan123/27623
-#EXTINF:-1,Disney XD
-http://linux-app.tv:6204/adnan123/adnan123/27622
-#EXTINF:-1,Nickelodeon
-http://linux-app.tv:6204/adnan123/adnan123/27626
-#EXTINF:-1,Deluxe Music HD
-http://linux-app.tv:6204/adnan123/adnan123/27591
-#EXTINF:-1,GoTv
-http://linux-app.tv:6204/adnan123/adnan123/27598
-#EXTINF:-1,JukeBox HD
-http://linux-app.tv:6204/adnan123/adnan123/27597
-#EXTINF:-1,Disney Junior
-http://linux-app.tv:6204/adnan123/adnan123/27621
+http://enndy.live:2015/live/birol/17092019/238.ts
+#EXTINF:-1,Disney Channel HD
+http://enndy.live:2015/live/birol/17092019/237.ts
+#EXTINF:-1,Disney Channel
+http://enndy.live:2015/live/birol/17092019/155.ts
+#EXTINF:-1,N24 DOKU
+http://enndy.live:2015/live/birol/17092019/165.ts
+#EXTINF:-1,WELT HD
+http://enndy.live:2015/live/birol/17092019/315.ts
+#EXTINF:-1,WELT
+http://enndy.live:2015/live/birol/17092019/218.ts
+#EXTINF:-1,Welt der Wunder
+http://enndy.live:2015/live/birol/17092019/314.ts
+#EXTINF:-1,Spiegel TV Wissen
+http://enndy.live:2015/live/birol/17092019/297.ts
+#EXTINF:-1,Spiegel Geschichte HD
+http://enndy.live:2015/live/birol/17092019/296.ts
+#EXTINF:-1,NatGeo HD
+http://enndy.live:2015/live/birol/17092019/256.ts
+#EXTINF:-1,DMAX
+http://enndy.live:2015/live/birol/17092019/239.ts
+#EXTINF:-1,DMAX HD
+http://enndy.live:2015/live/birol/17092019/240.ts
+#EXTINF:-1,Discovery HD
+http://enndy.live:2015/live/birol/17092019/236.ts
+#EXTINF:-1,History HD
+http://enndy.live:2015/live/birol/17092019/247.ts
+#EXTINF:-1,Crime   Investigation
+http://enndy.live:2015/live/birol/17092019/231.ts
+#EXTINF:-1,E! Entertainm. HD
+http://enndy.live:2015/live/birol/17092019/241.ts
+#EXTINF:-1,RTL Living
+http://enndy.live:2015/live/birol/17092019/1082.ts
+#EXTINF:-1,kabel eins Doku
+http://enndy.live:2015/live/birol/17092019/161.ts
+#EXTINF:-1,Fashion 4K
+http://enndy.live:2015/live/birol/17092019/245.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://enndy.live:2015/live/birol/17092019/255.ts
+#EXTINF:-1,3sat
+http://enndy.live:2015/live/birol/17092019/151.ts
+#EXTINF:-1,3sat HD
+http://enndy.live:2015/live/birol/17092019/223.ts
+#EXTINF:-1,BR Fernsehen Süd
+http://enndy.live:2015/live/birol/17092019/153.ts
+#EXTINF:-1,hr-fernsehen
+http://enndy.live:2015/live/birol/17092019/158.ts
+#EXTINF:-1,SWR BW HD
+http://enndy.live:2015/live/birol/17092019/304.ts
+#EXTINF:-1,SR Fernsehen HD
+http://enndy.live:2015/live/birol/17092019/302.ts
+#EXTINF:-1,TELE 5
+http://enndy.live:2015/live/birol/17092019/307.ts
+#EXTINF:-1,TELE 5 HD
+http://enndy.live:2015/live/birol/17092019/308.ts
+#EXTINF:-1,MTV HD
+http://enndy.live:2015/live/birol/17092019/253.ts
 #EXTINF:-1,MTV
-http://linux-app.tv:6204/adnan123/adnan123/27596
-#EXTINF:-1,MTV Dance
-http://linux-app.tv:6204/adnan123/adnan123/27595
-#EXTINF:-1,MTV Hits
-http://linux-app.tv:6204/adnan123/adnan123/27594
-#EXTINF:-1,MTV Music 24
-http://linux-app.tv:6204/adnan123/adnan123/27593
-#EXTINF:-1,MTV ROCKS
-http://linux-app.tv:6204/adnan123/adnan123/27592
-#EXTINF:-1,N24 Doku
-http://linux-app.tv:6204/adnan123/adnan123/27608
+http://enndy.live:2015/live/birol/17092019/252.ts
+#EXTINF:-1,Deluxe Music HD
+http://enndy.live:2015/live/birol/17092019/235.ts
+#EXTINF:-1,Sky Cinema HD
+http://enndy.live:2015/live/birol/17092019/273.ts
+#EXTINF:-1,Sky Cinema  1
+http://enndy.live:2015/live/birol/17092019/268.ts
+#EXTINF:-1,Sky Cinema  1 HD
+http://enndy.live:2015/live/birol/17092019/269.ts
+#EXTINF:-1,Sky Cinema  24
+http://enndy.live:2015/live/birol/17092019/270.ts
+#EXTINF:-1,Sky Cinema  24 HD
+http://enndy.live:2015/live/birol/17092019/271.ts
+#EXTINF:-1,Sky Cinema Hits
+http://enndy.live:2015/live/birol/17092019/184.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://enndy.live:2015/live/birol/17092019/274.ts
+#EXTINF:-1,Sky Cinema Action
+http://enndy.live:2015/live/birol/17092019/178.ts
+#EXTINF:-1,Sky Cinema Action HD
+http://enndy.live:2015/live/birol/17092019/272.ts
+#EXTINF:-1,Sky Cinema Family
+http://enndy.live:2015/live/birol/17092019/182.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://enndy.live:2015/live/birol/17092019/183.ts
+#EXTINF:-1,Sky Cinema Emotion
+http://enndy.live:2015/live/birol/17092019/181.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://enndy.live:2015/live/birol/17092019/180.ts
+#EXTINF:-1,Sky Cinema Bonanza
+http://enndy.live:2015/live/birol/17092019/179.ts
+#EXTINF:-1,Sky Atlantic HD
+http://enndy.live:2015/live/birol/17092019/267.ts
+#EXTINF:-1,Sky Serien & Shows HD
+http://enndy.live:2015/live/birol/17092019/275.ts
+#EXTINF:-1,Sky Krimi HD
+http://enndy.live:2015/live/birol/17092019/185.ts
+#EXTINF:-1,Sky 1 HD
+http://enndy.live:2015/live/birol/17092019/1084.ts
+#EXTINF:-1,Sky Select 1
+http://enndy.live:2015/live/birol/17092019/1887.ts
+#EXTINF:-1,Sky Select 2
+http://enndy.live:2015/live/birol/17092019/1888.ts
+#EXTINF:-1,Sky Select 3
+http://enndy.live:2015/live/birol/17092019/1889.ts
+#EXTINF:-1,Sky Select 4
+http://enndy.live:2015/live/birol/17092019/1890.ts
+#EXTINF:-1,Sky Select 5
+http://enndy.live:2015/live/birol/17092019/1891.ts
+#EXTINF:-1,TNT Serie HD
+http://enndy.live:2015/live/birol/17092019/311.ts
+#EXTINF:-1,TNT Film HD
+http://enndy.live:2015/live/birol/17092019/214.ts
+#EXTINF:-1,TNT Comedy HD
+http://enndy.live:2015/live/birol/17092019/310.ts
+#EXTINF:-1,Universal TV HD
+http://enndy.live:2015/live/birol/17092019/312.ts
+#EXTINF:-1,SYFY HD
+http://enndy.live:2015/live/birol/17092019/305.ts
+#EXTINF:-1,13th Street HD
+http://enndy.live:2015/live/birol/17092019/222.ts
+#EXTINF:-1,Fox HD
+http://enndy.live:2015/live/birol/17092019/246.ts
+#EXTINF:-1,RTLplus
+http://enndy.live:2015/live/birol/17092019/173.ts
+#EXTINF:-1,RTL Crime HD
+http://enndy.live:2015/live/birol/17092019/1081.ts
+#EXTINF:-1,SAT.1 emotions HD
+http://enndy.live:2015/live/birol/17092019/1083.ts
+#EXTINF:-1,ProSieben FUN HD
+http://enndy.live:2015/live/birol/17092019/1080.ts
+#EXTINF:-1,kabel eins CLASSICS HD
+http://enndy.live:2015/live/birol/17092019/1079.ts
+#EXTINF:-1,Romance TV
+http://enndy.live:2015/live/birol/17092019/2511.ts
+#EXTINF:-1,Kinowelt TV
+http://enndy.live:2015/live/birol/17092019/163.ts
+#EXTINF:-1,Comedy Central
+http://enndy.live:2015/live/birol/17092019/229.ts
+#EXTINF:-1,Comedy Central HD
+http://enndy.live:2015/live/birol/17092019/230.ts
+#EXTINF:-1,Sky Sport News
+http://enndy.live:2015/live/birol/17092019/294.ts
 #EXTINF:-1,Sky Sport News HD
-http://linux-app.tv:6204/adnan123/adnan123/28326
-#EXTINF:-1,Sport 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/28359
-#EXTINF:-1,EUROSPORT 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/27689
-#EXTINF:-1,EUROSPORT 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/27688
-#EXTINF:-1,EUROSPORT 2 HD XTRA
-http://linux-app.tv:6204/adnan123/adnan123/27687
-#EXTINF:-1,DAZN Bar 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/28357
-#EXTINF:-1,DAZN Bar 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/28358
-#EXTINF:-1,Sky Sport 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/28324
-#EXTINF:-1,Sky Sport 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/28325
-#EXTINF:-1,Sky Sport 3 HD
-http://linux-app.tv:6204/adnan123/adnan123/27701
-#EXTINF:-1,Sky Sport 4 HD
-http://linux-app.tv:6204/adnan123/adnan123/27699
-#EXTINF:-1,Sky Sport 5 HD
-http://linux-app.tv:6204/adnan123/adnan123/27697
-#EXTINF:-1,Sky Sport 6 HD
-http://linux-app.tv:6204/adnan123/adnan123/27696
-#EXTINF:-1,Sky Sport 7 HD
-http://linux-app.tv:6204/adnan123/adnan123/27695
-#EXTINF:-1,Sky Sport 8 HD
-http://linux-app.tv:6204/adnan123/adnan123/27694
-#EXTINF:-1,Sky Sport 9 HD
-http://linux-app.tv:6204/adnan123/adnan123/27693
-#EXTINF:-1,Sky Sport 10 HD
-http://linux-app.tv:6204/adnan123/adnan123/27692
-#EXTINF:-1,Sky Sport 11 HD
-http://linux-app.tv:6204/adnan123/adnan123/27691
+http://enndy.live:2015/live/birol/17092019/295.ts
+#EXTINF:-1,SPORT1
+http://enndy.live:2015/live/birol/17092019/298.ts
+#EXTINF:-1,SPORT1+ HD
+http://enndy.live:2015/live/birol/17092019/1085.ts
+#EXTINF:-1,sportdigital HD
+http://enndy.live:2015/live/birol/17092019/301.ts
+#EXTINF:-1,SPORT1 HD
+http://enndy.live:2015/live/birol/17092019/299.ts
+#EXTINF:-1,Motorvision TV
+http://enndy.live:2015/live/birol/17092019/251.ts
+#EXTINF:-1,Eurosport 1 HD
+http://enndy.live:2015/live/birol/17092019/242.ts
+#EXTINF:-1,Eurosport 2 HD
+http://enndy.live:2015/live/birol/17092019/243.ts
+#EXTINF:-1,Eurosport 2 HD Xtra
+http://enndy.live:2015/live/birol/17092019/244.ts
+#EXTINF:-1,DAZN 1 Bar HD
+http://enndy.live:2015/live/birol/17092019/233.ts
+#EXTINF:-1,DAZN 2 Bar HD
+http://enndy.live:2015/live/birol/17092019/234.ts
+#EXTINF:-1,Sky Sport Austria 1
+http://enndy.live:2015/live/birol/17092019/199.ts
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://enndy.live:2015/live/birol/17092019/285.ts
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://enndy.live:2015/live/birol/17092019/200.ts
 #EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/28323
+http://enndy.live:2015/live/birol/17092019/286.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD+
+http://enndy.live:2015/live/birol/17092019/1894.ts
+#EXTINF:-1,Sky Sport Bundesliga 2
+http://enndy.live:2015/live/birol/17092019/202.ts
 #EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/27715
+http://enndy.live:2015/live/birol/17092019/288.ts
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://enndy.live:2015/live/birol/17092019/203.ts
 #EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://linux-app.tv:6204/adnan123/adnan123/27713
+http://enndy.live:2015/live/birol/17092019/289.ts
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://enndy.live:2015/live/birol/17092019/204.ts
 #EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://linux-app.tv:6204/adnan123/adnan123/27711
+http://enndy.live:2015/live/birol/17092019/290.ts
+#EXTINF:-1,Sky Sport Bundesliga 5
+http://enndy.live:2015/live/birol/17092019/205.ts
 #EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://linux-app.tv:6204/adnan123/adnan123/27710
+http://enndy.live:2015/live/birol/17092019/291.ts
+#EXTINF:-1,Sky Sport Bundesliga 6
+http://enndy.live:2015/live/birol/17092019/206.ts
 #EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://linux-app.tv:6204/adnan123/adnan123/27709
+http://enndy.live:2015/live/birol/17092019/207.ts
+#EXTINF:-1,Sky Sport Bundesliga 7
+http://enndy.live:2015/live/birol/17092019/208.ts
 #EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://linux-app.tv:6204/adnan123/adnan123/27708
+http://enndy.live:2015/live/birol/17092019/209.ts
+#EXTINF:-1,Sky Sport Bundesliga 8
+http://enndy.live:2015/live/birol/17092019/210.ts
 #EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://linux-app.tv:6204/adnan123/adnan123/27707
+http://enndy.live:2015/live/birol/17092019/292.ts
+#EXTINF:-1,Sky Sport Bundesliga 9
+http://enndy.live:2015/live/birol/17092019/211.ts
 #EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://linux-app.tv:6204/adnan123/adnan123/27706
+http://enndy.live:2015/live/birol/17092019/293.ts
+#EXTINF:-1,Sky Sport Bundesliga 10
+http://enndy.live:2015/live/birol/17092019/201.ts
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://enndy.live:2015/live/birol/17092019/287.ts
+#EXTINF:-1,Sky Sport 1
+http://enndy.live:2015/live/birol/17092019/186.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://enndy.live:2015/live/birol/17092019/276.ts
+#EXTINF:-1,Sky Sport 1 HD+
+http://enndy.live:2015/live/birol/17092019/1892.ts
+#EXTINF:-1,Sky Sport 2
+http://enndy.live:2015/live/birol/17092019/189.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://enndy.live:2015/live/birol/17092019/279.ts
+#EXTINF:-1,Sky Sport 2 HD+
+http://enndy.live:2015/live/birol/17092019/1893.ts
+#EXTINF:-1,Sky Sport 3
+http://enndy.live:2015/live/birol/17092019/190.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://enndy.live:2015/live/birol/17092019/280.ts
+#EXTINF:-1,Sky Sport 4
+http://enndy.live:2015/live/birol/17092019/191.ts
+#EXTINF:-1,Sky Sport 4 HD
+http://enndy.live:2015/live/birol/17092019/281.ts
+#EXTINF:-1,Sky Sport 5
+http://enndy.live:2015/live/birol/17092019/192.ts
+#EXTINF:-1,Sky Sport 5 HD
+http://enndy.live:2015/live/birol/17092019/282.ts
+#EXTINF:-1,Sky Sport 6
+http://enndy.live:2015/live/birol/17092019/193.ts
+#EXTINF:-1,Sky Sport 6 HD
+http://enndy.live:2015/live/birol/17092019/283.ts
+#EXTINF:-1,Sky Sport 7
+http://enndy.live:2015/live/birol/17092019/194.ts
+#EXTINF:-1,Sky Sport 7 HD
+http://enndy.live:2015/live/birol/17092019/195.ts
+#EXTINF:-1,Sky Sport 8
+http://enndy.live:2015/live/birol/17092019/196.ts
+#EXTINF:-1,Sky Sport 8 HD
+http://enndy.live:2015/live/birol/17092019/197.ts
+#EXTINF:-1,Sky Sport 9
+http://enndy.live:2015/live/birol/17092019/198.ts
+#EXTINF:-1,Sky Sport 9 HD
+http://enndy.live:2015/live/birol/17092019/284.ts
+#EXTINF:-1,Sky Sport 10
+http://enndy.live:2015/live/birol/17092019/187.ts
+#EXTINF:-1,Sky Sport 10 HD
+http://enndy.live:2015/live/birol/17092019/277.ts
+#EXTINF:-1,Sky Sport 11
+http://enndy.live:2015/live/birol/17092019/188.ts
+#EXTINF:-1,Sky Sport 11 HD
+http://enndy.live:2015/live/birol/17092019/278.ts
+#EXTINF:-1,QVC Style
+http://enndy.live:2015/live/birol/17092019/170.ts
+#EXTINF:-1,QVC
+http://enndy.live:2015/live/birol/17092019/169.ts
