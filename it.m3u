@@ -1,85 +1,99 @@
 #EXTM3U
-#EXTINF:-1,Rai 1
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/961
-#EXTINF:-1,Rai 2
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/963
-#EXTINF:-1,Rai 3
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/964
-#EXTINF:-1,Rai 4
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/965
-#EXTINF:-1,Rai 5
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/992
-#EXTINF:-1,Canale 5
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/1019
-#EXTINF:-1,Rete 4
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/982
-#EXTINF:-1,TgCom24
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/980
-#EXTINF:-1,Senato italiano
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/981
-#EXTINF:-1,Rai Yoyo
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/983
-#EXTINF:-1,Rai storia
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/984
-#EXTINF:-1,Rai sport 2
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/985
-#EXTINF:-1,Rai sport 1
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/986
-#EXTINF:-1,Rai Scuola
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/987
-#EXTINF:-1,Rai premium
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/988
-#EXTINF:-1,Rai news 24
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/989
-#EXTINF:-1,Rai Gulp
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/991
-#EXTINF:-1,Rai 3 TGR FVG
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/993
-#EXTINF:-1,Mediaset Italia Due
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/994
-#EXTINF:-1,Mediaset Extra
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/995
-#EXTINF:-1,La5
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/996
-#EXTINF:-1,La 7 d
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/997
-#EXTINF:-1,La 7
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/998
-#EXTINF:-1,Italia Uno
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/999
-#EXTINF:-1,Iris
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/1000
-#EXTINF:-1,Cartoonito Italy
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/1001
-#EXTINF:-1,Camera dei Deputati
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/1002
-#EXTINF:-1,Boing
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/1003
-#EXTINF:-1,Sky Calcio 1 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4950
-#EXTINF:-1,Sky Calcio 2 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4949
-#EXTINF:-1,Sky Calcio 3 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4948
-#EXTINF:-1,Sky Calcio 4 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4947
-#EXTINF:-1,Sky Calcio 5 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4946
-#EXTINF:-1,Sky Calcio 6 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4945
-#EXTINF:-1,Sky Sport 1 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4944
-#EXTINF:-1,Sky Sport 2 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4943
-#EXTINF:-1,Sky Sport 24 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4942
-#EXTINF:-1,Sky Sport 3 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4941
-#EXTINF:-1,Sky Sport F1 HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4940
-#EXTINF:-1,Sky Supercalcio HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4939
-#EXTINF:-1,Sky Supertennis
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4938
+#EXTINF:-1,RAI 1 HD
+http://linux-app.tv:6204/adnan123/adnan123/9447
+#EXTINF:-1,RAI 2 HD
+http://linux-app.tv:6204/adnan123/adnan123/9446
+#EXTINF:-1,RAI 3 HD
+http://linux-app.tv:6204/adnan123/adnan123/9445
+#EXTINF:-1,RAI 4 HD
+http://linux-app.tv:6204/adnan123/adnan123/9444
+#EXTINF:-1,RAI 5
+http://linux-app.tv:6204/adnan123/adnan123/9443
+#EXTINF:-1,Rai News 24
+http://linux-app.tv:6204/adnan123/adnan123/9442
+#EXTINF:-1,Sky Cinema 1 HD
+http://linux-app.tv:6204/adnan123/adnan123/9434
+#EXTINF:-1,Sky Cinema  24 HD
+http://linux-app.tv:6204/adnan123/adnan123/9435
+#EXTINF:-1,Sky Cinema Hits HD
+http://linux-app.tv:6204/adnan123/adnan123/9428
+#EXTINF:-1,Sky Cinema Max HD
+http://linux-app.tv:6204/adnan123/adnan123/9427
+#EXTINF:-1,Sky Cinema Cult HD
+http://linux-app.tv:6204/adnan123/adnan123/9430
+#EXTINF:-1,Sky Cinema Atlantic HD
+http://linux-app.tv:6204/adnan123/adnan123/9433
+#EXTINF:-1,Sky Cinema Classic HD
+http://linux-app.tv:6204/adnan123/adnan123/9432
+#EXTINF:-1,Sky Cinema Comedy HD
+http://linux-app.tv:6204/adnan123/adnan123/9431
+#EXTINF:-1,Sky Cinema Family HD
+http://linux-app.tv:6204/adnan123/adnan123/9429
+#EXTINF:-1,SKY Cinema Passion HD
+http://linux-app.tv:6204/adnan123/adnan123/9426
+#EXTINF:-1,Premium Action HD
+http://linux-app.tv:6204/adnan123/adnan123/9459
+#EXTINF:-1,Premium Cinema Energy
+http://linux-app.tv:6204/adnan123/adnan123/9456
+#EXTINF:-1,Premium Cinema HD
+http://linux-app.tv:6204/adnan123/adnan123/9455
+#EXTINF:-1,Premium Crime HD
+http://linux-app.tv:6204/adnan123/adnan123/9454
+#EXTINF:-1,Premium Emotion HD
+http://linux-app.tv:6204/adnan123/adnan123/9453
+#EXTINF:-1,Premium Stories HD
+http://linux-app.tv:6204/adnan123/adnan123/9448
+#EXTINF:-1,Fox Crime HD
+http://linux-app.tv:6204/adnan123/adnan123/9462
+#EXTINF:-1,Fox HD
+http://linux-app.tv:6204/adnan123/adnan123/9461
+#EXTINF:-1,Fox Life HD
+http://linux-app.tv:6204/adnan123/adnan123/9460
 #EXTINF:-1,Sky Uno HD
-http://tvboxserver.raam.pw:3417/TCI0egcpvy/SdoORcbrrl/4937
+http://linux-app.tv:6204/adnan123/adnan123/9417
+#EXTINF:-1,Sky Sport MotoGP HD
+http://linux-app.tv:6204/adnan123/adnan123/9420
+#EXTINF:-1,Sky Calcio 1 HD
+http://linux-app.tv:6204/adnan123/adnan123/9439
+#EXTINF:-1,Sky Calcio 2 HD
+http://linux-app.tv:6204/adnan123/adnan123/9438
+#EXTINF:-1,Sky Calcio 3 HD
+http://linux-app.tv:6204/adnan123/adnan123/9437
+#EXTINF:-1,Sky Calcio 4 HD
+http://linux-app.tv:6204/adnan123/adnan123/9436
+#EXTINF:-1,Sky Sport F1 HD
+http://linux-app.tv:6204/adnan123/adnan123/9421
+#EXTINF:-1,Sky Sport 1 HD
+http://linux-app.tv:6204/adnan123/adnan123/9425
+#EXTINF:-1,Sky Sport 2 HD
+http://linux-app.tv:6204/adnan123/adnan123/9424
+#EXTINF:-1,Sky Sport 3 HD
+http://linux-app.tv:6204/adnan123/adnan123/9422
+#EXTINF:-1,Sky Sport 24 HD
+http://linux-app.tv:6204/adnan123/adnan123/9423
+#EXTINF:-1,Eurosport
+http://linux-app.tv:6204/adnan123/adnan123/9464
+#EXTINF:-1,Eurosport 2 HD
+http://linux-app.tv:6204/adnan123/adnan123/9463
+#EXTINF:-1,Premium Calcio
+http://linux-app.tv:6204/adnan123/adnan123/9458
+#EXTINF:-1,Premium Calcio 2 HD
+http://linux-app.tv:6204/adnan123/adnan123/9457
+#EXTINF:-1,Premium Fox Sport HD
+http://linux-app.tv:6204/adnan123/adnan123/9452
+#EXTINF:-1,Premium Sport 2
+http://linux-app.tv:6204/adnan123/adnan123/9451
+#EXTINF:-1,Premium Sport HD
+http://linux-app.tv:6204/adnan123/adnan123/9450
+#EXTINF:-1,Premium Sport HD 2
+http://linux-app.tv:6204/adnan123/adnan123/9449
+#EXTINF:-1,Rai Sports 1
+http://linux-app.tv:6204/adnan123/adnan123/9441
+#EXTINF:-1,Rai Sports 2
+http://linux-app.tv:6204/adnan123/adnan123/9440
+#EXTINF:-1,Sky Supercalcio
+http://linux-app.tv:6204/adnan123/adnan123/9419
+#EXTINF:-1,Sky Supertennis
+http://linux-app.tv:6204/adnan123/adnan123/9418
+#EXTINF:-1,Sport Italia
+http://linux-app.tv:6204/adnan123/adnan123/9416
