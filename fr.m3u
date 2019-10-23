@@ -1,89 +1,359 @@
 #EXTM3U
-#EXTINF:-1,13EME RUE HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11266.ts
-#EXTINF:-1,6TER HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11262.ts
-#EXTINF:-1,6TER HD 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11249.ts
-#EXTINF:-1,ACTION HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11275.ts
-#EXTINF:-1,ARTE HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11257.ts
-#EXTINF:-1,BEIN SPORT 1 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11279.ts
-#EXTINF:-1,BEIN SPORT 2 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11280.ts
-#EXTINF:-1,BEIN SPORT 3 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11281.ts
-#EXTINF:-1,BEIN SPORT MAX HD 5
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11283.ts
-#EXTINF:-1,BEIN SPORT MAX HD 6
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11284.ts
-#EXTINF:-1,BEIN SPORT MAX HD 7
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11285.ts
-#EXTINF:-1,BEIN SPORT MAX HD 8
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11286.ts
-#EXTINF:-1,BEIN SPORT MAX HD 9
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11287.ts
-#EXTINF:-1,BEIN SPORTS MAX 4 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11282.ts
-#EXTINF:-1,C8 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11261.ts
-#EXTINF:-1,CHERIE 25 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11276.ts
-#EXTINF:-1,COMEDIE
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11270.ts
-#EXTINF:-1,CSTAR HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11265.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11278.ts
+#EXTINF:-1,Syfy
+http://mylatinotv.com:25461/live/oz/oz/19224.m3u8
+#EXTINF:-1,TMC
+http://mylatinotv.com:25461/live/oz/oz/19225.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://mylatinotv.com:25461/live/oz/oz/19226.m3u8
+#EXTINF:-1,TCM Cinéma HD
+http://mylatinotv.com:25461/live/oz/oz/19227.m3u8
+#EXTINF:-1,Action
+http://mylatinotv.com:25461/live/oz/oz/19228.m3u8
+#EXTINF:-1,Ciné FX HD
+http://mylatinotv.com:25461/live/oz/oz/19229.m3u8
+#EXTINF:-1,Ciné Polar
+http://mylatinotv.com:25461/live/oz/oz/19230.m3u8
+#EXTINF:-1,Ciné  Emotion HD
+http://mylatinotv.com:25461/live/oz/oz/19231.m3u8
+#EXTINF:-1,Ciné isson HD
+http://mylatinotv.com:25461/live/oz/oz/19232.m3u8
+#EXTINF:-1,Ciné  Classic HD
+http://mylatinotv.com:25461/live/oz/oz/19233.m3u8
+#EXTINF:-1,Ciné  Famiz HD
+http://mylatinotv.com:25461/live/oz/oz/19234.m3u8
+#EXTINF:-1,Ciné  Famiz
+http://mylatinotv.com:25461/live/oz/oz/19235.m3u8
+#EXTINF:-1,Ciné  Premier HD
+http://mylatinotv.com:25461/live/oz/oz/19236.m3u8
+#EXTINF:-1,CANAL  Series HD
+http://mylatinotv.com:25461/live/oz/oz/19237.m3u8
+#EXTINF:-1,CANAL  Decale HD
+http://mylatinotv.com:25461/live/oz/oz/19238.m3u8
+#EXTINF:-1,CANAL  Family HD
+http://mylatinotv.com:25461/live/oz/oz/19239.m3u8
+#EXTINF:-1,CANAL  Cinema HD
+http://mylatinotv.com:25461/live/oz/oz/19240.m3u8
+#EXTINF:-1,CANAL  HD
+http://mylatinotv.com:25461/live/oz/oz/19241.m3u8
+#EXTINF:-1,BFM Business HD
+http://mylatinotv.com:25461/live/oz/oz/19242.m3u8
+#EXTINF:-1,AB3
+http://mylatinotv.com:25461/live/oz/oz/19220.m3u8
+#EXTINF:-1,AB1 HD
+http://mylatinotv.com:25461/live/oz/oz/19221.m3u8
+#EXTINF:-1,Comédie 
+http://mylatinotv.com:25461/live/oz/oz/19222.m3u8
 #EXTINF:-1,E!
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11274.ts
-#EXTINF:-1,FRANCE 2 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11252.ts
-#EXTINF:-1,FRANCE 3 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11253.ts
-#EXTINF:-1,FRANCE 4 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11254.ts
-#EXTINF:-1,FRANCE 5 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11255.ts
-#EXTINF:-1,FRANCE O SD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11256.ts
-#EXTINF:-1,M6 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11258.ts
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11273.ts
-#EXTINF:-1,PARIS PREMIERE
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11272.ts
-#EXTINF:-1,RMC SPORT 1 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11288.ts
-#EXTINF:-1,RMC SPORT 2 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11289.ts
-#EXTINF:-1,RMC SPORT 3 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11290.ts
-#EXTINF:-1,RMC STORY HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11277.ts
-#EXTINF:-1,SERIE CLUB
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11271.ts
-#EXTINF:-1,SYFY HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11267.ts
-#EXTINF:-1,TEVA
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11268.ts
-#EXTINF:-1,TF1 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11251.ts
-#EXTINF:-1,TF1 SERIES FILMS HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11260.ts
-#EXTINF:-1,TF1 SERIES FILMS HD 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11248.ts
-#EXTINF:-1,TFX 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11250.ts
-#EXTINF:-1,TFX HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11264.ts
-#EXTINF:-1,TMC HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11259.ts
-#EXTINF:-1,TMC HD 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11247.ts
-#EXTINF:-1,TV BREIZH HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11269.ts
+http://mylatinotv.com:25461/live/oz/oz/19223.m3u8
+#EXTINF:-1,BFM TV
+http://mylatinotv.com:25461/live/oz/oz/19243.m3u8
+#EXTINF:-1,France Info
+http://mylatinotv.com:25461/live/oz/oz/19244.m3u8
+#EXTINF:-1,Canal Alpha JU
+http://mylatinotv.com:25461/live/oz/oz/19245.m3u8
+#EXTINF:-1,Numéro 23
+http://mylatinotv.com:25461/live/oz/oz/19246.m3u8
+#EXTINF:-1,6ter HD
+http://mylatinotv.com:25461/live/oz/oz/19247.m3u8
+#EXTINF:-1,6ter
+http://mylatinotv.com:25461/live/oz/oz/19248.m3u8
+#EXTINF:-1,Chérie 25
+http://mylatinotv.com:25461/live/oz/oz/19249.m3u8
+#EXTINF:-1,TV Breizh HD
+http://mylatinotv.com:25461/live/oz/oz/19250.m3u8
+#EXTINF:-1,TVBreizh
+http://mylatinotv.com:25461/live/oz/oz/19251.m3u8
+#EXTINF:-1,NRJ Hits
+http://mylatinotv.com:25461/live/oz/oz/19252.m3u8
+#EXTINF:-1,NRJ 12
+http://mylatinotv.com:25461/live/oz/oz/19253.m3u8
+#EXTINF:-1,C-Star HD
+http://mylatinotv.com:25461/live/oz/oz/19254.m3u8
+#EXTINF:-1,C-Star
+http://mylatinotv.com:25461/live/oz/oz/19255.m3u8
+#EXTINF:-1,C-8 HD
+http://mylatinotv.com:25461/live/oz/oz/19256.m3u8
+#EXTINF:-1,C-8 FHD
+http://mylatinotv.com:25461/live/oz/oz/19257.m3u8
 #EXTINF:-1,W9 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11263.ts
+http://mylatinotv.com:25461/live/oz/oz/19258.m3u8
+#EXTINF:-1,NT1 HD
+http://mylatinotv.com:25461/live/oz/oz/19259.m3u8
+#EXTINF:-1,NT1 (TFX)
+http://mylatinotv.com:25461/live/oz/oz/19260.m3u8
+#EXTINF:-1,RTL 9
+http://mylatinotv.com:25461/live/oz/oz/19261.m3u8
+#EXTINF:-1,HD1
+http://mylatinotv.com:25461/live/oz/oz/19262.m3u8
+#EXTINF:-1,serieclub
+http://mylatinotv.com:25461/live/oz/oz/19263.m3u8
+#EXTINF:-1,France Ô
+http://mylatinotv.com:25461/live/oz/oz/19265.m3u8
+#EXTINF:-1,France 5
+http://mylatinotv.com:25461/live/oz/oz/19266.m3u8
+#EXTINF:-1,France 4 HD
+http://mylatinotv.com:25461/live/oz/oz/19267.m3u8
+#EXTINF:-1,France 3 HD
+http://mylatinotv.com:25461/live/oz/oz/19268.m3u8
+#EXTINF:-1,France 3
+http://mylatinotv.com:25461/live/oz/oz/19269.m3u8
+#EXTINF:-1,France 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19270.m3u8
+#EXTINF:-1,France 2
+http://mylatinotv.com:25461/live/oz/oz/19271.m3u8
+#EXTINF:-1,M6 Music
+http://mylatinotv.com:25461/live/oz/oz/19272.m3u8
+#EXTINF:-1,M6 HD
+http://mylatinotv.com:25461/live/oz/oz/19273.m3u8
+#EXTINF:-1,M6
+http://mylatinotv.com:25461/live/oz/oz/19274.m3u8
+#EXTINF:-1,M6 Boutique
+http://mylatinotv.com:25461/live/oz/oz/19275.m3u8
+#EXTINF:-1,TF1 HD
+http://mylatinotv.com:25461/live/oz/oz/19276.m3u8
+#EXTINF:-1,TF1
+http://mylatinotv.com:25461/live/oz/oz/19277.m3u8
+#EXTINF:-1,RTS Deux HD
+http://mylatinotv.com:25461/live/oz/oz/19278.m3u8
+#EXTINF:-1,RTS Un HD
+http://mylatinotv.com:25461/live/oz/oz/19279.m3u8
+#EXTINF:-1,TV5 Monde
+http://mylatinotv.com:25461/live/oz/oz/19280.m3u8
+#EXTINF:-1,Arte
+http://mylatinotv.com:25461/live/oz/oz/19281.m3u8
+#EXTINF:-1,Orange Enquete Exlusive HD
+http://mylatinotv.com:25461/live/oz/oz/19101.m3u8
+#EXTINF:-1,Orange Documentaire HD
+http://mylatinotv.com:25461/live/oz/oz/19102.m3u8
+#EXTINF:-1,Orange Comment C'Est Fait HD
+http://mylatinotv.com:25461/live/oz/oz/19103.m3u8
+#EXTINF:-1,Orange Cinema Horreur HD
+http://mylatinotv.com:25461/live/oz/oz/19104.m3u8
+#EXTINF:-1,Orange Cinema HD
+http://mylatinotv.com:25461/live/oz/oz/19105.m3u8
+#EXTINF:-1,Orange Cinema Aventure HD
+http://mylatinotv.com:25461/live/oz/oz/19106.m3u8
+#EXTINF:-1,Orange Cinema Action HD
+http://mylatinotv.com:25461/live/oz/oz/19107.m3u8
+#EXTINF:-1,Orange Cinema 5 HD
+http://mylatinotv.com:25461/live/oz/oz/19108.m3u8
+#EXTINF:-1,Orange Cinema 4 HD
+http://mylatinotv.com:25461/live/oz/oz/19109.m3u8
+#EXTINF:-1,Orange Cinema 3 HD
+http://mylatinotv.com:25461/live/oz/oz/19110.m3u8
+#EXTINF:-1,Orange Cinema 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19111.m3u8
+#EXTINF:-1,Orange Cinema 1 HD
+http://mylatinotv.com:25461/live/oz/oz/19112.m3u8
+#EXTINF:-1,OCS Go Cinema 5 HD
+http://mylatinotv.com:25461/live/oz/oz/19113.m3u8
+#EXTINF:-1,OCS Go Cinema 4 HD
+http://mylatinotv.com:25461/live/oz/oz/19114.m3u8
+#EXTINF:-1,OCS Go Cinema 3 HD
+http://mylatinotv.com:25461/live/oz/oz/19115.m3u8
+#EXTINF:-1,OCS Go Cinema 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19116.m3u8
+#EXTINF:-1,OCS Go Cinema 1 HD
+http://mylatinotv.com:25461/live/oz/oz/19117.m3u8
+#EXTINF:-1,Canal Play 5 HD
+http://mylatinotv.com:25461/live/oz/oz/19118.m3u8
+#EXTINF:-1,Canal Play 4 HD
+http://mylatinotv.com:25461/live/oz/oz/19119.m3u8
+#EXTINF:-1,Canal Play 3 HD
+http://mylatinotv.com:25461/live/oz/oz/19120.m3u8
+#EXTINF:-1,Canal Play 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19121.m3u8
+#EXTINF:-1,Canal Play 1 HD
+http://mylatinotv.com:25461/live/oz/oz/19122.m3u8
+#EXTINF:-1,A La Carte 5 HD
+http://mylatinotv.com:25461/live/oz/oz/19123.m3u8
+#EXTINF:-1,A La Carte 4 HD
+http://mylatinotv.com:25461/live/oz/oz/19124.m3u8
+#EXTINF:-1,A La Carte 3 HD
+http://mylatinotv.com:25461/live/oz/oz/19125.m3u8
+#EXTINF:-1,A La Carte 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19126.m3u8
+#EXTINF:-1,A La Carte 1 HD
+http://mylatinotv.com:25461/live/oz/oz/19127.m3u8
+#EXTINF:-1,OCS Max
+http://mylatinotv.com:25461/live/oz/oz/19128.m3u8
+#EXTINF:-1,OCS Geants
+http://mylatinotv.com:25461/live/oz/oz/19129.m3u8
+#EXTINF:-1,OCS City
+http://mylatinotv.com:25461/live/oz/oz/19130.m3u8
+#EXTINF:-1,OCS Choc
+http://mylatinotv.com:25461/live/oz/oz/19131.m3u8
+#EXTINF:-1,i24NEWS
+http://mylatinotv.com:25461/live/oz/oz/19132.m3u8
+#EXTINF:-1,eNORME TV
+http://mylatinotv.com:25461/live/oz/oz/19133.m3u8
+#EXTINF:-1,Vosges Télévision HD
+http://mylatinotv.com:25461/live/oz/oz/19134.m3u8
+#EXTINF:-1,Stingray Brava
+http://mylatinotv.com:25461/live/oz/oz/19135.m3u8
+#EXTINF:-1,Science & Vie TV
+http://mylatinotv.com:25461/live/oz/oz/19136.m3u8
+#EXTINF:-1,La Une HD
+http://mylatinotv.com:25461/live/oz/oz/19137.m3u8
+#EXTINF:-1,Ofive TV
+http://mylatinotv.com:25461/live/oz/oz/19138.m3u8
+#EXTINF:-1,Weo HD
+http://mylatinotv.com:25461/live/oz/oz/19139.m3u8
+#EXTINF:-1,La Chaîne Normande TV
+http://mylatinotv.com:25461/live/oz/oz/19140.m3u8
+#EXTINF:-1,J-One
+http://mylatinotv.com:25461/live/oz/oz/19141.m3u8
+#EXTINF:-1,ILTV
+http://mylatinotv.com:25461/live/oz/oz/19142.m3u8
+#EXTINF:-1,France 24
+http://mylatinotv.com:25461/live/oz/oz/19143.m3u8
+#EXTINF:-1,Euronews
+http://mylatinotv.com:25461/live/oz/oz/19144.m3u8
+#EXTINF:-1,Demain TV
+http://mylatinotv.com:25461/live/oz/oz/19145.m3u8
+#EXTINF:-1,Clubbing TV
+http://mylatinotv.com:25461/live/oz/oz/19146.m3u8
+#EXTINF:-1,Chasse et Pêche
+http://mylatinotv.com:25461/live/oz/oz/19147.m3u8
+#EXTINF:-1,C-News
+http://mylatinotv.com:25461/live/oz/oz/19148.m3u8
+#EXTINF:-1,Alsace 20
+http://mylatinotv.com:25461/live/oz/oz/19150.m3u8
+#EXTINF:-1,Africa 24
+http://mylatinotv.com:25461/live/oz/oz/19151.m3u8
+#EXTINF:-1,Zouzous
+http://mylatinotv.com:25461/live/oz/oz/19152.m3u8
+#EXTINF:-1,Ushuaïa TV
+http://mylatinotv.com:25461/live/oz/oz/19153.m3u8
+#EXTINF:-1,Toute l'Histoire
+http://mylatinotv.com:25461/live/oz/oz/19154.m3u8
+#EXTINF:-1,Histoire
+http://mylatinotv.com:25461/live/oz/oz/19155.m3u8
+#EXTINF:-1,Trek HD
+http://mylatinotv.com:25461/live/oz/oz/19156.m3u8
+#EXTINF:-1,Voyage
+http://mylatinotv.com:25461/live/oz/oz/19157.m3u8
+#EXTINF:-1,Animaux HD
+http://mylatinotv.com:25461/live/oz/oz/19158.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://mylatinotv.com:25461/live/oz/oz/19159.m3u8
+#EXTINF:-1,Discovery Science HD
+http://mylatinotv.com:25461/live/oz/oz/19160.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://mylatinotv.com:25461/live/oz/oz/19161.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://mylatinotv.com:25461/live/oz/oz/19162.m3u8
+#EXTINF:-1,National Geographic HD
+http://mylatinotv.com:25461/live/oz/oz/19163.m3u8
+#EXTINF:-1,Planète  HD
+http://mylatinotv.com:25461/live/oz/oz/19164.m3u8
+#EXTINF:-1,Planète  CI HD
+http://mylatinotv.com:25461/live/oz/oz/19165.m3u8
+#EXTINF:-1,Planète  A&E HD
+http://mylatinotv.com:25461/live/oz/oz/19166.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://mylatinotv.com:25461/live/oz/oz/19167.m3u8
+#EXTINF:-1,Game One
+http://mylatinotv.com:25461/live/oz/oz/19168.m3u8
+#EXTINF:-1,Bet HD
+http://mylatinotv.com:25461/live/oz/oz/19169.m3u8
+#EXTINF:-1,KTO
+http://mylatinotv.com:25461/live/oz/oz/19170.m3u8
+#EXTINF:-1,Boing
+http://mylatinotv.com:25461/live/oz/oz/19171.m3u8
+#EXTINF:-1,Boomerang
+http://mylatinotv.com:25461/live/oz/oz/19172.m3u8
+#EXTINF:-1,Cartoon Network
+http://mylatinotv.com:25461/live/oz/oz/19173.m3u8
+#EXTINF:-1,Tiji HD
+http://mylatinotv.com:25461/live/oz/oz/19174.m3u8
+#EXTINF:-1,Piwi  HD
+http://mylatinotv.com:25461/live/oz/oz/19175.m3u8
+#EXTINF:-1,Gulli HD
+http://mylatinotv.com:25461/live/oz/oz/19176.m3u8
+#EXTINF:-1,Mangas HD
+http://mylatinotv.com:25461/live/oz/oz/19177.m3u8
+#EXTINF:-1,Canal J
+http://mylatinotv.com:25461/live/oz/oz/19178.m3u8
+#EXTINF:-1,téléTOON 
+http://mylatinotv.com:25461/live/oz/oz/19179.m3u8
+#EXTINF:-1,Nick Jr.
+http://mylatinotv.com:25461/live/oz/oz/19180.m3u8
+#EXTINF:-1,Disney XD HD
+http://mylatinotv.com:25461/live/oz/oz/19181.m3u8
+#EXTINF:-1,Disney Junior HD
+http://mylatinotv.com:25461/live/oz/oz/19182.m3u8
+#EXTINF:-1,Disney Cinema HD
+http://mylatinotv.com:25461/live/oz/oz/19183.m3u8
+#EXTINF:-1,Disney Cinema
+http://mylatinotv.com:25461/live/oz/oz/19184.m3u8
+#EXTINF:-1,Disney Channel  1
+http://mylatinotv.com:25461/live/oz/oz/19185.m3u8
+#EXTINF:-1,Disney Channel HD
+http://mylatinotv.com:25461/live/oz/oz/19186.m3u8
+#EXTINF:-1,Elle Girl HD
+http://mylatinotv.com:25461/live/oz/oz/19187.m3u8
+#EXTINF:-1,Seasons HD
+http://mylatinotv.com:25461/live/oz/oz/19188.m3u8
+#EXTINF:-1,OLTV
+http://mylatinotv.com:25461/live/oz/oz/19189.m3u8
+#EXTINF:-1,FOOT  24/24
+http://mylatinotv.com:25461/live/oz/oz/19190.m3u8
+#EXTINF:-1,AB Moteurs
+http://mylatinotv.com:25461/live/oz/oz/19191.m3u8
+#EXTINF:-1,GOLF  HD
+http://mylatinotv.com:25461/live/oz/oz/19192.m3u8
+#EXTINF:-1,téva HD
+http://mylatinotv.com:25461/live/oz/oz/19193.m3u8
+#EXTINF:-1,téva
+http://mylatinotv.com:25461/live/oz/oz/19194.m3u8
+#EXTINF:-1,Paris Premiere
+http://mylatinotv.com:25461/live/oz/oz/19195.m3u8
+#EXTINF:-1,Equidia Live HD
+http://mylatinotv.com:25461/live/oz/oz/19196.m3u8
+#EXTINF:-1,Equidia Life
+http://mylatinotv.com:25461/live/oz/oz/19197.m3u8
+#EXTINF:-1,L'Equipe 21 HD
+http://mylatinotv.com:25461/live/oz/oz/19198.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19199.m3u8
+#EXTINF:-1,Eurosport 1
+http://mylatinotv.com:25461/live/oz/oz/19200.m3u8
+#EXTINF:-1,InfoSport 
+http://mylatinotv.com:25461/live/oz/oz/19201.m3u8
+#EXTINF:-1,beIN SPORTS MAX 8 HD
+http://mylatinotv.com:25461/live/oz/oz/19202.m3u8
+#EXTINF:-1,beIN SPORTS MAX 8
+http://mylatinotv.com:25461/live/oz/oz/19203.m3u8
+#EXTINF:-1,beIN SPORTS MAX 7 HD
+http://mylatinotv.com:25461/live/oz/oz/19204.m3u8
+#EXTINF:-1,beIN SPORTS MAX 6 HD
+http://mylatinotv.com:25461/live/oz/oz/19205.m3u8
+#EXTINF:-1,beIN SPORTS MAX 5 HD
+http://mylatinotv.com:25461/live/oz/oz/19206.m3u8
+#EXTINF:-1,beIN SPORTS MAX 4 HD
+http://mylatinotv.com:25461/live/oz/oz/19207.m3u8
+#EXTINF:-1,SFR Sport 3 HD
+http://mylatinotv.com:25461/live/oz/oz/19208.m3u8
+#EXTINF:-1,SFR Sport 2 HD
+http://mylatinotv.com:25461/live/oz/oz/19209.m3u8
+#EXTINF:-1,SFR Sport 1 HD
+http://mylatinotv.com:25461/live/oz/oz/19210.m3u8
+#EXTINF:-1,CANAL  Sport HD
+http://mylatinotv.com:25461/live/oz/oz/19211.m3u8
+#EXTINF:-1,Trace Urban
+http://mylatinotv.com:25461/live/oz/oz/19212.m3u8
+#EXTINF:-1,RFM
+http://mylatinotv.com:25461/live/oz/oz/19213.m3u8
+#EXTINF:-1,MTV Music
+http://mylatinotv.com:25461/live/oz/oz/19214.m3u8
+#EXTINF:-1,MTV Hits
+http://mylatinotv.com:25461/live/oz/oz/19215.m3u8
+#EXTINF:-1,MTV
+http://mylatinotv.com:25461/live/oz/oz/19216.m3u8
+#EXTINF:-1,MTV Base
+http://mylatinotv.com:25461/live/oz/oz/19217.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://mylatinotv.com:25461/live/oz/oz/19218.m3u8
+#EXTINF:-1,MCM
+http://mylatinotv.com:25461/live/oz/oz/19219.m3u8
