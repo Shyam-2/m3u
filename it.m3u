@@ -1,99 +1,587 @@
 #EXTM3U
-#EXTINF:-1,RAI 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/9447
-#EXTINF:-1,RAI 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/9446
-#EXTINF:-1,RAI 3 HD
-http://linux-app.tv:6204/adnan123/adnan123/9445
-#EXTINF:-1,RAI 4 HD
-http://linux-app.tv:6204/adnan123/adnan123/9444
-#EXTINF:-1,RAI 5
-http://linux-app.tv:6204/adnan123/adnan123/9443
-#EXTINF:-1,Rai News 24
-http://linux-app.tv:6204/adnan123/adnan123/9442
-#EXTINF:-1,Sky Cinema 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/9434
-#EXTINF:-1,Sky Cinema  24 HD
-http://linux-app.tv:6204/adnan123/adnan123/9435
-#EXTINF:-1,Sky Cinema Hits HD
-http://linux-app.tv:6204/adnan123/adnan123/9428
-#EXTINF:-1,Sky Cinema Max HD
-http://linux-app.tv:6204/adnan123/adnan123/9427
-#EXTINF:-1,Sky Cinema Cult HD
-http://linux-app.tv:6204/adnan123/adnan123/9430
-#EXTINF:-1,Sky Cinema Atlantic HD
-http://linux-app.tv:6204/adnan123/adnan123/9433
-#EXTINF:-1,Sky Cinema Classic HD
-http://linux-app.tv:6204/adnan123/adnan123/9432
-#EXTINF:-1,Sky Cinema Comedy HD
-http://linux-app.tv:6204/adnan123/adnan123/9431
-#EXTINF:-1,Sky Cinema Family HD
-http://linux-app.tv:6204/adnan123/adnan123/9429
-#EXTINF:-1,SKY Cinema Passion HD
-http://linux-app.tv:6204/adnan123/adnan123/9426
-#EXTINF:-1,Premium Action HD
-http://linux-app.tv:6204/adnan123/adnan123/9459
-#EXTINF:-1,Premium Cinema Energy
-http://linux-app.tv:6204/adnan123/adnan123/9456
-#EXTINF:-1,Premium Cinema HD
-http://linux-app.tv:6204/adnan123/adnan123/9455
-#EXTINF:-1,Premium Crime HD
-http://linux-app.tv:6204/adnan123/adnan123/9454
-#EXTINF:-1,Premium Emotion HD
-http://linux-app.tv:6204/adnan123/adnan123/9453
-#EXTINF:-1,Premium Stories HD
-http://linux-app.tv:6204/adnan123/adnan123/9448
-#EXTINF:-1,Fox Crime HD
-http://linux-app.tv:6204/adnan123/adnan123/9462
-#EXTINF:-1,Fox HD
-http://linux-app.tv:6204/adnan123/adnan123/9461
-#EXTINF:-1,Fox Life HD
-http://linux-app.tv:6204/adnan123/adnan123/9460
-#EXTINF:-1,Sky Uno HD
-http://linux-app.tv:6204/adnan123/adnan123/9417
-#EXTINF:-1,Sky Sport MotoGP HD
-http://linux-app.tv:6204/adnan123/adnan123/9420
-#EXTINF:-1,Sky Calcio 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/9439
-#EXTINF:-1,Sky Calcio 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/9438
-#EXTINF:-1,Sky Calcio 3 HD
-http://linux-app.tv:6204/adnan123/adnan123/9437
-#EXTINF:-1,Sky Calcio 4 HD
-http://linux-app.tv:6204/adnan123/adnan123/9436
+#EXTINF:-1,105 TV
+http://nitro.ltd:25461/live/Michael /Michael /35193.m3u8
+#EXTINF:-1,LA 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /35071.m3u8
+#EXTINF:-1,Rai 3 HD
+http://nitro.ltd:25461/live/Michael /Michael /34973.m3u8
+#EXTINF:-1,Rai News 24 HD
+http://nitro.ltd:25461/live/Michael /Michael /34967.m3u8
+#EXTINF:-1,Rai Premium HD
+http://nitro.ltd:25461/live/Michael /Michael /34966.m3u8
 #EXTINF:-1,Sky Sport F1 HD
-http://linux-app.tv:6204/adnan123/adnan123/9421
-#EXTINF:-1,Sky Sport 1 HD
-http://linux-app.tv:6204/adnan123/adnan123/9425
-#EXTINF:-1,Sky Sport 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/9424
-#EXTINF:-1,Sky Sport 3 HD
-http://linux-app.tv:6204/adnan123/adnan123/9422
-#EXTINF:-1,Sky Sport 24 HD
-http://linux-app.tv:6204/adnan123/adnan123/9423
-#EXTINF:-1,Eurosport
-http://linux-app.tv:6204/adnan123/adnan123/9464
-#EXTINF:-1,Eurosport 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/9463
-#EXTINF:-1,Premium Calcio
-http://linux-app.tv:6204/adnan123/adnan123/9458
+http://nitro.ltd:25461/live/Michael /Michael /34905.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37385.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37384.m3u8
+#EXTINF:-1,DAZN 3 HD
+http://nitro.ltd:25461/live/Michael /Michael /37383.m3u8
+#EXTINF:-1,DAZN 4 HD
+http://nitro.ltd:25461/live/Michael /Michael /37382.m3u8
+#EXTINF:-1,DAZN 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /37381.m3u8
+#EXTINF:-1,DAZN 7 HD
+http://nitro.ltd:25461/live/Michael /Michael /37379.m3u8
+#EXTINF:-1,DAZN 8 HD
+http://nitro.ltd:25461/live/Michael /Michael /37378.m3u8
+#EXTINF:-1,DAZN 9 HD
+http://nitro.ltd:25461/live/Michael /Michael /37377.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37374.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37373.m3u8
+#EXTINF:-1,Premium CALCIO HD
+http://nitro.ltd:25461/live/Michael /Michael /37364.m3u8
 #EXTINF:-1,Premium Calcio 2 HD
-http://linux-app.tv:6204/adnan123/adnan123/9457
-#EXTINF:-1,Premium Fox Sport HD
-http://linux-app.tv:6204/adnan123/adnan123/9452
-#EXTINF:-1,Premium Sport 2
-http://linux-app.tv:6204/adnan123/adnan123/9451
-#EXTINF:-1,Premium Sport HD
-http://linux-app.tv:6204/adnan123/adnan123/9450
-#EXTINF:-1,Premium Sport HD 2
-http://linux-app.tv:6204/adnan123/adnan123/9449
-#EXTINF:-1,Rai Sports 1
-http://linux-app.tv:6204/adnan123/adnan123/9441
-#EXTINF:-1,Rai Sports 2
-http://linux-app.tv:6204/adnan123/adnan123/9440
-#EXTINF:-1,Sky Supercalcio
-http://linux-app.tv:6204/adnan123/adnan123/9419
-#EXTINF:-1,Sky Supertennis
-http://linux-app.tv:6204/adnan123/adnan123/9418
-#EXTINF:-1,Sport Italia
-http://linux-app.tv:6204/adnan123/adnan123/9416
+http://nitro.ltd:25461/live/Michael /Michael /37369.m3u8
+#EXTINF:-1,Premium Calcio 3 HD
+http://nitro.ltd:25461/live/Michael /Michael /37368.m3u8
+#EXTINF:-1,Premium Calcio 4 HD
+http://nitro.ltd:25461/live/Michael /Michael /37367.m3u8
+#EXTINF:-1,Premium Calcio 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /37366.m3u8
+#EXTINF:-1,Premium Calcio 6 HD
+http://nitro.ltd:25461/live/Michael /Michael /37365.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37360.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37359.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://nitro.ltd:25461/live/Michael /Michael /37358.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://nitro.ltd:25461/live/Michael /Michael /37357.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /37356.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://nitro.ltd:25461/live/Michael /Michael /37355.m3u8
+#EXTINF:-1,Sky Calcio 7 HD
+http://nitro.ltd:25461/live/Michael /Michael /37354.m3u8
+#EXTINF:-1,Sky Calcio 8 HD
+http://nitro.ltd:25461/live/Michael /Michael /37353.m3u8
+#EXTINF:-1,MotoGP HD
+http://nitro.ltd:25461/live/Michael /Michael /37372.m3u8
+#EXTINF:-1,Motor Trend HD
+http://nitro.ltd:25461/live/Michael /Michael /37371.m3u8
+#EXTINF:-1,VIP: IT - MotoGP HD
+http://nitro.ltd:25461/live/Michael /Michael /37387.m3u8
+#EXTINF:-1,Sky F1 FHD
+http://nitro.ltd:25461/live/Michael /Michael /37352.m3u8
+#EXTINF:-1,Auto Motor TV
+http://nitro.ltd:25461/live/Michael /Michael /37386.m3u8
+#EXTINF:-1,Sky MotoGP HD
+http://nitro.ltd:25461/live/Michael /Michael /37351.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37350.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37349.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://nitro.ltd:25461/live/Michael /Michael /37346.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://nitro.ltd:25461/live/Michael /Michael /37344.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://nitro.ltd:25461/live/Michael /Michael /37343.m3u8
+#EXTINF:-1,Sky Sport Golf HD
+http://nitro.ltd:25461/live/Michael /Michael /37342.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://nitro.ltd:25461/live/Michael /Michael /37340.m3u8
+#EXTINF:-1,Sky Sport NBA HD
+http://nitro.ltd:25461/live/Michael /Michael /37338.m3u8
+#EXTINF:-1,Sky Sport Seria A
+http://nitro.ltd:25461/live/Michael /Michael /37337.m3u8
+#EXTINF:-1,Sky Sport Serie A HD
+http://nitro.ltd:25461/live/Michael /Michael /37335.m3u8
+#EXTINF:-1,Sky Sport Uno HD
+http://nitro.ltd:25461/live/Michael /Michael /37334.m3u8
+#EXTINF:-1,SKY SUPER CALCIO HD
+http://nitro.ltd:25461/live/Michael /Michael /37333.m3u8
+#EXTINF:-1,SKY SUPER TENNIS HD
+http://nitro.ltd:25461/live/Michael /Michael /37332.m3u8
+#EXTINF:-1,SportItalia HD
+http://nitro.ltd:25461/live/Michael /Michael /37331.m3u8
+#EXTINF:-1,Super Tennis HD
+http://nitro.ltd:25461/live/Michael /Michael /37330.m3u8
+#EXTINF:-1,PrimaFila WWE
+http://nitro.ltd:25461/live/Michael /Michael /37363.m3u8
+#EXTINF:-1,Rai Sport   FHD
+http://nitro.ltd:25461/live/Michael /Michael /37362.m3u8
+#EXTINF:-1,RAI SPORT HD
+http://nitro.ltd:25461/live/Michael /Michael /37361.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://nitro.ltd:25461/live/Michael /Michael /37692.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://nitro.ltd:25461/live/Michael /Michael /37691.m3u8
+#EXTINF:-1,Energy HD
+http://nitro.ltd:25461/live/Michael /Michael /37690.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://nitro.ltd:25461/live/Michael /Michael /37689.m3u8
+#EXTINF:-1,History Channel HD
+http://nitro.ltd:25461/live/Michael /Michael /37688.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://nitro.ltd:25461/live/Michael /Michael /37687.m3u8
+#EXTINF:-1,Premium Cinema Action HD
+http://nitro.ltd:25461/live/Michael /Michael /37686.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://nitro.ltd:25461/live/Michael /Michael /37685.m3u8
+#EXTINF:-1,Premium Cinema Emotion HD
+http://nitro.ltd:25461/live/Michael /Michael /37684.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://nitro.ltd:25461/live/Michael /Michael /37683.m3u8
+#EXTINF:-1,Premium Crime FHD
+http://nitro.ltd:25461/live/Michael /Michael /37680.m3u8
+#EXTINF:-1,PrimaFila 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37679.m3u8
+#EXTINF:-1,PrimaFila 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37678.m3u8
+#EXTINF:-1,PrimaFila 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /37675.m3u8
+#EXTINF:-1,Rai MOVIE HD
+http://nitro.ltd:25461/live/Michael /Michael /37674.m3u8
+#EXTINF:-1,SKY CINEMA Action HD
+http://nitro.ltd:25461/live/Michael /Michael /37673.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://nitro.ltd:25461/live/Michael /Michael /37670.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://nitro.ltd:25461/live/Michael /Michael /37669.m3u8
+#EXTINF:-1,SKY CINEMA UNO  24 HD
+http://nitro.ltd:25461/live/Michael /Michael /37668.m3u8
+#EXTINF:-1,51 Radio TV
+http://nitro.ltd:25461/live/Michael /Michael /37667.m3u8
+#EXTINF:-1,Alice HD
+http://nitro.ltd:25461/live/Michael /Michael /37665.m3u8
+#EXTINF:-1,Alto Adige Tv
+http://nitro.ltd:25461/live/Michael /Michael /37664.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://nitro.ltd:25461/live/Michael /Michael /37663.m3u8
+#EXTINF:-1,Antenna Tre Nordest
+http://nitro.ltd:25461/live/Michael /Michael /37662.m3u8
+#EXTINF:-1,Antennasud
+http://nitro.ltd:25461/live/Michael /Michael /37661.m3u8
+#EXTINF:-1,Arte HD
+http://nitro.ltd:25461/live/Michael /Michael /37660.m3u8
+#EXTINF:-1,AXN FHD
+http://nitro.ltd:25461/live/Michael /Michael /37659.m3u8
+#EXTINF:-1,Baby TV
+http://nitro.ltd:25461/live/Michael /Michael /37658.m3u8
+#EXTINF:-1,Blaze HD
+http://nitro.ltd:25461/live/Michael /Michael /37656.m3u8
+#EXTINF:-1,BOING HD
+http://nitro.ltd:25461/live/Michael /Michael /37654.m3u8
+#EXTINF:-1,Boomerang
+http://nitro.ltd:25461/live/Michael /Michael /37653.m3u8
+#EXTINF:-1,BOX OFFICE 10
+http://nitro.ltd:25461/live/Michael /Michael /37652.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://nitro.ltd:25461/live/Michael /Michael /37651.m3u8
+#EXTINF:-1,Caccia e Pesca HD
+http://nitro.ltd:25461/live/Michael /Michael /37650.m3u8
+#EXTINF:-1,Caccia HD
+http://nitro.ltd:25461/live/Michael /Michael /37649.m3u8
+#EXTINF:-1,Caffe TV 24
+http://nitro.ltd:25461/live/Michael /Michael /37648.m3u8
+#EXTINF:-1,CANAL 5
+http://nitro.ltd:25461/live/Michael /Michael /37647.m3u8
+#EXTINF:-1,Canale 10
+http://nitro.ltd:25461/live/Michael /Michael /37644.m3u8
+#EXTINF:-1,Canale 7
+http://nitro.ltd:25461/live/Michael /Michael /37646.m3u8
+#EXTINF:-1,Canale 8
+http://nitro.ltd:25461/live/Michael /Michael /37645.m3u8
+#EXTINF:-1,Canale 85
+http://nitro.ltd:25461/live/Michael /Michael /37643.m3u8
+#EXTINF:-1,Carina TV
+http://nitro.ltd:25461/live/Michael /Michael /37642.m3u8
+#EXTINF:-1,Cartonito TV
+http://nitro.ltd:25461/live/Michael /Michael /37641.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://nitro.ltd:25461/live/Michael /Michael /37640.m3u8
+#EXTINF:-1,Cartoonito HD
+http://nitro.ltd:25461/live/Michael /Michael /37639.m3u8
+#EXTINF:-1,CIELO HD
+http://nitro.ltd:25461/live/Michael /Michael /37636.m3u8
+#EXTINF:-1,Classica HD
+http://nitro.ltd:25461/live/Michael /Michael /37633.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://nitro.ltd:25461/live/Michael /Michael /37631.m3u8
+#EXTINF:-1,Company TV
+http://nitro.ltd:25461/live/Michael /Michael /37630.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://nitro.ltd:25461/live/Michael /Michael /37629.m3u8
+#EXTINF:-1,Dea Junior
+http://nitro.ltd:25461/live/Michael /Michael /37628.m3u8
+#EXTINF:-1,Deejay TV
+http://nitro.ltd:25461/live/Michael /Michael /37627.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://nitro.ltd:25461/live/Michael /Michael /37623.m3u8
+#EXTINF:-1,Discovery focus
+http://nitro.ltd:25461/live/Michael /Michael /37622.m3u8
+#EXTINF:-1,Discovery Science HD
+http://nitro.ltd:25461/live/Michael /Michael /37621.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://nitro.ltd:25461/live/Michael /Michael /37620.m3u8
+#EXTINF:-1,Disney Channel HD
+http://nitro.ltd:25461/live/Michael /Michael /37619.m3u8
+#EXTINF:-1,Disney Junior HD
+http://nitro.ltd:25461/live/Michael /Michael /37618.m3u8
+#EXTINF:-1,Disney XD
+http://nitro.ltd:25461/live/Michael /Michael /37617.m3u8
+#EXTINF:-1,DMAX HD
+http://nitro.ltd:25461/live/Michael /Michael /37616.m3u8
+#EXTINF:-1,Eagle Cinema Animazione FHD
+http://nitro.ltd:25461/live/Michael /Michael /37614.m3u8
+#EXTINF:-1,Eagle Cinema Avventura FHD
+http://nitro.ltd:25461/live/Michael /Michael /37613.m3u8
+#EXTINF:-1,Eagle Cinema Azione FHD
+http://nitro.ltd:25461/live/Michael /Michael /37612.m3u8
+#EXTINF:-1,Eagle Cinema Comico Cult FHD
+http://nitro.ltd:25461/live/Michael /Michael /37611.m3u8
+#EXTINF:-1,Eagle Cinema Commedia FHD
+http://nitro.ltd:25461/live/Michael /Michael /37610.m3u8
+#EXTINF:-1,Eagle Cinema Drammatico FHD
+http://nitro.ltd:25461/live/Michael /Michael /37609.m3u8
+#EXTINF:-1,Eagle Cinema Fantastico FHD
+http://nitro.ltd:25461/live/Michael /Michael /37608.m3u8
+#EXTINF:-1,Eagle Cinema Film in Sala FHD (qualita camera)
+http://nitro.ltd:25461/live/Michael /Michael /37607.m3u8
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://nitro.ltd:25461/live/Michael /Michael /37606.m3u8
+#EXTINF:-1,Eagle Cinema Mitologia
+http://nitro.ltd:25461/live/Michael /Michael /37605.m3u8
+#EXTINF:-1,Eagle Cinema Passione FHD
+http://nitro.ltd:25461/live/Michael /Michael /37604.m3u8
+#EXTINF:-1,Eagle Cinema Prima Visione FHD
+http://nitro.ltd:25461/live/Michael /Michael /37603.m3u8
+#EXTINF:-1,Eagle Cinema Sorriso FHD
+http://nitro.ltd:25461/live/Michael /Michael /37602.m3u8
+#EXTINF:-1,Eagle Cinema Storico FHD
+http://nitro.ltd:25461/live/Michael /Michael /37601.m3u8
+#EXTINF:-1,Eagle Cinema Thriller FHD
+http://nitro.ltd:25461/live/Michael /Michael /37600.m3u8
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo
+http://nitro.ltd:25461/live/Michael /Michael /37599.m3u8
+#EXTINF:-1,Eagle Fiabe Magiche
+http://nitro.ltd:25461/live/Michael /Michael /37598.m3u8
+#EXTINF:-1,Eagle Le Fiabe Disney
+http://nitro.ltd:25461/live/Michael /Michael /37597.m3u8
+#EXTINF:-1,Eagle Masha e Orso
+http://nitro.ltd:25461/live/Michael /Michael /37596.m3u8
+#EXTINF:-1,Eagle Peppa Pig
+http://nitro.ltd:25461/live/Michael /Michael /37595.m3u8
+#EXTINF:-1,Eagle Super Pigiamini FHD
+http://nitro.ltd:25461/live/Michael /Michael /37594.m3u8
+#EXTINF:-1,Energy HD
+http://nitro.ltd:25461/live/Michael /Michael /37593.m3u8
+#EXTINF:-1,ETV Marche
+http://nitro.ltd:25461/live/Michael /Michael /37591.m3u8
+#EXTINF:-1,ETV Rete7
+http://nitro.ltd:25461/live/Michael /Michael /37590.m3u8
+#EXTINF:-1,EURONEWS
+http://nitro.ltd:25461/live/Michael /Michael /37589.m3u8
+#EXTINF:-1,FISHING TV
+http://nitro.ltd:25461/live/Michael /Michael /37587.m3u8
+#EXTINF:-1,Focus TV HD
+http://nitro.ltd:25461/live/Michael /Michael /37586.m3u8
+#EXTINF:-1,Fox Animation HD
+http://nitro.ltd:25461/live/Michael /Michael /37584.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://nitro.ltd:25461/live/Michael /Michael /37583.m3u8
+#EXTINF:-1,Fox Crime HD
+http://nitro.ltd:25461/live/Michael /Michael /37582.m3u8
+#EXTINF:-1,FOX HD
+http://nitro.ltd:25461/live/Michael /Michael /37581.m3u8
+#EXTINF:-1,Fox Life HD
+http://nitro.ltd:25461/live/Michael /Michael /37580.m3u8
+#EXTINF:-1,Frisbee TV
+http://nitro.ltd:25461/live/Michael /Michael /37579.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://nitro.ltd:25461/live/Michael /Michael /37578.m3u8
+#EXTINF:-1,Giallo HD
+http://nitro.ltd:25461/live/Michael /Michael /37577.m3u8
+#EXTINF:-1,History Channel HD
+http://nitro.ltd:25461/live/Michael /Michael /37576.m3u8
+#EXTINF:-1,History Lab HD
+http://nitro.ltd:25461/live/Michael /Michael /37575.m3u8
+#EXTINF:-1,Hit Music Channel
+http://nitro.ltd:25461/live/Michael /Michael /37574.m3u8
+#EXTINF:-1,HSE24
+http://nitro.ltd:25461/live/Michael /Michael /37573.m3u8
+#EXTINF:-1,Inter Channel HD
+http://nitro.ltd:25461/live/Michael /Michael /37572.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://nitro.ltd:25461/live/Michael /Michael /37571.m3u8
+#EXTINF:-1,Iris HD
+http://nitro.ltd:25461/live/Michael /Michael /37570.m3u8
+#EXTINF:-1,ITALIA 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37569.m3u8
+#EXTINF:-1,Italian Fishing
+http://nitro.ltd:25461/live/Michael /Michael /37568.m3u8
+#EXTINF:-1,Juventus Channel
+http://nitro.ltd:25461/live/Michael /Michael /37566.m3u8
+#EXTINF:-1,K2
+http://nitro.ltd:25461/live/Michael /Michael /37565.m3u8
+#EXTINF:-1,LA 7 HD
+http://nitro.ltd:25461/live/Michael /Michael /37562.m3u8
+#EXTINF:-1,LAZIO CHANNEL HD
+http://nitro.ltd:25461/live/Michael /Michael /37560.m3u8
+#EXTINF:-1,m20 TV
+http://nitro.ltd:25461/live/Michael /Michael /37557.m3u8
+#EXTINF:-1,Marcopolo HD
+http://nitro.ltd:25461/live/Michael /Michael /37556.m3u8
+#EXTINF:-1,Mediaset 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37555.m3u8
+#EXTINF:-1,Mediaset 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37554.m3u8
+#EXTINF:-1,MEDIASET 20 HD
+http://nitro.ltd:25461/live/Michael /Michael /37552.m3u8
+#EXTINF:-1,MEDIASET EXTRA HD
+http://nitro.ltd:25461/live/Michael /Michael /37551.m3u8
+#EXTINF:-1,Milan Channel HD
+http://nitro.ltd:25461/live/Michael /Michael /37548.m3u8
+#EXTINF:-1,MTV
+http://nitro.ltd:25461/live/Michael /Michael /37547.m3u8
+#EXTINF:-1,MTV 8 Musica
+http://nitro.ltd:25461/live/Michael /Michael /37546.m3u8
+#EXTINF:-1,MTV Music
+http://nitro.ltd:25461/live/Michael /Michael /37545.m3u8
+#EXTINF:-1,NAT GEO HD
+http://nitro.ltd:25461/live/Michael /Michael /37542.m3u8
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://nitro.ltd:25461/live/Michael /Michael /37541.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://nitro.ltd:25461/live/Michael /Michael /37540.m3u8
+#EXTINF:-1,NOVE HD
+http://nitro.ltd:25461/live/Michael /Michael /37539.m3u8
+#EXTINF:-1,OndaTV
+http://nitro.ltd:25461/live/Michael /Michael /37538.m3u8
+#EXTINF:-1,Otto Fm Tv
+http://nitro.ltd:25461/live/Michael /Michael /37536.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://nitro.ltd:25461/live/Michael /Michael /37535.m3u8
+#EXTINF:-1,Pesca e Caccia HD
+http://nitro.ltd:25461/live/Michael /Michael /37533.m3u8
+#EXTINF:-1,Pesca HD
+http://nitro.ltd:25461/live/Michael /Michael /37532.m3u8
+#EXTINF:-1,Premium Cartoon Network HD
+http://nitro.ltd:25461/live/Michael /Michael /37528.m3u8
+#EXTINF:-1,Premium Cinema 2
+http://nitro.ltd:25461/live/Michael /Michael /37527.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://nitro.ltd:25461/live/Michael /Michael /37524.m3u8
+#EXTINF:-1,Premium Cinema Emotion HD
+http://nitro.ltd:25461/live/Michael /Michael /37523.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://nitro.ltd:25461/live/Michael /Michael /37522.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://nitro.ltd:25461/live/Michael /Michael /37521.m3u8
+#EXTINF:-1,Premium Cinema Plus 24
+http://nitro.ltd:25461/live/Michael /Michael /37519.m3u8
+#EXTINF:-1,PREMIUM CINEMA STORIES
+http://nitro.ltd:25461/live/Michael /Michael /37518.m3u8
+#EXTINF:-1,PREMIUM CINEMA UNIVERSAL HD
+http://nitro.ltd:25461/live/Michael /Michael /37517.m3u8
+#EXTINF:-1,PREMIUM COMEDY
+http://nitro.ltd:25461/live/Michael /Michael /37516.m3u8
+#EXTINF:-1,Premium Crime FHD
+http://nitro.ltd:25461/live/Michael /Michael /37515.m3u8
+#EXTINF:-1,PREMIUM Emotion
+http://nitro.ltd:25461/live/Michael /Michael /37514.m3u8
+#EXTINF:-1,PREMIUM Energy HD
+http://nitro.ltd:25461/live/Michael /Michael /37513.m3u8
+#EXTINF:-1,PREMIUM JOI
+http://nitro.ltd:25461/live/Michael /Michael /37512.m3u8
+#EXTINF:-1,Premium Stories HD
+http://nitro.ltd:25461/live/Michael /Michael /37511.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://nitro.ltd:25461/live/Michael /Michael /37510.m3u8
+#EXTINF:-1,Prenium Cinema HD
+http://nitro.ltd:25461/live/Michael /Michael /37509.m3u8
+#EXTINF:-1,PrimaFila 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37508.m3u8
+#EXTINF:-1,PrimaFila 10 HD
+http://nitro.ltd:25461/live/Michael /Michael /37499.m3u8
+#EXTINF:-1,PrimaFila 11 HD
+http://nitro.ltd:25461/live/Michael /Michael /37498.m3u8
+#EXTINF:-1,PrimaFila 12 HD
+http://nitro.ltd:25461/live/Michael /Michael /37497.m3u8
+#EXTINF:-1,PrimaFila 13 HD
+http://nitro.ltd:25461/live/Michael /Michael /37496.m3u8
+#EXTINF:-1,PrimaFila 14 HD
+http://nitro.ltd:25461/live/Michael /Michael /37495.m3u8
+#EXTINF:-1,PrimaFila 15 HD
+http://nitro.ltd:25461/live/Michael /Michael /37494.m3u8
+#EXTINF:-1,PrimaFila 16 HD
+http://nitro.ltd:25461/live/Michael /Michael /37493.m3u8
+#EXTINF:-1,PrimaFila 17 HD
+http://nitro.ltd:25461/live/Michael /Michael /37492.m3u8
+#EXTINF:-1,Primafila 18
+http://nitro.ltd:25461/live/Michael /Michael /37491.m3u8
+#EXTINF:-1,PrimaFila 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37507.m3u8
+#EXTINF:-1,PrimaFila 3 HD
+http://nitro.ltd:25461/live/Michael /Michael /37506.m3u8
+#EXTINF:-1,PrimaFila 4 HD
+http://nitro.ltd:25461/live/Michael /Michael /37505.m3u8
+#EXTINF:-1,PrimaFila 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /37504.m3u8
+#EXTINF:-1,PrimaFila 6 HD
+http://nitro.ltd:25461/live/Michael /Michael /37503.m3u8
+#EXTINF:-1,PrimaFila 7 HD
+http://nitro.ltd:25461/live/Michael /Michael /37502.m3u8
+#EXTINF:-1,PrimaFila 8 HD
+http://nitro.ltd:25461/live/Michael /Michael /37501.m3u8
+#EXTINF:-1,PrimaFila 9 HD
+http://nitro.ltd:25461/live/Michael /Michael /37500.m3u8
+#EXTINF:-1,Primafilla 10 HD
+http://nitro.ltd:25461/live/Michael /Michael /37487.m3u8
+#EXTINF:-1,Quarta Rete TV
+http://nitro.ltd:25461/live/Michael /Michael /37485.m3u8
+#EXTINF:-1,Qvc
+http://nitro.ltd:25461/live/Michael /Michael /37484.m3u8
+#EXTINF:-1,Rai 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37482.m3u8
+#EXTINF:-1,Rai 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37481.m3u8
+#EXTINF:-1,Rai 4 HD
+http://nitro.ltd:25461/live/Michael /Michael /37480.m3u8
+#EXTINF:-1,Rai 5 HD
+http://nitro.ltd:25461/live/Michael /Michael /37479.m3u8
+#EXTINF:-1,Rai Gulp HD
+http://nitro.ltd:25461/live/Michael /Michael /37478.m3u8
+#EXTINF:-1,Rai MOVIE HD
+http://nitro.ltd:25461/live/Michael /Michael /37477.m3u8
+#EXTINF:-1,Rai Scuola HD
+http://nitro.ltd:25461/live/Michael /Michael /37475.m3u8
+#EXTINF:-1,Rai Storia FHD
+http://nitro.ltd:25461/live/Michael /Michael /37474.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://nitro.ltd:25461/live/Michael /Michael /37473.m3u8
+#EXTINF:-1,RDS Social TV
+http://nitro.ltd:25461/live/Michael /Michael /37472.m3u8
+#EXTINF:-1,Real Time HD
+http://nitro.ltd:25461/live/Michael /Michael /37471.m3u8
+#EXTINF:-1,Rete 4 HD
+http://nitro.ltd:25461/live/Michael /Michael /37470.m3u8
+#EXTINF:-1,ROMA CHANNEL HD
+http://nitro.ltd:25461/live/Michael /Michael /37467.m3u8
+#EXTINF:-1,RSI 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37466.m3u8
+#EXTINF:-1,RSI 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37465.m3u8
+#EXTINF:-1,RSI LA 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37464.m3u8
+#EXTINF:-1,RSI LA 2 HD
+http://nitro.ltd:25461/live/Michael /Michael /37463.m3u8
+#EXTINF:-1,RTC Calabria Channel
+http://nitro.ltd:25461/live/Michael /Michael /37462.m3u8
+#EXTINF:-1,RTE News
+http://nitro.ltd:25461/live/Michael /Michael /37461.m3u8
+#EXTINF:-1,RTL 1025 TV
+http://nitro.ltd:25461/live/Michael /Michael /37460.m3u8
+#EXTINF:-1,RTTR TV Trento
+http://nitro.ltd:25461/live/Michael /Michael /37459.m3u8
+#EXTINF:-1,RTV Reggio
+http://nitro.ltd:25461/live/Michael /Michael /37458.m3u8
+#EXTINF:-1,Senato TV
+http://nitro.ltd:25461/live/Michael /Michael /37456.m3u8
+#EXTINF:-1,Sky 3D FHD
+http://nitro.ltd:25461/live/Michael /Michael /37455.m3u8
+#EXTINF:-1,Sky Arte HD
+http://nitro.ltd:25461/live/Michael /Michael /37454.m3u8
+#EXTINF:-1,Sky Atlantic  1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37453.m3u8
+#EXTINF:-1,Sky Atlantic FHD
+http://nitro.ltd:25461/live/Michael /Michael /37452.m3u8
+#EXTINF:-1,Sky Cartoon Network HD
+http://nitro.ltd:25461/live/Michael /Michael /37451.m3u8
+#EXTINF:-1,SKY CINEMA  24 HD
+http://nitro.ltd:25461/live/Michael /Michael /37449.m3u8
+#EXTINF:-1,SKY CINEMA Action HD
+http://nitro.ltd:25461/live/Michael /Michael /37448.m3u8
+#EXTINF:-1,Sky Cinema Atlantic 1 HD
+http://nitro.ltd:25461/live/Michael /Michael /37447.m3u8
+#EXTINF:-1,SKY CINEMA CLASSICS HD
+http://nitro.ltd:25461/live/Michael /Michael /37446.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://nitro.ltd:25461/live/Michael /Michael /37445.m3u8
+#EXTINF:-1,SKY CINEMA COLLETION
+http://nitro.ltd:25461/live/Michael /Michael /37444.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://nitro.ltd:25461/live/Michael /Michael /37443.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA
+http://nitro.ltd:25461/live/Michael /Michael /37441.m3u8
+#EXTINF:-1,SKY CINEMA DUE
+http://nitro.ltd:25461/live/Michael /Michael /37440.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://nitro.ltd:25461/live/Michael /Michael /37439.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://nitro.ltd:25461/live/Michael /Michael /37438.m3u8
+#EXTINF:-1,SKY CINEMA MAX HD
+http://nitro.ltd:25461/live/Michael /Michael /37437.m3u8
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://nitro.ltd:25461/live/Michael /Michael /37436.m3u8
+#EXTINF:-1,SKY CINEMA ROMANCE
+http://nitro.ltd:25461/live/Michael /Michael /37435.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://nitro.ltd:25461/live/Michael /Michael /37434.m3u8
+#EXTINF:-1,SKY CINEMA UNO  24 HD
+http://nitro.ltd:25461/live/Michael /Michael /37432.m3u8
+#EXTINF:-1,SKY CINEMA UNO HD
+http://nitro.ltd:25461/live/Michael /Michael /37431.m3u8
+#EXTINF:-1,Sky News
+http://nitro.ltd:25461/live/Michael /Michael /37430.m3u8
+#EXTINF:-1,Sky Serie A
+http://nitro.ltd:25461/live/Michael /Michael /37429.m3u8
+#EXTINF:-1,Sky TG 24 HD
+http://nitro.ltd:25461/live/Michael /Michael /37428.m3u8
+#EXTINF:-1,Sky Uno HD
+http://nitro.ltd:25461/live/Michael /Michael /37427.m3u8
+#EXTINF:-1,SPIKE
+http://nitro.ltd:25461/live/Michael /Michael /37426.m3u8
+#EXTINF:-1,Studio 100
+http://nitro.ltd:25461/live/Michael /Michael /37425.m3u8
+#EXTINF:-1,Studio Universal
+http://nitro.ltd:25461/live/Michael /Michael /37424.m3u8
+#EXTINF:-1,Super J
+http://nitro.ltd:25461/live/Michael /Michael /37422.m3u8
+#EXTINF:-1,Super!
+http://nitro.ltd:25461/live/Michael /Michael /37421.m3u8
+#EXTINF:-1,Tele Boario
+http://nitro.ltd:25461/live/Michael /Michael /37419.m3u8
+#EXTINF:-1,Tele Chiara
+http://nitro.ltd:25461/live/Michael /Michael /37418.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://nitro.ltd:25461/live/Michael /Michael /37416.m3u8
+#EXTINF:-1,Tele Sondrio News
+http://nitro.ltd:25461/live/Michael /Michael /37414.m3u8
+#EXTINF:-1,Teleabruzzo
+http://nitro.ltd:25461/live/Michael /Michael /37413.m3u8
+#EXTINF:-1,TeleBari
+http://nitro.ltd:25461/live/Michael /Michael /37412.m3u8
+#EXTINF:-1,Telemantova
+http://nitro.ltd:25461/live/Michael /Michael /37411.m3u8
+#EXTINF:-1,TeleTicino HD
+http://nitro.ltd:25461/live/Michael /Michael /37405.m3u8
+#EXTINF:-1,TG 24
+http://nitro.ltd:25461/live/Michael /Michael /37403.m3u8
+#EXTINF:-1,TG com 24 HD
+http://nitro.ltd:25461/live/Michael /Michael /37402.m3u8
+#EXTINF:-1,TG NORBA 24
+http://nitro.ltd:25461/live/Michael /Michael /37401.m3u8
+#EXTINF:-1,Top Crime
+http://nitro.ltd:25461/live/Michael /Michael /37400.m3u8
+#EXTINF:-1,Trentino TV
+http://nitro.ltd:25461/live/Michael /Michael /37398.m3u8
+#EXTINF:-1,TV 2000
+http://nitro.ltd:25461/live/Michael /Michael /37396.m3u8
+#EXTINF:-1,TV 8 HD
+http://nitro.ltd:25461/live/Michael /Michael /37397.m3u8
+#EXTINF:-1,TV Avicenza
+http://nitro.ltd:25461/live/Michael /Michael /37395.m3u8
+#EXTINF:-1,TV Videolina
+http://nitro.ltd:25461/live/Michael /Michael /37394.m3u8
+#EXTINF:-1,Umbria TV
+http://nitro.ltd:25461/live/Michael /Michael /37392.m3u8
+#EXTINF:-1,Vetrina Primafila
+http://nitro.ltd:25461/live/Michael /Michael /37390.m3u8
+#EXTINF:-1,VH1
+http://nitro.ltd:25461/live/Michael /Michael /37389.m3u8
