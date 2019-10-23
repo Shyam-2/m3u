@@ -1,343 +1,198 @@
 #EXTM3U
-#EXTINF:-1,|AR| BEINSPORTS 1 HD
-http://163.172.89.127:8888/live/BEIN1/GQEZOG45EAZR63/1.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 1 BKP
-http://163.172.89.127:8888/live/BEIN1/GQEZOG45EAZR63/2.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 2 HD
-http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/3.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 2 BACKUP
-http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/4.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 3 HD
-http://163.172.89.127:8888/live/BEIN3/0jWkR45MqZ/5.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 3 BACKUP
-http://163.172.89.127:8888/live/BEIN3/0jWkR45MqZ/6.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 4 HD
-http://163.172.89.127:8888/live/BEIN4/SSMDSHFKod/7.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 4 BACKUP
-http://163.172.89.127:8888/live/BEIN4/SSMDSHFKod/8.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 5 HD
-http://163.172.89.127:8888/live/BEIN5/Awq87aGnqS/9.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 5 BACKUP
-http://163.172.89.127:8888/live/BEIN5/Awq87aGnqS/10.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 6 HD
-http://163.172.89.127:8888/live/BEIN6/ZffOncRDKK/11.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 6 BACKUP
-http://163.172.89.127:8888/live/BEIN6/ZffOncRDKK/12.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 7 HD
-http://163.172.89.127:8888/live/BEIN7/uVXyuCtM1h/13.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 7 BACKUP
-http://163.172.89.127:8888/live/BEIN7/uVXyuCtM1h/14.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 8 HD
-http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/15.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 8 BACKUP
-http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/16.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 9 HD
-http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/17.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 9 BACKUP
-http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/18.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 10 HD
-http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/19.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 10 BACKUP
-http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/20.m3u8
-#EXTINF:-1,|AR| beINSPORTS HD13
-http://iptv2.premium-stv.com:8888/live/BEIN13/CdXoi1R1yQ/24.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 1 FULLHD
-http://163.172.89.127:8888/live/BEIN1/GQEZOG45EAZR63/25.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 2 FULLHD
-http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/26.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 3 FULLHD
-http://163.172.89.127:8888/live/BEIN3/0jWkR45MqZ/27.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 4 FULLHD
-http://163.172.89.127:8888/live/BEIN4/SSMDSHFKod/28.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 5 FULLHD
-http://163.172.89.127:8888/live/BEIN5/Awq87aGnqS/29.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 6 FULLHD
-http://163.172.89.127:8888/live/BEIN6/ZffOncRDKK/32.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 7 FULLHD
-http://163.172.89.127:8888/live/BEIN7/uVXyuCtM1h/33.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 8 FULLHD
-http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/34.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 9 FULLHD
-http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/30.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 10 FULLHD
-http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/31.m3u8
-#EXTINF:-1,AR:BEINSPORTS1-SD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/47.m3u8
-#EXTINF:-1,AR:BEINSPORTS2-SD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/45.m3u8
-#EXTINF:-1,AR:BEINSPORTS3-SD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/44.m3u8
-#EXTINF:-1,AR:BEINSPORTS4-SD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.m3u8
-#EXTINF:-1,AR:BEINSPORTS5-SD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.m3u8
-#EXTINF:-1,AR:BEINSPORTS6-SD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/41.m3u8
-#EXTINF:-1,AR:BEINSPORTS7-SD
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/40.m3u8
-#EXTINF:-1,AR:BEINSPORTS8-SD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/39.m3u8
-#EXTINF:-1,AR:BEINSPORTS9-SD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/38.m3u8
-#EXTINF:-1,AR:BEINSPORTS10-SD
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/46.m3u8
-#EXTINF:-1,|AR| BEINSPORT MAX 1 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/25.m3u8
-#EXTINF:-1,|AR| BEINSPORT MAX 2 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.m3u8
-#EXTINF:-1,|AR| BEINSPORT MAX 3 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/27.m3u8
-#EXTINF:-1,|AR| BEINSPORT MAX 4 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.m3u8
-#EXTINF:-1,|AR| BEINSPORTS MAX 1 HD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.m3u8
-#EXTINF:-1,|AR| BEINSPORTS MAX 3.HD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.m3u8
-#EXTINF:-1,|AR| BEINSPORTS MAX 4.HD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4K
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/15.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 1 FULL HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/1.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/6.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 2 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/2.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/7.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 3 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/3.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/8.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/4.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/9.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 5 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS5/W8HNZy0vrs/5.m3u8
-#EXTINF:-1,|FR| RMC SPORT 5 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS5/W8HNZy0vrs/10.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS5/W8HNZy0vrs/5.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/16.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/17.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/18.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/19.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/20.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/21.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/26.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/25.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/24.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/23.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/22.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT FULLHD
-http://iptv1.premium-stv.com:8000/live/CANALAPLUS/laC5eURPY8/27.m3u8
-#EXTINF:-1,|FR| CANAL+  SPORT HD
-http://iptv1.premium-stv.com:8000/live/canalplussports/fPhsc2M3KO/31.m3u8
-#EXTINF:-1,|FR| beINSPORTS 1 FULLHD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/33.m3u8
-#EXTINF:-1,|FR| beINSPORTS 2 FULLHD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.m3u8
-#EXTINF:-1,|FR| beINSPORTS 3 FULLHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.m3u8
-#EXTINF:-1,|FR| BEINSPORT 1 HD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/34.m3u8
-#EXTINF:-1,|FR| BEINSPORT 2 HD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/36.m3u8
-#EXTINF:-1,|FR| BEINSPORT 3 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/40.m3u8
-#EXTINF:-1,|FR| beINSPORT 1 SD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/35.m3u8
-#EXTINF:-1,|FR| beINSPORT 2 SD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/38.m3u8
-#EXTINF:-1,|FR| beINSPORT 3 SD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/41.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 4 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/53.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 4 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/53.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 5 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/52.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 5 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/46.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 6 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/45.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 7 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/50.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 7 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/44.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 8 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/49.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 8 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/43.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 9 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/48.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 9 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/42.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/55.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTSMAX/XOaBCZPi55/54.m3u8
-#EXTINF:-1,|FR| LEQUIPE 21 FHD
-http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/56.m3u8
-#EXTINF:-1,|BE| VOO SPORT 1 FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/186.m3u8
-#EXTINF:-1,|BE| VOO SPORT 2
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/187.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/188.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 2
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/189.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 3
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/190.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 1
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/191.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 2
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro1/ksb2gbhvXR/192.m3u8
-#EXTINF:-1,|ES| GOL TV
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/21.m3u8
-#EXTINF:-1,|ES| M TELEDEPORTE
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/3.m3u8
-#EXTINF:-1,|ES| M LA LIGA123 FHD
-http://iptv4.premium-stv.com:8000/live/spainchannels/fqeoihoqeithq15za54/926.m3u8
-#EXTINF:-1,|ES| M LA LIGA123
-http://iptv4.premium-stv.com:8000/live/spainchannels/fqeoihoqeithq15za54/926.m3u8
-#EXTINF:-1,|ES| M BEINLALIGA
-http://iptv4.premium-stv.com:8000/live/spainchannels/fqeoihoqeithq15za54/17.m3u8
-#EXTINF:-1,|ES| M LALIGA BAR FHD
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/20.m3u8
-#EXTINF:-1,|ES| M LALIGATV FHD
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/17.m3u8
-#EXTINF:-1,|ES| M REAL MADRID TV
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/22.m3u8
-#EXTINF:-1,|ES| M BARCA TV
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/23.m3u8
-#EXTINF:-1,|ES| M EUROSPORT 1 FHD
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/24.m3u8
-#EXTINF:-1,|ES| M EUROSPORT 1
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/25.m3u8
-#EXTINF:-1,|ES| M FORMULA 1 HD
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/27.m3u8
-#EXTINF:-1,|ES| M FORMULA 1
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/28.m3u8
-#EXTINF:-1,|ES| M LALIGA BAR HD
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/19.m3u8
-#EXTINF:-1,|ES| M GOLF HD
-http://163.172.43.26:8000/live/spainchannels/fqeoihoqeithq15za54/30.m3u8
-#EXTINF:-1,|PT| SPORT TV +
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/212.m3u8
-#EXTINF:-1,|PT| SPORT TV1 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/213.m3u8
-#EXTINF:-1,|PT| SPORT TV1
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/215.m3u8
-#EXTINF:-1,|PT| SPORT TV2 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/216.m3u8
-#EXTINF:-1,|PT| SPORT TV2
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/218.m3u8
-#EXTINF:-1,|PT| SPORT TV3 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/219.m3u8
-#EXTINF:-1,|PT| SPORT TV3
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/220.m3u8
-#EXTINF:-1,|PT| SPORT TV4 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/221.m3u8
-#EXTINF:-1,|PT| SPORT TV4
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/222.m3u8
-#EXTINF:-1,|PT| SPORT TV5 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/223.m3u8
-#EXTINF:-1,|PT|  CANAL 11
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/224.m3u8
-#EXTINF:-1,|PT| BENIFICA FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/231.m3u8
-#EXTINF:-1,|PT| BENIFICA
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/232.m3u8
-#EXTINF:-1,|PT| KOMBATSPORT
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/236.m3u8
-#EXTINF:-1,|PT| EUROSPORT NEWS
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/237.m3u8
-#EXTINF:-1,|PT| EUROSPORT 1HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/238.m3u8
-#EXTINF:-1,|PT| EUROSPORT2
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/239.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/225.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/226.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/227.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/228.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/229.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/230.m3u8
-#EXTINF:-1,|UK| SKY SPORT NEWS HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/273.m3u8
-#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/274.m3u8
-#EXTINF:-1,|UK| SKY SPORT MAIN EVENT HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/278.m3u8
-#EXTINF:-1,|UK| SKY SPORT MIX HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/279.m3u8
-#EXTINF:-1,|UK| SKY SPORT CRICKET
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/275.m3u8
-#EXTINF:-1,|UK| SKY SPORT ACTION
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/276.m3u8
-#EXTINF:-1,|UK| SKY SPORT GOLF HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/277.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/281.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/282.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/283.m3u8
-#EXTINF:-1,|UK| BT SPORT ESPN HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/284.m3u8
-#EXTINF:-1,|UK| EIR SPORT2
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/285.m3u8
-#EXTINF:-1,|UK| SKY SPORT F1
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/280.m3u8
-#EXTINF:-1,|UK| EIR SPORT1
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/291.m3u8
-#EXTINF:-1,|IT| SKY SPORT 24 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/294.m3u8
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/295.m3u8
-#EXTINF:-1,|IT| SKY SPORT ARENA HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/296.m3u8
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/297.m3u8
-#EXTINF:-1,|IT| SKY SPORT SERIE A HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/298.m3u8
-#EXTINF:-1,|IT| SKY RYDER CUP
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/300.m3u8
-#EXTINF:-1,|IT| SKY SPORT F1 HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/301.m3u8
-#EXTINF:-1,|IT| SKY SPORT MOTO GP HD
-http://163.172.43.26:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/303.m3u8
-#EXTINF:-1,|NL| FOX SPORT 3 EREDIVISIE HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/365.m3u8
-#EXTINF:-1,|NL| FOX  SPORT 4HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/354.m3u8
-#EXTINF:-1,|NL| FOX SPORT 5 EREDIVISIE HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/367.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 6HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/368.m3u8
-#EXTINF:-1,|NL| Ziggo Sport Voetbal
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/364.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 1 HR
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/444.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 2 HR
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/445.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 3 HR
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLD/Bu7GVZlEYV/446.m3u8
+#EXTINF:0,Bein-Sports-News
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/386.ts
+#EXTINF:0,Bein Sports
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/432.ts
+#EXTINF:0,BeIN Sports-1HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/407.ts
+#EXTINF:0,BeIN Sports 1HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/117.ts
+#EXTINF:0,BeIN Sports 1FHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/118.ts
+#EXTINF:0,BeIN Sports 1FULLHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/119.ts
+#EXTINF:0,BeIN Sports-2HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/408.ts
+#EXTINF:0,BeIN Sports 2HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/120.ts
+#EXTINF:0,BeIN Sports 2FHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/121.ts
+#EXTINF:0,BeIN Sports 2FULLHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/122.ts
+#EXTINF:0,BeIN Sports-3HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/409.ts
+#EXTINF:0,BeIN Sports 3HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/123.ts
+#EXTINF:0,BeIN Sports 3FHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/124.ts
+#EXTINF:0,BeIN Sports 3FULLHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/125.ts
+#EXTINF:0,BeIN Sports-4HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/410.ts
+#EXTINF:0,BeIN Sports 4HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/126.ts
+#EXTINF:0,BeIN Sports 4FULHD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/127.ts
+#EXTINF:0,BeIN Sports-5HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/411.ts
+#EXTINF:0,BeIN Sports 5HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/128.ts
+#EXTINF:0,BeIN Sports-6HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/412.ts
+#EXTINF:0,BeIN Sports 6HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/129.ts
+#EXTINF:0,BeIN Sports-7HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/413.ts
+#EXTINF:0,BeIN Sports 7HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/130.ts
+#EXTINF:0,BeIN Sports-8HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/414.ts
+#EXTINF:0,BeIN Sports 8HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/131.ts
+#EXTINF:0,BeIN Sports-9HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/415.ts
+#EXTINF:0,BeIN Sports 9HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/132.ts
+#EXTINF:0,BeIN Sports-10HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/416.ts
+#EXTINF:0,BeIN Sports 10HD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/133.ts
+#EXTINF:0,http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/134.ts
+#EXTINF:0,BeIN Sports 1SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/135.ts
+#EXTINF:0,BeIN Sports-1SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/429.ts
+#EXTINF:0,BeIN Sports 2SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/136.ts
+#EXTINF:0,BeIN Sports-2SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/430.ts
+#EXTINF:0,BeIN Sports 3SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/137.ts
+#EXTINF:0,BeIN Sports-3SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/431.ts
+#EXTINF:0,BeIN Sports 4SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/138.ts
+#EXTINF:0,BeIN Sports 5SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/139.ts
+#EXTINF:0,BeIN Sports 6SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/140.ts
+#EXTINF:0,BeIN Sports 7SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/141.ts
+#EXTINF:0,BeIN Sports 8SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/142.ts
+#EXTINF:0,BeIN Sports 9SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/143.ts
+#EXTINF:0,BeIN Sports 10SD
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/144.ts
+#EXTINF:0,http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/450.ts
+#EXTINF:0,BeIN Sports 1 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/442.ts
+#EXTINF:0,BeIN Sports 2 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/443.ts
+#EXTINF:0,BeIN Sports 3 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/444.ts
+#EXTINF:0,BeIN Sports 4 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/445.ts
+#EXTINF:0,BeIN Sports 5 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/446.ts
+#EXTINF:0,BeIN Sports 6 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/447.ts
+#EXTINF:0,BeIN Sports 7 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/448.ts
+#EXTINF:0,BeIN Sports 8 360p
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/449.ts
+#EXTINF:0,: http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/146.ts
+#EXTINF:0,AlFajer TV 1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/147.ts
+#EXTINF:0,AlFajer TV 2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/148.ts
+#EXTINF:0,AlFajer TV 3
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/149.ts
+#EXTINF:0,AlFajer TV 4
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/150.ts
+#EXTINF:0,AlFajer TV 5
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/151.ts
+#EXTINF:0,Beryan TV
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/116.ts
+#EXTINF:0,http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/171.ts
+#EXTINF:0,Kurd-Goal(http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/152.ts
+#EXTINF:0,Salam-TV(http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/154.ts
+#EXTINF:0,Ajyal-TV(http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/156.ts
+#EXTINF:0,Kol-Alnas(http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/155.ts
+#EXTINF:0,AD-Sports1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/161.ts
+#EXTINF:0,AD-Sports2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/162.ts
+#EXTINF:0,AD-Sports3
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/163.ts
+#EXTINF:0,AD-Sports4
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/164.ts
+#EXTINF:0,Alkass-1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/157.ts
+#EXTINF:0,Alkass-2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/158.ts
+#EXTINF:0,KSA-Sport-1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/169.ts
+#EXTINF:0,KSA-Sport-2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/170.ts
+#EXTINF:0,Dubai-Sport-1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/167.ts
+#EXTINF:0,Dubai-Sport-2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/166.ts
+#EXTINF:0,Dubai-Sport-3
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/168.ts
+#EXTINF:0,DE:DAZN 1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/387.ts
+#EXTINF:0,DE:DAZN 2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/388.ts
+#EXTINF:0,ON SPORT
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/68.ts
+#EXTINF:0,Iraqia-Sport
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/159.ts
+#EXTINF:0,Sharjah-Sports
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/165.ts
+#EXTINF:0,KTV-Sport
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/160.ts
+#EXTINF:0,http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/246.ts
+#EXTINF:0,Bein-Movies1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/417.ts
+#EXTINF:0,Bein-Movies2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/418.ts
+#EXTINF:0,Bein-Movies3
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/419.ts
+#EXTINF:0,Bein-Movies4
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/420.ts
+#EXTINF:0,Bein-Series1
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/423.ts
+#EXTINF:0,Bein-Series2
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/424.ts
+#EXTINF:0,Bein-Drama
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/425.ts
+#EXTINF:0,AD-Nat-Geo
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/227.ts
+#EXTINF:0,Nat-Geo-CZ
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/228.ts
+#EXTINF:0,Nat-Geo-Kids
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/225.ts
+#EXTINF:0,Discovery
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/232.ts
+#EXTINF:0,Discovery-Showca
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/233.ts
+#EXTINF:0,Animal-Planet
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/229.ts
+#EXTINF:0,Fishing-And-Hunt
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/230.ts
+#EXTINF:0,History
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/231.ts
+#EXTINF:0,Bein-Gourmet
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/421.ts
+#EXTINF:0,Bein-Fatafeat
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/422.ts
+#EXTINF:0,Nickelodeon
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/288.ts
+#EXTINF:0,Boomerang
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/286.ts
+#EXTINF:0,CN_Arabia
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/284.ts
+#EXTINF:0,Gem-Kids
+http://iptv-janberyan.com:25461/live/7774177741777/7774177741777/289.ts
