@@ -1,363 +1,127 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15039.m3u8
-#EXTINF:-1,LA 1
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38498.m3u8
-#EXTINF:-1,LA 2 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38490.m3u8
-#EXTINF:-1,LA 2
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15038.m3u8
-#EXTINF:-1,ANTENA 3 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15036.m3u8
-#EXTINF:-1,ANTENA 3
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38501.m3u8
-#EXTINF:-1,CUATRO HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15035.m3u8
-#EXTINF:-1,Cuatro
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38497.m3u8
-#EXTINF:-1,TELECINCO HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15034.m3u8
-#EXTINF:-1,Telecinco
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38495.m3u8
-#EXTINF:-1,LA SEXTA HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15037.m3u8
-#EXTINF:-1,laSexta
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38499.m3u8
-#EXTINF:-1,CANAL 24 HORAS
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15033.m3u8
-#EXTINF:-1,24 HORAS
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15032.m3u8
-#EXTINF:-1,TVE INTERNACIONAL
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15031.m3u8
+#EXTINF:-1,24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1,Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-1,Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Cancionero TV
+http://89.140.99.41/hls/1080.m3u8?
+#EXTINF:-1,Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+#EXTINF:-1,Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1,FDF
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15030.m3u8
-#EXTINF:-1,#VAMOS HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24973.m3u8
-#EXTINF:-1,CLAN TVE
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15029.m3u8
-#EXTINF:-1,Clan TVE HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38489.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15028.m3u8
-#EXTINF:-1,NOVA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38487.m3u8
-#EXTINF:-1,IBERALIA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15027.m3u8
-#EXTINF:-1,FOX HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15026.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15025.m3u8
-#EXTINF:-1,FOX NEWS
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15024.m3u8
-#EXTINF:-1,0 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15023.m3u8
-#EXTINF:-1,AMC HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15022.m3u8
-#EXTINF:-1,ARAGON
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15021.m3u8
-#EXTINF:-1,Andaluci
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38488.m3u8
-#EXTINF:-1,AXN HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15020.m3u8
-#EXTINF:-1,AXN
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15019.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15018.m3u8
-#EXTINF:-1,A3 SERIES HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/29608.m3u8
-#EXTINF:-1,SYFY HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15017.m3u8
-#EXTINF:-1,TCM HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15016.m3u8
-#EXTINF:-1,TNT HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15015.m3u8
-#EXTINF:-1,BE MAD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15014.m3u8
-#EXTINF:-1,TEN
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38486.m3u8
-#EXTINF:-1,DMAX
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38492.m3u8
-#EXTINF:-1,BLAZE
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15013.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15012.m3u8
-#EXTINF:-1,CANAL COCINA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15011.m3u8
-#EXTINF:-1,CANAL DECASA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15010.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15009.m3u8
-#EXTINF:-1,dkiss
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38491.m3u8
-#EXTINF:-1,BOM
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38494.m3u8
-#EXTINF:-1,CANAL SUR HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38503.m3u8
-#EXTINF:-1,TDP
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38504.m3u8
-#EXTINF:-1,TDP HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38496.m3u8
-#EXTINF:-1,TRECE
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38502.m3u8
-#EXTINF:-1,CANAL SUR
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15008.m3u8
-#EXTINF:-1,CANAL SUR 2
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38493.m3u8
-#EXTINF:-1,CAZA Y PESCA HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15007.m3u8
-#EXTINF:-1,CLASSICA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15006.m3u8
-#EXTINF:-1,COSMO HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15005.m3u8
-#EXTINF:-1,CRIMEN Y INVES
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15004.m3u8
-#EXTINF:-1,DIVINITY
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15003.m3u8
-#EXTINF:-1,ENERGY
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15002.m3u8
-#EXTINF:-1,BABY TV
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15001.m3u8
-#EXTINF:-1,BOING
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/15000.m3u8
-#EXTINF:-1,CANAL PANDA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14999.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14998.m3u8
-#EXTINF:-1,DISNEY HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14997.m3u8
-#EXTINF:-1,DISNEY JR
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14996.m3u8
-#EXTINF:-1,DISNEY XD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14995.m3u8
-#EXTINF:-1,NICKELODEON  HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14994.m3u8
-#EXTINF:-1,M. ACCION HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14977.m3u8
-#EXTINF:-1,M. CINE ESP
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14976.m3u8
-#EXTINF:-1,M. COMEDIA HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14975.m3u8
-#EXTINF:-1,M. DCINE HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14974.m3u8
-#EXTINF:-1,M. DISNEY
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14973.m3u8
-#EXTINF:-1,M. ESTRENOS HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14972.m3u8
-#EXTINF:-1,M. FAMA 24
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14971.m3u8
-#EXTINF:-1,M. SERIES HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14970.m3u8
-#EXTINF:-1,atreseries HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/38500.m3u8
-#EXTINF:-1,M. SERIES XTRA HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14969.m3u8
-#EXTINF:-1,M. XTRA HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14968.m3u8
-#EXTINF:-1,M.Cine Doc&Roll
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/36743.m3u8
-#EXTINF:-1,MEZZO LIVE HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14964.m3u8
-#EXTINF:-1,MEGA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/19757.m3u8
-#EXTINF:-1,MTV ROCKS
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14963.m3u8
-#EXTINF:-1,DISCOVERY
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14962.m3u8
-#EXTINF:-1,HISTORIA
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14961.m3u8
-#EXTINF:-1,NAT GEO HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14960.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14959.m3u8
-#EXTINF:-1,NAT WILD HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14958.m3u8
-#EXTINF:-1,NEOX
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14957.m3u8
-#EXTINF:-1,PARAMOUNT
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14956.m3u8
-#EXTINF:-1,VH1
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14955.m3u8
-#EXTINF:-1,VIAJAR HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14954.m3u8
-#EXTINF:-1,BAR TV
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14983.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14993.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14987.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14988.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14986.m3u8
-#EXTINF:-1,FORMULA 1 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14985.m3u8
-#EXTINF:-1,GOL
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14989.m3u8
-#EXTINF:-1,LA LIGA 123 TV HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24470.m3u8
-#EXTINF:-1,LA LIGA HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14991.m3u8
-#EXTINF:-1,LA LIGA TV HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14992.m3u8
-#EXTINF:-1,M. DEP2 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14966.m3u8
-#EXTINF:-1,M. DEPORTE 1 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14967.m3u8
-#EXTINF:-1,M. FORMULA 1
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14984.m3u8
-#EXTINF:-1,M. FTBOL HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14990.m3u8
-#EXTINF:-1,M. GOLF HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14981.m3u8
-#EXTINF:-1,M.CAMPEONES HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24469.m3u8
-#EXTINF:-1,M. Liga De Campeones 2
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/31677.m3u8
-#EXTINF:-1,M. PARTIDAZO HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14980.m3u8
-#EXTINF:-1, DAZN 1 BAR FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/39030.m3u8
-#EXTINF:-1,DAZN 2 BAR FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/39027.m3u8
-#EXTINF:-1,MOTOGP HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14979.m3u8
-#EXTINF:-1,Real MADRID TV HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14982.m3u8
-#EXTINF:-1,TELE DEPORTE
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14965.m3u8
-#EXTINF:-1,TOROS HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/14978.m3u8
-#EXTINF:-1,Alquiler 1 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24479.m3u8
-#EXTINF:-1,Alquiler 2 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24478.m3u8
-#EXTINF:-1,Alquiler 3 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24477.m3u8
-#EXTINF:-1,Alquiler 4 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24476.m3u8
-#EXTINF:-1,Alquiler 5 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24475.m3u8
-#EXTINF:-1,Alquiler 6 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24474.m3u8
-#EXTINF:-1,Alquiler 7 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24473.m3u8
-#EXTINF:-1,Alquiler 8 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24472.m3u8
-#EXTINF:-1,Alquiler 9 HD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/24471.m3u8
-#EXTINF:-1,LA 1 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42067.m3u8
-#EXTINF:-1,LA 2 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42068.m3u8
-#EXTINF:-1,ANTENA 3 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42069.m3u8
-#EXTINF:-1,CUATRO FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42070.m3u8
-#EXTINF:-1,TELECINCO FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42071.m3u8
-#EXTINF:-1,LA SEXTA FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42072.m3u8
-#EXTINF:-1,CLAN FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42073.m3u8
-#EXTINF:-1,CANAL SUR FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42074.m3u8
-#EXTINF:-1,TDP FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42075.m3u8
-#EXTINF:-1,R.MADRID TV FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42077.m3u8
-#EXTINF:-1,M.PARTIDAZO FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42078.m3u8
-#EXTINF:-1,M. DEPORTES FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42079.m3u8
-#EXTINF:-1,M.DEPORTES1 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42080.m3u8
-#EXTINF:-1,M.WIMBLEDON FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42081.m3u8
-#EXTINF:-1,LALIGA TV BAR FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42082.m3u8
-#EXTINF:-1,LA LIGA 123 TV FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42083.m3u8
-#EXTINF:-1,M LALIGA FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42084.m3u8
-#EXTINF:-1,M LALIGA 1 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42085.m3u8
-#EXTINF:-1,M LALIGA 2 FHD (ONLY DURING LIVE MATCHES)
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42086.m3u8
-#EXTINF:-1,M LALIGA 3 FHD (ONLY DURING LIVE MATCHES)
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42087.m3u8
-#EXTINF:-1,M.LCAMPEONES
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42088.m3u8
-#EXTINF:-1,M.LCAMPEONES 1 (ONLY DURING LIVE MATCHES)
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42089.m3u8
-#EXTINF:-1,M.LCAMPEONES 2 (ONLY DURING LIVE MATCHES)
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42090.m3u8
-#EXTINF:-1,EUROSPORT1 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42091.m3u8
-#EXTINF:-1,M. GOLF FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42092.m3u8
-#EXTINF:-1,M.FORMULA1 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42093.m3u8
-#EXTINF:-1,M. ACCIÂ©N FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42095.m3u8
-#EXTINF:-1,M. SERIES FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42096.m3u8
-#EXTINF:-1,M. DRAMA FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42097.m3u8
-#EXTINF:-1,M.CINEDOC&ROLL FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42098.m3u8
-#EXTINF:-1,M.COMEDIA FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42099.m3u8
-#EXTINF:-1,M.SERIESMANIA FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42100.m3u8
-#EXTINF:-1,M.ESTRENOS FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42101.m3u8
-#EXTINF:-1, COMEDYCENTRAL FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42102.m3u8
-#EXTINF:-1,TNT FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42103.m3u8
-#EXTINF:-1,0 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42105.m3u8
-#EXTINF:-1,AMC FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42106.m3u8
-#EXTINF:-1,AXN FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42107.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42108.m3u8
-#EXTINF:-1,#VAMOS FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42109.m3u8
-#EXTINF:-1,CALLE 13 FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42110.m3u8
-#EXTINF:-1,M.atreseries FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42111.m3u8
-#EXTINF:-1,HOLLYWOOD FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42112.m3u8
-#EXTINF:-1,SYFY FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42113.m3u8
-#EXTINF:-1,TCM FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42114.m3u8
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42115.m3u8
-#EXTINF:-1,COSMO FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42116.m3u8
-#EXTINF:-1,FOX FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42117.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42118.m3u8
-#EXTINF:-1,TOROS FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42119.m3u8
-#EXTINF:-1,BE MAD FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42120.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42122.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42123.m3u8
-#EXTINF:-1,CAZAYPESCA FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42124.m3u8
-#EXTINF:-1,VIAJAR FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42125.m3u8
-#EXTINF:-1,DISNEY CH FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42127.m3u8
-#EXTINF:-1,NICKELODEON FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42128.m3u8
-#EXTINF:-1,MEZZO LIVE FHD
-http://www.sansat.net:25461/live/02029619118928/g4xLeIO7T4tZhec/42130.m3u8
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1,Fight Time
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1,Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1,Imas TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+#EXTINF:-1,Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,LifeTV
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,Miami TV Espana
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
+#EXTINF:-1,Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1,Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,Navarra TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:0,PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1,RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1,Vega Baja TV
+http://185.29.68.24/tvb.m3u8
