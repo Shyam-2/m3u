@@ -1,27 +1,119 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidepoland.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rrukOU4.png" group-title="",dlaCiebie TV
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Hope.png" group-title="",Hope Channel
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/911157852294787072/K-mU7Tn__400x400.jpg" group-title="",Telewizja Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="",Telewizja Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BLFrhLJ.png" group-title="XXX",Zest TV
-http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTM3U
+#EXTINF:-1,HBO HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20553.m3u8
+#EXTINF:-1,ALE Kino+ FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20549.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20548.m3u8
+#EXTINF:-1,BBC First HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20545.m3u8
+#EXTINF:-1,Canal+ HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20542.m3u8
+#EXTINF:-1,Canal+ Sport FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20541.m3u8
+#EXTINF:-1,Canal + Sport 2 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/30582.m3u8
+#EXTINF:-1,CANAL+  DISCOVERY FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20540.m3u8
+#EXTINF:-1,Canal+ Family HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20538.m3u8
+#EXTINF:-1,Canal + Film HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20537.m3u8
+#EXTINF:-1,Canal + Serial HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20535.m3u8
+#EXTINF:-1,Cinemax HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20531.m3u8
+#EXTINF:-1,Comedy Central HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20530.m3u8
+#EXTINF:-1,Eleven Extra HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20529.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20527.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20526.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20524.m3u8
+#EXTINF:-1,Filmbox Family HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20521.m3u8
+#EXTINF:-1,Filmbox Premium HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20520.m3u8
+#EXTINF:-1,HBO 3 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20517.m3u8
+#EXTINF:-1,HBO 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20516.m3u8
+#EXTINF:-1,Ale Kino+ HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20514.m3u8
+#EXTINF:-1,Nat Geographic HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20512.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20511.m3u8
+#EXTINF:-1,Nsports + HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20510.m3u8
+#EXTINF:-1,Polsat Cafe HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4880.m3u8
+#EXTINF:-1,Polsat Film HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4879.m3u8
+#EXTINF:-1,Polsat HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4878.m3u8
+#EXTINF:-1,Polsat Play HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4876.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4874.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27619.m3u8
+#EXTINF:-1,Da Vinci Learning HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27621.m3u8
+#EXTINF:-1,Disney Channel HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27617.m3u8
+#EXTINF:-1,Disney XD HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27618.m3u8
+#EXTINF:-1,JimJam HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27616.m3u8
+#EXTINF:-1,Mini Mini+ HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27613.m3u8
+#EXTINF:-1,Nick JR HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27615.m3u8
+#EXTINF:-1,TeleToon HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27614.m3u8
+#EXTINF:-1,TVP HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/27620.m3u8
+#EXTINF:-1,Polsat News HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20506.m3u8
+#EXTINF:-1,Polsat Romans HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20504.m3u8
+#EXTINF:-1,Polsat Sport Extra HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20502.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20501.m3u8
+#EXTINF:-1,Polsat 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20500.m3u8
+#EXTINF:-1,TVN Turbo HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4892.m3u8
+#EXTINF:-1,TVN HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20498.m3u8
+#EXTINF:-1,TVN Style HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20497.m3u8
+#EXTINF:-1,TVP Historia HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20494.m3u8
+#EXTINF:-1,TVP Kultura HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20493.m3u8
+#EXTINF:-1,TVP Sport FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20491.m3u8
+#EXTINF:-1,TVP Info HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20488.m3u8
+#EXTINF:-1,TVP Serial HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20487.m3u8
+#EXTINF:-1,TVP 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4885.m3u8
+#EXTINF:-1,TVP 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4886.m3u8
+#EXTINF:-1,TVP 3 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4887.m3u8
+#EXTINF:-1,TV4 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/32946.m3u8
+#EXTINF:-1,Eska TV HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22326.m3u8
+#EXTINF:-1,TVN 24 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22325.m3u8
+#EXTINF:-1,TVN 7 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22324.m3u8
