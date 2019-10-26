@@ -1,173 +1,449 @@
 #EXTM3U
-#EXTINF:-1,ZDFneo HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/530.m3u8
-#EXTINF:-1,ZDFneo
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/529.m3u8
-#EXTINF:-1,ZDFinfo
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/531.m3u8
-#EXTINF:-1,ZDF HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/528.m3u8
-#EXTINF:-1,ZDF
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/527.m3u8
-#EXTINF:-1,WDR HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/532.m3u8
-#EXTINF:-1,VOX HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/524.m3u8
-#EXTINF:-1,VOX
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/523.m3u8
-#EXTINF:-1,TV Touring
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/578.m3u8
-#EXTINF:-1,TNT Serie HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/582.m3u8
-#EXTINF:-1,RTL II HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/538.m3u8
-#EXTINF:-1,RTL Nitro
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/539.m3u8
-#EXTINF:-1,kabel eins
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/540.m3u8
+#EXTINF:-1,Das Erste FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22238.m3u8
 #EXTINF:-1,Das Erste HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/541.m3u8
-#EXTINF:-1,phoenix
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/542.m3u8
-#EXTINF:-1,SRF 1 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/543.m3u8
-#EXTINF:-1,ORF eins
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/544.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/567.m3u8
-#EXTINF:-1,Syfy HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/574.m3u8
-#EXTINF:-1,SUPER RTL
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/551.m3u8
-#EXTINF:-1,SKY SPORTS 2 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/593.m3u8
-#EXTINF:-1,SKY SPORT NEWS HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/599.m3u8
-#EXTINF:-1,Sky Select 8
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/591.m3u8
-#EXTINF:-1,Sky Select 7
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/590.m3u8
-#EXTINF:-1,Sky Select 3
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/586.m3u8
-#EXTINF:-1,Sky Select 2
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/585.m3u8
-#EXTINF:-1,Sky Select 1
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/584.m3u8
-#EXTINF:-1,Sky Nostalgie
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/561.m3u8
-#EXTINF:-1,SKY Hits
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/560.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/562.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/559.m3u8
-#EXTINF:-1,Sky Bundesliga 5 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/598.m3u8
-#EXTINF:-1,Sky Bundesliga 4 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/597.m3u8
-#EXTINF:-1,Sky Bundesliga 3 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/596.m3u8
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/595.m3u8
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/594.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/558.m3u8
-#EXTINF:-1,Sky Action HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/557.m3u8
-#EXTINF:-1,Sat1 Gold
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/547.m3u8
-#EXTINF:-1,Sat.1
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/546.m3u8
-#EXTINF:-1,RTL II
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/537.m3u8
-#EXTINF:-1,RTL
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/535.m3u8
-#EXTINF:-1,ProSieben Maxx HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/526.m3u8
-#EXTINF:-1,ProSieben
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/548.m3u8
-#EXTINF:-1,PHOENIX HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/606.m3u8
-#EXTINF:-1,ORF 2 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/545.m3u8
-#EXTINF:-1,One
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/552.m3u8
-#EXTINF:-1,NDR HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/581.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/570.m3u8
-#EXTINF:-1,N24
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/241.m3u8
-#EXTINF:-1,n-tv HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/553.m3u8
-#EXTINF:-1,KINOWELT TV HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/605.m3u8
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7011.m3u8
+#EXTINF:-1,ZDF FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22237.m3u8
+#EXTINF:-1,ZDF HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1122.m3u8
+#EXTINF:-1,WDR HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1123.m3u8
+#EXTINF:-1,RTL 1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20665.m3u8
+#EXTINF:-1,RTL 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1126.m3u8
+#EXTINF:-1,SAT 1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20666.m3u8
+#EXTINF:-1,SAT 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1125.m3u8
+#EXTINF:-1,Prosieben FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20663.m3u8
+#EXTINF:-1,Prosieben HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1128.m3u8
+#EXTINF:-1,RTL 2 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20664.m3u8
+#EXTINF:-1,RTL 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1127.m3u8
+#EXTINF:-1,VOX FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20674.m3u8
+#EXTINF:-1,VOX HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1124.m3u8
+#EXTINF:-1,Kabel Eins FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22708.m3u8
+#EXTINF:-1,Kabel Eins HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1132.m3u8
+#EXTINF:-1,SUPER RTL FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20671.m3u8
+#EXTINF:-1,Super RTL HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7002.m3u8
 #EXTINF:-1,KIKA HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/550.m3u8
-#EXTINF:-1,KIKA
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/549.m3u8
-#EXTINF:-1,History HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/569.m3u8
-#EXTINF:-1,FOX TV HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/556.m3u8
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7004.m3u8
+#EXTINF:-1,RTL plus HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7003.m3u8
+#EXTINF:-1,RTL Nitro HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6987.m3u8
+#EXTINF:-1,RTL Living HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6988.m3u8
+#EXTINF:-1,RTL Crime FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20687.m3u8
+#EXTINF:-1,RTL Crime HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/2627.m3u8
+#EXTINF:-1,RTL Passion FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22712.m3u8
+#EXTINF:-1,RTL Passion HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/2626.m3u8
+#EXTINF:-1,SAT 1 Gold HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6990.m3u8
+#EXTINF:-1,Prosieben Fun FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22714.m3u8
+#EXTINF:-1,Prosieben Fun HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6986.m3u8
+#EXTINF:-1,ZDF Neo HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6997.m3u8
+#EXTINF:-1,ZDF Info HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6998.m3u8
+#EXTINF:-1,FOX FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20659.m3u8
 #EXTINF:-1,FOX HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/576.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/607.m3u8
-#EXTINF:-1,DMAX
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/583.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/604.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/603.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/602.m3u8
-#EXTINF:-1,Disney
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/579.m3u8
-#EXTINF:-1,CLASSICA HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/577.m3u8
-#EXTINF:-1,Cartoon Network
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/572.m3u8
-#EXTINF:-1,ARTE HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/534.m3u8
-#EXTINF:-1,ARTE
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/533.m3u8
-#EXTINF:-1,ANIXE HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/601.m3u8
-#EXTINF:-1,Animal Planet
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/600.m3u8
-#EXTINF:-1,3sat HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/555.m3u8
-#EXTINF:-1,3sat
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/554.m3u8
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1133.m3u8
+#EXTINF:-1,13th Street FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20657.m3u8
 #EXTINF:-1,13th Street HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/580.m3u8
-#EXTINF:-1,RTL HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/536.m3u8
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1135.m3u8
+#EXTINF:-1,SYFY FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20672.m3u8
+#EXTINF:-1,SYFY HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3696.m3u8
+#EXTINF:-1,3 Sat HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6992.m3u8
+#EXTINF:-1,Phoenix HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7000.m3u8
+#EXTINF:-1,N24 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4801.m3u8
+#EXTINF:-1,N24 Doku HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22600.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/2625.m3u8
+#EXTINF:-1,SIXX FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20667.m3u8
 #EXTINF:-1,SIXX HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/525.m3u8
-#EXTINF:-1,Sky Select 6
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/589.m3u8
-#EXTINF:-1,Sky Select 4
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/587.m3u8
-#EXTINF:-1,Sky Select 5
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/588.m3u8
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1234.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7016.m3u8
+#EXTINF:-1,Kabel Eins Doku HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6984.m3u8
+#EXTINF:-1,Prosieben Maxx HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6985.m3u8
+#EXTINF:-1,N-TV FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20660.m3u8
+#EXTINF:-1,N-TV HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4802.m3u8
+#EXTINF:-1,NDR HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1131.m3u8
+#EXTINF:-1,Servus HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7012.m3u8
+#EXTINF:-1,DMAX FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22715.m3u8
+#EXTINF:-1,DMAX HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6991.m3u8
+#EXTINF:-1,SRF 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6996.m3u8
+#EXTINF:-1,ORF 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1129.m3u8
+#EXTINF:-1,ORF 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1130.m3u8
+#EXTINF:-1,Arte HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1134.m3u8
+#EXTINF:-1,Tele 5 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7013.m3u8
+#EXTINF:-1,SONY TV HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20850.m3u8
+#EXTINF:-1,MTV FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20680.m3u8
+#EXTINF:-1,RBB Berlin HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20681.m3u8
+#EXTINF:-1,Universal TV HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20851.m3u8
+#EXTINF:-1,Welt Der Wunter HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20854.m3u8
+#EXTINF:-1,Comedy Central HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20852.m3u8
+#EXTINF:-1,Heimatkanal HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7001.m3u8
+#EXTINF:-1,MDR S-Anhalt FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20679.m3u8
+#EXTINF:-1,Romance TV
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22750.m3u8
+#EXTINF:-1,E! Entertainment FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20677.m3u8
+#EXTINF:-1,E! entertainement HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22323.m3u8
+#EXTINF:-1,Euronews HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1402.m3u8
+#EXTINF:-1,Universal FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20694.m3u8
+#EXTINF:-1,Unniversal HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6993.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22727.m3u8
+#EXTINF:-1,Spiegel Wissen HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6999.m3u8
+#EXTINF:-1,Spiegel Wissen FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22728.m3u8
+#EXTINF:-1,Boomerang HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/6994.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7006.m3u8
+#EXTINF:-1,Disney XD HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1237.m3u8
+#EXTINF:-1,Disney Channel FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22718.m3u8
+#EXTINF:-1,Disney Channel HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7005.m3u8
+#EXTINF:-1,Disney Junior HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1238.m3u8
+#EXTINF:-1,Disney Cinemagic FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20658.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1236.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7007.m3u8
+#EXTINF:-1,TLC HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8927.m3u8
+#EXTINF:-1,Planet HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7010.m3u8
+#EXTINF:-1,HISTORY FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20678.m3u8
+#EXTINF:-1,History HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1232.m3u8
+#EXTINF:-1,DISCOVERY FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20676.m3u8
+#EXTINF:-1,Discovery HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1121.m3u8
+#EXTINF:-1,Animal Planet HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7009.m3u8
+#EXTINF:-1,Crime Investigation HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37478.m3u8
+#EXTINF:-1,NAT GEO WILD FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20661.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1119.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20662.m3u8
+#EXTINF:-1,Nat Geographic HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7008.m3u8
+#EXTINF:-1,*****DEUTSCHE KINO*****
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8925.m3u8
+#EXTINF:-1,Kabel Eins Classica HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8935.m3u8
+#EXTINF:-1,ZEE ONE FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20686.m3u8
+#EXTINF:-1,Zee One HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8928.m3u8
 #EXTINF:-1,TNT Film HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/566.m3u8
-#EXTINF:-1,Sky Comedy HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/564.m3u8
-#EXTINF:-1,Sky Cinema  24
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/565.m3u8
-#EXTINF:-1,Nat Geographic
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/571.m3u8
-#EXTINF:-1,Sky Krimi HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/563.m3u8
-#EXTINF:-1,tagesschau24
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/568.m3u8
-#EXTINF:-1,SKY SPORTS 1 HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/592.m3u8
-#EXTINF:-1,Sky Emotion HD
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/575.m3u8
-#EXTINF:-1,TVA
-http://www.nilsattv.com:8080/live/Uuila8ZpHD/piBDR8ktbb/573.m3u8
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1231.m3u8
+#EXTINF:-1,TNT SERIES FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20673.m3u8
+#EXTINF:-1,TNT Series HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1230.m3u8
+#EXTINF:-1,TNT COMEDY FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20685.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8930.m3u8
+#EXTINF:-1,SKY 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8932.m3u8
+#EXTINF:-1,SKY 1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20688.m3u8
+#EXTINF:-1,Sky Krimi SD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35714.m3u8
+#EXTINF:-1,SKY Krimi HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8931.m3u8
+#EXTINF:-1,SKY Cinema Action FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20668.m3u8
+#EXTINF:-1,SKY Cinema Action HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1229.m3u8
+#EXTINF:-1,SKY Cinema HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3713.m3u8
+#EXTINF:-1,SKY Cinema FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20669.m3u8
+#EXTINF:-1,SKY Comedy HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8936.m3u8
+#EXTINF:-1,Sky Cinema Emotion SD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35710.m3u8
+#EXTINF:-1,SKY Emotion HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3710.m3u8
+#EXTINF:-1,Sky Cinema Atlantic FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20682.m3u8
+#EXTINF:-1,SKY Cinema Atlantic HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1228.m3u8
+#EXTINF:-1,Sky Cinema +1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1227.m3u8
+#EXTINF:-1,SKY CINEMA +1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20690.m3u8
+#EXTINF:-1,Sky Cinema +24 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35709.m3u8
+#EXTINF:-1,Sky Cinema +24 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3712.m3u8
+#EXTINF:-1,SKY CINEMA +24 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20691.m3u8
+#EXTINF:-1,SKY Nostalgie HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8934.m3u8
+#EXTINF:-1,SKY Cinema Hits HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8933.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20670.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35711.m3u8
+#EXTINF:-1,SKY Cinema Trierch HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8937.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20692.m3u8
+#EXTINF:-1,SKY Select 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3701.m3u8
+#EXTINF:-1,SKY Select 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3702.m3u8
+#EXTINF:-1,SKY Select 3 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3703.m3u8
+#EXTINF:-1,SKY Select 4 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3704.m3u8
+#EXTINF:-1,SKY Select 5 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3705.m3u8
+#EXTINF:-1,SKY Select 6 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3706.m3u8
+#EXTINF:-1,SKY Select 7 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4763.m3u8
+#EXTINF:-1,SKY Select 8 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4764.m3u8
+#EXTINF:-1,SKY Select 9 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4765.m3u8
+#EXTINF:-1,SKY Select 10 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4766.m3u8
+#EXTINF:-1,Elite Cinema 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21784.m3u8
+#EXTINF:-1,Elite Cinema 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21783.m3u8
+#EXTINF:-1,Elite Cinema 3 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21782.m3u8
+#EXTINF:-1,Elite Cinema 4 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21781.m3u8
+#EXTINF:-1,Popcorn Select 6 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21786.m3u8
+#EXTINF:-1,DE:: iFlixAbenteuer TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37845.m3u8
+#EXTINF:-1,DE:: iFlixAction TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37844.m3u8
+#EXTINF:-1,DE:: iFlixAnimation TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37843.m3u8
+#EXTINF:-1,DE:: iFlixComödie TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37839.m3u8
+#EXTINF:-1,DE:: iFlixDrama TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37842.m3u8
+#EXTINF:-1,DE:: iFlixFantasy TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37841.m3u8
+#EXTINF:-1,DE:: iFlixHorror TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37840.m3u8
+#EXTINF:-1,DE:: iFlixNeu TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37846.m3u8
+#EXTINF:-1,DE:: iFlixScience TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37838.m3u8
+#EXTINF:-1,DE:: iFlixThriller TV HD (1920x1080)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37837.m3u8
+#EXTINF:-1,*****DEUTSCHE SPORT*****
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8926.m3u8
+#EXTINF:-1,SPORT 1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20684.m3u8
+#EXTINF:-1,Sport 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7190.m3u8
+#EXTINF:-1,Sport 1+ HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20856.m3u8
+#EXTINF:-1,Sport Digital FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22729.m3u8
+#EXTINF:-1,Sport Digital HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20855.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35588.m3u8
+#EXTINF:-1,DAZN 1 Bar FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22499.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35589.m3u8
+#EXTINF:-1,DAZN 2 Bar FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22500.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7189.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7490.m3u8
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7702.m3u8
+#EXTINF:-1,Eurosport 2 Xtra FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35942.m3u8
+#EXTINF:-1,MotorVision HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35619.m3u8
+#EXTINF:-1,Auto Moto Sport FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20853.m3u8
+#EXTINF:-1,Sky Sport Austria SD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35706.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7717.m3u8
+#EXTINF:-1,Sky Sport Austria FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35715.m3u8
+#EXTINF:-1,Sky Sport Austria 2 HD DE (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37854.m3u8
+#EXTINF:-1,Sky Sport Austria 2 FHD DE (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37849.m3u8
+#EXTINF:-1,Sky Sport Austria 3 HD DE (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37850.m3u8
+#EXTINF:-1,Sky Sport Austria 4 HD DE (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/37855.m3u8
+#EXTINF:-1,SKY SPORT NEWS FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20683.m3u8
+#EXTINF:-1,SKY Sport News HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1028.m3u8
+#EXTINF:-1,Sky Sport 1 SD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21097.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7176.m3u8
+#EXTINF:-1,Sky Sport 1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/3697.m3u8
+#EXTINF:-1,Sky Sport 2 SD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/21098.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7177.m3u8
+#EXTINF:-1,Sky Sport 2 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1027.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/9105.m3u8
+#EXTINF:-1,Sky Sport 3 FHD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22563.m3u8
+#EXTINF:-1,Sky Sport 4 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8779.m3u8
+#EXTINF:-1,Sky Sport 5 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8780.m3u8
+#EXTINF:-1,Sky Sport 6 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8781.m3u8
+#EXTINF:-1,Sky Sport 7 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8782.m3u8
+#EXTINF:-1,Sky Sport 8 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8783.m3u8
+#EXTINF:-1,Sky Sport 9 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8784.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/8785.m3u8
+#EXTINF:-1,Sky Bundesliga 1 SD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/7174.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1031.m3u8
+#EXTINF:-1,Sky Bundesliga 1 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20862.m3u8
+#EXTINF:-1,Sky Bundesliga 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1032.m3u8
+#EXTINF:-1,Sky Bundesliga 2 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/20863.m3u8
+#EXTINF:-1,Sky Bundesliga 3 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1030.m3u8
+#EXTINF:-1,Sky Bundesliga 3 FHD (LiveEvent)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22601.m3u8
+#EXTINF:-1,Sky Bundesliga 4 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1039.m3u8
+#EXTINF:-1,Sky Bundesliga 4 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22607.m3u8
+#EXTINF:-1,Sky Bundesliga 5 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/1040.m3u8
+#EXTINF:-1,Sky Bundesliga 5 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22606.m3u8
+#EXTINF:-1,Sky Bundesliga 6 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4308.m3u8
+#EXTINF:-1,Sky Bundesliga 6 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22605.m3u8
+#EXTINF:-1,Sky Bundesliga 7 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4309.m3u8
+#EXTINF:-1,Sky Bundesliga 7 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35721.m3u8
+#EXTINF:-1,Sky Bundesliga 8 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4310.m3u8
+#EXTINF:-1,Sky Bundesliga 8 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35723.m3u8
+#EXTINF:-1,Sky Bundesliga 9 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4311.m3u8
+#EXTINF:-1,Sky Bundesliga 9 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35725.m3u8
+#EXTINF:-1,Sky Bundesliga 10 HD (Live Event)
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/4312.m3u8
+#EXTINF:-1,Sky Bundesliga 10 FHD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/35727.m3u8
+#EXTINF:-1,Telekom Fussball 1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22730.m3u8
+#EXTINF:-1,Telekom Fussball 2 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22731.m3u8
+#EXTINF:-1,Telekom Fussball 3 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22732.m3u8
+#EXTINF:-1,Telekom Fussball 4 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22733.m3u8
+#EXTINF:-1,Telekom Fussball 5 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22734.m3u8
+#EXTINF:-1,Telekom Fussball  6 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22735.m3u8
+#EXTINF:-1,Telekom Fussball 7 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22736.m3u8
+#EXTINF:-1,Telekom Fussball 8 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/22737.m3u8
