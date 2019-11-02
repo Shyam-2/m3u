@@ -1,73 +1,893 @@
 #EXTM3U
-#EXTINF:-1,TF1 HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9211
-#EXTINF:-1,TF1 HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15121
-#EXTINF:-1,TF1 FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9210
-#EXTINF:-1,TF1 FHD BKP
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/51179
-#EXTINF:-1,France 2 HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9277
-#EXTINF:-1,France 2 HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15226
-#EXTINF:-1,FRANCE 2 FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9546
-#EXTINF:-1,FRANCE 2 FHD BKP
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/51178
-#EXTINF:-1,France 3 HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9276
-#EXTINF:-1,France 3 HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15169
-#EXTINF:-1,FRANCE 3 FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9545
-#EXTINF:-1,FRANCE 3 FHD BKP
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/51177
-#EXTINF:-1,France 5 HD BKP
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9273
-#EXTINF:-1,France 5 HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15167
-#EXTINF:-1,FRANCE 5 FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9543
-#EXTINF:-1,FRANCE 5 FHD BKP
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/51175
-#EXTINF:-1,France O  HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9272
-#EXTINF:-1,France O HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15165
-#EXTINF:-1,FRANCE O FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9542
+#EXTINF:-1,TF1 FHD
+http://siptv-online.com:8789/live/19865/19865/13847.m3u8
+#EXTINF:-1,TF1 HD
+http://siptv-online.com:8789/live/19865/19865/13917.m3u8
+#EXTINF:-1,TF1 SD
+http://iptvpro.premium-itv.com:8789/iptvpro1/X7MWPkfyc7/39475
+#EXTINF:-1,TF1 SD
+http://siptv-online.com:8789/live/19865/19865/13817.m3u8
+#EXTINF:-1,FRANCE 2 FHD
+http://siptv-online.com:8789/live/19865/19865/13739.m3u8
+#EXTINF:-1,FRANCE 2 HD
+http://siptv-online.com:8789/live/19865/19865/13916.m3u8
+#EXTINF:-1,FRANCE 2 SD
+http://siptv-online.com:8789/live/19865/19865/1007.m3u8
+#EXTINF:-1,FRANCE 3 FHD
+http://siptv-online.com:8789/live/19865/19865/13738.m3u8
+#EXTINF:-1,FRANCE 3 HD
+http://siptv-online.com:8789/live/19865/19865/13915.m3u8
+#EXTINF:-1,FRANCE 3 SD
+http://siptv-online.com:8789/live/19865/19865/1008.m3u8
+#EXTINF:-1,FRANCE 4 FHD
+http://siptv-online.com:8789/live/19865/19865/13737.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://siptv-online.com:8789/live/19865/19865/13914.m3u8
+#EXTINF:-1,FRANCE 4 SD
+http://siptv-online.com:8789/live/19865/19865/1009.m3u8
+#EXTINF:-1,FRANCE 5 FHD
+http://siptv-online.com:8789/live/19865/19865/13736.m3u8
+#EXTINF:-1,FRANCE 5 HD
+http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1355.ts
+#EXTINF:-1,FRANCE 5 SD
+http://siptv-online.com:8789/live/19865/19865/1013.m3u8
+#EXTINF:-1,FRANCE O HD
+http://siptv-online.com:8789/live/19865/19865/13735.m3u8
+#EXTINF:-1,FRANCE O SD
+http://siptv-online.com:8789/live/19865/19865/1021.m3u8
+#EXTINF:-1,M6 FHD
+http://siptv-online.com:8789/live/19865/19865/13726.m3u8
+#EXTINF:-1,M6 HD
+http://siptv-online.com:8789/live/19865/19865/14003.m3u8
+#EXTINF:-1,M6 SD
+http://siptv-online.com:8789/live/19865/19865/90.m3u8
+#EXTINF:-1,PARIS PREMIERE FHD
+http://siptv-online.com:8789/live/19865/19865/13824.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://siptv-online.com:8789/live/19865/19865/13993.m3u8
+#EXTINF:-1,PARIS PREMIERE SD
+http://siptv-online.com:8789/live/19865/19865/1030.m3u8
+#EXTINF:-1,TMC FHD
+http://siptv-online.com:8789/live/19865/19865/13696.m3u8
+#EXTINF:-1,TMC HD
+http://siptv-online.com:8789/live/19865/19865/13979.m3u8
+#EXTINF:-1,TMC SD
+http://siptv-online.com:8789/live/19865/19865/1014.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://siptv-online.com:8789/live/19865/19865/13693.m3u8
+#EXTINF:-1,TV BREIZH FHD
+http://siptv-online.com:8789/live/19865/19865/13975.m3u8
+#EXTINF:-1,TV BREIZH SD
+http://siptv-online.com:8789/live/19865/19865/1032.m3u8
+#EXTINF:-1,6TER FHD
+http://siptv-online.com:8789/live/19865/19865/13793.m3u8
+#EXTINF:-1,6TER HD
+http://siptv-online.com:8789/live/19865/19865/14046.m3u8
+#EXTINF:-1,6TER SD
+http://siptv-online.com:8789/live/19865/19865/1024.m3u8
+#EXTINF:-1,ARTE FHD
+http://siptv-online.com:8789/live/19865/19865/13788.m3u8
+#EXTINF:-1,ARTE HD
+http://siptv-online.com:8789/live/19865/19865/14043.m3u8
+#EXTINF:-1,ARTE SD
+http://siptv-online.com:8789/live/19865/19865/426.m3u8
+#EXTINF:-1,CANAL + FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/66
+#EXTINF:-1,CANAL+ HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/67
+#EXTINF:-1,CANAL + SD
+http://iptv3.premium-stv.com:8789/live/CANALPLUSP2/E3YedTnslhpro2/37.ts
+#EXTINF:-1,CANAL + DECALE FHD
+http://siptv-online.com:8789/live/19865/19865/13768.m3u8
+#EXTINF:-1,CANAL + DECALE HD
+http://siptv-online.com:8789/live/19865/19865/14035.m3u8
+#EXTINF:-1,CANAL + DECALE SD
+http://siptv-online.com:8789/live/19865/19865/28346.m3u8
+#EXTINF:-1,CANAL + FAMILY FHD
+http://siptv-online.com:8789/live/19865/19865/13767.m3u8
+#EXTINF:-1,CANAL + FAMILY SD
+http://siptv-online.com:8789/live/19865/19865/14033.m3u8
+#EXTINF:-1,CANAL + FAMILY HD
+http://siptv-online.com:8789/live/19865/19865/28348.m3u8
+#EXTINF:-1,CANAL + CINEMA FHD
+http://siptv-online.com:8789/live/19865/19865/13769.m3u8
+#EXTINF:-1,CANAL + CINEMA HD
+http://siptv-online.com:8789/live/19865/19865/28942.m3u8
+#EXTINF:-1,CANAL + CINEMA SD
+http://siptv-online.com:8789/live/19865/19865/28347.m3u8
+#EXTINF:-1,OCS MAX FHD
+http://siptv-online.com:8789/live/19865/19865/13825.m3u8
+#EXTINF:-1,OCS MAX HD
+http://siptv-online.com:8789/live/19865/19865/13996.m3u8
+#EXTINF:-1,OCS MAX SD
+http://siptv-online.com:8789/live/19865/19865/38198.m3u8
+#EXTINF:-1,OCS GEANTS FHD
+http://siptv-online.com:8789/live/19865/19865/13833.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://siptv-online.com:8789/live/19865/19865/13846.m3u8
+#EXTINF:-1,OCS GEANT SD
+http://siptv-online.com:8789/live/19865/19865/38199.m3u8
+#EXTINF:-1,OCS CITY FHD
+http://siptv-online.com:8789/live/19865/19865/13827.m3u8
+#EXTINF:-1,OCS CITY HD
+http://siptv-online.com:8789/live/19865/19865/13994.m3u8
+#EXTINF:-1,OCS CITY SD
+http://siptv-online.com:8789/live/19865/19865/38200.m3u8
+#EXTINF:-1,OCS CHOC FHD
+http://siptv-online.com:8789/live/19865/19865/13834.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://siptv-online.com:8789/live/19865/19865/13995.m3u8
+#EXTINF:-1,OCS CHOC SD
+http://siptv-online.com:8789/live/19865/19865/38201.m3u8
+#EXTINF:-1,CINE+ PREMIER FHD
+http://siptv-online.com:8789/live/19865/19865/13759.m3u8
+#EXTINF:-1,CINE+ PREMIER HD
+http://siptv-online.com:8789/live/19865/19865/14021.m3u8
+#EXTINF:-1,CINE+ PREMIER SD
+http://siptv-online.com:8789/live/19865/19865/28332.m3u8
+#EXTINF:-1,CINE+ FRISSON FHD
+http://siptv-online.com:8789/live/19865/19865/13754.m3u8
+#EXTINF:-1,CINE+ FRISSON HD
+http://siptv-online.com:8789/live/19865/19865/14023.m3u8
+#EXTINF:-1,CINE+ FRISSON SD
+http://siptv-online.com:8789/live/19865/19865/28331.m3u8
+#EXTINF:-1,CINE+ FAMIZ FHD
+http://siptv-online.com:8789/live/19865/19865/13755.m3u8
+#EXTINF:-1,CINE+ FAMIZ HD
+http://siptv-online.com:8789/live/19865/19865/13941.m3u8
+#EXTINF:-1,CINE+ FAMIZ SD
+http://siptv-online.com:8789/live/19865/19865/28329.m3u8
+#EXTINF:-1,CINE+ EMOTION FHD
+http://siptv-online.com:8789/live/19865/19865/13756.m3u8
+#EXTINF:-1,CINE+ EMOTION HD
+http://siptv-online.com:8789/live/19865/19865/14024.m3u8
+#EXTINF:-1,CINE+ EMOTION SD
+http://siptv-online.com:8789/live/19865/19865/28330.m3u8
+#EXTINF:-1,ACTION FHD
+http://siptv-online.com:8789/live/19865/19865/13790.m3u8
+#EXTINF:-1,ACTION HD
+http://siptv-online.com:8789/live/19865/19865/14045.m3u8
+#EXTINF:-1,ACTION SD
+http://siptv-online.com:8789/live/19865/19865/28334.m3u8
+#EXTINF:-1,CINE+ CLUB FHD
+http://siptv-online.com:8789/live/19865/19865/13757.m3u8
+#EXTINF:-1,CINE+ CLUB HD
+http://siptv-online.com:8789/live/19865/19865/14025.m3u8
+#EXTINF:-1,CINE+ CLUB SD
+http://siptv-online.com:8789/live/19865/19865/28328.m3u8
+#EXTINF:-1,CINE POLAR FHD
+http://siptv-online.com:8789/live/19865/19865/13752.m3u8
+#EXTINF:-1,CINE+ POLAR HD
+http://siptv-online.com:8789/live/19865/19865/14027.m3u8
+#EXTINF:-1,CINE+ POLAR SD
+http://siptv-online.com:8789/live/19865/19865/28335.m3u8
+#EXTINF:-1,WARNER TV FHD
+http://siptv-online.com:8789/live/19865/19865/13784.m3u8
+#EXTINF:-1,POLAR+  FHD
+http://siptv-online.com:8789/live/19865/19865/13763.m3u8
+#EXTINF:-1,POLAR+ HD
+http://siptv-online.com:8789/live/19865/19865/25041.m3u8
+#EXTINF:-1,TCM CINEMA FHD
+http://siptv-online.com:8789/live/19865/19865/13697.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://siptv-online.com:8789/live/19865/19865/13980.m3u8
+#EXTINF:-1,TCM CINEMA SD
+http://siptv-online.com:8789/live/19865/19865/28337.m3u8
+#EXTINF:-1,CINE+ CLASSIC FHD
+http://siptv-online.com:8789/live/19865/19865/13758.m3u8
+#EXTINF:-1,CINE+ CLASSIC HD
+http://siptv-online.com:8789/live/19865/19865/14026.m3u8
+#EXTINF:-1,CINE+ CLASSIC SD
+http://siptv-online.com:8789/live/19865/19865/28327.m3u8
+#EXTINF:-1,CINE+ FX FHD
+http://siptv-online.com:8789/live/19865/19865/13753.m3u8
+#EXTINF:-1,CINE+ FX HD
+http://siptv-online.com:8789/live/19865/19865/14022.m3u8
+#EXTINF:-1,CINE+ FX SD
+http://siptv-online.com:8789/live/19865/19865/28336.m3u8
+#EXTINF:-1,ALTICE STUDIO FHD
+http://siptv-online.com:8789/live/19865/19865/13787.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://siptv-online.com:8789/live/19865/19865/28413.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://siptv-online.com:8789/live/19865/19865/13713.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://siptv-online.com:8789/live/19865/19865/13911.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://siptv-online.com:8789/live/19865/19865/28340.m3u8
+#EXTINF:-1,PARAMOUNT DECALE FHD
+http://siptv-online.com:8789/live/19865/19865/13829.m3u8
+#EXTINF:-1,PARAMOUNT DECALE HD
+http://siptv-online.com:8789/live/19865/19865/28339.m3u8
+#EXTINF:-1,CANALPLAY 1
+http://siptv-online.com:8789/live/19865/19865/13970.m3u8
+#EXTINF:-1,CANALPLAY 2
+http://siptv-online.com:8789/live/19865/19865/13962.m3u8
+#EXTINF:-1,CANALPLAY 3
+http://siptv-online.com:8789/live/19865/19865/13961.m3u8
+#EXTINF:-1,CANALPLAY 4
+http://siptv-online.com:8789/live/19865/19865/13960.m3u8
+#EXTINF:-1,CANALPLAY 5
+http://siptv-online.com:8789/live/19865/19865/13959.m3u8
+#EXTINF:-1,CANALPLAY 6
+http://siptv-online.com:8789/live/19865/19865/13958.m3u8
+#EXTINF:-1,CANALPLAY 7
+http://siptv-online.com:8789/live/19865/19865/13957.m3u8
+#EXTINF:-1,CANALPLAY 8
+http://siptv-online.com:8789/live/19865/19865/13956.m3u8
+#EXTINF:-1,CANALPLAY 9
+http://siptv-online.com:8789/live/19865/19865/13955.m3u8
+#EXTINF:-1,CANALPLAY 10
+http://siptv-online.com:8789/live/19865/19865/13969.m3u8
+#EXTINF:-1,CANALPLAY 11
+http://siptv-online.com:8789/live/19865/19865/13968.m3u8
+#EXTINF:-1,CANALPLAY 12
+http://siptv-online.com:8789/live/19865/19865/13967.m3u8
+#EXTINF:-1,CANALPLAY 13
+http://siptv-online.com:8789/live/19865/19865/13966.m3u8
+#EXTINF:-1,CANALPLAY 14
+http://siptv-online.com:8789/live/19865/19865/13965.m3u8
+#EXTINF:-1,CANALPLAY 15
+http://siptv-online.com:8789/live/19865/19865/13964.m3u8
+#EXTINF:-1,CANALPLAY 16
+http://siptv-online.com:8789/live/19865/19865/13963.m3u8
+#EXTINF:-1,ORANGE CINE
+http://siptv-online.com:8789/live/19865/19865/13926.m3u8
+#EXTINF:-1,ORANGE CINE 1
+http://siptv-online.com:8789/live/19865/19865/13925.m3u8
+#EXTINF:-1,ORANGE CINE 2
+http://siptv-online.com:8789/live/19865/19865/13924.m3u8
+#EXTINF:-1,ORANGE CINE 3
+http://siptv-online.com:8789/live/19865/19865/13923.m3u8
+#EXTINF:-1,ORANGE CINE 4
+http://siptv-online.com:8789/live/19865/19865/13922.m3u8
+#EXTINF:-1,ORANGE CINE 5
+http://siptv-online.com:8789/live/19865/19865/13921.m3u8
+#EXTINF:-1,ORANGE CINE 6
+http://siptv-online.com:8789/live/19865/19865/13920.m3u8
+#EXTINF:-1,ORANGE CINE 7
+http://siptv-online.com:8789/live/19865/19865/13919.m3u8
+#EXTINF:-1,ORANGE CINE 8
+http://siptv-online.com:8789/live/19865/19865/13918.m3u8
+#EXTINF:-1,ALACARTE 1
+http://siptv-online.com:8789/live/19865/19865/13949.m3u8
+#EXTINF:-1,ALACARTE 2
+http://siptv-online.com:8789/live/19865/19865/13947.m3u8
+#EXTINF:-1,ALACARTE 3
+http://siptv-online.com:8789/live/19865/19865/13946.m3u8
+#EXTINF:-1,ALACARTE 4
+http://siptv-online.com:8789/live/19865/19865/13945.m3u8
+#EXTINF:-1,ALACARTE 5
+http://siptv-online.com:8789/live/19865/19865/13954.m3u8
+#EXTINF:-1,ALACARTE 6
+http://siptv-online.com:8789/live/19865/19865/13953.m3u8
+#EXTINF:-1,ALACARTE 7
+http://siptv-online.com:8789/live/19865/19865/13952.m3u8
+#EXTINF:-1,ALACARTE 8
+http://siptv-online.com:8789/live/19865/19865/13951.m3u8
+#EXTINF:-1,ALACARTE 9
+http://siptv-online.com:8789/live/19865/19865/13950.m3u8
+#EXTINF:-1,ALACARTE 10
+http://siptv-online.com:8789/live/19865/19865/13948.m3u8
+#EXTINF:-1,RMC SPORT NEWS FHD
+http://siptv-online.com:8789/live/19865/19865/35031.m3u8
+#EXTINF:-1,RMC SPORT 1FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
+#EXTINF:-1,RMC SPORT 1HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
+#EXTINF:-1,RMC SPORT 1 SD
+http://iptv3.premium-stv.com:8789/live/RMCSPORTS1.P2/G0CpoMPwyQpro2/33.ts
+#EXTINF:-1,RMC SPORT ACCESS 1 HD
+http://siptv-online.com:8789/live/19865/19865/37931.m3u8
+#EXTINF:-1,RMC SPORT 2FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
+#EXTINF:-1,RMC SPORT 2HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
+#EXTINF:-1,RMC SPORT 2 SD
+http://iptv3.premium-stv.com:8789/live/RMCSPORTS2.P2/Ywx4YaPR5gpro2/31.ts
+#EXTINF:-1,RMC SPORT ACCESS 2 HD
+http://siptv-online.com:8789/live/19865/19865/37930.m3u8
+#EXTINF:-1,RMC SPORT 3FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
+#EXTINF:-1,RMC SPORT 3HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
+#EXTINF:-1,RMC SPORT 3 SD
+http://iptv3.premium-stv.com:8789/live/RMCSPORTS3.P2/wKmbMbaJsvpro2/29.ts
+#EXTINF:-1,RMC SPORT ACCESS 3 HD
+http://siptv-online.com:8789/live/19865/19865/37929.m3u8
+#EXTINF:-1,RMC SPORT 4FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/43
+#EXTINF:-1,RMC SPORT 4HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/65
+#EXTINF:-1,RMC SPORT 5 HD
+http://iptv3.premium-stv.com:8789/live/RMCSPORTS5.P2/015x7klWf7pro2/25.ts
+#EXTINF:-1,RMC SPORT 4K
+http://siptv-online.com:8789/live/19865/19865/37942.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
+#EXTINF:-1,RMC SPORT LIVE 6 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
+#EXTINF:-1,RMC SPORT LIVE 7 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
+#EXTINF:-1,RMC SPORT LIVE 8 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
+#EXTINF:-1,RMC SPORT LIVE 9 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
+#EXTINF:-1,RMC SPORT LIVE 10 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/48
+#EXTINF:-1,RMC SPORT LIVE 11 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/49
+#EXTINF:-1,RMC SPORT LIVE 12 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/50
+#EXTINF:-1,RMC SPORT LIVE 13 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/51
+#EXTINF:-1,RMC SPORT LIVE 14 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/52
+#EXTINF:-1,RMC SPORT LIVE 15 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/53
+#EXTINF:-1,RMC SPORT LIVE 16 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/54
+#EXTINF:-1,BEINSPORTS 1 F.HD
+http://siptv-online.com:8789/live/19865/19865/14160.m3u8
+#EXTINF:-1,BEINSPORTS 1 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
+#EXTINF:-1,BEINSPORT 1 SD
+http://iptv3.premium-stv.com:8789/live/BEINSPORT1.P2/tXZpKWyfkapro2/49.ts
+#EXTINF:-1,BEINSPORTS 2 F.HD
+http://siptv-online.com:8789/live/19865/19865/14159.m3u8
+#EXTINF:-1,BEINSPORTS 2 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
+#EXTINF:-1,BEINSPORT 2 SD
+http://iptv3.premium-stv.com:8789/live/BEINSPORT2.P2/e9ZI2py4xnpro2/48.ts
+#EXTINF:-1,BEINSPORTS 3 F.HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/46
+#EXTINF:-1,BEINSPORTS 3 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
+#EXTINF:-1,BEINSPORT 3 SD
+http://iptv3.premium-stv.com:8789/live/BEINSPORT3.P2/UleKyCRkVSpro2/47.ts
+#EXTINF:-1,BEINSPORT MAX 4
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
+#EXTINF:-1,BEINSPORT MAX 5
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
+#EXTINF:-1,BEINSPORT MAX 6
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
+#EXTINF:-1,BEINSPORT MAX 7
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
+#EXTINF:-1,BEINSPORT MAX 8
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
+#EXTINF:-1,BEINSPORT MAX 9
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
+#EXTINF:-1,BEIN SPORT MAX 10
+http://iptv3.premium-stv.com:8789/live/BEINMAX.P2/rQM4G5r09Y/56.ts
+#EXTINF:-1,CANAL+ SPORT F.HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
+#EXTINF:-1,CANAL+ SPORT HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70
+#EXTINF:-1,SPORT 365 FHD
+http://siptv-online.com:8789/live/19865/19865/25040.m3u8
+#EXTINF:-1,FOOT+
+http://siptv-online.com:8789/live/19865/19865/13937.m3u8
+#EXTINF:-1,FOOT+24 SD
+http://siptv-online.com:8789/live/19865/19865/425.m3u8
+#EXTINF:-1,CANAL+ SPORT SD
+http://iptv3.premium-stv.com:8789/live/CANALPLUSSPORT.P2/ELVAJCe7rCpro2/35.ts
+#EXTINF:-1,ONZEO FHD
+http://siptv-online.com:8789/live/19865/19865/13786.m3u8
+#EXTINF:-1,MULTISPORTS 1
+http://iptv3.premium-stv.com:8789/live/LOCALFRANCE/zGxSx89LAQpro2pro2/63.ts
+#EXTINF:-1,MULTISPORTS 2
+http://iptv3.premium-stv.com:8789/live/LOCALFRANCEPRO2/zGxSx89LAQpro2pro2/63.ts
+#EXTINF:-1,MULTISPORTS 3
+http://iptv3.premium-stv.com:8789/live/LOCALFRANCEPRO2/zGxSx89LAQpro2pro2/62.ts
+#EXTINF:-1,MULTISPORTS 4
+http://iptv3.premium-stv.com:8789/live/LOCALFRANCEPRO2/zGxSx89LAQpro2pro2/61.ts
+#EXTINF:-1,MULTISPORTS 5
+http://iptv3.premium-stv.com:8789/live/LOCALFRANCEPRO2/zGxSx89LAQpro2pro2/60.ts
+#EXTINF:-1,MULTISPORTS 6
+http://iptv3.premium-stv.com:8789/live/LOCALFRANCEPRO2/zGxSx89LAQpro2pro2/59.ts
+#EXTINF:-1,TRACE SPORT FULLHD
+http://siptv-online.com:8789/live/19865/19865/13797.m3u8
+#EXTINF:-1,BFM SPORT FHD
+http://siptv-online.com:8789/live/19865/19865/13843.m3u8
+#EXTINF:-1,BFM SPORTS HD
+http://siptv-online.com:8789/live/19865/19865/13943.m3u8
+#EXTINF:-1,BFM HD
+http://siptv-online.com:8789/live/19865/19865/13839.m3u8
+#EXTINF:-1,INFOSPORT FHD
+http://siptv-online.com:8789/live/19865/19865/13729.m3u8
+#EXTINF:-1,LEQUIPE 21 FHD
+http://iptv4.premium-stv.com:8000/live/sourcesportfrpro2/rVCMxek9R6/1097.ts
+#EXTINF:-1,EQUIPE 21 SD
+http://siptv-online.com:8789/live/19865/19865/1023.m3u8
+#EXTINF:-1,OL TV FHD
+http://siptv-online.com:8789/live/19865/19865/13842.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://siptv-online.com:8789/live/19865/19865/13740.m3u8
+#EXTINF:-1,MUSCULATION TV HD
+http://siptv-online.com:8789/live/19865/19865/13801.m3u8
+#EXTINF:-1,AUTOMOTO  HD
+http://siptv-online.com:8789/live/19865/19865/1035.m3u8
+#EXTINF:-1,MOTORSPORT HD
+http://siptv-online.com:8789/live/19865/19865/13782.m3u8
+#EXTINF:-1,MOTORSPORT FHD
+http://siptv-online.com:8789/live/19865/19865/13722.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://siptv-online.com:8789/live/19865/19865/13742.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://siptv-online.com:8789/live/19865/19865/14011.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://siptv-online.com:8789/live/19865/19865/13741.m3u8
+#EXTINF:-1,EUROSPORT2 HD
+http://siptv-online.com:8789/live/19865/19865/14010.m3u8
+#EXTINF:-1,l'equipe 21 HD
+http://iptv4.premium-stv.com:8000/live/sourcesportfrpro2/rVCMxek9R6/1097.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+http://siptv-online.com:8789/live/19865/19865/14012.m3u8
+#EXTINF:-1,EQUIDIA LIFE FHD
+http://siptv-online.com:8789/live/19865/19865/13744.m3u8
+#EXTINF:-1,EQUIDIA LIFE HD
+http://siptv-online.com:8789/live/19865/19865/14013.m3u8
+#EXTINF:-1,FRANCE O
+http://siptv-online.com:8789/live/19865/19865/89.m3u8
+#EXTINF:-1,EQUIDIA LIVE
+http://siptv-online.com:8789/live/19865/19865/1036.m3u8
+#EXTINF:-1,EQUIDIA LIFE
+http://siptv-online.com:8789/live/19865/19865/85.m3u8
+#EXTINF:-1,LUCKY JACK HD
+http://siptv-online.com:8789/live/19865/19865/42548.m3u8
+#EXTINF:-1,GOLF+ FHD
+http://siptv-online.com:8789/live/19865/19865/13734.m3u8
+#EXTINF:-1,GOLF CHANNEL FHD
+http://siptv-online.com:8789/live/19865/19865/13689.m3u8
+#EXTINF:-1,GOLF CHANNELS HD
+http://siptv-online.com:8789/live/19865/19865/13977.m3u8
+#EXTINF:-1,SERIE CLUB FHD
+http://siptv-online.com:8789/live/19865/19865/13830.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://siptv-online.com:8789/live/19865/19865/13986.m3u8
+#EXTINF:-1,CANAL+ SERIES FHD
+http://siptv-online.com:8789/live/19865/19865/13766.m3u8
+#EXTINF:-1,CANAL + SERIES HD
+http://siptv-online.com:8789/live/19865/19865/28944.m3u8
+#EXTINF:-1,13EME RUE FHD
+http://siptv-online.com:8789/live/19865/19865/13794.m3u8
+#EXTINF:-1,13EME RUE HD
+http://siptv-online.com:8789/live/19865/19865/14048.m3u8
+#EXTINF:-1,SYFY HD
+http://siptv-online.com:8789/live/19865/19865/13981.m3u8
+#EXTINF:-1,SYFY FHD
+http://siptv-online.com:8789/live/19865/19865/13698.m3u8
+#EXTINF:-1,SUNDANCE TV FHD
+http://siptv-online.com:8789/live/19865/19865/13733.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL SD
+http://siptv-online.com:8789/live/19865/19865/28338.m3u8
+#EXTINF:-1,TEVA HD
+http://siptv-online.com:8789/live/19865/19865/35331.m3u8
+#EXTINF:-1,TEVA FHD
+http://siptv-online.com:8789/live/19865/19865/25039.m3u8
+#EXTINF:-1,TEVA SD
+http://siptv-online.com:8789/live/19865/19865/1031.m3u8
+#EXTINF:-1,COMEDIE+ FHD
+http://siptv-online.com:8789/live/19865/19865/13751.m3u8
+#EXTINF:-1,COMEDIE  HD
+http://siptv-online.com:8789/live/19865/19865/14019.m3u8
+#EXTINF:-1,MY CUISINE HD
+http://siptv-online.com:8789/live/19865/19865/13781.m3u8
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://siptv-online.com:8789/live/19865/19865/13746.m3u8
+#EXTINF:-1,E! ENTERTAINEMENT HD
+http://siptv-online.com:8789/live/19865/19865/14015.m3u8
+#EXTINF:-1,NO STOP PEOPLE FHD
+http://siptv-online.com:8789/live/19865/19865/13780.m3u8
+#EXTINF:-1,NON STOP PEOPLE hd
+http://siptv-online.com:8789/live/19865/19865/13928.m3u8
+#EXTINF:-1,VIVOLTA HD
+http://siptv-online.com:8789/live/19865/19865/25044.m3u8
+#EXTINF:-1,IL TV
+http://siptv-online.com:8789/live/19865/19865/13934.m3u8
+#EXTINF:-1,NRJ12 FHD
+http://siptv-online.com:8789/live/19865/19865/13717.m3u8
+#EXTINF:-1,NRJ12 HD
+http://siptv-online.com:8789/live/19865/19865/14047.m3u8
+#EXTINF:-1,NRJ12 SD
+http://siptv-online.com:8789/live/19865/19865/1019.m3u8
+#EXTINF:-1,ELLE GIRL FHD
+http://siptv-online.com:8789/live/19865/19865/13745.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://siptv-online.com:8789/live/19865/19865/14014.m3u8
+#EXTINF:-1,BET FHD
+http://siptv-online.com:8789/live/19865/19865/13841.m3u8
+#EXTINF:-1,VICELAND FHD
+http://siptv-online.com:8789/live/19865/19865/13772.m3u8
+#EXTINF:-1,TV 5 MONDE FHD
+http://siptv-online.com:8789/live/19865/19865/25042.m3u8
+#EXTINF:-1,TV 5 monde
+http://siptv-online.com:8789/live/19865/19865/1033.m3u8
+#EXTINF:-1,CHERIE 25 FHD
+http://siptv-online.com:8789/live/19865/19865/13760.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://siptv-online.com:8789/live/19865/19865/14028.m3u8
+#EXTINF:-1,CHERIE 25 SD
+http://siptv-online.com:8789/live/19865/19865/1027.m3u8
+#EXTINF:-1,TF1 +1 fhd
+http://siptv-online.com:8789/live/19865/19865/13732.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS SD
+http://siptv-online.com:8789/live/19865/19865/1022.m3u8
+#EXTINF:-1,C8 FHD
+http://siptv-online.com:8789/live/19865/19865/13823.m3u8
+#EXTINF:-1,C8 HD
+http://siptv-online.com:8789/live/19865/19865/14036.m3u8
+#EXTINF:-1,C8 SD
+http://siptv-online.com:8789/live/19865/19865/188.m3u8
+#EXTINF:-1,CSTAR FHD
+http://siptv-online.com:8789/live/19865/19865/13749.m3u8
+#EXTINF:-1,DIRECT8
+http://siptv-online.com:8789/live/19865/19865/1091.m3u8
+#EXTINF:-1,CSTAR HD
+http://siptv-online.com:8789/live/19865/19865/13940.m3u8
+#EXTINF:-1,AZUR TV
+http://siptv-online.com:8789/live/19865/19865/25043.m3u8
+#EXTINF:-1,WEO FHD
+http://siptv-online.com:8789/live/19865/19865/13795.m3u8
+#EXTINF:-1,WEO HD
+http://siptv-online.com:8789/live/19865/19865/25045.m3u8
+#EXTINF:-1,TV8 MONT BLANC FHD
+http://siptv-online.com:8789/live/19865/19865/13796.m3u8
+#EXTINF:-1,RTL9 FHD
+http://siptv-online.com:8789/live/19865/19865/13707.m3u8
+#EXTINF:-1,RTL9 HD
+http://siptv-online.com:8789/live/19865/19865/13989.m3u8
+#EXTINF:-1,RTL9 SD
+http://siptv-online.com:8789/live/19865/19865/1029.m3u8
+#EXTINF:-1,A+  FHD
+http://siptv-online.com:8789/live/19865/19865/13695.m3u8
+#EXTINF:-1,RMC STORY FHD
+http://siptv-online.com:8789/live/19865/19865/13715.m3u8
+#EXTINF:-1,RMC STORY HD
+http://siptv-online.com:8789/live/19865/19865/13997.m3u8
+#EXTINF:-1,RMC STORY   SD
+http://siptv-online.com:8789/live/19865/19865/1025.m3u8
+#EXTINF:-1,TFX FHD
+http://siptv-online.com:8789/live/19865/19865/13716.m3u8
+#EXTINF:-1,TFX HD
+http://siptv-online.com:8789/live/19865/19865/13998.m3u8
+#EXTINF:-1,TFX SD
+http://siptv-online.com:8789/live/19865/19865/1015.m3u8
+#EXTINF:-1,W9 FHD
+http://siptv-online.com:8789/live/19865/19865/13690.m3u8
+#EXTINF:-1,W9
+http://iptv4.premium-stv.com:8000/live/sourcesportfrpro2/rVCMxek9R6/1184.ts
+#EXTINF:-1,W9 SD
+http://siptv-online.com:8789/live/19865/19865/421.m3u8
+#EXTINF:-1,OFIVE TV
+http://siptv-online.com:8789/live/19865/19865/1038.m3u8
+#EXTINF:-1,LUXE TV
+http://siptv-online.com:8789/live/19865/19865/1054.m3u8
+#EXTINF:-1,GUYSEN TV
+http://siptv-online.com:8789/live/19865/19865/1063.m3u8
+#EXTINF:-1,ALSACE
+http://siptv-online.com:8789/live/19865/19865/25048.m3u8
+#EXTINF:-1,VOSGES
+http://siptv-online.com:8789/live/19865/19865/1102.m3u8
+#EXTINF:-1,M6 BOUTIQUE
+http://siptv-online.com:8789/live/19865/19865/1097.m3u8
+#EXTINF:-1,FASHIONTV
+http://siptv-online.com:8789/live/19865/19865/1064.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://siptv-online.com:8789/live/19865/19865/13861.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://siptv-online.com:8789/live/19865/19865/24948.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD
+http://siptv-online.com:8789/live/19865/19865/1040.m3u8
+#EXTINF:-1,DISNEY CHA +1 FHD
+http://siptv-online.com:8789/live/19865/19865/13849.m3u8
+#EXTINF:-1,DISNEY CHA+1
+http://siptv-online.com:8789/live/19865/19865/1041.m3u8
+#EXTINF:-1,DISNEY XD FHD
+http://siptv-online.com:8789/live/19865/19865/13862.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://siptv-online.com:8789/live/19865/19865/24942.m3u8
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://siptv-online.com:8789/live/19865/19865/13863.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://siptv-online.com:8789/live/19865/19865/24934.m3u8
+#EXTINF:-1,DISNEY CINEMA FHD
+http://siptv-online.com:8789/live/19865/19865/13860.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://siptv-online.com:8789/live/19865/19865/24940.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://siptv-online.com:8789/live/19865/19865/14037.m3u8
+#EXTINF:-1,NICKELODEON+1 FHD
+http://siptv-online.com:8789/live/19865/19865/13854.m3u8
+#EXTINF:-1,NICKELODEON JUN FHD
+http://siptv-online.com:8789/live/19865/19865/13851.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://siptv-online.com:8789/live/19865/19865/24935.m3u8
+#EXTINF:-1,NICKELODEON JUN SD
+http://siptv-online.com:8789/live/19865/19865/28344.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://siptv-online.com:8789/live/19865/19865/24957.m3u8
+#EXTINF:-1,TOONAMI FHD
+http://siptv-online.com:8789/live/19865/19865/13850.m3u8
+#EXTINF:-1,|FR|TOONAMI HD
+http://siptv-online.com:8789/live/19865/19865/24956.m3u8
+#EXTINF:-1,TELETOON+1  FHD
+http://siptv-online.com:8789/live/19865/19865/13855.m3u8
+#EXTINF:-1,TELETOON+1 
+http://siptv-online.com:8789/live/19865/19865/24958.m3u8
+#EXTINF:-1,JIM JAM
+http://siptv-online.com:8789/live/19865/19865/13869.m3u8
+#EXTINF:-1,PIWI+ FHD
+http://siptv-online.com:8789/live/19865/19865/13867.m3u8
+#EXTINF:-1,PIWI+ HD
+http://siptv-online.com:8789/live/19865/19865/24937.m3u8
+#EXTINF:-1,MONDE DES PETITS
+http://siptv-online.com:8789/live/19865/19865/13848.m3u8
+#EXTINF:-1,CANAL J FHD
+http://siptv-online.com:8789/live/19865/19865/13764.m3u8
+#EXTINF:-1,Canal J HD
+http://siptv-online.com:8789/live/19865/19865/24941.m3u8
+#EXTINF:-1,TIJI FHD
+http://siptv-online.com:8789/live/19865/19865/13868.m3u8
+#EXTINF:-1,TIJI HD
+http://siptv-online.com:8789/live/19865/19865/24949.m3u8
+#EXTINF:-1,BOOMERANG FHD
+http://siptv-online.com:8789/live/19865/19865/13858.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://siptv-online.com:8789/live/19865/19865/24954.m3u8
+#EXTINF:-1,BOING FHD
+http://siptv-online.com:8789/live/19865/19865/13859.m3u8
+#EXTINF:-1,BOING HD
+http://siptv-online.com:8789/live/19865/19865/24945.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://siptv-online.com:8789/live/19865/19865/13761.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://siptv-online.com:8789/live/19865/19865/24933.m3u8
+#EXTINF:-1,GAME ONE FHD
+http://siptv-online.com:8789/live/19865/19865/13856.m3u8
+#EXTINF:-1,GAME ONE HD
+http://siptv-online.com:8789/live/19865/19865/24952.m3u8
+#EXTINF:-1,GAMEONE
+http://siptv-online.com:8789/live/19865/19865/1034.m3u8
+#EXTINF:-1,GAME ONE +1 FHD
+http://siptv-online.com:8789/live/19865/19865/13857.m3u8
+#EXTINF:-1,J ONE FHD
+http://siptv-online.com:8789/live/19865/19865/13852.m3u8
+#EXTINF:-1,GULLI FHD
+http://siptv-online.com:8789/live/19865/19865/13864.m3u8
+#EXTINF:-1,GULLI SD
+http://siptv-online.com:8789/live/19865/19865/1020.m3u8
+#EXTINF:-1,GONG
+http://siptv-online.com:8789/live/19865/19865/13853.m3u8
+#EXTINF:-1,GONG
+http://siptv-online.com:8789/live/19865/19865/24936.m3u8
+#EXTINF:-1,MANGAS FHD
+http://siptv-online.com:8789/live/19865/19865/13865.m3u8
+#EXTINF:-1,MANGAS HD
+http://siptv-online.com:8789/live/19865/19865/24932.m3u8
+#EXTINF:-1,CINE KIDS HD
+http://siptv-online.com:8789/live/19865/19865/24959.m3u8
+#EXTINF:-1,DISNEY ORANGE 1
+http://siptv-online.com:8789/live/19865/19865/24939.m3u8
+#EXTINF:-1,DISNEY ORANGE 2
+http://siptv-online.com:8789/live/19865/19865/24950.m3u8
+#EXTINF:-1,DISNEY ORANGE 3
+http://siptv-online.com:8789/live/19865/19865/24951.m3u8
+#EXTINF:-1,PEPPA PIG
+http://siptv-online.com:8789/live/19865/19865/6700.m3u8
+#EXTINF:-1,DISNEYS CARTOON CLASSIC
+http://siptv-online.com:8789/live/19865/19865/6713.m3u8
+#EXTINF:-1,MILA MILA
+http://siptv-online.com:8789/live/19865/19865/6736.m3u8
+#EXTINF:-1,TOM AND JERRY
+http://siptv-online.com:8789/live/19865/19865/6757.m3u8
+#EXTINF:-1,MASHA ET MICHKA
+http://siptv-online.com:8789/live/19865/19865/7185.m3u8
+#EXTINF:-1,LAPIN CRETIN
+http://siptv-online.com:8789/live/19865/19865/7258.m3u8
+#EXTINF:-1,PLANETE+ FHD
+http://siptv-online.com:8789/live/19865/19865/13712.m3u8
+#EXTINF:-1,PLANETE+  HD
+http://siptv-online.com:8789/live/19865/19865/13991.m3u8
+#EXTINF:-1,PLANETE+ CI FHD
+http://siptv-online.com:8789/live/19865/19865/13710.m3u8
+#EXTINF:-1,PLANETE+  CI HD
+http://siptv-online.com:8789/live/19865/19865/13992.m3u8
+#EXTINF:-1,PLANETE+ A&E FHD
+http://siptv-online.com:8789/live/19865/19865/13711.m3u8
+#EXTINF:-1,PLANETE+  A&E HD
+http://siptv-online.com:8789/live/19865/19865/13971.m3u8
+#EXTINF:-1,DISCOVERY FHD
+http://siptv-online.com:8789/live/19865/19865/13748.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://siptv-online.com:8789/live/19865/19865/14017.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://siptv-online.com:8789/live/19865/19865/13747.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://siptv-online.com:8789/live/19865/19865/14016.m3u8
 #EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9559
-#EXTINF:-1,DISCOVERY HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9292
-#EXTINF:-1,DISCOVERY HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15180
-#EXTINF:-1,DISCOVERY FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9560
-#EXTINF:-1,DISCOVERY FAMILY HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/30662
-#EXTINF:-1,DISCOVERY SCIENCE HD BKP
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9291
-#EXTINF:-1,Discovery Science HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15179
-#EXTINF:-1,DISCOVERY SCIENCE FULL HD +
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9558
-#EXTINF:-1, NATIONAL GEOGRAPHIC HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9368
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15144
-#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9523
-#EXTINF:-1, Nat Geo Wild  HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9367
-#EXTINF:-1,NAT GEO WILD HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15145
-#EXTINF:-1,NATIONAL GEO WILD FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9524
-#EXTINF:-1,SCIENCES ET VIE HD.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9228
-#EXTINF:-1,Science et Vie  HD BKP.
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/15129
-#EXTINF:-1,SCIENCES & VIE FULL HD
-http://fpro.webvps.de:25443/1sogDvwX8N/fu7xcdA8zi/9504
+http://siptv-online.com:8789/live/19865/19865/13836.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://siptv-online.com:8789/live/19865/19865/13828.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://siptv-online.com:8789/live/19865/19865/13811.m3u8
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://siptv-online.com:8789/live/19865/19865/25047.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://siptv-online.com:8789/live/19865/19865/13719.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://siptv-online.com:8789/live/19865/19865/14000.m3u8
+#EXTINF:-1,NATIONAL GEO FHD
+http://siptv-online.com:8789/live/19865/19865/13718.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://siptv-online.com:8789/live/19865/19865/13999.m3u8
+#EXTINF:-1,SCIENCES & VIE HD
+http://siptv-online.com:8789/live/19865/19865/13987.m3u8
+#EXTINF:-1,SCIENCES & VIE FHD
+http://siptv-online.com:8789/live/19865/19865/13704.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://siptv-online.com:8789/live/19865/19865/13789.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://siptv-online.com:8789/live/19865/19865/14044.m3u8
+#EXTINF:-1,USHUAIA  FHD
+http://siptv-online.com:8789/live/19865/19865/13692.m3u8
+#EXTINF:-1,USHUAIA HD
+http://siptv-online.com:8789/live/19865/19865/13974.m3u8
+#EXTINF:-1,USHUAIA SD
+http://siptv-online.com:8789/live/19865/19865/1055.m3u8
+#EXTINF:-1,ULTRA NATURE
+http://siptv-online.com:8789/live/19865/19865/25049.m3u8
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://siptv-online.com:8789/live/19865/19865/13708.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://siptv-online.com:8789/live/19865/19865/13990.m3u8
+#EXTINF:-1,RMC STORY SD
+http://siptv-online.com:8789/live/19865/19865/1026.m3u8
+#EXTINF:-1,VOYAGE FHD
+http://siptv-online.com:8789/live/19865/19865/13691.m3u8
+#EXTINF:-1,VOYAGE HD
+http://siptv-online.com:8789/live/19865/19865/13972.m3u8
+#EXTINF:-1,TREK FHD
+http://siptv-online.com:8789/live/19865/19865/13694.m3u8
+#EXTINF:-1,TREK HD
+http://siptv-online.com:8789/live/19865/19865/13976.m3u8
+#EXTINF:-1,CHASSE&PECHE FHD
+http://siptv-online.com:8789/live/19865/19865/13837.m3u8
+#EXTINF:-1,CHASSE & PECHE HD
+http://siptv-online.com:8789/live/19865/19865/14029.m3u8
+#EXTINF:-1,SEASON FHD
+http://siptv-online.com:8789/live/19865/19865/13703.m3u8
+#EXTINF:-1,SEASON HD
+http://siptv-online.com:8789/live/19865/19865/13988.m3u8
+#EXTINF:-1,CAMPAGNE TV
+http://siptv-online.com:8789/live/19865/19865/13942.m3u8
+#EXTINF:-1,CRIME DISTRICT FHD
+http://siptv-online.com:8789/live/19865/19865/13750.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://siptv-online.com:8789/live/19865/19865/14018.m3u8
+#EXTINF:-1,MUSEUM CHANNEL FHD
+http://siptv-online.com:8789/live/19865/19865/13714.m3u8
+#EXTINF:-1,HISTOIRE FHD
+http://siptv-online.com:8789/live/19865/19865/13731.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://siptv-online.com:8789/live/19865/19865/14007.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE FHD
+http://siptv-online.com:8789/live/19865/19865/13832.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+http://siptv-online.com:8789/live/19865/19865/25050.m3u8
+#EXTINF:-1,HISTOIRE SD
+http://siptv-online.com:8789/live/19865/19865/1056.m3u8
+#EXTINF:-1,LA CHAINE METEO FHD
+http://siptv-online.com:8789/live/19865/19865/13783.m3u8
+#EXTINF:-1,EURONEWS FHD
+http://siptv-online.com:8789/live/19865/19865/13835.m3u8
+#EXTINF:-1,EURONEWS
+http://siptv-online.com:8789/live/19865/19865/13938.m3u8
+#EXTINF:-1,FRANCE 24 HD
+http://siptv-online.com:8789/live/19865/19865/162.m3u8
+#EXTINF:-1,BFM TV FHD
+http://siptv-online.com:8789/live/19865/19865/13770.m3u8
+#EXTINF:-1,BFM TV HD
+http://siptv-online.com:8789/live/19865/19865/14039.m3u8
+#EXTINF:-1,BFM TV SD
+http://siptv-online.com:8789/live/19865/19865/424.m3u8
+#EXTINF:-1,BFM BUISINESS
+http://siptv-online.com:8789/live/19865/19865/1045.m3u8
+#EXTINF:-1,LCI FHD
+http://siptv-online.com:8789/live/19865/19865/13727.m3u8
+#EXTINF:-1,LCI sd
+http://siptv-online.com:8789/live/19865/19865/1042.m3u8
+#EXTINF:-1,LCP FHD
+http://siptv-online.com:8789/live/19865/19865/13809.m3u8
+#EXTINF:-1,LCP
+http://siptv-online.com:8789/live/19865/19865/1016.m3u8
+#EXTINF:-1,LCP100%
+http://siptv-online.com:8789/live/19865/19865/1046.m3u8
+#EXTINF:-1,CNEWS HD
+http://siptv-online.com:8789/live/19865/19865/14020.m3u8
+#EXTINF:-1,CNEWS SD
+http://siptv-online.com:8789/live/19865/19865/1017.m3u8
+#EXTINF:-1,FRANCE INFO HD
+http://siptv-online.com:8789/live/19865/19865/13935.m3u8
+#EXTINF:-1,FRANCE INFO SD
+http://siptv-online.com:8789/live/19865/19865/1917.m3u8
+#EXTINF:-1,TV5 MONDE FHD
+http://siptv-online.com:8789/live/19865/19865/25051.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://siptv-online.com:8789/live/19865/19865/25052.m3u8
+#EXTINF:-1,I24 NEWS FHD
+http://siptv-online.com:8789/live/19865/19865/13730.m3u8
+#EXTINF:-1,i24 NEWS
+http://siptv-online.com:8789/live/19865/19865/1050.m3u8
+#EXTINF:-1,RT FRANCE FHD
+http://siptv-online.com:8789/live/19865/19865/35341.m3u8
+#EXTINF:-1,M6 MUSIC FHD
+http://siptv-online.com:8789/live/19865/19865/13826.m3u8
+#EXTINF:-1,TRACE URBAIN HD
+http://siptv-online.com:8789/live/19865/19865/13844.m3u8
+#EXTINF:-1,TRACE URBAIN HD
+http://siptv-online.com:8789/live/19865/19865/13978.m3u8
+#EXTINF:-1,TRACE URBAIN FHD
+http://siptv-online.com:8789/live/19865/19865/1099.m3u8
+#EXTINF:-1,TRACE URBAN INTER
+http://siptv-online.com:8789/live/19865/19865/9127.m3u8
+#EXTINF:-1,TRACE TROPICAL HD
+http://siptv-online.com:8789/live/19865/19865/9128.m3u8
+#EXTINF:-1,TRACE AFRICA HD
+http://siptv-online.com:8789/live/19865/19865/13771.m3u8
+#EXTINF:-1,TRACE AFRICA FHD
+http://siptv-online.com:8789/live/19865/19865/13720.m3u8
+#EXTINF:-1,MTV LIVE
+http://siptv-online.com:8789/live/19865/19865/25054.m3u8
+#EXTINF:-1,BET
+http://siptv-online.com:8789/live/19865/19865/25057.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://siptv-online.com:8789/live/19865/19865/25055.m3u8
+#EXTINF:-1,TRACE TOCA FHD
+http://siptv-online.com:8789/live/19865/19865/25056.m3u8
+#EXTINF:-1,MTV HITS HD
+http://siptv-online.com:8789/live/19865/19865/8050.m3u8
+#EXTINF:-1,BBLACK CLASSIK
+http://siptv-online.com:8789/live/19865/19865/8052.m3u8
+#EXTINF:-1,INDIES LIVE MUSIC
+http://siptv-online.com:8789/live/19865/19865/25058.m3u8
+#EXTINF:-1,MTV MUSIC LIVE
+http://siptv-online.com:8789/live/19865/19865/13721.m3u8
+#EXTINF:-1,MTV MUSIC LIVE
+http://siptv-online.com:8789/live/19865/19865/13930.m3u8
+#EXTINF:-1,MTV DANCE
+http://siptv-online.com:8789/live/19865/19865/13931.m3u8
+#EXTINF:-1,MTV FHD
+http://siptv-online.com:8789/live/19865/19865/13932.m3u8
+#EXTINF:-1,MTV HD
+http://siptv-online.com:8789/live/19865/19865/14009.m3u8
+#EXTINF:-1,MCM FHD
+http://siptv-online.com:8789/live/19865/19865/13725.m3u8
+#EXTINF:-1,MCM HD
+http://siptv-online.com:8789/live/19865/19865/14002.m3u8
+#EXTINF:-1,MCM TOP HD
+http://siptv-online.com:8789/live/19865/19865/1037.m3u8
+#EXTINF:-1,MCM TOP FHD
+http://siptv-online.com:8789/live/19865/19865/13724.m3u8
+#EXTINF:-1,RFM TV FHD
+http://siptv-online.com:8789/live/19865/19865/13709.m3u8
+#EXTINF:-1,RFM HD
+http://siptv-online.com:8789/live/19865/19865/24960.m3u8
+#EXTINF:-1,NRJ HITS
+http://siptv-online.com:8789/live/19865/19865/13927.m3u8
+#EXTINF:-1,MEZZO HD
+http://siptv-online.com:8789/live/19865/19865/14001.m3u8
+#EXTINF:-1,MEZZO LIVE FHD
+http://siptv-online.com:8789/live/19865/19865/13723.m3u8
+#EXTINF:-1,BBLACK
+http://siptv-online.com:8789/live/19865/19865/13840.m3u8
+#EXTINF:-1,VH1 CLASSIC FHD
+http://siptv-online.com:8789/live/19865/19865/13815.m3u8
+#EXTINF:-1,MELODY TV FHD
+http://siptv-online.com:8789/live/19865/19865/13808.m3u8
+#EXTINF:-1,BRAVA FHD
+http://siptv-online.com:8789/live/19865/19865/14038.m3u8
+#EXTINF:-1,DJAZZ TV
+http://siptv-online.com:8789/live/19865/19865/13939.m3u8
+#EXTINF:-1,TELESUD
+http://siptv-online.com:8789/live/19865/19865/1101.m3u8
