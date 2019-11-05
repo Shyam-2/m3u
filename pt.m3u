@@ -1,441 +1,69 @@
-#EXTM3U
-#EXTINF:-1,RTP 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2710
-#EXTINF:-1,RTP 1 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75454
-#EXTINF:-1,RTP 1 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/42409
-#EXTINF:-1,RTP 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2714
-#EXTINF:-1,RTP 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2709
-#EXTINF:-1,RTP 2 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2713
-#EXTINF:-1,RTP Memória
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2706
-#EXTINF:-1,RTP Internacional
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5622
-#EXTINF:-1,RTP África
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2711
-#EXTINF:-1,RTP Madeira
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2707
-#EXTINF:-1,RTP Açores
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2712
-#EXTINF:-1,SIC
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2703
-#EXTINF:-1,SIC ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75440
-#EXTINF:-1,SIC ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75455
-#EXTINF:-1,SIC FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2696
-#EXTINF:-1,SIC Radical
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2700
-#EXTINF:-1,SIC Radical FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2699
-#EXTINF:-1,SIC Mulher
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2702
-#EXTINF:-1,SIC Caras
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2705
-#EXTINF:-1,SIC Caras HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2697
-#EXTINF:-1,TVI
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3845
-#EXTINF:-1,TVI (Baixa Internet)
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75439
-#EXTINF:-1,TVI ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75456
-#EXTINF:-1,TVI FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3840
-#EXTINF:-1,TVI Ficção
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3846
-#EXTINF:-1,TVI Ficção ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75457
-#EXTINF:-1,TVI Reality
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3842
-#EXTINF:-1,TVI Reality Mosaico
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75425
-#EXTINF:-1,TVI Reality Camera 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75426
-#EXTINF:-1,TVI Reality Camera 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75433
-#EXTINF:-1,TVI Reality Camera 3
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75434
-#EXTINF:-1,TVI Reality Camera 4
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75435
-#EXTINF:-1,TV Globo
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/14232
-#EXTINF:-1,TV Globo NOW
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2736
-#EXTINF:-1,TV Record
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2680
-#EXTINF:-1,Canal 180 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62537
-#EXTINF:-1,CTC HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62538
-#EXTINF:-1,========== Crianças ==========
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13973
-#EXTINF:-1,Boomerang [ Brasil ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2769
-#EXTINF:-1,Baby TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2768
-#EXTINF:-1,JimJam
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2732
-#EXTINF:-1,Canal Panda
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2762
-#EXTINF:-1,Panda Biggs
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2763
-#EXTINF:-1,Disney Junior
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2755
-#EXTINF:-1,Disney Channel
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3841
-#EXTINF:-1,Cartoon Network
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2761
-#EXTINF:-1,Nickelodeon
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2719
-#EXTINF:-1,Nick Jr.
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62544
-#EXTINF:-1,SIC Kids
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2704
-#EXTINF:-1,========== Filmes ==========
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13974
-#EXTINF:-1,TVCine 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2684
-#EXTINF:-1,TVCine 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2685
-#EXTINF:-1,TVCine 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2683
-#EXTINF:-1,TVCine 2 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2686
-#EXTINF:-1,TVCine 3
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2682
-#EXTINF:-1,TVCine 3 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2687
-#EXTINF:-1,TVCine 4
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2681
-#EXTINF:-1,TVCine 4 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2688
-#EXTINF:-1,TV Séries FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3843
-#EXTINF:-1,Syfy
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2692
-#EXTINF:-1,Syfy FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2693
-#EXTINF:-1,Hollywood
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2733
-#EXTINF:-1,Hollywood FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2734
-#EXTINF:-1,AMC
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2777
-#EXTINF:-1,AMC FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2776
-#EXTINF:-1,AXN FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2771
-#EXTINF:-1,AXN Black FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2772
-#EXTINF:-1,AXN White FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2770
-#EXTINF:-1,FOX FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2743
-#EXTINF:-1,FOX Comedy
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2745
-#EXTINF:-1,FOX Comedy FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2740
-#EXTINF:-1,Fox Crime
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/43689
-#EXTINF:-1,FOX Crime FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2739
-#EXTINF:-1,FOX Life FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2741
-#EXTINF:-1,FOX Movies
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2746
-#EXTINF:-1,FOX Movies HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2742
-#EXTINF:-1,CineMundo
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2759
-#EXTINF:-1,Nos Studios FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/73310
-#EXTINF:-1,========== Notícia ==========
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13975
-#EXTINF:-1,SIC Notícias
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2701
-#EXTINF:-1,SIC Notícias FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2698
-#EXTINF:-1,TVI 24
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3844
-#EXTINF:-1,TVI 24 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75459
-#EXTINF:-1,RTP 3
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2708
-#EXTINF:-1,RTP 3 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75437
-#EXTINF:-1,RTP 3 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75436
-#EXTINF:-1,CMTV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2758
-#EXTINF:-1,CMTV ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75458
-#EXTINF:-1,CMTV HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75419
-#EXTINF:-1,CMTV FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75418
-#EXTINF:-1,Porto Canal
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2716
-#EXTINF:-1,Porto Canal FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75438
-#EXTINF:-1,Euronews
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/33162
-#EXTINF:-1,BBC World News
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2773
-#EXTINF:-1,========== Esportes ==========
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13976
-#EXTINF:-1,SportTV+
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3613
-#EXTINF:-1,SportTV+ FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13248
-#EXTINF:-1,SportTV 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2678
-#EXTINF:-1,SportTV 1 SD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7426
-#EXTINF:-1,SportTV 1 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75448
-#EXTINF:-1,SportTV 1 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75461
-#EXTINF:-1,SportTV 1 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7425
-#EXTINF:-1,SportTV 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3618
-#EXTINF:-1,SportTV 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2677
-#EXTINF:-1,SportTV 2 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75449
-#EXTINF:-1,SportTV 2 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75462
-#EXTINF:-1,SportTV 2 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3617
-#EXTINF:-1,SportTV 3
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2676
-#EXTINF:-1,SportTV 3 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75450
-#EXTINF:-1,SportTV 3 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75463
-#EXTINF:-1,SportTV 3 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3616
-#EXTINF:-1,SportTV 4
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2675
-#EXTINF:-1,SportTV 4 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75451
-#EXTINF:-1,SportTV 4 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75464
-#EXTINF:-1,SportTV 4 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3615
-#EXTINF:-1,SportTV 4 4K
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15021
-#EXTINF:-1,SportTV 5
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2674
-#EXTINF:-1,SportTV 5 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75465
-#EXTINF:-1,SportTV 5 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75452
-#EXTINF:-1,SportTV 5 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/48359
-#EXTINF:-1,SportTV 5 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/3614
-#EXTINF:-1,SportTV UHD 4K
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15064
-#EXTINF:-1,SportTV NBA HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62545
-#EXTINF:-1,SportTV NBA FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62546
-#EXTINF:-1,BTV 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13247
-#EXTINF:-1,BTV 1 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2767
-#EXTINF:-1,BTV 1 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75447
-#EXTINF:-1,BTV 1 ( Mobile )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75460
-#EXTINF:-1,BTV 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2766
-#EXTINF:-1,Eleven Sports 1 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75441
-#EXTINF:-1,Eleven Sports 1 HD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22714
-#EXTINF:-1,Eleven Sports 1 FHD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22713
-#EXTINF:-1,Eleven Sports 1 FHD 4:3 VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16066
-#EXTINF:-1,Eleven Sports 2 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75442
-#EXTINF:-1,Eleven Sports 2 HD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22716
-#EXTINF:-1,Eleven Sports 2 FHD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22715
-#EXTINF:-1,Eleven Sports 2 FHD 4:3 VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16065
-#EXTINF:-1,Eleven Sports 3 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75443
-#EXTINF:-1,Eleven Sports 3 HD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22718
-#EXTINF:-1,Eleven Sports 3 FHD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22717
-#EXTINF:-1,Eleven Sports 3 FHD 4:3 VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16064
-#EXTINF:-1,Eleven Sports 4 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75444
-#EXTINF:-1,Eleven Sports 4 HD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22720
-#EXTINF:-1,Eleven Sports 4 FHD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22719
-#EXTINF:-1,Eleven Sports 4 FHD 4:3 VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16063
-#EXTINF:-1,Eleven Sports 5 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75445
-#EXTINF:-1,Eleven Sports 5 HD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22722
-#EXTINF:-1,Eleven Sports 5 FHD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22721
-#EXTINF:-1,Eleven Sports 5 FHD 4:3 VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16062
-#EXTINF:-1,Eleven Sports 6 ( Baixa Internet )
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75446
-#EXTINF:-1,Eleven Sports 6 HD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22724
-#EXTINF:-1,Eleven Sports 6 FHD VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/22723
-#EXTINF:-1,Eleven Sports 6 FHD 4:3 VIP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16061
-#EXTINF:-1,Canal 11
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/73313
-#EXTINF:-1,Canal 11 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/73315
-#EXTINF:-1,Canal 11 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/73314
-#EXTINF:-1,Sporting TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2694
-#EXTINF:-1,Sporting TV FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2695
-#EXTINF:-1,A Bola TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2780
-#EXTINF:-1,Real Madrid TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2715
-#EXTINF:-1,Eurosport 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2753
-#EXTINF:-1,Eurosport 1 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2752
-#EXTINF:-1,Eurosport 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2751
-#EXTINF:-1,PFC
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2717
-#EXTINF:-1,Motorvision TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2727
-#EXTINF:-1,Kombat Sport
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2731
-#EXTINF:-1,Fight Network FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2749
-#EXTINF:-1,Fuel TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2738
-#EXTINF:-1,Fuel TV FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2747
-#EXTINF:-1,========== Música ==========
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13977
-#EXTINF:-1,MTV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2724
-#EXTINF:-1,MTV DANCE
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62542
-#EXTINF:-1,MTV MUSIC
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62540
-#EXTINF:-1,MTV ROCKS
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62541
-#EXTINF:-1,VH1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5613
-#EXTINF:-1,Trace Urban
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5612
-#EXTINF:-1,MCM POP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2730
-#EXTINF:-1,MCM TOP
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2729
-#EXTINF:-1,Mezzo
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5610
-#EXTINF:-1,C-Music TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5611
-#EXTINF:-1,Afro Music
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2778
-#EXTINF:-1,========== Documentários ==========
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/13978
-#EXTINF:-1,24 Kitchen HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6237
-#EXTINF:-1,24 Kitchen FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2781
-#EXTINF:-1,ARTV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5619
-#EXTINF:-1,BBC Entertainment
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2775
-#EXTINF:-1,Blaze
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2779
-#EXTINF:-1,CBS Reality
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2760
-#EXTINF:-1,Canal Q
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5618
-#EXTINF:-1,Caça Vision
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2764
-#EXTINF:-1,Caça e Pesca
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2765
-#EXTINF:-1,Discovery Channel
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2757
-#EXTINF:-1,Discovery Showcase HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2756
-#EXTINF:-1,Investigation Discovery FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/72122
-#EXTINF:-1,E!
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2754
-#EXTINF:-1,Fashion TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2748
-#EXTINF:-1,História
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2735
-#EXTINF:-1,LocalVisão TV HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2744
-#EXTINF:-1,My Cuisine
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2721
-#EXTINF:-1,Fine Living FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75230
-#EXTINF:-1,Food Network FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75231
-#EXTINF:-1,National Geographic FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2720
-#EXTINF:-1,Nat Geo Wild
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2723
-#EXTINF:-1,Nat Geo Wild FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2722
-#EXTINF:-1,Crime + Investigation
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/62539
-#EXTINF:-1,Odisseia
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2718
-#EXTINF:-1,TLC
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2691
-#EXTINF:-1,Dog TV FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/73312
-#EXTINF:-1,Zap Viva FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/73311
-#EXTINF:-1,Travel Channel HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2689
-#EXTINF:-1,Toros TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2690
-#EXTINF:-1,TV Fatima
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5617
-#EXTINF:-1,Canção Nova
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5620
-#EXTINF:-1,Kuriakos TV FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/33164
-#EXTINF:-1,Kuriakos TV HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/33165
-#EXTINF:-1,Kuriakos TV
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/33166
-#EXTINF:-1,TV Maná HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/33167
-#EXTINF:-1,Sobrenatural TV HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/33163
-#EXTINF:-1,Santuario Fatima FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75226
-#EXTINF:-1,ARTV Parlamento
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/75227
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideportugal.xml.gz"
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kOnFXO1.png" group-title="",FM O Dia TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XGDg1Qx.jpg" group-title="",RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Efczv24.jpg" group-title="",RTP 3
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uS85Uoi.png" group-title="",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hHOEWXp.png" group-title="",RTP África
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="",Sobrenatural TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="TVI 24 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8CNUEi.jpg" group-title="",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="",TVI Reality
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgBNFPz.png",SiC
+https://live.impresa.pt/live/sic/sic540p.m3u8
