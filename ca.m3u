@@ -1,73 +1,563 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="",CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SVdrxU4.png" group-title="Religious",Daystar Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ul9qddp.jpg" group-title="",EMCI TV (Montréal)
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="",ICI Télévision
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd861902459e1/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="",NTV (CJON-DT)
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-language="English" tvg-logo="https://i.imgur.com/9uFrMex.png" group-title="",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-language="English" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTM3U
+#EXTINF:-1, BRAVO HD
+http://siptv-online.com:8789/19865/19865/40537
+#EXTINF:-1, Discovery HD
+http://siptv-online.com:8789/19865/19865/40538
+#EXTINF:-1, FAMILY HD
+http://siptv-online.com:8789/19865/19865/40539
+#EXTINF:-1,A E
+http://siptv-online.com:8789/19865/19865/40540
+#EXTINF:-1,ABC EAST
+http://siptv-online.com:8789/19865/19865/40541
+#EXTINF:-1,ABC HD
+http://siptv-online.com:8789/19865/19865/40542
+#EXTINF:-1,ABC SPARK
+http://siptv-online.com:8789/19865/19865/40543
+#EXTINF:-1,ABC SPARK HD
+http://siptv-online.com:8789/19865/19865/40544
+#EXTINF:-1,ABC WEST
+http://siptv-online.com:8789/19865/19865/40545
+#EXTINF:-1,ACTION
+http://siptv-online.com:8789/19865/19865/40546
+#EXTINF:-1,ADDIK TV
+http://siptv-online.com:8789/19865/19865/40547
+#EXTINF:-1,AE HD
+http://siptv-online.com:8789/19865/19865/40548
+#EXTINF:-1,AHC
+http://siptv-online.com:8789/19865/19865/40549
+#EXTINF:-1,AMC
+http://siptv-online.com:8789/19865/19865/40550
+#EXTINF:-1,AMC HD
+http://siptv-online.com:8789/19865/19865/40551
+#EXTINF:-1,ANIMAL PLANET
+http://siptv-online.com:8789/19865/19865/40552
+#EXTINF:-1,Animal Planet HD
+http://siptv-online.com:8789/19865/19865/40553
+#EXTINF:-1,APTN HD
+http://siptv-online.com:8789/19865/19865/40554
+#EXTINF:-1,ARTV
+http://siptv-online.com:8789/19865/19865/40555
+#EXTINF:-1,ASSEMBLEE NATIONALE
+http://siptv-online.com:8789/19865/19865/40556
+#EXTINF:-1,BBC CANADA
+http://siptv-online.com:8789/19865/19865/40557
+#EXTINF:-1,BBC KIDS
+http://siptv-online.com:8789/19865/19865/40558
+#EXTINF:-1,BBC WORLD NEWS
+http://siptv-online.com:8789/19865/19865/40559
+#EXTINF:-1,BET
+http://siptv-online.com:8789/19865/19865/40560
+#EXTINF:-1,BNN
+http://siptv-online.com:8789/19865/19865/40561
+#EXTINF:-1,BNN HD
+http://siptv-online.com:8789/19865/19865/40562
+#EXTINF:-1,BOOK TV
+http://siptv-online.com:8789/19865/19865/40563
+#EXTINF:-1,BRAVO
+http://siptv-online.com:8789/19865/19865/40564
+#EXTINF:-1,CANAL D HD
+http://siptv-online.com:8789/19865/19865/40565
+#EXTINF:-1,CANAL VIE
+http://siptv-online.com:8789/19865/19865/40567
+#EXTINF:-1,CANALSAVOIR
+http://siptv-online.com:8789/19865/19865/40568
+#EXTINF:-1,CASA
+http://siptv-online.com:8789/19865/19865/40570
+#EXTINF:-1,CBC CALGARY
+http://siptv-online.com:8789/19865/19865/40571
+#EXTINF:-1,CBC MONTREAL
+http://siptv-online.com:8789/19865/19865/40572
+#EXTINF:-1,CBC Montreal HD
+http://siptv-online.com:8789/19865/19865/40573
+#EXTINF:-1,CBC NEWS
+http://siptv-online.com:8789/19865/19865/40574
+#EXTINF:-1,CBC NEWS HD
+http://siptv-online.com:8789/19865/19865/40575
+#EXTINF:-1,CBC NOVA SCOTIA
+http://siptv-online.com:8789/19865/19865/40576
+#EXTINF:-1,CBC OTTAWA
+http://siptv-online.com:8789/19865/19865/40577
+#EXTINF:-1,CBC TORONTO
+http://siptv-online.com:8789/19865/19865/40578
+#EXTINF:-1,CBC Toronto HD
+http://siptv-online.com:8789/19865/19865/40579
+#EXTINF:-1,CBC VANCOUVER
+http://siptv-online.com:8789/19865/19865/40580
+#EXTINF:-1,CBS EAST
+http://siptv-online.com:8789/19865/19865/40581
+#EXTINF:-1,CBS WEST
+http://siptv-online.com:8789/19865/19865/40582
+#EXTINF:-1,CHCH
+http://siptv-online.com:8789/19865/19865/40583
+#EXTINF:-1,CHCH HD
+http://siptv-online.com:8789/19865/19865/40584
+#EXTINF:-1,CINEPOP
+http://siptv-online.com:8789/19865/19865/40585
+#EXTINF:-1,CITY CALGARY
+http://siptv-online.com:8789/19865/19865/40586
+#EXTINF:-1,CITY MONTREAL
+http://siptv-online.com:8789/19865/19865/40587
+#EXTINF:-1,CITY SASKATCHEWAN
+http://siptv-online.com:8789/19865/19865/40588
+#EXTINF:-1,CITY TORONTO
+http://siptv-online.com:8789/19865/19865/40589
+#EXTINF:-1,City Toronto HD
+http://siptv-online.com:8789/19865/19865/40590
+#EXTINF:-1,CITY VANCOUVER
+http://siptv-online.com:8789/19865/19865/40591
+#EXTINF:-1,City Vancouver HD
+http://siptv-online.com:8789/19865/19865/40592
+#EXTINF:-1,CITY WINNIPEG
+http://siptv-online.com:8789/19865/19865/40593
+#EXTINF:-1,CMT CANADA
+http://siptv-online.com:8789/19865/19865/40594
+#EXTINF:-1,CNBC HD
+http://siptv-online.com:8789/19865/19865/40595
+#EXTINF:-1,CNN
+http://siptv-online.com:8789/19865/19865/40596
+#EXTINF:-1,CNN HD
+http://siptv-online.com:8789/19865/19865/40597
+#EXTINF:-1,COMEDY EAST
+http://siptv-online.com:8789/19865/19865/40598
+#EXTINF:-1,COMEDY GOLD
+http://siptv-online.com:8789/19865/19865/40599
+#EXTINF:-1,COMEDY HD
+http://siptv-online.com:8789/19865/19865/40600
+#EXTINF:-1,COMEDY WEST
+http://siptv-online.com:8789/19865/19865/40601
+#EXTINF:-1,COOKING CHANNEL
+http://siptv-online.com:8789/19865/19865/40602
+#EXTINF:-1,COSMO
+http://siptv-online.com:8789/19865/19865/40603
+#EXTINF:-1,COTTAGE LIFE
+http://siptv-online.com:8789/19865/19865/40604
+#EXTINF:-1,Cottage Life HD
+http://siptv-online.com:8789/19865/19865/40605
+#EXTINF:-1,CP 24 HD
+http://siptv-online.com:8789/19865/19865/40606
+#EXTINF:-1,CP24 HD
+http://siptv-online.com:8789/19865/19865/40607
+#EXTINF:-1,CP24. HD
+http://siptv-online.com:8789/19865/19865/40608
+#EXTINF:-1,CPAC
+http://siptv-online.com:8789/19865/19865/40609
+#EXTINF:-1,CPAC FRENCH
+http://siptv-online.com:8789/19865/19865/40610
+#EXTINF:-1,CREATE
+http://siptv-online.com:8789/19865/19865/40611
+#EXTINF:-1,CRIME   INVEST
+http://siptv-online.com:8789/19865/19865/40612
+#EXTINF:-1,CTV 2 VANCOUVER
+http://siptv-online.com:8789/19865/19865/40613
+#EXTINF:-1,CTV BARRIE
+http://siptv-online.com:8789/19865/19865/40614
+#EXTINF:-1,CTV CALGARY
+http://siptv-online.com:8789/19865/19865/40615
+#EXTINF:-1,CTV EAST
+http://siptv-online.com:8789/19865/19865/40616
+#EXTINF:-1,CTV HALIFAX
+http://siptv-online.com:8789/19865/19865/40617
+#EXTINF:-1,CTV HD
+http://siptv-online.com:8789/19865/19865/40618
+#EXTINF:-1,CTV MONTREAL
+http://siptv-online.com:8789/19865/19865/40619
+#EXTINF:-1,CTV Montreal HD
+http://siptv-online.com:8789/19865/19865/40620
+#EXTINF:-1,CTV NEWS HD
+http://siptv-online.com:8789/19865/19865/40621
+#EXTINF:-1,CTV NEWS NETWORK
+http://siptv-online.com:8789/19865/19865/40622
+#EXTINF:-1,CTV OTTAWA
+http://siptv-online.com:8789/19865/19865/40623
+#EXTINF:-1,CTV TORONTO
+http://siptv-online.com:8789/19865/19865/40624
+#EXTINF:-1,CTV VANCOUVER
+http://siptv-online.com:8789/19865/19865/40625
+#EXTINF:-1,CTV2 OTTAWA
+http://siptv-online.com:8789/19865/19865/40626
+#EXTINF:-1,CW 11 HD
+http://siptv-online.com:8789/19865/19865/40627
+#EXTINF:-1,DAYSTAR TV
+http://siptv-online.com:8789/19865/19865/40628
+#EXTINF:-1,DEJAVIEW
+http://siptv-online.com:8789/19865/19865/40629
+#EXTINF:-1,DISCOVERY CANADA
+http://siptv-online.com:8789/19865/19865/40630
+#EXTINF:-1,DISCOVERY SCIENCE CANADA
+http://siptv-online.com:8789/19865/19865/40631
+#EXTINF:-1,DISNEY CANADA
+http://siptv-online.com:8789/19865/19865/40632
+#EXTINF:-1,DISNEY FRENCH
+http://siptv-online.com:8789/19865/19865/40633
+#EXTINF:-1,DISNEY JR
+http://siptv-online.com:8789/19865/19865/40634
+#EXTINF:-1,DISNEY JR HD
+http://siptv-online.com:8789/19865/19865/40635
+#EXTINF:-1,DIY NETWORK
+http://siptv-online.com:8789/19865/19865/40636
+#EXTINF:-1,DIY NETWORK HD
+http://siptv-online.com:8789/19865/19865/40637
+#EXTINF:-1,DOCUMENTARY
+http://siptv-online.com:8789/19865/19865/40638
+#EXTINF:-1,DTOUR
+http://siptv-online.com:8789/19865/19865/40639
+#EXTINF:-1,E! CANADA
+http://siptv-online.com:8789/19865/19865/40640
+#EXTINF:-1,ENCORE 1 EAST
+http://siptv-online.com:8789/19865/19865/40641
+#EXTINF:-1,ENCORE 2 EAST
+http://siptv-online.com:8789/19865/19865/40642
+#EXTINF:-1,EVASION
+http://siptv-online.com:8789/19865/19865/40643
+#EXTINF:-1,FAMILY CHRGD
+http://siptv-online.com:8789/19865/19865/40644
+#EXTINF:-1,FAMILY EAST
+http://siptv-online.com:8789/19865/19865/40645
+#EXTINF:-1,FAMILY JR
+http://siptv-online.com:8789/19865/19865/40646
+#EXTINF:-1,FAMILY WEST
+http://siptv-online.com:8789/19865/19865/40647
+#EXTINF:-1,FIGHT NETWORK
+http://siptv-online.com:8789/19865/19865/40648
+#EXTINF:-1,FOOD NETWORK
+http://siptv-online.com:8789/19865/19865/40649
+#EXTINF:-1,Food Network HD
+http://siptv-online.com:8789/19865/19865/40650
+#EXTINF:-1,FOX EAST
+http://siptv-online.com:8789/19865/19865/40651
+#EXTINF:-1,FOX HD
+http://siptv-online.com:8789/19865/19865/40652
+#EXTINF:-1,FOX NEWS
+http://siptv-online.com:8789/19865/19865/40653
+#EXTINF:-1,FOX WEST
+http://siptv-online.com:8789/19865/19865/40654
+#EXTINF:-1,FRISSON
+http://siptv-online.com:8789/19865/19865/40655
+#EXTINF:-1,FTV CANADA
+http://siptv-online.com:8789/19865/19865/40656
+#EXTINF:-1,FXX HD
+http://siptv-online.com:8789/19865/19865/40657
+#EXTINF:-1,FYI
+http://siptv-online.com:8789/19865/19865/40658
+#EXTINF:-1,Game TV
+http://siptv-online.com:8789/19865/19865/40659
+#EXTINF:-1,GINX ESPORTS TV CANADA
+http://siptv-online.com:8789/19865/19865/40660
+#EXTINF:-1,GLOBAL CALGARY
+http://siptv-online.com:8789/19865/19865/40661
+#EXTINF:-1,GLOBAL EAST
+http://siptv-online.com:8789/19865/19865/40662
+#EXTINF:-1,GLOBAL HALIFAX
+http://siptv-online.com:8789/19865/19865/40663
+#EXTINF:-1,GLOBAL HD
+http://siptv-online.com:8789/19865/19865/40664
+#EXTINF:-1,GLOBAL TORONTO
+http://siptv-online.com:8789/19865/19865/40665
+#EXTINF:-1,GLOBAL VANCOUVER
+http://siptv-online.com:8789/19865/19865/40666
+#EXTINF:-1,GSN
+http://siptv-online.com:8789/19865/19865/40667
+#EXTINF:-1,GUSTO
+http://siptv-online.com:8789/19865/19865/40668
+#EXTINF:-1,H2 CANADA
+http://siptv-online.com:8789/19865/19865/40669
+#EXTINF:-1,HBO 1
+http://siptv-online.com:8789/19865/19865/40670
+#EXTINF:-1,HBO 2
+http://siptv-online.com:8789/19865/19865/40671
+#EXTINF:-1,HBO EAST
+http://siptv-online.com:8789/19865/19865/40672
+#EXTINF:-1,HGTV
+http://siptv-online.com:8789/19865/19865/40673
+#EXTINF:-1,HISTORIA
+http://siptv-online.com:8789/19865/19865/40674
+#EXTINF:-1,HISTORY HD
+http://siptv-online.com:8789/19865/19865/40675
+#EXTINF:-1,HLN
+http://siptv-online.com:8789/19865/19865/40676
+#EXTINF:-1,HOPE TV
+http://siptv-online.com:8789/19865/19865/40677
+#EXTINF:-1,ICI MONTREAL
+http://siptv-online.com:8789/19865/19865/40678
+#EXTINF:-1,ICI VANCOUVER
+http://siptv-online.com:8789/19865/19865/40679
+#EXTINF:-1,ID HD
+http://siptv-online.com:8789/19865/19865/40680
+#EXTINF:-1,IFC
+http://siptv-online.com:8789/19865/19865/40681
+#EXTINF:-1,JOY
+http://siptv-online.com:8789/19865/19865/40682
+#EXTINF:-1,KNOWLEDGE KIDS
+http://siptv-online.com:8789/19865/19865/40683
+#EXTINF:-1,KTLA
+http://siptv-online.com:8789/19865/19865/40684
+#EXTINF:-1,LCN
+http://siptv-online.com:8789/19865/19865/40685
+#EXTINF:-1,LCN HD
+http://siptv-online.com:8789/19865/19865/40686
+#EXTINF:-1,LIFETIME
+http://siptv-online.com:8789/19865/19865/40687
+#EXTINF:-1,MAKEFUL
+http://siptv-online.com:8789/19865/19865/40688
+#EXTINF:-1,MAVTV CANADA
+http://siptv-online.com:8789/19865/19865/40689
+#EXTINF:-1,MAX
+http://siptv-online.com:8789/19865/19865/40690
+#EXTINF:-1,MEDIASET ITALIA CANADA
+http://siptv-online.com:8789/19865/19865/40691
+#EXTINF:-1,METEO
+http://siptv-online.com:8789/19865/19865/40692
+#EXTINF:-1,MIRACLE
+http://siptv-online.com:8789/19865/19865/40693
+#EXTINF:-1,MLB NETWORK
+http://siptv-online.com:8789/19865/19865/40694
+#EXTINF:-1,MOI  CIE
+http://siptv-online.com:8789/19865/19865/40695
+#EXTINF:-1,MONTREAL  3 / TVA WEST
+http://siptv-online.com:8789/19865/19865/40696
+#EXTINF:-1,MSNBC
+http://siptv-online.com:8789/19865/19865/40697
+#EXTINF:-1,MSNBC HD
+http://siptv-online.com:8789/19865/19865/40698
+#EXTINF:-1,MTIME
+http://siptv-online.com:8789/19865/19865/40699
+#EXTINF:-1,MTV
+http://siptv-online.com:8789/19865/19865/40700
+#EXTINF:-1,MTV2
+http://siptv-online.com:8789/19865/19865/40701
+#EXTINF:-1,MUCH
+http://siptv-online.com:8789/19865/19865/40702
+#EXTINF:-1,MUCH MUSIC
+http://siptv-online.com:8789/19865/19865/40703
+#EXTINF:-1,MUSIQUE PLUS
+http://siptv-online.com:8789/19865/19865/40704
+#EXTINF:-1,NAT GEO
+http://siptv-online.com:8789/19865/19865/40705
+#EXTINF:-1,NAT GEO WILD HD
+http://siptv-online.com:8789/19865/19865/40706
+#EXTINF:-1,NBA TV
+http://siptv-online.com:8789/19865/19865/40707
+#EXTINF:-1,NBC EAST
+http://siptv-online.com:8789/19865/19865/40708
+#EXTINF:-1,NBC WEST
+http://siptv-online.com:8789/19865/19865/40709
+#EXTINF:-1,NFL NETWORK
+http://siptv-online.com:8789/19865/19865/40710
+#EXTINF:-1,NICK
+http://siptv-online.com:8789/19865/19865/40711
+#EXTINF:-1,NTV
+http://siptv-online.com:8789/19865/19865/40712
+#EXTINF:-1,OLN
+http://siptv-online.com:8789/19865/19865/40713
+#EXTINF:-1,OLN HD
+http://siptv-online.com:8789/19865/19865/40714
+#EXTINF:-1,Omni 1 HD
+http://siptv-online.com:8789/19865/19865/40715
+#EXTINF:-1,OMNI 2
+http://siptv-online.com:8789/19865/19865/40716
+#EXTINF:-1,OMNI BC
+http://siptv-online.com:8789/19865/19865/40717
+#EXTINF:-1,OMNI EAST
+http://siptv-online.com:8789/19865/19865/40718
+#EXTINF:-1,ONE
+http://siptv-online.com:8789/19865/19865/40719
+#EXTINF:-1,OUTTV
+http://siptv-online.com:8789/19865/19865/40720
+#EXTINF:-1,OWN
+http://siptv-online.com:8789/19865/19865/40721
+#EXTINF:-1,OWN HD
+http://siptv-online.com:8789/19865/19865/40722
+#EXTINF:-1,OWN HD (OPRAH WINFRY NETWORK)
+http://siptv-online.com:8789/19865/19865/40723
+#EXTINF:-1,PBS EAST HD
+http://siptv-online.com:8789/19865/19865/40724
+#EXTINF:-1,PBS WEST
+http://siptv-online.com:8789/19865/19865/40725
+#EXTINF:-1,PEACH TREE
+http://siptv-online.com:8789/19865/19865/40726
+#EXTINF:-1,PORTSNET WEST HD
+http://siptv-online.com:8789/19865/19865/40727
+#EXTINF:-1,PRISE
+http://siptv-online.com:8789/19865/19865/40728
+#EXTINF:-1,RDI
+http://siptv-online.com:8789/19865/19865/40729
+#EXTINF:-1,RDS
+http://siptv-online.com:8789/19865/19865/40730
+#EXTINF:-1,RDS 2
+http://siptv-online.com:8789/19865/19865/40731
+#EXTINF:-1,RDS INFO
+http://siptv-online.com:8789/19865/19865/40732
+#EXTINF:-1,RT AMERICA
+http://siptv-online.com:8789/19865/19865/40733
+#EXTINF:-1,SERIES
+http://siptv-online.com:8789/19865/19865/40734
+#EXTINF:-1,SHOPPING
+http://siptv-online.com:8789/19865/19865/40735
+#EXTINF:-1,SHOWCASE
+http://siptv-online.com:8789/19865/19865/40736
+#EXTINF:-1,SHOWCASE HD
+http://siptv-online.com:8789/19865/19865/40737
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://siptv-online.com:8789/19865/19865/40738
+#EXTINF:-1,SLICE
+http://siptv-online.com:8789/19865/19865/40739
+#EXTINF:-1,SLICE HD
+http://siptv-online.com:8789/19865/19865/40740
+#EXTINF:-1,SMITHSONIAN HD
+http://siptv-online.com:8789/19865/19865/40741
+#EXTINF:-1,SPACE
+http://siptv-online.com:8789/19865/19865/40742
+#EXTINF:-1,SPACE HD
+http://siptv-online.com:8789/19865/19865/40743
+#EXTINF:-1,SPIKE TV
+http://siptv-online.com:8789/19865/19865/40744
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://siptv-online.com:8789/19865/19865/40745
+#EXTINF:-1,SPORTNET 360
+http://siptv-online.com:8789/19865/19865/40746
+#EXTINF:-1,SPORTNET ONE
+http://siptv-online.com:8789/19865/19865/40747
+#EXTINF:-1,SPORTNET ONTARIO
+http://siptv-online.com:8789/19865/19865/40748
+#EXTINF:-1,SPORTS NET EAST HD
+http://siptv-online.com:8789/19865/19865/40749
+#EXTINF:-1,SPORTS NET ONE HD
+http://siptv-online.com:8789/19865/19865/40750
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://siptv-online.com:8789/19865/19865/40751
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://siptv-online.com:8789/19865/19865/40752
+#EXTINF:-1,SPORTS NET WORLD HD
+http://siptv-online.com:8789/19865/19865/40753
+#EXTINF:-1,SPORTSMAN CHANNEL CANADA
+http://siptv-online.com:8789/19865/19865/40754
+#EXTINF:-1,SPORTSNET 360
+http://siptv-online.com:8789/19865/19865/40755
+#EXTINF:-1,SPORTSNET 360 HD
+http://siptv-online.com:8789/19865/19865/40756
+#EXTINF:-1,SPORTSNET EAST
+http://siptv-online.com:8789/19865/19865/40757
+#EXTINF:-1,SPORTSNET EAST HD
+http://siptv-online.com:8789/19865/19865/40758
+#EXTINF:-1,SPORTSNET ONE
+http://siptv-online.com:8789/19865/19865/40759
+#EXTINF:-1,SPORTSNET ONE HD
+http://siptv-online.com:8789/19865/19865/40760
+#EXTINF:-1,SPORTSNET ONTARIO
+http://siptv-online.com:8789/19865/19865/40761
+#EXTINF:-1,SPORTSNET PACIFIC
+http://siptv-online.com:8789/19865/19865/40762
+#EXTINF:-1,SPORTSNET PACIFIC HD
+http://siptv-online.com:8789/19865/19865/40763
+#EXTINF:-1,SPORTSNET WEST
+http://siptv-online.com:8789/19865/19865/40764
+#EXTINF:-1,SPORTSNET WORLD
+http://siptv-online.com:8789/19865/19865/40765
+#EXTINF:-1,SPORTSNET WORLD HD.
+http://siptv-online.com:8789/19865/19865/40766
+#EXTINF:-1,SUPER CHANNEL 2
+http://siptv-online.com:8789/19865/19865/40767
+#EXTINF:-1,SUPER CHANNEL FUSE
+http://siptv-online.com:8789/19865/19865/40768
+#EXTINF:-1,SUPER CHANNEL HEART & HOME
+http://siptv-online.com:8789/19865/19865/40769
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://siptv-online.com:8789/19865/19865/40770
+#EXTINF:-1,SUPER ECRAN 1
+http://siptv-online.com:8789/19865/19865/40771
+#EXTINF:-1,SUPER ECRAN 2
+http://siptv-online.com:8789/19865/19865/40772
+#EXTINF:-1,SUPER ECRAN 3
+http://siptv-online.com:8789/19865/19865/40773
+#EXTINF:-1,SUPER ECRAN 4
+http://siptv-online.com:8789/19865/19865/40774
+#EXTINF:-1,TCM
+http://siptv-online.com:8789/19865/19865/40775
+#EXTINF:-1,TELE LATINO
+http://siptv-online.com:8789/19865/19865/40776
+#EXTINF:-1,TELE QUEBEC
+http://siptv-online.com:8789/19865/19865/40777
+#EXTINF:-1,TELE TOON
+http://siptv-online.com:8789/19865/19865/40778
+#EXTINF:-1,TELE TOON EAST
+http://siptv-online.com:8789/19865/19865/40779
+#EXTINF:-1,TELE TOON FRENCH
+http://siptv-online.com:8789/19865/19865/40780
+#EXTINF:-1,TELE TOON WEST
+http://siptv-online.com:8789/19865/19865/40781
+#EXTINF:-1,TELEMAGINO
+http://siptv-online.com:8789/19865/19865/40782
+#EXTINF:-1,TELETOON
+http://siptv-online.com:8789/19865/19865/40783
+#EXTINF:-1,TFO
+http://siptv-online.com:8789/19865/19865/40784
+#EXTINF:-1,THE WEATHER CHANNEL HD
+http://siptv-online.com:8789/19865/19865/40785
+#EXTINF:-1,THE WEATHER NETWORK
+http://siptv-online.com:8789/19865/19865/40786
+#EXTINF:-1,TLC HD CANADA
+http://siptv-online.com:8789/19865/19865/40787
+#EXTINF:-1,TMN 1
+http://siptv-online.com:8789/19865/19865/40788
+#EXTINF:-1,TMN 2
+http://siptv-online.com:8789/19865/19865/40789
+#EXTINF:-1,TMN 3
+http://siptv-online.com:8789/19865/19865/40790
+#EXTINF:-1,TMN 4
+http://siptv-online.com:8789/19865/19865/40791
+#EXTINF:-1,TRAVEL
+http://siptv-online.com:8789/19865/19865/40792
+#EXTINF:-1,TREEHOUSE
+http://siptv-online.com:8789/19865/19865/40793
+#EXTINF:-1,TREEHOUSE HD
+http://siptv-online.com:8789/19865/19865/40794
+#EXTINF:-1,TSN  3HD
+http://siptv-online.com:8789/19865/19865/40795
+#EXTINF:-1,TSN 1HD
+http://siptv-online.com:8789/19865/19865/40796
+#EXTINF:-1,TSN 4HD
+http://siptv-online.com:8789/19865/19865/40797
+#EXTINF:-1,TSN 5HD
+http://siptv-online.com:8789/19865/19865/40798
+#EXTINF:-1,TV5 QUEBEC
+http://siptv-online.com:8789/19865/19865/40799
+#EXTINF:-1,TVA GATINEAU
+http://siptv-online.com:8789/19865/19865/40800
+#EXTINF:-1,TVA SPORTS 1 HD
+http://siptv-online.com:8789/19865/19865/40801
+#EXTINF:-1,TVA SPORTS HD
+http://siptv-online.com:8789/19865/19865/40802
+#EXTINF:-1,TVO
+http://siptv-online.com:8789/19865/19865/40803
+#EXTINF:-1,UNIS TV
+http://siptv-online.com:8789/19865/19865/40804
+#EXTINF:-1,VISION
+http://siptv-online.com:8789/19865/19865/40805
+#EXTINF:-1,VRAK TV
+http://siptv-online.com:8789/19865/19865/40806
+#EXTINF:-1,VTELE HD
+http://siptv-online.com:8789/19865/19865/40807
+#EXTINF:-1,W NETWORK
+http://siptv-online.com:8789/19865/19865/40808
+#EXTINF:-1,WFN
+http://siptv-online.com:8789/19865/19865/40809
+#EXTINF:-1,Wild TV
+http://siptv-online.com:8789/19865/19865/40810
+#EXTINF:-1,WORLD FISHING NET
+http://siptv-online.com:8789/19865/19865/40811
+#EXTINF:-1,WSBK
+http://siptv-online.com:8789/19865/19865/40812
+#EXTINF:-1,WWE HD
+http://siptv-online.com:8789/19865/19865/40813
+#EXTINF:-1,YES TV
+http://siptv-online.com:8789/19865/19865/40814
+#EXTINF:-1,YOOPA
+http://siptv-online.com:8789/19865/19865/40815
+#EXTINF:-1,YTV E
+http://siptv-online.com:8789/19865/19865/40816
+#EXTINF:-1,YTV West
+http://siptv-online.com:8789/19865/19865/40817
+#EXTINF:-1,ZESTE
+http://siptv-online.com:8789/19865/19865/40818
+#EXTINF:-1,ZTELE
+http://siptv-online.com:8789/19865/19865/40819

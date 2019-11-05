@@ -1,149 +1,293 @@
-#EXTM3U x-tvg-url="http://infinitytv.xyz/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5shEyWW.jpg" group-title="",Agro Canal
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ykEHJoE.png" group-title="Sport",All Sports
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
-#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zX5c4CG.png" group-title="",Boa Vontade TV
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="",Canal Ricos
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="",Canção Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="",Canção Nova
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/S2tZaxs.jpg" group-title="",CBTV
-https://sa-all13.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1662090379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/S2tZaxs.jpg" group-title="",CBTV Internacional
-https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sQ5BKun.png" group-title="",FM O Dia
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SGupCEL.png" group-title="",In Paradise TV
-https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/36EnRYI.png" group-title="",Itú TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sk2AKSC.png" group-title="",RCI
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5REiGPt.png" group-title="",RecordTV
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1dEOcli.jpg" group-title="",Rede Atividade
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RCWyETb.png" group-title="",Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RCWyETb.png" group-title="",Rede Gospel
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2WmdjU9.png" group-title="",Rede Metropole
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ZuJ5X0q.jpg" group-title="",Rede Minas
-https://5c64355d4b57c.streamlock.net:1936/8304/8304/chunklist_w393028282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="",Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="",Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="",Rede Século 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="",Sesc TV
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="",Summer TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dVLIKak.png" group-title="",TV Brasil 2
-https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FcmhL269xSw)r(TOqkzw)a(BbXqfA)p(d(Ujo)k(l0c)m(2y6LaAVO3je2qImNPDOiNw)n(a(s_aOtQ)s(kus)'a(UknUNg)s(Nyc)'a(Wf6lMg)s(0jE)'a(Isu75A)s(Toc)))s(s(v6s)b(l-93lcfyr3uRzpgH906YbWqmYCTqepM0ohVnnq5fPFM_4PTo9BJdNHoqvrk0nKg3_zq7M6CFe5Yn7Kkciw)'s(ZK4)b(Nikz2SOnvum3KlcsrAf90s_alsAP2HxHh-4tseYNSbhY34JghkZCjtJR_5JKLuNSwN0Gcm2VoRHT7OdOAFSumideFbFBYSE_dwvRtPdH)'s(Qu0)b(Pvg1pscD))m(0))/25_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jpEJYfT.png" group-title="",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jpEJYfT.png" group-title="",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="",TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://bit.ly/2CyHmr0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ZKDc2V2.png" group-title="",TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/gazeta-aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/z5HMLv9.png" group-title="",TV Gidoes
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0mlQZ8F.png" group-title="",TV Louvar
-http://173.236.10.10:1935/renascer/renascer/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tEsqFyN.jpg" group-title="",TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MWqAmxz.png" group-title="",TV Pampa
-https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w600062362.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/pel3QRE.jpg" group-title="",TV Paraná
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fpXh5aV.png" group-title="",TV Rio Preto
-http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7bTT8mw.png" group-title="",TV Transamérica
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TYfIH55.png" group-title="",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NlB8ioY.png" group-title="",TVCI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c5hs2CI.jpg" group-title="",TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/n4Rdrj9.jpg" group-title="",UAI
-http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VFDVsWK.jpg" group-title="",Web TV Minas
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTM3U
+#EXTINF:-1,WOOHOO HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3592
+#EXTINF:-1,WARNER CHANNEL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3590
+#EXTINF:-1,VH1 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3588
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3586
+#EXTINF:-1,Tooncast SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3585
+#EXTINF:-1,TV GAZETA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3584
+#EXTINF:-1,CNT HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3583
+#EXTINF:-1,GLOBO BRASILIA SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3580
+#EXTINF:-1,TNT SERIES HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3577
+#EXTINF:-1,TNT HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3576
+#EXTINF:-1,VIVA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3574
+#EXTINF:-1,TELECINE TOUCH HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3573
+#EXTINF:-1,TELECINE PREMIUM HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3571
+#EXTINF:-1,TELECINE PIPOCA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3570
+#EXTINF:-1,TELECINE FUN HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3568
+#EXTINF:-1,TELECINE CULT HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3567
+#EXTINF:-1,TELECINE ACTION HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3565
+#EXTINF:-1,TCM SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3563
+#EXTINF:-1,TBS SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3561
+#EXTINF:-1,SYFY HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3560
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3559
+#EXTINF:-1,SPORTV 3 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3557
+#EXTINF:-1,SPORTV 2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3555
+#EXTINF:-1,SPORTV UHD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3554
+#EXTINF:-1,SPACE SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3553
+#EXTINF:-1,SONY HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3552
+#EXTINF:-1,SBT TV CIDADE VERDE PIAUI HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3551
+#EXTINF:-1,SBT HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3549
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3547
+#EXTINF:-1,REDE VIDA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3546
+#EXTINF:-1,REDE TV SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3538
+#EXTINF:-1,REDE FAMILIA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3535
+#EXTINF:-1,RECORD SP HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3533
+#EXTINF:-1,RECORD NORDESTE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3531
+#EXTINF:-1,RECORD NEWS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3529
+#EXTINF:-1,RECORD MG HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3527
+#EXTINF:-1,RECORD ESP. SANTO HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3525
+#EXTINF:-1,RECORD CAMPINAS SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3523
+#EXTINF:-1,RECORD AMAZONAS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3521
+#EXTINF:-1,RECORD HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3519
+#EXTINF:-1,PREMIERE CLUBES UHD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3517
+#EXTINF:-1,PREMIERE 8 SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3516
+#EXTINF:-1,PREMIERE 7 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3515
+#EXTINF:-1,PREMIERE 6 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3513
+#EXTINF:-1,PREMIERE 1 SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3507
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3505
+#EXTINF:-1,NICK JR HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3501
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3499
+#EXTINF:-1,NATGEO WILD HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3497
+#EXTINF:-1,MEGAPIX HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3491
+#EXTINF:-1,MAX PRIME*E SD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3489
+#EXTINF:-1,HBO PLUS*E HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3483
+#EXTINF:-1,HBO 2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3478
+#EXTINF:-1,GLOOB HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3471
+#EXTINF:-1,GLOBO SP HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3461
+#EXTINF:-1,GLOBO RPC TV HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3459
+#EXTINF:-1,GLOBO RJ HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3458
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3457
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3448
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3443
+#EXTINF:-1,GLOBO AMAZONAS HD	
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3437
+#EXTINF:-1,PREMIERE 5 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3409
+#EXTINF:-1,PREMIERE 4 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3407
+#EXTINF:-1,PREMIERE 3 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3406
+#EXTINF:-1,PREMIERE 2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3404
+#EXTINF:-1,PREMIERE 1 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3403
+#EXTINF:-1,PARAMOUNT CHANNEL  HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3391
+#EXTINF:-1,OFF HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3366
+#EXTINF:-1,NICKELODEON HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3364
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3361
+#EXTINF:-1,NAT GEO KIDS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3359
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3358
+#EXTINF:-1,MTV LIVE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3354
+#EXTINF:-1,MTV HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3353
+#EXTINF:-1,MAX UP HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3351
+#EXTINF:-1,MAX PRIME HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3349
+#EXTINF:-1,LIFETIME HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3346
+#EXTINF:-1,INVESTIGA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3345
+#EXTINF:-1,HISTORY CHANNEL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3344
+#EXTINF:-1,HBO SIGNATURE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3343
+#EXTINF:-1,HBO PLUS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3340
+#EXTINF:-1,HBO FAMILY HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3339
+#EXTINF:-1,HBO HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3337
+#EXTINF:-1,H2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3336
+#EXTINF:-1,GNT HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3334
+#EXTINF:-1,GLOBOSAT HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3331
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3330
+#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3329
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3328
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3327
+#EXTINF:-1,GLOBO TV BELEM HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3326
+#EXTINF:-1,GLOBO RIBEIR HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3320
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3319
+#EXTINF:-1,GLOBO NORDESTE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3318
+#EXTINF:-1,GLOBO NEWS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3317
+#EXTINF:-1,GLOBO MINAS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3315
+#EXTINF:-1,GLOBO EPTV SAO CARLOS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3313
+#EXTINF:-1,GLOBO EPTV RIBEIR HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3312
+#EXTINF:-1,GLOBO CUIABA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3310
+#EXTINF:-1,GLOBO BRASILIA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3309
+#EXTINF:-1,GLOBO BAHIA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3308
+#EXTINF:-1,FX HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3306
+#EXTINF:-1,FUTURA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/3305
+#EXTINF:-1,A&E HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2807
+#EXTINF:-1,AMC HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2808
+#EXTINF:-1,ANIMAL PLANET HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2809
+#EXTINF:-1,ARTE 1 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2810
+#EXTINF:-1, AXN HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2814
+#EXTINF:-1,BABY TV HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2816
+#EXTINF:-1,BAND NEWS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2818
+#EXTINF:-1,BAND SPORTS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2820
+#EXTINF:-1,BIS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2821
+#EXTINF:-1,BOOMERANG HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2822
+#EXTINF:-1,CANAL BRASIL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2823
+#EXTINF:-1,CARTOON NETWORK HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2826
+#EXTINF:-1,CINEMAX HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2827
+#EXTINF:-1,COMBATE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2828
+#EXTINF:-1,COMEDY CENTRAL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2830
+#EXTINF:-1,CULTURA HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2831
+#EXTINF:-1,CURTA! HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2834
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2835
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2837
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2839
+#EXTINF:-1,DISCOVERY KIDS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2842
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2851
+#EXTINF:-1,DISCOVERY TLC HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2858
+#EXTINF:-1,DISCOVERY TURBO HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2859
+#EXTINF:-1,DISCOVERY WORLD HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2862
+#EXTINF:-1,DISNEY CHANNEL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2864
+#EXTINF:-1,DISNEY JR HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2865
+#EXTINF:-1,DISNEY XD HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2869
+#EXTINF:-1,E! HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2902
+#EXTINF:-1,ESPN HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2903
+#EXTINF:-1,ESPN BRASIL HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2904
+#EXTINF:-1,ESPN 2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2905
+#EXTINF:-1,FISH TV HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2906
+#EXTINF:-1,FOX HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2908
+#EXTINF:-1,FOX LIFE HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2910
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2911
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2913
+#EXTINF:-1,FOX SPORTS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2916
+#EXTINF:-1,FOX SPORTS 2 HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2917
+#EXTINF:-1,BAND CAMPINAS HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2817
+#EXTINF:-1,CANC HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2825
+#EXTINF:-1,DISCOVERY THEATER HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2855
+#EXTINF:-1,FOOD NETWORK HD
+http://qualitystreamz.guru:25461/jonathonfoster/H73VfjUFuN/2907
