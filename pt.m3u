@@ -1,235 +1,225 @@
-#EXTM3U Albdroid TV
-#EXTINF:-1,SPORTING TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/233.ts
-#EXTINF:-1,SPORT TV5 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/223.ts
-#EXTINF:-1,SPORT TV4 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/221.ts
-#EXTINF:-1,SPORT TV4
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/222.ts
-#EXTINF:-1,SPORT TV3 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/219.ts
-#EXTINF:-1,SPORT TV3
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/220.ts
-#EXTINF:-1,SPORT TV2 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/217.ts
-#EXTINF:-1,SPORT TV2 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/216.ts
-#EXTINF:-1,SPORT TV2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/218.ts
-#EXTINF:-1,SPORT TV1 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/214.ts
-#EXTINF:-1,SPORT TV1 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/213.ts
-#EXTINF:-1,SPORT TV1
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/215.ts
-#EXTINF:-1,SPORT TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/212.ts
-#EXTINF:-1,PFC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/235.ts
-#EXTINF:-1,MOTORVISION
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/971.ts
-#EXTINF:-1,KOMBATSPORT
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/236.ts
-#EXTINF:-1,EUROSPORT2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/239.ts
-#EXTINF:-1,EUROSPORT NEWS
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/237.ts
-#EXTINF:-1,EUROSPORT 1HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/238.ts
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/230.ts
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/229.ts
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/228.ts
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/227.ts
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/226.ts
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.ts
-#EXTINF:-1,CANAL Q
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1036.ts
-#EXTINF:-1,BENIFICA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/232.ts
+#EXTM3U
+#EXTINF:-1,24KITCHEN
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/257
 #EXTINF:-1,A BOLA TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/234.ts
-#EXTINF:-1, CANAL 11
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/224.ts
-#EXTINF:-1,vh1 classic
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/975.ts
-#EXTINF:-1,TVI24
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1005.ts
-#EXTINF:-1,TVI Reality
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1006.ts
-#EXTINF:-1,TVI HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1007.ts
-#EXTINF:-1,TVI FICCAO
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1008.ts
-#EXTINF:-1,TVI
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1009.ts
-#EXTINF:-1,TVCine 4 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/948.ts
-#EXTINF:-1,TVCine 4
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/949.ts
-#EXTINF:-1,TVCine 3 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/950.ts
-#EXTINF:-1,TVCINE 3
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/951.ts
-#EXTINF:-1,TVCINE 2 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/952.ts
-#EXTINF:-1,TVCine 1 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/953.ts
-#EXTINF:-1,TVCINE 1
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/954.ts
-#EXTINF:-1,TV SERIES  HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/955.ts
-#EXTINF:-1,TV RECORD HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/956.ts
-#EXTINF:-1,TV CINE 2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/957.ts
-#EXTINF:-1,TV  SERIES
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/958.ts
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/959.ts
-#EXTINF:-1,TPA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1010.ts
-#EXTINF:-1,TLC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/960.ts
-#EXTINF:-1,SYFY HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/961.ts
-#EXTINF:-1,SYFY
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/962.ts
-#EXTINF:-1,SIC RADICAL HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1011.ts
-#EXTINF:-1,SIC RADICAL
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1012.ts
-#EXTINF:-1,SIC NOTICIAS HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1013.ts
-#EXTINF:-1,SIC NOTICIAS
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1014.ts
-#EXTINF:-1,SIC Mulher HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1015.ts
-#EXTINF:-1,SIC MULHER
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1016.ts
-#EXTINF:-1,SIC K
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/963.ts
-#EXTINF:-1,SIC HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1017.ts
-#EXTINF:-1,SIC CARAS HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1018.ts
-#EXTINF:-1,SIC Caras
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1019.ts
-#EXTINF:-1,SIC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1020.ts
-#EXTINF:-1,RTPi_internacional
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1021.ts
-#EXTINF:-1,RTP3 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1022.ts
-#EXTINF:-1,RTP2 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1023.ts
-#EXTINF:-1,RTP1 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1024.ts
-#EXTINF:-1,RTP1
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1025.ts
-#EXTINF:-1,RTP MEMORIA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1026.ts
-#EXTINF:-1,RTP MADEIRA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1027.ts
-#EXTINF:-1,RTP ÁFRICA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1028.ts
-#EXTINF:-1,RTP ACORES
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1029.ts
-#EXTINF:-1,RTP 3
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1030.ts
-#EXTINF:-1,RTP 2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1031.ts
-#EXTINF:-1,PORTO CANAL HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/964.ts
-#EXTINF:-1,PANDA BIGGS
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/965.ts
-#EXTINF:-1,Odisseia
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/966.ts
-#EXTINF:-1,Nickelodeon
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/967.ts
-#EXTINF:-1,Nick Jr.
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/968.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/969.ts
-#EXTINF:-1,Nat Geo Wild
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/970.ts
-#EXTINF:-1,My Cuisine
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1032.ts
-#EXTINF:-1,JIM JAM
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/972.ts
-#EXTINF:-1,Hollywood HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/973.ts
-#EXTINF:-1,HOLLYWOOD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/974.ts
-#EXTINF:-1,FOX MOVIES
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/976.ts
-#EXTINF:-1,FOX Life HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/977.ts
-#EXTINF:-1,FOX HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/978.ts
-#EXTINF:-1,FOX Crime HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/979.ts
-#EXTINF:-1,FOX COMEDY
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/980.ts
-#EXTINF:-1,FOOD NETWORK HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/981.ts
-#EXTINF:-1,FINE LIVING NETWORK HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/982.ts
-#EXTINF:-1,E! Entertainment
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/983.ts
-#EXTINF:-1,DOG TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/984.ts
-#EXTINF:-1,BENIFICA FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/231.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/985.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/986.ts
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/987.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/988.ts
-#EXTINF:-1,CRIME INVESTIGATION
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/989.ts
-#EXTINF:-1,CMTV HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1033.ts
-#EXTINF:-1,CMTV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1034.ts
-#EXTINF:-1,CINEMUNDO
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/990.ts
-#EXTINF:-1,CBS REALITY
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/991.ts
-#EXTINF:-1,CARTOON NETWORK
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/992.ts
-#EXTINF:-1,CANAL PANDA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/993.ts
-#EXTINF:-1,CANAL HISTÓRIA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/994.ts
-#EXTINF:-1,CACA E PESCA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/995.ts
-#EXTINF:-1,CAÇAVISION
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/996.ts
-#EXTINF:-1,Bloomberg
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/997.ts
-#EXTINF:-1,BABY TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/998.ts
-#EXTINF:-1,AXN WHITE HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/999.ts
-#EXTINF:-1,AXN HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1000.ts
-#EXTINF:-1,AXN BLACK HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1001.ts
-#EXTINF:-1,BLAZE
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1035.ts
-#EXTINF:-1,AMC HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1002.ts
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/207
+#EXTINF:-1,AFRO MUSIC
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/205
 #EXTINF:-1,AMC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1003.ts
-#EXTINF:-1,24 KITCHEN HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1004.ts
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/256
+#EXTINF:-1,AXN Black
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/204
+#EXTINF:-1,AXN BLACK HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/160
+#EXTINF:-1,AXN HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/203
+#EXTINF:-1,AXN WHITE HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/202
+#EXTINF:-1,BABY TV
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/255
+#EXTINF:-1,BBC WORLD NEWS
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/164
+#EXTINF:-1,BENIFICA TV1
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/201
+#EXTINF:-1,BENIFICA TV1HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/200
+#EXTINF:-1,BIGGS
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/254
+#EXTINF:-1,BLAZE
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/206
+#EXTINF:-1,BTV 1
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/163
+#EXTINF:-1,CAZA Y PESCA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/199
+#EXTINF:-1,CANAL HISTORIA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/253
+#EXTINF:-1,CANAL PANDA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/252
+#EXTINF:-1,CANAL Q
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/251
+#EXTINF:-1,CASAVISION
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/249
+#EXTINF:-1,CBS REALITY
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/248
+#EXTINF:-1,CINEMUNDO
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/247
+#EXTINF:-1,CM TV
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/198
+#EXTINF:-1,DISCOVERY
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/197
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/168
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/246
+#EXTINF:-1,DISNEY JUNIOR
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/245
+#EXTINF:-1,E!
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/196
+#EXTINF:-1,EUROSPORT 1
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/244
+#EXTINF:-1,EUROSPORT 1HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/154
+#EXTINF:-1,EUROSPORT 2
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/243
+#EXTINF:-1,EUROSPORT NEWS
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/153
+#EXTINF:-1,FOOD NETWORK
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/242
+#EXTINF:-1,FOX COMEDY
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/167
+#EXTINF:-1,FOX CRIME HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/195
+#EXTINF:-1,FOX HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/194
+#EXTINF:-1,FOX LIFE HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/241
+#EXTINF:-1,FOX MOVIES
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/240
+#EXTINF:-1,FOXCRIME HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/158
+#EXTINF:-1,FUEL TV
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/239
+#EXTINF:-1,GLOBO NOW
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/157
+#EXTINF:-1,GLOBO PREM
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/193
+#EXTINF:-1,HOLLYWOOD HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/238
+#EXTINF:-1,JIM JAM
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/237
+#EXTINF:-1,KOMBAT SPORT
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/236
+#EXTINF:-1,MCS Lifestyle
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/235
+#EXTINF:-1,MOTORSPORT TV
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/234
+#EXTINF:-1,MOTORVISION
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/233
+#EXTINF:-1,MTV
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/191
+#EXTINF:-1,NAT GEO HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/192
+#EXTINF:-1,NAT GEO WILD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/190
+#EXTINF:-1,NBA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/232
+#EXTINF:-1,NICKELODEON
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/231
+#EXTINF:-1,ODISSEIA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/189
+#EXTINF:-1,PFC
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/188
+#EXTINF:-1,PORTO CANAL
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/230
+#EXTINF:-1,RECORD NEWS
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/259
+#EXTINF:-1,RTP 1
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/170
+#EXTINF:-1,RTP 2
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/169
+#EXTINF:-1,RTP 2 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/152
+#EXTINF:-1,RTP ACORES
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/229
+#EXTINF:-1,RTP AFRICA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/258
+#EXTINF:-1,RTP MADEIRA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/161
+#EXTINF:-1,RTP MEMORIA
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/228
+#EXTINF:-1,RTP1 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/187
+#EXTINF:-1,RTP3
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/186
+#EXTINF:-1,SIC
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/185
+#EXTINF:-1,SIC CARAS HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/184
+#EXTINF:-1,SIC HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/227
+#EXTINF:-1,SIC K
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/183
+#EXTINF:-1,SIC MULHER HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/226
+#EXTINF:-1,SIC NOTICIAS
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/225
+#EXTINF:-1,SIC RADICAL
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/224
+#EXTINF:-1,SPORT TV+ FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/181
+#EXTINF:-1,SPORT TV1 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/182
+#EXTINF:-1,SPORT TV1 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/223
+#EXTINF:-1,SPORT TV2 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/180
+#EXTINF:-1,SPORT TV2 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/222
+#EXTINF:-1,SPORT TV3 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/179
+#EXTINF:-1,SPORT TV3 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/221
+#EXTINF:-1,SPORT TV4 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/178
+#EXTINF:-1,SPORT TV4 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/220
+#EXTINF:-1,SPORT TV5 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/219
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541369
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541368
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541367
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541366
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541365
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541364
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541363
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541362
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/575541361
+#EXTINF:-1,SPORTING TV
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/177
+#EXTINF:-1,SYFY
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/218
+#EXTINF:-1,SYFY HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/156
+#EXTINF:-1,TLC
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/176
+#EXTINF:-1,TOROS
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/217
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/216
+#EXTINF:-1,TV GLOBO
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/215
+#EXTINF:-1,TV RECORD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/214
+#EXTINF:-1,TV SERIE HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/155
+#EXTINF:-1,TV SERIES
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/213
+#EXTINF:-1,TVCINE 1 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/175
+#EXTINF:-1,TVCINE 2 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/174
+#EXTINF:-1,TVCINE 3 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/173
+#EXTINF:-1,TVCINE 4 HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/172
+#EXTINF:-1,TVI
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/171
+#EXTINF:-1,TVI FICCAO
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/212
+#EXTINF:-1,TVI HD
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/211
+#EXTINF:-1,TVI REALITY
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/210
+#EXTINF:-1,TVI24
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/209
+#EXTINF:-1,MCS LIFE STYLE
+http://tv.sigma-iptv.net:7000/lestulupes/icceTgfhaB/208
