@@ -1,85 +1,561 @@
 #EXTM3U
-#EXTINF:-1,ABC HD
-http://aaa-vvv.com:2095/25112018/25112019/6720
-#EXTINF:-1,Bravo
-http://aaa-vvv.com:2095/25112018/25112019/6674
-#EXTINF:-1,Cartoon Network
-http://aaa-vvv.com:2095/25112018/25112019/6697
-#EXTINF:-1,CBC Toronto
-http://aaa-vvv.com:2095/25112018/25112019/6677
-#EXTINF:-1,CHCH HD
-http://aaa-vvv.com:2095/25112018/25112019/6678
-#EXTINF:-1,City TV
-http://aaa-vvv.com:2095/25112018/25112019/6679
-#EXTINF:-1,Cottage Life
-http://aaa-vvv.com:2095/25112018/25112019/6681
-#EXTINF:-1,Country Music Television
-http://aaa-vvv.com:2095/25112018/25112019/6682
-#EXTINF:-1,CP 24 HD News
-http://aaa-vvv.com:2095/25112018/25112019/6676
-#EXTINF:-1,CTV Toronto
-http://aaa-vvv.com:2095/25112018/25112019/6683
-#EXTINF:-1,E! HD
-http://aaa-vvv.com:2095/25112018/25112019/6685
-#EXTINF:-1,Fox 25
-http://aaa-vvv.com:2095/25112018/25112019/6686
-#EXTINF:-1,Fox News
-http://aaa-vvv.com:2095/25112018/25112019/6687
-#EXTINF:-1,FXX HD
-http://aaa-vvv.com:2095/25112018/25112019/6688
-#EXTINF:-1,Golf Channel
-http://aaa-vvv.com:2095/25112018/25112019/6690
-#EXTINF:-1,Telemax
-http://aaa-vvv.com:2095/25112018/25112019/6691
-#EXTINF:-1,HBO 2 Canada
-http://aaa-vvv.com:2095/25112018/25112019/6721
-#EXTINF:-1,HBO Canada
-http://aaa-vvv.com:2095/25112018/25112019/6722
-#EXTINF:-1,History
-http://aaa-vvv.com:2095/25112018/25112019/6692
-#EXTINF:-1,MTV 2 Canada
-http://aaa-vvv.com:2095/25112018/25112019/6694
-#EXTINF:-1,MTV Canada
-http://aaa-vvv.com:2095/25112018/25112019/6695
-#EXTINF:-1,NBA TV
-http://aaa-vvv.com:2095/25112018/25112019/6723
-#EXTINF:-1,Nick
-http://aaa-vvv.com:2095/25112018/25112019/6698
-#EXTINF:-1,omni 1
-http://aaa-vvv.com:2095/25112018/25112019/6699
-#EXTINF:-1,omni 2
-http://aaa-vvv.com:2095/25112018/25112019/6700
-#EXTINF:-1,RDS2 TV
-http://aaa-vvv.com:2095/25112018/25112019/6703
-#EXTINF:-1,Silver Screen Classics
-http://aaa-vvv.com:2095/25112018/25112019/6704
-#EXTINF:-1,Slice
-http://aaa-vvv.com:2095/25112018/25112019/6705
-#EXTINF:-1,Spike HD
-http://aaa-vvv.com:2095/25112018/25112019/6706
-#EXTINF:-1,Sportnet Ontario HD
-http://aaa-vvv.com:2095/25112018/25112019/6709
-#EXTINF:-1,Sportnet Pacific HD
-http://aaa-vvv.com:2095/25112018/25112019/6724
-#EXTINF:-1,SportsNet 360
-http://aaa-vvv.com:2095/25112018/25112019/6708
-#EXTINF:-1,SportsNet East
-http://aaa-vvv.com:2095/25112018/25112019/6707
-#EXTINF:-1,Sportsnet One HD
-http://aaa-vvv.com:2095/25112018/25112019/6710
-#EXTINF:-1,Sportsnet World HD
-http://aaa-vvv.com:2095/25112018/25112019/6712
-#EXTINF:-1,Teletoon HD
-http://aaa-vvv.com:2095/25112018/25112019/6713
-#EXTINF:-1,TMN ACTION TV
-http://aaa-vvv.com:2095/25112018/25112019/6714
-#EXTINF:-1,Travel Channel HD
-http://aaa-vvv.com:2095/25112018/25112019/6715
-#EXTINF:-1,Treehouse
-http://aaa-vvv.com:2095/25112018/25112019/6716
-#EXTINF:-1,YTV HD
-http://aaa-vvv.com:2095/25112018/25112019/6719
-#EXTINF:-1,V Montreal
-http://aaa-vvv.com:2095/25112018/25112019/6696
-#EXTINF:-1,World Fishing TV
-http://aaa-vvv.com:2095/25112018/25112019/6718
+#EXTINF:0,ZTELE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/349
+#EXTINF:0,ZESTE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/350
+#EXTINF:0,YTV West
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/351
+#EXTINF:0,YTV E
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/352
+#EXTINF:0,YOOPA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/353
+#EXTINF:0,YES TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/354
+#EXTINF:0,WWE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/355
+#EXTINF:0,WSBK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/356
+#EXTINF:0,WORLD FISHING NET
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/357
+#EXTINF:0,Wild TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/358
+#EXTINF:0,WFN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/359
+#EXTINF:0,W NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/360
+#EXTINF:0,VTELE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/361
+#EXTINF:0,VRAK TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/362
+#EXTINF:0,VISION
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/363
+#EXTINF:0,UNIS TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/364
+#EXTINF:0,TVO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/365
+#EXTINF:0,TVA SPORTS HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
+#EXTINF:0,TVA SPORTS 1 HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/367
+#EXTINF:0,TVA GATINEAU
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/368
+#EXTINF:0,TV5 QUEBEC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/369
+#EXTINF:0,TSN 5HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/370
+#EXTINF:0,TSN 4HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/371
+#EXTINF:0,TSN 1HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/372
+#EXTINF:0,TSN  3HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/373
+#EXTINF:0,TREEHOUSE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/374
+#EXTINF:0,TREEHOUSE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/375
+#EXTINF:0,TRAVEL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/376
+#EXTINF:0,TMN 4
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/377
+#EXTINF:0,TMN 3
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/378
+#EXTINF:0,TMN 2
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/379
+#EXTINF:0,TMN 1
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/380
+#EXTINF:0,TLC HD CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/381
+#EXTINF:0,THE WEATHER NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/382
+#EXTINF:0,THE WEATHER CHANNEL HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/383
+#EXTINF:0,TFO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/384
+#EXTINF:0,TELETOON
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/385
+#EXTINF:0,TELEMAGINO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/386
+#EXTINF:0,TELE TOON WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/387
+#EXTINF:0,TELE TOON FRENCH
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/388
+#EXTINF:0,TELE TOON EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/389
+#EXTINF:0,TELE TOON
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/390
+#EXTINF:0,TELE QUEBEC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/391
+#EXTINF:0,TELE LATINO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/392
+#EXTINF:0,TCM
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/393
+#EXTINF:0,SUPER ECRAN 4
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/394
+#EXTINF:0,SUPER ECRAN 3
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/395
+#EXTINF:0,SUPER ECRAN 2
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/396
+#EXTINF:0,SUPER ECRAN 1
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/397
+#EXTINF:0,SUPER CHANNEL VAULT
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/398
+#EXTINF:0,SUPER CHANNEL HEART & HOME
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/399
+#EXTINF:0,SUPER CHANNEL FUSE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/400
+#EXTINF:0,SUPER CHANNEL 2
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/401
+#EXTINF:0,SPORTSNET WORLD HD.
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/402
+#EXTINF:0,SPORTSNET WORLD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/403
+#EXTINF:0,SPORTSNET WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/404
+#EXTINF:0,SPORTSNET PACIFIC HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/405
+#EXTINF:0,SPORTSNET PACIFIC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/406
+#EXTINF:0,SPORTSNET ONTARIO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/407
+#EXTINF:0,SPORTSNET ONE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/408
+#EXTINF:0,SPORTSNET ONE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/409
+#EXTINF:0,SPORTSNET EAST HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/410
+#EXTINF:0,SPORTSNET EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/411
+#EXTINF:0,SPORTSNET 360 HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/412
+#EXTINF:0,SPORTSNET 360
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/413
+#EXTINF:0,SPORTSMAN CHANNEL CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/414
+#EXTINF:0,SPORTS NET WORLD HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/415
+#EXTINF:0,SPORTS NET PACIFIC HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/416
+#EXTINF:0,SPORTS NET ONTARIO HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/417
+#EXTINF:0,SPORTS NET ONE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/418
+#EXTINF:0,SPORTS NET EAST HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/419
+#EXTINF:0,SPORTNET ONTARIO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/420
+#EXTINF:0,SPORTNET ONE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/421
+#EXTINF:0,SPORTNET 360
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/422
+#EXTINF:0,SPIKE TV / PARAMOUNT CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/423
+#EXTINF:0,SPIKE TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/424
+#EXTINF:0,SPACE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/425
+#EXTINF:0,SPACE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/426
+#EXTINF:0,SMITHSONIAN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/427
+#EXTINF:0,SLICE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/428
+#EXTINF:0,SLICE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/429
+#EXTINF:0,SILVER SCREEN CLASSICS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/430
+#EXTINF:0,SHOWCASE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/431
+#EXTINF:0,SHOWCASE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/432
+#EXTINF:0,SHOPPING
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/433
+#EXTINF:0,SERIES
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/434
+#EXTINF:0,RT AMERICA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/435
+#EXTINF:0,RDS INFO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/436
+#EXTINF:0,RDS 2
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/437
+#EXTINF:0,RDS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/438
+#EXTINF:0,RDI
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/439
+#EXTINF:0,PRISE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/440
+#EXTINF:0,PORTSNET WEST HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/441
+#EXTINF:0,PEACH TREE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/442
+#EXTINF:0,PBS WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/443
+#EXTINF:0,PBS EAST HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/444
+#EXTINF:0,OWN HD (OPRAH WINFRY NETWORK)
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/445
+#EXTINF:0,OWN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/446
+#EXTINF:0,OWN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/447
+#EXTINF:0,OUTTV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/448
+#EXTINF:0,ONE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/449
+#EXTINF:0,OMNI EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/450
+#EXTINF:0,OMNI BC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/451
+#EXTINF:0,OMNI 2
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/452
+#EXTINF:0,Omni 1 HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/453
+#EXTINF:0,OLN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/454
+#EXTINF:0,OLN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/455
+#EXTINF:0,NTV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/456
+#EXTINF:0,NICK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/457
+#EXTINF:0,NFL NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/458
+#EXTINF:0,NBC WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/459
+#EXTINF:0,NBC EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/460
+#EXTINF:0,NBA TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/461
+#EXTINF:0,NAT GEO WILD HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/462
+#EXTINF:0,NAT GEO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/463
+#EXTINF:0,MUCH
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/466
+#EXTINF:0,MTIME
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/469
+#EXTINF:0,MSNBC HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/470
+#EXTINF:0,MSNBC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/471
+#EXTINF:0,MONTREAL  3 / TVA WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/472
+#EXTINF:0,MOI  CIE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/473
+#EXTINF:0,MLB NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/474
+#EXTINF:0,MIRACLE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/475
+#EXTINF:0,METEO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/476
+#EXTINF:0,MEDIASET ITALIA CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/477
+#EXTINF:0,MAX
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/478
+#EXTINF:0,MAVTV CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/479
+#EXTINF:0,MAKEFUL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/480
+#EXTINF:0,LIFETIME
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/481
+#EXTINF:0,LCN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/482
+#EXTINF:0,LCN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/483
+#EXTINF:0,KTLA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/484
+#EXTINF:0,KNOWLEDGE KIDS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/485
+#EXTINF:0,JOY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/486
+#EXTINF:0,IFC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/487
+#EXTINF:0,ID HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/488
+#EXTINF:0,ID CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/489
+#EXTINF:0,ICI VANCOUVER
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/490
+#EXTINF:0,ICI MONTREAL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/491
+#EXTINF:0,HOPE TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/492
+#EXTINF:0,HLN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/493
+#EXTINF:0,HISTORY HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/494
+#EXTINF:0,HISTORIA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/495
+#EXTINF:0,HGTV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/496
+#EXTINF:0,HBO EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/497
+#EXTINF:0,HBO 2
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/498
+#EXTINF:0,HBO 1
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/499
+#EXTINF:0,H2 CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/500
+#EXTINF:0,GUSTO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/501
+#EXTINF:0,GSN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/502
+#EXTINF:0,GLOBAL GALAGARY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/503
+#EXTINF:0,GLOBAL TORONTO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/504
+#EXTINF:0,GLOBAL HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/505
+#EXTINF:0,GLOBAL HALIFAX
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/506
+#EXTINF:0,GLOBAL EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/507
+#EXTINF:0,GLOBAL CALGARY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/508
+#EXTINF:0,GINX ESPORTS TV CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/509
+#EXTINF:0,Game TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/510
+#EXTINF:0,FYI
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/511
+#EXTINF:0,FXX HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/512
+#EXTINF:0,FTV CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/513
+#EXTINF:0,FRISSON
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/514
+#EXTINF:0,FOX WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/515
+#EXTINF:0,FOX NEWS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/516
+#EXTINF:0,FOX HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/517
+#EXTINF:0,FOX EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/518
+#EXTINF:0,Food Network HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/519
+#EXTINF:0,FOOD NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/520
+#EXTINF:0,FIGHT NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/521
+#EXTINF:0,FAMILY WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/522
+#EXTINF:0,FAMILY JR
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/523
+#EXTINF:0,FAMILY EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/524
+#EXTINF:0,FAMILY CHRGD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/525
+#EXTINF:0,EVASION
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/526
+#EXTINF:0,ENCORE 2 EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/527
+#EXTINF:0,ENCORE 1 EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/528
+#EXTINF:0,E! CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/529
+#EXTINF:0,DTOUR
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/530
+#EXTINF:0,DOCUMENTARY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/531
+#EXTINF:0,DIY NETWORK HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/532
+#EXTINF:0,DIY NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/533
+#EXTINF:0,DISNEY JR HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/534
+#EXTINF:0,DISNEY JR
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/535
+#EXTINF:0,DISNEY FRENCH
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/536
+#EXTINF:0,DISNEY CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/537
+#EXTINF:0,DISCOVERY SCIENCE CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/538
+#EXTINF:0,DISCOVERY CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/539
+#EXTINF:0,DEJAVIEW
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/540
+#EXTINF:0,DAYSTAR TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/541
+#EXTINF:0,CW 11 HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/542
+#EXTINF:0,CTV2 OTTAWA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/543
+#EXTINF:0,CTV VANCOUVER
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/544
+#EXTINF:0,CTV TORONTO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/545
+#EXTINF:0,CTV OTTAWA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/546
+#EXTINF:0,CTV NEWS NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/547
+#EXTINF:0,CTV NEWS HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/548
+#EXTINF:0,CTV Montreal HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/549
+#EXTINF:0,CTV MONTREAL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/550
+#EXTINF:0,CTV HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/551
+#EXTINF:0,CTV HALIFAX
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/552
+#EXTINF:0,CTV EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/553
+#EXTINF:0,CTV CALGARY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/554
+#EXTINF:0,CTV BARRIE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/555
+#EXTINF:0,CTV 2 VANCOUVER
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/556
+#EXTINF:0,CRIME   INVEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/557
+#EXTINF:0,CREATE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/558
+#EXTINF:0,CPAC FRENCH
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/559
+#EXTINF:0,CPAC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/560
+#EXTINF:0,CP24. HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/561
+#EXTINF:0,CP24 HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/562
+#EXTINF:0,CP 24 HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/563
+#EXTINF:0,Cottage Life HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/564
+#EXTINF:0,COTTAGE LIFE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/565
+#EXTINF:0,COSMO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/566
+#EXTINF:0,COOKING CHANNEL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/567
+#EXTINF:0,COMEDY WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/568
+#EXTINF:0,COMEDY HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/569
+#EXTINF:0,COMEDY GOLD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/570
+#EXTINF:0,COMEDY EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/571
+#EXTINF:0,CNN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/572
+#EXTINF:0,CNN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/573
+#EXTINF:0,CNBC HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/574
+#EXTINF:0,CMT CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/575
+#EXTINF:0,CITY WINNIPEG
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/576
+#EXTINF:0,City Vancouver HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/577
+#EXTINF:0,CITY VANCOUVER
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/578
+#EXTINF:0,City Toronto HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/579
+#EXTINF:0,CITY TORONTO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/580
+#EXTINF:0,CITY SASKATCHEWAN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/581
+#EXTINF:0,CITY MONTREAL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/582
+#EXTINF:0,CITY CALGARY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/583
+#EXTINF:0,CINEPOP
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/584
+#EXTINF:0,CHCH HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/585
+#EXTINF:0,CHCH
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/586
+#EXTINF:0,CBS WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/587
+#EXTINF:0,CBS EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/588
+#EXTINF:0,CBC VANCOUVER
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/589
+#EXTINF:0,CBC Toronto HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/590
+#EXTINF:0,CBC TORONTO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/591
+#EXTINF:0,CBC OTTAWA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/592
+#EXTINF:0,CBC NOVA SCOTIA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/593
+#EXTINF:0,CBC NEWS HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/594
+#EXTINF:0,CBC NEWS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/595
+#EXTINF:0,CBC Montreal HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/596
+#EXTINF:0,CBC MONTREAL
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/597
+#EXTINF:0,CBC CALGARY
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/598
+#EXTINF:0,CASA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/599
+#EXTINF:0,CARTOON NETWORK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/600
+#EXTINF:0,CANALSAVOIR
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/601
+#EXTINF:0,CANAL VIE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/602
+#EXTINF:0,CANAL SAVOIR
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/603
+#EXTINF:0,CANAL D HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/604
+#EXTINF:0,BRAVO
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/605
+#EXTINF:0,BOOK TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/606
+#EXTINF:0,BNN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/607
+#EXTINF:0,BNN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/608
+#EXTINF:0,BET
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/609
+#EXTINF:0,BBC WORLD NEWS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/610
+#EXTINF:0,BBC KIDS
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/611
+#EXTINF:0,BBC CANADA
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/612
+#EXTINF:0,ASSEMBLEE NATIONALE
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/613
+#EXTINF:0,ARTV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/614
+#EXTINF:0,APTN HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/615
+#EXTINF:0,Animal Planet HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/616
+#EXTINF:0,ANIMAL PLANET
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/617
+#EXTINF:0,AMC HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/618
+#EXTINF:0,AMC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/619
+#EXTINF:0,AHC
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/620
+#EXTINF:0,AE HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/621
+#EXTINF:0,ADDIK TV
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/622
+#EXTINF:0,ACTION
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/623
+#EXTINF:0,ABC WEST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/624
+#EXTINF:0,ABC SPARK HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/625
+#EXTINF:0,ABC SPARK
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/626
+#EXTINF:0,ABC HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/627
+#EXTINF:0,ABC EAST
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/628
+#EXTINF:0,A E
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/629
+#EXTINF:0, FAMILY HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/630
+#EXTINF:0, Discovery HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/631
+#EXTINF:0, BRAVO HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/632
