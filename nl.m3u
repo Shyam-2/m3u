@@ -1,195 +1,133 @@
 #EXTM3U
-#EXTINF:-1,ZIGGO SPORT Voetbal HD
-http://bigiptv.ovh:8000/Salwa/Salwa/820
-#EXTINF:-1,Ziggo Sport Select HD
-http://bigiptv.ovh:8000/Salwa/Salwa/821
-#EXTINF:-1,Ziggo Sport Racing HD
-http://bigiptv.ovh:8000/Salwa/Salwa/822
-#EXTINF:-1,Ziggo Sport HD
-http://bigiptv.ovh:8000/Salwa/Salwa/823
-#EXTINF:-1,ZIGGO SPORT Golf HD
-http://bigiptv.ovh:8000/Salwa/Salwa/824
-#EXTINF:-1,Ziggo Sport Extra HD
-http://bigiptv.ovh:8000/Salwa/Salwa/825
-#EXTINF:-1,Ziggo Sport Docu HD
-http://bigiptv.ovh:8000/Salwa/Salwa/826
-#EXTINF:-1,Xite
-http://bigiptv.ovh:8000/Salwa/Salwa/827
-#EXTINF:-1,Viceland HD
-http://bigiptv.ovh:8000/Salwa/Salwa/828
-#EXTINF:-1,VH1 Classic
-http://bigiptv.ovh:8000/Salwa/Salwa/829
-#EXTINF:-1,Veronica/DisneyXD HD
-http://bigiptv.ovh:8000/Salwa/Salwa/830
-#EXTINF:-1,TV West
-http://bigiptv.ovh:8000/Salwa/Salwa/831
-#EXTINF:-1,TV Rijnmond
-http://bigiptv.ovh:8000/Salwa/Salwa/832
-#EXTINF:-1,TV Oranje
-http://bigiptv.ovh:8000/Salwa/Salwa/833
-#EXTINF:-1,TV Oost
-http://bigiptv.ovh:8000/Salwa/Salwa/834
-#EXTINF:-1,TV Noord
-http://bigiptv.ovh:8000/Salwa/Salwa/835
-#EXTINF:-1,TV Gelderland
-http://bigiptv.ovh:8000/Salwa/Salwa/836
-#EXTINF:-1,TV Drenthe
-http://bigiptv.ovh:8000/Salwa/Salwa/837
+#EXTINF:-1,NPO 1
+http://omega.ws:8080/eeeee/eeeee/1019
+#EXTINF:-1,NPO 2
+http://omega.ws:8080/eeeee/eeeee/1018
+#EXTINF:-1,NPO 3
+http://omega.ws:8080/eeeee/eeeee/1017
+#EXTINF:-1,RTL 4
+http://omega.ws:8080/eeeee/eeeee/1016
+#EXTINF:-1,RTL 5
+http://omega.ws:8080/eeeee/eeeee/1015
+#EXTINF:-1,RTL 7
+http://omega.ws:8080/eeeee/eeeee/1013
+#EXTINF:-1,RTL 8
+http://omega.ws:8080/eeeee/eeeee/1012
+#EXTINF:-1,Veronica XD
+http://omega.ws:8080/eeeee/eeeee/1010
+#EXTINF:-1,NET5
+http://omega.ws:8080/eeeee/eeeee/1006
+#EXTINF:-1,SBS 6
+http://omega.ws:8080/eeeee/eeeee/1014
+#EXTINF:-1,SBS 9
+http://omega.ws:8080/eeeee/eeeee/1011
+#EXTINF:-1,FOX
+http://omega.ws:8080/eeeee/eeeee/997
+#EXTINF:-1,RTLZ
+http://omega.ws:8080/eeeee/eeeee/1002
+#EXTINF:-1,NPO 101
+http://omega.ws:8080/eeeee/eeeee/1009
 #EXTINF:-1,TLC HD
-http://bigiptv.ovh:8000/Salwa/Salwa/838
-#EXTINF:-1,Spike
-http://bigiptv.ovh:8000/Salwa/Salwa/839
-#EXTINF:-1,SLAM!
-http://bigiptv.ovh:8000/Salwa/Salwa/840
-#EXTINF:-1,SBS 9 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/841
-#EXTINF:-1,SBS 6 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/842
-#EXTINF:-1,RTV Utrecht
-http://bigiptv.ovh:8000/Salwa/Salwa/843
-#EXTINF:-1,RTV 7
-http://bigiptv.ovh:8000/Salwa/Salwa/844
-#EXTINF:-1,RTL Z
-http://bigiptv.ovh:8000/Salwa/Salwa/845
-#EXTINF:-1,RTL telekids HD
-http://bigiptv.ovh:8000/Salwa/Salwa/846
-#EXTINF:-1,RTL Lounge HD
-http://bigiptv.ovh:8000/Salwa/Salwa/847
-#EXTINF:-1,RTL Crime HD
-http://bigiptv.ovh:8000/Salwa/Salwa/848
-#EXTINF:-1,RTL 8 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/849
-#EXTINF:-1,RTL 7 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/850
-#EXTINF:-1,RTL 5 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/851
-#EXTINF:-1,RTL 4 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/852
-#EXTINF:-1,Pebble
-http://bigiptv.ovh:8000/Salwa/Salwa/853
-#EXTINF:-1,ONS
-http://bigiptv.ovh:8000/Salwa/Salwa/854
-#EXTINF:-1,Omroep Zeeland
-http://bigiptv.ovh:8000/Salwa/Salwa/855
-#EXTINF:-1,Omroep Friesland
-http://bigiptv.ovh:8000/Salwa/Salwa/856
-#EXTINF:-1,Omroep Flevoland
-http://bigiptv.ovh:8000/Salwa/Salwa/857
-#EXTINF:-1,Omroep Brabant
-http://bigiptv.ovh:8000/Salwa/Salwa/858
-#EXTINF:-1,NPO Zap Extra
-http://bigiptv.ovh:8000/Salwa/Salwa/859
-#EXTINF:-1,NPO Politiek
-http://bigiptv.ovh:8000/Salwa/Salwa/860
-#EXTINF:-1,NPO Nieuws
-http://bigiptv.ovh:8000/Salwa/Salwa/861
-#EXTINF:-1,NPO 3 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/862
-#EXTINF:-1,NPO 2 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/863
-#EXTINF:-1,NPO 1 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/864
-#EXTINF:-1,Nickelodeon
-http://bigiptv.ovh:8000/Salwa/Salwa/865
-#EXTINF:-1,Nick toons
-http://bigiptv.ovh:8000/Salwa/Salwa/866
-#EXTINF:-1,Nick Music
-http://bigiptv.ovh:8000/Salwa/Salwa/867
-#EXTINF:-1,Nick Jr.
-http://bigiptv.ovh:8000/Salwa/Salwa/868
-#EXTINF:-1,Net 5 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/869
-#EXTINF:-1,National Geographic HD
-http://bigiptv.ovh:8000/Salwa/Salwa/870
-#EXTINF:-1,Nat Geo Wild HD
-http://bigiptv.ovh:8000/Salwa/Salwa/871
-#EXTINF:-1,MTV Music 24
-http://bigiptv.ovh:8000/Salwa/Salwa/872
-#EXTINF:-1,MTV HD
-http://bigiptv.ovh:8000/Salwa/Salwa/873
-#EXTINF:-1,MTV Brand New
-http://bigiptv.ovh:8000/Salwa/Salwa/874
-#EXTINF:-1,MEZZO
-http://bigiptv.ovh:8000/Salwa/Salwa/875
-#EXTINF:-1,Ketnet
-http://bigiptv.ovh:8000/Salwa/Salwa/876
-#EXTINF:-1,ID HD
-http://bigiptv.ovh:8000/Salwa/Salwa/877
-#EXTINF:-1,Horse & Country TV HD
-http://bigiptv.ovh:8000/Salwa/Salwa/878
-#EXTINF:-1,History HD
-http://bigiptv.ovh:8000/Salwa/Salwa/879
-#EXTINF:-1,FOX Sports 6 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/880
-#EXTINF:-1,FOX Sports 5 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/881
-#EXTINF:-1,FOX Sports 4 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/882
-#EXTINF:-1,FOX Sports 3 HD Eredivisie
-http://bigiptv.ovh:8000/Salwa/Salwa/883
-#EXTINF:-1,FOX Sports 2 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/884
-#EXTINF:-1,FOX Sports 1 HD Eredivisie
-http://bigiptv.ovh:8000/Salwa/Salwa/885
-#EXTINF:-1,FOX HD
-http://bigiptv.ovh:8000/Salwa/Salwa/886
-#EXTINF:-1,Film 1 Premiere HD
-http://bigiptv.ovh:8000/Salwa/Salwa/887
-#EXTINF:-1,Film 1 Family HD
-http://bigiptv.ovh:8000/Salwa/Salwa/888
-#EXTINF:-1,Film 1 Drama HD
-http://bigiptv.ovh:8000/Salwa/Salwa/889
-#EXTINF:-1,Film 1 Action HD
-http://bigiptv.ovh:8000/Salwa/Salwa/890
-#EXTINF:-1,Family 7
-http://bigiptv.ovh:8000/Salwa/Salwa/891
-#EXTINF:-1,Extreme Sports Channel
-http://bigiptv.ovh:8000/Salwa/Salwa/892
-#EXTINF:-1,Eurosport 2 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/893
-#EXTINF:-1,Eurosport 1 HD
-http://bigiptv.ovh:8000/Salwa/Salwa/894
-#EXTINF:-1,Een HD
-http://bigiptv.ovh:8000/Salwa/Salwa/895
-#EXTINF:-1,E! Entertainment HD
-http://bigiptv.ovh:8000/Salwa/Salwa/896
-#EXTINF:-1,Djazz tv
-http://bigiptv.ovh:8000/Salwa/Salwa/897
-#EXTINF:-1,Disney Channel HD
-http://bigiptv.ovh:8000/Salwa/Salwa/898
-#EXTINF:-1,Discovery World
-http://bigiptv.ovh:8000/Salwa/Salwa/899
-#EXTINF:-1,Discovery Science HD
-http://bigiptv.ovh:8000/Salwa/Salwa/900
-#EXTINF:-1,Discovery Channel HD
-http://bigiptv.ovh:8000/Salwa/Salwa/901
-#EXTINF:-1,Den Haag TV
-http://bigiptv.ovh:8000/Salwa/Salwa/902
-#EXTINF:-1,Dance Trippin
-http://bigiptv.ovh:8000/Salwa/Salwa/903
-#EXTINF:-1,Comedy Central Extra
-http://bigiptv.ovh:8000/Salwa/Salwa/904
+http://omega.ws:8080/eeeee/eeeee/1001
 #EXTINF:-1,Comedy Central
-http://bigiptv.ovh:8000/Salwa/Salwa/905
-#EXTINF:-1,CI
-http://bigiptv.ovh:8000/Salwa/Salwa/906
-#EXTINF:-1,Canvas HD
-http://bigiptv.ovh:8000/Salwa/Salwa/908
-#EXTINF:-1,Brava
-http://bigiptv.ovh:8000/Salwa/Salwa/909
-#EXTINF:-1,Boomerang
-http://bigiptv.ovh:8000/Salwa/Salwa/910
-#EXTINF:-1,BBC First HD
-http://bigiptv.ovh:8000/Salwa/Salwa/911
+http://omega.ws:8080/eeeee/eeeee/989
+#EXTINF:-1,Comedy Central Extra
+http://omega.ws:8080/eeeee/eeeee/990
+#EXTINF:-1,DISNEY CHANNEL
+http://omega.ws:8080/eeeee/eeeee/959
+#EXTINF:-1,DISNEY JUNIOR
+http://omega.ws:8080/eeeee/eeeee/955
+#EXTINF:-1,BOOMERANG
+http://omega.ws:8080/eeeee/eeeee/957
 #EXTINF:-1,Baby TV
-http://bigiptv.ovh:8000/Salwa/Salwa/912
+http://omega.ws:8080/eeeee/eeeee/958
+#EXTINF:-1,NICK JR
+http://omega.ws:8080/eeeee/eeeee/953
+#EXTINF:-1,NICK TOONS
+http://omega.ws:8080/eeeee/eeeee/952
+#EXTINF:-1,NICKELODEON
+http://omega.ws:8080/eeeee/eeeee/951
+#EXTINF:-1,NL :  Nat Geo Wild
+http://omega.ws:8080/eeeee/eeeee/963
+#EXTINF:-1,National Geographic
+http://omega.ws:8080/eeeee/eeeee/962
+#EXTINF:-1,DISCOVERY
+http://omega.ws:8080/eeeee/eeeee/968
+#EXTINF:-1,Discovery Showcase
+http://omega.ws:8080/eeeee/eeeee/967
+#EXTINF:-1,Investigation Discovery
+http://omega.ws:8080/eeeee/eeeee/964
+#EXTINF:-1,Animal Planet
+http://omega.ws:8080/eeeee/eeeee/960
+#EXTINF:-1,Crime Investigation
+http://omega.ws:8080/eeeee/eeeee/970
+#EXTINF:-1,History Channel HD
+http://omega.ws:8080/eeeee/eeeee/965
+#EXTINF:-1,24 KITCHEN
+http://omega.ws:8080/eeeee/eeeee/961
+#EXTINF:-1,Food Network
+http://omega.ws:8080/eeeee/eeeee/966
+#EXTINF:-1,Film 1 Action
+http://omega.ws:8080/eeeee/eeeee/995
+#EXTINF:-1,Film 1 Premiere
+http://omega.ws:8080/eeeee/eeeee/996
+#EXTINF:-1,Film1 Family
+http://omega.ws:8080/eeeee/eeeee/993
+#EXTINF:-1,Film1 SUNDANCE
+http://omega.ws:8080/eeeee/eeeee/994
+#EXTINF:-1,HBO 1
+http://omega.ws:8080/eeeee/eeeee/1000
+#EXTINF:-1,HBO 2
+http://omega.ws:8080/eeeee/eeeee/999
+#EXTINF:-1,HBO3
+http://omega.ws:8080/eeeee/eeeee/998
+#EXTINF:-1,ONS
+http://omega.ws:8080/eeeee/eeeee/1005
+#EXTINF:-1,RTL Crime
+http://omega.ws:8080/eeeee/eeeee/1004
+#EXTINF:-1,RTL Lounge
+http://omega.ws:8080/eeeee/eeeee/1003
+#EXTINF:-1,RTL Telekids
+http://omega.ws:8080/eeeee/eeeee/950
+#EXTINF:-1,Travel XP
+http://omega.ws:8080/eeeee/eeeee/969
+#EXTINF:-1,TV ORANJE
+http://omega.ws:8080/eeeee/eeeee/1007
+#EXTINF:-1,NL: 13th Street
+http://omega.ws:8080/eeeee/eeeee/992
 #EXTINF:-1,AT5
-http://bigiptv.ovh:8000/Salwa/Salwa/913
-#EXTINF:-1,Animal Planet HD
-http://bigiptv.ovh:8000/Salwa/Salwa/914
-#EXTINF:-1,24 Kitchen HD
-http://bigiptv.ovh:8000/Salwa/Salwa/915
-#EXTINF:-1,192TV
-http://bigiptv.ovh:8000/Salwa/Salwa/916
-#EXTINF:-1,100% NL TV
-http://bigiptv.ovh:8000/Salwa/Salwa/917
+http://omega.ws:8080/eeeee/eeeee/991
+#EXTINF:-1,E! Entertainment
+http://omega.ws:8080/eeeee/eeeee/988
+#EXTINF:-1,Eurosport 1
+http://omega.ws:8080/eeeee/eeeee/980
+#EXTINF:-1,Eurosport 2
+http://omega.ws:8080/eeeee/eeeee/979
+#EXTINF:-1,Extreme Sports
+http://omega.ws:8080/eeeee/eeeee/978
+#EXTINF:-1,FoxSports HD 1
+http://omega.ws:8080/eeeee/eeeee/986
+#EXTINF:-1,FoxSports HD2
+http://omega.ws:8080/eeeee/eeeee/985
+#EXTINF:-1,FoxSports HD 3
+http://omega.ws:8080/eeeee/eeeee/984
+#EXTINF:-1,FoxSport HD 4
+http://omega.ws:8080/eeeee/eeeee/983
+#EXTINF:-1,FoxSports HD 5
+http://omega.ws:8080/eeeee/eeeee/982
+#EXTINF:-1,FoxSport HD 6
+http://omega.ws:8080/eeeee/eeeee/981
+#EXTINF:-1,SPORT1 RACING
+http://omega.ws:8080/eeeee/eeeee/971
+#EXTINF:-1,ZIGGO FUTBOL
+http://omega.ws:8080/eeeee/eeeee/973
+#EXTINF:-1,ZIGGO SPORT1
+http://omega.ws:8080/eeeee/eeeee/975
+#EXTINF:-1,ZIGGO SELECT
+http://omega.ws:8080/eeeee/eeeee/974
+#EXTINF:-1,Ziggo Sport Golf
+http://omega.ws:8080/eeeee/eeeee/972
+#EXTINF:-1,ZIGGO SPORT EXTRA 1
+http://omega.ws:8080/eeeee/eeeee/977
+#EXTINF:-1,Ziggo Sport extra 2
+http://omega.ws:8080/eeeee/eeeee/976
