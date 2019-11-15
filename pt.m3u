@@ -1,229 +1,69 @@
-#EXTM3U
-#EXTINF:0,SPORTING TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/233.ts
-#EXTINF:0,SPORT TV5 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/223.ts
-#EXTINF:0,SPORT TV4 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/221.ts
-#EXTINF:0,SPORT TV4
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/222.ts
-#EXTINF:0,SPORT TV3 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/219.ts
-#EXTINF:0,SPORT TV3
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/220.ts
-#EXTINF:0,SPORT TV2 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/217.ts
-#EXTINF:0,SPORT TV2 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/216.ts
-#EXTINF:0,SPORT TV2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/218.ts
-#EXTINF:0,SPORT TV1 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/214.ts
-#EXTINF:0,SPORT TV1 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/213.ts
-#EXTINF:0,SPORT TV1
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/215.ts
-#EXTINF:0,SPORT TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/212.ts
-#EXTINF:0,PFC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/235.ts
-#EXTINF:0,MOTORVISION
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/971.ts
-#EXTINF:0,KOMBATSPORT
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/236.ts
-#EXTINF:0,EUROSPORT2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/239.ts
-#EXTINF:0,EUROSPORT NEWS
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/237.ts
-#EXTINF:0,EUROSPORT 1HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/238.ts
-#EXTINF:0,ELEVEN SPORTS 6 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/230.ts
-#EXTINF:0,ELEVEN SPORTS 5 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/229.ts
-#EXTINF:0,ELEVEN SPORTS 4 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/228.ts
-#EXTINF:0,ELEVEN SPORTS 3 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/227.ts
-#EXTINF:0,ELEVEN SPORTS 2 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/226.ts
-#EXTINF:0,ELEVEN SPORTS 1 FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.ts
-#EXTINF:0,CANAL Q
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1036.ts
-#EXTINF:0,BENIFICA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/232.ts
-#EXTINF:0,A BOLA TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/234.ts
-#EXTINF:0, CANAL 11
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/224.ts
-#EXTINF:0,TVI24
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1005.ts
-#EXTINF:0,TVI Reality
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1006.ts
-#EXTINF:0,TVI HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1007.ts
-#EXTINF:0,TVI FICCAO
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1008.ts
-#EXTINF:0,TVI
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1009.ts
-#EXTINF:0,TVCine 4 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/948.ts
-#EXTINF:0,TVCine 4
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/949.ts
-#EXTINF:0,TVCine 3 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/950.ts
-#EXTINF:0,TVCINE 3
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/951.ts
-#EXTINF:0,TVCINE 2 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/952.ts
-#EXTINF:0,TVCine 1 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/953.ts
-#EXTINF:0,TVCINE 1
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/954.ts
-#EXTINF:0,TV SERIES  HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/955.ts
-#EXTINF:0,TV RECORD HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/956.ts
-#EXTINF:0,TV CINE 2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/957.ts
-#EXTINF:0,TV  SERIES
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/958.ts
-#EXTINF:0,TRAVEL CHANNEL HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/959.ts
-#EXTINF:0,TPA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1010.ts
-#EXTINF:0,TLC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/960.ts
-#EXTINF:0,SYFY HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/961.ts
-#EXTINF:0,SYFY
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/962.ts
-#EXTINF:0,SIC RADICAL HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1011.ts
-#EXTINF:0,SIC RADICAL
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1012.ts
-#EXTINF:0,SIC NOTICIAS HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1013.ts
-#EXTINF:0,SIC NOTICIAS
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1014.ts
-#EXTINF:0,SIC Mulher HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1015.ts
-#EXTINF:0,SIC MULHER
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1016.ts
-#EXTINF:0,SIC K
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/963.ts
-#EXTINF:0,SIC HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1017.ts
-#EXTINF:0,SIC CARAS HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1018.ts
-#EXTINF:0,SIC Caras
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1019.ts
-#EXTINF:0,SIC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1020.ts
-#EXTINF:0,RTPi_internacional
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1021.ts
-#EXTINF:0,RTP3 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1022.ts
-#EXTINF:0,RTP2 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1023.ts
-#EXTINF:0,RTP1 HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1024.ts
-#EXTINF:0,RTP1
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1025.ts
-#EXTINF:0,RTP MEMORIA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1026.ts
-#EXTINF:0,RTP MADEIRA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1027.ts
-#EXTINF:0,RTP ÁFRICA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1028.ts
-#EXTINF:0,RTP ACORES
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1029.ts
-#EXTINF:0,RTP 3
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1030.ts
-#EXTINF:0,RTP 2
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1031.ts
-#EXTINF:0,PORTO CANAL HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/964.ts
-#EXTINF:0,PANDA BIGGS
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/965.ts
-#EXTINF:0,Odisseia
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/966.ts
-#EXTINF:0,Nickelodeon
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/967.ts
-#EXTINF:0,Nick Jr.
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/968.ts
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/969.ts
-#EXTINF:0,Nat Geo Wild
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/970.ts
-#EXTINF:0,My Cuisine
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1032.ts
-#EXTINF:0,JIM JAM
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/972.ts
-#EXTINF:0,Hollywood HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/973.ts
-#EXTINF:0,HOLLYWOOD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/974.ts
-#EXTINF:0,FOX MOVIES
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/976.ts
-#EXTINF:0,FOX Life HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/977.ts
-#EXTINF:0,FOX HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/978.ts
-#EXTINF:0,FOX Crime HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/979.ts
-#EXTINF:0,FOX COMEDY
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/980.ts
-#EXTINF:0,FOOD NETWORK HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/981.ts
-#EXTINF:0,FINE LIVING NETWORK HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/982.ts
-#EXTINF:0,E! Entertainment
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/983.ts
-#EXTINF:0,DOG TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/984.ts
-#EXTINF:0,BENIFICA FHD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/231.ts
-#EXTINF:0,DISNEY JUNIOR
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/985.ts
-#EXTINF:0,DISNEY CHANNEL
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/986.ts
-#EXTINF:0,DISCOVERY HD SHOWCASE
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/987.ts
-#EXTINF:0,DISCOVERY CHANNEL
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/988.ts
-#EXTINF:0,CRIME INVESTIGATION
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/989.ts
-#EXTINF:0,CINEMUNDO
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/990.ts
-#EXTINF:0,CBS REALITY
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/991.ts
-#EXTINF:0,CARTOON NETWORK
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/992.ts
-#EXTINF:0,CANAL PANDA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/993.ts
-#EXTINF:0,CANAL HISTÓRIA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/994.ts
-#EXTINF:0,CACA E PESCA
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/995.ts
-#EXTINF:0,CAÇAVISION
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/996.ts
-#EXTINF:0,Bloomberg
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/997.ts
-#EXTINF:0,BABY TV
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/998.ts
-#EXTINF:0,AXN WHITE HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/999.ts
-#EXTINF:0,AXN HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1000.ts
-#EXTINF:0,AXN BLACK HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1001.ts
-#EXTINF:0,BLAZE
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1035.ts
-#EXTINF:0,AMC HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1002.ts
-#EXTINF:0,AMC
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1003.ts
-#EXTINF:0,24 KITCHEN HD
-http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/1004.ts
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideportugal.xml.gz"
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kOnFXO1.png" group-title="",FM O Dia TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XGDg1Qx.jpg" group-title="",RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Efczv24.jpg" group-title="",RTP 3
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uS85Uoi.png" group-title="",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hHOEWXp.png" group-title="",RTP África
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wgBNFPz.png" group-title="",SiC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="",Sobrenatural TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="TVI 24 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8CNUEi.jpg" group-title="",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="",TVI Reality
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
