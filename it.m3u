@@ -1,115 +1,159 @@
 #EXTM3U
-#EXTINF:-1,Italia 1 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6685.m3u8
-#EXTINF:-1,Video Calabria
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2049.m3u8
-#EXTINF:-1,Video Brescia
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2048.m3u8
-#EXTINF:-1,TSN
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2047.m3u8
-#EXTINF:-1,Trentino TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2046.m3u8
-#EXTINF:-1,TRC Modena
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2045.m3u8
-#EXTINF:-1,TeleTichino
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2044.m3u8
-#EXTINF:-1,Telesud Trapani
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2043.m3u8
-#EXTINF:-1,Teleromagna Sport
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2040.m3u8
-#EXTINF:-1,Teleromagna News
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2039.m3u8
-#EXTINF:-1,Teleromagna Mia
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2038.m3u8
-#EXTINF:-1,Teleromagna
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2037.m3u8
-#EXTINF:-1,TelePavia
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2042.m3u8
-#EXTINF:-1,TeleMonteneve
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2041.m3u8
-#EXTINF:-1,Telefriuli
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2036.m3u8
-#EXTINF:-1,TeleChiara
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2035.m3u8
-#EXTINF:-1,Telearena
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2034.m3u8
-#EXTINF:-1,Super TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2033.m3u8
-#EXTINF:-1,Studio 100 Puglia
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2032.m3u8
-#EXTINF:-1,Sky TG 24
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2031.m3u8
-#EXTINF:-1,Senato TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2030.m3u8
-#EXTINF:-1,RTV 38
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2029.m3u8
-#EXTINF:-1,RTC Quarta Rete
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2028.m3u8
-#EXTINF:-1,RDS Social TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2027.m3u8
+#EXTINF:-1,Rai2 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31405.ts
+#EXTINF:-1,Rai5
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58478.ts
 #EXTINF:-1,Rai Yoyo
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2026.m3u8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31357.ts
+#EXTINF:-1,Rai Sport 1
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31408.ts
 #EXTINF:-1,Rai Premium
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2025.m3u8
-#EXTINF:-1,RAI Movie
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2006.m3u8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31409.ts
+#EXTINF:-1,IT:Super Tennis
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31324.ts
+#EXTINF:-1,IT:Sky Primafila 4
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31327.ts
+#EXTINF:-1,IT:Sky Primafila 12
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31331.ts
+#EXTINF:-1,IT:SKY Primafila 1
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31333.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58584.ts
+#EXTINF:-1,IT:CARTOON  NETWORK
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31341.ts
+#EXTINF:-1,SUPER TENNIS (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31435.ts
+#EXTINF:-1,Sky Sport1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31385.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31386.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31387.ts
+#EXTINF:-1,Sky Moto GP HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31388.ts
+#EXTINF:-1,SKY F1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31390.ts
+#EXTINF:-1,SKY CINEMA24 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31391.ts
+#EXTINF:-1,Sky Cinema1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31392.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31393.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31395.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31396.ts
+#EXTINF:-1,Sky Cinema Classic HD(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31397.ts
+#EXTINF:-1,Sky Cinema  1 HD(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31398.ts
+#EXTINF:-1,Sky Calcio 7
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31350.ts
+#EXTINF:-1,Sky Calcio 5
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58576.ts
+#EXTINF:-1,Sky Calcio 4
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58577.ts
+#EXTINF:-1,IT:Sky Primafila 5
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58445.ts
+#EXTINF:-1,Sky Sport2 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58476.ts
+#EXTINF:-1,SKY Primafila 3
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58457.ts
+#EXTINF:-1,Sky Calcio 3
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58462.ts
+#EXTINF:-1,Premium Disney Junior(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58451.ts
+#EXTINF:-1,Fox Life HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58470.ts
+#EXTINF:-1,FISHING TV
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58489.ts
+#EXTINF:-1,RSI La1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31400.ts
+#EXTINF:-1,Real Time
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31335.ts
 #EXTINF:-1,Premium Stories
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6569.m3u8
-#EXTINF:-1,Premium Energy
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6570.m3u8
-#EXTINF:-1,Premium Emotion
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6571.m3u8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31411.ts
+#EXTINF:-1,Premium Disney Junior
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31360.ts
 #EXTINF:-1,Premium Crime
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6572.m3u8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31414.ts
 #EXTINF:-1,Premium Comedy
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6573.m3u8
-#EXTINF:-1,Premium Cinema
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6574.m3u8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31361.ts
+#EXTINF:-1,Premium Cinema Energy
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31416.ts
+#EXTINF:-1,Pesca e Caccia
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31364.ts
+#EXTINF:-1,Mediaset Extra(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31423.ts
+#EXTINF:-1,Mediaset Extra
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31367.ts
+#EXTINF:-1,La7
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31424.ts
+#EXTINF:-1,History
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31438.ts
+#EXTINF:-1,FOX Sport HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31369.ts
+#EXTINF:-1,FOX HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31371.ts
+#EXTINF:-1,Fox Crime HD(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31427.ts
+#EXTINF:-1,Fox Crime HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31372.ts
+#EXTINF:-1,Fox Animation
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31434.ts
+#EXTINF:-1,Eurosport 2 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31429.ts
+#EXTINF:-1,Eurosport 1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31430.ts
+#EXTINF:-1,Dmax HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31431.ts
+#EXTINF:-1,Discovery Science HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31374.ts
+#EXTINF:-1,Discovery Focus
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31340.ts
+#EXTINF:-1,Cielo
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31376.ts
+#EXTINF:-1,Cartoonito
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31377.ts
+#EXTINF:-1,Canale5 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31432.ts
+#EXTINF:-1,Canal 5 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31378.ts
+#EXTINF:-1,Boing
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/31436.ts
+#EXTINF:-1,IT:SKY Primafila 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57899.ts
+#EXTINF:-1,TOP CRIME
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57895.ts
+#EXTINF:-1,SPORT ITALIA
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57909.ts
+#EXTINF:-1,SKY TG 24
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57910.ts
+#EXTINF:-1,Sky Sport3 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57936.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57939.ts
+#EXTINF:-1,RSI La2 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57940.ts
+#EXTINF:-1,Rete4 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57941.ts
+#EXTINF:-1,Rai4 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57943.ts
+#EXTINF:-1,Rai3 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57944.ts
+#EXTINF:-1,Premium Sport HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57935.ts
+#EXTINF:-1,Premium Emotion
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57947.ts
 #EXTINF:-1,Premium Action
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/6575.m3u8
-#EXTINF:-1,Radio Italia TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2024.m3u8
-#EXTINF:-1,Radio Iglesias
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2023.m3u8
-#EXTINF:-1,Radio Bruno
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2022.m3u8
-#EXTINF:-1,Primocanale
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2021.m3u8
-#EXTINF:-1,m20 tv
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2020.m3u8
-#EXTINF:-1,IRC Sport
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2019.m3u8
-#EXTINF:-1,History Lab
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2018.m3u8
-#EXTINF:-1,FM Italia
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2017.m3u8
-#EXTINF:-1,Fano TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2016.m3u8
-#EXTINF:-1,DMAX IT
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2008.m3u8
-#EXTINF:-1,Carina TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2014.m3u8
-#EXTINF:-1,Canale 8
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2012.m3u8
-#EXTINF:-1,Canale 7
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2011.m3u8
-#EXTINF:-1,CANALE 5
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2007.m3u8
-#EXTINF:-1,Canale 10
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2013.m3u8
-#EXTINF:-1,Videostar TV Lombardia
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2050.m3u8
-#EXTINF:-1,ÃƒÂ©TV Marche
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2015.m3u8
-#EXTINF:-1,Antenna Tre Nordest
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2009.m3u8
-#EXTINF:-1,Alto Adige TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/2010.m3u8
-#EXTINF:-1,CINEMA AZIONE UHD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5125.m3u8
-#EXTINF:-1,CINEMA UHD 1
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5122.m3u8
-#EXTINF:-1,CINEMA UHD 2
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5123.m3u8
-#EXTINF:-1,CINEMA UHD 3
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5124.m3u8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57925.ts
+#EXTINF:-1,Mediaset Iris
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57907.ts
+#EXTINF:-1,MarcoPolo
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57959.ts
+#EXTINF:-1,italia1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57954.ts
+#EXTINF:-1,Italia 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57955.ts
+#EXTINF:-1,Inter Channel
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57928.ts
