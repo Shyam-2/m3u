@@ -1,147 +1,139 @@
 #EXTM3U
-#EXTINF:-1,Animal Planet HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5242.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5243.m3u8
-#EXTINF:-1,192 TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5244.m3u8
-#EXTINF:-1,100NL TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5245.m3u8
-#EXTINF:-1,Viceland HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5162.m3u8
-#EXTINF:-1,VH1 Classic
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5163.m3u8
-#EXTINF:-1,VeronicaHD Disney XD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5164.m3u8
-#EXTINF:-1,TVOost
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5165.m3u8
-#EXTINF:-1,TVNoord
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5166.m3u8
-#EXTINF:-1,TVDrenthe
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5167.m3u8
-#EXTINF:-1,TV Rijnmond
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5168.m3u8
-#EXTINF:-1,TV Oranje
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5169.m3u8
-#EXTINF:-1,TV Gelderland
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5170.m3u8
-#EXTINF:-1,TLC HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5171.m3u8
-#EXTINF:-1,Spike HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5172.m3u8
-#EXTINF:-1,Shorts TV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5173.m3u8
-#EXTINF:-1,SBS9 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5174.m3u8
-#EXTINF:-1,SBS6 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5175.m3u8
-#EXTINF:-1,RTV Utrecht
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5176.m3u8
-#EXTINF:-1,RTV 7
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5177.m3u8
-#EXTINF:-1,RTL Z HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5178.m3u8
-#EXTINF:-1,RTL Telekids
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5179.m3u8
-#EXTINF:-1,RTL Lounge
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5180.m3u8
+#EXTINF:-1,NPO 1 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1007.ts
+#EXTINF:-1,NPO 2 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1008.ts
+#EXTINF:-1,NPO 3 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1009.ts
+#EXTINF:-1,RTL4 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1010.ts
+#EXTINF:-1,RTL5 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1011.ts
+#EXTINF:-1,SBS 6 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1012.ts
+#EXTINF:-1,RTL7 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1013.ts
+#EXTINF:-1,RTL8 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1014.ts
+#EXTINF:-1,SBS9
+http://enndy.live:2015/live/Yavuzates/12345678/1016.ts
+#EXTINF:-1,NET 5 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1017.ts
+#EXTINF:-1,RTL Z
+http://enndy.live:2015/live/Yavuzates/12345678/1015.ts
 #EXTINF:-1,RTL Crime
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5181.m3u8
-#EXTINF:-1,RTL 8 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5182.m3u8
-#EXTINF:-1,RTL 7 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5183.m3u8
-#EXTINF:-1,RTL 5 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5184.m3u8
-#EXTINF:-1,RTL 4 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5185.m3u8
-#EXTINF:-1,OUTTV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5188.m3u8
-#EXTINF:-1,ONS
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5189.m3u8
-#EXTINF:-1,Omroep Zeeland
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5190.m3u8
-#EXTINF:-1,Omroep Brabant
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5191.m3u8
-#EXTINF:-1,NPO3 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5192.m3u8
-#EXTINF:-1,NPO2 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5193.m3u8
-#EXTINF:-1,NPO1 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5194.m3u8
-#EXTINF:-1,NPO Politiek
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5195.m3u8
-#EXTINF:-1,NPO Nieuws
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5196.m3u8
-#EXTINF:-1,NPO 2 Extra
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5197.m3u8
-#EXTINF:-1,NPO 101
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5198.m3u8
-#EXTINF:-1,NPO 1 Extra
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5199.m3u8
-#EXTINF:-1,Nicktoons
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5200.m3u8
-#EXTINF:-1,NickelodeoHD SpikeChannel
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5201.m3u8
-#EXTINF:-1,Nick Jr
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5202.m3u8
-#EXTINF:-1,Nick Hits
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5203.m3u8
-#EXTINF:-1,Net5 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5204.m3u8
-#EXTINF:-1,National Geographic ChannelHD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5205.m3u8
-#EXTINF:-1,Boomerang
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5239.m3u8
-#EXTINF:-1,BabyTV
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5240.m3u8
-#EXTINF:-1,AT5
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5241.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5206.m3u8
-#EXTINF:-1,MTV HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5207.m3u8
-#EXTINF:-1,Mezzo
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5208.m3u8
-#EXTINF:-1,ID HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5209.m3u8
-#EXTINF:-1,HISTORY HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5210.m3u8
+http://enndy.live:2015/live/Yavuzates/12345678/1018.ts
+#EXTINF:-1,TLC
+http://enndy.live:2015/live/Yavuzates/12345678/1036.ts
+#EXTINF:-1,FOX Channel
+http://enndy.live:2015/live/Yavuzates/12345678/1050.ts
+#EXTINF:-1,Film1 Sundance
+http://enndy.live:2015/live/Yavuzates/12345678/1027.ts
 #EXTINF:-1,Film1 Premiere HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5217.m3u8
-#EXTINF:-1,Film1 Family HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5218.m3u8
-#EXTINF:-1,Film1 Drama HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5219.m3u8
-#EXTINF:-1,Film1 Action HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5220.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5221.m3u8
-#EXTINF:-1,Eurosport 2HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5223.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5224.m3u8
-#EXTINF:-1,Een HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5225.m3u8
-#EXTINF:-1,E Entertainment HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5226.m3u8
-#EXTINF:-1,Disney Channel HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5228.m3u8
+http://enndy.live:2015/live/Yavuzates/12345678/1028.ts
+#EXTINF:-1,Film1 Comedy  Kids
+http://enndy.live:2015/live/Yavuzates/12345678/1029.ts
+#EXTINF:-1,Film1 Action
+http://enndy.live:2015/live/Yavuzates/12345678/1030.ts
+#EXTINF:-1,Comedy Central
+http://enndy.live:2015/live/Yavuzates/12345678/1058.ts
+#EXTINF:-1,NGC HD
+http://enndy.live:2015/live/Yavuzates/12345678/1041.ts
+#EXTINF:-1,Nat Geo HD
+http://enndy.live:2015/live/Yavuzates/12345678/1046.ts
+#EXTINF:-1,Nat Geo Wild HD DUT
+http://enndy.live:2015/live/Yavuzates/12345678/1045.ts
+#EXTINF:-1,Nautical HD
+http://enndy.live:2015/live/Yavuzates/12345678/1044.ts
+#EXTINF:-1,Discovery Channel
+http://enndy.live:2015/live/Yavuzates/12345678/1057.ts
+#EXTINF:-1,24Kitchen
+http://enndy.live:2015/live/Yavuzates/12345678/1063.ts
+#EXTINF:-1,Investigation Discovery
+http://enndy.live:2015/live/Yavuzates/12345678/1048.ts
+#EXTINF:-1,History HD BNL
+http://enndy.live:2015/live/Yavuzates/12345678/1049.ts
+#EXTINF:-1,Eurosport 1HD NL
+http://enndy.live:2015/live/Yavuzates/12345678/1022.ts
+#EXTINF:-1,FOX Sports EDL 1 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1019.ts
+#EXTINF:-1,FOX Sports 2 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1020.ts
+#EXTINF:-1,FOX Sports EDL 3 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1021.ts
+#EXTINF:-1,EUROSPORT 2 NL
+http://enndy.live:2015/live/Yavuzates/12345678/1023.ts
+#EXTINF:-1,Ziggo Sport Voetbal
+http://enndy.live:2015/live/Yavuzates/12345678/1024.ts
+#EXTINF:-1,Ziggo Sport Select HD
+http://enndy.live:2015/live/Yavuzates/12345678/1025.ts
+#EXTINF:-1,Ziggo Sport Golf
+http://enndy.live:2015/live/Yavuzates/12345678/1026.ts
+#EXTINF:-1, een HD
+http://enndy.live:2015/live/Yavuzates/12345678/1076.ts
+#EXTINF:-1, Q2 HD
+http://enndy.live:2015/live/Yavuzates/12345678/1072.ts
+#EXTINF:-1, Canvas HD
+http://enndy.live:2015/live/Yavuzates/12345678/1078.ts
+#EXTINF:-1, VIER HD
+http://enndy.live:2015/live/Yavuzates/12345678/1071.ts
+#EXTINF:-1, VIJF
+http://enndy.live:2015/live/Yavuzates/12345678/1070.ts
+#EXTINF:-1, KADET
+http://enndy.live:2015/live/Yavuzates/12345678/1074.ts
+#EXTINF:-1,AT5
+http://enndy.live:2015/live/Yavuzates/12345678/1062.ts
+#EXTINF:-1, VTMKazoom/Kanaal Z
+http://enndy.live:2015/live/Yavuzates/12345678/1067.ts
+#EXTINF:-1, VTM HD
+http://enndy.live:2015/live/Yavuzates/12345678/1068.ts
+#EXTINF:-1, Vitaya
+http://enndy.live:2015/live/Yavuzates/12345678/1069.ts
+#EXTINF:-1, KetOp12
+http://enndy.live:2015/live/Yavuzates/12345678/1073.ts
+#EXTINF:-1, EVENAAR
+http://enndy.live:2015/live/Yavuzates/12345678/1075.ts
+#EXTINF:-1, CAZ R
+http://enndy.live:2015/live/Yavuzates/12345678/1077.ts
+#EXTINF:-1,the QYOU
+http://enndy.live:2015/live/Yavuzates/12345678/1051.ts
+#EXTINF:-1,Spike 24
+http://enndy.live:2015/live/Yavuzates/12345678/1037.ts
+#EXTINF:-1,192TV
+http://enndy.live:2015/live/Yavuzates/12345678/1064.ts
+#EXTINF:-1, ZES
+http://enndy.live:2015/live/Yavuzates/12345678/1066.ts
+#EXTINF:-1,ONS
+http://enndy.live:2015/live/Yavuzates/12345678/1038.ts
+#EXTINF:-1,TV Oranje
+http://enndy.live:2015/live/Yavuzates/12345678/1043.ts
+#EXTINF:-1,TV Oost
+http://enndy.live:2015/live/Yavuzates/12345678/1032.ts
+#EXTINF:-1,TV Noord
+http://enndy.live:2015/live/Yavuzates/12345678/1033.ts
+#EXTINF:-1,TV Gelderland
+http://enndy.live:2015/live/Yavuzates/12345678/1034.ts
+#EXTINF:-1,TV Drenthe
+http://enndy.live:2015/live/Yavuzates/12345678/1035.ts
+#EXTINF:-1,Omrop Fryslan Televisie
+http://enndy.live:2015/live/Yavuzates/12345678/1052.ts
+#EXTINF:-1,Omroep Brabant Televisie
+http://enndy.live:2015/live/Yavuzates/12345678/1054.ts
+#EXTINF:-1,NPO Politiek
+http://enndy.live:2015/live/Yavuzates/12345678/1061.ts
+#EXTINF:-1,MTV NL
+http://enndy.live:2015/live/Yavuzates/12345678/1047.ts
+#EXTINF:-1,Veronica/DisneyXD HD
+http://enndy.live:2015/live/Yavuzates/12345678/1031.ts
+#EXTINF:-1,Nickelodeon / Spike
+http://enndy.live:2015/live/Yavuzates/12345678/1039.ts
+#EXTINF:-1,Nickelodeon
+http://enndy.live:2015/live/Yavuzates/12345678/1040.ts
+#EXTINF:-1,NICK JR
+http://enndy.live:2015/live/Yavuzates/12345678/1065.ts
+#EXTINF:-1,duck TV DUT
+http://enndy.live:2015/live/Yavuzates/12345678/1055.ts
 #EXTINF:-1,Disney Channel
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5229.m3u8
-#EXTINF:-1,Discovery World
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5230.m3u8
-#EXTINF:-1,Discovery Science
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5231.m3u8
-#EXTINF:-1,Discovery HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5232.m3u8
-#EXTINF:-1,Comedy Central HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5233.m3u8
-#EXTINF:-1,CI
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5234.m3u8
-#EXTINF:-1,CBS Reality
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5235.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5236.m3u8
-#EXTINF:-1,Canvas HD
-http://iptv.kosiptv.com:1557/live/Faruk/faruk/5237.m3u8
+http://enndy.live:2015/live/Yavuzates/12345678/1056.ts
+#EXTINF:-1,Boomerang
+http://enndy.live:2015/live/Yavuzates/12345678/1060.ts
