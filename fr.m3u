@@ -1,262 +1,905 @@
 #EXTM3U
-#EXTINF:-1,TF1
-http://resosat.club:8080/live/iman/iman/12.ts
-#EXTINF:-1,FRANCE 2
-http://resosat.club:8080/live/iman/iman/29.ts
-#EXTINF:-1,FRANCE 5
-http://resosat.club:8080/live/iman/iman/20.ts
-#EXTINF:-1,M6
-http://resosat.club:8080/live/iman/iman/17.ts
-#EXTINF:-1,ARTE
-http://resosat.club:8080/live/iman/iman/19.ts
-#EXTINF:-1,TMC
-http://resosat.club:8080/live/iman/iman/14.ts
-#EXTINF:-1,W9
-http://resosat.club:8080/live/iman/iman/18.ts
-#EXTINF:-1,TFX
-http://resosat.club:8080/live/iman/iman/15.ts
-#EXTINF:-1,NRJ 12
-http://resosat.club:8080/live/iman/iman/13.ts
+#EXTINF:-1,TF1 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13847.m3u8
+#EXTINF:-1,TF1 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13917.m3u8
+#EXTINF:-1,TF1 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13817.m3u8
+#EXTINF:-1,FRANCE 2 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13739.m3u8
+#EXTINF:-1,FRANCE 2 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13916.m3u8
+#EXTINF:-1,FRANCE 2 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1007.m3u8
+#EXTINF:-1,FRANCE 3 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13738.m3u8
+#EXTINF:-1,FRANCE 3 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13915.m3u8
+#EXTINF:-1,FRANCE 3 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1008.m3u8
+#EXTINF:-1,FRANCE 4 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13737.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13914.m3u8
+#EXTINF:-1,FRANCE 4 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1009.m3u8
+#EXTINF:-1,FRANCE 5 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13736.m3u8
+#EXTINF:-1,FRANCE 5 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13913.m3u8
+#EXTINF:-1,FRANCE 5 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1013.m3u8
+#EXTINF:-1,FRANCE O HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13735.m3u8
+#EXTINF:-1,FRANCE O SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1021.m3u8
+#EXTINF:-1,M6 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/95
+#EXTINF:-1,M6 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/96
+#EXTINF:-1,M6 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/90.m3u8
+#EXTINF:-1,PARIS PREMIERE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13824.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13993.m3u8
+#EXTINF:-1,PARIS PREMIERE SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1030.m3u8
+#EXTINF:-1,TMC FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13696.m3u8
+#EXTINF:-1,TMC HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13979.m3u8
+#EXTINF:-1,TMC SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1014.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13693.m3u8
+#EXTINF:-1,TV BREIZH FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13975.m3u8
+#EXTINF:-1,TV BREIZH SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1032.m3u8
+#EXTINF:-1,6TER FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13793.m3u8
+#EXTINF:-1,6TER HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14046.m3u8
+#EXTINF:-1,6TER SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1024.m3u8
+#EXTINF:-1,ARTE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13788.m3u8
+#EXTINF:-1,ARTE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14043.m3u8
+#EXTINF:-1,ARTE SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/426.m3u8
+#EXTINF:-1,|FR|*****CINEMA FRANCE*****|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24927.m3u8
+#EXTINF:-1,CANAL + FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14157.m3u8
+#EXTINF:-1,CANAL+ HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14167.m3u8
+#EXTINF:-1,CANAL + SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28345.m3u8
+#EXTINF:-1,CANAL + DECALE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13768.m3u8
+#EXTINF:-1,CANAL + DECALE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14035.m3u8
+#EXTINF:-1,CANAL + DECALE SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28346.m3u8
+#EXTINF:-1,CANAL + FAMILY FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13767.m3u8
+#EXTINF:-1,CANAL + FAMILY SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14033.m3u8
+#EXTINF:-1,CANAL + FAMILY HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28348.m3u8
+#EXTINF:-1,CANAL + CINEMA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13769.m3u8
+#EXTINF:-1,CANAL + CINEMA HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28942.m3u8
+#EXTINF:-1,CANAL + CINEMA SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28347.m3u8
+#EXTINF:-1,OCS MAX FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13825.m3u8
+#EXTINF:-1,OCS MAX HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13996.m3u8
+#EXTINF:-1,OCS MAX SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38198.m3u8
+#EXTINF:-1,OCS GEANTS FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13833.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13846.m3u8
+#EXTINF:-1,OCS GEANT SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38199.m3u8
+#EXTINF:-1,OCS CITY FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13827.m3u8
+#EXTINF:-1,OCS CITY HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13994.m3u8
+#EXTINF:-1,OCS CITY SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38200.m3u8
+#EXTINF:-1,OCS CHOC FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13834.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13995.m3u8
+#EXTINF:-1,OCS CHOC SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/38201.m3u8
+#EXTINF:-1,CINE+ PREMIER FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13759.m3u8
+#EXTINF:-1,CINE+ PREMIER HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14021.m3u8
+#EXTINF:-1,CINE+ PREMIER SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28332.m3u8
+#EXTINF:-1,CINE+ FRISSON FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13754.m3u8
+#EXTINF:-1,CINE+ FRISSON HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14023.m3u8
+#EXTINF:-1,CINE+ FRISSON SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28331.m3u8
+#EXTINF:-1,CINE+ FAMIZ FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13755.m3u8
+#EXTINF:-1,CINE+ FAMIZ HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13941.m3u8
+#EXTINF:-1,CINE+ FAMIZ SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28329.m3u8
+#EXTINF:-1,CINE+ EMOTION FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13756.m3u8
+#EXTINF:-1,CINE+ EMOTION HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14024.m3u8
+#EXTINF:-1,CINE+ EMOTION SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28330.m3u8
+#EXTINF:-1,ACTION FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13790.m3u8
+#EXTINF:-1,ACTION HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14045.m3u8
+#EXTINF:-1,ACTION SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28334.m3u8
+#EXTINF:-1,CINE+ CLUB HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14025.m3u8
+#EXTINF:-1,CINE+ CLUB SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28328.m3u8
+#EXTINF:-1,CINE POLAR FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13752.m3u8
+#EXTINF:-1,CINE+ POLAR HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14027.m3u8
+#EXTINF:-1,CINE+ POLAR SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28335.m3u8
+#EXTINF:-1,WARNER TV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13784.m3u8
+#EXTINF:-1,POLAR+  FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13763.m3u8
+#EXTINF:-1,POLAR+ HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25041.m3u8
+#EXTINF:-1,TCM CINEMA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13697.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13980.m3u8
+#EXTINF:-1,TCM CINEMA SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28337.m3u8
+#EXTINF:-1,CINE+ CLASSIC FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13758.m3u8
+#EXTINF:-1,CINE+ CLASSIC HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14026.m3u8
+#EXTINF:-1,CINE+ CLASSIC SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28327.m3u8
+#EXTINF:-1,CINE+ FX FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13753.m3u8
+#EXTINF:-1,CINE+ FX HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14022.m3u8
+#EXTINF:-1,CINE+ FX SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28336.m3u8
+#EXTINF:-1,ALTICE STUDIO FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13787.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28413.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13713.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13911.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28340.m3u8
+#EXTINF:-1,PARAMOUNT DECALE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13829.m3u8
+#EXTINF:-1,PARAMOUNT DECALE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28339.m3u8
+#EXTINF:-1,CANALPLAY 1
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13970.m3u8
+#EXTINF:-1,CANALPLAY 2
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13962.m3u8
+#EXTINF:-1,CANALPLAY 3
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13961.m3u8
+#EXTINF:-1,CANALPLAY 4
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13960.m3u8
+#EXTINF:-1,CANALPLAY 5
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13959.m3u8
+#EXTINF:-1,CANALPLAY 6
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13958.m3u8
+#EXTINF:-1,CANALPLAY 7
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13957.m3u8
+#EXTINF:-1,CANALPLAY 8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13956.m3u8
+#EXTINF:-1,CANALPLAY 9
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13955.m3u8
+#EXTINF:-1,CANALPLAY 10
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13969.m3u8
+#EXTINF:-1,CANALPLAY 11
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13968.m3u8
+#EXTINF:-1,CANALPLAY 12
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13967.m3u8
+#EXTINF:-1,CANALPLAY 13
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13966.m3u8
+#EXTINF:-1,CANALPLAY 14
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13965.m3u8
+#EXTINF:-1,CANALPLAY 15
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13964.m3u8
+#EXTINF:-1,CANALPLAY 16
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13963.m3u8
+#EXTINF:-1,|FR|***ORANGE***|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24928.m3u8
+#EXTINF:-1,ORANGE CINE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13926.m3u8
+#EXTINF:-1,ORANGE CINE 1
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13925.m3u8
+#EXTINF:-1,ORANGE CINE 2
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13924.m3u8
+#EXTINF:-1,ORANGE CINE 3
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13923.m3u8
+#EXTINF:-1,ORANGE CINE 4
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13922.m3u8
+#EXTINF:-1,ORANGE CINE 5
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13921.m3u8
+#EXTINF:-1,ORANGE CINE 6
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13920.m3u8
+#EXTINF:-1,ORANGE CINE 7
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13919.m3u8
+#EXTINF:-1,ORANGE CINE 8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13918.m3u8
+#EXTINF:-1,ALACARTE 1
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13949.m3u8
+#EXTINF:-1,ALACARTE 2
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13947.m3u8
+#EXTINF:-1,ALACARTE 3
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13946.m3u8
+#EXTINF:-1,ALACARTE 4
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13945.m3u8
+#EXTINF:-1,ALACARTE 5
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13954.m3u8
+#EXTINF:-1,ALACARTE 6
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13953.m3u8
+#EXTINF:-1,ALACARTE 7
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13952.m3u8
+#EXTINF:-1,ALACARTE 8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13951.m3u8
+#EXTINF:-1,ALACARTE 9
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13950.m3u8
+#EXTINF:-1,ALACARTE 10
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13948.m3u8
+#EXTINF:-1,|FR|***SPORT***|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24929.m3u8
+#EXTINF:-1,RMC SPORT NEWS FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35031.m3u8
+#EXTINF:-1,RMC SPORT 1FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32713.m3u8
+#EXTINF:-1,RMC SPORT 1HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32718.m3u8
+#EXTINF:-1,RMC SPORT 1 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39589.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 1 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37931.m3u8
+#EXTINF:-1,RMC SPORT 2FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32714.m3u8
+#EXTINF:-1,RMC SPORT 2HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32719.m3u8
+#EXTINF:-1,RMC SPORT 2 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39588.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 2 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37930.m3u8
+#EXTINF:-1,RMC SPORT 3FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32715.m3u8
+#EXTINF:-1,RMC SPORT 3HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32720.m3u8
+#EXTINF:-1,RMC SPORT 3 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39587.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 3 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37929.m3u8
+#EXTINF:-1,RMC SPORT 4FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32716.m3u8
+#EXTINF:-1,RMC SPORT 4HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32721.m3u8
+#EXTINF:-1,RMC SPORT 4K
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37942.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/32717.m3u8
+#EXTINF:-1,RMC SPORT LIVE 6 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37941.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37940.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37939.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37938.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37937.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37936.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37935.m3u8
+#EXTINF:-1,RMC SPORT LIVE 13 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37934.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37933.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/37932.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35340.m3u8
+#EXTINF:-1,BEINSPORTS 1 F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14160.m3u8
+#EXTINF:-1,BEINSPORTS 1 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28941.m3u8
+#EXTINF:-1,BEINSPORT 1 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/92.m3u8
+#EXTINF:-1,BEINSPORTS 2 F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14159.m3u8
+#EXTINF:-1,BEINSPORTS 2 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28943.m3u8
+#EXTINF:-1,BEINSPORT 2 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/93.m3u8
+#EXTINF:-1,BEINSPORTS 3 F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14158.m3u8
+#EXTINF:-1,BEINSPORTS 3 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14163.m3u8
+#EXTINF:-1,BEINSPORT 3 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/94.m3u8
+#EXTINF:-1,BEINSPORT MAX 4
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/95.m3u8
+#EXTINF:-1,BEINSPORT MAX 5
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/39882.m3u8
+#EXTINF:-1,BEINSPORT MAX 6
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1089.m3u8
+#EXTINF:-1,BEINSPORT MAX 7
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1113.m3u8
+#EXTINF:-1,BEINSPORT MAX 8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1468.m3u8
+#EXTINF:-1,BEINSPORT MAX 9
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1469.m3u8
+#EXTINF:-1,BEIN SPORT MAX 10
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1470.m3u8
+#EXTINF:-1,CANAL+ SPORT F.HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14156.m3u8
+#EXTINF:-1,CANAL+ SPORT HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14161.m3u8
+#EXTINF:-1,SPORT 365 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25040.m3u8
+#EXTINF:-1,FOOT+
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13937.m3u8
+#EXTINF:-1,FOOT+24 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/425.m3u8
+#EXTINF:-1,CANAL+ SPORT SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13936.m3u8
+#EXTINF:-1,ONZEO FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13786.m3u8
+#EXTINF:-1,MULTISPORTS 1
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13807.m3u8
+#EXTINF:-1,MULTISPORTS 2
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13802.m3u8
+#EXTINF:-1,MULTISPORTS 3
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13806.m3u8
+#EXTINF:-1,MULTISPORTS 4
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13805.m3u8
+#EXTINF:-1,MULTISPORTS 5
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13804.m3u8
+#EXTINF:-1,MULTISPORTS 6
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13803.m3u8
+#EXTINF:-1,NBA TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/46216.m3u8
+#EXTINF:-1,TRACE SPORT FULLHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13797.m3u8
+#EXTINF:-1,BFM SPORT FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13843.m3u8
+#EXTINF:-1,BFM SPORTS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13943.m3u8
+#EXTINF:-1,BFM HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13839.m3u8
+#EXTINF:-1,INFOSPORT FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13729.m3u8
+#EXTINF:-1,LEQUIPE 21 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/93
+#EXTINF:-1,EQUIPE 21 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1023.m3u8
+#EXTINF:-1,OL TV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13842.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13740.m3u8
+#EXTINF:-1,MUSCULATION TV HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13801.m3u8
+#EXTINF:-1,AUTOMOTO  HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1035.m3u8
+#EXTINF:-1,MOTORSPORT HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13782.m3u8
+#EXTINF:-1,MOTORSPORT FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13722.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13742.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14011.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13741.m3u8
+#EXTINF:-1,EUROSPORT2 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14010.m3u8
+#EXTINF:-1,l'equipe 21 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13743.m3u8
+#EXTINF:-1,EQUIDIA LIVE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14012.m3u8
+#EXTINF:-1,EQUIDIA LIFE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13744.m3u8
+#EXTINF:-1,EQUIDIA LIFE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14013.m3u8
+#EXTINF:-1,FRANCE O
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/89.m3u8
+#EXTINF:-1,EQUIDIA LIVE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1036.m3u8
+#EXTINF:-1,EQUIDIA LIFE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/85.m3u8
+#EXTINF:-1,LUCKY JACK HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/42548.m3u8
+#EXTINF:-1,|FR|***SPORT GOLF***|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24930.m3u8
+#EXTINF:-1,GOLF+ FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13734.m3u8
+#EXTINF:-1,GOLF CHANNEL FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13689.m3u8
+#EXTINF:-1,GOLF CHANNELS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13977.m3u8
+#EXTINF:-1,|FR|***DIVERTISSEMENT***|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24931.m3u8
+#EXTINF:-1,SERIE CLUB FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13830.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13986.m3u8
+#EXTINF:-1,CANAL+ SERIES FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13766.m3u8
+#EXTINF:-1,CANAL + SERIES HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28944.m3u8
+#EXTINF:-1,13EME RUE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13794.m3u8
+#EXTINF:-1,13EME RUE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14048.m3u8
+#EXTINF:-1,SYFY HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13981.m3u8
+#EXTINF:-1,SYFY FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13698.m3u8
+#EXTINF:-1,SUNDANCE TV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13733.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28338.m3u8
+#EXTINF:-1,TEVA HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35331.m3u8
+#EXTINF:-1,TEVA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25039.m3u8
+#EXTINF:-1,TEVA SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1031.m3u8
+#EXTINF:-1,COMEDIE+ FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13751.m3u8
+#EXTINF:-1,COMEDIE  HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14019.m3u8
+#EXTINF:-1,MY CUISINE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13781.m3u8
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13746.m3u8
+#EXTINF:-1,E! ENTERTAINEMENT HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14015.m3u8
+#EXTINF:-1,NO STOP PEOPLE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13780.m3u8
+#EXTINF:-1,NON STOP PEOPLE hd
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13928.m3u8
+#EXTINF:-1,VIVOLTA HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25044.m3u8
+#EXTINF:-1,IL TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13934.m3u8
+#EXTINF:-1,NRJ12 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13717.m3u8
+#EXTINF:-1,NRJ12 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14047.m3u8
+#EXTINF:-1,NRJ12 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1019.m3u8
+#EXTINF:-1,ELLE GIRL FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13745.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14014.m3u8
+#EXTINF:-1,BET FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13841.m3u8
+#EXTINF:-1,VICELAND FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13772.m3u8
+#EXTINF:-1,TV 5 MONDE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25042.m3u8
+#EXTINF:-1,TV 5 monde
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1033.m3u8
+#EXTINF:-1,CHERIE 25 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13760.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14028.m3u8
+#EXTINF:-1,CHERIE 25 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1027.m3u8
+#EXTINF:-1,TF1 +1 fhd
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13732.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1022.m3u8
+#EXTINF:-1,C8 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13823.m3u8
+#EXTINF:-1,C8 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14036.m3u8
+#EXTINF:-1,C8 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/188.m3u8
+#EXTINF:-1,CSTAR FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13749.m3u8
+#EXTINF:-1,DIRECT8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1091.m3u8
+#EXTINF:-1,CSTAR HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13940.m3u8
+#EXTINF:-1,AZUR TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25043.m3u8
+#EXTINF:-1,WEO FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13795.m3u8
+#EXTINF:-1,WEO HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25045.m3u8
+#EXTINF:-1,TV8 MONT BLANC FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13796.m3u8
+#EXTINF:-1,RTL9 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13707.m3u8
+#EXTINF:-1,RTL9 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13989.m3u8
+#EXTINF:-1,RTL9 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1029.m3u8
+#EXTINF:-1,A+  FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13695.m3u8
+#EXTINF:-1,RMC STORY FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13715.m3u8
+#EXTINF:-1,RMC STORY HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13997.m3u8
+#EXTINF:-1,RMC STORY   SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1025.m3u8
+#EXTINF:-1,TFX FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13716.m3u8
+#EXTINF:-1,TFX HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13998.m3u8
+#EXTINF:-1,TFX SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1015.m3u8
+#EXTINF:-1,W9 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13690.m3u8
+#EXTINF:-1,W9 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13973.m3u8
+#EXTINF:-1,W9 SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/421.m3u8
+#EXTINF:-1,OFIVE TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1038.m3u8
+#EXTINF:-1,LUXE TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1054.m3u8
+#EXTINF:-1,GUYSEN TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1063.m3u8
+#EXTINF:-1,ALSACE 20
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25048.m3u8
+#EXTINF:-1,VOSGES
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1102.m3u8
+#EXTINF:-1,M6 BOUTIQUE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1097.m3u8
+#EXTINF:-1,FASHIONTV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1064.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13861.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24948.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1040.m3u8
+#EXTINF:-1,DISNEY CHA +1 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13849.m3u8
+#EXTINF:-1,DISNEY CHA+1
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1041.m3u8
+#EXTINF:-1,DISNEY XD FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13862.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24942.m3u8
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13863.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24934.m3u8
+#EXTINF:-1,DISNEY CINEMA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13860.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24940.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14037.m3u8
+#EXTINF:-1,NICKELODEON+1 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13854.m3u8
+#EXTINF:-1,NICKELODEON JUN FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13851.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24935.m3u8
+#EXTINF:-1,NICKELODEON JUN SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/28344.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24957.m3u8
+#EXTINF:-1,TOONAMI FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13850.m3u8
+#EXTINF:-1,|FR|TOONAMI HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24956.m3u8
+#EXTINF:-1,TELETOON+1  FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13855.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24958.m3u8
+#EXTINF:-1,TELETOON+1 
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13869.m3u8
+#EXTINF:-1,PIWI+ FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13867.m3u8
+#EXTINF:-1,PIWI+ HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24937.m3u8
+#EXTINF:-1,MONDE DES PETITS
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13848.m3u8
+#EXTINF:-1,CANAL J FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13764.m3u8
+#EXTINF:-1,Canal J HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24941.m3u8
+#EXTINF:-1,TIJI FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13868.m3u8
+#EXTINF:-1,TIJI HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24949.m3u8
+#EXTINF:-1,BOOMERANG FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13858.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24954.m3u8
+#EXTINF:-1,BOING FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13859.m3u8
+#EXTINF:-1,BOING HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24945.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13761.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24933.m3u8
+#EXTINF:-1,GAME ONE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13856.m3u8
+#EXTINF:-1,GAME ONE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24952.m3u8
+#EXTINF:-1,GAMEONE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1034.m3u8
+#EXTINF:-1,GAME ONE +1 FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13857.m3u8
+#EXTINF:-1,J ONE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13852.m3u8
+#EXTINF:-1,GULLI FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13864.m3u8
+#EXTINF:-1,GULLI SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1020.m3u8
+#EXTINF:-1,GONG
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13853.m3u8
+#EXTINF:-1,GONG
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24936.m3u8
+#EXTINF:-1,MANGAS FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13865.m3u8
+#EXTINF:-1,MANGAS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24932.m3u8
+#EXTINF:-1,CINE KIDS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24959.m3u8
+#EXTINF:-1,DISNEY ORANGE 1
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24939.m3u8
+#EXTINF:-1,DISNEY ORANGE 2
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24950.m3u8
+#EXTINF:-1,DISNEY ORANGE 3
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24951.m3u8
+#EXTINF:-1,***** DOCUMENTAIRE ***** |FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24961.m3u8
+#EXTINF:-1,PEPPA PIG
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6700.m3u8
+#EXTINF:-1,DISNEYS CARTOON CLASSIC
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6713.m3u8
+#EXTINF:-1,MILA MILA
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6736.m3u8
+#EXTINF:-1,TOM AND JERRY
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/6757.m3u8
+#EXTINF:-1,MASHA ET MICHKA
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/7185.m3u8
+#EXTINF:-1,LAPIN CRETIN
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/7258.m3u8
+#EXTINF:-1,PLANETE+ FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13712.m3u8
+#EXTINF:-1,PLANETE+  HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13991.m3u8
+#EXTINF:-1,PLANETE+ CI FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13710.m3u8
+#EXTINF:-1,PLANETE+  CI HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13992.m3u8
+#EXTINF:-1,PLANETE+ A&E FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13711.m3u8
+#EXTINF:-1,PLANETE+  A&E HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13971.m3u8
+#EXTINF:-1,DISCOVERY FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13748.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14017.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13747.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14016.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13836.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13828.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13811.m3u8
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25047.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13719.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14000.m3u8
+#EXTINF:-1,NATIONAL GEO FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13718.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13999.m3u8
+#EXTINF:-1,SCIENCES & VIE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13987.m3u8
+#EXTINF:-1,SCIENCES & VIE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13704.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13789.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14044.m3u8
+#EXTINF:-1,USHUAIA  FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13692.m3u8
+#EXTINF:-1,USHUAIA HD
+http://topiptv.net:5890/live/younesstemara/SdtVyQDfqf/4720.ts
+#EXTINF:-1,USHUAIA SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1055.m3u8
+#EXTINF:-1,ULTRA NATURE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25049.m3u8
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13708.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13990.m3u8
+#EXTINF:-1,RMC STORY SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1026.m3u8
+#EXTINF:-1,VOYAGE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13691.m3u8
+#EXTINF:-1,VOYAGE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13972.m3u8
+#EXTINF:-1,TREK FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13694.m3u8
+#EXTINF:-1,TREK HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13976.m3u8
+#EXTINF:-1,CHASSE&PECHE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13837.m3u8
+#EXTINF:-1,CHASSE & PECHE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14029.m3u8
+#EXTINF:-1,SEASON FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13703.m3u8
+#EXTINF:-1,SEASON HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13988.m3u8
+#EXTINF:-1,CAMPAGNE TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13942.m3u8
+#EXTINF:-1,CRIME DISTRICT FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13750.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14018.m3u8
+#EXTINF:-1,MUSEUM CHANNEL FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13714.m3u8
+#EXTINF:-1,HISTOIRE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13731.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14007.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13832.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25050.m3u8
+#EXTINF:-1,HISTOIRE SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1056.m3u8
+#EXTINF:-1,|FR|***FRANCE INFO***|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24963.m3u8
+#EXTINF:-1,LA CHAINE METEO FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13783.m3u8
+#EXTINF:-1,EURONEWS FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13835.m3u8
+#EXTINF:-1,EURONEWS
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13938.m3u8
+#EXTINF:-1,FRANCE 24 HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/162.m3u8
+#EXTINF:-1,BFM TV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13770.m3u8
+#EXTINF:-1,BFM TV HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14039.m3u8
+#EXTINF:-1,BFM TV SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/424.m3u8
+#EXTINF:-1,BFM BUISINESS
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1045.m3u8
+#EXTINF:-1,LCI FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13727.m3u8
+#EXTINF:-1,LCI sd
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1042.m3u8
+#EXTINF:-1,LCP FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13809.m3u8
 #EXTINF:-1,LCP
-http://resosat.club:8080/live/iman/iman/16.ts
-#EXTINF:-1,FRANCE 4
-http://resosat.club:8080/live/iman/iman/30.ts
-#EXTINF:-1,DISCOVERY CHANNEL (L)
-http://resosat.club:8080/live/iman/iman/122.ts
-#EXTINF:-1,DISCOVERY FAMILY (L)
-http://resosat.club:8080/live/iman/iman/124.ts
-#EXTINF:-1,DISNEY XD
-http://resosat.club:8080/live/iman/iman/102.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://resosat.club:8080/live/iman/iman/101.ts
-#EXTINF:-1,DISCOVERY SCI (L)
-http://resosat.club:8080/live/iman/iman/123.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://resosat.club:8080/live/iman/iman/99.ts
-#EXTINF:-1,DISCOVERY INVESTIGATION (L)
-http://resosat.club:8080/live/iman/iman/125.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://resosat.club:8080/live/iman/iman/126.ts
-#EXTINF:-1,NATIONAL GEO WILD
-http://resosat.club:8080/live/iman/iman/127.ts
-#EXTINF:-1,NICKELODEON
-http://resosat.club:8080/live/iman/iman/103.ts
-#EXTINF:-1,NICKELODEON JUNIOR
-http://resosat.club:8080/live/iman/iman/104.ts
-#EXTINF:-1,SP: BEIN SPORTS 1 FHD
-http://resosat.club:8080/live/iman/iman/180.ts
-#EXTINF:-1,SP: BEIN SPORTS 1
-http://resosat.club:8080/live/iman/iman/51.ts
-#EXTINF:-1,SP: BEIN SPORTS 2 FHD
-http://resosat.club:8080/live/iman/iman/181.ts
-#EXTINF:-1,SP: BEIN SPORTS 2
-http://resosat.club:8080/live/iman/iman/52.ts
-#EXTINF:-1,SP: BEIN SPORTS 3 FHD
-http://resosat.club:8080/live/iman/iman/182.ts
-#EXTINF:-1,SP: BEIN SPORTS 3
-http://resosat.club:8080/live/iman/iman/53.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 4
-http://resosat.club:8080/live/iman/iman/54.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 5
-http://resosat.club:8080/live/iman/iman/55.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 6
-http://resosat.club:8080/live/iman/iman/56.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 7
-http://resosat.club:8080/live/iman/iman/57.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 8
-http://resosat.club:8080/live/iman/iman/58.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 9
-http://resosat.club:8080/live/iman/iman/59.ts
-#EXTINF:-1,SP: BEIN SPORTS MAX 10
-http://resosat.club:8080/live/iman/iman/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.imgur.com/bQ0qIxF.jpg" group-title="",TV8 Montblanc
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="Kids",TÈlÈToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/803evgT.png" group-title="",vi‡Vosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="",W9
-https://s1.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png" group-title="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1051.png" group-title="",Alsace 20
-http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
-#EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="",Canal J
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="",CStar
-https://s1.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.d5tv.fr/fond-d5-v3.png" group-title="",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png" group-title="",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="",EMCI TV
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="" group-title="",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="" group-title="",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="" group-title="",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/fr/GONGMAX.png" group-title="",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Gulli FR" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="",Gulli
-https://s1.tntendirect.com/gulli/live/playlist.m3u8
-#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-logo="https://www.don-bosco.net/images/stories/articles/actualites2/2015/01-janvier/petites/KTOTV_Salesiens_Bosco.jpg" group-title="",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="LEquipe 21 FR" tvg-logo="https://i.imgur.com/B6r4RgK.jpg" group-title="",L'Equipe 21
-https://s1.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="",M6
-https://s1.tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="" group-title="Music",MCM Top HD
-http://92.43.140.249/s49/04.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="Music",MCM Top HD
-http://ott-cdn.ucom.am/s49/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://static.iptv-epg.com/fr/Mezzo.fr.png" group-title="",Mezzo
-http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="",NRJ 12
-https://s1.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Contacto
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC Decouverte FR" tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg" group-title="",RMC Decouverte
-https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg" group-title="",RMC Story
-https://s1.tntendirect.com/numero23/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/200px-RT-France-logo.svg.png" group-title="News",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 FR" tvg-logo="https://i.imgur.com/06fP5xL.jpg" group-title="",TF1
-https://s1.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 Series Film FR" tvg-logo="https://i.imgur.com/RcUdig8.jpg" group-title="Movies",TF1 Series Film
-https://s1.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="",TFX
-https://s1.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC FR" tvg-logo="https://i.imgur.com/cV2Os0a.jpg" group-title="",TMC
-https://s1.tntendirect.com/tmc/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 2 FR" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="",France 2
-https://s1.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="",France 3
-http://109.236.92.216:9090/France3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="",France 3
-https://s1.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="",France 4
-https://s1.tntendirect.com/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 5 FR" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="",France 5
-https://s1.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France O FR" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="",France ‘
-https://s1.tntendirect.com/franceo/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Arte FR" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="",Arte
-https://s1.tntendirect.com/arte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blackbeautyfair.com/wp-content/uploads/2015/08/logo_bblack_africa-820x442.png" group-title="",Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/vjdid.com/wp-content/uploads/2017/10/logo-bblack-caribbean-contour-noir.png" group-title="",Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3784017_logo_beblack_classik.png" group-title="",Bblack! Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="",BFM TV
-https://s1.tntendirect.com/bmftv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="",C8
-https://s1.tntendirect.com/d8/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nowtv.now.com/shares/channelPreview/img/en_hk/color/ch713_170_122.jpg" group-title="",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-
-#EXTINF:-1,France 2
-http://163.172.43.207:8081/france2/live/playlist.m3u8
-#EXTINF:-1,France 3
-http://163.172.43.207:8081/france3/live/playlist.m3u8
-#EXTINF:-1, France 4
-http://163.172.43.207:8081/france4/live/playlist.m3u8
-#EXTINF:-1,France 5
-http://163.172.43.207:8081/france5/live/playlist.m3u8
-#EXTINF:-1,France ‘
-http://163.172.43.207:8081/franceo/live/playlist.m3u8
-#EXTINF:-1,Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1,6ter
-http://163.172.43.207:8081/6ter/live/playlist.m3u8
-#EXTINF:-1,Arte
-http://163.172.43.207:8081/arte/live/playlist.m3u8
-#EXTINF:-1,TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1,TF1 SÈries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1,TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1,TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1,TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1,TV5 Europe
-http://ott-cdn.ucom.am/s75/04.m3u8
-#EXTINF:-1,TV5 Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,TV5 Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1,TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1,TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1,TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1,W9
-http://163.172.43.207:8081/w9/live/playlist.m3u8
-#EXTINF:-1,FR:TF 1
-http://kanali.ddns.net:25461/live/tvfrance/tvfrance/1369.m3u8
-#EXTINF:-1,FR:France 24
-http://kanali.ddns.net:25461/live/tvfrance/tvfrance/1371.m3u8
-#EXTINF:-1,FR:Arte
-http://kanali.ddns.net:25461/live/tvfrance/tvfrance/1370.m3u8
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1016.m3u8
+#EXTINF:-1,LCP100%
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1046.m3u8
+#EXTINF:-1,CNEWS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14020.m3u8
+#EXTINF:-1,CNEWS SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1017.m3u8
+#EXTINF:-1,FRANCE INFO HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13935.m3u8
+#EXTINF:-1,FRANCE INFO SD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1917.m3u8
+#EXTINF:-1,TV5 MONDE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25051.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25052.m3u8
+#EXTINF:-1,I24 NEWS FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13730.m3u8
+#EXTINF:-1,i24 NEWS
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1050.m3u8
+#EXTINF:-1,RT FRANCE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/35341.m3u8
+#EXTINF:-1,|FR|***MUSSIC***|FR|
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24964.m3u8
+#EXTINF:-1,M6 MUSIC FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13826.m3u8
+#EXTINF:-1,TRACE URBAIN HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13844.m3u8
+#EXTINF:-1,TRACE URBAIN
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13978.m3u8
+#EXTINF:-1,TRACE URBAIN FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1099.m3u8
+#EXTINF:-1,TRACE URBAN INTER
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/9127.m3u8
+#EXTINF:-1,TRACE TROPICAL HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/9128.m3u8
+#EXTINF:-1,TRACE AFRICA HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13771.m3u8
+#EXTINF:-1,TRACE AFRICA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13720.m3u8
+#EXTINF:-1,MTV LIVE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25054.m3u8
+#EXTINF:-1,BET
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25057.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25055.m3u8
+#EXTINF:-1,TRACE TOCA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25056.m3u8
+#EXTINF:-1,MTV HITS HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/8050.m3u8
+#EXTINF:-1,BBLACK CLASSIK
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/8052.m3u8
+#EXTINF:-1,INDIES LIVE MUSIC
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/25058.m3u8
+#EXTINF:-1,MTV MUSIC LIVE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13721.m3u8
+#EXTINF:-1,MTV MUSIC LIVE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13930.m3u8
+#EXTINF:-1,MTV DANCE
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13931.m3u8
+#EXTINF:-1,MTV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13932.m3u8
+#EXTINF:-1,MTV HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14009.m3u8
+#EXTINF:-1,MCM FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13725.m3u8
+#EXTINF:-1,MCM HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14002.m3u8
+#EXTINF:-1,MCM TOP HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1037.m3u8
+#EXTINF:-1,MCM TOP FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13724.m3u8
+#EXTINF:-1,RFM TV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13709.m3u8
+#EXTINF:-1,RFM HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/24960.m3u8
+#EXTINF:-1,NRJ HITS
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13927.m3u8
+#EXTINF:-1,MEZZO HD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14001.m3u8
+#EXTINF:-1,MEZZO LIVE FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13723.m3u8
+#EXTINF:-1,BBLACK
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13840.m3u8
+#EXTINF:-1,VH1 CLASSIC FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13815.m3u8
+#EXTINF:-1,MELODY TV FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13808.m3u8
+#EXTINF:-1,BRAVA FHD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/14038.m3u8
+#EXTINF:-1,DJAZZ TV
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/13939.m3u8
+#EXTINF:-1,TELESUD
+http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/1101.m3u8
