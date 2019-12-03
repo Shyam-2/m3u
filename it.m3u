@@ -1,93 +1,443 @@
 #EXTM3U
-#EXTINF:0,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:0,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:0,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:0,Class TV Moda
-http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
-#EXTINF:0,Cremona 1
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0,eTV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:0,Fano TV
-http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
-#EXTINF:0,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:0,La 7 [Geo]
-http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:0,m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0,Napoli Canale 21
-http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
-#EXTINF:0,Napoli Canale 21*
-http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
-#EXTINF:0,Orler TV
-http://77.92.76.135:1935/orler/livestream/live.m3u8
-#EXTINF:0,Rai 5
-http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
-#EXTINF:0,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:0,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0,Rai News 24
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-#EXTINF:0,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:0,Rai Scuola
-http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:0,Rai Storia
-http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
-#EXTINF:0,Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:0,Rete 55
-http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
-#EXTINF:0,Rete 55*
-http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
-#EXTINF:0,Retesole
-http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
-#EXTINF:0,RTL 102.5
-http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:0,RTV 38
-http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
-#EXTINF:0,Saronno TV
-http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
-#EXTINF:0,Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0,Sudtirol TV
-http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
-#EXTINF:0,SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:0,Tele Milano
-http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
-#EXTINF:0,TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:0,teleMonteneve
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:0,telePAVIA
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:0,TeleStudio Modena
-http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
-#EXTINF:0,TG Norba 24
-http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
-#EXTINF:0,Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-#EXTINF:0,Trentino TV*
-http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
-#EXTINF:0,TRM h24
-http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
-#EXTINF:0,TSN
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:0,TV Luna
-http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
-#EXTINF:0,TV Luna*
-http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
-#EXTINF:0,TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:0,Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:0,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:0,Videolina
-http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:-1,Alice
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/125
+#EXTINF:-1,Alpha Tv
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/126
+#EXTINF:-1,Baby Tv
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/127
+#EXTINF:-1,AutoMoto TV
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/128
+#EXTINF:-1,Boomerang
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/129
+#EXTINF:-1,Boing Plus
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/130
+#EXTINF:-1,Boing
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/131
+#EXTINF:-1,Blaze HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/132
+#EXTINF:-1,Blaze Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/133
+#EXTINF:-1,Bike Channel Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/134
+#EXTINF:-1,Bike Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/135
+#EXTINF:-1,Dea Kids
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/136
+#EXTINF:-1,Dea junior
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/137
+#EXTINF:-1,DAZN Sport 9 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/138
+#EXTINF:-1,DAZN Sport 8 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/139
+#EXTINF:-1,DAZN Sport 7 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/140
+#EXTINF:-1,DAZN Sport 6 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/141
+#EXTINF:-1,DAZN Sport 5 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/142
+#EXTINF:-1,DAZN Sport 4 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/143
+#EXTINF:-1,DAZN Sport 3 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/144
+#EXTINF:-1,DAZN Sport 2 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/145
+#EXTINF:-1,DAZN Sport 14 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/146
+#EXTINF:-1,DAZN Sport 13 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/147
+#EXTINF:-1,DAZN Sport 12 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/148
+#EXTINF:-1,DAZN Sport 11 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/149
+#EXTINF:-1,DAZN Sport 10 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/150
+#EXTINF:-1,DAZN Sport 1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/151
+#EXTINF:-1,DAZN Serie A1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/152
+#EXTINF:-1,Dazn Serie A1 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/153
+#EXTINF:-1,DAZN Info
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/154
+#EXTINF:-1,Crime Investigation HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/155
+#EXTINF:-1,Crime Investigation Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/156
+#EXTINF:-1,Comedy Central
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/157
+#EXTINF:-1,Class Horse Tv
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/158
+#EXTINF:-1,Class CNBC
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/159
+#EXTINF:-1,Cielo HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/160
+#EXTINF:-1,Cartoonito
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/161
+#EXTINF:-1,Cartoon Network
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/162
+#EXTINF:-1,Canale 8
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/163
+#EXTINF:-1,Canale 5 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/164
+#EXTINF:-1,Canale 5 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/165
+#EXTINF:-1,Caccia e Pesca
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/166
+#EXTINF:-1,Fox Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/167
+#EXTINF:-1,Fox Crime HD  1
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/168
+#EXTINF:-1,Fox Crime HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/169
+#EXTINF:-1,Fox Crime Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/170
+#EXTINF:-1,Food Network
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/171
+#EXTINF:-1,Focus
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/172
+#EXTINF:-1,Eurosport 2 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/173
+#EXTINF:-1,EuroSport 2 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/174
+#EXTINF:-1,Eurosport 1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/175
+#EXTINF:-1,Dove
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/176
+#EXTINF:-1,Dmax Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/177
+#EXTINF:-1,Dmax
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/178
+#EXTINF:-1,Disney Junior
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/179
+#EXTINF:-1,Disney Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/180
+#EXTINF:-1,Discovery Sci HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/181
+#EXTINF:-1,Discovery Sci Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/182
+#EXTINF:-1,Discovery HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/183
+#EXTINF:-1,Discovery Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/184
+#EXTINF:-1,Iris
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/185
+#EXTINF:-1,Inter Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/186
+#EXTINF:-1,History Lab
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/187
+#EXTINF:-1,History HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/188
+#EXTINF:-1,Giallo
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/189
+#EXTINF:-1,Gambero Rosso HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/190
+#EXTINF:-1,Gambero Rosso Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/191
+#EXTINF:-1,Frisbee
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/192
+#EXTINF:-1,Fox Life HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/193
+#EXTINF:-1,Fox Life Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/194
+#EXTINF:-1,Fox HD  1
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/195
+#EXTINF:-1,Fox HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/196
+#EXTINF:-1,Lei
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/197
+#EXTINF:-1,Lazio Style Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/198
+#EXTINF:-1,LaEffe
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/199
+#EXTINF:-1,La7d
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/200
+#EXTINF:-1,La7
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/201
+#EXTINF:-1,La 5
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/202
+#EXTINF:-1,K2
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/203
+#EXTINF:-1,Italian Fishing Tv
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/204
+#EXTINF:-1,Italia 2
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/205
+#EXTINF:-1,Italia 1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/206
+#EXTINF:-1,Italia 1 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/207
+#EXTINF:-1,Motor Trend
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/208
+#EXTINF:-1,Milan Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/209
+#EXTINF:-1,Mediaset Extra
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/210
+#EXTINF:-1,Marco Polo
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/211
+#EXTINF:-1,Man-Ga
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/212
+#EXTINF:-1,Premium 20
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/213
+#EXTINF:-1,Pesca e Caccia
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/214
+#EXTINF:-1,Passie
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/215
+#EXTINF:-1,Paramount HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/216
+#EXTINF:-1,Nove TV
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/217
+#EXTINF:-1,Nickelodeon
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/218
+#EXTINF:-1,Nick Junior
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/219
+#EXTINF:-1,NationalGeo HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/220
+#EXTINF:-1,NationalGeo Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/221
+#EXTINF:-1,NatGeo Wild HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/222
+#EXTINF:-1,NatGeo Wild Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/223
+#EXTINF:-1,Radio Italia TV
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/224
+#EXTINF:-1,Radio Capital TV
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/225
+#EXTINF:-1,Radio 105 TV
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/226
+#EXTINF:-1,Prive' Tv
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/227
+#EXTINF:-1,Premium Stories Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/228
+#EXTINF:-1,Premium Stories
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/229
+#EXTINF:-1,Premium Energy Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/230
+#EXTINF:-1,Premium Energy
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/231
+#EXTINF:-1,Premium Emotion HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/232
+#EXTINF:-1,Premium Crime Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/233
+#EXTINF:-1,Premium Comedy
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/234
+#EXTINF:-1,Premium Cinema HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/235
+#EXTINF:-1,Premium Cinema Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/236
+#EXTINF:-1,Premium Cinema  24 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/237
+#EXTINF:-1,Premium Cinema   24 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/238
+#EXTINF:-1,Premium Action HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/239
+#EXTINF:-1,Premium Action Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/240
+#EXTINF:-1,Real Time
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/241
+#EXTINF:-1,Rai YoYo Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/242
+#EXTINF:-1,Rai yoyo HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/243
+#EXTINF:-1,Rai Storia
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/244
+#EXTINF:-1,Rai Sport   HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/245
+#EXTINF:-1,Rai Scuola
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/246
+#EXTINF:-1,Rai Premium
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/247
+#EXTINF:-1,Rai Movie
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/248
+#EXTINF:-1,Rai Gulp Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/249
+#EXTINF:-1,Rai Gulp
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/250
+#EXTINF:-1,Rai 5
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/251
+#EXTINF:-1,Rai 4 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/252
+#EXTINF:-1,Rai 4
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/253
+#EXTINF:-1,Rai 3 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/254
+#EXTINF:-1,Rai 3 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/255
+#EXTINF:-1,Radio Montecarlo TV
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/256
+#EXTINF:-1,Sky Cinema Action  1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/257
+#EXTINF:-1,Sky Atlantic HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/258
+#EXTINF:-1,Sky Atlantic Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/259
+#EXTINF:-1,Sky Atlantic  1
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/260
+#EXTINF:-1,Sky Arte HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/261
+#EXTINF:-1,Sky Arte Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/262
+#EXTINF:-1,RSI La2 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/264
+#EXTINF:-1,RSI La1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/265
+#EXTINF:-1,Roma Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/266
+#EXTINF:-1,Rete 4 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/267
+#EXTINF:-1,Rete 4 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/268
+#EXTINF:-1,Sky Cinema Suspance Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/269
+#EXTINF:-1,Sky Cinema Romance HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/270
+#EXTINF:-1,Sky Cinema Romance Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/271
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/272
+#EXTINF:-1,Sky Cinema Family Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/273
+#EXTINF:-1,Sky Cinema Family  1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/274
+#EXTINF:-1,Sky Cinema Due HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/275
+#EXTINF:-1,Sky Cinema Due Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/276
+#EXTINF:-1,Sky Cinema Due  24 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/277
+#EXTINF:-1,Sky Cinema Due  24 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/278
+#EXTINF:-1,Sky Cinema Drama HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/279
+#EXTINF:-1,Sky Cinema Drama Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/280
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/281
+#EXTINF:-1,Sky Cinema Comedy Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/282
+#EXTINF:-1,Sky Cinema Collection HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/283
+#EXTINF:-1,Sky Cinema Collection Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/284
+#EXTINF:-1,Sky Cinema Action HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/285
+#EXTINF:-1,Sky Cinema Action Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/286
+#EXTINF:-1,Sky Sport 254 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/287
+#EXTINF:-1,Sky Sport 253 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/288
+#EXTINF:-1,Sky Sport 253 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/289
+#EXTINF:-1,Sky Sport 252 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/290
+#EXTINF:-1,Sky Sport 252 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/291
+#EXTINF:-1,Sky Sport 251 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/292
+#EXTINF:-1,Sky Sport 251 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/293
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/294
+#EXTINF:-1,Sky Sport 24 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/295
+#EXTINF:-1,Sky Classica
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/296
+#EXTINF:-1,Sky Cinema Uno HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/297
+#EXTINF:-1,Sky Cinema Uno Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/298
+#EXTINF:-1,Sky Cinema Uno  24 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/299
+#EXTINF:-1,Sky Cinema Uno  24 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/300
+#EXTINF:-1,Sky Cinema Uno  1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/301
+#EXTINF:-1,Sky Cinema Uno  1 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/302
+#EXTINF:-1,Sky Cinema Suspance HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/303
+#EXTINF:-1,Sky Sport NBA Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/304
+#EXTINF:-1,Sky Sport MotoGP HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/305
+#EXTINF:-1,Sky Sport MotoGP Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/306
+#EXTINF:-1,Sky Sport Football HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/307
+#EXTINF:-1,Sky Sport Football Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/308
+#EXTINF:-1,Sky Sport F1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/309
+#EXTINF:-1,Sky Sport F1 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/310
+#EXTINF:-1,Sky Sport Collection HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/311
+#EXTINF:-1,Sky Sport Collection Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/312
+#EXTINF:-1,Sky Sport Arena HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/313
+#EXTINF:-1,Sky Sport Arena Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/314
+#EXTINF:-1,Sky Sport 257 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/315
+#EXTINF:-1,Sky Sport 256 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/316
+#EXTINF:-1,Sky Sport 255 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/317
+#EXTINF:-1,Sky Sport 255 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/318
+#EXTINF:-1,Sky Sport 254 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/319
+#EXTINF:-1,Sport Italia HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/320
+#EXTINF:-1,Spike
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/321
+#EXTINF:-1,Sky Uno HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/322
+#EXTINF:-1,Sky Uno Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/323
+#EXTINF:-1,Sky Uno  1
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/324
+#EXTINF:-1,Sky TG 24 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/325
+#EXTINF:-1,Sky Sport WWE
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/326
+#EXTINF:-1,Sky Sport Uno HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/327
+#EXTINF:-1,Sky Sport Uno Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/328
+#EXTINF:-1,Sky Sport Serie A HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/329
+#EXTINF:-1,Sky Sport Serie A Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/330
+#EXTINF:-1,Sky Sport NBA HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/331
+#EXTINF:-1,UnireSat
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/334
+#EXTINF:-1,Tv8
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/335
+#EXTINF:-1,Torino Channel
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/336
+#EXTINF:-1,Top Crime
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/337
+#EXTINF:-1,Top Calcio 24
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/338
+#EXTINF:-1,Tg Com 24
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/339
+#EXTINF:-1,Super!
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/340
+#EXTINF:-1,Super Tennis HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/341
+#EXTINF:-1,Super One
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/342
+#EXTINF:-1,ff
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/343
+#EXTINF:-1,M2O
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/344
+#EXTINF:-1,Rai 2 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/345
+#EXTINF:-1,Rai 2 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/346
+#EXTINF:-1,Rai 1 Full HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/347
+#EXTINF:-1,Rai 1 HD
+http://iptv6.premium-stv.com:25461/sourceitalypro2/4936722850/348
