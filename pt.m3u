@@ -1,245 +1,123 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://trsat.nl:80/ercan/ercan123/312
-#EXTINF:-1,RTP 1
-http://trsat.nl:80/ercan/ercan123/313
-#EXTINF:-1,RTP 2 HD
-http://trsat.nl:80/ercan/ercan123/314
-#EXTINF:-1,RTP 2
-http://trsat.nl:80/ercan/ercan123/315
+#EXTINF:-1,RTP 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1215
+#EXTINF:-1,RTP 2 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1216
 #EXTINF:-1,RTP 3
-http://trsat.nl:80/ercan/ercan123/316
-#EXTINF:-1,RTP Africa
-http://trsat.nl:80/ercan/ercan123/317
-#EXTINF:-1,RTP ALores
-http://trsat.nl:80/ercan/ercan123/318
-#EXTINF:-1,RTP Madeira
-http://trsat.nl:80/ercan/ercan123/319
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9416
 #EXTINF:-1,RTP Memoria
-http://trsat.nl:80/ercan/ercan123/320
-#EXTINF:-1,Globo
-http://trsat.nl:80/ercan/ercan123/321
-#EXTINF:-1,Globo Now
-http://trsat.nl:80/ercan/ercan123/322
-#EXTINF:-1,RTC
-http://trsat.nl:80/ercan/ercan123/323
-#EXTINF:-1,TV Record
-http://trsat.nl:80/ercan/ercan123/324
-#EXTINF:-1,SIC HD
-http://trsat.nl:80/ercan/ercan123/325
-#EXTINF:-1,SIC
-http://trsat.nl:80/ercan/ercan123/326
-#EXTINF:-1,SIC Radical
-http://trsat.nl:80/ercan/ercan123/327
-#EXTINF:-1,SIC Caras
-http://trsat.nl:80/ercan/ercan123/328
-#EXTINF:-1,SIC Mulher
-http://trsat.nl:80/ercan/ercan123/329
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2712
+#EXTINF:-1,RTP Africa
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9625
+#EXTINF:-1,TVI 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1218
+#EXTINF:-1,SIC 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1217
 #EXTINF:-1,SIC Noticias
-http://trsat.nl:80/ercan/ercan123/330
-#EXTINF:-1,SIC K
-http://trsat.nl:80/ercan/ercan123/331
-#EXTINF:-1,TVI
-http://trsat.nl:80/ercan/ercan123/332
-#EXTINF:-1,TVI 24
-http://trsat.nl:80/ercan/ercan123/333
-#EXTINF:-1,TVI Ficcao
-http://trsat.nl:80/ercan/ercan123/334
-#EXTINF:-1,TVI Reality
-http://trsat.nl:80/ercan/ercan123/335
-#EXTINF:-1,SyFy
-http://trsat.nl:80/ercan/ercan123/336
-#EXTINF:-1,TLC
-http://trsat.nl:80/ercan/ercan123/337
-#EXTINF:-1,FOX HD
-http://trsat.nl:80/ercan/ercan123/338
-#EXTINF:-1,FOX Crime HD
-http://trsat.nl:80/ercan/ercan123/339
-#EXTINF:-1,FOX Life HD
-http://trsat.nl:80/ercan/ercan123/340
-#EXTINF:-1,AXN HD
-http://trsat.nl:80/ercan/ercan123/341
-#EXTINF:-1,AXN Black HD
-http://trsat.nl:80/ercan/ercan123/342
-#EXTINF:-1,AXN White HD
-http://trsat.nl:80/ercan/ercan123/343
-#EXTINF:-1,24 Kitchen HD
-http://trsat.nl:80/ercan/ercan123/344
-#EXTINF:-1,AMC HD
-http://trsat.nl:80/ercan/ercan123/345
-#EXTINF:-1,AMC
-http://trsat.nl:80/ercan/ercan123/346
-#EXTINF:-1,Baby TV
-http://trsat.nl:80/ercan/ercan123/347
-#EXTINF:-1,Canal Panda
-http://trsat.nl:80/ercan/ercan123/348
-#EXTINF:-1,Disney Channel
-http://trsat.nl:80/ercan/ercan123/350
-#EXTINF:-1,Disney Junnior
-http://trsat.nl:80/ercan/ercan123/351
-#EXTINF:-1,Nick Jr.
-http://trsat.nl:80/ercan/ercan123/352
-#EXTINF:-1,Nickelodeon
-http://trsat.nl:80/ercan/ercan123/353
-#EXTINF:-1,Jim Jam
-http://trsat.nl:80/ercan/ercan123/354
-#EXTINF:-1,Afro Music
-http://trsat.nl:80/ercan/ercan123/355
-#EXTINF:-1,MCM POP
-http://trsat.nl:80/ercan/ercan123/356
-#EXTINF:-1,MTV Portugal
-http://trsat.nl:80/ercan/ercan123/357
-#EXTINF:-1,Trace Toca
-http://trsat.nl:80/ercan/ercan123/358
-#EXTINF:-1,Trace Urban
-http://trsat.nl:80/ercan/ercan123/359
-#EXTINF:-1,VH1
-http://trsat.nl:80/ercan/ercan123/360
-#EXTINF:-1,TVCine 1 HD
-http://trsat.nl:80/ercan/ercan123/361
-#EXTINF:-1,TVCine 1
-http://trsat.nl:80/ercan/ercan123/362
-#EXTINF:-1,TVCine 2 HD
-http://trsat.nl:80/ercan/ercan123/363
-#EXTINF:-1,TVCine 2
-http://trsat.nl:80/ercan/ercan123/364
-#EXTINF:-1,TVCine 3 HD
-http://trsat.nl:80/ercan/ercan123/365
-#EXTINF:-1,TVCine 3
-http://trsat.nl:80/ercan/ercan123/366
-#EXTINF:-1,TVCine 4 HD
-http://trsat.nl:80/ercan/ercan123/367
-#EXTINF:-1,TVCine 4
-http://trsat.nl:80/ercan/ercan123/368
-#EXTINF:-1,TVSeries HD
-http://trsat.nl:80/ercan/ercan123/369
-#EXTINF:-1,TVSeries
-http://trsat.nl:80/ercan/ercan123/370
-#EXTINF:-1,Cinemundo
-http://trsat.nl:80/ercan/ercan123/371
-#EXTINF:-1,FOX Movies
-http://trsat.nl:80/ercan/ercan123/372
-#EXTINF:-1,FOX Comedy
-http://trsat.nl:80/ercan/ercan123/373
-#EXTINF:-1,Hollywood HD
-http://trsat.nl:80/ercan/ercan123/374
-#EXTINF:-1,Hollywood
-http://trsat.nl:80/ercan/ercan123/375
-#EXTINF:-1,SPORT TV 1 HD
-http://trsat.nl:80/ercan/ercan123/376
-#EXTINF:-1,SPORT TV 1
-http://trsat.nl:80/ercan/ercan123/377
-#EXTINF:-1,SPORT TV 2 HD
-http://trsat.nl:80/ercan/ercan123/378
-#EXTINF:-1,SPORT TV 2
-http://trsat.nl:80/ercan/ercan123/379
-#EXTINF:-1,SPORT TV 3 HD
-http://trsat.nl:80/ercan/ercan123/380
-#EXTINF:-1,SPORT TV 3
-http://trsat.nl:80/ercan/ercan123/381
-#EXTINF:-1,SPORT TV 4
-http://trsat.nl:80/ercan/ercan123/382
-#EXTINF:-1,SPORT TV 5
-http://trsat.nl:80/ercan/ercan123/383
-#EXTINF:-1,SPORT TV +
-http://trsat.nl:80/ercan/ercan123/384
-#EXTINF:-1,Sporting TV
-http://trsat.nl:80/ercan/ercan123/385
-#EXTINF:-1,Eleven Sports 1 HD
-http://trsat.nl:80/ercan/ercan123/386
-#EXTINF:-1,Eleven Sports 2 HD
-http://trsat.nl:80/ercan/ercan123/387
-#EXTINF:-1,Eleven Sports 3
-http://trsat.nl:80/ercan/ercan123/388
-#EXTINF:-1,Eleven Sports 4
-http://trsat.nl:80/ercan/ercan123/389
-#EXTINF:-1,Eleven Sports 5
-http://trsat.nl:80/ercan/ercan123/390
-#EXTINF:-1,Eleven Sports 6
-http://trsat.nl:80/ercan/ercan123/391
-#EXTINF:-1,BTV 1
-http://trsat.nl:80/ercan/ercan123/392
-#EXTINF:-1,BTV HD
-http://trsat.nl:80/ercan/ercan123/393
-#EXTINF:-1,11 HD
-http://trsat.nl:80/ercan/ercan123/394
-#EXTINF:-1,NBA TV
-http://trsat.nl:80/ercan/ercan123/395
-#EXTINF:-1,Kombat Sport
-http://trsat.nl:80/ercan/ercan123/396
-#EXTINF:-1,A Bola TV
-http://trsat.nl:80/ercan/ercan123/397
-#EXTINF:-1,Eurosport 1 HD
-http://trsat.nl:80/ercan/ercan123/398
-#EXTINF:-1,Eurosport 1
-http://trsat.nl:80/ercan/ercan123/399
-#EXTINF:-1,Eurosport 2
-http://trsat.nl:80/ercan/ercan123/400
-#EXTINF:-1,Discovery HD
-http://trsat.nl:80/ercan/ercan123/401
-#EXTINF:-1,Discovery Channel
-http://trsat.nl:80/ercan/ercan123/402
-#EXTINF:-1,ID Investigation Discovery
-http://trsat.nl:80/ercan/ercan123/403
-#EXTINF:-1,Crime+Investigation
-http://trsat.nl:80/ercan/ercan123/404
-#EXTINF:-1,National Geographic HD
-http://trsat.nl:80/ercan/ercan123/405
-#EXTINF:-1,National Geographic Wild
-http://trsat.nl:80/ercan/ercan123/406
-#EXTINF:-1,Historia
-http://trsat.nl:80/ercan/ercan123/407
-#EXTINF:-1,Travel Channel HD
-http://trsat.nl:80/ercan/ercan123/408
-#EXTINF:-1,CBS Reality
-http://trsat.nl:80/ercan/ercan123/409
-#EXTINF:-1,NOS Studios HD
-http://trsat.nl:80/ercan/ercan123/410
-#EXTINF:-1,CMTV
-http://trsat.nl:80/ercan/ercan123/411
-#EXTINF:-1,Canal NOS
-http://trsat.nl:80/ercan/ercan123/412
-#EXTINF:-1,ARTV
-http://trsat.nl:80/ercan/ercan123/413
-#EXTINF:-1,Biggs
-http://trsat.nl:80/ercan/ercan123/414
-#EXTINF:-1,Blaze
-http://trsat.nl:80/ercan/ercan123/415
-#EXTINF:-1,Bloomberg
-http://trsat.nl:80/ercan/ercan123/416
-#EXTINF:-1,CaLa e Pesca
-http://trsat.nl:80/ercan/ercan123/417
-#EXTINF:-1,CaLavision
-http://trsat.nl:80/ercan/ercan123/418
-#EXTINF:-1,Canal Q
-http://trsat.nl:80/ercan/ercan123/419
-#EXTINF:-1,Cancao Nova
-http://trsat.nl:80/ercan/ercan123/420
-#EXTINF:-1,E! Entertainment
-http://trsat.nl:80/ercan/ercan123/421
-#EXTINF:-1,Eurochannel
-http://trsat.nl:80/ercan/ercan123/422
-#EXTINF:-1,Fuel TV
-http://trsat.nl:80/ercan/ercan123/423
-#EXTINF:-1,Kuriakos TV
-http://trsat.nl:80/ercan/ercan123/424
-#EXTINF:-1,Motorvision
-http://trsat.nl:80/ercan/ercan123/425
-#EXTINF:-1,My Cuisine
-http://trsat.nl:80/ercan/ercan123/426
-#EXTINF:-1,NHK World Japan
-http://trsat.nl:80/ercan/ercan123/427
-#EXTINF:-1,Toros TV
-http://trsat.nl:80/ercan/ercan123/428
-#EXTINF:-1,ZAP Viva HD
-http://trsat.nl:80/ercan/ercan123/429
-#EXTINF:-1,Odisseia
-http://trsat.nl:80/ercan/ercan123/430
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2703
+#EXTINF:-1,SIC Radical
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9392
+#EXTINF:-1,SIC Mulher
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2716
 #EXTINF:-1,Porto Canal
-http://trsat.nl:80/ercan/ercan123/431
-#EXTINF:-1,TV Galicia
-http://trsat.nl:80/ercan/ercan123/432
-#EXTINF:-1,TVE 24H
-http://trsat.nl:80/ercan/ercan123/433
-#EXTINF:-1,TVEi
-http://trsat.nl:80/ercan/ercan123/434
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2704
+#EXTINF:-1,Globo Now
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2731
+#EXTINF:-1,Globo TV
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9390
+#EXTINF:-1,TCV Internacional
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/30877
+#EXTINF:-1,Disney Channel
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9410
+#EXTINF:-1,Disney Junior
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2717
+#EXTINF:-1,Canal Panda
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2710
+#EXTINF:-1,Nickelodeon
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9417
+#EXTINF:-1,JimJam
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9400
+#EXTINF:-1,SIC K
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2720
+#EXTINF:-1,Nat Geo Wild 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2705
+#EXTINF:-1,Discovery Showcase
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/23324
+#EXTINF:-1,National Geographic 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9422
+#EXTINF:-1,Travel Channel 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9420
+#EXTINF:-1,Historia
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9413
+#EXTINF:-1,24Kitchen 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1236
+#EXTINF:-1,E! Entertainment
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2725
+#EXTINF:-1,CMTV 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2709
+#EXTINF:-1,Odisseia
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9399
+#EXTINF:-1,CBS Reality
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9411
+#EXTINF:-1,Canal Q
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9418
+#EXTINF:-1,A Bola TV
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9415
+#EXTINF:-1,TVI 24
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2734
+#EXTINF:-1,TLC
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9409
+#EXTINF:-1,FOX 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1232
+#EXTINF:-1,Fox Life 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1234
+#EXTINF:-1,Fox Crime 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1230
+#EXTINF:-1,Fox Movies
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1235
+#EXTINF:-1,Fox Comedy
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9403
+#EXTINF:-1,AMC 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9423
+#EXTINF:-1,AXN 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1227
+#EXTINF:-1,AXN White 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2708
+#EXTINF:-1,AXN Black 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9414
+#EXTINF:-1,SyFy 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9391
+#EXTINF:-1,TV Cine 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1220
+#EXTINF:-1,TV Cine 2 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1221
+#EXTINF:-1,TV Cine 3 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1222
+#EXTINF:-1,TV Cine 4 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1223
+#EXTINF:-1,Hollywood 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9402
+#EXTINF:-1,Cine Mundo
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9419
+#EXTINF:-1,Sport TV 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/864
+#EXTINF:-1,Sport TV 2 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/13184
+#EXTINF:-1,Sport TV 3 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/862
+#EXTINF:-1,Sport TV 4 HD
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1021
+#EXTINF:-1,Sport TV 5 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1022
+#EXTINF:-1,Eurosport 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2739
+#EXTINF:-1,Eurosport 2
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9407
+#EXTINF:-1,Benfica 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/1171
+#EXTINF:-1,Sporting TV 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/2732
+#EXTINF:-1,PFC
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9421
+#EXTINF:-1,RecordTV
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/9624
