@@ -1,163 +1,297 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12620.m3u8
-#EXTINF:-1,RTP 2
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12621.m3u8
-#EXTINF:-1,RTP 3
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12622.m3u8
-#EXTINF:-1,SIC
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12623.m3u8
-#EXTINF:-1,TVI
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12624.m3u8
-#EXTINF:-1,TVI FICCAO
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12625.m3u8
+#EXTINF:-1,TVI Reality (A Quinta)
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31908.ts
 #EXTINF:-1,TVI REALITY
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12626.m3u8
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31909.ts
+#EXTINF:-1,TVI Fic
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32032.ts
+#EXTINF:-1,TVI FHD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32033.ts
 #EXTINF:-1,TVI 24
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12627.m3u8
-#EXTINF:-1,CMTV HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12628.m3u8
-#EXTINF:-1,Euronews HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12629.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12630.m3u8
-#EXTINF:-1,SIC MULHER
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12631.m3u8
-#EXTINF:-1,SIC RADICAL
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12632.m3u8
-#EXTINF:-1,SIC CARAS
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12633.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12634.m3u8
-#EXTINF:-1,RTP AFRICA
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12635.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12636.m3u8
-#EXTINF:-1,RTP ACORES
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12637.m3u8
-#EXTINF:-1,CINE MUNDO
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12638.m3u8
-#EXTINF:-1,TV CINE 1
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12639.m3u8
-#EXTINF:-1,TV CINE 2
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12640.m3u8
-#EXTINF:-1,TV CINE 3
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12641.m3u8
-#EXTINF:-1,TV CINE 4
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12642.m3u8
-#EXTINF:-1,TV SERIES
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12643.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12644.m3u8
-#EXTINF:-1,SYFY HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12645.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12646.m3u8
-#EXTINF:-1,CANAL PANDA
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12647.m3u8
-#EXTINF:-1,SIC KIDS
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12648.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12649.m3u8
-#EXTINF:-1,PANDA BIGGS
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12650.m3u8
-#EXTINF:-1,NICKELODEON
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12651.m3u8
-#EXTINF:-1,JIMJAM
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12652.m3u8
-#EXTINF:-1,BABY TV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12653.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12654.m3u8
-#EXTINF:-1,ODISSEIA
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12655.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12656.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12657.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12658.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12659.m3u8
-#EXTINF:-1,TLC
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12660.m3u8
-#EXTINF:-1,AE
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12661.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12662.m3u8
-#EXTINF:-1,TRACE URBAN
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12663.m3u8
-#EXTINF:-1,MTV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12664.m3u8
-#EXTINF:-1,AMC
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12665.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12666.m3u8
-#EXTINF:-1,FOX COMEDY
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12667.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12668.m3u8
-#EXTINF:-1,FOX HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12669.m3u8
-#EXTINF:-1,FOX LIFE
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12670.m3u8
-#EXTINF:-1,AXN HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12671.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12672.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12673.m3u8
-#EXTINF:-1,CBS REALITY
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12674.m3u8
-#EXTINF:-1,CANAL Q
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12675.m3u8
-#EXTINF:-1,ABOLA TV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12676.m3u8
-#EXTINF:-1,PORTO CANAL
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12677.m3u8
-#EXTINF:-1,Benfica TV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12678.m3u8
-#EXTINF:-1,SPORTING TV HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12679.m3u8
-#EXTINF:-1,SPORT+
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12680.m3u8
-#EXTINF:-1,SPORT 1
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12681.m3u8
-#EXTINF:-1,SPORT 2
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12682.m3u8
-#EXTINF:-1,SPORT 3
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12683.m3u8
-#EXTINF:-1,SPORT 4
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12684.m3u8
-#EXTINF:-1,Eleven Sports 1 HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12685.m3u8
-#EXTINF:-1,Eleven Sports 2 HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12686.m3u8
-#EXTINF:-1,Eleven Sports 3 HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12687.m3u8
-#EXTINF:-1,Eleven Sports 4 HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12688.m3u8
-#EXTINF:-1,Eleven Sports 5 HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12689.m3u8
-#EXTINF:-1,MOTORVISION HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12690.m3u8
-#EXTINF:-1,MOTORS TV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12691.m3u8
-#EXTINF:-1,FUEL TV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12692.m3u8
-#EXTINF:-1,CAçA E PESCA
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12693.m3u8
-#EXTINF:-1,TOROS TV
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12694.m3u8
-#EXTINF:-1,NBA HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12695.m3u8
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31910.ts
+#EXTINF:-1,TVI
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31911.ts
+#EXTINF:-1,TVCseries
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31912.ts
+#EXTINF:-1,TVCINE 4 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32015.ts
+#EXTINF:-1,TVCINE 3 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32014.ts
+#EXTINF:-1,TVCINE 2 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32013.ts
+#EXTINF:-1,TVCINE 1 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32012.ts
+#EXTINF:-1,TVC HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31913.ts
 #EXTINF:-1,TV RECORD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12696.m3u8
-#EXTINF:-1,RECORD NEWS
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12697.m3u8
-#EXTINF:-1,24 KITCHEN HD
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12698.m3u8
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31914.ts
+#EXTINF:-1,TV Globo Premium
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31915.ts
 #EXTINF:-1,TV GLOBO
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12699.m3u8
-#EXTINF:-1,TV GLOBO PREMIUM
-http://fenixsolutions.live:25461/live/alfonso/alfonso/12700.m3u8
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31916.ts
+#EXTINF:-1,TV GALICIA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32057.ts
+#EXTINF:-1,TV CINE 4
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31917.ts
+#EXTINF:-1,TV CINE 3 HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31918.ts
+#EXTINF:-1,TV CINE 2  HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31919.ts
+#EXTINF:-1,TV CINE 1  HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31920.ts
+#EXTINF:-1,TRAVEL CHANNEL HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32030.ts
+#EXTINF:-1,TOUROS TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31921.ts
+#EXTINF:-1,TLC
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31922.ts
+#EXTINF:-1,SyFy HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32011.ts
+#EXTINF:-1,SYFY
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31923.ts
+#EXTINF:-1,Sporting TV HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32010.ts
+#EXTINF:-1,SPORTING TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31924.ts
+#EXTINF:-1,SPORT TV 5HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31925.ts
+#EXTINF:-1,Sport TV 5 HD backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32045.ts
+#EXTINF:-1,SPORT TV 5 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32009.ts
+#EXTINF:-1,Sport TV 5 backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32044.ts
+#EXTINF:-1,SPORT TV 5
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31926.ts
+#EXTINF:-1,SPORT TV 4HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31927.ts
+#EXTINF:-1,Sport TV 4 HD backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32043.ts
+#EXTINF:-1,SPORT TV 4 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32008.ts
+#EXTINF:-1,Sport TV 4 backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32042.ts
+#EXTINF:-1,SPORT TV 4
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31928.ts
+#EXTINF:-1,SPORT TV 3HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32016.ts
+#EXTINF:-1,Sport TV 3 HD backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32041.ts
+#EXTINF:-1,SPORT TV 3 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32007.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31929.ts
+#EXTINF:-1,Sport TV 3 backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32040.ts
+#EXTINF:-1,SPORT TV 2 HD(1)
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31904.ts
+#EXTINF:-1,Sport TV 2 HD backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32039.ts
+#EXTINF:-1,SPORT TV 2 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32006.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31930.ts
+#EXTINF:-1,Sport TV 2 backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32038.ts
+#EXTINF:-1,Sport TV 1 HD backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32037.ts
+#EXTINF:-1,SPORT TV 1 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32005.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31931.ts
+#EXTINF:-1,Sport TV 1 backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32036.ts
+#EXTINF:-1,SPORT TV  HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32028.ts
+#EXTINF:-1,Sport TV  backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32035.ts
+#EXTINF:-1,SPORT TV   HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32004.ts
+#EXTINF:-1,SPORT TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32003.ts
+#EXTINF:-1,SIC RADICAL HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32002.ts
+#EXTINF:-1,SIC RADICAL
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31932.ts
+#EXTINF:-1,SIC NOTICIAS HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32001.ts
+#EXTINF:-1,SIC NOTICIAS
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31933.ts
+#EXTINF:-1,SIC MULHER
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31934.ts
+#EXTINF:-1,SIC Caras
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32061.ts
+#EXTINF:-1,Sic
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31935.ts
+#EXTINF:-1,RTP MEMÓRIA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31936.ts
+#EXTINF:-1,RTP MADEIRA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31988.ts
+#EXTINF:-1,RTP ï¿½FRICA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31937.ts
+#EXTINF:-1,RTP AÇORES
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31938.ts
+#EXTINF:-1,RTP 3
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31939.ts
+#EXTINF:-1,RTP 2
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31940.ts
+#EXTINF:-1,RTP 1
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31941.ts
+#EXTINF:-1,PORTO CANAL
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31942.ts
+#EXTINF:-1,PFC
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31943.ts
+#EXTINF:-1,Panda Biggs
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32031.ts
+#EXTINF:-1,Outdoor Channel HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32027.ts
+#EXTINF:-1,ODISSEIA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31944.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31945.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32026.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31947.ts
+#EXTINF:-1,Nat Geo Wild HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32025.ts
+#EXTINF:-1,Nat Geo Wild
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31946.ts
+#EXTINF:-1,MTV PORTUGAL
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31948.ts
+#EXTINF:-1,Mtv Portuga
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31949.ts
+#EXTINF:-1,MOV HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32024.ts
+#EXTINF:-1,MOV HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31950.ts
+#EXTINF:-1,MOTORVISION TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31951.ts
+#EXTINF:-1,MOTORVISION
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31952.ts
+#EXTINF:-1,MOTORS TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31953.ts
+#EXTINF:-1,JIM JAM
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31954.ts
+#EXTINF:-1,HOLLYWOOD HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32023.ts
+#EXTINF:-1,HOLLYWOOD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31955.ts
+#EXTINF:-1,GLOBO
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31956.ts
+#EXTINF:-1,FUEL TV HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32000.ts
+#EXTINF:-1,FUEL TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31957.ts
+#EXTINF:-1,FOX TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31958.ts
+#EXTINF:-1,FOX Movies HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32022.ts
+#EXTINF:-1,FOX MOVIES
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31959.ts
+#EXTINF:-1,FOX LIFE HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31999.ts
+#EXTINF:-1,FOX LIFE
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31960.ts
+#EXTINF:-1,FOX HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31998.ts
+#EXTINF:-1,FOX CRIME HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31997.ts
+#EXTINF:-1,FOX CRIME
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31961.ts
+#EXTINF:-1,FOX Comedy HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31996.ts
+#EXTINF:-1,Fox Comedy
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31962.ts
+#EXTINF:-1,Fine Living Network HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32021.ts
+#EXTINF:-1,FIGHT NETWORK HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31995.ts
+#EXTINF:-1,FASHION TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32020.ts
+#EXTINF:-1,Eurosport new
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32017.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32054.ts
+#EXTINF:-1,EUROSPORT 1 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31994.ts
+#EXTINF:-1,E! Entertainment
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31964.ts
+#EXTINF:-1,DOG TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32053.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31965.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31966.ts
+#EXTINF:-1,Discovery HD Showcase
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31967.ts
+#EXTINF:-1,DISCOVERY HD 1080 SHOWCASE
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32019.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31968.ts
+#EXTINF:-1,CM TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31969.ts
+#EXTINF:-1,CLUBBING TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32052.ts
+#EXTINF:-1,CINEMUNDO
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31970.ts
+#EXTINF:-1,CBS REALITY
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31971.ts
+#EXTINF:-1,CARTOON  NETWORK
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31972.ts
+#EXTINF:-1,CANAL Q
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31973.ts
+#EXTINF:-1,CANAL PANDA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31974.ts
+#EXTINF:-1,CANAL HISTÓRIA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31975.ts
+#EXTINF:-1,CAï¿½A & PESCA
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31976.ts
+#EXTINF:-1,CAçAVISION
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32047.ts
+#EXTINF:-1,BTV 1 HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31993.ts
+#EXTINF:-1,BENFICA TV 2
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31977.ts
+#EXTINF:-1,Benfica TV 1 backup
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32034.ts
+#EXTINF:-1,BENFICA TV 1
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31978.ts
+#EXTINF:-1,BABY TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31979.ts
+#EXTINF:-1,AXN WHITE HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31992.ts
+#EXTINF:-1,AXN WHITE
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31980.ts
+#EXTINF:-1,AXN HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31991.ts
+#EXTINF:-1,AXN BLACK HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31990.ts
+#EXTINF:-1,AXN
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31981.ts
+#EXTINF:-1,ARTV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32046.ts
+#EXTINF:-1,AMC HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31989.ts
+#EXTINF:-1,AMC
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31982.ts
+#EXTINF:-1,Afro Music
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32049.ts
+#EXTINF:-1,Abola TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/32048.ts
+#EXTINF:-1,A BOLA TV
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31983.ts
+#EXTINF:-1,A & E
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31984.ts
+#EXTINF:-1,24 KITCHEN
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31985.ts
+#EXTINF:-1, Historia
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31986.ts
+#EXTINF:-1, Fox Crime
+http://xtiptv.xyz:25461/live/farhan1/farhan1/31987.ts
+#EXTINF:-1,SUNDANCE HD 1080
+http://xtiptv.xyz:25461/live/farhan1/farhan1/58115.ts
+#EXTINF:-1,Cacavision
+http://xtiptv.xyz:25461/live/farhan1/farhan1/58116.ts
+#EXTINF:-1,Baby First
+http://xtiptv.xyz:25461/live/farhan1/farhan1/58117.ts
