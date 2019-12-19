@@ -1,183 +1,269 @@
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUzHpez.png" group-title="ROMANIA",6TV (Opt-2)
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUzHpez.png" group-title="ROMANIA",6TV (Opt-3)
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EWwJuPK.png" group-title="ROMANIA",Actualitatea TV (Opt-1)
-http://46.214.146.46:81/tv4/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EWwJuPK.png" group-title="ROMANIA",Actualitatea TV (Opt-2)
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="ROMANIA",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="ROMANIA",Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="ROMANIA",Alfa Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkUjse7.png" group-title="ROMANIA",Alfa Omega TV (Opt-1)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkUjse7.png" group-title="ROMANIA",Alfa Omega TV (Opt-2)
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9rVYvwg.png" group-title="ROMANIA",Antena 1
-https://sportbar.biz/lba/123/g9/antena1.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="ROMANIA",B1
-http://stream.adunity.com/b1/b1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eiBj5Zy.png" group-title="ROMANIA",Bit TV Pascani
-http://46.214.146.46:81/tv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="ROMANIA",Bollywood TV Film
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="ROMANIA",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="ROMANIA",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tNRAX0.png" group-title="ROMANIA",Canal 33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hnaBE74.png" group-title="ROMANIA",Casa Mia TV
-http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="ROMANIA",Columna TV
-http://77.36.61.147/hls/channel4/adaptive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="ROMANIA",Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k4TQOHi.png" group-title="ROMANIA",Digi 24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6J7dIx.png" group-title="ROMANIA",Elita TV Rezina
-http://46.55.111.242:8080/Rezina.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g6BtErH.png" group-title="ROMANIA",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTsws8f.png" group-title="ROMANIA",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pNXCgAi.png" group-title="ROMANIA",Informatia TV
-http://s1.streamnet.ro:8014/stream.flv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rjGbznr.png" group-title="ROMANIA",Inedit TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9LSuDMC.png" group-title="ROMANIA",Info HD TV
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1xNJcQR.png" group-title="ROMANIA",Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MwADEV2.png" group-title="ROMANIA",Kapital TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a5euWt1.png" group-title="ROMANIA",Mooz HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7q7gu4n.png" group-title="ROMANIA",Mooz Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3YkqXn.png" group-title="ROMANIA",Mooz Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0QTjHHD.png" group-title="ROMANIA",Mooz Ro!
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCcVFem.png" group-title="ROMANIA",Naşul TV (New!)
-https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aL6Mf8b.png" group-title="ROMANIA",NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="ROMANIA",Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="ROMANIA",Profit
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ocgS0E.png" group-title="ROMANIA",Radio ZU
-https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="ROMANIA",Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6e9Q5xV.jpg" group-title="ROMANIA",Romania TV
-http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="ROMANIA",Sangeorz TV
-http://s2.streamnet.ro:8035/stream.flv
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="ROMANIA",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars Direct
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YBV70kC.png" group-title="ROMANIA",Tele M Neamt
-http://telem.ambra.ro
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="ROMANIA",Telestar 1
-http://193.34.109.10:8090
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RfyWxRO.png" group-title="ROMANIA",Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnpqF6Y.png" group-title="ROMANIA",TV City
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zO9RN9V.png" group-title="ROMANIA",TV Kit
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="ROMANIA",TVPlus Suceava
-http://85.186.146.34:8080
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S4VBEgF.png" group-title="ROMANIA",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XSilDzX.png" group-title="ROMANIA",TVR 1
-http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SMot2PE.png" group-title="ROMANIA",TVR 2
-http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dobeeMs.png" group-title="ROMANIA",TVR 3
-http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Cluj
-http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Craiova
-http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Iasi
-http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6Ef9x1.png" group-title="ROMANIA",TVR Plus
-http://mn-nl.mncdn.com/tvr_hd/smil:TVRHD.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Targu Mures
-http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Timisoara
-http://mn-nl.mncdn.com/tvr_timisoara/smil:TVRTIMISOARA.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcWem0p.png" group-title="ROMANIA",TVRi
-http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KGLHMyB.png" group-title="ROMANIA",UTV (Opt-1)
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,Telekom 2
+http://z.iptvsubscription.org:80/mohanad/mohanad/15673
+#EXTINF:-1,Telekom 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/15674
+#EXTINF:-1,Telekom 4
+http://z.iptvsubscription.org:80/mohanad/mohanad/15675
+#EXTINF:-1,Telekom 1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15676
+#EXTINF:-1,Acasa
+http://z.iptvsubscription.org:80/mohanad/mohanad/15677
+#EXTINF:-1,Acasa Gold
+http://z.iptvsubscription.org:80/mohanad/mohanad/15678
+#EXTINF:-1,AgroTV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15679
+#EXTINF:-1,Antena 1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15681
+#EXTINF:-1,Antena 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/15682
+#EXTINF:-1,Antena Stars
+http://z.iptvsubscription.org:80/mohanad/mohanad/15683
+#EXTINF:-1,AXN
+http://z.iptvsubscription.org:80/mohanad/mohanad/15684
+#EXTINF:-1,AXN Black
+http://z.iptvsubscription.org:80/mohanad/mohanad/15685
+#EXTINF:-1,AXN SPIN
+http://z.iptvsubscription.org:80/mohanad/mohanad/15686
+#EXTINF:-1,AXN White
+http://z.iptvsubscription.org:80/mohanad/mohanad/15687
+#EXTINF:-1,B1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15688
+#EXTINF:-1,Boomerang
+http://z.iptvsubscription.org:80/mohanad/mohanad/15689
+#EXTINF:-1,Cinemax 2
+http://z.iptvsubscription.org:80/mohanad/mohanad/15692
+#EXTINF:-1,Comedy Central
+http://z.iptvsubscription.org:80/mohanad/mohanad/15694
+#EXTINF:-1,Da Vinci Learning
+http://z.iptvsubscription.org:80/mohanad/mohanad/15695
+#EXTINF:-1,DIGI 24
+http://z.iptvsubscription.org:80/mohanad/mohanad/15696
+#EXTINF:-1,DIGI ANIMAL WORLD
+http://z.iptvsubscription.org:80/mohanad/mohanad/15697
+#EXTINF:-1,DIGI Life
+http://z.iptvsubscription.org:80/mohanad/mohanad/15699
+#EXTINF:-1,DIGI Sport 1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15700
+#EXTINF:-1,DIGI Sport 2
+http://z.iptvsubscription.org:80/mohanad/mohanad/15701
+#EXTINF:-1,DIGI Sport 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/15702
+#EXTINF:-1,DIGI Sport 4
+http://z.iptvsubscription.org:80/mohanad/mohanad/15703
+#EXTINF:-1,DIGI WORLD
+http://z.iptvsubscription.org:80/mohanad/mohanad/15704
+#EXTINF:-1,Discovery
+http://z.iptvsubscription.org:80/mohanad/mohanad/15705
+#EXTINF:-1,Discovery ID
+http://z.iptvsubscription.org:80/mohanad/mohanad/15706
+#EXTINF:-1,Discovery Science
+http://z.iptvsubscription.org:80/mohanad/mohanad/15707
+#EXTINF:-1,Disney Channel
+http://z.iptvsubscription.org:80/mohanad/mohanad/15708
+#EXTINF:-1,Disney Jr
+http://z.iptvsubscription.org:80/mohanad/mohanad/15709
+#EXTINF:-1,Diva
+http://z.iptvsubscription.org:80/mohanad/mohanad/15710
+#EXTINF:-1,DTX
+http://z.iptvsubscription.org:80/mohanad/mohanad/15711
+#EXTINF:-1,E! Entertainment
+http://z.iptvsubscription.org:80/mohanad/mohanad/15712
+#EXTINF:-1,Etno
+http://z.iptvsubscription.org:80/mohanad/mohanad/15713
+#EXTINF:-1,Eurosport 1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15716
+#EXTINF:-1,Eurosport 2
+http://z.iptvsubscription.org:80/mohanad/mohanad/15717
+#EXTINF:-1,Extreme Sport
+http://z.iptvsubscription.org:80/mohanad/mohanad/15718
+#EXTINF:-1,Favorit TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15719
+#EXTINF:-1,Film Caf?
+http://z.iptvsubscription.org:80/mohanad/mohanad/15720
+#EXTINF:-1,Fishingand Hunting
+http://z.iptvsubscription.org:80/mohanad/mohanad/15721
+#EXTINF:-1,Food Network
+http://z.iptvsubscription.org:80/mohanad/mohanad/15722
+#EXTINF:-1,Happy Channel
+http://z.iptvsubscription.org:80/mohanad/mohanad/15723
+#EXTINF:-1,HBO 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/15724
+#EXTINF:-1,HBO
+http://z.iptvsubscription.org:80/mohanad/mohanad/15725
+#EXTINF:-1,HBO2
+http://z.iptvsubscription.org:80/mohanad/mohanad/15726
+#EXTINF:-1,HBOmania
+http://z.iptvsubscription.org:80/mohanad/mohanad/15727
+#EXTINF:-1,History
+http://z.iptvsubscription.org:80/mohanad/mohanad/15728
+#EXTINF:-1,HIT MUSIC
+http://z.iptvsubscription.org:80/mohanad/mohanad/15729
+#EXTINF:-1,Hora TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15730
+#EXTINF:-1,JimJam
+http://z.iptvsubscription.org:80/mohanad/mohanad/15731
+#EXTINF:-1,Kanal D
+http://z.iptvsubscription.org:80/mohanad/mohanad/15732
+#EXTINF:-1,Kiss TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15733
+#EXTINF:-1,Look Plus
+http://z.iptvsubscription.org:80/mohanad/mohanad/15734
+#EXTINF:-1,Look TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15735
+#EXTINF:-1,Megamax
+http://z.iptvsubscription.org:80/mohanad/mohanad/15737
+#EXTINF:-1,Minimax
+http://z.iptvsubscription.org:80/mohanad/mohanad/15738
+#EXTINF:-1,MTV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15739
+#EXTINF:-1,MTV Dance
+http://z.iptvsubscription.org:80/mohanad/mohanad/15740
+#EXTINF:-1,MTV Hits
+http://z.iptvsubscription.org:80/mohanad/mohanad/15741
+#EXTINF:-1,MTV Rocks
+http://z.iptvsubscription.org:80/mohanad/mohanad/15742
+#EXTINF:-1,Music Channel
+http://z.iptvsubscription.org:80/mohanad/mohanad/15743
+#EXTINF:-1,Nat Geo
+http://z.iptvsubscription.org:80/mohanad/mohanad/15744
+#EXTINF:-1,Nat Geo Wild
+http://z.iptvsubscription.org:80/mohanad/mohanad/15745
+#EXTINF:-1,National 24
+http://z.iptvsubscription.org:80/mohanad/mohanad/15746
+#EXTINF:-1,National Geographic
+http://z.iptvsubscription.org:80/mohanad/mohanad/15747
+#EXTINF:-1,National TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15748
+#EXTINF:-1,Nickelodeon
+http://z.iptvsubscription.org:80/mohanad/mohanad/15749
+#EXTINF:-1,Paramount Channel
+http://z.iptvsubscription.org:80/mohanad/mohanad/15750
+#EXTINF:-1,Prima TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15751
+#EXTINF:-1,PRO TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15753
+#EXTINF:-1,Realitatea TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15754
+#EXTINF:-1,ROmania TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15755
+#EXTINF:-1,Sport
+http://z.iptvsubscription.org:80/mohanad/mohanad/15756
+#EXTINF:-1,TLC
+http://z.iptvsubscription.org:80/mohanad/mohanad/15757
+#EXTINF:-1,TNT
+http://z.iptvsubscription.org:80/mohanad/mohanad/15758
+#EXTINF:-1,Travel
+http://z.iptvsubscription.org:80/mohanad/mohanad/15759
+#EXTINF:-1,Travel Mix
+http://z.iptvsubscription.org:80/mohanad/mohanad/15760
+#EXTINF:-1,TV Paprika
+http://z.iptvsubscription.org:80/mohanad/mohanad/15761
+#EXTINF:-1,TV1000
+http://z.iptvsubscription.org:80/mohanad/mohanad/15762
+#EXTINF:-1,TVR
+http://z.iptvsubscription.org:80/mohanad/mohanad/15763
+#EXTINF:-1,TVR1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15764
+#EXTINF:-1,TVR2
+http://z.iptvsubscription.org:80/mohanad/mohanad/15765
+#EXTINF:-1,TVR3
+http://z.iptvsubscription.org:80/mohanad/mohanad/15766
+#EXTINF:-1,UTV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15767
+#EXTINF:-1,VH1
+http://z.iptvsubscription.org:80/mohanad/mohanad/15768
+#EXTINF:-1,VH1 Classic
+http://z.iptvsubscription.org:80/mohanad/mohanad/15769
+#EXTINF:-1,Viasat History
+http://z.iptvsubscription.org:80/mohanad/mohanad/15771
+#EXTINF:-1,Viasat Nature
+http://z.iptvsubscription.org:80/mohanad/mohanad/15772
+#EXTINF:-1,ZU TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/15773
+#EXTINF:-1,TVR HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48754
+#EXTINF:-1,TVR 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/48755
+#EXTINF:-1,TVR 2
+http://z.iptvsubscription.org:80/mohanad/mohanad/48756
+#EXTINF:-1,TVR 1
+http://z.iptvsubscription.org:80/mohanad/mohanad/48757
+#EXTINF:-1,TV Paprika RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48758
+#EXTINF:-1,TNT
+http://z.iptvsubscription.org:80/mohanad/mohanad/48759
+#EXTINF:-1,TLC Romania
+http://z.iptvsubscription.org:80/mohanad/mohanad/48760
+#EXTINF:-1,ProTV HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48761
+#EXTINF:-1,PRO X
+http://z.iptvsubscription.org:80/mohanad/mohanad/48762
+#EXTINF:-1,PRO GOLD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48763
+#EXTINF:-1,PRO 2
+http://z.iptvsubscription.org:80/mohanad/mohanad/48765
+#EXTINF:-1,Prima TV RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48766
+#EXTINF:-1,Paramount Channel Romania
+http://z.iptvsubscription.org:80/mohanad/mohanad/48767
+#EXTINF:-1,NG Wild RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48768
+#EXTINF:-1,National Geographic RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48769
+#EXTINF:-1,Minimax RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48770
+#EXTINF:-1,LookSport3 HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48771
+#EXTINF:-1,LookSport2 HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48772
+#EXTINF:-1,Kanal D
+http://z.iptvsubscription.org:80/mohanad/mohanad/48774
+#EXTINF:-1,HBO HD RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48775
+#EXTINF:-1,HBO 3 RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48776
+#EXTINF:-1,Happy Channel
+http://z.iptvsubscription.org:80/mohanad/mohanad/48777
+#EXTINF:-1,FilmBox Premium RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48778
+#EXTINF:-1,Film Cafe
+http://z.iptvsubscription.org:80/mohanad/mohanad/48779
+#EXTINF:-1,Dolce Sport 4 HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48781
+#EXTINF:-1,Dolce Sport 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/48782
+#EXTINF:-1,Dolce Sport 2 HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48783
+#EXTINF:-1,Dolce Sport 1 HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48784
+#EXTINF:-1,DocuBox
+http://z.iptvsubscription.org:80/mohanad/mohanad/48785
+#EXTINF:-1,Diva Universal
+http://z.iptvsubscription.org:80/mohanad/mohanad/48786
+#EXTINF:-1,Disney ROM
+http://z.iptvsubscription.org:80/mohanad/mohanad/48787
+#EXTINF:-1,Discovery RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48788
+#EXTINF:-1,DIGI WORLD RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48789
+#EXTINF:-1,Digi Sport 4
+http://z.iptvsubscription.org:80/mohanad/mohanad/48790
+#EXTINF:-1,DIGI Sport 3
+http://z.iptvsubscription.org:80/mohanad/mohanad/48791
+#EXTINF:-1,Digi Sport 2 HD RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48792
+#EXTINF:-1,Digi Sport 1 HD RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48793
+#EXTINF:-1,DIGI Life RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48794
+#EXTINF:-1,Cartoon Network RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48796
+#EXTINF:-1,Bollywood TV
+http://z.iptvsubscription.org:80/mohanad/mohanad/48797
+#EXTINF:-1,Antena Stars
+http://z.iptvsubscription.org:80/mohanad/mohanad/48798
+#EXTINF:-1,Antena 1 HD
+http://z.iptvsubscription.org:80/mohanad/mohanad/48799
+#EXTINF:-1,AMC RO
+http://z.iptvsubscription.org:80/mohanad/mohanad/48800
