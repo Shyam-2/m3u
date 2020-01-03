@@ -1,129 +1,143 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://topiptv.net:5890/live/nanda/nanda/961.m3u8
-#EXTINF:-1,NPO 2 HD
-http://topiptv.net:5890/live/nanda/nanda/962.m3u8
-#EXTINF:-1,NPO 3 HD
-http://topiptv.net:5890/live/nanda/nanda/963.m3u8
-#EXTINF:-1,RTL4 HD
-http://topiptv.net:5890/live/nanda/nanda/964.m3u8
-#EXTINF:-1,RTL 5 HD
-http://topiptv.net:5890/live/nanda/nanda/965.m3u8
-#EXTINF:-1,RTL Z HD
-http://topiptv.net:5890/live/nanda/nanda/966.m3u8
-#EXTINF:-1,RTL7 HD
-http://topiptv.net:5890/live/nanda/nanda/967.m3u8
-#EXTINF:-1,RTL 8 HD
-http://topiptv.net:5890/live/nanda/nanda/968.m3u8
-#EXTINF:-1,Net 5 HD
-http://topiptv.net:5890/live/nanda/nanda/969.m3u8
-#EXTINF:-1,AT5 HD
-http://topiptv.net:5890/live/nanda/nanda/973.m3u8
-#EXTINF:-1,SBS 6 HD
-http://topiptv.net:5890/live/nanda/nanda/970.m3u8
-#EXTINF:-1,SBS 9 HD
-http://topiptv.net:5890/live/nanda/nanda/971.m3u8
-#EXTINF:-1,Comedy Central HD
-http://topiptv.net:5890/live/nanda/nanda/1006.m3u8
-#EXTINF:-1,FOX Channel HD
-http://topiptv.net:5890/live/nanda/nanda/1008.m3u8
-#EXTINF:-1,Film1 Action HD
-http://topiptv.net:5890/live/nanda/nanda/1012.m3u8
-#EXTINF:-1,Film1 Family HD
-http://topiptv.net:5890/live/nanda/nanda/1013.m3u8
-#EXTINF:-1,Film1 Premiere HD
-http://topiptv.net:5890/live/nanda/nanda/1014.m3u8
-#EXTINF:-1,Film1 Drama HD
-http://topiptv.net:5890/live/nanda/nanda/1015.m3u8
-#EXTINF:-1,Film Europe HD 
-http://topiptv.net:5890/live/nanda/nanda/56372.m3u8
-#EXTINF:-1,RTL Crime HD
-http://topiptv.net:5890/live/nanda/nanda/972.m3u8
-#EXTINF:-1,TLC HD
-http://topiptv.net:5890/live/nanda/nanda/974.m3u8
-#EXTINF:-1,HBO 1 HD
-http://topiptv.net:5890/live/nanda/nanda/1009.m3u8
-#EXTINF:-1,HBO 2 HD
-http://topiptv.net:5890/live/nanda/nanda/1010.m3u8
-#EXTINF:-1,HBO 3 HD
-http://topiptv.net:5890/live/nanda/nanda/1011.m3u8
-#EXTINF:-1,Fox sport 1 HD
-http://topiptv.net:5890/live/nanda/nanda/975.m3u8
-#EXTINF:-1,Fox sport 2 HD
-http://topiptv.net:5890/live/nanda/nanda/976.m3u8
-#EXTINF:-1,Fox sport 3 HD
-http://topiptv.net:5890/live/nanda/nanda/977.m3u8
-#EXTINF:-1,Fox sport 4 HD
-http://topiptv.net:5890/live/nanda/nanda/978.m3u8
-#EXTINF:-1,Fox sport 5 HD
-http://topiptv.net:5890/live/nanda/nanda/979.m3u8
-#EXTINF:-1,Fox Sport 6 HD
-http://topiptv.net:5890/live/nanda/nanda/980.m3u8
-#EXTINF:-1,Ziggo Sport Select HD
-http://topiptv.net:5890/live/nanda/nanda/981.m3u8
-#EXTINF:-1,Ziggo Sport Golf HD
-http://topiptv.net:5890/live/nanda/nanda/982.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal
-http://topiptv.net:5890/live/nanda/nanda/983.m3u8
-#EXTINF:-1,Ziggo Sport Racing HD
-http://topiptv.net:5890/live/nanda/nanda/984.m3u8
-#EXTINF:-1,Ziggo Sport HD
-http://topiptv.net:5890/live/nanda/nanda/55640.m3u8
-#EXTINF:-1,Ziggo Sport DOCU HD
-http://topiptv.net:5890/live/nanda/nanda/55636.m3u8
-#EXTINF:-1,Ziggo Sport1 extra
-http://topiptv.net:5890/live/nanda/nanda/985.m3u8
-#EXTINF:-1,Ziggo Sport eXtra 2
-http://topiptv.net:5890/live/nanda/nanda/986.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://topiptv.net:5890/live/nanda/nanda/987.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://topiptv.net:5890/live/nanda/nanda/988.m3u8
-#EXTINF:-1,Disney Channel HD
-http://topiptv.net:5890/live/nanda/nanda/1005.m3u8
-#EXTINF:-1,Veronica/Disney XD
-http://topiptv.net:5890/live/nanda/nanda/992.m3u8
-#EXTINF:-1,Nick Jr
-http://topiptv.net:5890/live/nanda/nanda/993.m3u8
-#EXTINF:-1,NICKELODEON
-http://topiptv.net:5890/live/nanda/nanda/994.m3u8
+#EXTINF:-1,Comedy Central
+http://gold.hopto.me:83/live/11111111/22222222/375658.m3u8
+#EXTINF:-1,Discovery Channel
+http://gold.hopto.me:83/live/11111111/22222222/375657.m3u8
+#EXTINF:-1,Disney Channel
+http://gold.hopto.me:83/live/11111111/22222222/375656.m3u8
+#EXTINF:-1,Film1 Comedy & Kids
+http://gold.hopto.me:83/live/11111111/22222222/375654.m3u8
+#EXTINF:-1,Film1 Spotlight
+http://gold.hopto.me:83/live/11111111/22222222/375652.m3u8
+#EXTINF:-1,FOX Channel
+http://gold.hopto.me:83/live/11111111/22222222/375650.m3u8
+#EXTINF:-1,History
+http://gold.hopto.me:83/live/11111111/22222222/375646.m3u8
+#EXTINF:-1,NPO 1
+http://gold.hopto.me:83/live/11111111/22222222/375639.m3u8
+#EXTINF:-1,NPO 2
+http://gold.hopto.me:83/live/11111111/22222222/375638.m3u8
+#EXTINF:-1,RTL 5
+http://gold.hopto.me:83/live/11111111/22222222/375635.m3u8
+#EXTINF:-1,RTL 7
+http://gold.hopto.me:83/live/11111111/22222222/375634.m3u8
+#EXTINF:-1,RTL 8
+http://gold.hopto.me:83/live/11111111/22222222/375633.m3u8
+#EXTINF:-1,SYFY
+http://gold.hopto.me:83/live/11111111/22222222/375630.m3u8
+#EXTINF:-1,Veronica Disney XD
+http://gold.hopto.me:83/live/11111111/22222222/375628.m3u8
+#EXTINF:-1,Ziggo Sport Extra2
+http://gold.hopto.me:83/live/11111111/22222222/375626.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://gold.hopto.me:83/live/11111111/22222222/375625.m3u8
+#EXTINF:-1,Ziggo Sport.Voetbal
+http://gold.hopto.me:83/live/11111111/22222222/375622.m3u8
+#EXTINF:-1,13th
+http://gold.hopto.me:83/live/11111111/22222222/375661.m3u8
+#EXTINF:-1,Animal Planet
+http://gold.hopto.me:83/live/11111111/22222222/375660.m3u8
 #EXTINF:-1,Boomerang
-http://topiptv.net:5890/live/nanda/nanda/995.m3u8
-#EXTINF:-1,CARTOON NETWOORK
-http://topiptv.net:5890/live/nanda/nanda/55638.m3u8
-#EXTINF:-1,Animal Planet HD
-http://topiptv.net:5890/live/nanda/nanda/996.m3u8
-#EXTINF:-1,History HD
-http://topiptv.net:5890/live/nanda/nanda/997.m3u8
-#EXTINF:-1,DOCUBOX
-http://topiptv.net:5890/live/nanda/nanda/56373.m3u8
-#EXTINF:-1,Nautical HD
-http://topiptv.net:5890/live/nanda/nanda/56374.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://topiptv.net:5890/live/nanda/nanda/998.m3u8
-#EXTINF:-1,Nat Geo HD
-http://topiptv.net:5890/live/nanda/nanda/999.m3u8
-#EXTINF:-1,Nat Geo WILD HD
-http://topiptv.net:5890/live/nanda/nanda/1000.m3u8
-#EXTINF:-1,Discovery HD
-http://topiptv.net:5890/live/nanda/nanda/1001.m3u8
-#EXTINF:-1,Discovery Investigation HD
-http://topiptv.net:5890/live/nanda/nanda/1002.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://topiptv.net:5890/live/nanda/nanda/1003.m3u8
-#EXTINF:-1,NL: Crime & Investigation
-http://topiptv.net:5890/live/nanda/nanda/1007.m3u8
-#EXTINF:-1,BBC Entertainment HD
-http://topiptv.net:5890/live/nanda/nanda/989.m3u8
-#EXTINF:-1,TRAVEL XP HD
-http://topiptv.net:5890/live/nanda/nanda/55639.m3u8
-#EXTINF:-1,192 TV
-http://topiptv.net:5890/live/nanda/nanda/990.m3u8
-#EXTINF:-1,SPIKE TV
-http://topiptv.net:5890/live/nanda/nanda/991.m3u8
-#EXTINF:-1,MTV live
-http://topiptv.net:5890/live/nanda/nanda/1016.m3u8
-#EXTINF:-1,XITE HD
-http://topiptv.net:5890/live/nanda/nanda/55641.m3u8
-#EXTINF:-1,ONS 
-http://topiptv.net:5890/live/nanda/nanda/55637.m3u8
+http://gold.hopto.me:83/live/11111111/22222222/375659.m3u8
+#EXTINF:-1,Eurosport 1 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375610.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://gold.hopto.me:83/live/11111111/22222222/375611.m3u8
+#EXTINF:-1,Film1 Action
+http://gold.hopto.me:83/live/11111111/22222222/375655.m3u8
+#EXTINF:-1,Film1 Premiere
+http://gold.hopto.me:83/live/11111111/22222222/375653.m3u8
+#EXTINF:-1,Film1 Premiere FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375612.m3u8
+#EXTINF:-1,Film1 SUNDANCE
+http://gold.hopto.me:83/live/11111111/22222222/375651.m3u8
+#EXTINF:-1,Fox Sports 1
+http://gold.hopto.me:83/live/11111111/22222222/375609.m3u8
+#EXTINF:-1,FOX Sports 1 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375613.m3u8
+#EXTINF:-1,Fox Sports 2
+http://gold.hopto.me:83/live/11111111/22222222/375608.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://gold.hopto.me:83/live/11111111/22222222/375614.m3u8
+#EXTINF:-1,Fox Sports 3
+http://gold.hopto.me:83/live/11111111/22222222/375607.m3u8
+#EXTINF:-1,FOX Sports 3 HD ( 1080P )
+http://gold.hopto.me:83/live/11111111/22222222/375621.m3u8
+#EXTINF:-1,Fox Sports 4
+http://gold.hopto.me:83/live/11111111/22222222/375606.m3u8
+#EXTINF:-1,Fox Sports 4 HD ( 1080P )
+http://gold.hopto.me:83/live/11111111/22222222/375619.m3u8
+#EXTINF:-1,Fox Sports 5
+http://gold.hopto.me:83/live/11111111/22222222/375605.m3u8
+#EXTINF:-1,Fox Sports 5 HD ( 1080P )
+http://gold.hopto.me:83/live/11111111/22222222/375620.m3u8
+#EXTINF:-1,Fox Sports 6
+http://gold.hopto.me:83/live/11111111/22222222/375604.m3u8
+#EXTINF:-1,HBO
+http://gold.hopto.me:83/live/11111111/22222222/375649.m3u8
+#EXTINF:-1,HBO 3
+http://gold.hopto.me:83/live/11111111/22222222/375648.m3u8
+#EXTINF:-1,HBO2
+http://gold.hopto.me:83/live/11111111/22222222/375647.m3u8
+#EXTINF:-1,Investigation Discovery
+http://gold.hopto.me:83/live/11111111/22222222/375645.m3u8
+#EXTINF:-1,JimJam
+http://gold.hopto.me:83/live/11111111/22222222/375644.m3u8
+#EXTINF:-1,MTV Music 24
+http://gold.hopto.me:83/live/11111111/22222222/326277.m3u8
+#EXTINF:-1,Nat Geo Wild FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375615.m3u8
+#EXTINF:-1,National Geographic
+http://gold.hopto.me:83/live/11111111/22222222/375642.m3u8
+#EXTINF:-1,National Geographic FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375616.m3u8
+#EXTINF:-1,NET 5
+http://gold.hopto.me:83/live/11111111/22222222/375643.m3u8
+#EXTINF:-1,Net 5 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375617.m3u8
+#EXTINF:-1,Nick Jr
+http://gold.hopto.me:83/live/11111111/22222222/375641.m3u8
+#EXTINF:-1,Nickelodeon
+http://gold.hopto.me:83/live/11111111/22222222/375640.m3u8
+#EXTINF:-1,NPO 1 HD
+http://gold.hopto.me:83/live/11111111/22222222/375603.m3u8
+#EXTINF:-1,NPO 2 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375602.m3u8
+#EXTINF:-1,NPO 3
+http://gold.hopto.me:83/live/11111111/22222222/375637.m3u8
+#EXTINF:-1,NPO 3 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375601.m3u8
+#EXTINF:-1,RTL 4
+http://gold.hopto.me:83/live/11111111/22222222/375636.m3u8
+#EXTINF:-1,RTL 4 FHD
+http://gold.hopto.me:83/live/11111111/22222222/375600.m3u8
+#EXTINF:-1,RTL 5 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375599.m3u8
+#EXTINF:-1,RTL 7 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375598.m3u8
+#EXTINF:-1,RTL 8 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375597.m3u8
+#EXTINF:-1,RTL lounge
+http://gold.hopto.me:83/live/11111111/22222222/375632.m3u8
+#EXTINF:-1,SBS 6
+http://gold.hopto.me:83/live/11111111/22222222/375631.m3u8
+#EXTINF:-1,SBS 9
+http://gold.hopto.me:83/live/11111111/22222222/375596.m3u8
+#EXTINF:-1,SBS6 FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375618.m3u8
+#EXTINF:-1,Sport 1 Voetbal
+http://gold.hopto.me:83/live/11111111/22222222/375595.m3u8
+#EXTINF:-1,TLC
+http://gold.hopto.me:83/live/11111111/22222222/375629.m3u8
+#EXTINF:-1,Veronica / Disney XD FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375594.m3u8
+#EXTINF:-1,Ziggo Sport Extra1
+http://gold.hopto.me:83/live/11111111/22222222/375627.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://gold.hopto.me:83/live/11111111/22222222/375624.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD 1080
+http://gold.hopto.me:83/live/11111111/22222222/375593.m3u8
+#EXTINF:-1,Ziggo Sport Select HD
+http://gold.hopto.me:83/live/11111111/22222222/375623.m3u8
+#EXTINF:-1,Djazz TV
+http://gold.hopto.me:83/live/11111111/22222222/375853.m3u8
