@@ -1,73 +1,159 @@
 #EXTM3U
-#EXTINF:-1,TSN 1
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3848.ts
-#EXTINF:-1,TSN 2
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3850.ts
-#EXTINF:-1,TSN 3
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3852.ts
-#EXTINF:-1,TSN 4
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3854.ts
-#EXTINF:-1,TSN 5
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3856.ts
-#EXTINF:-1,CA SP: TSN 1 FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3847.ts
-#EXTINF:-1,CA SP: TSN 2 FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3849.ts
-#EXTINF:-1,CA SP: TSN 3 FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3851.ts
-#EXTINF:-1,CA SP: TSN 4 FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3853.ts
-#EXTINF:-1,CA SP: TSN 5 FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3855.ts
-#EXTINF:-1,Sportsnet West FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3862.ts
-#EXTINF:-1,Sportsnet One HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3864.ts
-#EXTINF:-1,Sportsnet 360 HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3866.ts
-#EXTINF:-1,Sportnet Pacific HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3865.ts
-#EXTINF:-1,FXX HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3845.ts
-#EXTINF:-1,FX HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3846.ts
-#EXTINF:-1,CA SP: Sportsnet World FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3863.ts
-#EXTINF:-1,CA SP: Sportsnet Pacific FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3861.ts
-#EXTINF:-1,CA SP: Sportsnet Ontario FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3860.ts
-#EXTINF:-1,CA SP: Sportsnet One FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3859.ts
-#EXTINF:-1,CA SP: Sportsnet East FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3858.ts
-#EXTINF:-1,CA SP: Sportsnet 360 FHD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3857.ts
-#EXTINF:-1,RDS (FR)
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3334.ts
-#EXTINF:-1,TLC HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3336.ts
-#EXTINF:-1,CTV HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3341.ts
-#EXTINF:-1,ABC Spark HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3335.ts
-#EXTINF:-1,GLOBAL HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3339.ts
-#EXTINF:-1,CW
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3340.ts
-#EXTINF:-1,Slice HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3337.ts
-#EXTINF:-1,HBO 1
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3347.ts
-#EXTINF:-1,CHCH HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3345.ts
-#EXTINF:-1,CP 24 HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3342.ts
-#EXTINF:-1,CITY HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3343.ts
-#EXTINF:-1,FOX HD
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3338.ts
+#EXTINF:-1,CP24
+http://live.falconiptv.com:80/live/1234/1234/100330.m3u8
+#EXTINF:-1,beIN Sports
+http://live.falconiptv.com:80/live/1234/1234/100331.m3u8
+#EXTINF:-1,Canadian Arab TV
+http://live.falconiptv.com:80/live/1234/1234/100332.m3u8
+#EXTINF:-1,CBC Charlottetown
+http://live.falconiptv.com:80/live/1234/1234/100333.m3u8
+#EXTINF:-1,CBC Federicton
+http://live.falconiptv.com:80/live/1234/1234/100334.m3u8
+#EXTINF:-1,CBC Halifax
+http://live.falconiptv.com:80/live/1234/1234/100335.m3u8
+#EXTINF:-1,CBC Ottawa
+http://live.falconiptv.com:80/live/1234/1234/100336.m3u8
+#EXTINF:-1,CBC Toronto
+http://live.falconiptv.com:80/live/1234/1234/100337.m3u8
+#EXTINF:-1,CBC Windsor
+http://live.falconiptv.com:80/live/1234/1234/100338.m3u8
+#EXTINF:-1,CBC Winnipeg
+http://live.falconiptv.com:80/live/1234/1234/100339.m3u8
+#EXTINF:-1,Silver Screen Classics CA
+http://live.falconiptv.com:80/live/1234/1234/100340.m3u8
+#EXTINF:-1,Paramount
+http://live.falconiptv.com:80/live/1234/1234/100341.m3u8
+#EXTINF:-1,Treehouse CA
+http://live.falconiptv.com:80/live/1234/1234/100342.m3u8
+#EXTINF:-1,YES TV
+http://live.falconiptv.com:80/live/1234/1234/100343.m3u8
+#EXTINF:-1,YTV CA
+http://live.falconiptv.com:80/live/1234/1234/100344.m3u8
+#EXTINF:-1,YTV East CA
+http://live.falconiptv.com:80/live/1234/1234/100345.m3u8
+#EXTINF:-1,ABC Spark CA
+http://live.falconiptv.com:80/live/1234/1234/100346.m3u8
+#EXTINF:-1,AMC
+http://live.falconiptv.com:80/live/1234/1234/100347.m3u8
+#EXTINF:-1,BNN
+http://live.falconiptv.com:80/live/1234/1234/100348.m3u8
+#EXTINF:-1,Bravo TV
+http://live.falconiptv.com:80/live/1234/1234/100349.m3u8
+#EXTINF:-1,CBC
+http://live.falconiptv.com:80/live/1234/1234/100350.m3u8
+#EXTINF:-1,CHCH
+http://live.falconiptv.com:80/live/1234/1234/100351.m3u8
+#EXTINF:-1,Comedy
+http://live.falconiptv.com:80/live/1234/1234/100352.m3u8
+#EXTINF:-1,CPAC
+http://live.falconiptv.com:80/live/1234/1234/100353.m3u8
+#EXTINF:-1,CTV News Channel
+http://live.falconiptv.com:80/live/1234/1234/100354.m3u8
+#EXTINF:-1,CTV Vancouver
+http://live.falconiptv.com:80/live/1234/1234/100355.m3u8
+#EXTINF:-1,CTV2 Vancouver
+http://live.falconiptv.com:80/live/1234/1234/100356.m3u8
+#EXTINF:-1,CTV Montreal
+http://live.falconiptv.com:80/live/1234/1234/100357.m3u8
+#EXTINF:-1,Discovery Science CA
+http://live.falconiptv.com:80/live/1234/1234/100358.m3u8
+#EXTINF:-1,Disney
+http://live.falconiptv.com:80/live/1234/1234/100359.m3u8
+#EXTINF:-1,Disney JR
+http://live.falconiptv.com:80/live/1234/1234/100360.m3u8
+#EXTINF:-1,E! Entertainment
+http://live.falconiptv.com:80/live/1234/1234/100361.m3u8
+#EXTINF:-1,Family CA
+http://live.falconiptv.com:80/live/1234/1234/100362.m3u8
+#EXTINF:-1,Fight Network
+http://live.falconiptv.com:80/live/1234/1234/100363.m3u8
+#EXTINF:-1,FOX
+http://live.falconiptv.com:80/live/1234/1234/100364.m3u8
+#EXTINF:-1,FX FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100365.m3u8
+#EXTINF:-1,FXX CA
+http://live.falconiptv.com:80/live/1234/1234/100366.m3u8
+#EXTINF:-1,Global FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100367.m3u8
+#EXTINF:-1,HBO 1 CA
+http://live.falconiptv.com:80/live/1234/1234/100368.m3u8
 #EXTINF:-1,HBO 2
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3346.ts
-#EXTINF:-1,CBC Montreal
-http://bbgtv.iptv.life:8000/live/5tjBfO7kEG/bUe5X1TaFv/3344.ts
+http://live.falconiptv.com:80/live/1234/1234/100369.m3u8
+#EXTINF:-1,History
+http://live.falconiptv.com:80/live/1234/1234/100370.m3u8
+#EXTINF:-1,Lifetime FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100371.m3u8
+#EXTINF:-1,National Geographic
+http://live.falconiptv.com:80/live/1234/1234/100372.m3u8
+#EXTINF:-1,Peachtree
+http://live.falconiptv.com:80/live/1234/1234/100373.m3u8
+#EXTINF:-1,Slice
+http://live.falconiptv.com:80/live/1234/1234/100374.m3u8
+#EXTINF:-1,Sports Net One
+http://live.falconiptv.com:80/live/1234/1234/100375.m3u8
+#EXTINF:-1,Sports Net Ontario
+http://live.falconiptv.com:80/live/1234/1234/100376.m3u8
+#EXTINF:-1,Sports Net Pacific
+http://live.falconiptv.com:80/live/1234/1234/100377.m3u8
+#EXTINF:-1,Sports Net West
+http://live.falconiptv.com:80/live/1234/1234/100378.m3u8
+#EXTINF:-1,Sports Net World
+http://live.falconiptv.com:80/live/1234/1234/100379.m3u8
+#EXTINF:-1,TLC
+http://live.falconiptv.com:80/live/1234/1234/100380.m3u8
+#EXTINF:-1,TSN 1
+http://live.falconiptv.com:80/live/1234/1234/100381.m3u8
+#EXTINF:-1,TSN 2 FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100382.m3u8
+#EXTINF:-1,TSN 2
+http://live.falconiptv.com:80/live/1234/1234/100383.m3u8
+#EXTINF:-1,TSN 3 FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100384.m3u8
+#EXTINF:-1,TSN 3
+http://live.falconiptv.com:80/live/1234/1234/100385.m3u8
+#EXTINF:-1,TSN 4 FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100386.m3u8
+#EXTINF:-1,TSN 5 FHD CA
+http://live.falconiptv.com:80/live/1234/1234/100387.m3u8
+#EXTINF:-1,TSN 5
+http://live.falconiptv.com:80/live/1234/1234/100388.m3u8
+#EXTINF:-1,Canal Savoir FR
+http://live.falconiptv.com:80/live/1234/1234/100389.m3u8
+#EXTINF:-1,Casa FR
+http://live.falconiptv.com:80/live/1234/1234/100390.m3u8
+#EXTINF:-1,Disney La Chaine FR
+http://live.falconiptv.com:80/live/1234/1234/100391.m3u8
+#EXTINF:-1,Max FR
+http://live.falconiptv.com:80/live/1234/1234/100392.m3u8
+#EXTINF:-1,Meteo Media FR
+http://live.falconiptv.com:80/live/1234/1234/100393.m3u8
+#EXTINF:-1,Musique Plus FR
+http://live.falconiptv.com:80/live/1234/1234/100394.m3u8
+#EXTINF:-1,RDI FR
+http://live.falconiptv.com:80/live/1234/1234/100395.m3u8
+#EXTINF:-1,RDS Info FR
+http://live.falconiptv.com:80/live/1234/1234/100396.m3u8
+#EXTINF:-1,Super Ecran 1 FR
+http://live.falconiptv.com:80/live/1234/1234/100397.m3u8
+#EXTINF:-1,Super Ecran 2 FR
+http://live.falconiptv.com:80/live/1234/1234/100398.m3u8
+#EXTINF:-1,Super Ecran 3 FR
+http://live.falconiptv.com:80/live/1234/1234/100399.m3u8
+#EXTINF:-1,Super Ecran 4 FR
+http://live.falconiptv.com:80/live/1234/1234/100400.m3u8
+#EXTINF:-1,TVA Sports FR
+http://live.falconiptv.com:80/live/1234/1234/100401.m3u8
+#EXTINF:-1,ICI Montreal FR
+http://live.falconiptv.com:80/live/1234/1234/100402.m3u8
+#EXTINF:-1,World Fishing Network FR
+http://live.falconiptv.com:80/live/1234/1234/100403.m3u8
+#EXTINF:-1,Tele Quebec FR
+http://live.falconiptv.com:80/live/1234/1234/100404.m3u8
+#EXTINF:-1,Zeste FR
+http://live.falconiptv.com:80/live/1234/1234/100405.m3u8
+#EXTINF:-1,TMN 1 FR
+http://live.falconiptv.com:80/live/1234/1234/100406.m3u8
+#EXTINF:-1,TV5 Quebec FR
+http://live.falconiptv.com:80/live/1234/1234/100407.m3u8
+#EXTINF:-1,Teletoon Quebec FR
+http://live.falconiptv.com:80/live/1234/1234/100408.m3u8
