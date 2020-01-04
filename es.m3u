@@ -1,177 +1,157 @@
 #EXTM3U
-#EXTINF:-1,GOL
-http://live.falconiptv.com:80/live/1234/1234/100411.m3u8
-#EXTINF:-1,LA LIGA TV BAR HD
-http://live.falconiptv.com:80/live/1234/1234/100412.m3u8
-#EXTINF:-1,M. FORMULA 1
-http://live.falconiptv.com:80/live/1234/1234/100413.m3u8
-#EXTINF:-1,M. GOLF HD
-http://live.falconiptv.com:80/live/1234/1234/100414.m3u8
-#EXTINF:-1,M.LCAMPEONES HD
-http://live.falconiptv.com:80/live/1234/1234/100415.m3u8
-#EXTINF:-1,R. MADRID TV
-http://live.falconiptv.com:80/live/1234/1234/100416.m3u8
-#EXTINF:-1,TOROS HD
-http://live.falconiptv.com:80/live/1234/1234/100417.m3u8
-#EXTINF:-1,TELE DEPORTE
-http://live.falconiptv.com:80/live/1234/1234/100418.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://live.falconiptv.com:80/live/1234/1234/100419.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://live.falconiptv.com:80/live/1234/1234/100420.m3u8
-#EXTINF:-1,MOVISTAR MOTOGP
-http://live.falconiptv.com:80/live/1234/1234/100421.m3u8
-#EXTINF:-1,LA 1 HD
-http://live.falconiptv.com:80/live/1234/1234/100422.m3u8
-#EXTINF:-1,LA 2 HD
-http://live.falconiptv.com:80/live/1234/1234/100423.m3u8
+#EXTINF:-1,#0 HD
+http://gold.hopto.me:83/live/11111111/22222222/376731.m3u8
+#EXTINF:-1,24 Horas
+http://gold.hopto.me:83/live/11111111/22222222/376735.m3u8
+#EXTINF:-1,40 TV
+http://gold.hopto.me:83/live/11111111/22222222/376736.m3u8
+#EXTINF:-1,A&E
+http://gold.hopto.me:83/live/11111111/22222222/376730.m3u8
+#EXTINF:-1,AMC
+http://gold.hopto.me:83/live/11111111/22222222/376729.m3u8
 #EXTINF:-1,ANTENA 3 HD
-http://live.falconiptv.com:80/live/1234/1234/100424.m3u8
-#EXTINF:-1,CUATRO HD
-http://live.falconiptv.com:80/live/1234/1234/100425.m3u8
-#EXTINF:-1,TELECINCO HD
-http://live.falconiptv.com:80/live/1234/1234/100426.m3u8
-#EXTINF:-1,LA SEXTA HD
-http://live.falconiptv.com:80/live/1234/1234/100427.m3u8
-#EXTINF:-1,FDF
-http://live.falconiptv.com:80/live/1234/1234/100428.m3u8
-#EXTINF:-1,ENERGY
-http://live.falconiptv.com:80/live/1234/1234/100429.m3u8
-#EXTINF:-1,DIVINITY
-http://live.falconiptv.com:80/live/1234/1234/100430.m3u8
-#EXTINF:-1,MEGA HD
-http://live.falconiptv.com:80/live/1234/1234/100431.m3u8
-#EXTINF:-1,NEOX
-http://live.falconiptv.com:80/live/1234/1234/100432.m3u8
-#EXTINF:-1,NOVA
-http://live.falconiptv.com:80/live/1234/1234/100433.m3u8
-#EXTINF:-1,24 HORAS
-http://live.falconiptv.com:80/live/1234/1234/100434.m3u8
-#EXTINF:-1,FOX HD
-http://live.falconiptv.com:80/live/1234/1234/100435.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://live.falconiptv.com:80/live/1234/1234/100436.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://live.falconiptv.com:80/live/1234/1234/100437.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://live.falconiptv.com:80/live/1234/1234/100438.m3u8
-#EXTINF:-1,M. ACCION HD
-http://live.falconiptv.com:80/live/1234/1234/100439.m3u8
-#EXTINF:-1,M. CINE ESP
-http://live.falconiptv.com:80/live/1234/1234/100440.m3u8
-#EXTINF:-1,M.CineDoc&Roll
-http://live.falconiptv.com:80/live/1234/1234/100441.m3u8
-#EXTINF:-1,M. COMEDIA HD
-http://live.falconiptv.com:80/live/1234/1234/100442.m3u8
-#EXTINF:-1,M. DISNEY
-http://live.falconiptv.com:80/live/1234/1234/100443.m3u8
-#EXTINF:-1,M. ESTRENOS HD
-http://live.falconiptv.com:80/live/1234/1234/100444.m3u8
-#EXTINF:-1,SYFY HD
-http://live.falconiptv.com:80/live/1234/1234/100445.m3u8
-#EXTINF:-1,TCM HD
-http://live.falconiptv.com:80/live/1234/1234/100446.m3u8
-#EXTINF:-1,TNT HD
-http://live.falconiptv.com:80/live/1234/1234/100447.m3u8
-#EXTINF:-1,MTV ESP
-http://live.falconiptv.com:80/live/1234/1234/100448.m3u8
-#EXTINF:-1,NAT GEO HD
-http://live.falconiptv.com:80/live/1234/1234/100449.m3u8
-#EXTINF:-1,ALQUILER 1
-http://live.falconiptv.com:80/live/1234/1234/100450.m3u8
-#EXTINF:-1,ALQUILER 2
-http://live.falconiptv.com:80/live/1234/1234/100451.m3u8
-#EXTINF:-1,ALQUILER 3
-http://live.falconiptv.com:80/live/1234/1234/100452.m3u8
-#EXTINF:-1,ALQUILER 4
-http://live.falconiptv.com:80/live/1234/1234/100453.m3u8
-#EXTINF:-1,ALQUILER 5
-http://live.falconiptv.com:80/live/1234/1234/100454.m3u8
-#EXTINF:-1,ALQUILER 6
-http://live.falconiptv.com:80/live/1234/1234/100455.m3u8
-#EXTINF:-1,ALQUILER 7
-http://live.falconiptv.com:80/live/1234/1234/100456.m3u8
-#EXTINF:-1,ALQUILER 9
-http://live.falconiptv.com:80/live/1234/1234/100457.m3u8
-#EXTINF:-1,ALQUILER 10
-http://live.falconiptv.com:80/live/1234/1234/100458.m3u8
-#EXTINF:-1,CANAL 24 HORAS
-http://live.falconiptv.com:80/live/1234/1234/100459.m3u8
-#EXTINF:-1,CANAL SUR Andalucia
-http://live.falconiptv.com:80/live/1234/1234/100460.m3u8
-#EXTINF:-1,TVE INTERNACIONAL
-http://live.falconiptv.com:80/live/1234/1234/100461.m3u8
-#EXTINF:-1,CLAN TVE
-http://live.falconiptv.com:80/live/1234/1234/100462.m3u8
-#EXTINF:-1,IBERALIA
-http://live.falconiptv.com:80/live/1234/1234/100463.m3u8
-#EXTINF:-1,BABY TV
-http://live.falconiptv.com:80/live/1234/1234/100464.m3u8
-#EXTINF:-1,BOING
-http://live.falconiptv.com:80/live/1234/1234/100465.m3u8
-#EXTINF:-1,CANAL PANDA
-http://live.falconiptv.com:80/live/1234/1234/100466.m3u8
-#EXTINF:-1,DISNEY JR
-http://live.falconiptv.com:80/live/1234/1234/100467.m3u8
-#EXTINF:-1,DISNEY XD
-http://live.falconiptv.com:80/live/1234/1234/100468.m3u8
-#EXTINF:-1,NICKELODEON  HD
-http://live.falconiptv.com:80/live/1234/1234/100469.m3u8
-#EXTINF:-1,AMC HD
-http://live.falconiptv.com:80/live/1234/1234/100470.m3u8
-#EXTINF:-1,AXN
-http://live.falconiptv.com:80/live/1234/1234/100471.m3u8
+http://gold.hopto.me:83/live/11111111/22222222/376706.m3u8
 #EXTINF:-1,AXN HD
-http://live.falconiptv.com:80/live/1234/1234/100472.m3u8
+http://gold.hopto.me:83/live/11111111/22222222/376728.m3u8
 #EXTINF:-1,AXN WHITE HD
-http://live.falconiptv.com:80/live/1234/1234/100473.m3u8
+http://gold.hopto.me:83/live/11111111/22222222/376705.m3u8
+#EXTINF:-1,BARCA TV
+http://gold.hopto.me:83/live/11111111/22222222/376737.m3u8
+#EXTINF:-1,Bein Liga HD
+http://gold.hopto.me:83/live/11111111/22222222/376727.m3u8
+#EXTINF:-1,Bein Sport HD
+http://gold.hopto.me:83/live/11111111/22222222/376726.m3u8
+#EXTINF:-1,Boing
+http://gold.hopto.me:83/live/11111111/22222222/376725.m3u8
 #EXTINF:-1,CALLE 13 HD
-http://live.falconiptv.com:80/live/1234/1234/100474.m3u8
-#EXTINF:-1,COSMO HD
-http://live.falconiptv.com:80/live/1234/1234/100475.m3u8
-#EXTINF:-1,Murcia
-http://live.falconiptv.com:80/live/1234/1234/100476.m3u8
-#EXTINF:-1,VIAJAR HD
-http://live.falconiptv.com:80/live/1234/1234/100477.m3u8
-#EXTINF:-1,VH1
-http://live.falconiptv.com:80/live/1234/1234/100478.m3u8
-#EXTINF:-1,PARAMOUNT
-http://live.falconiptv.com:80/live/1234/1234/100479.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://live.falconiptv.com:80/live/1234/1234/100480.m3u8
-#EXTINF:-1,HISTORIA
-http://live.falconiptv.com:80/live/1234/1234/100481.m3u8
-#EXTINF:-1,DISCOVERY
-http://live.falconiptv.com:80/live/1234/1234/100482.m3u8
-#EXTINF:-1,MEZZO LIVE HD
-http://live.falconiptv.com:80/live/1234/1234/100483.m3u8
-#EXTINF:-1,M.CINEDOC&ROLL HD
-http://live.falconiptv.com:80/live/1234/1234/100484.m3u8
-#EXTINF:-1,M.SERIESMANIA HD
-http://live.falconiptv.com:80/live/1234/1234/100485.m3u8
-#EXTINF:-1,M. SERIES HD
-http://live.falconiptv.com:80/live/1234/1234/100486.m3u8
-#EXTINF:-1,M.DRAMA HD
-http://live.falconiptv.com:80/live/1234/1234/100487.m3u8
-#EXTINF:-1,CLASSICA
-http://live.falconiptv.com:80/live/1234/1234/100488.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://live.falconiptv.com:80/live/1234/1234/100489.m3u8
-#EXTINF:-1,BE MAD
-http://live.falconiptv.com:80/live/1234/1234/100490.m3u8
-#EXTINF:-1,ARAGON
-http://live.falconiptv.com:80/live/1234/1234/100491.m3u8
-#EXTINF:-1,0 HD
-http://live.falconiptv.com:80/live/1234/1234/100492.m3u8
-#EXTINF:-1,FOX NEWS
-http://live.falconiptv.com:80/live/1234/1234/100493.m3u8
-#EXTINF:-1,CRIMEN Y INVES
-http://live.falconiptv.com:80/live/1234/1234/100494.m3u8
-#EXTINF:-1,CAZA Y PESCA HD
-http://live.falconiptv.com:80/live/1234/1234/100495.m3u8
-#EXTINF:-1,CANAL DECASA
-http://live.falconiptv.com:80/live/1234/1234/100496.m3u8
+http://gold.hopto.me:83/live/11111111/22222222/376704.m3u8
+#EXTINF:-1,Canal  DEPORTES 2 HD
+http://gold.hopto.me:83/live/11111111/22222222/376700.m3u8
+#EXTINF:-1,Canal  DEPORTES HD
+http://gold.hopto.me:83/live/11111111/22222222/376699.m3u8
+#EXTINF:-1,Canal  FUTBOL HD
+http://gold.hopto.me:83/live/11111111/22222222/376697.m3u8
+#EXTINF:-1,Canal  GOLF HD
+http://gold.hopto.me:83/live/11111111/22222222/376696.m3u8
+#EXTINF:-1,Canal  LIGA HD
+http://gold.hopto.me:83/live/11111111/22222222/376695.m3u8
+#EXTINF:-1,Canal  TOROS HD
+http://gold.hopto.me:83/live/11111111/22222222/376693.m3u8
 #EXTINF:-1,CANAL COCINA
-http://live.falconiptv.com:80/live/1234/1234/100497.m3u8
-#EXTINF:-1,BLAZE
-http://live.falconiptv.com:80/live/1234/1234/100498.m3u8
+http://gold.hopto.me:83/live/11111111/22222222/376724.m3u8
+#EXTINF:-1,Canal DCINE HD
+http://gold.hopto.me:83/live/11111111/22222222/376701.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://gold.hopto.me:83/live/11111111/22222222/376741.m3u8
+#EXTINF:-1,CANAL DECASA
+http://gold.hopto.me:83/live/11111111/22222222/376723.m3u8
+#EXTINF:-1,Canal SERIES HD
+http://gold.hopto.me:83/live/11111111/22222222/376722.m3u8
+#EXTINF:-1,Canal SERIES XTRA HD
+http://gold.hopto.me:83/live/11111111/22222222/376694.m3u8
+#EXTINF:-1,Caza y pesca
+http://gold.hopto.me:83/live/11111111/22222222/376721.m3u8
+#EXTINF:-1,Clan Tve
+http://gold.hopto.me:83/live/11111111/22222222/376720.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://gold.hopto.me:83/live/11111111/22222222/376738.m3u8
+#EXTINF:-1,COSMO HD
+http://gold.hopto.me:83/live/11111111/22222222/376719.m3u8
+#EXTINF:-1,Crimen Investigation
+http://gold.hopto.me:83/live/11111111/22222222/376743.m3u8
+#EXTINF:-1,CUATRO HD
+http://gold.hopto.me:83/live/11111111/22222222/376691.m3u8
+#EXTINF:-1,DISCOVERY
+http://gold.hopto.me:83/live/11111111/22222222/376689.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://gold.hopto.me:83/live/11111111/22222222/376690.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://gold.hopto.me:83/live/11111111/22222222/376688.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://gold.hopto.me:83/live/11111111/22222222/376687.m3u8
+#EXTINF:-1,DISNEY XD
+http://gold.hopto.me:83/live/11111111/22222222/376686.m3u8
+#EXTINF:-1,DIVINITY
+http://gold.hopto.me:83/live/11111111/22222222/376718.m3u8
+#EXTINF:-1,Energy
+http://gold.hopto.me:83/live/11111111/22222222/376732.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://gold.hopto.me:83/live/11111111/22222222/376733.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://gold.hopto.me:83/live/11111111/22222222/376734.m3u8
+#EXTINF:-1,FDF
+http://gold.hopto.me:83/live/11111111/22222222/376717.m3u8
+#EXTINF:-1,FOX HD
+http://gold.hopto.me:83/live/11111111/22222222/376685.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://gold.hopto.me:83/live/11111111/22222222/376684.m3u8
+#EXTINF:-1,GOL Tv
+http://gold.hopto.me:83/live/11111111/22222222/376716.m3u8
+#EXTINF:-1,HISTORIA
+http://gold.hopto.me:83/live/11111111/22222222/376683.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://gold.hopto.me:83/live/11111111/22222222/376682.m3u8
+#EXTINF:-1,IBERALIA
+http://gold.hopto.me:83/live/11111111/22222222/376715.m3u8
+#EXTINF:-1,LA 1 HD
+http://gold.hopto.me:83/live/11111111/22222222/376681.m3u8
+#EXTINF:-1,LA 2 HD
+http://gold.hopto.me:83/live/11111111/22222222/376714.m3u8
+#EXTINF:-1,La Liga BAR HD
+http://gold.hopto.me:83/live/11111111/22222222/376713.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://gold.hopto.me:83/live/11111111/22222222/376680.m3u8
+#EXTINF:-1,M COMEDIA HD
+http://gold.hopto.me:83/live/11111111/22222222/376702.m3u8
+#EXTINF:-1,MEGA
+http://gold.hopto.me:83/live/11111111/22222222/376679.m3u8
+#EXTINF:-1,Movistar Accion HD
+http://gold.hopto.me:83/live/11111111/22222222/376703.m3u8
+#EXTINF:-1,Movistar ESTRENOS HD
+http://gold.hopto.me:83/live/11111111/22222222/376698.m3u8
+#EXTINF:-1,MOVISTAR F1 HD
+http://gold.hopto.me:83/live/11111111/22222222/376748.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://gold.hopto.me:83/live/11111111/22222222/376747.m3u8
+#EXTINF:-1,Movistar Futbol
+http://gold.hopto.me:83/live/11111111/22222222/376746.m3u8
+#EXTINF:-1,MOVISTAR MOTOGP
+http://gold.hopto.me:83/live/11111111/22222222/376745.m3u8
+#EXTINF:-1,Movistar XTRA HD
+http://gold.hopto.me:83/live/11111111/22222222/376692.m3u8
+#EXTINF:-1,MTV ESPANA
+http://gold.hopto.me:83/live/11111111/22222222/376744.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://gold.hopto.me:83/live/11111111/22222222/376678.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://gold.hopto.me:83/live/11111111/22222222/376677.m3u8
+#EXTINF:-1,NEOX
+http://gold.hopto.me:83/live/11111111/22222222/376712.m3u8
+#EXTINF:-1,NICK Jr
+http://gold.hopto.me:83/live/11111111/22222222/376676.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://gold.hopto.me:83/live/11111111/22222222/376711.m3u8
+#EXTINF:-1,Nonstop People
+http://gold.hopto.me:83/live/11111111/22222222/376739.m3u8
+#EXTINF:-1,NOVA
+http://gold.hopto.me:83/live/11111111/22222222/376710.m3u8
+#EXTINF:-1,PANDA
+http://gold.hopto.me:83/live/11111111/22222222/376709.m3u8
+#EXTINF:-1,Paramount
+http://gold.hopto.me:83/live/11111111/22222222/376742.m3u8
+#EXTINF:-1,SYFY
+http://gold.hopto.me:83/live/11111111/22222222/376708.m3u8
+#EXTINF:-1,TCM HD
+http://gold.hopto.me:83/live/11111111/22222222/376675.m3u8
+#EXTINF:-1,TELECINCO HD
+http://gold.hopto.me:83/live/11111111/22222222/376674.m3u8
+#EXTINF:-1,TELEDEPORTE HD
+http://gold.hopto.me:83/live/11111111/22222222/376673.m3u8
+#EXTINF:-1,TNT
+http://gold.hopto.me:83/live/11111111/22222222/376707.m3u8
+#EXTINF:-1,VIAJAR HD
+http://gold.hopto.me:83/live/11111111/22222222/376672.m3u8
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+http://gold.hopto.me:83/live/11111111/22222222/376740.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://gold.hopto.me:83/live/11111111/22222222/376803.m3u8
