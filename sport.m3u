@@ -1,61 +1,257 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS1 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/55.m3u8
-#EXTINF:-1,BEIN SPORTS2 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/41.m3u8
-#EXTINF:-1,BEIN SPORTS3 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/39.m3u8
-#EXTINF:-1,BEIN SPORTS4 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/37.m3u8
-#EXTINF:-1,BEIN SPORTS5 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/35.m3u8
-#EXTINF:-1,BEIN SPORTS6 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/33.m3u8
-#EXTINF:-1,BEIN SPORTS7 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/31.m3u8
-#EXTINF:-1,BEIN SPORTS8 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/29.m3u8
-#EXTINF:-1,BEIN SPORTS9 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/27.m3u8
-#EXTINF:-1,BEIN SPORTS10 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/53.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/51.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/49.m3u8
-#EXTINF:-1,BEIN SPORTS FR 1
-http://190.2.132.7:8080/live/8901428641/chjpojdp/47.m3u8
-#EXTINF:-1,BEIN SPORTS FR 2
-http://190.2.132.7:8080/live/8901428641/chjpojdp/45.m3u8
-#EXTINF:-1,BEIN SPORTS FR 3
-http://190.2.132.7:8080/live/8901428641/chjpojdp/43.m3u8
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/54.m3u8
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/40.m3u8
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/38.m3u8
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/36.m3u8
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/34.m3u8
-#EXTINF:-1,BEIN SPORTS 6 SD 
-http://190.2.132.7:8080/live/8901428641/chjpojdp/32.m3u8
-#EXTINF:-1,BEIN SPORTS 7 SD 
-http://190.2.132.7:8080/live/8901428641/chjpojdp/30.m3u8
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/28.m3u8
-#EXTINF:-1,BEIN SPORTS 9 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/26.m3u8
-#EXTINF:-1,BEIN SPORTS 10 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/52.m3u8
-#EXTINF:-1,BEIN SPORTS 11 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/50.m3u8
-#EXTINF:-1,BEIN SPORTS 12 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/48.m3u8
-#EXTINF:-1,BEIN SPORTS 13 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/46.m3u8
-#EXTINF:-1,BEIN SPORTS 14 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/44.m3u8
-#EXTINF:-1,BEIN SPORTS 15 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/42.m3u8
+#EXTINF:-1,BOX NATION HD 50Fps
+http://beastiptv.tv:25461/live/jkal/jkal/4070.m3u8
+#EXTINF:-1,BT SPORTS 1 FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4063.m3u8
+#EXTINF:-1,BT SPORTS 1 FHD 50Fps
+http://beastiptv.tv:25461/live/jkal/jkal/4062.m3u8
+#EXTINF:-1,BT SPORTS 2 FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4065.m3u8
+#EXTINF:-1,BT SPORTS 2 FHD 50Fps
+http://beastiptv.tv:25461/live/jkal/jkal/4064.m3u8
+#EXTINF:-1,BT SPORTS 3 FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4067.m3u8
+#EXTINF:-1,BT SPORTS 3 FHD 50Fps
+http://beastiptv.tv:25461/live/jkal/jkal/4066.m3u8
+#EXTINF:-1,BT SPORTS ESPN FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4069.m3u8
+#EXTINF:-1,BT SPORTS ESPN FHD 50Fps
+http://beastiptv.tv:25461/live/jkal/jkal/4068.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 1
+http://beastiptv.tv:25461/live/jkal/jkal/4071.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 2
+http://beastiptv.tv:25461/live/jkal/jkal/4072.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 3
+http://beastiptv.tv:25461/live/jkal/jkal/4073.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 4
+http://beastiptv.tv:25461/live/jkal/jkal/4074.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 5
+http://beastiptv.tv:25461/live/jkal/jkal/4075.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 6
+http://beastiptv.tv:25461/live/jkal/jkal/4076.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 7
+http://beastiptv.tv:25461/live/jkal/jkal/4077.m3u8
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4084.m3u8
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4085.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4081.m3u8
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4083.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4080.m3u8
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4082.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4078.m3u8
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4086.m3u8
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4088.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4079.m3u8
+#EXTINF:-1,SKY SPORTS RACING FHD
+http://beastiptv.tv:25461/live/jkal/jkal/4087.m3u8
+#EXTINF:-1,RUSH SPORTS 01: West Ham United vs Arsenal
+http://beastiptv.tv:25461/live/jkal/jkal/7574.m3u8
+#EXTINF:-1,RUSH SPORTS 02: TBD
+http://beastiptv.tv:25461/live/jkal/jkal/7575.m3u8
+#EXTINF:-1,RUSH SPORTS 03: TBD
+http://beastiptv.tv:25461/live/jkal/jkal/7576.m3u8
+#EXTINF:-1,RUSH SPORTS 04: TBD
+http://beastiptv.tv:25461/live/jkal/jkal/7577.m3u8
+#EXTINF:-1,RUSH SPORTS 05: TBD
+http://beastiptv.tv:25461/live/jkal/jkal/7578.m3u8
+#EXTINF:-1,RUSH SPORTS 06
+http://beastiptv.tv:25461/live/jkal/jkal/7579.m3u8
+#EXTINF:-1,RUSH SPORTS 07
+http://beastiptv.tv:25461/live/jkal/jkal/7580.m3u8
+#EXTINF:-1,RUSH SPORTS 08
+http://beastiptv.tv:25461/live/jkal/jkal/7581.m3u8
+#EXTINF:-1,RUSH SPORTS 09
+http://beastiptv.tv:25461/live/jkal/jkal/7582.m3u8
+#EXTINF:-1,SPORTS US: ACC NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/1570.m3u8
+#EXTINF:-1,SPORTS US: BEIN SPORTS
+http://beastiptv.tv:25461/live/jkal/jkal/1569.m3u8
+#EXTINF:-1,SPORTS US: BEIN SPORTS EN ESPANOL
+http://beastiptv.tv:25461/live/jkal/jkal/1568.m3u8
+#EXTINF:-1,SPORTS US: BIG TEN NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/4450.m3u8
+#EXTINF:-1,SPORTS US: CBS SPORTS NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/7523.m3u8
+#EXTINF:-1,SPORTS US: CSN BAY AREA
+http://beastiptv.tv:25461/live/jkal/jkal/1566.m3u8
+#EXTINF:-1,SPORTS US: CSN BAY AREA PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1567.m3u8
+#EXTINF:-1,SPORTS US: CSN BOSTON
+http://beastiptv.tv:25461/live/jkal/jkal/1565.m3u8
+#EXTINF:-1,SPORTS US: CSN CALIFORNIA
+http://beastiptv.tv:25461/live/jkal/jkal/1563.m3u8
+#EXTINF:-1,SPORTS US: CSN CALIFORNIA PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1564.m3u8
+#EXTINF:-1,SPORTS US: CSN CHICAGO
+http://beastiptv.tv:25461/live/jkal/jkal/1562.m3u8
+#EXTINF:-1,SPORTS US: CSN CHICAGO PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1561.m3u8
+#EXTINF:-1,SPORTS US: CSN MID ATLANTIC
+http://beastiptv.tv:25461/live/jkal/jkal/1560.m3u8
+#EXTINF:-1,SPORTS US: CSN NEW ENGLAND
+http://beastiptv.tv:25461/live/jkal/jkal/1559.m3u8
+#EXTINF:-1,SPORTS US: CSN NORTHWEST
+http://beastiptv.tv:25461/live/jkal/jkal/1558.m3u8
+#EXTINF:-1,SPORTS US: CSN PHILADELPHIA
+http://beastiptv.tv:25461/live/jkal/jkal/1556.m3u8
+#EXTINF:-1,SPORTS US: CSN PHILADELPHIA PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1557.m3u8
+#EXTINF:-1,SPORTS US: CSN WASHINGTON
+http://beastiptv.tv:25461/live/jkal/jkal/1554.m3u8
+#EXTINF:-1,SPORTS US: CSN WASHINGTON PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1555.m3u8
+#EXTINF:-1,SPORTS US: FIGHT NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/1535.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS 1 |+|
+http://beastiptv.tv:25461/live/jkal/jkal/1529.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS 2
+http://beastiptv.tv:25461/live/jkal/jkal/1528.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS ARIZONA
+http://beastiptv.tv:25461/live/jkal/jkal/1527.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS CAROLINAS
+http://beastiptv.tv:25461/live/jkal/jkal/1525.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS CINCINNATI
+http://beastiptv.tv:25461/live/jkal/jkal/1523.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS DEPORTES
+http://beastiptv.tv:25461/live/jkal/jkal/1522.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS DETROIT
+http://beastiptv.tv:25461/live/jkal/jkal/1521.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS FLORIDA
+http://beastiptv.tv:25461/live/jkal/jkal/1520.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS INDIANA
+http://beastiptv.tv:25461/live/jkal/jkal/1518.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS KANSAS CITY
+http://beastiptv.tv:25461/live/jkal/jkal/1517.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS MIDWEST
+http://beastiptv.tv:25461/live/jkal/jkal/1516.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NET BASE
+http://beastiptv.tv:25461/live/jkal/jkal/1514.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NEW ORLEANS
+http://beastiptv.tv:25461/live/jkal/jkal/1515.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NORTH
+http://beastiptv.tv:25461/live/jkal/jkal/1509.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NORTH PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1508.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS OHIO
+http://beastiptv.tv:25461/live/jkal/jkal/1503.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS OHIO PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1502.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS PRIME TICKET
+http://beastiptv.tv:25461/live/jkal/jkal/1501.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SAN DIEGO
+http://beastiptv.tv:25461/live/jkal/jkal/1500.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTH
+http://beastiptv.tv:25461/live/jkal/jkal/1499.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTHEAST
+http://beastiptv.tv:25461/live/jkal/jkal/1506.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTHWEST
+http://beastiptv.tv:25461/live/jkal/jkal/1498.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTHWEST PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1505.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SUN
+http://beastiptv.tv:25461/live/jkal/jkal/1497.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS TENNESSEE
+http://beastiptv.tv:25461/live/jkal/jkal/1504.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS WEST
+http://beastiptv.tv:25461/live/jkal/jkal/1496.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS WISCONSIN
+http://beastiptv.tv:25461/live/jkal/jkal/1495.m3u8
+#EXTINF:-1,SPORTS US: FOX YES
+http://beastiptv.tv:25461/live/jkal/jkal/4476.m3u8
+#EXTINF:-1,FOX SPORTS NEWS (AUSTRALIA)
+http://beastiptv.tv:25461/live/jkal/jkal/4384.m3u8
+#EXTINF:-1,SPORTS US: GOLF CHANNEL
+http://beastiptv.tv:25461/live/jkal/jkal/1494.m3u8
+#EXTINF:-1,SPORTS US: LONGHORN NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/1493.m3u8
+#EXTINF:-1,SPORTS US: MLB NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/1492.m3u8
+#EXTINF:-1,SPORTS US: MLBN STRIKEZONE
+http://beastiptv.tv:25461/live/jkal/jkal/1491.m3u8
+#EXTINF:-1,SPORTS US: MSG
+http://beastiptv.tv:25461/live/jkal/jkal/4480.m3u8
+#EXTINF:-1,SPORTS US: MSG PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/6430.m3u8
+#EXTINF:-1,SPORTS US: MSG 2
+http://beastiptv.tv:25461/live/jkal/jkal/6431.m3u8
+#EXTINF:-1,SPORTS US: MSG 2 PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/6432.m3u8
+#EXTINF:-1,SPORTS US: NBCSN
+http://beastiptv.tv:25461/live/jkal/jkal/2623.m3u8
+#EXTINF:-1,SPORTS US: NESN
+http://beastiptv.tv:25461/live/jkal/jkal/1488.m3u8
+#EXTINF:-1,SPORTS US: NESN PLUS
+http://beastiptv.tv:25461/live/jkal/jkal/1489.m3u8
+#EXTINF:-1,SPORTS US: OLYMPIC CHANNEL
+http://beastiptv.tv:25461/live/jkal/jkal/1422.m3u8
+#EXTINF:-1,SPORTS US: PAC-12 NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/5560.m3u8
+#EXTINF:-1,SPORTS US: SPORTSNET LA DODGERS
+http://beastiptv.tv:25461/live/jkal/jkal/4479.m3u8
+#EXTINF:-1,SPORTS US: SPORTSNET LA LAKERS
+http://beastiptv.tv:25461/live/jkal/jkal/4478.m3u8
+#EXTINF:-1,SPORTS US: TENNIS CHANNEL
+http://beastiptv.tv:25461/live/jkal/jkal/4482.m3u8
+#EXTINF:-1,SPORTS US: UFC FIGHT PASS
+http://beastiptv.tv:25461/live/jkal/jkal/1484.m3u8
+#EXTINF:-1,SPORTS US: WILLOW CRICKET 
+http://beastiptv.tv:25461/live/jkal/jkal/5558.m3u8
+#EXTINF:-1,SPORTS US: WWE NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/1483.m3u8
+#EXTINF:-1,SPORTS CA: FANTASY SPORTS
+http://beastiptv.tv:25461/live/jkal/jkal/2692.m3u8
+#EXTINF:-1,SPORTS CA: FIGHT NETWORK
+http://beastiptv.tv:25461/live/jkal/jkal/2693.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET 360
+http://beastiptv.tv:25461/live/jkal/jkal/2723.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET EAST
+http://beastiptv.tv:25461/live/jkal/jkal/2724.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET ONE
+http://beastiptv.tv:25461/live/jkal/jkal/2725.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET ONTARIO
+http://beastiptv.tv:25461/live/jkal/jkal/2726.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET PACIFIC
+http://beastiptv.tv:25461/live/jkal/jkal/2727.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET WEST
+http://beastiptv.tv:25461/live/jkal/jkal/2728.m3u8
+#EXTINF:-1,SPORTS CA: SPORTSNET WORLD
+http://beastiptv.tv:25461/live/jkal/jkal/2729.m3u8
+#EXTINF:-1,SPORTS CA: TSN  1
+http://beastiptv.tv:25461/live/jkal/jkal/2731.m3u8
+#EXTINF:-1,SPORTS CA: TSN  2
+http://beastiptv.tv:25461/live/jkal/jkal/2732.m3u8
+#EXTINF:-1,SPORTS CA: TSN  3
+http://beastiptv.tv:25461/live/jkal/jkal/2733.m3u8
+#EXTINF:-1,SPORTS CA: TSN  4
+http://beastiptv.tv:25461/live/jkal/jkal/2734.m3u8
+#EXTINF:-1,SPORTS CA: TSN 5
+http://beastiptv.tv:25461/live/jkal/jkal/2735.m3u8
+#EXTINF:-1,SPORTS CA : TVA SPORTS
+http://beastiptv.tv:25461/live/jkal/jkal/6441.m3u8
+#EXTINF:-1,SPORTS CA : TVA SPORTS 2
+http://beastiptv.tv:25461/live/jkal/jkal/6440.m3u8
+#EXTINF:-1,CA: BEIN SPORTS
+http://beastiptv.tv:25461/live/jkal/jkal/2652.m3u8
+#EXTINF:-1,LAT: ESPN 2 HD (CO)
+http://beastiptv.tv:25461/live/jkal/jkal/4712.m3u8
+#EXTINF:-1,LAT: ESPN 3 HD (MX)
+http://beastiptv.tv:25461/live/jkal/jkal/4713.m3u8
+#EXTINF:-1,LAT: ESPN HD (CO)
+http://beastiptv.tv:25461/live/jkal/jkal/4714.m3u8
+#EXTINF:-1,LAT: ESPN U HD (MX)
+http://beastiptv.tv:25461/live/jkal/jkal/4715.m3u8
+#EXTINF:-1,LAT: FOX SPORTS 2 HD
+http://beastiptv.tv:25461/live/jkal/jkal/4722.m3u8
+#EXTINF:-1,LAT: FOX SPORTS 3 HD
+http://beastiptv.tv:25461/live/jkal/jkal/4723.m3u8
+#EXTINF:-1,LAT: FOX SPORTS HD
+http://beastiptv.tv:25461/live/jkal/jkal/4724.m3u8
