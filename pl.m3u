@@ -1,73 +1,143 @@
 #EXTM3U
-#EXTINF:0,dlaCiebie TV
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:0,CW 24
-http://cdn4.stream360.pl/CW24/transmisja_live/playlist.m3u8
-#EXTINF:0,Pogranicze TV
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:0,Polsat Cafe
-http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
-#EXTINF:0,Polsat News 2
-http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-#EXTINF:0,Republika TV
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:0,Sfera TV
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
-#EXTINF:0,Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:0,TV Imperium Gliwice
-https://stream.tvimperium.pl/ram/hls_adaptive/tvimperium_hi/index.m3u8
-#EXTINF:0,TV Kujawy (Opt-1)
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:0,TV Kujawy (Opt-2)
-rtmp://stream.tvkujawy.pl/live/broadcast
-#EXTINF:0,TV Torun
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:0,TV Trwam
-http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:0,TV Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:0,TVP3 Bialystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:0,TVP3 Bydgoszcz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:0,TVP3 Gdansk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:0,TVP3 Gorzow Wielkopolski
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:0,TVP3 Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:0,TVP3 Katowice
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:0,TVP3 Kielce
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:0,TVP3 Krakow
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:0,TVP3 Lodz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:0,TVP3 Lublin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:0,TVP3 Olsztyn
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-#EXTINF:0,TVP3 Opole
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:0,TVP3 Poznan
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:0,TVP3 Rzeszow
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-#EXTINF:0,TVP3 Szczecin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:0,TVP3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:0,TVP3 Wroclaw
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-#EXTINF:0,TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:0,TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:0,Twoja TV (Opt-1)
-http://94.246.169.19/ttv_hls/live_270p/index.m3u8
-#EXTINF:0,Twoja TV (Opt-2)
-http://94.246.169.19/ttv_hls/live_720p/index.m3u8
-#EXTINF:0,WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
+#EXTINF:-1,13 ULICA HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10727
+#EXTINF:-1,4 FUN TV
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10726
+#EXTINF:-1,ANIMAL PLANET HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10725
+#EXTINF:-1,AXN BLACK
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10724
+#EXTINF:-1,AXN HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10723
+#EXTINF:-1,AXN SPIN HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10722
+#EXTINF:-1,AXN WHITE
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10721
+#EXTINF:-1,CARTOON NETWORK HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10720
+#EXTINF:-1,COMEDY CENTRAL
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10719
+#EXTINF:-1,DISCO POLO
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10718
+#EXTINF:-1,DISCOVERY HISTORIA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10717
+#EXTINF:-1,DISCOVERY LIFE HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10716
+#EXTINF:-1,DISCOVERY SCIENCE
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10715
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10730
+#EXTINF:-1,DISNEY CHANNEL HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10734
+#EXTINF:-1,DISNEY JUNIOR
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10714
+#EXTINF:-1,DISNEY XD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10713
+#EXTINF:-1,EUROSPORT 1 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10712
+#EXTINF:-1,EUROSPORT 2 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10711
+#EXTINF:-1,FILMBOX ACTION
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10735
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10710
+#EXTINF:-1,FILMBOX FAMILY
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10736
+#EXTINF:-1,FILMBOX PREMIUM
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10737
+#EXTINF:-1,FOX HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10745
+#EXTINF:-1,HBO 2 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10709
+#EXTINF:-1,HBO 3 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10708
+#EXTINF:-1,HBO HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10707
+#EXTINF:-1,HISTORY HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10706
+#EXTINF:-1,KINO POLSKA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10732
+#EXTINF:-1,LIFETIME HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10705
+#EXTINF:-1,MINIMINI
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10733
+#EXTINF:-1,MOTORWIZJA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10704
+#EXTINF:-1,MTV
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10703
+#EXTINF:-1,NAT GEO HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10738
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10702
+#EXTINF:-1,NAT GEO WILD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10701
+#EXTINF:-1,NICK JR.
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10700
+#EXTINF:-1,NICKELODEON
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10699
+#EXTINF:-1,NSPORT  HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10698
+#EXTINF:-1,PLANETE HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10697
+#EXTINF:-1,POLO TV
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10696
+#EXTINF:-1,POLSAT 2 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10739
+#EXTINF:-1,POLSAT CAFE HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10741
+#EXTINF:-1,POLSAT DOKU HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10695
+#EXTINF:-1,POLSAT FILM HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10742
+#EXTINF:-1,POLSAT HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10740
+#EXTINF:-1,POLSAT JIMJAM
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10694
+#EXTINF:-1,POLSAT NEWS HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10743
+#EXTINF:-1,POLSAT PLAY HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10744
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10693
+#EXTINF:-1,POLSAT SPORT HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10692
+#EXTINF:-1,SPORT KLUB
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10691
+#EXTINF:-1,SUNDANCE TV HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10690
+#EXTINF:-1,SUPER POLSAT HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10728
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/13378
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/13377
+#EXTINF:-1,ELEVEN SPORT 3 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/13376
+#EXTINF:-1,ELEVEN SPORT 4 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/13375
+#EXTINF:-1,TLC HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10689
+#EXTINF:-1,TNT HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10688
+#EXTINF:-1,TV PLUS HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10687
+#EXTINF:-1,TV REPUBLIKA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10729
+#EXTINF:-1,TVN24
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10686
+#EXTINF:-1,TVP 1 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10747
+#EXTINF:-1,TVP 2 HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10746
+#EXTINF:-1,TVP INFO HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10748
+#EXTINF:-1,TVP POLONIA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10685
+#EXTINF:-1,TVP SPORT HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10749
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10684
+#EXTINF:-1,VOX MUSIC TV
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/10683
+#EXTINF:-1,POLSAT SPOR EXTRA
+http://fungold.xyz:8080/yNDpU8HrQr/Z7eJJDX946/6219
