@@ -1,229 +1,553 @@
 #EXTM3U
+#EXTINF:-1,RTP 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41632
 #EXTINF:-1,RTP 1
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7762.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41633
+#EXTINF:-1,RTP 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41634
 #EXTINF:-1,RTP 2
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7761.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41635
 #EXTINF:-1,RTP 3
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7803.m3u8
-#EXTINF:-1,RTP Memoria
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7807.m3u8
-#EXTINF:-1,RTP Ãfrica
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7805.m3u8
-#EXTINF:-1,RTP Madeira
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7806.m3u8
-#EXTINF:-1,RTP Acores
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7804.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41636
+#EXTINF:-1,RTP MEMORIA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41637
+#EXTINF:-1,RTP MADEIRA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41638
+#EXTINF:-1,RTP ACORES
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41639
+#EXTINF:-1,RTP AFRICA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41640
+#EXTINF:-1,SIC NOTICIAS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41641
 #EXTINF:-1,SIC HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7760.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41642
 #EXTINF:-1,SIC
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15376.m3u8
-#EXTINF:-1,SIC Radical
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15380.m3u8
-#EXTINF:-1,SIC Caras
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15377.m3u8
-#EXTINF:-1,SIC Mulher
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15379.m3u8
-#EXTINF:-1,Tvi 24
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7752.m3u8
-#EXTINF:-1,TVI
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7744.m3u8
-#EXTINF:-1,TVI FICCAO
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7751.m3u8
-#EXTINF:-1,Porto Canal
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7763.m3u8
-#EXTINF:-1,TPA Angola
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7808.m3u8
-#EXTINF:-1,TV Globo Premium
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7818.m3u8
-#EXTINF:-1,Cancao Nova
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15381.m3u8
-#EXTINF:-1,FTV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15372.m3u8
-#EXTINF:-1,Fuel TV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15373.m3u8
-#EXTINF:-1,Globo
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15362.m3u8
-#EXTINF:-1,Globo Premium
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15374.m3u8
-#EXTINF:-1,TVE Internacional
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15382.m3u8
-#EXTINF:-1,MOV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7766.m3u8
-#EXTINF:-1,Eleven Sport 1 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21586.m3u8
-#EXTINF:-1,Eleven Sport 2 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21585.m3u8
-#EXTINF:-1,Eleven Sport 3 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21584.m3u8
-#EXTINF:-1,Eleven Sport 4 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21583.m3u8
-#EXTINF:-1,Eleven Sport 5 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21582.m3u8
-#EXTINF:-1,Eleven Sport 6 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21581.m3u8
-#EXTINF:-1,SPORT TV +
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15368.m3u8
-#EXTINF:-1,SPORT TV + HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7816.m3u8
-#EXTINF:-1,SPORTTV 1 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7758.m3u8
-#EXTINF:-1,SPORTTV 1 SD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8469.m3u8
-#EXTINF:-1,SPORTTV 2 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7746.m3u8
-#EXTINF:-1,SPORTTV 2 SD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8470.m3u8
-#EXTINF:-1,SPORTTV 3 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7757.m3u8
-#EXTINF:-1,SPORTTV 3 SD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8471.m3u8
-#EXTINF:-1,SPORTTV 4 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7756.m3u8
-#EXTINF:-1,SPORTTV 5 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7745.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7769.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7743.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7739.m3u8
-#EXTINF:-1,BTV 1 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7742.m3u8
-#EXTINF:-1,SPORTING TV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7759.m3u8
-#EXTINF:-1,Motors TV HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7822.m3u8
-#EXTINF:-1,PFC
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7764.m3u8
-#EXTINF:-1,Caca & Pesca
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7833.m3u8
-#EXTINF:-1,ABOLA TV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7771.m3u8
-#EXTINF:-1,Kombat Sport
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/18298.m3u8
-#EXTINF:-1,NBA TV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/18297.m3u8
-#EXTINF:-1,National Geographic HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8406.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7821.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15360.m3u8
-#EXTINF:-1,Discovery Channel
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13858.m3u8
-#EXTINF:-1,Odisseia
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7765.m3u8
-#EXTINF:-1,Travel Channel HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8407.m3u8
-#EXTINF:-1,Historia
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15363.m3u8
-#EXTINF:-1,Canal Historia
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7832.m3u8
-#EXTINF:-1,CANAL PANDA
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7815.m3u8
-#EXTINF:-1,Nickelodeon
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7812.m3u8
-#EXTINF:-1,Baby First
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15358.m3u8
-#EXTINF:-1,Baby Tv
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15359.m3u8
-#EXTINF:-1,Biggs
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15370.m3u8
-#EXTINF:-1,Panda Biggs
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7811.m3u8
-#EXTINF:-1,SIC Kids HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7810.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41643
+#EXTINF:-1,SIC MULHER HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41644
+#EXTINF:-1,SIC MULHER
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41645
+#EXTINF:-1,SIC RADICAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41646
+#EXTINF:-1,SIC CARAS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41647
+#EXTINF:-1,SIC RADICAL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41648
+#EXTINF:-1,SIC CARAS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41649
+#EXTINF:-1,SIC K HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41650
 #EXTINF:-1,SIC K
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15378.m3u8
-#EXTINF:-1,Cartoon NetWork
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7814.m3u8
-#EXTINF:-1,Disney Channel
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7813.m3u8
-#EXTINF:-1,Disney Junior
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7747.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7809.m3u8
-#EXTINF:-1,TVCINE 2 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7755.m3u8
-#EXTINF:-1,TVCINE 3 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7754.m3u8
-#EXTINF:-1,TVCINE 4 HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7753.m3u8
-#EXTINF:-1,Hollywood HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7767.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41651
+#EXTINF:-1,CANAL Q
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41652
+#EXTINF:-1,PORTO CANAL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41653
+#EXTINF:-1,TV RECORD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41655
+#EXTINF:-1,TVI HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41656
+#EXTINF:-1,TVI
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41657
+#EXTINF:-1,TVE 24H
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41658
+#EXTINF:-1,TVI 24
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41659
+#EXTINF:-1,TVE I
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41660
+#EXTINF:-1,TVI FICCAO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41661
+#EXTINF:-1,BTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41662
+#EXTINF:-1,BABY TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41664
+#EXTINF:-1,CANAL PANDA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41665
+#EXTINF:-1,DISNEY CHANNEL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41666
+#EXTINF:-1,DISNEY JÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡NIOR
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41667
+#EXTINF:-1,JIM JAM
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41669
+#EXTINF:-1,BIGGS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41670
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41672
+#EXTINF:-1,E! ENTERTAINMENT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41673
+#EXTINF:-1,GLOBO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41674
+#EXTINF:-1,AMC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41676
 #EXTINF:-1,AMC
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15357.m3u8
-#EXTINF:-1,FOX Movies
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7824.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41677
 #EXTINF:-1,AXN HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7830.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41678
+#EXTINF:-1,AXN WHITE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41679
 #EXTINF:-1,AXN WHITE
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7748.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15994.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41680
 #EXTINF:-1,AXN BLACK HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7749.m3u8
-#EXTINF:-1,CINEMUNDO
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7740.m3u8
-#EXTINF:-1,FOX Crime HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7826.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41681
+#EXTINF:-1,AXN BLACK
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41682
+#EXTINF:-1,TV CINE 1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41683
+#EXTINF:-1,TV CINE 2
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41684
+#EXTINF:-1,TV CINE 3
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41685
+#EXTINF:-1,TV CINE 4
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41686
 #EXTINF:-1,FOX HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7768.m3u8
-#EXTINF:-1,Fox Life HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7825.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41687
+#EXTINF:-1,FOX MOVIES HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41688
+#EXTINF:-1,FOX COMEDY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41689
 #EXTINF:-1,FOX COMEDY
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8473.m3u8
-#EXTINF:-1,FX
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7823.m3u8
-#EXTINF:-1,TV Series FHD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15993.m3u8
-#EXTINF:-1,SyFy
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7819.m3u8
-#EXTINF:-1,===== Entretenimento =====
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/13831.m3u8
-#EXTINF:-1,A&E
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7837.m3u8
-#EXTINF:-1,E! Entertaunment
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7828.m3u8
-#EXTINF:-1,TVI REALITY
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8494.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41690
+#EXTINF:-1,FOX CRIME HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41691
+#EXTINF:-1,FOX CRIME
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41692
+#EXTINF:-1,FOX LIFE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41693
+#EXTINF:-1,FOX LIFE
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41694
+#EXTINF:-1,FOX MOVIES
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41695
+#EXTINF:-1,FOX NEWS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41696
+#EXTINF:-1,CINEMUNDO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41697
+#EXTINF:-1,SYFY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41698
+#EXTINF:-1,SYFY
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41699
+#EXTINF:-1,TVC CABO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41701
+#EXTINF:-1,GLOBO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41702
+#EXTINF:-1,TV GALICIA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41703
+#EXTINF:-1,CNN
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41704
+#EXTINF:-1,SKY NEWS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41705
+#EXTINF:-1,FRANCE 24 (F)
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41706
+#EXTINF:-1,FRANCE 24 (I)
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41707
+#EXTINF:-1,EURONEWS (A)
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41708
+#EXTINF:-1,EURONEWS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41709
+#EXTINF:-1,TV5 MONDE
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41710
+#EXTINF:-1,BBC ENTERTAINMENT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41711
+#EXTINF:-1,BBC WORLD NEWS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41712
+#EXTINF:-1,CBS REALITY
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41713
+#EXTINF:-1,BLOOMBERG
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41714
+#EXTINF:-1,CHANNEL 1 RUSSIA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41715
+#EXTINF:-1,DEUTSCHE WELLE (A)
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41716
+#EXTINF:-1,DEUTSCHE WELLE
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41717
+#EXTINF:-1,FTV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41718
+#EXTINF:-1,ARTV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41719
+#EXTINF:-1,CNBC EUROPE
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41720
+#EXTINF:-1,MTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41722
+#EXTINF:-1,MTV PORTUGAL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41723
+#EXTINF:-1,TRACE URBAN
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41724
+#EXTINF:-1,TRACE TOCA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41725
+#EXTINF:-1,VH1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41726
+#EXTINF:-1,MEZZO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41727
+#EXTINF:-1,AFRO MUSIC
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41728
+#EXTINF:-1,MCM TOP
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41729
+#EXTINF:-1,MCM POP
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41730
+#EXTINF:-1,HOLLYWOOD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41732
+#EXTINF:-1,HOLLYWOOD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41733
+#EXTINF:-1,CINEMUNDO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41734
+#EXTINF:-1,TV SERIES
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41735
+#EXTINF:-1,DISCOVERY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41737
+#EXTINF:-1,DISCOVERY CHANNEL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41738
+#EXTINF:-1,CRIME+ INVESTIGATION
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41739
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41740
+#EXTINF:-1,TRAVEL CHANNEL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41741
+#EXTINF:-1,ODISSEIA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41742
+#EXTINF:-1,ODISSEIA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41743
+#EXTINF:-1,HISTORIA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41744
+#EXTINF:-1,24 KITCHEN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41745
+#EXTINF:-1,24 KITCHEN
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41746
 #EXTINF:-1,TLC
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15369.m3u8
-#EXTINF:-1,CBS Reality
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7831.m3u8
-#EXTINF:-1,Crime Investigation
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/18299.m3u8
-#EXTINF:-1,Dog TV FHD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/18296.m3u8
-#EXTINF:-1,Fine Living FHD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/18294.m3u8
-#EXTINF:-1,Food Network HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/18295.m3u8
-#EXTINF:-1,TVI Reality Mosaico
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21437.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 2
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21439.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 3
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21440.m3u8
-#EXTINF:-1,MCM Pop
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15365.m3u8
-#EXTINF:-1,MCM Top
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15366.m3u8
-#EXTINF:-1,Motorvision
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15364.m3u8
-#EXTINF:-1,MTV Portugal
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15367.m3u8
-#EXTINF:-1,Afro Music
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7750.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8408.m3u8
-#EXTINF:-1,Record News
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15375.m3u8
-#EXTINF:-1,SIC Noticias HD
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/8409.m3u8
-#EXTINF:-1,SIC Noticias
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7820.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41747
+#EXTINF:-1,A BOLA TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41750
+#EXTINF:-1,KOMBAT SPORT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41751
+#EXTINF:-1,SPORTING TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41752
+#EXTINF:-1,SPORTING TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41753
+#EXTINF:-1,FUEL TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41754
+#EXTINF:-1,EUROSPORT 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41755
+#EXTINF:-1,EUROSPORT 1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41756
+#EXTINF:-1,EUROSPORT 2
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41757
+#EXTINF:-1,PFC
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41758
+#EXTINF:-1,CMTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41759
 #EXTINF:-1,CMTV
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/7829.m3u8
-#EXTINF:-1,EUroNews
-http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/15361.m3u8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41760
+#EXTINF:-1,TOROS TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41761
+#EXTINF:-1,SPORT TV 4K UHD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41762
+#EXTINF:-1,SPORT TV+ HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41763
+#EXTINF:-1,SPORT TV+
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41764
+#EXTINF:-1,SPORT TV 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41765
+#EXTINF:-1,SPORT TV 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41766
+#EXTINF:-1,SPORT TV 3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41767
+#EXTINF:-1,SPORT TV 1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41768
+#EXTINF:-1,SPORT TV 2
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41769
+#EXTINF:-1,SPORT TV 3
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41770
+#EXTINF:-1,SPORT TV 4
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41771
+#EXTINF:-1,SPORT TV 5
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41772
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41773
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41774
+#EXTINF:-1,ELEVEN SPORTS 3
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41775
+#EXTINF:-1,ELEVEN SPORTS 4
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41776
+#EXTINF:-1,NBA TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/41777
+#EXTINF:-1,RTP 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49395
+#EXTINF:-1,RTP 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49396
+#EXTINF:-1,SIC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49397
+#EXTINF:-1,TVI HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49398
+#EXTINF:-1,TVI 24
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49399
+#EXTINF:-1,TVI FICÇAO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49400
+#EXTINF:-1,RTP3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49401
+#EXTINF:-1,RTP ACORES
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49402
+#EXTINF:-1,SIC RADICAL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49403
+#EXTINF:-1,RTP AFRICA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49404
+#EXTINF:-1,RTP MADEIRA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49405
+#EXTINF:-1,RTP MEMORIA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49406
+#EXTINF:-1,SIC CARAS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49407
+#EXTINF:-1,SIC MULHER
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49408
+#EXTINF:-1,SICMULHER HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49409
+#EXTINF:-1,SIC NOTICIAS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49410
+#EXTINF:-1,CMTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49411
+#EXTINF:-1,ZAP VIVA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49412
+#EXTINF:-1,TVI REALITY
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49413
+#EXTINF:-1,TVI Reality Camara Exclusiva 1 PT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49414
+#EXTINF:-1,TVI Reality Camara Exclusiva 2 PT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49415
+#EXTINF:-1,TVI Reality Camara Exclusiva 3 PT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49416
+#EXTINF:-1,TVI Reality Camara Exclusiva 4 PT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49417
+#EXTINF:-1,TVI Reality Mosaico PT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49418
+#EXTINF:-1,24 KITCHEN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49419
+#EXTINF:-1,CANÇAO NOVA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49420
+#EXTINF:-1,CANAL Q
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49421
+#EXTINF:-1,CBS REALITY
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49422
+#EXTINF:-1,E! ENTERTAINMENT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49423
+#EXTINF:-1,FASHION TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49424
+#EXTINF:-1,FOX NEWS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49425
+#EXTINF:-1,GLOBO PORTUGAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49426
+#EXTINF:-1,TV GLOBO
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49427
+#EXTINF:-1,TV RECORD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49428
+#EXTINF:-1,RECORD NEWS
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49429
+#EXTINF:-1,TV  FATIMA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49430
+#EXTINF:-1,TVC 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49432
+#EXTINF:-1,TVC 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49433
+#EXTINF:-1,TVC 3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49434
+#EXTINF:-1,TVC 4 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49435
+#EXTINF:-1,NOS STUDIOS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49436
+#EXTINF:-1,AXN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49437
+#EXTINF:-1,AXN WHITE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49438
+#EXTINF:-1,AXN BLACK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49439
+#EXTINF:-1,AMC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49440
+#EXTINF:-1,HOLLYWOOD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49441
+#EXTINF:-1,SYFY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49442
+#EXTINF:-1, TV SERIES HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49443
+#EXTINF:-1,FOX HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49444
+#EXTINF:-1,FOX COMEDY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49445
+#EXTINF:-1,FOX CRIME HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49446
+#EXTINF:-1,FOX LIFE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49447
+#EXTINF:-1,FOX MOVIES HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49448
+#EXTINF:-1,CINEMUNDO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49449
+#EXTINF:-1,SUNDANCE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49450
+#EXTINF:-1,CANAL 11 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49452
+#EXTINF:-1,SPORT TV + HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49453
+#EXTINF:-1,SPORT TV 1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49454
+#EXTINF:-1,SPORT TV 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49455
+#EXTINF:-1,SPORT TV 1 1080P
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49456
+#EXTINF:-1,SPORT TV 2
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49457
+#EXTINF:-1,SPORT TV 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49458
+#EXTINF:-1,SPORT TV 2 1080P
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49459
+#EXTINF:-1,SPORT TV 3
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49460
+#EXTINF:-1,SPORT TV 3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49461
+#EXTINF:-1,SPORT TV 3 1080P
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49462
+#EXTINF:-1,SPORT TV 4
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49463
+#EXTINF:-1,SPORT TV 4 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49464
+#EXTINF:-1,SPORT TV 4 1080P
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49465
+#EXTINF:-1,SPORT TV 5
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49466
+#EXTINF:-1,SPORT TV 5 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49467
+#EXTINF:-1,SPORT TV NBA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49468
+#EXTINF:-1,CHELSEA TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49469
+#EXTINF:-1,BTV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49470
+#EXTINF:-1,BTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49471
+#EXTINF:-1,BTV 1080P
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49472
+#EXTINF:-1,ELEVEN SPORTS 1 SD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49473
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49474
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49475
+#EXTINF:-1,ELEVEN SPORTS 2 SD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49476
+#EXTINF:-1,ELEVEN SPORTS 3 SD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49477
+#EXTINF:-1,ELEVEN SPORTS 4 SD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49478
+#EXTINF:-1,ELEVEN SPORTS 5 SD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49479
+#EXTINF:-1,ELEVEN SPORTS 6 SD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49480
+#EXTINF:-1,ELEVENSPORT 3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49481
+#EXTINF:-1,ELEVENSPORT 4 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49482
+#EXTINF:-1,ELEVENSPORT 5 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49483
+#EXTINF:-1,ELEVENSPORT 6 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49484
+#EXTINF:-1,EUROSPORT 1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49485
+#EXTINF:-1,EUROSPORT 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49486
+#EXTINF:-1,EUROSPORT 2
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49487
+#EXTINF:-1,FIGHT NETWORH HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49488
+#EXTINF:-1,KOMBAT SPORT
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49489
+#EXTINF:-1,A BOLA TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49490
+#EXTINF:-1,NBA TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49491
+#EXTINF:-1,PORTO CANAL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49492
+#EXTINF:-1,REAL MADRID TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49493
+#EXTINF:-1,CAÇA E PESCA
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49494
+#EXTINF:-1,CAÇAVISION
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49495
+#EXTINF:-1,SPORTING TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49496
+#EXTINF:-1,SPORTING TV 1080
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49497
+#EXTINF:-1,TOROS TV
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49498
+#EXTINF:-1,PFC INTERNACIONAL
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49499
+#EXTINF:-1,MCM POP HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49501
+#EXTINF:-1,MTV PORTUGAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49502
+#EXTINF:-1,MEZZO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49503
+#EXTINF:-1,ICONCERTS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49504
+#EXTINF:-1,AFRO MUSIC CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49505
+#EXTINF:-1,VH1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49506
+#EXTINF:-1,CANAL PANDA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49508
+#EXTINF:-1,BIGGS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49509
+#EXTINF:-1,NICKELODEON HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49510
+#EXTINF:-1,NICK JR. HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49511
+#EXTINF:-1,SIC K HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49512
+#EXTINF:-1,BABY TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49513
+#EXTINF:-1,CARTOON NETWORK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49514
+#EXTINF:-1,DISNEY CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49515
+#EXTINF:-1,DISNEY JUNIOR HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49516
+#EXTINF:-1,BLOOMBERG HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49517
+#EXTINF:-1,JIM JAM HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49518
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49520
+#EXTINF:-1,NAT GEO WILD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49521
+#EXTINF:-1,MOTORVISION HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49522
+#EXTINF:-1,FOOD NETWORK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49523
+#EXTINF:-1,LOCALVISAO TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49524
+#EXTINF:-1,LUXE TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49525
+#EXTINF:-1,ID INVESTIGATION DISCOVERY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49526
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49527
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49528
+#EXTINF:-1,DISCOVERY HD SHOWCASE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49529
+#EXTINF:-1,FINE LIVING NETWORK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49530
+#EXTINF:-1,TRACE URBAN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49531
+#EXTINF:-1,CRIME + INVESTIGATION TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49532
+#EXTINF:-1,HISTORIA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49533
+#EXTINF:-1,ODISSEIA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49534
+#EXTINF:-1,BLAZE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49535
+#EXTINF:-1,FUEL TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49536
+#EXTINF:-1,TLC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49537
+#EXTINF:-1,ODISSEIA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49538
+#EXTINF:-1,DOG TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49539
+#EXTINF:-1,NAT GEO WILD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/49540
