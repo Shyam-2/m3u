@@ -1,163 +1,557 @@
 #EXTM3U
-#EXTINF:-1,ZDF NEO HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17512
-#EXTINF:-1,ZDF INFO HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17513
-#EXTINF:-1,ZDF
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/426
-#EXTINF:-1,WDR HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/379
-#EXTINF:-1,VOX
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/427
-#EXTINF:-1,VH1 SHUFFLE
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/23850
-#EXTINF:-1,TVA
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/381
-#EXTINF:-1,TOGGO PLUS
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/303
+#EXTINF:-1,Das Erste
+http://znz.life:25461/celia/123456/114172
+#EXTINF:-1,DE : DAS ERSTE
+http://znz.life:25461/celia/123456/114173
+#EXTINF:-1,Das Erste FHD
+http://znz.life:25461/celia/123456/114174
+#EXTINF:-1,ZDF HD
+http://znz.life:25461/celia/123456/114175
+#EXTINF:-1,DE : ZDF
+http://znz.life:25461/celia/123456/114176
+#EXTINF:-1,ZDF info HD
+http://znz.life:25461/celia/123456/114177
+#EXTINF:-1,ZDF neo HD
+http://znz.life:25461/celia/123456/114178
+#EXTINF:-1,DE : RTL HD
+http://znz.life:25461/celia/123456/114179
+#EXTINF:-1,RTL FHD
+http://znz.life:25461/celia/123456/114180
+#EXTINF:-1,DE : RTL II
+http://znz.life:25461/celia/123456/114181
+#EXTINF:-1,RTL II HD
+http://znz.life:25461/celia/123456/114182
+#EXTINF:-1,RTL II FHD
+http://znz.life:25461/celia/123456/114183
+#EXTINF:-1,DE : RTL Crime
+http://znz.life:25461/celia/123456/114184
+#EXTINF:-1,RTL Living HD
+http://znz.life:25461/celia/123456/114185
+#EXTINF:-1,RTL Nitro HD
+http://znz.life:25461/celia/123456/114186
+#EXTINF:-1,RTL Nitro FHD
+http://znz.life:25461/celia/123456/114187
+#EXTINF:-1,RTL Passion
+http://znz.life:25461/celia/123456/114188
+#EXTINF:-1,RTL plus
+http://znz.life:25461/celia/123456/114189
+#EXTINF:-1,Super RTL FHD
+http://znz.life:25461/celia/123456/114190
+#EXTINF:-1,ProSieben
+http://znz.life:25461/celia/123456/114191
+#EXTINF:-1,ProSieben HD
+http://znz.life:25461/celia/123456/114192
+#EXTINF:-1,DE : ProSieben FHD
+http://znz.life:25461/celia/123456/114193
+#EXTINF:-1,ProSieben Fun HD
+http://znz.life:25461/celia/123456/114194
+#EXTINF:-1,ProSieben MAXX HD
+http://znz.life:25461/celia/123456/114195
+#EXTINF:-1,ProSieben MAXX FHD
+http://znz.life:25461/celia/123456/114196
+#EXTINF:-1,DE : SAT 1 HD
+http://znz.life:25461/celia/123456/114197
+#EXTINF:-1,SAT 1 GOLD
+http://znz.life:25461/celia/123456/114198
+#EXTINF:-1,SAT 1 emotions
+http://znz.life:25461/celia/123456/114199
+#EXTINF:-1,DE : Kabel eins
+http://znz.life:25461/celia/123456/114200
+#EXTINF:-1,kabel eins FHD
+http://znz.life:25461/celia/123456/114201
+#EXTINF:-1,kabel eins CLASSIC HD
+http://znz.life:25461/celia/123456/114202
+#EXTINF:-1,DE : VOX HD
+http://znz.life:25461/celia/123456/114203
+#EXTINF:-1,VOX FHD
+http://znz.life:25461/celia/123456/114204
+#EXTINF:-1,DE : SIXX HD
+http://znz.life:25461/celia/123456/114205
+#EXTINF:-1,SIXX FHD
+http://znz.life:25461/celia/123456/114206
 #EXTINF:-1,TLC
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/710
-#EXTINF:-1,SYFY
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/288
-#EXTINF:-1,SUPER RTL
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/289
-#EXTINF:-1,SRF 1 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/290
-#EXTINF:-1,SPORT DIGITAL HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/708
-#EXTINF:-1,TNT SERIE HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/440
-#EXTINF:-1,SKY SPORT 2 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/348
-#EXTINF:-1,SKY SELECT HD 5
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/321
-#EXTINF:-1,SKY SELECT HD 4
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/320
-#EXTINF:-1,SKY SELECT HD 3
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/319
-#EXTINF:-1,SKY SELECT HD 2
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/318
-#EXTINF:-1,SKY SELECT HD 1
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/317
-#EXTINF:-1,SKY SELECT 7
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/707
-#EXTINF:-1,SKY SELECT 6
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/706
-#EXTINF:-1,SKY NATONAL WILD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/86
-#EXTINF:-1,SKY KRIMI
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/429
-#EXTINF:-1,SKY FOX
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/285
-#EXTINF:-1,SKY DISCOVERY HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/296
-#EXTINF:-1,SKY COMEDY
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/430
-#EXTINF:-1,SKY CINEMA 24
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/93
-#EXTINF:-1,SKY ATLANTIC HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/101
-#EXTINF:-1,SKY 13 STREET HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/359
-#EXTINF:-1,SKY 1
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/92
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/351
-#EXTINF:-1,SIXX
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/264
-#EXTINF:-1,SAT 1 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/265
-#EXTINF:-1,SAT 1 GOLD HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/709
-#EXTINF:-1,RTL PASSION
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/297
-#EXTINF:-1,RTL CRIME HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/267
-#EXTINF:-1,RTL CRiME
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/444
-#EXTINF:-1,RTL 2 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/292
-#EXTINF:-1,RTL
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/268
-#EXTINF:-1,PRO 7 MAXX
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/435
-#EXTINF:-1,PRO 7
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/428
-#EXTINF:-1,ORF SPORT
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/410
-#EXTINF:-1,ORF 2
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/375
-#EXTINF:-1,ORF 1
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/384
-#EXTINF:-1,NATGEODE
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/437
-#EXTINF:-1,N TV
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/286
-#EXTINF:-1,N24
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/345
+http://znz.life:25461/celia/123456/114207
+#EXTINF:-1,TLC FHD
+http://znz.life:25461/celia/123456/114208
+#EXTINF:-1,Arte HD
+http://znz.life:25461/celia/123456/114209
+#EXTINF:-1,Arte FHD
+http://znz.life:25461/celia/123456/114210
+#EXTINF:-1,3Sat SD
+http://znz.life:25461/celia/123456/114211
+#EXTINF:-1,3sat HD
+http://znz.life:25461/celia/123456/114212
+#EXTINF:-1,BR fernsehen
+http://znz.life:25461/celia/123456/114213
+#EXTINF:-1,DE : ORF 1(eins)
+http://znz.life:25461/celia/123456/114214
+#EXTINF:-1,ORF 2 HD
+http://znz.life:25461/celia/123456/114215
+#EXTINF:-1,ORF 3 HD
+http://znz.life:25461/celia/123456/114216
+#EXTINF:-1,TELE 5 SD
+http://znz.life:25461/celia/123456/114217
+#EXTINF:-1,TELE 5 FHD
+http://znz.life:25461/celia/123456/114218
+#EXTINF:-1,n-tv HD
+http://znz.life:25461/celia/123456/114219
+#EXTINF:-1,n-tv FHD
+http://znz.life:25461/celia/123456/114220
+#EXTINF:-1,Phoenix HD
+http://znz.life:25461/celia/123456/114221
+#EXTINF:-1,Disney Channel
+http://znz.life:25461/celia/123456/114223
+#EXTINF:-1,Disney Channel HD
+http://znz.life:25461/celia/123456/114224
+#EXTINF:-1,Disney Channel FHD
+http://znz.life:25461/celia/123456/114225
+#EXTINF:-1,Disney Cinemagic HD
+http://znz.life:25461/celia/123456/114226
+#EXTINF:-1,Disney Cinemagic FHD
+http://znz.life:25461/celia/123456/114227
+#EXTINF:-1,Disney Junior HD
+http://znz.life:25461/celia/123456/114228
+#EXTINF:-1,Disney XD
+http://znz.life:25461/celia/123456/114229
+#EXTINF:-1,Junior
+http://znz.life:25461/celia/123456/114230
+#EXTINF:-1,Nickelodeon HD
+http://znz.life:25461/celia/123456/114231
+#EXTINF:-1,Nickelodeon FHD
+http://znz.life:25461/celia/123456/114232
+#EXTINF:-1,KiKa
+http://znz.life:25461/celia/123456/114233
+#EXTINF:-1,KiKa FHD
+http://znz.life:25461/celia/123456/114234
+#EXTINF:-1,TOGGO plus
+http://znz.life:25461/celia/123456/114235
+#EXTINF:-1,Boomerang
+http://znz.life:25461/celia/123456/114236
+#EXTINF:-1,RiC
+http://znz.life:25461/celia/123456/114237
+#EXTINF:-1,Baby TV
+http://znz.life:25461/celia/123456/114238
+#EXTINF:-1,13th Street HD
+http://znz.life:25461/celia/123456/114240
+#EXTINF:-1,DE : 13th Street FHD
+http://znz.life:25461/celia/123456/114241
+#EXTINF:-1,AXN HD
+http://znz.life:25461/celia/123456/114242
+#EXTINF:-1,AXN FHD
+http://znz.life:25461/celia/123456/114243
+#EXTINF:-1,FOX
+http://znz.life:25461/celia/123456/114244
+#EXTINF:-1,FOX FHD
+http://znz.life:25461/celia/123456/114245
+#EXTINF:-1,DE : Syfy
+http://znz.life:25461/celia/123456/114246
+#EXTINF:-1,Syfy FHD
+http://znz.life:25461/celia/123456/114247
+#EXTINF:-1,DE : TNT Comedy FHD
+http://znz.life:25461/celia/123456/114248
+#EXTINF:-1,TNT Comedy HD
+http://znz.life:25461/celia/123456/114249
+#EXTINF:-1,TNT Film FHD
+http://znz.life:25461/celia/123456/114250
+#EXTINF:-1,TNT Film SD
+http://znz.life:25461/celia/123456/114251
+#EXTINF:-1,DE : TNT Serie FHD
+http://znz.life:25461/celia/123456/114252
+#EXTINF:-1,TNT Serie HD
+http://znz.life:25461/celia/123456/114253
+#EXTINF:-1,DE : Universal Channel HD
+http://znz.life:25461/celia/123456/114254
+#EXTINF:-1,Universal Channel FHD
+http://znz.life:25461/celia/123456/114255
+#EXTINF:-1,DE : Romance HD
+http://znz.life:25461/celia/123456/114256
+#EXTINF:-1,Heimat kanal
+http://znz.life:25461/celia/123456/114257
+#EXTINF:-1,Kinowelt TV
+http://znz.life:25461/celia/123456/114258
+#EXTINF:-1,Kinowelt TV HD
+http://znz.life:25461/celia/123456/114259
+#EXTINF:-1,Sky A&E HD
+http://znz.life:25461/celia/123456/114261
+#EXTINF:-1,PLANET HD
+http://znz.life:25461/celia/123456/114262
+#EXTINF:-1,E! HD
+http://znz.life:25461/celia/123456/114263
+#EXTINF:-1,ANIXE HD
+http://znz.life:25461/celia/123456/114264
+#EXTINF:-1,Animal Planet HD
+http://znz.life:25461/celia/123456/114265
+#EXTINF:-1,Animal Planet FHD
+http://znz.life:25461/celia/123456/114266
+#EXTINF:-1,Discovery Channel HD
+http://znz.life:25461/celia/123456/114267
+#EXTINF:-1,Discovery Channel FHD
+http://znz.life:25461/celia/123456/114268
+#EXTINF:-1,History HD
+http://znz.life:25461/celia/123456/114269
+#EXTINF:-1,History FHD
+http://znz.life:25461/celia/123456/114270
+#EXTINF:-1,National Geographic
+http://znz.life:25461/celia/123456/114271
+#EXTINF:-1,National Geographic HD
+http://znz.life:25461/celia/123456/114272
+#EXTINF:-1,National Geographic FHD
+http://znz.life:25461/celia/123456/114273
+#EXTINF:-1,Nat Geo Wild
+http://znz.life:25461/celia/123456/114274
+#EXTINF:-1,Nat Geo Wild FHD
+http://znz.life:25461/celia/123456/114275
 #EXTINF:-1,DMAX HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17575
-#EXTINF:-1,KiNOBOX 2 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17576
-#EXTINF:-1,KiNOBOX 1 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17577
-#EXTINF:-1,KIKA
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/295
-#EXTINF:-1,KABEL EINS DOKU
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17517
-#EXTINF:-1,KABEL EINS CLASSIC HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/17515
-#EXTINF:-1,KABEL 1
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/438
-#EXTINF:-1,EUROSPORT 2 HD XTRA
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/1298
-#EXTINF:-1,EURONEWS
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/352
-#EXTINF:-1,DISNEY
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/300
-#EXTINF:-1,DAZN SPORT HD 2
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/10281
-#EXTINF:-1,DAZN SPORT HD 1
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/10280
-#EXTINF:-1,BUNDESLIGA 9 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/454
-#EXTINF:-1,BUNDESLIGA 8 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/453
-#EXTINF:-1,BUNDESLIGA 7 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/452
-#EXTINF:-1,BUNDESLIGA 6 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/451
-#EXTINF:-1,BUNDESLIGA 5 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/450
-#EXTINF:-1,BUNDESLIGA 4 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/449
-#EXTINF:-1,BUNDESLIGA 3 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/448
-#EXTINF:-1,BUNDESLIGA 3 8 LOCAL NUR SPIEL TAG
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15817
-#EXTINF:-1,BUNDESLIGA 2 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/447
-#EXTINF:-1,BUNDESLIGA 1 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/446
-#EXTINF:-1,BUNDESLIGA 10 HD VIP
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/455
-#EXTINF:-1,AXN
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/95
-#EXTINF:-1,ARTE
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/433
-#EXTINF:-1,ARD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/445
-#EXTINF:-1,SKY SPORT 7 HD Only On Live Match Day
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15816
-#EXTINF:-1,SKY SPORT 6 HD Only On Live Match Day
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15814
-#EXTINF:-1,SKY SPORT 5 HD Only On Live Match Day
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15813
-#EXTINF:-1,SKY SPORT 4 HD Only On Live Match Day
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15812
-#EXTINF:-1,SKY SPORT 3 HD Only On Live Match Day
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15811
-#EXTINF:-1,SKY SPORT 2 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15810
-#EXTINF:-1,SKY SPORT 1 HD
-http://62.210.78.130:8000/TurboIPTV/04112019hiremco/15809
+http://znz.life:25461/celia/123456/114276
+#EXTINF:-1,kabel eins Doku HD
+http://znz.life:25461/celia/123456/114277
+#EXTINF:-1,SPIEGEL Geschichte
+http://znz.life:25461/celia/123456/114278
+#EXTINF:-1,Spiegel TV Wissen HD
+http://znz.life:25461/celia/123456/114279
+#EXTINF:-1,Spiegel TV Wissen FHD
+http://znz.life:25461/celia/123456/114280
+#EXTINF:-1,Welt der Wunder SD
+http://znz.life:25461/celia/123456/114281
+#EXTINF:-1,MTV FHD
+http://znz.life:25461/celia/123456/114283
+#EXTINF:-1,MTV Brand New
+http://znz.life:25461/celia/123456/114284
+#EXTINF:-1,MTV Hits
+http://znz.life:25461/celia/123456/114285
+#EXTINF:-1,XITE
+http://znz.life:25461/celia/123456/114286
+#EXTINF:-1,NRJ Hits
+http://znz.life:25461/celia/123456/114287
+#EXTINF:-1,Deluxe Music
+http://znz.life:25461/celia/123456/114288
+#EXTINF:-1,Deluxe Music HD
+http://znz.life:25461/celia/123456/114289
+#EXTINF:-1,Jukebox
+http://znz.life:25461/celia/123456/114290
+#EXTINF:-1,Sky 1 HD
+http://znz.life:25461/celia/123456/114292
+#EXTINF:-1,DE : Sky 1 FHD
+http://znz.life:25461/celia/123456/114293
+#EXTINF:-1,Sky Arts
+http://znz.life:25461/celia/123456/114294
+#EXTINF:-1,Sky ARTS FHD
+http://znz.life:25461/celia/123456/114295
+#EXTINF:-1,Sky Atlantic HD
+http://znz.life:25461/celia/123456/114296
+#EXTINF:-1,Sky Atlantic FHD
+http://znz.life:25461/celia/123456/114297
+#EXTINF:-1,Sky Cinema HD
+http://znz.life:25461/celia/123456/114298
+#EXTINF:-1,DE : Sky Cinema FHD
+http://znz.life:25461/celia/123456/114299
+#EXTINF:-1,Sky Cinema +1 HD
+http://znz.life:25461/celia/123456/114300
+#EXTINF:-1,Sky Cinema +1 FHD
+http://znz.life:25461/celia/123456/114301
+#EXTINF:-1,Sky Cinema +24 HD
+http://znz.life:25461/celia/123456/114302
+#EXTINF:-1,Sky Cinema +24 FHD
+http://znz.life:25461/celia/123456/114303
+#EXTINF:-1,DE : Sky Cinema Action HD
+http://znz.life:25461/celia/123456/114304
+#EXTINF:-1,DE : Sky Cinema Action FHD
+http://znz.life:25461/celia/123456/114305
+#EXTINF:-1,DE : Sky Cinema Comedy HD
+http://znz.life:25461/celia/123456/114306
+#EXTINF:-1,Sky Cinema Emotion
+http://znz.life:25461/celia/123456/114307
+#EXTINF:-1,Sky Cinema Emotion HD
+http://znz.life:25461/celia/123456/114308
+#EXTINF:-1,Sky Cinema Family FHD
+http://znz.life:25461/celia/123456/114309
+#EXTINF:-1,Sky Cinema Family HD
+http://znz.life:25461/celia/123456/114310
+#EXTINF:-1,Sky Cinema Hits FHD
+http://znz.life:25461/celia/123456/114311
+#EXTINF:-1,Sky Cinema Hits HD
+http://znz.life:25461/celia/123456/114312
+#EXTINF:-1,Sky Cinema Nostalgie
+http://znz.life:25461/celia/123456/114313
+#EXTINF:-1,Sky Cinema SD
+http://znz.life:25461/celia/123456/114314
+#EXTINF:-1,Sky Cinema WESTERN
+http://znz.life:25461/celia/123456/114315
+#EXTINF:-1,Sky Krimi
+http://znz.life:25461/celia/123456/114316
+#EXTINF:-1,Sky Krimi HD
+http://znz.life:25461/celia/123456/114317
+#EXTINF:-1,Sky Heimatkanal
+http://znz.life:25461/celia/123456/114318
+#EXTINF:-1,Sky DMAX HD
+http://znz.life:25461/celia/123456/114319
+#EXTINF:-1,SKY SELECT 1
+http://znz.life:25461/celia/123456/114321
+#EXTINF:-1,Sky Select 1 HD
+http://znz.life:25461/celia/123456/114322
+#EXTINF:-1,SKY SELECT 1 FHD
+http://znz.life:25461/celia/123456/114323
+#EXTINF:-1,SKY SELECT 2
+http://znz.life:25461/celia/123456/114324
+#EXTINF:-1,Sky Select 2 HD
+http://znz.life:25461/celia/123456/114325
+#EXTINF:-1,SKY SELECT 2 FHD
+http://znz.life:25461/celia/123456/114326
+#EXTINF:-1,SKY SELECT 3
+http://znz.life:25461/celia/123456/114327
+#EXTINF:-1,Sky Select 3 HD
+http://znz.life:25461/celia/123456/114328
+#EXTINF:-1,SKY SELECT 3 FHD
+http://znz.life:25461/celia/123456/114329
+#EXTINF:-1,SKY SELECT 4
+http://znz.life:25461/celia/123456/114330
+#EXTINF:-1,Sky Select 4 HD
+http://znz.life:25461/celia/123456/114331
+#EXTINF:-1,SKY SELECT 4 FHD
+http://znz.life:25461/celia/123456/114332
+#EXTINF:-1,SKY SELECT 5
+http://znz.life:25461/celia/123456/114333
+#EXTINF:-1,Sky Select 5 HD
+http://znz.life:25461/celia/123456/114334
+#EXTINF:-1,SKY SELECT 5 FHD
+http://znz.life:25461/celia/123456/114335
+#EXTINF:-1,Sky Select 6 HD
+http://znz.life:25461/celia/123456/114336
+#EXTINF:-1,SKY SELECT 6 FHD
+http://znz.life:25461/celia/123456/114337
+#EXTINF:-1,SKY SELECT 7 HD
+http://znz.life:25461/celia/123456/114338
+#EXTINF:-1,SKY SELECT 7 FHD
+http://znz.life:25461/celia/123456/114339
+#EXTINF:-1,SKY SELECT 8 HD
+http://znz.life:25461/celia/123456/114340
+#EXTINF:-1,SKY SELECT 8 FHD
+http://znz.life:25461/celia/123456/114341
+#EXTINF:-1,SKY SELECT 9 HD
+http://znz.life:25461/celia/123456/114342
+#EXTINF:-1,SKY SELECT 9 FHD
+http://znz.life:25461/celia/123456/114343
+#EXTINF:-1,Sky Select 10 HD
+http://znz.life:25461/celia/123456/114344
+#EXTINF:-1,SKY SELECT 11 HD
+http://znz.life:25461/celia/123456/114345
+#EXTINF:-1,Film Club 1 HD
+http://znz.life:25461/celia/123456/114347
+#EXTINF:-1,Film Club 3 HD
+http://znz.life:25461/celia/123456/114348
+#EXTINF:-1,Film Club 4 HD
+http://znz.life:25461/celia/123456/114349
+#EXTINF:-1,Film Club 5 HD
+http://znz.life:25461/celia/123456/114350
+#EXTINF:-1,Elite Cinema 3 HD
+http://znz.life:25461/celia/123456/114351
+#EXTINF:-1,Elite Cinema 4 HD
+http://znz.life:25461/celia/123456/114352
+#EXTINF:-1,Sky Popcorn Select 1 HD
+http://znz.life:25461/celia/123456/114353
+#EXTINF:-1,Sky Popcorn Select 2 HD
+http://znz.life:25461/celia/123456/114354
+#EXTINF:-1,Sky Popcorn Select 3 HD
+http://znz.life:25461/celia/123456/114355
+#EXTINF:-1,Sky Popcorn Select 4 HD
+http://znz.life:25461/celia/123456/114356
+#EXTINF:-1,MAX Premiere 1 HD
+http://znz.life:25461/celia/123456/114357
+#EXTINF:-1,MAX Premiere 2 HD
+http://znz.life:25461/celia/123456/114358
+#EXTINF:-1,MAX Premiere 3 HD
+http://znz.life:25461/celia/123456/114359
+#EXTINF:-1,Eagle Cinema Abenteuer HD
+http://znz.life:25461/celia/123456/114361
+#EXTINF:-1,Eagle Cinema Aktion HD
+http://znz.life:25461/celia/123456/114362
+#EXTINF:-1,Eagle Cinema Animation HD
+http://znz.life:25461/celia/123456/114363
+#EXTINF:-1,Eagle Cinema Drama HD
+http://znz.life:25461/celia/123456/114364
+#EXTINF:-1,Eagle Cinema Horror HD
+http://znz.life:25461/celia/123456/114365
+#EXTINF:-1,Eagle Cinema Komodie HD
+http://znz.life:25461/celia/123456/114366
+#EXTINF:-1,Eagle Cinema Lächeln HD
+http://znz.life:25461/celia/123456/114367
+#EXTINF:-1,Eagle Cinema Premiere HD
+http://znz.life:25461/celia/123456/114368
+#EXTINF:-1,Eagle Cinema Sci-Fi HD
+http://znz.life:25461/celia/123456/114369
+#EXTINF:-1,Eagle Cinema Thriller HD
+http://znz.life:25461/celia/123456/114370
+#EXTINF:-1,Sky Sport News HD
+http://znz.life:25461/celia/123456/114372
+#EXTINF:-1,DE : Sky Sport Bundesliga 1 FHD (NULL)
+http://znz.life:25461/celia/123456/114373
+#EXTINF:-1,Sky Sport Bundesliga 1 HD (NULL)
+http://znz.life:25461/celia/123456/114374
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD (NULL)
+http://znz.life:25461/celia/123456/114375
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114376
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD (NULL)
+http://znz.life:25461/celia/123456/114377
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114378
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD (NULL)
+http://znz.life:25461/celia/123456/114379
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114380
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD (NULL)
+http://znz.life:25461/celia/123456/114381
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114382
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD (NULL)
+http://znz.life:25461/celia/123456/114383
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114384
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD (NULL)
+http://znz.life:25461/celia/123456/114385
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD (NULL)
+http://znz.life:25461/celia/123456/114386
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD (NULL)
+http://znz.life:25461/celia/123456/114387
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD (NULL)
+http://znz.life:25461/celia/123456/114388
+#EXTINF:-1,DE : Sky Sport 1 FHD (NULL)
+http://znz.life:25461/celia/123456/114389
+#EXTINF:-1,Sky Sport 1 HD (NULL)
+http://znz.life:25461/celia/123456/114390
+#EXTINF:-1,Sky Sport 2 FHD (NULL)
+http://znz.life:25461/celia/123456/114391
+#EXTINF:-1,Sky Sport 2 HD (NULL)
+http://znz.life:25461/celia/123456/114392
+#EXTINF:-1,Sky Sport 3 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114393
+#EXTINF:-1,Sky Sport 4 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114394
+#EXTINF:-1,Sky Sport 4 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114395
+#EXTINF:-1,Sky Sport 5 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114396
+#EXTINF:-1,Sky Sport 5 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114397
+#EXTINF:-1,Sky Sport 6 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114398
+#EXTINF:-1,Sky Sport 6 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114399
+#EXTINF:-1,Sky Sport 7 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114400
+#EXTINF:-1,Sky Sport 7 HD ( MATCH TIME ) (NULL)
+http://znz.life:25461/celia/123456/114401
+#EXTINF:-1,Sky Sport 8 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114402
+#EXTINF:-1,Sky Sport 8 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114403
+#EXTINF:-1,Sky Sport 9 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114404
+#EXTINF:-1,Sky Sport 9 HD (Live Event) (NULL)
+http://znz.life:25461/celia/123456/114405
+#EXTINF:-1,Sky Sport 10 FHD (Match time) (NULL)
+http://znz.life:25461/celia/123456/114406
+#EXTINF:-1,SPORT1+ FHD
+http://znz.life:25461/celia/123456/114407
+#EXTINF:-1,FC Bayern TV
+http://znz.life:25461/celia/123456/114408
+#EXTINF:-1,FC Bayern TV FHD
+http://znz.life:25461/celia/123456/114409
+#EXTINF:-1,Sky Sport Austria HD (NULL)
+http://znz.life:25461/celia/123456/114410
+#EXTINF:-1,Sky Sport Austria FHD (NULL)
+http://znz.life:25461/celia/123456/114411
+#EXTINF:-1,ORF Sport + HD
+http://znz.life:25461/celia/123456/114412
+#EXTINF:-1,Eurosport 1 FHD (NULL)
+http://znz.life:25461/celia/123456/114413
+#EXTINF:-1,Eurosport 1 HD (NULL)
+http://znz.life:25461/celia/123456/114414
+#EXTINF:-1,Eurosport 2 (NULL)
+http://znz.life:25461/celia/123456/114415
+#EXTINF:-1,Eurosport 2 FHD (NULL)
+http://znz.life:25461/celia/123456/114416
+#EXTINF:-1,Eurosport 2 Xtra FHD (NULL)
+http://znz.life:25461/celia/123456/114417
+#EXTINF:-1,Eurosport 2 Xtra HD (NULL)
+http://znz.life:25461/celia/123456/114418
+#EXTINF:-1,Sport1 FHD (NULL)
+http://znz.life:25461/celia/123456/114419
+#EXTINF:-1,Sport1 HD (NULL)
+http://znz.life:25461/celia/123456/114420
+#EXTINF:-1,Sport1 US FHD (NULL)
+http://znz.life:25461/celia/123456/114421
+#EXTINF:-1,Sport Digital HD (NULL)
+http://znz.life:25461/celia/123456/114422
+#EXTINF:-1,Sport digital FHD (NULL)
+http://znz.life:25461/celia/123456/114423
+#EXTINF:-1,Auto Motor und Sport FHD
+http://znz.life:25461/celia/123456/114424
+#EXTINF:-1,Motorvision HD
+http://znz.life:25461/celia/123456/114425
+#EXTINF:-1,Motorvision TV
+http://znz.life:25461/celia/123456/114426
+#EXTINF:-1,HR fernsehen
+http://znz.life:25461/celia/123456/114428
+#EXTINF:-1,HR fernsehen HD
+http://znz.life:25461/celia/123456/114429
+#EXTINF:-1,MDR HD
+http://znz.life:25461/celia/123456/114430
+#EXTINF:-1,NDR fernsehen HD
+http://znz.life:25461/celia/123456/114431
+#EXTINF:-1,Servus TV HD
+http://znz.life:25461/celia/123456/114432
+#EXTINF:-1,Comedy Central SD
+http://znz.life:25461/celia/123456/114433
+#EXTINF:-1,Comedy Central HD
+http://znz.life:25461/celia/123456/114434
+#EXTINF:-1,ARD One HD
+http://znz.life:25461/celia/123456/114435
+#EXTINF:-1,Tagesschau 24 HD
+http://znz.life:25461/celia/123456/114436
+#EXTINF:-1,Bibel TV FHD
+http://znz.life:25461/celia/123456/114437
+#EXTINF:-1,Noa4 Norderstedt FHD
+http://znz.life:25461/celia/123456/114438
+#EXTINF:-1,Sony TV FHD
+http://znz.life:25461/celia/123456/114439
+#EXTINF:-1,Astro TV
+http://znz.life:25461/celia/123456/114440
+#EXTINF:-1,Augsburg TV FHD
+http://znz.life:25461/celia/123456/114441
+#EXTINF:-1,Zee One HD
+http://znz.life:25461/celia/123456/114442
+#EXTINF:-1,Zee One FHD
+http://znz.life:25461/celia/123456/114443
+#EXTINF:-1,EuroNews SD
+http://znz.life:25461/celia/123456/114444
+#EXTINF:-1,Kronehit TV
+http://znz.life:25461/celia/123456/114445
+#EXTINF:-1,One
+http://znz.life:25461/celia/123456/114446
+#EXTINF:-1,TRP 1
+http://znz.life:25461/celia/123456/114447
+#EXTINF:-1,Travel HD
+http://znz.life:25461/celia/123456/114448
+#EXTINF:-1,WDR fernsehen HD
+http://znz.life:25461/celia/123456/114449
+#EXTINF:-1,CLASSICA FHD
+http://znz.life:25461/celia/123456/114450
+#EXTINF:-1,QVC
+http://znz.life:25461/celia/123456/114451
+#EXTINF:-1,ATV HD
+http://znz.life:25461/celia/123456/114452
+#EXTINF:-1,SRF 1 HD
+http://znz.life:25461/celia/123456/114453
+#EXTINF:-1,SRF 2 HD
+http://znz.life:25461/celia/123456/114454
+#EXTINF:-1,WELT HD
+http://znz.life:25461/celia/123456/114455
+#EXTINF:-1,1-2-3 TV SD
+http://znz.life:25461/celia/123456/114456
+#EXTINF:-1,ALEX TV SD
+http://znz.life:25461/celia/123456/114457
+#EXTINF:-1,GO TV
+http://znz.life:25461/celia/123456/114458
+#EXTINF:-1,N24 Doku
+http://znz.life:25461/celia/123456/114459
