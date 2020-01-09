@@ -1,117 +1,353 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera English (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-3)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
-#EXTINF:-1,Animal Planet
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1,BBC World News (Opt-1)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1,BBC World News (Opt-2)
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Bloomberg TV UK
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,BoxNation (Geo)
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,CGTN English (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,CGTN English (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CNBC World
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1,Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1,Discovery Science
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:-1,Discovery World (Opt-1)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Discovery World (Opt-2)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,Euronews (Opt-1)
-http://61.58.60.230:9000/live/129.m3u8
-#EXTINF:-1,Euronews (Opt-2)
-https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:-1,Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,France 24 English (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1,Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1,KIX (Asia)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1,Landscape TV
-http://130.88.20.237:1235/monitor.flv
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,NHK World (Opt-1)
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,NHK World (Opt-2)
-http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
-#EXTINF:-1,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC UK +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1,QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,Sky News (Opt-1)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News (Opt-2)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1,TLC HD World (Opt-1)
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-2)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-3)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
-#EXTINF:-1,Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,~ Ireland TV ~
-http://www.lengua.com/anthems/Ireland.mp3
+#EXTINF:-1,Good-Food-1
+http://tv2iptv.com:8000/badr/badr1234/11558
+#EXTINF:-1, 3E Ireland
+http://tv2iptv.com:8000/badr/badr1234/20018
+#EXTINF:-1,4_Seven
+http://tv2iptv.com:8000/badr/badr1234/20019
+#EXTINF:-1,5Star
+http://tv2iptv.com:8000/badr/badr1234/20020
+#EXTINF:-1,5USA
+http://tv2iptv.com:8000/badr/badr1234/20021
+#EXTINF:-1,ALIBI
+http://tv2iptv.com:8000/badr/badr1234/20022
+#EXTINF:-1,At_The_Races
+http://tv2iptv.com:8000/badr/badr1234/20023
+#EXTINF:-1, Baby TV
+http://tv2iptv.com:8000/badr/badr1234/20024
+#EXTINF:-1, BBC 1
+http://tv2iptv.com:8000/badr/badr1234/20025
+#EXTINF:-1, BBC one FHD
+http://tv2iptv.com:8000/badr/badr1234/20026
+#EXTINF:-1, BBC two HD
+http://tv2iptv.com:8000/badr/badr1234/20027
+#EXTINF:-1,BBC_4
+http://tv2iptv.com:8000/badr/badr1234/20028
+#EXTINF:-1, BBC Entertainment HD
+http://tv2iptv.com:8000/badr/badr1234/20029
+#EXTINF:-1,BET
+http://tv2iptv.com:8000/badr/badr1234/20030
+#EXTINF:-1,Bloomberg
+http://tv2iptv.com:8000/badr/badr1234/20031
+#EXTINF:-1,Boomerang
+http://tv2iptv.com:8000/badr/badr1234/20032
+#EXTINF:-1,Boxnation
+http://tv2iptv.com:8000/badr/badr1234/20033
+#EXTINF:-1, BT Sport 1 HD
+http://tv2iptv.com:8000/badr/badr1234/20034
+#EXTINF:-1, BT Sport 2 HD
+http://tv2iptv.com:8000/badr/badr1234/20035
+#EXTINF:-1, BT Sport 3 HD
+http://tv2iptv.com:8000/badr/badr1234/20036
+#EXTINF:-1,BT_Sports_ESPN
+http://tv2iptv.com:8000/badr/badr1234/20037
+#EXTINF:-1,BT_SPORT_1
+http://tv2iptv.com:8000/badr/badr1234/20038
+#EXTINF:-1,BT_SPORT_2
+http://tv2iptv.com:8000/badr/badr1234/20039
+#EXTINF:-1,BT_SPORT_3
+http://tv2iptv.com:8000/badr/badr1234/20040
+#EXTINF:-1,BT_Sport_Extra_1
+http://tv2iptv.com:8000/badr/badr1234/20041
+#EXTINF:-1,BT_Sport_Extra_2
+http://tv2iptv.com:8000/badr/badr1234/20042
+#EXTINF:-1,BT_Sport_Extra_3
+http://tv2iptv.com:8000/badr/badr1234/20043
+#EXTINF:-1,BT_Sport_Extra_4
+http://tv2iptv.com:8000/badr/badr1234/20044
+#EXTINF:-1,BT_Sport_Extra_5
+http://tv2iptv.com:8000/badr/badr1234/20045
+#EXTINF:-1, Cartoon Network HD
+http://tv2iptv.com:8000/badr/badr1234/20048
+#EXTINF:-1,CBBC
+http://tv2iptv.com:8000/badr/badr1234/20049
+#EXTINF:-1, BBC CBeebies HD
+http://tv2iptv.com:8000/badr/badr1234/20050
+#EXTINF:-1, CBS Action
+http://tv2iptv.com:8000/badr/badr1234/20051
+#EXTINF:-1, CBS Reality
+http://tv2iptv.com:8000/badr/badr1234/20052
+#EXTINF:-1,Celtic_TV (Live_During_SPL)
+http://tv2iptv.com:8000/badr/badr1234/20053
+#EXTINF:-1, China History Channel
+http://tv2iptv.com:8000/badr/badr1234/20054
+#EXTINF:-1, Channel 4
+http://tv2iptv.com:8000/badr/badr1234/20055
+#EXTINF:-1, CHANNEL 5
+http://tv2iptv.com:8000/badr/badr1234/20056
+#EXTINF:-1,Channel_AKA (Closed)
+http://tv2iptv.com:8000/badr/badr1234/20057
+#EXTINF:-1, Chart Show Hits
+http://tv2iptv.com:8000/badr/badr1234/20058
+#EXTINF:-1,CHELSEA_TV
+http://tv2iptv.com:8000/badr/badr1234/20059
+#EXTINF:-1,CNBC
+http://tv2iptv.com:8000/badr/badr1234/20060
+#EXTINF:-1,CNN_HD
+http://tv2iptv.com:8000/badr/badr1234/20061
+#EXTINF:-1,ComedyXtra
+http://tv2iptv.com:8000/badr/badr1234/20062
+#EXTINF:-1, Comedy Central Extra
+http://tv2iptv.com:8000/badr/badr1234/20063
+#EXTINF:-1,Crime_&_Investigation
+http://tv2iptv.com:8000/badr/badr1234/20064
+#EXTINF:-1,C_ITV
+http://tv2iptv.com:8000/badr/badr1234/20065
+#EXTINF:-1,Dave
+http://tv2iptv.com:8000/badr/badr1234/20066
+#EXTINF:-1, Discovery Channel
+http://tv2iptv.com:8000/badr/badr1234/20067
+#EXTINF:-1, Discovery History
+http://tv2iptv.com:8000/badr/badr1234/20068
+#EXTINF:-1, Discovery Science
+http://tv2iptv.com:8000/badr/badr1234/20069
+#EXTINF:-1, Discovery History +1
+http://tv2iptv.com:8000/badr/badr1234/20070
+#EXTINF:-1, Discovery Turbo
+http://tv2iptv.com:8000/badr/badr1234/20071
+#EXTINF:-1,Disney_Channel
+http://tv2iptv.com:8000/badr/badr1234/20072
+#EXTINF:-1,Disney_Jr.
+http://tv2iptv.com:8000/badr/badr1234/20073
+#EXTINF:-1,Disney_XD
+http://tv2iptv.com:8000/badr/badr1234/20074
+#EXTINF:-1,DMAX
+http://tv2iptv.com:8000/badr/badr1234/20075
+#EXTINF:-1,Drama
+http://tv2iptv.com:8000/badr/badr1234/20076
+#EXTINF:-1,E!_Entertainment
+http://tv2iptv.com:8000/badr/badr1234/20077
+#EXTINF:-1,E4
+http://tv2iptv.com:8000/badr/badr1234/20078
+#EXTINF:-1,Eden
+http://tv2iptv.com:8000/badr/badr1234/20079
+#EXTINF:-1,eir_Sport_1
+http://tv2iptv.com:8000/badr/badr1234/20080
+#EXTINF:-1,Eurosport_1_HD
+http://tv2iptv.com:8000/badr/badr1234/20081
+#EXTINF:-1,Eurosport_2_HD
+http://tv2iptv.com:8000/badr/badr1234/20082
+#EXTINF:-1,Film_4
+http://tv2iptv.com:8000/badr/badr1234/20083
+#EXTINF:-1,Fine_Living
+http://tv2iptv.com:8000/badr/badr1234/20084
+#EXTINF:-1,Food_Network
+http://tv2iptv.com:8000/badr/badr1234/20085
+#EXTINF:-1,FOX
+http://tv2iptv.com:8000/badr/badr1234/20086
+#EXTINF:-1,Fox_News
+http://tv2iptv.com:8000/badr/badr1234/20087
+#EXTINF:-1,GOLD
+http://tv2iptv.com:8000/badr/badr1234/20088
+#EXTINF:-1,History
+http://tv2iptv.com:8000/badr/badr1234/20089
+#EXTINF:-1,Home
+http://tv2iptv.com:8000/badr/badr1234/20090
+#EXTINF:-1,Home&Health
+http://tv2iptv.com:8000/badr/badr1234/20091
+#EXTINF:-1,Horror_Channel
+http://tv2iptv.com:8000/badr/badr1234/20092
+#EXTINF:-1,Horse_Country
+http://tv2iptv.com:8000/badr/badr1234/20093
+#EXTINF:-1, INVESTIGATION DISCOVERY
+http://tv2iptv.com:8000/badr/badr1234/20094
+#EXTINF:-1,Irish_TV
+http://tv2iptv.com:8000/badr/badr1234/20095
+#EXTINF:-1, ITV 1
+http://tv2iptv.com:8000/badr/badr1234/20096
+#EXTINF:-1, ITV 2
+http://tv2iptv.com:8000/badr/badr1234/20097
+#EXTINF:-1, ITV 3
+http://tv2iptv.com:8000/badr/badr1234/20098
+#EXTINF:-1, ITV 4
+http://tv2iptv.com:8000/badr/badr1234/20099
+#EXTINF:-1, ITV BE
+http://tv2iptv.com:8000/badr/badr1234/20100
+#EXTINF:-1, Itv Encore
+http://tv2iptv.com:8000/badr/badr1234/20101
+#EXTINF:-1,Lifetime
+http://tv2iptv.com:8000/badr/badr1234/20102
+#EXTINF:-1,Liverpool_TV
+http://tv2iptv.com:8000/badr/badr1234/20103
+#EXTINF:-1,Living_UK
+http://tv2iptv.com:8000/badr/badr1234/20104
+#EXTINF:-1,London_Live (Closed)
+http://tv2iptv.com:8000/badr/badr1234/20105
+#EXTINF:-1, More4
+http://tv2iptv.com:8000/badr/badr1234/20106
+#EXTINF:-1,Motors_TV (Closed)
+http://tv2iptv.com:8000/badr/badr1234/20107
+#EXTINF:-1, Movies 4 Men
+http://tv2iptv.com:8000/badr/badr1234/20108
+#EXTINF:-1,Movies_24
+http://tv2iptv.com:8000/badr/badr1234/20109
+#EXTINF:-1,MTV
+http://tv2iptv.com:8000/badr/badr1234/20110
+#EXTINF:-1,MTV_BASE
+http://tv2iptv.com:8000/badr/badr1234/20111
+#EXTINF:-1, Star LifeOK (hindi)
+http://tv2iptv.com:8000/badr/badr1234/20112
+#EXTINF:-1, MTV XMAS
+http://tv2iptv.com:8000/badr/badr1234/20113
+#EXTINF:-1,MTV_Hits
+http://tv2iptv.com:8000/badr/badr1234/20114
+#EXTINF:-1,MTV_MUSIC
+http://tv2iptv.com:8000/badr/badr1234/20115
+#EXTINF:-1, MTV OMG
+http://tv2iptv.com:8000/badr/badr1234/20116
+#EXTINF:-1,MUTV
+http://tv2iptv.com:8000/badr/badr1234/20117
+#EXTINF:-1,My_5
+http://tv2iptv.com:8000/badr/badr1234/20118
+#EXTINF:-1,National_Geographic
+http://tv2iptv.com:8000/badr/badr1234/20119
+#EXTINF:-1,National_Geographic_Wild
+http://tv2iptv.com:8000/badr/badr1234/20120
+#EXTINF:-1,Nickelodeon
+http://tv2iptv.com:8000/badr/badr1234/20121
+#EXTINF:-1,Nicktoons
+http://tv2iptv.com:8000/badr/badr1234/20122
+#EXTINF:-1,Nick_Jr
+http://tv2iptv.com:8000/badr/badr1234/20123
+#EXTINF:-1,Nick_Jr_Too
+http://tv2iptv.com:8000/badr/badr1234/20124
+#EXTINF:-1,Nollywood_Movies
+http://tv2iptv.com:8000/badr/badr1234/20125
+#EXTINF:-1,PBS_America
+http://tv2iptv.com:8000/badr/badr1234/20126
+#EXTINF:-1,Pick_TV
+http://tv2iptv.com:8000/badr/badr1234/20127
+#EXTINF:-1,POP
+http://tv2iptv.com:8000/badr/badr1234/20128
+#EXTINF:-1,Pop_Max
+http://tv2iptv.com:8000/badr/badr1234/20129
+#EXTINF:-1,Premier_Sports
+http://tv2iptv.com:8000/badr/badr1234/20130
+#EXTINF:-1,Quest
+http://tv2iptv.com:8000/badr/badr1234/20131
+#EXTINF:-1,Racing_UK
+http://tv2iptv.com:8000/badr/badr1234/20132
+#EXTINF:-1,Really
+http://tv2iptv.com:8000/badr/badr1234/20133
+#EXTINF:-1,Real_Lives
+http://tv2iptv.com:8000/badr/badr1234/20134
+#EXTINF:-1,RTE_1
+http://tv2iptv.com:8000/badr/badr1234/20135
+#EXTINF:-1,RTE_2
+http://tv2iptv.com:8000/badr/badr1234/20136
+#EXTINF:-1,RTE_News_Now
+http://tv2iptv.com:8000/badr/badr1234/20137
+#EXTINF:-1,S4C
+http://tv2iptv.com:8000/badr/badr1234/20138
+#EXTINF:-1,Sky_1
+http://tv2iptv.com:8000/badr/badr1234/20139
+#EXTINF:-1,Sky_2
+http://tv2iptv.com:8000/badr/badr1234/20140
+#EXTINF:-1, CBS Action
+http://tv2iptv.com:8000/badr/badr1234/20141
+#EXTINF:-1,Sky_Arts
+http://tv2iptv.com:8000/badr/badr1234/20142
+#EXTINF:-1,Sky_Atlantic
+http://tv2iptv.com:8000/badr/badr1234/20143
+#EXTINF:-1,Sky_Box_Office_(ppv_events_only)
+http://tv2iptv.com:8000/badr/badr1234/20144
+#EXTINF:-1,Sky_Living
+http://tv2iptv.com:8000/badr/badr1234/20145
+#EXTINF:-1, Sky Cinema Action & Adventure
+http://tv2iptv.com:8000/badr/badr1234/20146
+#EXTINF:-1, Sky Cinema Comedy HD
+http://tv2iptv.com:8000/badr/badr1234/20147
+#EXTINF:-1, Sky Cinema Disney HD
+http://tv2iptv.com:8000/badr/badr1234/20148
+#EXTINF:-1, Sky Cinema Drama & Romance HD
+http://tv2iptv.com:8000/badr/badr1234/20149
+#EXTINF:-1, Sky Cinema Family HD
+http://tv2iptv.com:8000/badr/badr1234/20150
+#EXTINF:-1, Sky Cinema Greats HD
+http://tv2iptv.com:8000/badr/badr1234/20151
+#EXTINF:-1,SKY_MOVIES_PREMIERE
+http://tv2iptv.com:8000/badr/badr1234/20152
+#EXTINF:-1, Sky Cinema Sci-fi & Horror HD
+http://tv2iptv.com:8000/badr/badr1234/20153
+#EXTINF:-1,SKY_MOVIES_SELECT
+http://tv2iptv.com:8000/badr/badr1234/20154
+#EXTINF:-1,Sky_Movies_Showcase
+http://tv2iptv.com:8000/badr/badr1234/20155
+#EXTINF:-1,Sky_Movies_Thriller
+http://tv2iptv.com:8000/badr/badr1234/20156
+#EXTINF:-1,Sky_News
+http://tv2iptv.com:8000/badr/badr1234/20157
+#EXTINF:-1,Sky_News_Arabia
+http://tv2iptv.com:8000/badr/badr1234/20158
+#EXTINF:-1,Sky_Sports_Action
+http://tv2iptv.com:8000/badr/badr1234/20159
+#EXTINF:-1,Sky_Sports_Arena
+http://tv2iptv.com:8000/badr/badr1234/20160
+#EXTINF:-1,Sky_Sports_Cricket
+http://tv2iptv.com:8000/badr/badr1234/20161
+#EXTINF:-1,SKY_SPORTS_F1
+http://tv2iptv.com:8000/badr/badr1234/20162
+#EXTINF:-1,Sky_Sports_Football
+http://tv2iptv.com:8000/badr/badr1234/20163
+#EXTINF:-1,Sky_Sports_Golf
+http://tv2iptv.com:8000/badr/badr1234/20164
+#EXTINF:-1,Sky_Sports_Main_Event
+http://tv2iptv.com:8000/badr/badr1234/20165
+#EXTINF:-1,SKY_SPORTS_NEWS
+http://tv2iptv.com:8000/badr/badr1234/20167
+#EXTINF:-1,Sky_Sports_Premier_League
+http://tv2iptv.com:8000/badr/badr1234/20168
+#EXTINF:-1,Sony_SAB
+http://tv2iptv.com:8000/badr/badr1234/20169
+#EXTINF:-1,SONY_SET_MAX
+http://tv2iptv.com:8000/badr/badr1234/20170
+#EXTINF:-1,Sony_TV
+http://tv2iptv.com:8000/badr/badr1234/20171
+#EXTINF:-1,Spike
+http://tv2iptv.com:8000/badr/badr1234/20172
+#EXTINF:-1,Starz_TV
+http://tv2iptv.com:8000/badr/badr1234/20173
+#EXTINF:-1,SyFy
+http://tv2iptv.com:8000/badr/badr1234/20174
+#EXTINF:-1,TCM
+http://tv2iptv.com:8000/badr/badr1234/20175
 #EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1,RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
-#EXTINF:-1,RTE 2
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:-1,RTE Jr.
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+http://tv2iptv.com:8000/badr/badr1234/20176
+#EXTINF:-1,The_Vault
+http://tv2iptv.com:8000/badr/badr1234/20177
+#EXTINF:-1,Tiny_Pop
+http://tv2iptv.com:8000/badr/badr1234/20178
+#EXTINF:-1,TLC
+http://tv2iptv.com:8000/badr/badr1234/20179
+#EXTINF:-1,Travel_Channel
+http://tv2iptv.com:8000/badr/badr1234/20180
+#EXTINF:-1,True_Movies
+http://tv2iptv.com:8000/badr/badr1234/20181
+#EXTINF:-1,True_Movies_2
+http://tv2iptv.com:8000/badr/badr1234/20182
+#EXTINF:-1,TV3
+http://tv2iptv.com:8000/badr/badr1234/20183
+#EXTINF:-1,TV5_Monde
+http://tv2iptv.com:8000/badr/badr1234/20184
+#EXTINF:-1,Universal_Channel
+http://tv2iptv.com:8000/badr/badr1234/20185
+#EXTINF:-1,UTV
+http://tv2iptv.com:8000/badr/badr1234/20186
+#EXTINF:-1,VH1
+http://tv2iptv.com:8000/badr/badr1234/20187
+#EXTINF:-1,VH1_Classic
+http://tv2iptv.com:8000/badr/badr1234/20188
+#EXTINF:-1,Viceland
+http://tv2iptv.com:8000/badr/badr1234/20189
+#EXTINF:-1,Vintage_TV
+http://tv2iptv.com:8000/badr/badr1234/20190
+#EXTINF:-1,VIVA
+http://tv2iptv.com:8000/badr/badr1234/20191
+#EXTINF:-1,Watch
+http://tv2iptv.com:8000/badr/badr1234/20192
+#EXTINF:-1,Yesterday
+http://tv2iptv.com:8000/badr/badr1234/20193
+#EXTINF:-1,ZEE_TV
+http://tv2iptv.com:8000/badr/badr1234/20195
+#EXTINF:-1, BBC Earth HD
+http://tv2iptv.com:8000/badr/badr1234/54974

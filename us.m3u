@@ -1,157 +1,419 @@
 #EXTM3U
-#EXTINF:-1,Outdoor Channel
-http://51.79.81.97:25461/ITV/4RTYUI/3
-#EXTINF:-1,Nick
-http://51.79.81.97:25461/ITV/4RTYUI/4
-#EXTINF:-1,Nick Jr
-http://51.79.81.97:25461/ITV/4RTYUI/5
-#EXTINF:-1,HBO Signature
-http://51.79.81.97:25461/ITV/4RTYUI/6
-#EXTINF:-1,HBO Family
-http://51.79.81.97:25461/ITV/4RTYUI/7
-#EXTINF:-1,HBO 2
-http://51.79.81.97:25461/ITV/4RTYUI/8
-#EXTINF:-1,History
-http://51.79.81.97:25461/ITV/4RTYUI/9
-#EXTINF:-1,HGTV
-http://51.79.81.97:25461/ITV/4RTYUI/10
-#EXTINF:-1,Fox Sports Florida
-http://51.79.81.97:25461/ITV/4RTYUI/11
-#EXTINF:-1,CNN
-http://51.79.81.97:25461/ITV/4RTYUI/12
-#EXTINF:-1,Galavision
-http://51.79.81.97:25461/ITV/4RTYUI/14
-#EXTINF:-1,Nat Geo Wild
-http://51.79.81.97:25461/ITV/4RTYUI/15
-#EXTINF:-1,HBO
-http://51.79.81.97:25461/ITV/4RTYUI/13
-#EXTINF:-1,CARACOL (CO)
-http://51.79.81.97:25461/ITV/4RTYUI/16
-#EXTINF:-1,El Gourmet
-http://51.79.81.97:25461/ITV/4RTYUI/18
-#EXTINF:-1,Discovery Theater
-http://51.79.81.97:25461/ITV/4RTYUI/19
+#EXTINF:-1,BET HD
+http://znz.life:25461/monica/123456/109056
+#EXTINF:-1,BET HER
+http://znz.life:25461/monica/123456/109057
+#EXTINF:-1,CNBC HD
+http://znz.life:25461/monica/123456/109058
+#EXTINF:-1,DIY  NETWORK
+http://znz.life:25461/monica/123456/109059
+#EXTINF:-1,EPIX HITS HD
+http://znz.life:25461/monica/123456/109060
+#EXTINF:-1,Epix 2
+http://znz.life:25461/monica/123456/109061
+#EXTINF:-1,Fox Business
+http://znz.life:25461/monica/123456/109062
+#EXTINF:-1,FOX Life
+http://znz.life:25461/monica/123456/109063
+#EXTINF:-1,Fox News
+http://znz.life:25461/monica/123456/109064
+#EXTINF:-1,FUSE HD
+http://znz.life:25461/monica/123456/109065
+#EXTINF:-1,FYI HD
+http://znz.life:25461/monica/123456/109066
+#EXTINF:-1,GRIT TV
+http://znz.life:25461/monica/123456/109067
+#EXTINF:-1, Independent Film Channel HD
+http://znz.life:25461/monica/123456/109068
+#EXTINF:-1,TV ONE
+http://znz.life:25461/monica/123456/109069
+#EXTINF:-1,VH1
+http://znz.life:25461/monica/123456/109070
+#EXTINF:-1,USA Network
+http://znz.life:25461/monica/123456/109071
+#EXTINF:-1,NBC Universo
+http://znz.life:25461/monica/123456/109072
+#EXTINF:-1,WE
+http://znz.life:25461/monica/123456/109073
+#EXTINF:-1,SPROUT
+http://znz.life:25461/monica/123456/109074
+#EXTINF:-1,American Heroes Channel
+http://znz.life:25461/monica/123456/109075
+#EXTINF:-1,BBC World News
+http://znz.life:25461/monica/123456/109076
+#EXTINF:-1,CNBC World
+http://znz.life:25461/monica/123456/109077
+#EXTINF:-1,CNN en Espanol
+http://znz.life:25461/monica/123456/109078
+#EXTINF:-1,Discovery en Espanol
+http://znz.life:25461/monica/123456/109079
+#EXTINF:-1,Discovery Family
+http://znz.life:25461/monica/123456/109080
+#EXTINF:-1,Investigation Discovery HD
+http://znz.life:25461/monica/123456/109081
+#EXTINF:-1,AMC HD
+http://znz.life:25461/monica/123456/109083
+#EXTINF:-1,Animal Planet HD
+http://znz.life:25461/monica/123456/109084
+#EXTINF:-1,BBC America
+http://znz.life:25461/monica/123456/109085
+#EXTINF:-1,Bravo HD
+http://znz.life:25461/monica/123456/109086
+#EXTINF:-1,COOKING CHANNEL
+http://znz.life:25461/monica/123456/109087
+#EXTINF:-1,Discovery Channel HD
+http://znz.life:25461/monica/123456/109088
 #EXTINF:-1,Discovery Science
-http://51.79.81.97:25461/ITV/4RTYUI/20
-#EXTINF:-1,Investigation Discovery
-http://51.79.81.97:25461/ITV/4RTYUI/21
-#EXTINF:-1,Space
-http://51.79.81.97:25461/ITV/4RTYUI/23
-#EXTINF:-1,Discovery Home and Health
-http://51.79.81.97:25461/ITV/4RTYUI/22
-#EXTINF:-1,Fox Family
-http://51.79.81.97:25461/ITV/4RTYUI/24
-#EXTINF:-1,Fox Premium Action
-http://51.79.81.97:25461/ITV/4RTYUI/26
-#EXTINF:-1,De Pelicula Plus
-http://51.79.81.97:25461/ITV/4RTYUI/27
-#EXTINF:-1,HBO Plus
-http://51.79.81.97:25461/ITV/4RTYUI/28
-#EXTINF:-1,Nicktoons
-http://51.79.81.97:25461/ITV/4RTYUI/29
-#EXTINF:-1,Nick 2
-http://51.79.81.97:25461/ITV/4RTYUI/30
-#EXTINF:-1,Nat Geo Kids
-http://51.79.81.97:25461/ITV/4RTYUI/31
-#EXTINF:-1,Cinecanal
-http://51.79.81.97:25461/ITV/4RTYUI/32
-#EXTINF:-1,Disney JR
-http://51.79.81.97:25461/ITV/4RTYUI/33
-#EXTINF:-1,Discovery Kids
-http://51.79.81.97:25461/ITV/4RTYUI/34
-#EXTINF:-1,Unimas
-http://51.79.81.97:25461/ITV/4RTYUI/35
-#EXTINF:-1,Unicable
-http://51.79.81.97:25461/ITV/4RTYUI/36
-#EXTINF:-1,Cartoon Network
-http://51.79.81.97:25461/ITV/4RTYUI/37
-#EXTINF:-1,RCN
-http://51.79.81.97:25461/ITV/4RTYUI/38
-#EXTINF:-1,Fox Life
-http://51.79.81.97:25461/ITV/4RTYUI/39
-#EXTINF:-1,A&E
-http://51.79.81.97:25461/ITV/4RTYUI/40
-#EXTINF:-1,Telemundo Internacional
-http://51.79.81.97:25461/ITV/4RTYUI/41
-#EXTINF:-1,V USA FS2
-http://51.79.81.97:25461/ITV/4RTYUI/42
-#EXTINF:-1,V USA FS1
-http://51.79.81.97:25461/ITV/4RTYUI/43
-#EXTINF:-1,Bein Sport USA
-http://51.79.81.97:25461/ITV/4RTYUI/45
-#EXTINF:-1,Bein Sports Esp
-http://51.79.81.97:25461/ITV/4RTYUI/46
-#EXTINF:-1,Fox Sports Premium Arg
-http://51.79.81.97:25461/ITV/4RTYUI/48
-#EXTINF:-1,Telemundo
-http://51.79.81.97:25461/ITV/4RTYUI/49
-#EXTINF:-1,GolTV
-http://51.79.81.97:25461/ITV/4RTYUI/47
-#EXTINF:-1,HBO Signature
-http://51.79.81.97:25461/ITV/4RTYUI/50
-#EXTINF:-1,Discovery Turbo
-http://51.79.81.97:25461/ITV/4RTYUI/51
-#EXTINF:-1,Mega TV (PR)
-http://51.79.81.97:25461/ITV/4RTYUI/52
-#EXTINF:-1,Univision (PR)
-http://51.79.81.97:25461/ITV/4RTYUI/53
-#EXTINF:-1,Wapa 2 (PR)
-http://51.79.81.97:25461/ITV/4RTYUI/54
-#EXTINF:-1,TUDN MX
-http://51.79.81.97:25461/ITV/4RTYUI/58
-#EXTINF:-1,TUDN USA
-http://51.79.81.97:25461/ITV/4RTYUI/59
-#EXTINF:-1,FOX SPORTS 2 MX (Encoder)
-http://51.79.81.97:25461/ITV/4RTYUI/60
-#EXTINF:-1,Discovery World
-http://51.79.81.97:25461/ITV/4RTYUI/62
-#EXTINF:-1,TMC
-http://51.79.81.97:25461/ITV/4RTYUI/63
-#EXTINF:-1,Paramount Channel
-http://51.79.81.97:25461/ITV/4RTYUI/64
-#EXTINF:-1,Morbido
-http://51.79.81.97:25461/ITV/4RTYUI/65
-#EXTINF:-1,Max UP
-http://51.79.81.97:25461/ITV/4RTYUI/66
-#EXTINF:-1,Max Prime
-http://51.79.81.97:25461/ITV/4RTYUI/67
-#EXTINF:-1,Isat
-http://51.79.81.97:25461/ITV/4RTYUI/68
-#EXTINF:-1,Golden EDGE
-http://51.79.81.97:25461/ITV/4RTYUI/69
-#EXTINF:-1,Golden
-http://51.79.81.97:25461/ITV/4RTYUI/70
-#EXTINF:-1,Fox Classics
-http://51.79.81.97:25461/ITV/4RTYUI/71
-#EXTINF:-1,FOX Cinema
-http://51.79.81.97:25461/ITV/4RTYUI/72
-#EXTINF:-1,AZ Cinema
-http://51.79.81.97:25461/ITV/4RTYUI/73
-#EXTINF:-1,Tooncast
-http://51.79.81.97:25461/ITV/4RTYUI/74
-#EXTINF:-1,Tiin
-http://51.79.81.97:25461/ITV/4RTYUI/75
-#EXTINF:-1,Nick
-http://51.79.81.97:25461/ITV/4RTYUI/76
+http://znz.life:25461/monica/123456/109089
+#EXTINF:-1,E!
+http://znz.life:25461/monica/123456/109090
+#EXTINF:-1,FX HD
+http://znz.life:25461/monica/123456/109091
+#EXTINF:-1,FXM HD
+http://znz.life:25461/monica/123456/109092
+#EXTINF:-1,FXX HD
+http://znz.life:25461/monica/123456/109093
+#EXTINF:-1,Food Network HD
+http://znz.life:25461/monica/123456/109094
+#EXTINF:-1,Fusion HD
+http://znz.life:25461/monica/123456/109095
+#EXTINF:-1,HGTV HD
+http://znz.life:25461/monica/123456/109096
+#EXTINF:-1,ID HD
+http://znz.life:25461/monica/123456/109097
+#EXTINF:-1,LIFETIME
+http://znz.life:25461/monica/123456/109098
+#EXTINF:-1,Longhorn Network HD
+http://znz.life:25461/monica/123456/109099
+#EXTINF:-1,Oxygen HD
+http://znz.life:25461/monica/123456/109100
+#EXTINF:-1,Nat Geo HD
+http://znz.life:25461/monica/123456/109101
+#EXTINF:-1,National Geographic HD
+http://znz.life:25461/monica/123456/109102
+#EXTINF:-1,Nat Geo Wild HD
+http://znz.life:25461/monica/123456/109103
+#EXTINF:-1,POP HD
+http://znz.life:25461/monica/123456/109104
+#EXTINF:-1,SHOWTIME WEST
+http://znz.life:25461/monica/123456/109105
+#EXTINF:-1,TBS HD
+http://znz.life:25461/monica/123456/109106
+#EXTINF:-1,TLC HD
+http://znz.life:25461/monica/123456/109107
+#EXTINF:-1,TNT HD
+http://znz.life:25461/monica/123456/109108
+#EXTINF:-1,Travel Channel HD
+http://znz.life:25461/monica/123456/109109
+#EXTINF:-1,TruTV HD
+http://znz.life:25461/monica/123456/109110
+#EXTINF:-1,Velocity HD
+http://znz.life:25461/monica/123456/109111
+#EXTINF:-1,The Weather Network HD
+http://znz.life:25461/monica/123456/109112
+#EXTINF:-1,Disney Channel HD
+http://znz.life:25461/monica/123456/109115
 #EXTINF:-1,Boomerang
-http://51.79.81.97:25461/ITV/4RTYUI/77
-#EXTINF:-1,Bein Sports USA HD
-http://51.79.81.97:25461/ITV/4RTYUI/89
-#EXTINF:-1,Sportsnet 360 HD
-http://51.79.81.97:25461/ITV/4RTYUI/91
-#EXTINF:-1,NHL Network(1)
-http://51.79.81.97:25461/ITV/4RTYUI/92
-#EXTINF:-1,Fox SPORTS 506 HD
-http://51.79.81.97:25461/ITV/4RTYUI/93
+http://znz.life:25461/monica/123456/109116
+#EXTINF:-1,Baby TV
+http://znz.life:25461/monica/123456/109117
+#EXTINF:-1,Baby Tv Espanol
+http://znz.life:25461/monica/123456/109118
+#EXTINF:-1,DISNEY CHANNEL HD
+http://znz.life:25461/monica/123456/109119
+#EXTINF:-1,DISNEY JR HD
+http://znz.life:25461/monica/123456/109120
+#EXTINF:-1,DISNEY XD HD
+http://znz.life:25461/monica/123456/109121
+#EXTINF:-1,BEIN Sports
+http://znz.life:25461/monica/123456/109123
+#EXTINF:-1,Big Ten Network
+http://znz.life:25461/monica/123456/109124
+#EXTINF:-1,Cheddar BUSINESS NEWS
+http://znz.life:25461/monica/123456/109125
+#EXTINF:-1,CBS Sports Network
+http://znz.life:25461/monica/123456/109126
+#EXTINF:-1,GINX eSports TV
+http://znz.life:25461/monica/123456/109127
+#EXTINF:-1,NBC Sports Network
+http://znz.life:25461/monica/123456/109128
+#EXTINF:-1,Outside TV
+http://znz.life:25461/monica/123456/109129
+#EXTINF:-1,SEC Network
+http://znz.life:25461/monica/123456/109130
+#EXTINF:-1,SNY
+http://znz.life:25461/monica/123456/109131
+#EXTINF:-1,ONE WORLD SPORTS
+http://znz.life:25461/monica/123456/109132
+#EXTINF:-1,ESPN 1 HD
+http://znz.life:25461/monica/123456/109133
+#EXTINF:-1,ESPN 2
+http://znz.life:25461/monica/123456/109134
+#EXTINF:-1,ESPN Deportes HD
+http://znz.life:25461/monica/123456/109135
+#EXTINF:-1,ESPN U HD
+http://znz.life:25461/monica/123456/109136
+#EXTINF:-1,ESPN News HD
+http://znz.life:25461/monica/123456/109137
+#EXTINF:-1,Eleven Sports Network HD
+http://znz.life:25461/monica/123456/109138
+#EXTINF:-1,FANTASY SPORTS NETWORK
+http://znz.life:25461/monica/123456/109139
+#EXTINF:-1,Fox Deportes HD
+http://znz.life:25461/monica/123456/109140
+#EXTINF:-1,FOX Sports 1
+http://znz.life:25461/monica/123456/109141
 #EXTINF:-1,Fox Sports 2 HD
-http://51.79.81.97:25461/ITV/4RTYUI/95
-#EXTINF:-1,Fox Sports 1 HD
-http://51.79.81.97:25461/ITV/4RTYUI/96
-#EXTINF:-1,Fox sport 1 backup
-http://51.79.81.97:25461/ITV/4RTYUI/98
-#EXTINF:-1,TNT
-http://51.79.81.97:25461/ITV/4RTYUI/1
-#EXTINF:-1,FIGHT SPORT
-http://51.79.81.97:25461/ITV/4RTYUI/90
+http://znz.life:25461/monica/123456/109142
+#EXTINF:-1,Fox College Sports Atlantic
+http://znz.life:25461/monica/123456/109143
+#EXTINF:-1,Fox College Sports Central
+http://znz.life:25461/monica/123456/109144
+#EXTINF:-1,Fox College Sports Pacific
+http://znz.life:25461/monica/123456/109145
+#EXTINF:-1,Fox Soccer Plus HD
+http://znz.life:25461/monica/123456/109146
+#EXTINF:-1,FOX SPORTS ARIZONA
+http://znz.life:25461/monica/123456/109147
+#EXTINF:-1,FOX SPORTS WEST
+http://znz.life:25461/monica/123456/109148
+#EXTINF:-1,FOX SPORTS SAN DIEGO
+http://znz.life:25461/monica/123456/109149
+#EXTINF:-1,NBA TV
+http://znz.life:25461/monica/123456/109150
+#EXTINF:-1,NBC Sports Network HD
+http://znz.life:25461/monica/123456/109151
+#EXTINF:-1,Golf Channel HD
+http://znz.life:25461/monica/123456/109152
 #EXTINF:-1,NFL Network HD
-http://51.79.81.97:25461/ITV/4RTYUI/103
+http://znz.life:25461/monica/123456/109153
+#EXTINF:-1,NHL Network
+http://znz.life:25461/monica/123456/109154
+#EXTINF:-1,SEC Network HD
+http://znz.life:25461/monica/123456/109155
+#EXTINF:-1,WWE Network
+http://znz.life:25461/monica/123456/109156
+#EXTINF:-1,MLB Network HD
+http://znz.life:25461/monica/123456/109157
+#EXTINF:-1,NBA Live Pass 1 HD
+http://znz.life:25461/monica/123456/109158
+#EXTINF:-1,NBA Live Pass 2 HD
+http://znz.life:25461/monica/123456/109159
+#EXTINF:-1,NBA Live Pass 3 HD
+http://znz.life:25461/monica/123456/109160
+#EXTINF:-1,NBA Live Pass 4 HD
+http://znz.life:25461/monica/123456/109161
+#EXTINF:-1,NBA Live Pass 5 HD
+http://znz.life:25461/monica/123456/109162
+#EXTINF:-1,NBA Live Pass 6 HD
+http://znz.life:25461/monica/123456/109163
+#EXTINF:-1,NBA Live Pass 7 HD
+http://znz.life:25461/monica/123456/109164
+#EXTINF:-1,NBA Live Pass 8 HD
+http://znz.life:25461/monica/123456/109165
+#EXTINF:-1,NBA 9 Live Pass
+http://znz.life:25461/monica/123456/109166
+#EXTINF:-1,NBA 10 Live Pass
+http://znz.life:25461/monica/123456/109167
+#EXTINF:-1,NBA 11 Live Pass
+http://znz.life:25461/monica/123456/109168
+#EXTINF:-1,MLB 1
+http://znz.life:25461/monica/123456/109169
+#EXTINF:-1,MLB 2
+http://znz.life:25461/monica/123456/109170
+#EXTINF:-1,MLB 3
+http://znz.life:25461/monica/123456/109171
+#EXTINF:-1,MLB 4
+http://znz.life:25461/monica/123456/109172
+#EXTINF:-1,MLB 5
+http://znz.life:25461/monica/123456/109173
+#EXTINF:-1,MLB 6
+http://znz.life:25461/monica/123456/109174
+#EXTINF:-1,MLB 7
+http://znz.life:25461/monica/123456/109175
+#EXTINF:-1,MLB 8
+http://znz.life:25461/monica/123456/109176
+#EXTINF:-1,MLB 9
+http://znz.life:25461/monica/123456/109177
+#EXTINF:-1,MLB 10
+http://znz.life:25461/monica/123456/109178
+#EXTINF:-1,MLB 11
+http://znz.life:25461/monica/123456/109179
+#EXTINF:-1,MLB 12
+http://znz.life:25461/monica/123456/109180
+#EXTINF:-1,MLB 13
+http://znz.life:25461/monica/123456/109181
+#EXTINF:-1,MLB 14
+http://znz.life:25461/monica/123456/109182
+#EXTINF:-1,MLB 15
+http://znz.life:25461/monica/123456/109183
+#EXTINF:-1,NFL GAMEPASS 1
+http://znz.life:25461/monica/123456/109184
+#EXTINF:-1,NFL GAMEPASS 2
+http://znz.life:25461/monica/123456/109185
+#EXTINF:-1,NFL GAMEPASS 3
+http://znz.life:25461/monica/123456/109186
+#EXTINF:-1,NFL GAMEPASS 4
+http://znz.life:25461/monica/123456/109187
+#EXTINF:-1,NFL GAMEPASS 5
+http://znz.life:25461/monica/123456/109188
+#EXTINF:-1,NFL GAMEPASS 6
+http://znz.life:25461/monica/123456/109189
+#EXTINF:-1,NFL GAMEPASS 7
+http://znz.life:25461/monica/123456/109190
+#EXTINF:-1,NFL GAMEPASS 8
+http://znz.life:25461/monica/123456/109191
+#EXTINF:-1,NFL GAMEPASS 9
+http://znz.life:25461/monica/123456/109192
+#EXTINF:-1,NFL GAMEPASS 10
+http://znz.life:25461/monica/123456/109193
+#EXTINF:-1,NFL GAMEPASS 11
+http://znz.life:25461/monica/123456/109194
+#EXTINF:-1,NFL GAMEPASS 12
+http://znz.life:25461/monica/123456/109195
+#EXTINF:-1,NFL GAMEPASS 13
+http://znz.life:25461/monica/123456/109196
+#EXTINF:-1,NFL GAMEPASS 14
+http://znz.life:25461/monica/123456/109197
+#EXTINF:-1,NFL GAMEPASS 15
+http://znz.life:25461/monica/123456/109198
+#EXTINF:-1,NFL GAMEPASS 16
+http://znz.life:25461/monica/123456/109199
+#EXTINF:-1,NHL 1
+http://znz.life:25461/monica/123456/109200
+#EXTINF:-1,NHL 10
+http://znz.life:25461/monica/123456/109201
+#EXTINF:-1,NHL 11
+http://znz.life:25461/monica/123456/109202
+#EXTINF:-1,NHL 12
+http://znz.life:25461/monica/123456/109203
+#EXTINF:-1,NHL 13
+http://znz.life:25461/monica/123456/109204
+#EXTINF:-1,NHL 14
+http://znz.life:25461/monica/123456/109205
+#EXTINF:-1,NHL 2
+http://znz.life:25461/monica/123456/109206
+#EXTINF:-1,NHL 3
+http://znz.life:25461/monica/123456/109207
+#EXTINF:-1,NHL 4
+http://znz.life:25461/monica/123456/109208
+#EXTINF:-1,NHL 5
+http://znz.life:25461/monica/123456/109209
+#EXTINF:-1,NHL 6
+http://znz.life:25461/monica/123456/109210
+#EXTINF:-1,NHL 7
+http://znz.life:25461/monica/123456/109211
+#EXTINF:-1,NHL 8
+http://znz.life:25461/monica/123456/109212
+#EXTINF:-1,NHL 9
+http://znz.life:25461/monica/123456/109213
+#EXTINF:-1,Tennis
+http://znz.life:25461/monica/123456/109214
+#EXTINF:-1,YES Network
+http://znz.life:25461/monica/123456/109215
+#EXTINF:-1,UFC FIGHT PASS HD
+http://znz.life:25461/monica/123456/109216
+#EXTINF:-1,World FIshing Network
+http://znz.life:25461/monica/123456/109222
+#EXTINF:-1,HBO HD
+http://znz.life:25461/monica/123456/109224
+#EXTINF:-1,HBO HD
+http://znz.life:25461/monica/123456/109225
+#EXTINF:-1,HBO 2 HD
+http://znz.life:25461/monica/123456/109226
+#EXTINF:-1,HBO FAMILY
+http://znz.life:25461/monica/123456/109227
+#EXTINF:-1,Hallmark Channel HD
+http://znz.life:25461/monica/123456/109228
+#EXTINF:-1,Hallmark Drama
+http://znz.life:25461/monica/123456/109229
+#EXTINF:-1,Hallmark Movies &amp; Mysteries
+http://znz.life:25461/monica/123456/109230
+#EXTINF:-1,TCM
+http://znz.life:25461/monica/123456/109231
+#EXTINF:-1,TURNER CLASSIC MOVIES
+http://znz.life:25461/monica/123456/109232
+#EXTINF:-1,SYFY HD
+http://znz.life:25461/monica/123456/109233
+#EXTINF:-1,Smithsonian Channel HD
+http://znz.life:25461/monica/123456/109234
+#EXTINF:-1,Sony Movie Channel
+http://znz.life:25461/monica/123456/109235
+#EXTINF:-1,Sundance HD
+http://znz.life:25461/monica/123456/109236
+#EXTINF:-1,ABC News
+http://znz.life:25461/monica/123456/109238
+#EXTINF:-1,CBS News HD
+http://znz.life:25461/monica/123456/109239
+#EXTINF:-1,Fox News HD
+http://znz.life:25461/monica/123456/109240
+#EXTINF:-1,HLN HD
+http://znz.life:25461/monica/123456/109241
+#EXTINF:-1,MSNBC HD
+http://znz.life:25461/monica/123456/109242
+#EXTINF:-1,CSN California HD
+http://znz.life:25461/monica/123456/109245
+#EXTINF:-1,CSN Northwest HD
+http://znz.life:25461/monica/123456/109246
+#EXTINF:-1,CSN Philadelphia HD
+http://znz.life:25461/monica/123456/109247
+#EXTINF:-1,FOX HD
+http://znz.life:25461/monica/123456/109250
+#EXTINF:-1,NBC HD
+http://znz.life:25461/monica/123456/109252
+#EXTINF:-1,Al Jazeera
+http://znz.life:25461/monica/123456/109255
+#EXTINF:-1,CBN
+http://znz.life:25461/monica/123456/109256
+#EXTINF:-1,InfoWars
+http://znz.life:25461/monica/123456/109257
+#EXTINF:-1,NewSy
+http://znz.life:25461/monica/123456/109258
+#EXTINF:-1,CBSN HD
+http://znz.life:25461/monica/123456/109259
+#EXTINF:-1,CNBC
+http://znz.life:25461/monica/123456/109260
+#EXTINF:-1,CNN HD
+http://znz.life:25461/monica/123456/109261
+#EXTINF:-1,Destination America
+http://znz.life:25461/monica/123456/109262
+#EXTINF:-1,Freeform HD
+http://znz.life:25461/monica/123456/109263
+#EXTINF:-1,O.W.N HD  (oprah winfrey network)
+http://znz.life:25461/monica/123456/109264
+#EXTINF:-1,NBC 4 New York (WNBC-TV)
+http://znz.life:25461/monica/123456/109435
+#EXTINF:-1,ACCN ESPN
+http://znz.life:25461/monica/123456/109520
+#EXTINF:-1,Telemundo
+http://znz.life:25461/monica/123456/109521
+#EXTINF:-1,Telemundo 39 Dallas
+http://znz.life:25461/monica/123456/109522
+#EXTINF:-1,Telemundo 44
+http://znz.life:25461/monica/123456/109523
+#EXTINF:-1,Telemundo 47
+http://znz.life:25461/monica/123456/109524
+#EXTINF:-1,Telemundo 48 San Fran
+http://znz.life:25461/monica/123456/109525
+#EXTINF:-1,Telemundo 51
+http://znz.life:25461/monica/123456/109526
+#EXTINF:-1,Telemundo 52
+http://znz.life:25461/monica/123456/109527
+#EXTINF:-1,Telemundo 62
+http://znz.life:25461/monica/123456/109528
+#EXTINF:-1,Telemundo Boston
+http://znz.life:25461/monica/123456/109529
+#EXTINF:-1,Telemundo Denver
+http://znz.life:25461/monica/123456/109530
+#EXTINF:-1,Telemundo Houston
+http://znz.life:25461/monica/123456/109531
+#EXTINF:-1,Telemundo Las Vegas
+http://znz.life:25461/monica/123456/109532
+#EXTINF:-1,Telemundo Phoenix
+http://znz.life:25461/monica/123456/109533
+#EXTINF:-1,Telemundo San Antonio
+http://znz.life:25461/monica/123456/109534
+#EXTINF:-1,Telemundo Tucson
+http://znz.life:25461/monica/123456/109535
+#EXTINF:-1,Telemundo 40
+http://znz.life:25461/monica/123456/109537
