@@ -1,163 +1,279 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/rCurmKp.jpg" group-title="",Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/XGOT4iz.png" group-title="",Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/Z1DWn1M.png" group-title="",Bblack! Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J FR" tvg-language="French" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="",Canal J
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",D5TV
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
-https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="",EMCI TV
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://bit.ly/2zOVkbF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-language="French" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-language="French" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",Lèeekô TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="",MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="",Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="Trace Africa FR" tvg-language="French" tvg-logo="https://i.imgur.com/SUhmboG.png" group-title="Music",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/UOG2hKQ.png" group-title="Music",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BUQA8VB.png" group-title="Music",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/vJZIrJ0.png" group-title="Music",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="Trace Tropical FR" tvg-language="French" tvg-logo="https://i.imgur.com/MoqoYvL.png" group-title="Music",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="Trace Urban HD FR" tvg-language="French" tvg-logo="https://i.imgur.com/qMYXsMH.png" group-title="Music",Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 Montblanc FR" tvg-language="French" tvg-logo="https://i.imgur.com/bQ0qIxF.jpg" group-title="",TV8 Montblanc
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-language="French" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Kids",TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/803evgT.png" group-title="",viàVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTM3U
+#EXTINF:-1,ALTICE STUDIO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13787
+#EXTINF:-1,ALTICE STUDIO HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28413
+#EXTINF:-1,ANIMAUX FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13789
+#EXTINF:-1,ANIMAUX HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14044
+#EXTINF:-1,ACTION SD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28334
+#EXTINF:-1,BBLACK AFRICA
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8051
+#EXTINF:-1,MTV HITS HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8050
+#EXTINF:-1,BBLACK CLASSIK
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8052
+#EXTINF:-1,BE CURIOUS FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13814
+#EXTINF:-1,FRANCE 2 SD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/1007
+#EXTINF:-1,IL TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13934
+#EXTINF:-1,INDIES LIVE MUSIC
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/25058
+#EXTINF:-1,INFOSPORT FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13729
+#EXTINF:-1,INFOSPORT HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14006
+#EXTINF:-1,LA CHAINE METEO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13783
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13719
+#EXTINF:-1,NATIONAL GEO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13718
+#EXTINF:-1,OCS MAX FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13825
+#EXTINF:-1,OCS MAX HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13996
+#EXTINF:-1,OCS MAX SD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/38198
+#EXTINF:-1,OL TV FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13842
+#EXTINF:-1,ONZEO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13786
+#EXTINF:-1,J ONE FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13852
+#EXTINF:-1,J ONE HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24938
+#EXTINF:-1,LAPIN CRETIN
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/7258
+#EXTINF:-1,NICKELODEON+1 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13854
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24957
+#EXTINF:-1,NICKELODEON 4 TEEN HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24953
+#EXTINF:-1,BEINS AR 1 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39590
+#EXTINF:-1,BEINS AR 2FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39591
+#EXTINF:-1,BEINS AR 3 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39592
+#EXTINF:-1,BEINS AR 4 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39593
+#EXTINF:-1,BEINS AR 5 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/40047
+#EXTINF:-1,ALTICE STUDIO
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39430
+#EXTINF:-1,ANIMAUX
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39526
+#EXTINF:-1,ARTE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39469
+#EXTINF:-1,ACTION
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39420
+#EXTINF:-1,AB3
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39410
+#EXTINF:-1,AB1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39411
+#EXTINF:-1,AUTOMOTO LA CHAINE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39490
+#EXTINF:-1,BABY TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39517
+#EXTINF:-1,BEIN SPORT 1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39499
+#EXTINF:-1,BEIN SPORT 2(SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39498
+#EXTINF:-1,BEIN SPORT 3
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39497
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39535
+#EXTINF:-1,DISCOVERY FAMILY
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39534
+#EXTINF:-1,DISCOVERY INVESTIGATIONS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39533
+#EXTINF:-1,DISCOVERY SCIENCES
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39532
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39525
+#EXTINF:-1,DISNEY CINEMA
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39524
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39523
+#EXTINF:-1,DISNEY XD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39522
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39545
+#EXTINF:-1,ELLE GIRLS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39546
+#EXTINF:-1,EQUIDIA
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39492
+#EXTINF:-1,EURONEWS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39456
+#EXTINF:-1,EUROSPORT 1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494
+#EXTINF:-1,EUROSPORT 2
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39493
+#EXTINF:-1,FOOT  24/24
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39491
+#EXTINF:-1,FRANCE 2
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39474
+#EXTINF:-1,FRANCE 3
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39473
+#EXTINF:-1,FRANCE 4
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39472
+#EXTINF:-1,FRANCE 5
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39471
+#EXTINF:-1,GAME ONE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39505
+#EXTINF:-1,FRANCE INFO
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39457
+#EXTINF:-1,GRAND LILLE TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39453
+#EXTINF:-1,GULLI
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39516
+#EXTINF:-1,GOLF 
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39489
+#EXTINF:-1,IDF
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39451
+#EXTINF:-1,INFOSPORT 
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39496
+#EXTINF:-1,J-ONE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39506
+#EXTINF:-1,L'EQUIPE 21
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39495
+#EXTINF:-1,LA CHAINE METEO
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39462
+#EXTINF:-1,LA CHAINE PARLEMENTAIRE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39450
+#EXTINF:-1,LCI
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39458
+#EXTINF:-1,HISTOIRE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39527
+#EXTINF:-1,M6 MUSIC
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39481
+#EXTINF:-1,MANGAS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39507
+#EXTINF:-1,M6
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39470
+#EXTINF:-1,MELODY TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39478
+#EXTINF:-1,MTV FRANCE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39486
+#EXTINF:-1,MTV HITS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39485
+#EXTINF:-1,MY CUISINE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39540
+#EXTINF:-1,MYZEN TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39487
+#EXTINF:-1,NATIONAL GEO
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39530
+#EXTINF:-1,NATIONAL GEO WILD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39529
+#EXTINF:-1,NICKELODEON 4 TEEN
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39520
+#EXTINF:-1,NICKELODEON CHANNEL
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39521
+#EXTINF:-1,NICKELODEON JUNIOR
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39519
+#EXTINF:-1,NON STOP PEOPLE TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39543
+#EXTINF:-1,OCS CHOC
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39423
+#EXTINF:-1,OCS CITY
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39424
+#EXTINF:-1,OCS GEANTS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39425
+#EXTINF:-1,OCS MAX
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39422
+#EXTINF:-1,13EME RUE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39419
+#EXTINF:-1,6TER
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39446
+#EXTINF:-1,AEROSTAR.TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39488
+#EXTINF:-1,BET
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39547
+#EXTINF:-1,NRJ 12
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39463
+#EXTINF:-1,NRJ HITS TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39479
+#EXTINF:-1,OKLM TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39480
+#EXTINF:-1,ONE TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39477
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39427
+#EXTINF:-1,PARAMOUNT DECALE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39426
+#EXTINF:-1,PARIS PREMIERE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39416
+#EXTINF:-1,PLANETE 
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39539
+#EXTINF:-1,PLANETE+  A&E
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39538
+#EXTINF:-1,RMC DECOUVERTE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39444
+#EXTINF:-1,RMC SPORT 1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39503
+#EXTINF:-1,RMC SPORT 2
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39502
+#EXTINF:-1,RMC SPORT 3
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39501
+#EXTINF:-1,RMC SPORT 4
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500
+#EXTINF:-1,PLANETE  CI
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39537
+#EXTINF:-1,POLAR 
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39421
+#EXTINF:-1,RMC NEWS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39504
+#EXTINF:-1,RMC STORY
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39445
+#EXTINF:-1,RTL9
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39415
+#EXTINF:-1,SCIENCE & VIE TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39528
+#EXTINF:-1,SERIE CLUB
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39414
+#EXTINF:-1,SUNDANCE
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39544
+#EXTINF:-1,SYFY
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39412
+#EXTINF:-1,TCM CINEMA
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39428
+#EXTINF:-1,TELETOON  1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39512
+#EXTINF:-1,TELETOON
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39513
+#EXTINF:-1,TEVA
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39413
+#EXTINF:-1,TF1  1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39475
+#EXTINF:-1,TF1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39476
+#EXTINF:-1,TF1 SERIES / FILMS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39449
+#EXTINF:-1,TMC  1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39465
+#EXTINF:-1,TMC
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39466
+#EXTINF:-1,TRACE TROPICAL
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39483
+#EXTINF:-1,TRACE URBAN
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39482
+#EXTINF:-1,TV BREIZH
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39548
+#EXTINF:-1,USHUAIA TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39531
+#EXTINF:-1,VIA GRAND PARIS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39452
+#EXTINF:-1,VICELAND TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39542
+#EXTINF:-1,W9
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39467
+#EXTINF:-1,WARNER TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39429
+#EXTINF:-1,WEO
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39454
