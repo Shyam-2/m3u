@@ -1,383 +1,69 @@
-#EXTM3U
-#EXTINF:-1,RTP 1
-http://znz.life:25461/celia/123456/103356
-#EXTINF:-1,RTP 1 HD
-http://znz.life:25461/celia/123456/103357
-#EXTINF:-1,RTP 1 FHD
-http://znz.life:25461/celia/123456/103358
-#EXTINF:-1,RTP 2
-http://znz.life:25461/celia/123456/103359
-#EXTINF:-1,RTP 2 HD
-http://znz.life:25461/celia/123456/103360
-#EXTINF:-1,SIC
-http://znz.life:25461/celia/123456/103361
-#EXTINF:-1,SIC HD
-http://znz.life:25461/celia/123456/103362
-#EXTINF:-1,SIC FHD
-http://znz.life:25461/celia/123456/103363
-#EXTINF:-1,TVI
-http://znz.life:25461/celia/123456/103364
-#EXTINF:-1,TVI HD
-http://znz.life:25461/celia/123456/103365
-#EXTINF:-1,TVI FICÇÃO
-http://znz.life:25461/celia/123456/103366
-#EXTINF:-1,TVI REALITY
-http://znz.life:25461/celia/123456/103367
-#EXTINF:-1,SIC MULHER
-http://znz.life:25461/celia/123456/103368
-#EXTINF:-1,SIC MULHER HD
-http://znz.life:25461/celia/123456/103369
-#EXTINF:-1,SIC CARAS
-http://znz.life:25461/celia/123456/103370
-#EXTINF:-1,SIC RADICAL
-http://znz.life:25461/celia/123456/103371
-#EXTINF:-1,SIC RADICAL HD
-http://znz.life:25461/celia/123456/103372
-#EXTINF:-1,CANAL Q
-http://znz.life:25461/celia/123456/103373
-#EXTINF:-1,PORTO CANAL
-http://znz.life:25461/celia/123456/103374
-#EXTINF:-1,RTP AFRICA
-http://znz.life:25461/celia/123456/103376
-#EXTINF:-1,RTP ACORES
-http://znz.life:25461/celia/123456/103377
-#EXTINF:-1,RTP MEMÓRIA
-http://znz.life:25461/celia/123456/103378
-#EXTINF:-1,RTP INTERNACIONAL
-http://znz.life:25461/celia/123456/103379
-#EXTINF:-1,RTP MADEIRA
-http://znz.life:25461/celia/123456/103380
-#EXTINF:-1,SIC NOTICIAS
-http://znz.life:25461/celia/123456/103381
-#EXTINF:-1,SIC NOTICIAS HD
-http://znz.life:25461/celia/123456/103382
-#EXTINF:-1,TVI 24
-http://znz.life:25461/celia/123456/116025
-#EXTINF:-1,TVI 24 HD
-http://znz.life:25461/celia/123456/103383
-#EXTINF:-1,TVI 24 FHD
-http://znz.life:25461/celia/123456/116204
-#EXTINF:-1,CMTV HD
-http://znz.life:25461/celia/123456/103384
-#EXTINF:-1,CMTV FHD
-http://znz.life:25461/celia/123456/103385
-#EXTINF:-1,RTP 3
-http://znz.life:25461/celia/123456/103386
-#EXTINF:-1,AR TV
-http://znz.life:25461/celia/123456/103387
-#EXTINF:-1,CANAL 11
-http://znz.life:25461/celia/123456/103388
-#EXTINF:-1,CANAL 11 HD
-http://znz.life:25461/celia/123456/103390
-#EXTINF:-1,CANAL 11 FHD
-http://znz.life:25461/celia/123456/103389
-#EXTINF:-1,SPORT TV +
-http://znz.life:25461/celia/123456/103391
-#EXTINF:-1,SPORT TV + HD
-http://znz.life:25461/celia/123456/103392
-#EXTINF:-1,Sport TV 1 SD
-http://znz.life:25461/celia/123456/107054
-#EXTINF:-1,SPORT TV 1
-http://znz.life:25461/celia/123456/103393
-#EXTINF:-1,SPORT TV 1 HD
-http://znz.life:25461/celia/123456/103395
-#EXTINF:-1,SPORT TV 1 FHD
-http://znz.life:25461/celia/123456/103394
-#EXTINF:-1,SPORT TV 2
-http://znz.life:25461/celia/123456/103396
-#EXTINF:-1,SPORT TV 2 HD
-http://znz.life:25461/celia/123456/103398
-#EXTINF:-1,SPORT TV 2 FHD
-http://znz.life:25461/celia/123456/103397
-#EXTINF:-1,SPORT TV 3
-http://znz.life:25461/celia/123456/103399
-#EXTINF:-1,SPORT TV 3 HD
-http://znz.life:25461/celia/123456/103401
-#EXTINF:-1,SPORT TV 3 FHD
-http://znz.life:25461/celia/123456/103400
-#EXTINF:-1,SPORT TV 4
-http://znz.life:25461/celia/123456/103402
-#EXTINF:-1,SPORT TV 4 HD
-http://znz.life:25461/celia/123456/103403
-#EXTINF:-1,SPORT TV 5
-http://znz.life:25461/celia/123456/103404
-#EXTINF:-1,SPORT TV 5 HD
-http://znz.life:25461/celia/123456/103405
-#EXTINF:-1,SPORT TV 5 FHD
-http://znz.life:25461/celia/123456/116260
-#EXTINF:-1,ELEVEN SPORTS 1 LOW
-http://znz.life:25461/celia/123456/103407
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://znz.life:25461/celia/123456/103406
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://znz.life:25461/celia/123456/103419
-#EXTINF:-1,ELEVEN SPORTS 2 SD
-http://znz.life:25461/celia/123456/103409
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://znz.life:25461/celia/123456/103408
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://znz.life:25461/celia/123456/103420
-#EXTINF:-1,ELEVEN SPORTS 3 LOW
-http://znz.life:25461/celia/123456/103411
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://znz.life:25461/celia/123456/103410
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://znz.life:25461/celia/123456/103418
-#EXTINF:-1,ELEVEN SPORTS 4 SD
-http://znz.life:25461/celia/123456/103413
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://znz.life:25461/celia/123456/103412
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://znz.life:25461/celia/123456/103421
-#EXTINF:-1,ELEVEN SPORTS 5 LOW
-http://znz.life:25461/celia/123456/103415
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://znz.life:25461/celia/123456/103414
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://znz.life:25461/celia/123456/103422
-#EXTINF:-1,ELEVEN SPORTS 6 SD
-http://znz.life:25461/celia/123456/103417
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://znz.life:25461/celia/123456/103416
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://znz.life:25461/celia/123456/103423
-#EXTINF:-1,BTV
-http://znz.life:25461/celia/123456/103424
-#EXTINF:-1,BTV HD
-http://znz.life:25461/celia/123456/103425
-#EXTINF:-1,BTV FHD
-http://znz.life:25461/celia/123456/103426
-#EXTINF:-1,SPORTING TV
-http://znz.life:25461/celia/123456/103427
-#EXTINF:-1,SPORTING TV HD
-http://znz.life:25461/celia/123456/103428
-#EXTINF:-1,A BOLA TV FHD
-http://znz.life:25461/celia/123456/103429
-#EXTINF:-1,PFC
-http://znz.life:25461/celia/123456/103430
-#EXTINF:-1,NBA TV
-http://znz.life:25461/celia/123456/103431
-#EXTINF:-1,SPORT TV NBA HD
-http://znz.life:25461/celia/123456/103432
-#EXTINF:-1,WWE NETWORK
-http://znz.life:25461/celia/123456/112761
-#EXTINF:-1,Red Bull TV FHD
-http://znz.life:25461/celia/123456/112762
-#EXTINF:-1,EUROSPORT 1
-http://znz.life:25461/celia/123456/103433
-#EXTINF:-1,EUROSPORT 1 HD
-http://znz.life:25461/celia/123456/103434
-#EXTINF:-1,EUROSPORT 2
-http://znz.life:25461/celia/123456/103435
-#EXTINF:-1,KOMBAT SPORT
-http://znz.life:25461/celia/123456/103436
-#EXTINF:-1,FIGHT NETWORK FHD
-http://znz.life:25461/celia/123456/103437
-#EXTINF:-1,FUEL TV
-http://znz.life:25461/celia/123456/103438
-#EXTINF:-1,MOTORVISION
-http://znz.life:25461/celia/123456/103439
-#EXTINF:-1,REAL MADRID
-http://znz.life:25461/celia/123456/103440
-#EXTINF:-1,TVCINE 1
-http://znz.life:25461/celia/123456/103441
-#EXTINF:-1,TVCINE 1 HD
-http://znz.life:25461/celia/123456/103443
-#EXTINF:-1,TVCINE 1 FHD
-http://znz.life:25461/celia/123456/103442
-#EXTINF:-1,TVCINE 2
-http://znz.life:25461/celia/123456/103444
-#EXTINF:-1,TVCINE 2 HD
-http://znz.life:25461/celia/123456/103446
-#EXTINF:-1,TVCINE 2 FHD
-http://znz.life:25461/celia/123456/103445
-#EXTINF:-1,TVCINE 3
-http://znz.life:25461/celia/123456/103447
-#EXTINF:-1,TVCINE 3 HD
-http://znz.life:25461/celia/123456/103449
-#EXTINF:-1,TVCINE 3 FHD
-http://znz.life:25461/celia/123456/103448
-#EXTINF:-1,TVCINE 4
-http://znz.life:25461/celia/123456/103450
-#EXTINF:-1,TVCINE 4 HD
-http://znz.life:25461/celia/123456/103452
-#EXTINF:-1,TVCINE 4 FHD
-http://znz.life:25461/celia/123456/103451
-#EXTINF:-1,TV SERIES
-http://znz.life:25461/celia/123456/103463
-#EXTINF:-1,TV SERIES HD
-http://znz.life:25461/celia/123456/103464
-#EXTINF:-1,TV SERIES FHD
-http://znz.life:25461/celia/123456/103465
-#EXTINF:-1,NOS STUDIO FHD
-http://znz.life:25461/celia/123456/103453
-#EXTINF:-1,HOLLYWOOD
-http://znz.life:25461/celia/123456/103454
-#EXTINF:-1,HOLLYWOOD HD
-http://znz.life:25461/celia/123456/103455
-#EXTINF:-1,CINEMUNDO
-http://znz.life:25461/celia/123456/103456
-#EXTINF:-1,CINEMUNDO HD
-http://znz.life:25461/celia/123456/103457
-#EXTINF:-1,AMC
-http://znz.life:25461/celia/123456/103458
-#EXTINF:-1,AMC FHD
-http://znz.life:25461/celia/123456/103459
-#EXTINF:-1,AMC HD
-http://znz.life:25461/celia/123456/103460
-#EXTINF:-1,FOX MOVIES
-http://znz.life:25461/celia/123456/103461
-#EXTINF:-1,FOX MOVIES HD
-http://znz.life:25461/celia/123456/103462
-#EXTINF:-1,FOX
-http://znz.life:25461/celia/123456/103466
-#EXTINF:-1,FOX FHD
-http://znz.life:25461/celia/123456/103467
-#EXTINF:-1,FOX HD
-http://znz.life:25461/celia/123456/103468
-#EXTINF:-1,FOX CRIME
-http://znz.life:25461/celia/123456/103469
-#EXTINF:-1,FOX CRIME HD
-http://znz.life:25461/celia/123456/103470
-#EXTINF:-1,FOX CRIME FHD
-http://znz.life:25461/celia/123456/103471
-#EXTINF:-1,FOX LIFE
-http://znz.life:25461/celia/123456/103472
-#EXTINF:-1,FOX LIFE HD
-http://znz.life:25461/celia/123456/103473
-#EXTINF:-1,FOX COMEDY
-http://znz.life:25461/celia/123456/103474
-#EXTINF:-1,FOX COMEDY HD
-http://znz.life:25461/celia/123456/103475
-#EXTINF:-1,AXN
-http://znz.life:25461/celia/123456/103476
-#EXTINF:-1,AXN HD
-http://znz.life:25461/celia/123456/103477
-#EXTINF:-1,AXN FHD
-http://znz.life:25461/celia/123456/103478
-#EXTINF:-1,AXN WHITE
-http://znz.life:25461/celia/123456/103479
-#EXTINF:-1,AXN WHITE HD
-http://znz.life:25461/celia/123456/103480
-#EXTINF:-1,AXN WHITE FHD
-http://znz.life:25461/celia/123456/103481
-#EXTINF:-1,AXN BLACK
-http://znz.life:25461/celia/123456/103482
-#EXTINF:-1,AXN BLACK HD
-http://znz.life:25461/celia/123456/103483
-#EXTINF:-1,AXN BLACK FHD
-http://znz.life:25461/celia/123456/103484
-#EXTINF:-1,SYFY
-http://znz.life:25461/celia/123456/103485
-#EXTINF:-1,SYFY HD
-http://znz.life:25461/celia/123456/103486
-#EXTINF:-1,National Geographic WILD
-http://znz.life:25461/celia/123456/103487
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://znz.life:25461/celia/123456/103488
-#EXTINF:-1,DISCOVERY CHANNEL
-http://znz.life:25461/celia/123456/103489
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://znz.life:25461/celia/123456/103490
-#EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://znz.life:25461/celia/123456/103491
-#EXTINF:-1,HISTORIA
-http://znz.life:25461/celia/123456/103492
-#EXTINF:-1,ODISSEIA
-http://znz.life:25461/celia/123456/103493
-#EXTINF:-1,ODISSEIA HD
-http://znz.life:25461/celia/123456/103494
-#EXTINF:-1,CRIME   INVESTIGATION
-http://znz.life:25461/celia/123456/103495
-#EXTINF:-1,CACA E PESCA
-http://znz.life:25461/celia/123456/103496
-#EXTINF:-1,CAÇAVISION
-http://znz.life:25461/celia/123456/103497
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://znz.life:25461/celia/123456/103499
-#EXTINF:-1,DISNEY CHANNEL
-http://znz.life:25461/celia/123456/103500
-#EXTINF:-1,DISNEY JÚNIOR
-http://znz.life:25461/celia/123456/103501
-#EXTINF:-1,CANAL PANDA
-http://znz.life:25461/celia/123456/103502
-#EXTINF:-1,BIGGS
-http://znz.life:25461/celia/123456/103503
-#EXTINF:-1,JIM JAM
-http://znz.life:25461/celia/123456/103504
-#EXTINF:-1,BABY TV
-http://znz.life:25461/celia/123456/103505
-#EXTINF:-1,NICKELODEON
-http://znz.life:25461/celia/123456/103507
-#EXTINF:-1,NICK JR.
-http://znz.life:25461/celia/123456/103508
-#EXTINF:-1,SIC K
-http://znz.life:25461/celia/123456/103509
-#EXTINF:-1,LUXE TV HD
-http://znz.life:25461/celia/123456/103510
-#EXTINF:-1,BLAZE TV
-http://znz.life:25461/celia/123456/103511
-#EXTINF:-1,BLAZE TV HD
-http://znz.life:25461/celia/123456/103512
-#EXTINF:-1,CBS REALITY
-http://znz.life:25461/celia/123456/103513
-#EXTINF:-1,E! ENTERTAINMENT
-http://znz.life:25461/celia/123456/103514
-#EXTINF:-1,KURIAKOS
-http://znz.life:25461/celia/123456/103515
-#EXTINF:-1,MY CUISINE
-http://znz.life:25461/celia/123456/103516
-#EXTINF:-1,TLC
-http://znz.life:25461/celia/123456/103517
-#EXTINF:-1,FASHION TV
-http://znz.life:25461/celia/123456/103518
-#EXTINF:-1,EURONEWS
-http://znz.life:25461/celia/123456/103519
-#EXTINF:-1,24 KITCHEN
-http://znz.life:25461/celia/123456/103520
-#EXTINF:-1,DOG TV FHD
-http://znz.life:25461/celia/123456/103521
-#EXTINF:-1,TV RECORD
-http://znz.life:25461/celia/123456/103522
-#EXTINF:-1,CANÇÃO NOVA
-http://znz.life:25461/celia/123456/103523
-#EXTINF:-1,GLOBO
-http://znz.life:25461/celia/123456/103524
-#EXTINF:-1,GLOBO PORTUGAL HD
-http://znz.life:25461/celia/123456/103525
-#EXTINF:-1,GLOBO NOW
-http://znz.life:25461/celia/123456/103526
-#EXTINF:-1,TCV CABO
-http://znz.life:25461/celia/123456/107055
-#EXTINF:-1,TPA INTERNACIONAL
-http://znz.life:25461/celia/123456/103527
-#EXTINF:-1,ZAP VIVA HD
-http://znz.life:25461/celia/123456/103528
-#EXTINF:-1,TV5 MONDE
-http://znz.life:25461/celia/123456/103529
-#EXTINF:-1,TVE 24h
-http://znz.life:25461/celia/123456/103530
-#EXTINF:-1,TVE Internacional
-http://znz.life:25461/celia/123456/103531
-#EXTINF:-1,Sky News
-http://znz.life:25461/celia/123456/103532
-#EXTINF:-1,CNN
-http://znz.life:25461/celia/123456/103533
-#EXTINF:-1,M6
-http://znz.life:25461/celia/123456/103534
-#EXTINF:-1,BLOOMBERG
-http://znz.life:25461/celia/123456/103535
-#EXTINF:-1,MCM POP
-http://znz.life:25461/celia/123456/103536
-#EXTINF:-1,MTV PORTUGAL
-http://znz.life:25461/celia/123456/103537
-#EXTINF:-1,VH1
-http://znz.life:25461/celia/123456/103538
-#EXTINF:-1,AFRO MUSIC
-http://znz.life:25461/celia/123456/103539
-#EXTINF:-1,TRACE TOCA
-http://znz.life:25461/celia/123456/103540
-#EXTINF:-1,TRACE URBAN
-http://znz.life:25461/celia/123456/103541
-#EXTINF:-1,MEZZO
-http://znz.life:25461/celia/123456/103542
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideportugal.xml.gz"
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kOnFXO1.png" group-title="",FM O Dia TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XGDg1Qx.jpg" group-title="",RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Efczv24.jpg" group-title="",RTP 3
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uS85Uoi.png" group-title="",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hHOEWXp.png" group-title="",RTP África
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wgBNFPz.png" group-title="",SiC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="",Sobrenatural TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="TVI 24 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8CNUEi.jpg" group-title="",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="",TVI Reality
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
