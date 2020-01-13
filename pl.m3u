@@ -1,25 +1,129 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidepoland.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="Hope.png" group-title="",Hope Channel
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://pbs.twimg.com/profile_images/911157852294787072/K-mU7Tn__400x400.jpg" group-title="",Telewizja Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-language="Polish" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="",Telewizja Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/BLFrhLJ.png" group-title="XXX",Zest TV
-http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTM3U
+#EXTINF:-1,Tvp 1 HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6065
+#EXTINF:-1,Tvp 2 HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10686
+#EXTINF:-1,TVN Style
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10687
+#EXTINF:-1,TVN 7
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6062
+#EXTINF:-1,Tvn
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6069
+#EXTINF:-1,TVN Turbo
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/11441
+#EXTINF:-1,Tv Puls
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6124
+#EXTINF:-1,Tv 4
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6071
+#EXTINF:-1,Tvp Abc
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6066
+#EXTINF:-1,Canal Family HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6063
+#EXTINF:-1,Canal 1 HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6064
+#EXTINF:-1,Disney XD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6075
+#EXTINF:-1,Polsat Sport HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6076
+#EXTINF:-1,Polsat Play
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6125
+#EXTINF:-1,TeleTOON HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6079
+#EXTINF:-1,Polsat HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6080
+#EXTINF:-1,Polsat Cafe
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6127
+#EXTINF:-1,Polsat 2
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6081
+#EXTINF:-1,Polo Tv
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6138
+#EXTINF:-1,Planete
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6129
+#EXTINF:-1,National Geo
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6086
+#EXTINF:-1,Nat Geo Wild
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6087
+#EXTINF:-1,Mtv Polska
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6088
+#EXTINF:-1,Vox Music TV
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6090
+#EXTINF:-1,Viva Polska
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10689
+#EXTINF:-1,History
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6132
+#EXTINF:-1,HBO 3 HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6092
+#EXTINF:-1,HBO 2 HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6093
+#EXTINF:-1,Filmbox Premium
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6096
+#EXTINF:-1,Filmbox Family
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6097
+#EXTINF:-1,Filmbox Extra HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6133
+#EXTINF:-1,Filmbox Action
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6098
+#EXTINF:-1,Disney Channel
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6101
+#EXTINF:-1,PL:Polsat Viasat Explore HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6134
+#EXTINF:-1,Discovery Science
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6102
+#EXTINF:-1,Discovery HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6104
+#EXTINF:-1,Polsat News HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6105
+#EXTINF:-1,Cinemax HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6106
+#EXTINF:-1,CBS Action
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6136
+#EXTINF:-1,Animal Planet
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6120
+#EXTINF:-1,Ale Kino
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6121
+#EXTINF:-1,Super Polsat
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21850
+#EXTINF:-1,STOPKLATKA TV
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21854
+#EXTINF:-1,Sport Premium 1
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21859
+#EXTINF:-1,Polsat Sport Premium 2
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21860
+#EXTINF:-1,Polsat Jim Jim
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21871
+#EXTINF:-1,Kino Tv
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21853
+#EXTINF:-1,Kino POLSKA MUZYKA
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21864
+#EXTINF:-1,Kino POLSKA
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21855
+#EXTINF:-1,HBO 1
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21851
+#EXTINF:-1,Eska Tv Extra
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21867
+#EXTINF:-1,EskaTv
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21866
+#EXTINF:-1,Disney Junior
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21872
+#EXTINF:-1,Disco Polo Music
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21865
+#EXTINF:-1,Cinemax 2 HD
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21856
+#EXTINF:-1,Cbs Europa
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21858
+#EXTINF:-1,Boomerang
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21874
+#EXTINF:-1,4Fun Tv
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21868
+#EXTINF:-1,4Fun Gold Hits
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21869
+#EXTINF:-1,4Fun Dance
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21870
+#EXTINF:-1,13 Ulica
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21857
+#EXTINF:-1,VH1
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21862
+#EXTINF:-1,TVP Seriale
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21861
+#EXTINF:-1,TNT
+http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/21852
