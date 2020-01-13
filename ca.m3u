@@ -1,79 +1,598 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="",CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SVdrxU4.png" group-title="Religious",Daystar Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ul9qddp.jpg" group-title="",EMCI TV (Montréal)
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="",ICI Télévision
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd861902459e1/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="",NTV (CJON-DT)
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="",NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-language="English" tvg-logo="https://i.imgur.com/9uFrMex.png" group-title="",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-language="English" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTM3U
+#EXTINF:-1,CBC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37836
+#EXTINF:-1,CBC MONTREAL HD
+http://tv2iptv.com:8000/Faysal/faysal123/37837
+#EXTINF:-1,CBC NEWS HD
+http://tv2iptv.com:8000/Faysal/faysal123/37835
+#EXTINF:-1,CP 24 HD
+http://tv2iptv.com:8000/Faysal/faysal123/37829
+#EXTINF:-1,CTV FHD
+http://tv2iptv.com:8000/Faysal/faysal123/37825
+#EXTINF:-1,CTV NEWS HD
+http://tv2iptv.com:8000/Faysal/faysal123/37824
+#EXTINF:-1,CTV ATLANTIC
+http://tv2iptv.com:8000/Faysal/faysal123/37826
+#EXTINF:-1,HGTV HD
+http://tv2iptv.com:8000/Faysal/faysal123/37810
+#EXTINF:-1,DISNEY HD
+http://tv2iptv.com:8000/Faysal/faysal123/37822
+#EXTINF:-1,DISNEY JR HD
+http://tv2iptv.com:8000/Faysal/faysal123/37821
+#EXTINF:-1,DISNEY XD HD
+http://tv2iptv.com:8000/Faysal/faysal123/37820
+#EXTINF:-1,HBO HD
+http://tv2iptv.com:8000/Faysal/faysal123/37811
+#EXTINF:-1,HBO 2 HD
+http://tv2iptv.com:8000/Faysal/faysal123/37812
+#EXTINF:-1,SPORTSNET 360 HD
+http://tv2iptv.com:8000/Faysal/faysal123/37794
+#EXTINF:-1,SPORTSNET EAST HD
+http://tv2iptv.com:8000/Faysal/faysal123/37793
+#EXTINF:-1,SPORTSNET ONE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37792
+#EXTINF:-1,SPORTSNET ONTARIO HD
+http://tv2iptv.com:8000/Faysal/faysal123/37791
+#EXTINF:-1,SPORTSNET PACIFIC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37790
+#EXTINF:-1,Sportsnet West HD
+http://tv2iptv.com:8000/Faysal/faysal123/21486
+#EXTINF:-1,SPORTSNET WORLD HD
+http://tv2iptv.com:8000/Faysal/faysal123/37789
+#EXTINF:-1, OLN HD
+http://tv2iptv.com:8000/Faysal/faysal123/37843
+#EXTINF:-1,A&E HD
+http://tv2iptv.com:8000/Faysal/faysal123/37780
+#EXTINF:-1,ABC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37842
+#EXTINF:-1,ABC SPARK
+http://tv2iptv.com:8000/Faysal/faysal123/37841
+#EXTINF:-1,AMC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37840
+#EXTINF:-1,BEIN SPORTS HD
+http://tv2iptv.com:8000/Faysal/faysal123/37779
+#EXTINF:-1,BEIN SPORTS SPANISH HD
+http://tv2iptv.com:8000/Faysal/faysal123/37778
+#EXTINF:-1,BNN HD
+http://tv2iptv.com:8000/Faysal/faysal123/37839
+#EXTINF:-1,BRAVO HD
+http://tv2iptv.com:8000/Faysal/faysal123/37838
+#EXTINF:-1,BTV HD
+http://tv2iptv.com:8000/Faysal/faysal123/37777
+#EXTINF:-1,CBS FHD
+http://tv2iptv.com:8000/Faysal/faysal123/37834
+#EXTINF:-1,CHCH HD
+http://tv2iptv.com:8000/Faysal/faysal123/37833
+#EXTINF:-1,CITY FHD
+http://tv2iptv.com:8000/Faysal/faysal123/37832
+#EXTINF:-1,CNN HD
+http://tv2iptv.com:8000/Faysal/faysal123/37831
+#EXTINF:-1,Comedy TV
+http://tv2iptv.com:8000/Faysal/faysal123/21455
+#EXTINF:-1,COMEDY HD
+http://tv2iptv.com:8000/Faysal/faysal123/37830
+#EXTINF:-1,CPAC
+http://tv2iptv.com:8000/Faysal/faysal123/37828
+#EXTINF:-1,CREATE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37827
+#EXTINF:-1,CW HD
+http://tv2iptv.com:8000/Faysal/faysal123/37823
+#EXTINF:-1,deja view
+http://tv2iptv.com:8000/Faysal/faysal123/21459
+#EXTINF:-1,E! HD
+http://tv2iptv.com:8000/Faysal/faysal123/37819
+#EXTINF:-1,FANTASY SPORTS HD
+http://tv2iptv.com:8000/Faysal/faysal123/37776
+#EXTINF:-1,FIGHT NETWORK HD
+http://tv2iptv.com:8000/Faysal/faysal123/37775
+#EXTINF:-1,Food Network HD
+http://tv2iptv.com:8000/Faysal/faysal123/37818
+#EXTINF:-1,FOX HD
+http://tv2iptv.com:8000/Faysal/faysal123/37817
+#EXTINF:-1,FX HD
+http://tv2iptv.com:8000/Faysal/faysal123/37816
+#EXTINF:-1,FXX HD
+http://tv2iptv.com:8000/Faysal/faysal123/37815
+#EXTINF:-1,GLOBAL BRITSH COLOMBIA
+http://tv2iptv.com:8000/Faysal/faysal123/37767
+#EXTINF:-1,GLOBAL HD
+http://tv2iptv.com:8000/Faysal/faysal123/37814
+#EXTINF:-1,GLOBAL HALIFAX HD
+http://tv2iptv.com:8000/Faysal/faysal123/37774
+#EXTINF:-1,GLOBAL TORONTO HD
+http://tv2iptv.com:8000/Faysal/faysal123/37766
+#EXTINF:-1,GSN HD
+http://tv2iptv.com:8000/Faysal/faysal123/37813
+#EXTINF:-1,HISTORY HD
+http://tv2iptv.com:8000/Faysal/faysal123/37809
+#EXTINF:-1,HLN HD
+http://tv2iptv.com:8000/Faysal/faysal123/37808
+#EXTINF:-1,K26CV FHD
+http://tv2iptv.com:8000/Faysal/faysal123/37773
+#EXTINF:-1,Lifetime HD
+http://tv2iptv.com:8000/Faysal/faysal123/37807
+#EXTINF:-1,ME TV HD
+http://tv2iptv.com:8000/Faysal/faysal123/37806
+#EXTINF:-1,MHZ WORLDVIEW
+http://tv2iptv.com:8000/Faysal/faysal123/37772
+#EXTINF:-1,ML PBS HD
+http://tv2iptv.com:8000/Faysal/faysal123/37771
+#EXTINF:-1,MOVIE CENTRAL
+http://tv2iptv.com:8000/Faysal/faysal123/37805
+#EXTINF:-1,Movietime TV
+http://tv2iptv.com:8000/Faysal/faysal123/21468
+#EXTINF:-1,MSNBC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37804
+#EXTINF:-1,NAT GEO HD
+http://tv2iptv.com:8000/Faysal/faysal123/37803
+#EXTINF:-1,NAT GEO WILD HD
+http://tv2iptv.com:8000/Faysal/faysal123/37802
+#EXTINF:-1,NBA TV HD
+http://tv2iptv.com:8000/Faysal/faysal123/37770
+#EXTINF:-1,NBC FHD
+http://tv2iptv.com:8000/Faysal/faysal123/37801
+#EXTINF:-1,own (oprah winfrew network)
+http://tv2iptv.com:8000/Faysal/faysal123/21476
+#EXTINF:-1,OWN HD
+http://tv2iptv.com:8000/Faysal/faysal123/37800
+#EXTINF:-1,PBS HD
+http://tv2iptv.com:8000/Faysal/faysal123/37799
+#EXTINF:-1,PBS KIDS
+http://tv2iptv.com:8000/Faysal/faysal123/37769
+#EXTINF:-1,PEACH TREE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37798
+#EXTINF:-1,Peachtree HDTV
+http://tv2iptv.com:8000/Faysal/faysal123/21477
+#EXTINF:-1,SHOWCASE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37797
+#EXTINF:-1,SLICE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37796
+#EXTINF:-1,SPACE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37795
+#EXTINF:-1,tG4 HD
+http://tv2iptv.com:8000/Faysal/faysal123/21464
+#EXTINF:-1,TLC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37788
+#EXTINF:-1,TSN HD 1
+http://tv2iptv.com:8000/Faysal/faysal123/37787
+#EXTINF:-1,TSN HD 2
+http://tv2iptv.com:8000/Faysal/faysal123/37786
+#EXTINF:-1,TSN HD 3
+http://tv2iptv.com:8000/Faysal/faysal123/37785
+#EXTINF:-1,TSN HD 4
+http://tv2iptv.com:8000/Faysal/faysal123/37784
+#EXTINF:-1,TSN HD 5
+http://tv2iptv.com:8000/Faysal/faysal123/37783
+#EXTINF:-1,THE WEATHER NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/21492
+#EXTINF:-1,WEATHER CHANNEL HD
+http://tv2iptv.com:8000/Faysal/faysal123/37782
+#EXTINF:-1,WORLD HD
+http://tv2iptv.com:8000/Faysal/faysal123/37781#EXTINF:-1,ABC_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25383
+#EXTINF:-1,ABC_SPARK_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25382
+#EXTINF:-1,ABC_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25381
+#EXTINF:-1,ACTION
+http://tv2iptv.com:8000/Faysal/faysal123/25380
+#EXTINF:-1,ADDIK_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25379
+#EXTINF:-1,AHC
+http://tv2iptv.com:8000/Faysal/faysal123/25378
+#EXTINF:-1,AMC
+http://tv2iptv.com:8000/Faysal/faysal123/25377
+#EXTINF:-1,ANIMAL_PLANET
+http://tv2iptv.com:8000/Faysal/faysal123/25376
+#EXTINF:-1,APTN
+http://tv2iptv.com:8000/Faysal/faysal123/25375
+#EXTINF:-1,ARTV
+http://tv2iptv.com:8000/Faysal/faysal123/25374
+#EXTINF:-1,Assembl?e_Nationale_Qu?bec
+http://tv2iptv.com:8000/Faysal/faysal123/25373
+#EXTINF:-1,A_&_E
+http://tv2iptv.com:8000/Faysal/faysal123/25384
+#EXTINF:-1,BBC_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25372
+#EXTINF:-1,BBC_WORLD_NEWS
+http://tv2iptv.com:8000/Faysal/faysal123/25370
+#EXTINF:-1,BET
+http://tv2iptv.com:8000/Faysal/faysal123/25369
+#EXTINF:-1,BNN
+http://tv2iptv.com:8000/Faysal/faysal123/25368
+#EXTINF:-1,BOOK_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25367
+#EXTINF:-1,BRAVO
+http://tv2iptv.com:8000/Faysal/faysal123/25366
+#EXTINF:-1,CANAL_D
+http://tv2iptv.com:8000/Faysal/faysal123/25365
+#EXTINF:-1,CANAL_SAVOIR
+http://tv2iptv.com:8000/Faysal/faysal123/25364
+#EXTINF:-1,CARTOON_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25363
+#EXTINF:-1,CASA
+http://tv2iptv.com:8000/Faysal/faysal123/25362
+#EXTINF:-1,CBC_MONTREAL
+http://tv2iptv.com:8000/Faysal/faysal123/25361
+#EXTINF:-1,CBC_NEWS
+http://tv2iptv.com:8000/Faysal/faysal123/25360
+#EXTINF:-1,CBC_NOVA_SCOTIA
+http://tv2iptv.com:8000/Faysal/faysal123/25359
+#EXTINF:-1,CBC_OTTAWA
+http://tv2iptv.com:8000/Faysal/faysal123/25358
+#EXTINF:-1,CBC_TORONTO
+http://tv2iptv.com:8000/Faysal/faysal123/25357
+#EXTINF:-1,CBC_VANCOUVER
+http://tv2iptv.com:8000/Faysal/faysal123/25356
+#EXTINF:-1,CBS_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25355
+#EXTINF:-1,CBS_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25354
+#EXTINF:-1,CHCH
+http://tv2iptv.com:8000/Faysal/faysal123/25353
+#EXTINF:-1,CINEPOP
+http://tv2iptv.com:8000/Faysal/faysal123/25352
+#EXTINF:-1,CITY_MONTREAL
+http://tv2iptv.com:8000/Faysal/faysal123/25351
+#EXTINF:-1,CITY_SASKATCHEWAN
+http://tv2iptv.com:8000/Faysal/faysal123/25350
+#EXTINF:-1,CITY_TORONTO
+http://tv2iptv.com:8000/Faysal/faysal123/25349
+#EXTINF:-1,CITY_VANCOUVER
+http://tv2iptv.com:8000/Faysal/faysal123/25348
+#EXTINF:-1,CITY_WINNIPEG
+http://tv2iptv.com:8000/Faysal/faysal123/25347
+#EXTINF:-1,CMT_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25346
+#EXTINF:-1,CNBC
+http://tv2iptv.com:8000/Faysal/faysal123/25345
+#EXTINF:-1,CNN
+http://tv2iptv.com:8000/Faysal/faysal123/25344
+#EXTINF:-1,CNN_INTERNATIONAL
+http://tv2iptv.com:8000/Faysal/faysal123/25343
+#EXTINF:-1,COMEDY_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25342
+#EXTINF:-1,COMEDY_GOLD
+http://tv2iptv.com:8000/Faysal/faysal123/25341
+#EXTINF:-1,COMEDY_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25340
+#EXTINF:-1,COOKING_CHANNEL
+http://tv2iptv.com:8000/Faysal/faysal123/25339
+#EXTINF:-1,COSMO
+http://tv2iptv.com:8000/Faysal/faysal123/25338
+#EXTINF:-1,COTTAGE_LIFE
+http://tv2iptv.com:8000/Faysal/faysal123/25337
+#EXTINF:-1,CP24
+http://tv2iptv.com:8000/Faysal/faysal123/25336
+#EXTINF:-1,CPAC
+http://tv2iptv.com:8000/Faysal/faysal123/25335
+#EXTINF:-1,CPAC_FRENCH
+http://tv2iptv.com:8000/Faysal/faysal123/25334
+#EXTINF:-1,CRIME_ _INVEST
+http://tv2iptv.com:8000/Faysal/faysal123/25333
+#EXTINF:-1,CTV2_OTTAWA
+http://tv2iptv.com:8000/Faysal/faysal123/25324
+#EXTINF:-1,CTV_2_TORONTO
+http://tv2iptv.com:8000/Faysal/faysal123/25332
+#EXTINF:-1,CTV_2_VANCOUVER
+http://tv2iptv.com:8000/Faysal/faysal123/25331
+#EXTINF:-1,CTV_HALIFAX
+http://tv2iptv.com:8000/Faysal/faysal123/25330
+#EXTINF:-1,CTV_MONTREAL
+http://tv2iptv.com:8000/Faysal/faysal123/25329
+#EXTINF:-1,CTV_NEWS_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25328
+#EXTINF:-1,CTV_OTTAWA
+http://tv2iptv.com:8000/Faysal/faysal123/25327
+#EXTINF:-1,CTV_TORONTO
+http://tv2iptv.com:8000/Faysal/faysal123/25326
+#EXTINF:-1,CTV_VANCOUVER
+http://tv2iptv.com:8000/Faysal/faysal123/25325
+#EXTINF:-1,CW_11
+http://tv2iptv.com:8000/Faysal/faysal123/25323
+#EXTINF:-1,DAYSTAR_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25322
+#EXTINF:-1,DEJAVIEW
+http://tv2iptv.com:8000/Faysal/faysal123/25321
+#EXTINF:-1,DISCOVERY_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25320
+#EXTINF:-1,DISCOVERY_SCIENCE_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25319
+#EXTINF:-1,DISNEY_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25318
+#EXTINF:-1,DISNEY_FRENCH
+http://tv2iptv.com:8000/Faysal/faysal123/25317
+#EXTINF:-1,DISNEY_JR
+http://tv2iptv.com:8000/Faysal/faysal123/25316
+#EXTINF:-1,DIY
+http://tv2iptv.com:8000/Faysal/faysal123/25315
+#EXTINF:-1,DOCUMENTARY
+http://tv2iptv.com:8000/Faysal/faysal123/25314
+#EXTINF:-1,DTOUR
+http://tv2iptv.com:8000/Faysal/faysal123/25313
+#EXTINF:-1,E!_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25312
+#EXTINF:-1,ENCORE_1_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25311
+#EXTINF:-1,ENCORE_2_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25310
+#EXTINF:-1,EVASION
+http://tv2iptv.com:8000/Faysal/faysal123/25309
+#EXTINF:-1,FAMILY_CHRGD
+http://tv2iptv.com:8000/Faysal/faysal123/25308
+#EXTINF:-1,FAMILY_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25307
+#EXTINF:-1,FAMILY_JR
+http://tv2iptv.com:8000/Faysal/faysal123/25306
+#EXTINF:-1,FAMILY_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25305
+#EXTINF:-1,FIGHT_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25304
+#EXTINF:-1,FOOD_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25303
+#EXTINF:-1,FOX_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25302
+#EXTINF:-1,FOX_NEWS
+http://tv2iptv.com:8000/Faysal/faysal123/25301
+#EXTINF:-1,FOX_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25300
+#EXTINF:-1,FTV_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25299
+#EXTINF:-1,FYI
+http://tv2iptv.com:8000/Faysal/faysal123/25298
+#EXTINF:-1,Game_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25297
+#EXTINF:-1,GINX_ESPORTS_TV_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25296
+#EXTINF:-1,GLOBAL_HALIFAX
+http://tv2iptv.com:8000/Faysal/faysal123/25295
+#EXTINF:-1,GLOBAL_TORONTO
+http://tv2iptv.com:8000/Faysal/faysal123/25294
+#EXTINF:-1,GLOBAL_VANCOUVER
+http://tv2iptv.com:8000/Faysal/faysal123/25293
+#EXTINF:-1,GOLF
+http://tv2iptv.com:8000/Faysal/faysal123/25292
+#EXTINF:-1,GSN
+http://tv2iptv.com:8000/Faysal/faysal123/25291
+#EXTINF:-1,GUSTO
+http://tv2iptv.com:8000/Faysal/faysal123/25290
+#EXTINF:-1,H2_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25289
+#EXTINF:-1,HBO_1
+http://tv2iptv.com:8000/Faysal/faysal123/25288
+#EXTINF:-1,HBO_2
+http://tv2iptv.com:8000/Faysal/faysal123/25287
+#EXTINF:-1,HGTV
+http://tv2iptv.com:8000/Faysal/faysal123/25286
+#EXTINF:-1,HISTORIO
+http://tv2iptv.com:8000/Faysal/faysal123/25285
+#EXTINF:-1,HISTORY
+http://tv2iptv.com:8000/Faysal/faysal123/25284
+#EXTINF:-1,HLN
+http://tv2iptv.com:8000/Faysal/faysal123/25283
+#EXTINF:-1,HOPE_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25282
+#EXTINF:-1,HPI_TV_(HORSE_RACING)
+http://tv2iptv.com:8000/Faysal/faysal123/25281
+#EXTINF:-1,ICI_MONTREAL
+http://tv2iptv.com:8000/Faysal/faysal123/25280
+#EXTINF:-1,ICI_VANCOUVER
+http://tv2iptv.com:8000/Faysal/faysal123/25279
+#EXTINF:-1,ID_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25278
+#EXTINF:-1,IFC
+http://tv2iptv.com:8000/Faysal/faysal123/25277
+#EXTINF:-1,JOY_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25276
+#EXTINF:-1,KNOWLEDGE_KIDS
+http://tv2iptv.com:8000/Faysal/faysal123/25275
+#EXTINF:-1,KTLA
+http://tv2iptv.com:8000/Faysal/faysal123/25274
+#EXTINF:-1,LCN
+http://tv2iptv.com:8000/Faysal/faysal123/25273
+#EXTINF:-1,LEAFS_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25272
+#EXTINF:-1,LIFETIME
+http://tv2iptv.com:8000/Faysal/faysal123/25271
+#EXTINF:-1,MAKEFUL
+http://tv2iptv.com:8000/Faysal/faysal123/25270
+#EXTINF:-1,MAVTV_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25269
+#EXTINF:-1,MAX
+http://tv2iptv.com:8000/Faysal/faysal123/25268
+#EXTINF:-1,METEO
+http://tv2iptv.com:8000/Faysal/faysal123/25267
+#EXTINF:-1,MIRACLE
+http://tv2iptv.com:8000/Faysal/faysal123/25266
+#EXTINF:-1,MLB_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25265
+#EXTINF:-1,MOI_CIE
+http://tv2iptv.com:8000/Faysal/faysal123/25264
+#EXTINF:-1,MTIME
+http://tv2iptv.com:8000/Faysal/faysal123/25263
+#EXTINF:-1,MTV
+http://tv2iptv.com:8000/Faysal/faysal123/25262
+#EXTINF:-1,MTV_2
+http://tv2iptv.com:8000/Faysal/faysal123/25261
+#EXTINF:-1,MUCH_MUSIC
+http://tv2iptv.com:8000/Faysal/faysal123/25260
+#EXTINF:-1,MUSIQUE_PLUS
+http://tv2iptv.com:8000/Faysal/faysal123/25259
+#EXTINF:-1,NAT_GEO
+http://tv2iptv.com:8000/Faysal/faysal123/25258
+#EXTINF:-1,NBA_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25257
+#EXTINF:-1,NBC_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25256
+#EXTINF:-1,NBC_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25255
+#EXTINF:-1,NFL_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25254
+#EXTINF:-1,NICK
+http://tv2iptv.com:8000/Faysal/faysal123/25253
+#EXTINF:-1,NTV
+http://tv2iptv.com:8000/Faysal/faysal123/25252
+#EXTINF:-1,OLN
+http://tv2iptv.com:8000/Faysal/faysal123/25251
+#EXTINF:-1,OMNI_1
+http://tv2iptv.com:8000/Faysal/faysal123/25250
+#EXTINF:-1,OMNI_2
+http://tv2iptv.com:8000/Faysal/faysal123/25249
+#EXTINF:-1,OMNI_BC
+http://tv2iptv.com:8000/Faysal/faysal123/25248
+#EXTINF:-1,OMNI_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25247
+#EXTINF:-1,ONE
+http://tv2iptv.com:8000/Faysal/faysal123/25246
+#EXTINF:-1,OUTTV
+http://tv2iptv.com:8000/Faysal/faysal123/25245
+#EXTINF:-1,OWN
+http://tv2iptv.com:8000/Faysal/faysal123/25244
+#EXTINF:-1,PBS_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25243
+#EXTINF:-1,PBS_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25242
+#EXTINF:-1,PEACH_TREE
+http://tv2iptv.com:8000/Faysal/faysal123/25241
+#EXTINF:-1,PRISE
+http://tv2iptv.com:8000/Faysal/faysal123/25240
+#EXTINF:-1,RDI
+http://tv2iptv.com:8000/Faysal/faysal123/25239
+#EXTINF:-1,RDS
+http://tv2iptv.com:8000/Faysal/faysal123/25238
+#EXTINF:-1,RDS_2
+http://tv2iptv.com:8000/Faysal/faysal123/25237
+#EXTINF:-1,RDS_INFO
+http://tv2iptv.com:8000/Faysal/faysal123/25236
+#EXTINF:-1,RT_AMERICA
+http://tv2iptv.com:8000/Faysal/faysal123/25235
+#EXTINF:-1,SERIS_
+http://tv2iptv.com:8000/Faysal/faysal123/25234
+#EXTINF:-1,SHOPPING
+http://tv2iptv.com:8000/Faysal/faysal123/25233
+#EXTINF:-1,SHOWCASE_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25232
+#EXTINF:-1,SILVER_SCREEN_CLASSICS
+http://tv2iptv.com:8000/Faysal/faysal123/25231
+#EXTINF:-1,SLICE
+http://tv2iptv.com:8000/Faysal/faysal123/25230
+#EXTINF:-1,SMITHSONIAN
+http://tv2iptv.com:8000/Faysal/faysal123/25229
+#EXTINF:-1,SPACE
+http://tv2iptv.com:8000/Faysal/faysal123/25228
+#EXTINF:-1,PRMNT_(PARAMOUNT)
+http://tv2iptv.com:8000/Faysal/faysal123/25227
+#EXTINF:-1,SPORTSNET_360
+http://tv2iptv.com:8000/Faysal/faysal123/25226
+#EXTINF:-1,SPORTSNET_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25225
+#EXTINF:-1,SPORTSNET_ONE
+http://tv2iptv.com:8000/Faysal/faysal123/25224
+#EXTINF:-1,SPORTSNET_ONTARIO
+http://tv2iptv.com:8000/Faysal/faysal123/25223
+#EXTINF:-1,SPORTSNET_PACIFIC
+http://tv2iptv.com:8000/Faysal/faysal123/25222
+#EXTINF:-1,SPORTSNET_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25221
+#EXTINF:-1,SPORTSNET_WORLD
+http://tv2iptv.com:8000/Faysal/faysal123/25220
+#EXTINF:-1,SUPER_CHANNEL_FUSE
+http://tv2iptv.com:8000/Faysal/faysal123/25219
+#EXTINF:-1,SUPER_CHANNEL_HEART_&_HOME
+http://tv2iptv.com:8000/Faysal/faysal123/25218
+#EXTINF:-1,SUPER_CHANNEL_VAULT
+http://tv2iptv.com:8000/Faysal/faysal123/25217
+#EXTINF:-1,SUPER_ECRAN_1
+http://tv2iptv.com:8000/Faysal/faysal123/25216
+#EXTINF:-1,SUPER_ECRAN_2
+http://tv2iptv.com:8000/Faysal/faysal123/25215
+#EXTINF:-1,SUPER_ECRAN_3
+http://tv2iptv.com:8000/Faysal/faysal123/57392
+#EXTINF:-1,SUPER_ECRAN_4
+http://tv2iptv.com:8000/Faysal/faysal123/25213
+#EXTINF:-1,TCM
+http://tv2iptv.com:8000/Faysal/faysal123/25212
+#EXTINF:-1,TELEMAGINO
+http://tv2iptv.com:8000/Faysal/faysal123/25206
+#EXTINF:-1,TELE_LATINO
+http://tv2iptv.com:8000/Faysal/faysal123/25211
+#EXTINF:-1,TELE_QUEBEC
+http://tv2iptv.com:8000/Faysal/faysal123/25210
+#EXTINF:-1,TELE_TOON_EAST
+http://tv2iptv.com:8000/Faysal/faysal123/25209
+#EXTINF:-1,TELE_TOON_FRENCH
+http://tv2iptv.com:8000/Faysal/faysal123/25208
+#EXTINF:-1,TELE_TOON_WEST
+http://tv2iptv.com:8000/Faysal/faysal123/25207
+#EXTINF:-1,TFO
+http://tv2iptv.com:8000/Faysal/faysal123/25205
+#EXTINF:-1,THE_WEATHER_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25204
+#EXTINF:-1,TLC_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25203
+#EXTINF:-1,TMN_1
+http://tv2iptv.com:8000/Faysal/faysal123/25202
+#EXTINF:-1,TMN_2
+http://tv2iptv.com:8000/Faysal/faysal123/25201
+#EXTINF:-1,TMN_3
+http://tv2iptv.com:8000/Faysal/faysal123/25200
+#EXTINF:-1,TMN_4
+http://tv2iptv.com:8000/Faysal/faysal123/25199
+#EXTINF:-1,TRAVEL_ _ESCAPE
+http://tv2iptv.com:8000/Faysal/faysal123/25198
+#EXTINF:-1,TREEHOUSE
+http://tv2iptv.com:8000/Faysal/faysal123/25197
+#EXTINF:-1,TSN_1
+http://tv2iptv.com:8000/Faysal/faysal123/25196
+#EXTINF:-1,TSN_2
+http://tv2iptv.com:8000/Faysal/faysal123/25195
+#EXTINF:-1,TSN_3
+http://tv2iptv.com:8000/Faysal/faysal123/25194
+#EXTINF:-1,TSN_4
+http://tv2iptv.com:8000/Faysal/faysal123/25193
+#EXTINF:-1,TSN_5
+http://tv2iptv.com:8000/Faysal/faysal123/25192
+#EXTINF:-1,TV5_QUEBEC
+http://tv2iptv.com:8000/Faysal/faysal123/25191
+#EXTINF:-1,TVA_GATINEAU
+http://tv2iptv.com:8000/Faysal/faysal123/25190
+#EXTINF:-1,TVA_MONTREAL
+http://tv2iptv.com:8000/Faysal/faysal123/25189
+#EXTINF:-1,TVA_SPORTS
+http://tv2iptv.com:8000/Faysal/faysal123/25187
+#EXTINF:-1,TVO
+http://tv2iptv.com:8000/Faysal/faysal123/25186
+#EXTINF:-1,UNIS_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25185
+#EXTINF:-1,VIE
+http://tv2iptv.com:8000/Faysal/faysal123/25182
+#EXTINF:-1,VISION
+http://tv2iptv.com:8000/Faysal/faysal123/25181
+#EXTINF:-1,VRAK_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25180
+#EXTINF:-1,V_MONTREAL
+http://tv2iptv.com:8000/Faysal/faysal123/25184
+#EXTINF:-1,WFN
+http://tv2iptv.com:8000/Faysal/faysal123/25178
+#EXTINF:-1,WGN
+http://tv2iptv.com:8000/Faysal/faysal123/25177
+#EXTINF:-1,Wild_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25176
+#EXTINF:-1,WSBK
+http://tv2iptv.com:8000/Faysal/faysal123/25175
+#EXTINF:-1,W_NETWORK
+http://tv2iptv.com:8000/Faysal/faysal123/25179
+#EXTINF:-1,YES_TV
+http://tv2iptv.com:8000/Faysal/faysal123/25174
+#EXTINF:-1,YOOPA
+http://tv2iptv.com:8000/Faysal/faysal123/25173
+#EXTINF:-1,YTV
+http://tv2iptv.com:8000/Faysal/faysal123/25172
+#EXTINF:-1,YTV_West
+http://tv2iptv.com:8000/Faysal/faysal123/25171
+#EXTINF:-1,ZEETV_CANADA
+http://tv2iptv.com:8000/Faysal/faysal123/25169
+#EXTINF:-1,ZESTE
+http://tv2iptv.com:8000/Faysal/faysal123/25168
+#EXTINF:-1,Z_TELE
+http://tv2iptv.com:8000/Faysal/faysal123/25170
