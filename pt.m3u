@@ -1,69 +1,183 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideportugal.xml.gz"
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ckOlmzt.png" group-title="",ARtv
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rl5KoYB.png" group-title="",Canal180
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kOnFXO1.png" group-title="",FM O Dia TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XGDg1Qx.jpg" group-title="",RTP 2
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Efczv24.jpg" group-title="",RTP 3
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GTDfAWR.png" group-title="",RTP Açores
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uS85Uoi.png" group-title="",RTP Internacional
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hSgvlsx.png" group-title="",RTP Madeira
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TylY6xN.png" group-title="",RTP Memória
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hHOEWXp.png" group-title="",RTP África
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wgBNFPz.png" group-title="",SiC
-https://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="",Sobrenatural TV
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="TVI 24 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8CNUEi.jpg" group-title="",TVI 24
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="",TVI Reality
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://303tv.net:8080/barissen12/24082019adpara/46465
+#EXTINF:-1,RTP 2
+http://303tv.net:8080/barissen12/24082019adpara/46466
+#EXTINF:-1,SiC HD
+http://303tv.net:8080/barissen12/24082019adpara/46467
+#EXTINF:-1,Sic
+http://303tv.net:8080/barissen12/24082019adpara/46468
+#EXTINF:-1,TVi HD
+http://303tv.net:8080/barissen12/24082019adpara/46469
+#EXTINF:-1,TVi
+http://303tv.net:8080/barissen12/24082019adpara/46470
+#EXTINF:-1,RTP 3
+http://303tv.net:8080/barissen12/24082019adpara/46471
+#EXTINF:-1,RTP Madeira
+http://303tv.net:8080/barissen12/24082019adpara/46472
+#EXTINF:-1,RTP Acores
+http://303tv.net:8080/barissen12/24082019adpara/46473
+#EXTINF:-1,RTP Africa
+http://303tv.net:8080/barissen12/24082019adpara/46474
+#EXTINF:-1,RTP Memoria
+http://303tv.net:8080/barissen12/24082019adpara/46475
+#EXTINF:-1,CMTV
+http://303tv.net:8080/barissen12/24082019adpara/46476
+#EXTINF:-1,TVi 24HD
+http://303tv.net:8080/barissen12/24082019adpara/46477
+#EXTINF:-1,TVi 24
+http://303tv.net:8080/barissen12/24082019adpara/46478
+#EXTINF:-1,Sic Noticias HD
+http://303tv.net:8080/barissen12/24082019adpara/46479
+#EXTINF:-1,Sic Noticias
+http://303tv.net:8080/barissen12/24082019adpara/46480
+#EXTINF:-1,Porto Canal
+http://303tv.net:8080/barissen12/24082019adpara/46481
+#EXTINF:-1,Sic Radical
+http://303tv.net:8080/barissen12/24082019adpara/46482
+#EXTINF:-1,Sic Mulher
+http://303tv.net:8080/barissen12/24082019adpara/46483
+#EXTINF:-1,Sic Caras
+http://303tv.net:8080/barissen12/24082019adpara/46484
+#EXTINF:-1,TVi Reality
+http://303tv.net:8080/barissen12/24082019adpara/46485
+#EXTINF:-1,Canal Q
+http://303tv.net:8080/barissen12/24082019adpara/46486
+#EXTINF:-1,E!Entertainment
+http://303tv.net:8080/barissen12/24082019adpara/46487
+#EXTINF:-1,24Kitchen
+http://303tv.net:8080/barissen12/24082019adpara/46488
+#EXTINF:-1,Fuel TV
+http://303tv.net:8080/barissen12/24082019adpara/46489
+#EXTINF:-1,Odisseia
+http://303tv.net:8080/barissen12/24082019adpara/46490
+#EXTINF:-1,Discovery Channel
+http://303tv.net:8080/barissen12/24082019adpara/46491
+#EXTINF:-1,National Geographics
+http://303tv.net:8080/barissen12/24082019adpara/46492
+#EXTINF:-1,Motorvison
+http://303tv.net:8080/barissen12/24082019adpara/46493
+#EXTINF:-1,Historia
+http://303tv.net:8080/barissen12/24082019adpara/46494
+#EXTINF:-1,Caca e Pesca
+http://303tv.net:8080/barissen12/24082019adpara/46495
+#EXTINF:-1,Cacavision
+http://303tv.net:8080/barissen12/24082019adpara/46496
+#EXTINF:-1,Toros TV
+http://303tv.net:8080/barissen12/24082019adpara/46497
+#EXTINF:-1,TV Record
+http://303tv.net:8080/barissen12/24082019adpara/46498
+#EXTINF:-1,Globo NOW
+http://303tv.net:8080/barissen12/24082019adpara/46499
+#EXTINF:-1,TV Globo
+http://303tv.net:8080/barissen12/24082019adpara/46500
+#EXTINF:-1,ZAP VIVA
+http://303tv.net:8080/barissen12/24082019adpara/46501
+#EXTINF:-1,SBT Brasil
+http://303tv.net:8080/barissen12/24082019adpara/46502
+#EXTINF:-1,Biggs
+http://303tv.net:8080/barissen12/24082019adpara/46503
+#EXTINF:-1,Panda
+http://303tv.net:8080/barissen12/24082019adpara/46504
+#EXTINF:-1,JimJam
+http://303tv.net:8080/barissen12/24082019adpara/46505
+#EXTINF:-1,Disney Junior
+http://303tv.net:8080/barissen12/24082019adpara/46506
+#EXTINF:-1,Disney Channel
+http://303tv.net:8080/barissen12/24082019adpara/46507
+#EXTINF:-1,TVC 1HD
+http://303tv.net:8080/barissen12/24082019adpara/46509
+#EXTINF:-1,TVC 1
+http://303tv.net:8080/barissen12/24082019adpara/46510
+#EXTINF:-1,TVC 2HD
+http://303tv.net:8080/barissen12/24082019adpara/46511
+#EXTINF:-1,TVC 2
+http://303tv.net:8080/barissen12/24082019adpara/46512
+#EXTINF:-1,TVC 3HD
+http://303tv.net:8080/barissen12/24082019adpara/46513
+#EXTINF:-1,TVC 3
+http://303tv.net:8080/barissen12/24082019adpara/46514
+#EXTINF:-1,TVC 4HD
+http://303tv.net:8080/barissen12/24082019adpara/46515
+#EXTINF:-1,TVC 4
+http://303tv.net:8080/barissen12/24082019adpara/46516
+#EXTINF:-1,TV Series
+http://303tv.net:8080/barissen12/24082019adpara/46517
+#EXTINF:-1,NOS Studios HD
+http://303tv.net:8080/barissen12/24082019adpara/46518
+#EXTINF:-1,NOS Studios
+http://303tv.net:8080/barissen12/24082019adpara/46519
+#EXTINF:-1,Hollywood
+http://303tv.net:8080/barissen12/24082019adpara/46520
+#EXTINF:-1,FOX HD
+http://303tv.net:8080/barissen12/24082019adpara/46521
+#EXTINF:-1,FOX
+http://303tv.net:8080/barissen12/24082019adpara/46522
+#EXTINF:-1,FOX Movies HD
+http://303tv.net:8080/barissen12/24082019adpara/46523
+#EXTINF:-1,FOX Movies
+http://303tv.net:8080/barissen12/24082019adpara/46524
+#EXTINF:-1,FOX Crime HD
+http://303tv.net:8080/barissen12/24082019adpara/46525
+#EXTINF:-1,FOX Crime
+http://303tv.net:8080/barissen12/24082019adpara/46526
+#EXTINF:-1,FOX Comedy HD
+http://303tv.net:8080/barissen12/24082019adpara/46527
+#EXTINF:-1,FOX Comedy
+http://303tv.net:8080/barissen12/24082019adpara/46528
+#EXTINF:-1,FOX LIfe HD
+http://303tv.net:8080/barissen12/24082019adpara/46529
+#EXTINF:-1,FOX Life
+http://303tv.net:8080/barissen12/24082019adpara/46530
+#EXTINF:-1,AXN
+http://303tv.net:8080/barissen12/24082019adpara/46531
+#EXTINF:-1,AXN White
+http://303tv.net:8080/barissen12/24082019adpara/46532
+#EXTINF:-1,AXN Black
+http://303tv.net:8080/barissen12/24082019adpara/46533
+#EXTINF:-1,CineMundo
+http://303tv.net:8080/barissen12/24082019adpara/46534
+#EXTINF:-1,SYFY
+http://303tv.net:8080/barissen12/24082019adpara/46535
+#EXTINF:-1,AMC
+http://303tv.net:8080/barissen12/24082019adpara/46536
+#EXTINF:-1,Sport TV 1HD
+http://303tv.net:8080/barissen12/24082019adpara/46537
+#EXTINF:-1,Sport TV 1
+http://303tv.net:8080/barissen12/24082019adpara/46538
+#EXTINF:-1,Sport TV 2HD
+http://303tv.net:8080/barissen12/24082019adpara/46539
+#EXTINF:-1,Sport TV 3
+http://303tv.net:8080/barissen12/24082019adpara/46540
+#EXTINF:-1,Sport TV 4
+http://303tv.net:8080/barissen12/24082019adpara/46541
+#EXTINF:-1,Sport TV 5
+http://303tv.net:8080/barissen12/24082019adpara/46542
+#EXTINF:-1,Sport TV+
+http://303tv.net:8080/barissen12/24082019adpara/46543
+#EXTINF:-1,Sport TV NBA Tv
+http://303tv.net:8080/barissen12/24082019adpara/46544
+#EXTINF:-1,Eleven Sports 1
+http://303tv.net:8080/barissen12/24082019adpara/46545
+#EXTINF:-1,Eleven Sports 2
+http://303tv.net:8080/barissen12/24082019adpara/46546
+#EXTINF:-1,Eleven Sports 3
+http://303tv.net:8080/barissen12/24082019adpara/46547
+#EXTINF:-1,Eleven Sports 4
+http://303tv.net:8080/barissen12/24082019adpara/46548
+#EXTINF:-1,Eleven Sports 5
+http://303tv.net:8080/barissen12/24082019adpara/46549
+#EXTINF:-1,Eleven Sports 6
+http://303tv.net:8080/barissen12/24082019adpara/46550
+#EXTINF:-1,Eurosport 1
+http://303tv.net:8080/barissen12/24082019adpara/46551
+#EXTINF:-1,Eurosport 2
+http://303tv.net:8080/barissen12/24082019adpara/46552
+#EXTINF:-1,BTV HD
+http://303tv.net:8080/barissen12/24082019adpara/46553
+#EXTINF:-1,Benfica TV
+http://303tv.net:8080/barissen12/24082019adpara/46554
+#EXTINF:-1,Sporting TV
+http://303tv.net:8080/barissen12/24082019adpara/46555
+#EXTINF:-1,Real Madrid TV
+http://303tv.net:8080/barissen12/24082019adpara/46556
