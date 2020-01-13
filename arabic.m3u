@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,makkah
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
 #EXTINF:0, group-title=”NEWS TV” - Alarabiya
 http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
 #EXTINF:0, group-title=”NEWS TV” - Alarabiya HD
