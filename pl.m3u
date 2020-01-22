@@ -1,23 +1,453 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidepoland.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="Hope.png" group-title="",Hope Channel
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://pbs.twimg.com/profile_images/911157852294787072/K-mU7Tn__400x400.jpg" group-title="",Telewizja Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-language="Polish" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="",Telewizja Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
+#EXTM3U
+#EXTINF:-1,13 Ulica FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24838.m3u8
+#EXTINF:-1,4Fun Dance
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24839.m3u8
+#EXTINF:-1,4Fun Gold Hits
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24840.m3u8
+#EXTINF:-1,4Fun TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24841.m3u8
+#EXTINF:-1,Active Family
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24842.m3u8
+#EXTINF:-1,Adventure FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24843.m3u8
+#EXTINF:-1,Ale Kino FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24844.m3u8
+#EXTINF:-1,AMC Polska FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24845.m3u8
+#EXTINF:-1,Animal anet FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24846.m3u8
+#EXTINF:-1,ATM Rozrywka TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24847.m3u8
+#EXTINF:-1,AXN Black
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24848.m3u8
+#EXTINF:-1,AXN HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24849.m3u8
+#EXTINF:-1,AXN Spin FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24850.m3u8
+#EXTINF:-1,AXN White
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24851.m3u8
+#EXTINF:-1,Baby TV  [Multi-Audio]
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24852.m3u8
+#EXTINF:-1,BBC Brit FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24853.m3u8
+#EXTINF:-1,BBC Earth HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24854.m3u8
+#EXTINF:-1,BBC FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24855.m3u8
+#EXTINF:-1,BBC First FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24856.m3u8
+#EXTINF:-1,BBC Lifestyle Polska FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24857.m3u8
+#EXTINF:-1,Boomerang HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24858.m3u8
+#EXTINF:-1,Canal + FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24859.m3u8
+#EXTINF:-1,Canal+ Discovery FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24860.m3u8
+#EXTINF:-1,Canal+ Discovery HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24861.m3u8
+#EXTINF:-1,Canal+ Family FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24862.m3u8
+#EXTINF:-1,Canal+ Film FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24863.m3u8
+#EXTINF:-1,Canal+ Now HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24864.m3u8
+#EXTINF:-1,Canal+ Seriale FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24865.m3u8
+#EXTINF:-1,Canal+ Sport FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24866.m3u8
+#EXTINF:-1,Canal+ Sport 2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24867.m3u8
+#EXTINF:-1,Canal+ Sport 3 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24868.m3u8
+#EXTINF:-1,Canal+ Sport 4 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24869.m3u8
+#EXTINF:-1,Cartoon Network FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24870.m3u8
+#EXTINF:-1,CBS Action
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24871.m3u8
+#EXTINF:-1,CBS Europa FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24872.m3u8
+#EXTINF:-1,CBS Reality
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24873.m3u8
+#EXTINF:-1,Cinemax 2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24874.m3u8
+#EXTINF:-1,Cinemax FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24875.m3u8
+#EXTINF:-1,Comedy Central Family Polska FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24876.m3u8
+#EXTINF:-1,Comedy Central HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24877.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24878.m3u8
+#EXTINF:-1,Disco Polo Music
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24879.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24880.m3u8
+#EXTINF:-1,Discovery HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24881.m3u8
+#EXTINF:-1,Discovery Historia
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24882.m3u8
+#EXTINF:-1,Discovery Life FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24883.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24884.m3u8
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24885.m3u8
+#EXTINF:-1,Disney Channel FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24886.m3u8
+#EXTINF:-1,Disney JR
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24887.m3u8
+#EXTINF:-1,Disney XD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24888.m3u8
+#EXTINF:-1,Domo+ FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24889.m3u8
+#EXTINF:-1,DTX FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24890.m3u8
+#EXTINF:-1,E! Entertainment FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24891.m3u8
+#EXTINF:-1,Eleven Sports 1 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24892.m3u8
+#EXTINF:-1,Eleven Sports 2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24893.m3u8
+#EXTINF:-1,Eleven Sports 3 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24894.m3u8
+#EXTINF:-1,Eleven Sports 4 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24895.m3u8
+#EXTINF:-1,Eleven Extra
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24896.m3u8
+#EXTINF:-1,Epic Drama FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24897.m3u8
+#EXTINF:-1,Mjuzik
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24898.m3u8
+#EXTINF:-1,Eska TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24899.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24900.m3u8
+#EXTINF:-1,EuroSport 2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24901.m3u8
+#EXTINF:-1,Extreme Sports FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24902.m3u8
+#EXTINF:-1,Fightbox FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24903.m3u8
+#EXTINF:-1,FightClub HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24904.m3u8
+#EXTINF:-1,Filmbox Action
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24905.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24906.m3u8
+#EXTINF:-1,Filmbox Extra FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24907.m3u8
+#EXTINF:-1,Filmbox Family
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24908.m3u8
+#EXTINF:-1,FilmBox Premium FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24909.m3u8
+#EXTINF:-1,Food Network FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24910.m3u8
+#EXTINF:-1,Fox Comedy FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24911.m3u8
+#EXTINF:-1,Fox FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24912.m3u8
+#EXTINF:-1,Golf Channel FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24913.m3u8
+#EXTINF:-1,Golf Channel HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24914.m3u8
+#EXTINF:-1,H2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24915.m3u8
+#EXTINF:-1,HBO 2 FHD  [Multi-Audio]
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24916.m3u8
+#EXTINF:-1,HBO 3 FHD  [Multi-Audio]
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24917.m3u8
+#EXTINF:-1,HBO FHD  [Multi-Audio]
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24918.m3u8
+#EXTINF:-1,HGTV FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24919.m3u8
+#EXTINF:-1,History FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24920.m3u8
+#EXTINF:-1,Investigation Discovery FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24921.m3u8
+#EXTINF:-1,Kino Polska FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24922.m3u8
+#EXTINF:-1,Kino Polska Muzyka
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24923.m3u8
+#EXTINF:-1,Kino TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24924.m3u8
+#EXTINF:-1,Kuchnia+ FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24925.m3u8
+#EXTINF:-1,KSW PPV FHD  [Live During Events Only]
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24926.m3u8
+#EXTINF:-1,Lifetime FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24927.m3u8
+#EXTINF:-1,Mango 24
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24928.m3u8
+#EXTINF:-1,Metro
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24929.m3u8
+#EXTINF:-1,MiniMini+ HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24930.m3u8
+#EXTINF:-1,Motowizja FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24931.m3u8
+#EXTINF:-1,MTV Live HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24932.m3u8
+#EXTINF:-1,MTV Polska FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24933.m3u8
+#EXTINF:-1,Music VOX TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24934.m3u8
+#EXTINF:-1,National Geographic FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24935.m3u8
+#EXTINF:-1,National Geographic Peoe FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24936.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24937.m3u8
+#EXTINF:-1,Nick JR
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24938.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24939.m3u8
+#EXTINF:-1,Nicktoons HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24940.m3u8
+#EXTINF:-1,Nowa TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24941.m3u8
+#EXTINF:-1,nSport+ FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24942.m3u8
+#EXTINF:-1,NTL
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24943.m3u8
+#EXTINF:-1,Nuta TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24944.m3u8
+#EXTINF:-1,Paramount Channel FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24945.m3u8
+#EXTINF:-1,anete + FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24946.m3u8
+#EXTINF:-1,Polo TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24947.m3u8
+#EXTINF:-1,Polsat 2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24948.m3u8
+#EXTINF:-1,Polsat Cafe FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24949.m3u8
+#EXTINF:-1,Polsat Doku FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24950.m3u8
+#EXTINF:-1,Polsat FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24951.m3u8
+#EXTINF:-1,Polsat Film HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24952.m3u8
+#EXTINF:-1,Polsat Games FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24953.m3u8
+#EXTINF:-1,Polsat JimJam
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24954.m3u8
+#EXTINF:-1,Polsat Music FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24955.m3u8
+#EXTINF:-1,Polsat News 2
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24956.m3u8
+#EXTINF:-1,Polsat News FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24957.m3u8
+#EXTINF:-1,Polsat ay
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24958.m3u8
+#EXTINF:-1,Polsat Rodzina FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24959.m3u8
+#EXTINF:-1,Polsat Romans
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24960.m3u8
+#EXTINF:-1,Polsat Sport Extra FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24961.m3u8
+#EXTINF:-1,Polsat Sport Fight FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24962.m3u8
+#EXTINF:-1,Polsat Sport FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24963.m3u8
+#EXTINF:-1,Polsat Sport Premium 1 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24964.m3u8
+#EXTINF:-1,Polsat Sport Premium 2 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24965.m3u8
+#EXTINF:-1,Polsat Sport Premium PPV 3 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24966.m3u8
+#EXTINF:-1,Polsat Sport Premium PPV 4 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24967.m3u8
+#EXTINF:-1,Polsat Sport Premium PPV 5 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24968.m3u8
+#EXTINF:-1,Polsat Sport Premium PPV 6 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24969.m3u8
+#EXTINF:-1,Polsat Viasat Exorer FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24970.m3u8
+#EXTINF:-1,Polsat Viasat History HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24971.m3u8
+#EXTINF:-1,Polsat Viasat Nature FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24972.m3u8
+#EXTINF:-1,Power TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24973.m3u8
+#EXTINF:-1,RED Carpet TV FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24974.m3u8
+#EXTINF:-1,Romance TV FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24975.m3u8
+#EXTINF:-1,Sci-Fi Universal FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24976.m3u8
+#EXTINF:-1,Sport Klub Polska FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24977.m3u8
+#EXTINF:-1,Stars TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24978.m3u8
+#EXTINF:-1,Stopklatka TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24979.m3u8
+#EXTINF:-1,Sundance TV FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24980.m3u8
+#EXTINF:-1,Super Polsat FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24981.m3u8
+#EXTINF:-1,TeleToon
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24982.m3u8
+#EXTINF:-1,TLC FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24983.m3u8
+#EXTINF:-1,TNT FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24984.m3u8
+#EXTINF:-1,Trace TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24985.m3u8
+#EXTINF:-1,Travel Channel FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24986.m3u8
+#EXTINF:-1,TTV FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24987.m3u8
+#EXTINF:-1,TV Puls FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24988.m3u8
+#EXTINF:-1,TV Puls 2
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24989.m3u8
+#EXTINF:-1,TV Republika
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24990.m3u8
+#EXTINF:-1,TV4 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24991.m3u8
+#EXTINF:-1,TV6 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24992.m3u8
+#EXTINF:-1,TVN 24 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24993.m3u8
+#EXTINF:-1,TVN 7 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24994.m3u8
+#EXTINF:-1,TVN Fabuła FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24995.m3u8
+#EXTINF:-1,TVN FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24996.m3u8
+#EXTINF:-1,TVN Style FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24997.m3u8
+#EXTINF:-1,TVN Turbo FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24998.m3u8
+#EXTINF:-1,TVP 1 FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/24999.m3u8
+#EXTINF:-1,TVP 2 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25000.m3u8
+#EXTINF:-1,TVP 3 Warszawa
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25001.m3u8
+#EXTINF:-1,TVP ABC
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25002.m3u8
+#EXTINF:-1,TVP FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25003.m3u8
+#EXTINF:-1,TVP Historia
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25004.m3u8
+#EXTINF:-1,TVP Info FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25005.m3u8
+#EXTINF:-1,TVP Kultura
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25006.m3u8
+#EXTINF:-1,TVP Polonia
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25007.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25008.m3u8
+#EXTINF:-1,TVP Seriale
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25009.m3u8
+#EXTINF:-1,TVP Sport FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25010.m3u8
+#EXTINF:-1,TVS
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25011.m3u8
+#EXTINF:-1,SciFi Universal FHD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25012.m3u8
+#EXTINF:-1,VH1
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25013.m3u8
+#EXTINF:-1,VOD 205
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25014.m3u8
+#EXTINF:-1,VOD 207
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25015.m3u8
+#EXTINF:-1,VOD 208
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25016.m3u8
+#EXTINF:-1,VOD 206 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25017.m3u8
+#EXTINF:-1,VOD 207 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25018.m3u8
+#EXTINF:-1,VOD 208 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25019.m3u8
+#EXTINF:-1,VIVA Polska
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25020.m3u8
+#EXTINF:-1,Vox Music TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25021.m3u8
+#EXTINF:-1,WP
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25022.m3u8
+#EXTINF:-1,Zest TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25023.m3u8
+#EXTINF:-1,Zoom TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25024.m3u8
+#EXTINF:-1,13 Ulica HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25025.m3u8
+#EXTINF:-1,AXN
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25026.m3u8
+#EXTINF:-1,Canal+ Family HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25027.m3u8
+#EXTINF:-1,Canal+ Film HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25028.m3u8
+#EXTINF:-1,Canal+ Seriale HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25029.m3u8
+#EXTINF:-1,HGTV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25030.m3u8
+#EXTINF:-1,Filmbox Premium
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25031.m3u8
+#EXTINF:-1,Fokus TV
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25032.m3u8
+#EXTINF:-1,Discovery Life
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25033.m3u8
+#EXTINF:-1,Disney Channel HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25034.m3u8
+#EXTINF:-1,Domo+
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25035.m3u8
+#EXTINF:-1,Eleven Sports 1
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25036.m3u8
+#EXTINF:-1,Eleven Sports 2
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25037.m3u8
+#EXTINF:-1,Eurosport 1
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25038.m3u8
+#EXTINF:-1,EuroSport 2
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25039.m3u8
+#EXTINF:-1,Polsat News
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25040.m3u8
+#EXTINF:-1,Polsat HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25041.m3u8
+#EXTINF:-1,Polsat Film
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25042.m3u8
+#EXTINF:-1,Polsat 2 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25043.m3u8
+#EXTINF:-1,Planete+
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25044.m3u8
+#EXTINF:-1,nSport+ HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25045.m3u8
+#EXTINF:-1,Kuchnia+ HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25046.m3u8
+#EXTINF:-1,Kino Polska HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25047.m3u8
+#EXTINF:-1,TVN 24 Bis
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25048.m3u8
+#EXTINF:-1,TV6
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25049.m3u8
+#EXTINF:-1,TV4
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25050.m3u8
+#EXTINF:-1,TV Puls HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25051.m3u8
+#EXTINF:-1,TTV HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25052.m3u8
+#EXTINF:-1,Super Polsat
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25055.m3u8
+#EXTINF:-1,TVP Sport HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25064.m3u8
+#EXTINF:-1,TVP
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25065.m3u8
+#EXTINF:-1,TVP Info
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25066.m3u8
+#EXTINF:-1,TVP 2 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25067.m3u8
+#EXTINF:-1,TVP 1 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25068.m3u8
+#EXTINF:-1,TVN Turbo
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25069.m3u8
+#EXTINF:-1,TVN Style HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25070.m3u8
+#EXTINF:-1,TVN HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25071.m3u8
+#EXTINF:-1,TVN 7 HD
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25072.m3u8
+#EXTINF:-1,TVN 24
+http://nomorecable.eu:80/live/mwepWPLhsh/PrDrQ9pK1b/25073.m3u8
