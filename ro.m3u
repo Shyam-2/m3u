@@ -1,283 +1,75 @@
 #EXTM3U
-#EXTINF:-1,Telekom 2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15673.m3u8
-#EXTINF:-1,Telekom 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15674.m3u8
-#EXTINF:-1,Telekom 4
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15675.m3u8
-#EXTINF:-1,Telekom 1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15676.m3u8
-#EXTINF:-1,Acasa
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15677.m3u8
-#EXTINF:-1,Acasa Gold
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15678.m3u8
-#EXTINF:-1,AgroTV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15679.m3u8
 #EXTINF:-1,Antena 1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15681.m3u8
-#EXTINF:-1,Antena 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15682.m3u8
-#EXTINF:-1,Antena Stars
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15683.m3u8
-#EXTINF:-1,AXN
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15684.m3u8
-#EXTINF:-1,AXN Black
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15685.m3u8
-#EXTINF:-1,AXN SPIN
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15686.m3u8
-#EXTINF:-1,AXN White
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15687.m3u8
-#EXTINF:-1,B1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15688.m3u8
-#EXTINF:-1,Boomerang
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15689.m3u8
-#EXTINF:-1,Cartoon Network
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15690.m3u8
+http://185.23.213.162:8789/live/ania/ania/46609.m3u8
+#EXTINF:-1,Antena.Stars
+http://185.23.213.162:8789/live/ania/ania/46610.m3u8
+#EXTINF:-1,Acasa TV
+http://185.23.213.162:8789/live/ania/ania/46611.m3u8
+#EXTINF:-1,B1 Tv
+http://185.23.213.162:8789/live/ania/ania/46612.m3u8
 #EXTINF:-1,Cinemax
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15691.m3u8
-#EXTINF:-1,Cinemax 2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15692.m3u8
-#EXTINF:-1,Comedy Central
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15694.m3u8
-#EXTINF:-1,Da Vinci Learning
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15695.m3u8
-#EXTINF:-1,DIGI 24
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15696.m3u8
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15697.m3u8
-#EXTINF:-1,DIGI FILM
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15698.m3u8
-#EXTINF:-1,DIGI Life
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15699.m3u8
-#EXTINF:-1,DIGI Sport 1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15700.m3u8
-#EXTINF:-1,DIGI Sport 2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15701.m3u8
-#EXTINF:-1,DIGI Sport 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15702.m3u8
-#EXTINF:-1,DIGI Sport 4
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15703.m3u8
-#EXTINF:-1,DIGI WORLD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15704.m3u8
-#EXTINF:-1,Discovery
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15705.m3u8
-#EXTINF:-1,Discovery ID
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15706.m3u8
-#EXTINF:-1,Discovery Science
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15707.m3u8
-#EXTINF:-1,Disney Channel
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15708.m3u8
-#EXTINF:-1,Disney Jr
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15709.m3u8
-#EXTINF:-1,Diva
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15710.m3u8
-#EXTINF:-1,DTX
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15711.m3u8
-#EXTINF:-1,E! Entertainment
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15712.m3u8
-#EXTINF:-1,Etno
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15713.m3u8
-#EXTINF:-1,Eurosport 1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15716.m3u8
-#EXTINF:-1,Eurosport 2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15717.m3u8
-#EXTINF:-1,Extreme Sport
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15718.m3u8
-#EXTINF:-1,Favorit TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15719.m3u8
-#EXTINF:-1,Film Caf?
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15720.m3u8
-#EXTINF:-1,Fishingand Hunting
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15721.m3u8
-#EXTINF:-1,Food Network
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15722.m3u8
-#EXTINF:-1,Happy Channel
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15723.m3u8
-#EXTINF:-1,HBO 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15724.m3u8
+http://185.23.213.162:8789/live/ania/ania/46613.m3u8
+#EXTINF:-1,|RO|Digi.Animal.World
+http://185.23.213.162:8789/live/ania/ania/46614.m3u8
 #EXTINF:-1,HBO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15725.m3u8
+http://185.23.213.162:8789/live/ania/ania/46626.m3u8
+#EXTINF:-1,|RO|EUROSPORT2
+http://185.23.213.162:8789/live/ania/ania/46625.m3u8
+#EXTINF:-1,Disney. unior
+http://185.23.213.162:8789/live/ania/ania/46623.m3u8
+#EXTINF:-1,Disney JUNIOR
+http://185.23.213.162:8789/live/ania/ania/46622.m3u8
+#EXTINF:-1,Digi World
+http://185.23.213.162:8789/live/ania/ania/46621.m3u8
+#EXTINF:-1,|RO|Digi.Sport4
+http://185.23.213.162:8789/live/ania/ania/46620.m3u8
+#EXTINF:-1,Digi Sport 3
+http://185.23.213.162:8789/live/ania/ania/46619.m3u8
+#EXTINF:-1,Digi Sport 2
+http://185.23.213.162:8789/live/ania/ania/46618.m3u8
+#EXTINF:-1,Digi Sport 1
+http://185.23.213.162:8789/live/ania/ania/46617.m3u8
 #EXTINF:-1,HBO2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15726.m3u8
-#EXTINF:-1,HBOmania
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15727.m3u8
-#EXTINF:-1,History
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15728.m3u8
-#EXTINF:-1,HIT MUSIC
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15729.m3u8
-#EXTINF:-1,Hora TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15730.m3u8
-#EXTINF:-1,JimJam
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15731.m3u8
-#EXTINF:-1,Kanal D
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15732.m3u8
-#EXTINF:-1,Kiss TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15733.m3u8
-#EXTINF:-1,Look Plus
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15734.m3u8
-#EXTINF:-1,Look TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15735.m3u8
-#EXTINF:-1,Megamax
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15737.m3u8
-#EXTINF:-1,Minimax
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15738.m3u8
-#EXTINF:-1,MTV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15739.m3u8
-#EXTINF:-1,MTV Dance
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15740.m3u8
-#EXTINF:-1,MTV Hits
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15741.m3u8
-#EXTINF:-1,MTV Rocks
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15742.m3u8
-#EXTINF:-1,Music Channel
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15743.m3u8
-#EXTINF:-1,Nat Geo
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15744.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15745.m3u8
-#EXTINF:-1,National 24
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15746.m3u8
-#EXTINF:-1,National Geographic
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15747.m3u8
-#EXTINF:-1,National TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15748.m3u8
-#EXTINF:-1,Nickelodeon
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15749.m3u8
-#EXTINF:-1,Paramount Channel
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15750.m3u8
-#EXTINF:-1,Prima TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15751.m3u8
-#EXTINF:-1,PRO Cinema
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15752.m3u8
-#EXTINF:-1,PRO TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15753.m3u8
-#EXTINF:-1,Realitatea TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15754.m3u8
-#EXTINF:-1,ROmania TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15755.m3u8
-#EXTINF:-1,Sport
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15756.m3u8
-#EXTINF:-1,TLC
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15757.m3u8
-#EXTINF:-1,TNT
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15758.m3u8
-#EXTINF:-1,Travel
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15759.m3u8
-#EXTINF:-1,Travel Mix
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15760.m3u8
-#EXTINF:-1,TV Paprika
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15761.m3u8
-#EXTINF:-1,TV1000
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15762.m3u8
-#EXTINF:-1,TVR
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15763.m3u8
-#EXTINF:-1,TVR1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15764.m3u8
-#EXTINF:-1,TVR2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15765.m3u8
-#EXTINF:-1,TVR3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15766.m3u8
-#EXTINF:-1,UTV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15767.m3u8
-#EXTINF:-1,VH1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15768.m3u8
-#EXTINF:-1,VH1 Classic
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15769.m3u8
-#EXTINF:-1,Viasat
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15770.m3u8
-#EXTINF:-1,Viasat History
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15771.m3u8
-#EXTINF:-1,Viasat Nature
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15772.m3u8
-#EXTINF:-1,ZU TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/15773.m3u8
-#EXTINF:-1,TVR HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48754.m3u8
-#EXTINF:-1,TVR 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48755.m3u8
-#EXTINF:-1,TVR 2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48756.m3u8
+http://185.23.213.162:8789/live/ania/ania/46627.m3u8
+#EXTINF:-1,EUROSPORT1
+http://185.23.213.162:8789/live/ania/ania/46624.m3u8
+#EXTINF:-1,Digi Film
+http://185.23.213.162:8789/live/ania/ania/46615.m3u8
+#EXTINF:-1,|RO|Viasat.History
+http://185.23.213.162:8789/live/ania/ania/46644.m3u8
+#EXTINF:-1,Taraf tv
+http://185.23.213.162:8789/live/ania/ania/46643.m3u8
+#EXTINF:-1,|RO|TVR2
+http://185.23.213.162:8789/live/ania/ania/46642.m3u8
 #EXTINF:-1,TVR 1
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48757.m3u8
-#EXTINF:-1,TV Paprika RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48758.m3u8
-#EXTINF:-1,TNT
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48759.m3u8
-#EXTINF:-1,TLC Romania
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48760.m3u8
-#EXTINF:-1,ProTV HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48761.m3u8
-#EXTINF:-1,PRO X
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48762.m3u8
-#EXTINF:-1,PRO GOLD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48763.m3u8
+http://185.23.213.162:8789/live/ania/ania/46641.m3u8
+#EXTINF:-1,TV1000
+http://185.23.213.162:8789/live/ania/ania/46640.m3u8
+#EXTINF:-1,Romania Tv
+http://185.23.213.162:8789/live/ania/ania/46639.m3u8
+#EXTINF:-1,Realtaea Tv
+http://185.23.213.162:8789/live/ania/ania/46638.m3u8
+#EXTINF:-1,Pro TV
+http://185.23.213.162:8789/live/ania/ania/46637.m3u8
 #EXTINF:-1,Pro Cinema
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48764.m3u8
-#EXTINF:-1,PRO 2
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48765.m3u8
-#EXTINF:-1,Prima TV RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48766.m3u8
-#EXTINF:-1,Paramount Channel Romania
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48767.m3u8
-#EXTINF:-1,NG Wild RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48768.m3u8
-#EXTINF:-1,National Geographic RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48769.m3u8
-#EXTINF:-1,Minimax RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48770.m3u8
-#EXTINF:-1,LookSport3 HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48771.m3u8
-#EXTINF:-1,LookSport2 HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48772.m3u8
+http://185.23.213.162:8789/live/ania/ania/46636.m3u8
+#EXTINF:-1,Prima Tv
+http://185.23.213.162:8789/live/ania/ania/46635.m3u8
+#EXTINF:-1,National Geographic
+http://185.23.213.162:8789/live/ania/ania/46634.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://185.23.213.162:8789/live/ania/ania/46633.m3u8
+#EXTINF:-1,Minimax
+http://185.23.213.162:8789/live/ania/ania/46632.m3u8
+#EXTINF:-1,Megamax
+http://185.23.213.162:8789/live/ania/ania/46631.m3u8
 #EXTINF:-1,Kanal D
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48774.m3u8
-#EXTINF:-1,HBO HD RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48775.m3u8
-#EXTINF:-1,HBO 3 RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48776.m3u8
-#EXTINF:-1,Happy Channel
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48777.m3u8
-#EXTINF:-1,FilmBox Premium RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48778.m3u8
-#EXTINF:-1,Film Cafe
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48779.m3u8
-#EXTINF:-1,Dolce Sport 4 HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48781.m3u8
-#EXTINF:-1,Dolce Sport 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48782.m3u8
-#EXTINF:-1,Dolce Sport 2 HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48783.m3u8
-#EXTINF:-1,Dolce Sport 1 HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48784.m3u8
-#EXTINF:-1,DocuBox
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48785.m3u8
-#EXTINF:-1,Diva Universal
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48786.m3u8
-#EXTINF:-1,Disney ROM
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48787.m3u8
-#EXTINF:-1,Discovery RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48788.m3u8
-#EXTINF:-1,DIGI WORLD RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48789.m3u8
-#EXTINF:-1,Digi Sport 4
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48790.m3u8
-#EXTINF:-1,DIGI Sport 3
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48791.m3u8
-#EXTINF:-1,Digi Sport 2 HD RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48792.m3u8
-#EXTINF:-1,Digi Sport 1 HD RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48793.m3u8
-#EXTINF:-1,DIGI Life RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48794.m3u8
-#EXTINF:-1,DIGI FILM
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48795.m3u8
-#EXTINF:-1,Cartoon Network RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48796.m3u8
-#EXTINF:-1,Bollywood TV
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48797.m3u8
-#EXTINF:-1,Antena Stars
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48798.m3u8
-#EXTINF:-1,Antena 1 HD
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48799.m3u8
-#EXTINF:-1,AMC RO
-http://mytvonline.nl:80/live/TcVGUwOeHI/ZY3bwwRToP/48800.m3u8
+http://185.23.213.162:8789/live/ania/ania/46630.m3u8
+#EXTINF:-1,History Channel
+http://185.23.213.162:8789/live/ania/ania/46629.m3u8
+#EXTINF:-1,HBO3
+http://185.23.213.162:8789/live/ania/ania/46628.m3u8
+#EXTINF:-1,|RO|Viasat.Nature
+http://185.23.213.162:8789/live/ania/ania/46645.m3u8
+#EXTINF:-1,Digi Life
+http://185.23.213.162:8789/live/ania/ania/46616.m3u8
