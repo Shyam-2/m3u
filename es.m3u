@@ -1,109 +1,205 @@
 #EXTM3U
-#EXTINF:-1,12TV
-http://185.118.188.58:8000/play/a035/index.m3u8
-#EXTINF:-1,24h
-http://185.118.188.58:8000/play/a015/index.m3u8
-#EXTINF:-1,7TV Andalucía
-http://185.118.188.58:8000/play/a031/index.m3u8
-#EXTINF:-1,8 Madrid
-http://185.118.188.58:8000/play/a030/index.m3u8
-#EXTINF:-1,8 Madrid Rep
-http://185.118.188.58:8000/play/a022/index.m3u8
-#EXTINF:-1,A punt HD
-http://185.118.188.58:8000/play/a039/index.m3u8
-#EXTINF:-1,Antena3 HD
-http://185.118.188.58:8000/play/a011/index.m3u8
-#EXTINF:-1,Aragon TV
-http://185.118.188.58:8000/play/a032/index.m3u8
-#EXTINF:-1,Atresseries HD
-http://185.118.188.58:8000/play/a001/index.m3u8
-#EXTINF:-1,BBC World
-http://185.118.188.58:8000/play/a042/index.m3u8
-#EXTINF:-1,BE MAD HD
-http://185.118.188.58:8000/play/a006/index.m3u8
-#EXTINF:-1,BarcaTV
-http://185.118.188.58:8000/play/a028/index.m3u8
-#EXTINF:-1,Bom
-http://185.118.188.58:8000/play/a009/index.m3u8
-#EXTINF:-1,CGTN
-http://185.118.188.58:8000/play/a018/index.m3u8
-#EXTINF:-1,CNBC Europe
-http://185.118.188.58:8000/play/a041/index.m3u8
-#EXTINF:-1,CNN int.
-http://185.118.188.58:8000/play/a040/index.m3u8
-#EXTINF:-1,Canal Extremadura
-http://185.118.188.58:8000/play/a027/index.m3u8
-#EXTINF:-1,Canal Sur 2
-http://185.118.188.58:8000/play/a026/index.m3u8
-#EXTINF:-1,Canal Sur HD
-http://185.118.188.58:8000/play/a025/index.m3u8
-#EXTINF:-1,Castilla La Mancha TV
-http://185.118.188.58:8000/play/a003/index.m3u8
-#EXTINF:-1,Clan HD
-http://185.118.188.58:8000/play/a044/index.m3u8
-#EXTINF:-1,Cuatro HD
-http://185.118.188.58:8000/play/a043/index.m3u8
-#EXTINF:-1,Cuatro HD
-http://185.118.188.58:8000/play/a012/index.m3u8
-#EXTINF:-1,D CAT
-http://185.118.188.58:8000/play/a016/index.m3u8
-#EXTINF:-1,Disney Channel
-http://185.118.188.58:8000/play/a054/index.m3u8
-#EXTINF:-1,Divinity
-http://185.118.188.58:8000/play/a050/index.m3u8
-#EXTINF:-1,Dkiss
-http://185.118.188.58:8000/play/a047/index.m3u8
-#EXTINF:-1,ESPORT 3
-http://185.118.188.58:8000/play/a024/index.m3u8
-#EXTINF:-1,El Sembrador
-http://185.118.188.58:8000/play/a004/index.m3u8
+#EXTINF:-1,LA 1 FHD
+http://185.23.213.162:8789/live/ania/ania/23174.m3u8
+#EXTINF:-1,LA 1 SD
+http://185.23.213.162:8789/live/ania/ania/23173.m3u8
+#EXTINF:-1,CLAN TVE
+http://185.23.213.162:8789/live/ania/ania/23172.m3u8
+#EXTINF:-1,LA 2 SD
+http://185.23.213.162:8789/live/ania/ania/23171.m3u8
+#EXTINF:-1,ANTENA 3 FHD
+http://185.23.213.162:8789/live/ania/ania/23170.m3u8
+#EXTINF:-1,ANTENA 3 SD
+http://185.23.213.162:8789/live/ania/ania/23169.m3u8
+#EXTINF:-1,CUATRO FHD
+http://185.23.213.162:8789/live/ania/ania/23168.m3u8
+#EXTINF:-1,CUATRO 
+http://185.23.213.162:8789/live/ania/ania/23167.m3u8
+#EXTINF:-1,TELECINCO HD
+http://185.23.213.162:8789/live/ania/ania/23166.m3u8
+#EXTINF:-1,TELECINCO
+http://185.23.213.162:8789/live/ania/ania/23165.m3u8
+#EXTINF:-1,LA SEXTA FHD
+http://185.23.213.162:8789/live/ania/ania/23164.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://185.23.213.162:8789/live/ania/ania/23163.m3u8
+#EXTINF:-1,LA SEXTA
+http://185.23.213.162:8789/live/ania/ania/23162.m3u8
+#EXTINF:-1,TV GALICIA
+http://185.23.213.162:8789/live/ania/ania/23161.m3u8
+#EXTINF:-1,CANAL ANDALUCIA
+http://185.23.213.162:8789/live/ania/ania/23160.m3u8
+#EXTINF:-1,TV3 CATALUNYA
+http://185.23.213.162:8789/live/ania/ania/23159.m3u8
+#EXTINF:-1,CANAL 24 HORAS
+http://185.23.213.162:8789/live/ania/ania/23157.m3u8
+#EXTINF:-1,FOX NEWS
+http://185.23.213.162:8789/live/ania/ania/23156.m3u8
+#EXTINF:-1,M DEPORTES 1 HD
+http://185.23.213.162:8789/live/ania/ania/14065.m3u8
+#EXTINF:-1,M DEPORTES 1
+http://185.23.213.162:8789/live/ania/ania/14066.m3u8
+#EXTINF:-1,M DEPORTES 2
+http://185.23.213.162:8789/live/ania/ania/14064.m3u8
+#EXTINF:-1,M DEPORTES 2 HD
+http://185.23.213.162:8789/live/ania/ania/14062.m3u8
+#EXTINF:-1,TOROS FHD
+http://185.23.213.162:8789/live/ania/ania/23154.m3u8
+#EXTINF:-1,M GOL TV
+http://185.23.213.162:8789/live/ania/ania/14082.m3u8
+#EXTINF:-1,M FÚTBOL FHD
+http://185.23.213.162:8789/live/ania/ania/14081.m3u8
+#EXTINF:-1,M FÚTBOL
+http://185.23.213.162:8789/live/ania/ania/14080.m3u8
+#EXTINF:-1,M TELEDEPORTE
+http://185.23.213.162:8789/live/ania/ania/14061.m3u8
+#EXTINF:-1,M beINSPORT HD
+http://185.23.213.162:8789/live/ania/ania/14076.m3u8
+#EXTINF:-1,M beINSPORTS
+http://185.23.213.162:8789/live/ania/ania/14077.m3u8
+#EXTINF:-1,M beIN LALIGA
+http://185.23.213.162:8789/live/ania/ania/14075.m3u8
+#EXTINF:-1,M beIN LALIGA FHD
+http://185.23.213.162:8789/live/ania/ania/14073.m3u8
+#EXTINF:-1,M LALIGA TV BAR
+http://185.23.213.162:8789/live/ania/ania/14072.m3u8
+#EXTINF:-1,M LALIGA TV Bar HD
+http://185.23.213.162:8789/live/ania/ania/14071.m3u8
+#EXTINF:-1,M REAL MADRID TV
+http://185.23.213.162:8789/live/ania/ania/14084.m3u8
+#EXTINF:-1,M BARCA TV
+http://185.23.213.162:8789/live/ania/ania/14085.m3u8
+#EXTINF:-1,M EUROSPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14060.m3u8
+#EXTINF:-1,M EUROSPORT 1
+http://185.23.213.162:8789/live/ania/ania/14059.m3u8
+#EXTINF:-1,M PARTIDAZO HD
+http://185.23.213.162:8789/live/ania/ania/14068.m3u8
+#EXTINF:-1,M PARTIDAZO
+http://185.23.213.162:8789/live/ania/ania/14069.m3u8
+#EXTINF:-1,M FORMULA 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14053.m3u8
+#EXTINF:-1,M FORMULA 1 HD
+http://185.23.213.162:8789/live/ania/ania/14052.m3u8
+#EXTINF:-1,M MOTOGP FHD
+http://185.23.213.162:8789/live/ania/ania/14051.m3u8
+#EXTINF:-1,M MOTOGP HD
+http://185.23.213.162:8789/live/ania/ania/14050.m3u8
+#EXTINF:-1,M GOLF HD
+http://185.23.213.162:8789/live/ania/ania/14057.m3u8
+#EXTINF:-1,M ESTRENOS FHD
+http://185.23.213.162:8789/live/ania/ania/23152.m3u8
+#EXTINF:-1,M ESTRENOS
+http://185.23.213.162:8789/live/ania/ania/23151.m3u8
+#EXTINF:-1,M XTRA HD
+http://185.23.213.162:8789/live/ania/ania/23150.m3u8
+#EXTINF:-1,M ACCION FHD
+http://185.23.213.162:8789/live/ania/ania/23149.m3u8
+#EXTINF:-1,M ACCION
+http://185.23.213.162:8789/live/ania/ania/23148.m3u8
+#EXTINF:-1,M COMEDIA HD
+http://185.23.213.162:8789/live/ania/ania/23147.m3u8
+#EXTINF:-1,M Comedia
+http://185.23.213.162:8789/live/ania/ania/23146.m3u8
+#EXTINF:-1,M DRAMA FHD
+http://185.23.213.162:8789/live/ania/ania/23145.m3u8
+#EXTINF:-1,LIFE TV
+http://185.23.213.162:8789/live/ania/ania/23144.m3u8
+#EXTINF:-1,M DRAMA
+http://185.23.213.162:8789/live/ania/ania/23143.m3u8
+#EXTINF:-1,M DCINE FHD
+http://185.23.213.162:8789/live/ania/ania/23142.m3u8
+#EXTINF:-1,M HOLLYWOOD HD
+http://185.23.213.162:8789/live/ania/ania/23141.m3u8
+#EXTINF:-1,TCM
+http://185.23.213.162:8789/live/ania/ania/23140.m3u8
+#EXTINF:-1,M TNT FHD
+http://185.23.213.162:8789/live/ania/ania/23139.m3u8
+#EXTINF:-1,M #0
+http://185.23.213.162:8789/live/ania/ania/23137.m3u8
+#EXTINF:-1,M SERIES FHD
+http://185.23.213.162:8789/live/ania/ania/23136.m3u8
+#EXTINF:-1,M SERIES XTRA HD
+http://185.23.213.162:8789/live/ania/ania/23135.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://185.23.213.162:8789/live/ania/ania/23134.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://185.23.213.162:8789/live/ania/ania/23133.m3u8
 #EXTINF:-1,FDF
-http://185.118.188.58:8000/play/a051/index.m3u8
-#EXTINF:-1,GolTV
-http://185.118.188.58:8000/play/a008/index.m3u8
-#EXTINF:-1,Hit TV
-http://185.118.188.58:8000/play/a002/index.m3u8
-#EXTINF:-1,La 1 HD
-http://185.118.188.58:8000/play/a010/index.m3u8
-#EXTINF:-1,La 2 HD
-http://185.118.188.58:8000/play/a052/index.m3u8
-#EXTINF:-1,La Sexta HD
-http://185.118.188.58:8000/play/a014/index.m3u8
-#EXTINF:-1,La otra
-http://185.118.188.58:8000/play/a021/index.m3u8
-#EXTINF:-1,Levante TV
-http://185.118.188.58:8000/play/a019/index.m3u8
-#EXTINF:-1,MAX
-http://185.118.188.58:8000/play/a037/index.m3u8
-#EXTINF:-1,Metropolitan
-http://185.118.188.58:8000/play/a034/index.m3u8
-#EXTINF:-1,Neox
-http://185.118.188.58:8000/play/a045/index.m3u8
-#EXTINF:-1,Noticias 3/24
-http://185.118.188.58:8000/play/a029/index.m3u8
-#EXTINF:-1,Nova
-http://185.118.188.58:8000/play/a046/index.m3u8
-#EXTINF:-1,Paramount
-http://185.118.188.58:8000/play/a038/index.m3u8
-#EXTINF:-1,RealMadrid TV
-http://185.118.188.58:8000/play/007/index.m3u8
-#EXTINF:-1,Super 3/33
-http://185.118.188.58:8000/play/a023/index.m3u8
-#EXTINF:-1,TEN
-http://185.118.188.58:8000/play/a049/index.m3u8
-#EXTINF:-1,TV Mediterraneo
-http://185.118.188.58:8000/play/a033/index.m3u8
-#EXTINF:-1,TV2
-http://185.118.188.58:8000/play/a036/index.m3u8
-#EXTINF:-1,TV3
-http://185.118.188.58:8000/play/a005/index.m3u8
-#EXTINF:-1,TV3 HD
-http://185.118.188.58:8000/play/a017/index.m3u8
-#EXTINF:-1,Telecinco HD
-http://185.118.188.58:8000/play/a013/index.m3u8
-#EXTINF:-1,Teledeporte HD
-http://185.118.188.58:8000/play/a048/index.m3u8
-#EXTINF:-1,Telemadrid HD
-http://185.118.188.58:8000/play/a020/index.m3u8
-#EXTINF:-1,Trece TV
-http://185.118.188.58:8000/play/a053/index.m3u8
+http://185.23.213.162:8789/live/ania/ania/23132.m3u8
+#EXTINF:-1,ATRESERIES
+http://185.23.213.162:8789/live/ania/ania/23131.m3u8
+#EXTINF:-1,FOX
+http://185.23.213.162:8789/live/ania/ania/23130.m3u8
+#EXTINF:-1,FOX LIFE FHD
+http://185.23.213.162:8789/live/ania/ania/23129.m3u8
+#EXTINF:-1,AMC FHD
+http://185.23.213.162:8789/live/ania/ania/23128.m3u8
+#EXTINF:-1,AMC
+http://185.23.213.162:8789/live/ania/ania/23127.m3u8
+#EXTINF:-1,M AXN FHD
+http://185.23.213.162:8789/live/ania/ania/23126.m3u8
+#EXTINF:-1,M AXN
+http://185.23.213.162:8789/live/ania/ania/23125.m3u8
+#EXTINF:-1,M AXN WHITE FHD
+http://185.23.213.162:8789/live/ania/ania/23124.m3u8
+#EXTINF:-1,M SYFY FHD
+http://185.23.213.162:8789/live/ania/ania/23123.m3u8
+#EXTINF:-1,M CALLE 13 FHD
+http://185.23.213.162:8789/live/ania/ania/23122.m3u8
+#EXTINF:-1,ENERGY
+http://185.23.213.162:8789/live/ania/ania/23121.m3u8
+#EXTINF:-1, COSMO FHD
+http://185.23.213.162:8789/live/ania/ania/23120.m3u8
+#EXTINF:-1,MEGA TV HD
+http://185.23.213.162:8789/live/ania/ania/23119.m3u8
+#EXTINF:-1,M DECASA
+http://185.23.213.162:8789/live/ania/ania/23118.m3u8
+#EXTINF:-1,M NON STOP PEOPLE
+http://185.23.213.162:8789/live/ania/ania/23117.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://185.23.213.162:8789/live/ania/ania/23115.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC FHD
+http://185.23.213.162:8789/live/ania/ania/23114.m3u8
+#EXTINF:-1,NAT GEO WILD FHD
+http://185.23.213.162:8789/live/ania/ania/23113.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://185.23.213.162:8789/live/ania/ania/23112.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://185.23.213.162:8789/live/ania/ania/23110.m3u8
+#EXTINF:-1,HISTORIA
+http://185.23.213.162:8789/live/ania/ania/23109.m3u8
+#EXTINF:-1,A&E
+http://185.23.213.162:8789/live/ania/ania/23108.m3u8
+#EXTINF:-1,CAZA Y PESCA FHD
+http://185.23.213.162:8789/live/ania/ania/23107.m3u8
+#EXTINF:-1,IBERALIA TV
+http://185.23.213.162:8789/live/ania/ania/23106.m3u8
+#EXTINF:-1,VIAJAR FHD
+http://185.23.213.162:8789/live/ania/ania/23105.m3u8
+#EXTINF:-1,CANAL COCINA
+http://185.23.213.162:8789/live/ania/ania/23104.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://185.23.213.162:8789/live/ania/ania/23102.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://185.23.213.162:8789/live/ania/ania/23101.m3u8
+#EXTINF:-1,NICK JR
+http://185.23.213.162:8789/live/ania/ania/23100.m3u8
+#EXTINF:-1,DISNEY XD
+http://185.23.213.162:8789/live/ania/ania/23099.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://185.23.213.162:8789/live/ania/ania/23098.m3u8
+#EXTINF:-1,DISNEY  JUNIOR
+http://185.23.213.162:8789/live/ania/ania/23097.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://185.23.213.162:8789/live/ania/ania/23096.m3u8
+#EXTINF:-1,CANAL PANDA
+http://185.23.213.162:8789/live/ania/ania/23095.m3u8
+#EXTINF:-1,BOING 
+http://185.23.213.162:8789/live/ania/ania/23094.m3u8
+#EXTINF:-1,BABY ESP
+http://185.23.213.162:8789/live/ania/ania/23093.m3u8
+#EXTINF:-1,TAQUILLA 8
+http://185.23.213.162:8789/live/ania/ania/23084.m3u8
+#EXTINF:-1,TAQUILLA 9
+http://185.23.213.162:8789/live/ania/ania/23083.m3u8
