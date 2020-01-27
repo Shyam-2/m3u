@@ -1,421 +1,538 @@
-#EXTM3U
-#EXTINF:-1,Das Erste FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22238.m3u8
-#EXTINF:-1,Das Erste HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7011.m3u8
-#EXTINF:-1,ZDF FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22237.m3u8
-#EXTINF:-1,ZDF HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1122.m3u8
-#EXTINF:-1,WDR HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1123.m3u8
-#EXTINF:-1,RTL 1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20665.m3u8
-#EXTINF:-1,RTL 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1126.m3u8
-#EXTINF:-1,SAT 1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20666.m3u8
-#EXTINF:-1,SAT 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1125.m3u8
-#EXTINF:-1,Prosieben FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20663.m3u8
-#EXTINF:-1,Prosieben HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1128.m3u8
-#EXTINF:-1,RTL 2 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20664.m3u8
-#EXTINF:-1,RTL 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1127.m3u8
-#EXTINF:-1,VOX FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20674.m3u8
-#EXTINF:-1,VOX HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1124.m3u8
-#EXTINF:-1,Kabel Eins FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22708.m3u8
-#EXTINF:-1,Kabel Eins HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1132.m3u8
-#EXTINF:-1,SUPER RTL FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20671.m3u8
-#EXTINF:-1,Super RTL HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7002.m3u8
-#EXTINF:-1,KIKA HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7004.m3u8
-#EXTINF:-1,RTL plus HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7003.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6987.m3u8
-#EXTINF:-1,RTL Crime FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20687.m3u8
-#EXTINF:-1,RTL Crime HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/2627.m3u8
-#EXTINF:-1,RTL Passion FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22712.m3u8
-#EXTINF:-1,RTL Passion HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/2626.m3u8
-#EXTINF:-1,SAT 1 Gold HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6990.m3u8
-#EXTINF:-1,Prosieben Fun FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22714.m3u8
-#EXTINF:-1,Prosieben Fun HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6986.m3u8
-#EXTINF:-1,ZDF Neo HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6997.m3u8
-#EXTINF:-1,ZDF Info HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6998.m3u8
-#EXTINF:-1,FOX FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20659.m3u8
-#EXTINF:-1,FOX HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1133.m3u8
-#EXTINF:-1,13th Street FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20657.m3u8
+#EXTINF:-1,13THE STRET
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46404.m3u8
+#EXTINF:-1,3 SAT
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46448.m3u8
+#EXTINF:-1,A & E
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46379.m3u8
+#EXTINF:-1,ALPHA
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46424.m3u8
+#EXTINF:-1,ARD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46468.m3u8
+#EXTINF:-1,ARTE
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46436.m3u8
+#EXTINF:-1,AXN
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46412.m3u8
+#EXTINF:-1,BABY TV*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46411.m3u8
+#EXTINF:-1,BAYERISCHE FERNSEHEN
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46428.m3u8
+#EXTINF:-1,BLIZZ TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46413.m3u8
+#EXTINF:-1,D MAXX
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46427.m3u8
+#EXTINF:-1,DER AKTIONï¿½R TV*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46420.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46409.m3u8
+#EXTINF:-1,DISNEY XD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46408.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46426.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46425.m3u8
+#EXTINF:-1,FAMILY TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46415.m3u8
+#EXTINF:-1,History
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46407.m3u8
+#EXTINF:-1,HR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46429.m3u8
+#EXTINF:-1,KABEL 1 CLASSICS
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46443.m3u8
+#EXTINF:-1,KABEL 1 DOKU*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46459.m3u8
+#EXTINF:-1,KABEL 1
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46460.m3u8
+#EXTINF:-1,KIKA
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46451.m3u8
+#EXTINF:-1,KINO WELT
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46406.m3u8
+#EXTINF:-1,Mï¿½NCHEN TV*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46423.m3u8
+#EXTINF:-1,N24
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46457.m3u8
+#EXTINF:-1,NATGEO
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46405.m3u8
+#EXTINF:-1,NDR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46447.m3u8
+#EXTINF:-1,NOA 4
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46416.m3u8
+#EXTINF:-1,NTV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46458.m3u8
+#EXTINF:-1,ONE
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46452.m3u8
+#EXTINF:-1,ORF 1HD*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46440.m3u8
+#EXTINF:-1,ORF 2
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46439.m3u8
+#EXTINF:-1,PERL TV*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46419.m3u8
+#EXTINF:-1,PHOENIX*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46422.m3u8
+#EXTINF:-1,PRO 7 FUN
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46455.m3u8
+#EXTINF:-1,PRO 7
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46461.m3u8
+#EXTINF:-1,PRO 7 MAXX*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46454.m3u8
+#EXTINF:-1,RBB BERLIN*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46410.m3u8
+#EXTINF:-1,ROMANCE TV*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46380.m3u8
+#EXTINF:-1,RTL 2
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46462.m3u8
+#EXTINF:-1,RTL CRIME
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46432.m3u8
+#EXTINF:-1,RTL
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46465.m3u8
+#EXTINF:-1,RTL LIVING
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46403.m3u8
+#EXTINF:-1,RTL NITRO
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46433.m3u8
+#EXTINF:-1,RTL Passion
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46446.m3u8
+#EXTINF:-1,RTL PLUS
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46453.m3u8
+#EXTINF:-1,SAT 1 EMOTION*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46434.m3u8
+#EXTINF:-1,SAT 1
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46464.m3u8
+#EXTINF:-1,SAT1 GOLD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46438.m3u8
+#EXTINF:-1,SIXX
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46437.m3u8
+#EXTINF:-1,SKY 1
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46402.m3u8
+#EXTINF:-1,SKY ATLANTIC
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46401.m3u8
+#EXTINF:-1,SKY CINEMA  24
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46400.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46399.m3u8
+#EXTINF:-1,SKY CINEMA
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46398.m3u8
+#EXTINF:-1,SKY CINEMAGIC
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46397.m3u8
+#EXTINF:-1,SKY COMEDY
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46396.m3u8
+#EXTINF:-1,SKY DISCOVERY
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46395.m3u8
+#EXTINF:-1,SKY DISNEY JUNIOR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46394.m3u8
+#EXTINF:-1,SKY EMOTION
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46393.m3u8
+#EXTINF:-1,SKY FOX
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46392.m3u8
+#EXTINF:-1,SKY HITS
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46391.m3u8
+#EXTINF:-1,SKY KRIMI*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46390.m3u8
+#EXTINF:-1,SKY NATGEO WILD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46389.m3u8
+#EXTINF:-1,SONNENKLAR TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46417.m3u8
+#EXTINF:-1,SONY TV HD (D)*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46388.m3u8
+#EXTINF:-1,SPIEGEL GESCHIHCHTE*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46387.m3u8
+#EXTINF:-1,SPORT 1
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46442.m3u8
+#EXTINF:-1,SR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46449.m3u8
+#EXTINF:-1,SUPER RTL
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46444.m3u8
+#EXTINF:-1,SWR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46435.m3u8
+#EXTINF:-1,SYFY
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46386.m3u8
+#EXTINF:-1,TAGESSCHAU
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46456.m3u8
+#EXTINF:-1,TELE 5
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46445.m3u8
+#EXTINF:-1,TLC
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46385.m3u8
+#EXTINF:-1,TNT COMEDY
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46384.m3u8
+#EXTINF:-1,TNT FILM
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46383.m3u8
+#EXTINF:-1,TNT SERIEN*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46382.m3u8
+#EXTINF:-1,TOGO PLUS*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46450.m3u8
+#EXTINF:-1,Universal
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46381.m3u8
+#EXTINF:-1,VOX
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46463.m3u8
+#EXTINF:-1,WDR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46441.m3u8
+#EXTINF:-1,WELT DER WUNDER
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46421.m3u8
+#EXTINF:-1,WELT TV*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46414.m3u8
+#EXTINF:-1,ZDF
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46466.m3u8
+#EXTINF:-1,ZDF INFO
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46430.m3u8
+#EXTINF:-1,ZDF NEO
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46431.m3u8
+#EXTINF:-1,ZDF-HD*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46467.m3u8
+#EXTINF:-1,ZEE ONE HD DE*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46418.m3u8
+#EXTINF:-1,SKY SELECT 1 HD ( ( RAMPAGE ) )*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46474.m3u8
+#EXTINF:-1,SKY SELECT 2 HD (( SOLO: A STAR WARS  STORY ) )*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46473.m3u8
+#EXTINF:-1,SKY SELECT 3 HD ( (AVENGERS 3  ) )*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46472.m3u8
+#EXTINF:-1,SKY SELECT 4 HD   ( (READY PLAYER ) )*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46471.m3u8
+#EXTINF:-1,SKY SELECT 5 HD ( ( DEADPOOL 2 ) )*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46470.m3u8
+#EXTINF:-1,SKY SELECT 6 HD ( ( JURASSIC WORLD  ) )*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46469.m3u8
+#EXTINF:-1,SKY WESTERN*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/46475.m3u8
+#EXTINF:-1,A&E DE-
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32026.m3u8
+#EXTINF:-1,3sat HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32027.m3u8
 #EXTINF:-1,13th Street HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1135.m3u8
-#EXTINF:-1,SYFY FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20672.m3u8
-#EXTINF:-1,SYFY HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3696.m3u8
-#EXTINF:-1,Sat 3 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6992.m3u8
-#EXTINF:-1,Phoenix HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7000.m3u8
-#EXTINF:-1,N24 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4801.m3u8
-#EXTINF:-1,N24 Doku HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22600.m3u8
-#EXTINF:-1,AXN HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/2625.m3u8
-#EXTINF:-1,SIXX FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20667.m3u8
-#EXTINF:-1,SIXX HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1234.m3u8
-#EXTINF:-1,Deluxe Music HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7016.m3u8
-#EXTINF:-1,Kabel Eins Doku HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6984.m3u8
-#EXTINF:-1,Prosieben Maxx HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6985.m3u8
-#EXTINF:-1,N-TV FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20660.m3u8
-#EXTINF:-1,N-TV HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4802.m3u8
-#EXTINF:-1,NDR HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1131.m3u8
-#EXTINF:-1,Servus HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7012.m3u8
-#EXTINF:-1,DMAX FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22715.m3u8
-#EXTINF:-1,DMAX HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6991.m3u8
-#EXTINF:-1,SRF 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6996.m3u8
-#EXTINF:-1,ORF 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1129.m3u8
-#EXTINF:-1,ORF 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1130.m3u8
-#EXTINF:-1,Arte HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1134.m3u8
-#EXTINF:-1,Tele 5 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7013.m3u8
-#EXTINF:-1,MTV FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20680.m3u8
-#EXTINF:-1,RBB Berlin HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20681.m3u8
-#EXTINF:-1,Universal TV HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20851.m3u8
-#EXTINF:-1,Welt Der Wunter HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20854.m3u8
-#EXTINF:-1,Comedy Central HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20852.m3u8
-#EXTINF:-1,Heimatkanal HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7001.m3u8
-#EXTINF:-1,MDR S-Anhalt FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20679.m3u8
-#EXTINF:-1,Romance TV
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22750.m3u8
-#EXTINF:-1,E! Entertainment FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20677.m3u8
-#EXTINF:-1,E! entertainement HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22323.m3u8
-#EXTINF:-1,Euronews HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1402.m3u8
-#EXTINF:-1,Universal FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20694.m3u8
-#EXTINF:-1,Unniversal HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6993.m3u8
-#EXTINF:-1,Spiegel Geschichte HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22727.m3u8
-#EXTINF:-1,Spiegel Wissen HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22728.m3u8
-#EXTINF:-1,Boomerang HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6994.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7006.m3u8
-#EXTINF:-1,Disney XD HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1237.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22718.m3u8
-#EXTINF:-1,Disney Channel HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7005.m3u8
-#EXTINF:-1,Disney Junior HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1238.m3u8
-#EXTINF:-1,Disney Cinemagic FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20658.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1236.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7007.m3u8
-#EXTINF:-1,TLC HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8927.m3u8
-#EXTINF:-1,Planet HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7010.m3u8
-#EXTINF:-1,HISTORY FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20678.m3u8
-#EXTINF:-1,History HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1232.m3u8
-#EXTINF:-1,DISCOVERY FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20676.m3u8
-#EXTINF:-1,Discovery HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1121.m3u8
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32028.m3u8
 #EXTINF:-1,Animal Planet HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7009.m3u8
-#EXTINF:-1,Crime Investigation HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/37478.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20661.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1119.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20662.m3u8
-#EXTINF:-1,Nat Geographic HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7008.m3u8
-#EXTINF:-1,*****DEUTSCHE KINO*****
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8925.m3u8
-#EXTINF:-1,Classica HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8935.m3u8
-#EXTINF:-1,ZEE ONE FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20686.m3u8
-#EXTINF:-1,Zee One HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8928.m3u8
-#EXTINF:-1,TNT Film HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1231.m3u8
-#EXTINF:-1,TNT SERIES FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20673.m3u8
-#EXTINF:-1,TNT Series HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1230.m3u8
-#EXTINF:-1,TNT COMEDY FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20685.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8930.m3u8
-#EXTINF:-1,SKY 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8932.m3u8
-#EXTINF:-1,SKY 1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20688.m3u8
-#EXTINF:-1,Sky Krimi SD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35714.m3u8
-#EXTINF:-1,SKY Krimi HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8931.m3u8
-#EXTINF:-1,SKY Cinema Action FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20668.m3u8
-#EXTINF:-1,SKY Cinema Action HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1229.m3u8
-#EXTINF:-1,SKY Cinema HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3713.m3u8
-#EXTINF:-1,SKY Cinema FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20669.m3u8
-#EXTINF:-1,SKY Cinema Comedy HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8936.m3u8
-#EXTINF:-1,Sky Cinema Emotion SD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35710.m3u8
-#EXTINF:-1,SKY Emotion HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3710.m3u8
-#EXTINF:-1,Sky Cinema Atlantic FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20682.m3u8
-#EXTINF:-1,SKY Cinema Atlantic HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1228.m3u8
-#EXTINF:-1,Sky Cinema +1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1227.m3u8
-#EXTINF:-1,SKY CINEMA +1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20690.m3u8
-#EXTINF:-1,Sky Cinema +24 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3712.m3u8
-#EXTINF:-1,SKY CINEMA +24 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20691.m3u8
-#EXTINF:-1,SKY Cinema Nostalgie HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8934.m3u8
-#EXTINF:-1,SKY Cinema Hits HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8933.m3u8
-#EXTINF:-1,Sky Cinema Hits FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20670.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35711.m3u8
-#EXTINF:-1,SKY Cinema Trierch HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8937.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20692.m3u8
-#EXTINF:-1,KINO HITS (2019) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62424.m3u8
-#EXTINF:-1,KINO WELT (Action) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62425.m3u8
-#EXTINF:-1,KINO WELT (Drama) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62426.m3u8
-#EXTINF:-1,KINO WELT (Science-Fiction) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62427.m3u8
-#EXTINF:-1,KINO WELT (Animation) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62428.m3u8
-#EXTINF:-1,KINO WELT (Familie) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62429.m3u8
-#EXTINF:-1,KINO WELT (Krimi) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62430.m3u8
-#EXTINF:-1,KINO WELT (Comedy) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62431.m3u8
-#EXTINF:-1,KINO WELT (Horror) HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/62432.m3u8
-#EXTINF:-1,SKY Select 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3701.m3u8
-#EXTINF:-1,SKY Select 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3702.m3u8
-#EXTINF:-1,SKY Select 3 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3703.m3u8
-#EXTINF:-1,SKY Select 4 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3704.m3u8
-#EXTINF:-1,SKY Select 5 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3705.m3u8
-#EXTINF:-1,SKY Select 6 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3706.m3u8
-#EXTINF:-1,SKY Select 7 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4763.m3u8
-#EXTINF:-1,SKY Select 8 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4764.m3u8
-#EXTINF:-1,SKY Select 9 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4765.m3u8
-#EXTINF:-1,SKY Select 10 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4766.m3u8
-#EXTINF:-1,*****DEUTSCHE SPORT*****
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8926.m3u8
-#EXTINF:-1,SPORT 1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20684.m3u8
-#EXTINF:-1,Sport 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7190.m3u8
-#EXTINF:-1,Sport 1 + HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20856.m3u8
-#EXTINF:-1,Sport Digital FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22729.m3u8
-#EXTINF:-1,Sport Digital HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20855.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35588.m3u8
-#EXTINF:-1,DAZN 1 Bar FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22499.m3u8
-#EXTINF:-1,DAZN 1 BAR UHD 2K
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/56832.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35589.m3u8
-#EXTINF:-1,DAZN 2 Bar FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22500.m3u8
-#EXTINF:-1,DAZN 2 BAR UHD 2K
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/56833.m3u8
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32022.m3u8
+#EXTINF:-1,ANIXE HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32023.m3u8
+#EXTINF:-1,ARD Alpha
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32025.m3u8
+#EXTINF:-1,arte
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32021.m3u8
+#EXTINF:-1,Astro TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32020.m3u8
+#EXTINF:-1,Augsburg TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32019.m3u8
+#EXTINF:-1,AXN HD DE*e**
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32024.m3u8
+#EXTINF:-1,Baby TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32017.m3u8
+#EXTINF:-1,Boomerang
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32016.m3u8
+#EXTINF:-1,Boomerang SD 
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32015.m3u8
+#EXTINF:-1,BR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32018.m3u8
+#EXTINF:-1,CINE FILM CLUB 1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32014.m3u8
+#EXTINF:-1,CINE FILM CLUB 2 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32013.m3u8
+#EXTINF:-1,CINE FILM CLUB 3 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32012.m3u8
+#EXTINF:-1,CINE FILM CLUB 4 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32011.m3u8
+#EXTINF:-1,CINE FILM CLUB 5 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32010.m3u8
+#EXTINF:-1,Das Erste
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32008.m3u8
+#EXTINF:-1,Dein Film Palast Info HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32007.m3u8
+#EXTINF:-1,Deluxe Music
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32006.m3u8
+#EXTINF:-1,Deutsches Musik Fernsehen DE*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32005.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32004.m3u8
+#EXTINF:-1,Disney Channel
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32003.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32002.m3u8
+#EXTINF:-1,Disney Junior HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32001.m3u8
+#EXTINF:-1,Disney XD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32000.m3u8
+#EXTINF:-1,DMAX HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/32009.m3u8
+#EXTINF:-1,E!
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31999.m3u8
+#EXTINF:-1,erzTV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31982.m3u8
 #EXTINF:-1,Eurosport 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7189.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7490.m3u8
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31998.m3u8
+#EXTINF:-1,Eurosport 2
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31997.m3u8
 #EXTINF:-1,Eurosport 2 Xtra HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7702.m3u8
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35942.m3u8
-#EXTINF:-1,Motor Vision HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35619.m3u8
-#EXTINF:-1,Auto Moto Sport FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20853.m3u8
-#EXTINF:-1,Sky Sport Austria HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7717.m3u8
-#EXTINF:-1,Sky Sport Austria FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35715.m3u8
-#EXTINF:-1,Sky Sport Austria 2 HD DE (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/37854.m3u8
-#EXTINF:-1,Sky Sport Austria 2 FHD DE (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/37849.m3u8
-#EXTINF:-1,Sky Sport Austria 3 HD DE (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/37850.m3u8
-#EXTINF:-1,Sky Sport Austria 4 HD DE (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/37855.m3u8
-#EXTINF:-1,SKY SPORT NEWS FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20683.m3u8
-#EXTINF:-1,SKY Sport News HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1028.m3u8
-#EXTINF:-1,Sky Sport 1 SD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/21097.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7176.m3u8
-#EXTINF:-1,Sky Sport 1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/3697.m3u8
-#EXTINF:-1,Sky Sport 1 UHD 2K
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/56830.m3u8
-#EXTINF:-1,Sky Sport 2 SD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/21098.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7177.m3u8
-#EXTINF:-1,Sky Sport 2 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1027.m3u8
-#EXTINF:-1,Sky Sport 2 UHD 2K
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/56831.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/9105.m3u8
-#EXTINF:-1,Sky Sport 3 FHD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22563.m3u8
-#EXTINF:-1,Sky Sport 4 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8779.m3u8
-#EXTINF:-1,Sky Sport 5 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8780.m3u8
-#EXTINF:-1,Sky Sport 6 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8781.m3u8
-#EXTINF:-1,Sky Sport 7 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8782.m3u8
-#EXTINF:-1,Sky Sport 8 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8783.m3u8
-#EXTINF:-1,Sky Sport 9 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8784.m3u8
-#EXTINF:-1,Sky Sport 10 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/8785.m3u8
-#EXTINF:-1,Sky Bundesliga 1 SD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/7174.m3u8
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1031.m3u8
-#EXTINF:-1,Sky Bundesliga 1 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20862.m3u8
-#EXTINF:-1,Sky Bundesliga 1 UHD 2K
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/56829.m3u8
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1032.m3u8
-#EXTINF:-1,Sky Bundesliga 2 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/20863.m3u8
-#EXTINF:-1,Sky Bundesliga 3 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1030.m3u8
-#EXTINF:-1,Sky Bundesliga 3 FHD (LiveEvent)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22601.m3u8
-#EXTINF:-1,Sky Bundesliga 4 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1039.m3u8
-#EXTINF:-1,Sky Bundesliga 4 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22607.m3u8
-#EXTINF:-1,Sky Bundesliga 5 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1040.m3u8
-#EXTINF:-1,Sky Bundesliga 5 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22606.m3u8
-#EXTINF:-1,Sky Bundesliga 6 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4308.m3u8
-#EXTINF:-1,Sky Bundesliga 6 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/22605.m3u8
-#EXTINF:-1,Sky Bundesliga 7 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4309.m3u8
-#EXTINF:-1,Sky Bundesliga 7 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35721.m3u8
-#EXTINF:-1,Sky Bundesliga 8 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4310.m3u8
-#EXTINF:-1,Sky Bundesliga 8 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35723.m3u8
-#EXTINF:-1,Sky Bundesliga 9 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4311.m3u8
-#EXTINF:-1,Sky Bundesliga 9 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35725.m3u8
-#EXTINF:-1,Sky Bundesliga 10 HD (Live Event)
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4312.m3u8
-#EXTINF:-1,Sky Bundesliga 10 FHD
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/35727.m3u8
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31996.m3u8
+#EXTINF:-1,FC Bayern TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31995.m3u8
+#EXTINF:-1,Film Palast 1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31994.m3u8
+#EXTINF:-1,FOX HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31993.m3u8
+#EXTINF:-1,Heimatikanal
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31989.m3u8
+#EXTINF:-1,History HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31988.m3u8
+#EXTINF:-1,HR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31990.m3u8
+#EXTINF:-1,Jukebox
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31987.m3u8
+#EXTINF:-1,Junior
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31986.m3u8
+#EXTINF:-1,kabel eins CLASSICS HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31984.m3u8
+#EXTINF:-1,kabel eins Doku
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31983.m3u8
+#EXTINF:-1,kabel eins HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31985.m3u8
+#EXTINF:-1,KiKa
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31981.m3u8
+#EXTINF:-1,KinoweltTV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31980.m3u8
+#EXTINF:-1,MDR HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31979.m3u8
+#EXTINF:-1,MediaShop
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31992.m3u8
+#EXTINF:-1,Motorvision TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31972.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31978.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31977.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31976.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31975.m3u8
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31974.m3u8
+#EXTINF:-1,MTV Dance
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31973.m3u8
+#EXTINF:-1,n-tv HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31964.m3u8
+#EXTINF:-1,N24 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31971.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31966.m3u8
+#EXTINF:-1,National Geographic
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31968.m3u8
+#EXTINF:-1,National Geographic HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31967.m3u8
+#EXTINF:-1,NDR HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31969.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31965.m3u8
+#EXTINF:-1,ORF 2 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31962.m3u8
+#EXTINF:-1,ORF eins HD DE*
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31963.m3u8
+#EXTINF:-1,Phoenix HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31961.m3u8
+#EXTINF:-1,ProSieben
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31960.m3u8
+#EXTINF:-1,ProSieben HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31959.m3u8
+#EXTINF:-1,ProSieben MAXX HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31958.m3u8
+#EXTINF:-1,QVC Beauty & Style
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31956.m3u8
+#EXTINF:-1,QVC
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31957.m3u8
+#EXTINF:-1,rbb
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31955.m3u8
+#EXTINF:-1,rbb HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31954.m3u8
+#EXTINF:-1,RiC
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31953.m3u8
+#EXTINF:-1,Romance TV
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31944.m3u8
+#EXTINF:-1,RTL Crime
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31949.m3u8
+#EXTINF:-1,RTL
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31952.m3u8
+#EXTINF:-1,RTL II
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31951.m3u8
+#EXTINF:-1,RTL II HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31950.m3u8
+#EXTINF:-1,RTL Living HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31948.m3u8
+#EXTINF:-1,RTL Nitro HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31947.m3u8
+#EXTINF:-1,RTL Passion
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31946.m3u8
+#EXTINF:-1,RTL plus
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31945.m3u8
+#EXTINF:-1,Sat.1 Bayern
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31943.m3u8
+#EXTINF:-1,SAT.1 emotions
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31940.m3u8
+#EXTINF:-1,SAT.1 GOLD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31941.m3u8
+#EXTINF:-1,SAT.1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31942.m3u8
+#EXTINF:-1,Servus TV HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31939.m3u8
+#EXTINF:-1,Silverline Movie Channel HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31938.m3u8
+#EXTINF:-1,SIXX HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31937.m3u8
+#EXTINF:-1,Sky Arts
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31936.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31935.m3u8
+#EXTINF:-1,Sky Cinema  1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31933.m3u8
+#EXTINF:-1,Sky Cinema  24 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31932.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31931.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31930.m3u8
+#EXTINF:-1,Sky Cinema Emotion
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31929.m3u8
+#EXTINF:-1,Sky Cinema Emotion HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31928.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31927.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31934.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31926.m3u8
+#EXTINF:-1,Sky Cinema Nostalgie
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31925.m3u8
+#EXTINF:-1,Sky Krimi
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31924.m3u8
+#EXTINF:-1,Sky Popcorn Select 1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31923.m3u8
+#EXTINF:-1,Sky Popcorn Select 2 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31922.m3u8
+#EXTINF:-1,Sky Popcorn Select 3 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31921.m3u8
+#EXTINF:-1,Sky Popcorn Select 4 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31920.m3u8
+#EXTINF:-1,Sky Popcorn Select 5 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31919.m3u8
+#EXTINF:-1,Sky Popcorn Select 6 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31918.m3u8
+#EXTINF:-1,SKY SELECT 1
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31917.m3u8
+#EXTINF:-1,SKY SELECT 1 FHD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31915.m3u8
+#EXTINF:-1,Sky Select 1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31916.m3u8
+#EXTINF:-1,SKY SELECT 2
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31914.m3u8
+#EXTINF:-1,SKY SELECT 2 FHD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31912.m3u8
+#EXTINF:-1,Sky Select 2 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31913.m3u8
+#EXTINF:-1,SKY SELECT 3
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31911.m3u8
+#EXTINF:-1,SKY SELECT 3 FHD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31909.m3u8
+#EXTINF:-1,Sky Select 3 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31910.m3u8
+#EXTINF:-1,SKY SELECT 4
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31908.m3u8
+#EXTINF:-1,SKY SELECT 4 FHD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31906.m3u8
+#EXTINF:-1,Sky Select 4 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31907.m3u8
+#EXTINF:-1,SKY SELECT 5
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31905.m3u8
+#EXTINF:-1,SKY SELECT 5 FHD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31903.m3u8
+#EXTINF:-1,Sky Select 5 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31904.m3u8
+#EXTINF:-1,SKY SELECT 6
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31902.m3u8
+#EXTINF:-1,Sky Select 6 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31901.m3u8
+#EXTINF:-1,Sky Select 7 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31900.m3u8
+#EXTINF:-1,Sky Select 8 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31899.m3u8
+#EXTINF:-1,S*ky-Sp*0rt-1-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31898.m3u8
+#EXTINF:-1,S*ky-Sp*0rt-2-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31897.m3u8
+#EXTINF:-1,S*ky-Sp*0rt-3-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31896.m3u8
+#EXTINF:-1,S*ky-Sp*0rt-4-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31895.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-5-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31894.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-6-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31893.m3u8
+#EXTINF:-1,S*ky-Sp*0rt-7-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31892.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-8-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31891.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-9-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31890.m3u8
+#EXTINF:-1,GERMANY: S*ky-Sp*0rts-Aus*tria-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19965.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Austria-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31889.m3u8
+#EXTINF:-1,S*ky-Sp*0rts Bun*desl*iga-1-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31888.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Bun*desli*ga-2-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31887.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Bun*des*liga-3-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31886.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Bun*des*liga-4-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31885.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Bun*des*liga-5-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31884.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Bun*des*liga-6-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31883.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-News-HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31882.m3u8
+#EXTINF:-1,Sony TV HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31881.m3u8
+#EXTINF:-1,SPIEGEL Geschichte
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31880.m3u8
+#EXTINF:-1,Spiegel TV Wissen HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31879.m3u8
+#EXTINF:-1,Sport1 HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31878.m3u8
+#EXTINF:-1,SportDigital HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31877.m3u8
+#EXTINF:-1,SWR
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31876.m3u8
+#EXTINF:-1,SWR HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31875.m3u8
+#EXTINF:-1,Syfy
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31874.m3u8
+#EXTINF:-1,Tagesschau 24
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31865.m3u8
+#EXTINF:-1,TELE 5
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31873.m3u8
+#EXTINF:-1,TLC
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31872.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31871.m3u8
+#EXTINF:-1,TNT Film HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31870.m3u8
+#EXTINF:-1,TNT Serie HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31869.m3u8
+#EXTINF:-1,TOGGO plus
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31868.m3u8
+#EXTINF:-1,TOGGO plus von Super RTL
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31867.m3u8
+#EXTINF:-1,Universal Channel HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31864.m3u8
+#EXTINF:-1,VIVA / Comedy Central
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31863.m3u8
+#EXTINF:-1,VOX
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31862.m3u8
+#EXTINF:-1,WDR HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31861.m3u8
+#EXTINF:-1,Welt der Wunder
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31859.m3u8
+#EXTINF:-1,WWE
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31860.m3u8
+#EXTINF:-1,ZDF FHD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31858.m3u8
+#EXTINF:-1,ZDFinfo
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31857.m3u8
+#EXTINF:-1,ZDFneo
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31856.m3u8
+#EXTINF:-1,Zee One HD
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/31855.m3u8
