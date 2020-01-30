@@ -1,109 +1,325 @@
 #EXTM3U
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,Class TV Moda
-http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
-#EXTINF:-1,Cremona 1
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,eTV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1,Fano TV
-http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,La 7 [Geo]
-http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:-1,m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Napoli Canale 21
-http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
-#EXTINF:-1,Napoli Canale 21*
-http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
-#EXTINF:-1,Orler TV
-http://77.92.76.135:1935/orler/livestream/live.m3u8
-#EXTINF:-1,OttoFM TV
-http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:-1,Alice
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30734.m3u8
+#EXTINF:-1,Animal Planet
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30733.m3u8
+#EXTINF:-1,Antenna Sicilia
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30732.m3u8
+#EXTINF:-1,AutoMoto TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30731.m3u8
+#EXTINF:-1,AXN HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30730.m3u8
+#EXTINF:-1,Baby TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30729.m3u8
+#EXTINF:-1,Bike Channel HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30728.m3u8
+#EXTINF:-1,Boing
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30727.m3u8
+#EXTINF:-1,Caccia e Pesca
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30726.m3u8
+#EXTINF:-1,Canale 5 FHD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30721.m3u8
+#EXTINF:-1,Canale 5 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30722.m3u8
+#EXTINF:-1,Canale 5
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30723.m3u8
+#EXTINF:-1,Canale 8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30720.m3u8
+#EXTINF:-1,Cartoon Network
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30724.m3u8
+#EXTINF:-1,Cartoonito
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30725.m3u8
+#EXTINF:-1,Cielo HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30719.m3u8
+#EXTINF:-1,Class Horse TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30718.m3u8
+#EXTINF:-1,Crime Investigation HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30717.m3u8
+#EXTINF:-1,DeeJay TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30716.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30715.m3u8
+#EXTINF:-1,Discovery Science HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30714.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30713.m3u8
+#EXTINF:-1,Disney Channel HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30712.m3u8
+#EXTINF:-1,Disney Junior
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30710.m3u8
+#EXTINF:-1,Disney XD HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30711.m3u8
+#EXTINF:-1,Dmax
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30709.m3u8
+#EXTINF:-1,Euronews
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30708.m3u8
+#EXTINF:-1,EuroSport 1 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30707.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30706.m3u8
+#EXTINF:-1,Fine Living
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30705.m3u8
+#EXTINF:-1,Focus
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30703.m3u8
+#EXTINF:-1,Fox Animation HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30702.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30700.m3u8
+#EXTINF:-1,Fox Crime HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30699.m3u8
+#EXTINF:-1,Fox HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30701.m3u8
+#EXTINF:-1,Fox Life  1
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30698.m3u8
+#EXTINF:-1,Fox Life HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30697.m3u8
+#EXTINF:-1,Fox Sport HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30696.m3u8
+#EXTINF:-1,Frisbee
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30704.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30695.m3u8
+#EXTINF:-1,History HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30694.m3u8
+#EXTINF:-1,Inter Channel
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30692.m3u8
+#EXTINF:-1,Investigation Discovery
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30693.m3u8
+#EXTINF:-1,Iris
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30691.m3u8
+#EXTINF:-1,Italia 2 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30690.m3u8
+#EXTINF:-1,Italia Uno
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30689.m3u8
+#EXTINF:-1,Italian Fishing
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30688.m3u8
+#EXTINF:-1,Juventus Channel
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30687.m3u8
+#EXTINF:-1,K2
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30686.m3u8
+#EXTINF:-1,La 5
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30685.m3u8
+#EXTINF:-1,La 7D FHD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30682.m3u8
+#EXTINF:-1,La7
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30684.m3u8
+#EXTINF:-1,La7d HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30683.m3u8
+#EXTINF:-1,Lazio Style Channel
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30681.m3u8
+#EXTINF:-1,M2O
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30680.m3u8
+#EXTINF:-1,m2otv
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30679.m3u8
+#EXTINF:-1,Manga
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30678.m3u8
+#EXTINF:-1,Marcopolo
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30677.m3u8
+#EXTINF:-1,Mediaset Extra
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30675.m3u8
+#EXTINF:-1,Milan Channel
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30676.m3u8
+#EXTINF:-1,Nat Geo HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30674.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30673.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30672.m3u8
+#EXTINF:-1,Nick Junior
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30671.m3u8
+#EXTINF:-1,Paramount HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30670.m3u8
+#EXTINF:-1,Pesca e Caccia
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30669.m3u8
+#EXTINF:-1,Pescare e Cacciare
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30668.m3u8
+#EXTINF:-1,Premium Action  24
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30666.m3u8
+#EXTINF:-1,Premium Action HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30667.m3u8
+#EXTINF:-1,Premium Calcio 1
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30595.m3u8
+#EXTINF:-1,Premium Calcio 2
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30594.m3u8
+#EXTINF:-1,Premium Calcio 3
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30593.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30592.m3u8
+#EXTINF:-1,Premium Calcio 5
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30591.m3u8
+#EXTINF:-1,Premium Calcio 6
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30590.m3u8
+#EXTINF:-1,Premium Cinema  24
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30665.m3u8
+#EXTINF:-1,Premium Cinema 2  24
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30664.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30662.m3u8
+#EXTINF:-1,Premium Cinema Comedy
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30661.m3u8
+#EXTINF:-1,Premium Cinema Energy
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30660.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30663.m3u8
+#EXTINF:-1,Premium Crime  24
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30658.m3u8
+#EXTINF:-1,Premium Crime HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30659.m3u8
+#EXTINF:-1,Premium Emotion
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30657.m3u8
+#EXTINF:-1,Premium Joi
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30655.m3u8
+#EXTINF:-1,Premium Sport 2
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30588.m3u8
+#EXTINF:-1,Premium Sport HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30589.m3u8
+#EXTINF:-1,Premium Stories
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30656.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30654.m3u8
+#EXTINF:-1,PrimaFila 1 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30653.m3u8
+#EXTINF:-1,PrimaFila 2 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30652.m3u8
+#EXTINF:-1,PrimaFila 3 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30651.m3u8
+#EXTINF:-1,PrimaFila 4 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30650.m3u8
+#EXTINF:-1,PrimaFila 5 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30649.m3u8
+#EXTINF:-1,PrimaFila 6 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30648.m3u8
+#EXTINF:-1,PrimaFila 7 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30647.m3u8
+#EXTINF:-1,PrimaFila 8 HD 1080P
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30646.m3u8
+#EXTINF:-1,PrimaFila 9 HD 1080P-
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30645.m3u8
 #EXTINF:-1,Radio 105 TV
-http://wow01.105.net:1935/live/105Test1/livestream.m3u8
-#EXTINF:-1,Radio Capital TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1,Radio Monte Carlo
-http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:-1,Radio Taormina
-http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1,Radio Virgin TV
-http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30643.m3u8
+#EXTINF:-1,Radio Capital TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30644.m3u8
+#EXTINF:-1,Radioalia TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30642.m3u8
+#EXTINF:-1,Rai 1
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30641.m3u8
+#EXTINF:-1,Rai 2
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30640.m3u8
+#EXTINF:-1,Rai 3 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30639.m3u8
+#EXTINF:-1,Rai 4 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30638.m3u8
 #EXTINF:-1,Rai 5
-http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30637.m3u8
 #EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30636.m3u8
 #EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30634.m3u8
 #EXTINF:-1,Rai News 24
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30635.m3u8
 #EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30633.m3u8
 #EXTINF:-1,Rai Scuola
-http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30632.m3u8
+#EXTINF:-1,Rai Sport 1 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30597.m3u8
+#EXTINF:-1,Rai Sport 2
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30596.m3u8
 #EXTINF:-1,Rai Storia
-http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
-#EXTINF:-1,Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1,Rete 55
-http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
-#EXTINF:-1,Rete 55*
-http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
-#EXTINF:-1,Retesole
-http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
-#EXTINF:-1,RTV 38
-http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30631.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30630.m3u8
+#EXTINF:-1,Real Giallo*
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30629.m3u8
+#EXTINF:-1,Real Time FHD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30628.m3u8
+#EXTINF:-1,Rete 4
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30627.m3u8
+#EXTINF:-1,Roma Channel
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30626.m3u8
+#EXTINF:-1,RSI La 1 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30625.m3u8
+#EXTINF:-1,RSI La 2 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30624.m3u8
 #EXTINF:-1,RTL 102.5
-http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:-1,Saronno TV
-http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
-#EXTINF:-1,Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1,Sudtirol TV
-http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
-#EXTINF:-1,SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1,teleMonteneve
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:-1,telePAVIA
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,TeleStudio Modena
-http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
-#EXTINF:-1,Tele Milano
-http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
-#EXTINF:-1,TG Norba 24
-http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
-#EXTINF:-1,Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-#EXTINF:-1,Trentino TV*
-http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
-#EXTINF:-1,TSN
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1,TRM h24
-http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
-#EXTINF:-1,TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,TV Luna
-http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
-#EXTINF:-1,TV Luna*
-http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
-#EXTINF:-1,Videolina
-http://178.33.229.111:1935/live/Videolina/livestream.m3u8
-#EXTINF:-1,Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30623.m3u8
+#EXTINF:-1,Sky 3D
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30622.m3u8
+#EXTINF:-1,Sky Arte HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30621.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30620.m3u8
+#EXTINF:-1,Sky Calcio 1
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30587.m3u8
+#EXTINF:-1,Sky Calcio 2
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30586.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30585.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30584.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30583.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30582.m3u8
+#EXTINF:-1,Sky Cinema  1 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30618.m3u8
+#EXTINF:-1,Sky Cinema  24 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30617.m3u8
+#EXTINF:-1,Sky Cinema Classic HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30615.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30614.m3u8
+#EXTINF:-1,Sky Cinema Cult HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30616.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30613.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30612.m3u8
+#EXTINF:-1,Sky Cinema Max HD*
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30611.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30609.m3u8
+#EXTINF:-1,Sky Cinema Uno HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30619.m3u8
+#EXTINF:-1,Sky MotoGP HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30574.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-1-HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30580.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-2-HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30579.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-24-HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30577.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-3-HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30578.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-F*1-HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30576.m3u8
+#EXTINF:-1,S*ky-Sp*0rts-Pl*us-HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30575.m3u8
+#EXTINF:-1,Sky Supercalcio HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30608.m3u8
+#EXTINF:-1,Sky TG 24 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30607.m3u8
+#EXTINF:-1,Sky Uno  1 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30605.m3u8
+#EXTINF:-1,Sky Uno
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30606.m3u8
+#EXTINF:-1,Sky Virgin Music TV
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30610.m3u8
+#EXTINF:-1,Sportalia
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30581.m3u8
+#EXTINF:-1,Super Tennis HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30573.m3u8
+#EXTINF:-1,Super!
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30604.m3u8
+#EXTINF:-1,Telecolor
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30603.m3u8
+#EXTINF:-1,Tg Com 24
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30602.m3u8
+#EXTINF:-1,Top Crime
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30601.m3u8
+#EXTINF:-1,TV2000 HD
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30599.m3u8
+#EXTINF:-1,TV8
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30600.m3u8
+#EXTINF:-1,Wrestling
+http://95.154.194.84:8000/live/T3SL2hiwmt/uZhb8OyMp3/30598.m3u8
