@@ -1,64 +1,6 @@
 #EXTM3U
-#EXTINF:-1,SuperTennis_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/662.m3u8
-#EXTINF:-1,Sky_Uno_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/673.m3u8
-#EXTINF:-1,Discovery
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/751.m3u8
-#EXTINF:-1,Premium_Cinema24
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/752.m3u8
-#EXTINF:-1,Sky_Cinema_Suspense_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/737.m3u8
-#EXTINF:-1,Sky_Cinema_Collection_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/739.m3u8
-#EXTINF:-1,Sky_Cinema_Uno_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/676.m3u8
-#EXTINF:-1,Cielo_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/741.m3u8
-#EXTINF:-1,Rai_3HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/691.m3u8
-#EXTINF:-1,Rai_1HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/693.m3u8
-#EXTINF:-1,Primafilla_6
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/712.m3u8
-#EXTINF:-1,Primafilla_10
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/717.m3u8
-#EXTINF:-1,Primafilla_1
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/718.m3u8
-#EXTINF:-1,Premium_Energy_Plus_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/720.m3u8
-#EXTINF:-1,Premium_Cinema_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/747.m3u8
-#EXTINF:-1,Premium_Action
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/728.m3u8
-#EXTINF:-1,Nat_Geo_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/679.m3u8
-#EXTINF:-1,Premium_Paramount
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/672.m3u8
-#EXTINF:-1,Mediaset_Extra
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/730.m3u8
-#EXTINF:-1,LA_7_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/732.m3u8
-#EXTINF:-1,La_5
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/733.m3u8
-#EXTINF:-1,Fox_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/681.m3u8
-#EXTINF:-1,Discovery_Sci_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/745.m3u8
-#EXTINF:-1,DMAX_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/683.m3u8
-#EXTINF:-1,Disney_Junior
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/684.m3u8
-#EXTINF:-1,Cartoonito
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/686.m3u8
-#EXTINF:-1,Canale_5_HD
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/736.m3u8
-#EXTINF:-1,CACCIA_e_Pesca
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/687.m3u8
-#EXTINF:-1,Boing
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/688.m3u8
 #EXTINF:-1,Canale 7
-http://wms.shared.streamshow.1935/canale7/canale7/live.m3u8
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1,Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1,Carina TV
@@ -126,21 +68,21 @@ http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
 #EXTINF:-1,RTL 102.5
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF:-1,Saronno TV
-http://msh0193.stream.seeweb.1935/live/stream00.sdp/livestream.m3u8
+http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
 #EXTINF:-1,Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1,Sudtirol TV
 http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
 #EXTINF:-1,SuperTV
-http://wms.shared.streamshow.1935/supertv/supertv/live.m3u8
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1,TeleArena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1,teleMonteneve
-http://wms.shared.streamshow.1935/telemonteneve/telemonteneve/live.m3u8
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1,telePAVIA
-http://wms.shared.streamshow.1935/telepavia/telepavia/live.m3u8
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 #EXTINF:-1,TeleStudio Modena
-http://wms.shared.streamshow.1935/telestudiomo/telestudiomo/live.m3u8
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
 #EXTINF:-1,Tele Milano
 http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
 #EXTINF:-1,TG Norba 24
@@ -150,11 +92,11 @@ http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 #EXTINF:-1,Trentino TV*
 http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
 #EXTINF:-1,TSN
-http://wms.shared.streamshow.1935/tsn2/tsn2/live.m3u8
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
 #EXTINF:-1,TRM h24
-http://flash.streamingmedia.1935/TRM/livestream/live.m3u8
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
 #EXTINF:-1,TVRS
-http://wms.shared.streamshow.1935/tvrs/tvrs/live.m3u8
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 #EXTINF:-1,TV Luna
 http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
 #EXTINF:-1,TV Luna*
@@ -162,6 +104,6 @@ http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
 #EXTINF:-1,Videolina
 http://178.33.229.111:1935/live/Videolina/livestream.m3u8
 #EXTINF:-1,Video Brescia
-http://wms.shared.streamshow.1935/videobrescia/videobrescia/live.m3u8
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.80/videocalabria/videocalabria/playlist.m3u8
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
