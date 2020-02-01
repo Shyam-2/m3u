@@ -1,247 +1,127 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15039
-#EXTINF:-1,LA 1
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38498
-#EXTINF:-1,LA 2 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38490
-#EXTINF:-1,LA 2
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15038
-#EXTINF:-1,ANTENA 3 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15036
-#EXTINF:-1,ANTENA 3
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38501
-#EXTINF:-1,CUATRO HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15035
-#EXTINF:-1,Cuatro
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38497
-#EXTINF:-1,TELECINCO HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15034
-#EXTINF:-1,Telecinco
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38495
-#EXTINF:-1,LA SEXTA HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15037
-#EXTINF:-1,laSexta
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38499
-#EXTINF:-1,CANAL 24 HORAS
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15033
-#EXTINF:-1,24 HORAS
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15032
-#EXTINF:-1,TVE INTERNACIONAL
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15031
+#EXTINF:-1,24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1,Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-1,Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Cancionero TV
+http://89.140.99.41/hls/1080.m3u8?
+#EXTINF:-1,Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+#EXTINF:-1,Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1,FDF
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15030
-#EXTINF:-1,#VAMOS HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24973
-#EXTINF:-1,CLAN TVE
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15029
-#EXTINF:-1,Clan TVE HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38489
-#EXTINF:-1,HOLLYWOOD HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15028
-#EXTINF:-1,NOVA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38487
-#EXTINF:-1,IBERALIA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15027
-#EXTINF:-1,FOX HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15026
-#EXTINF:-1,FOX LIFE HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15025
-#EXTINF:-1,FOX NEWS
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15024
-#EXTINF:-1,0 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15023
-#EXTINF:-1,AMC HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15022
-#EXTINF:-1,ARAGON
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15021
-#EXTINF:-1,Andalucia TV
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38488
-#EXTINF:-1,AXN HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15020
-#EXTINF:-1,AXN
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15019
-#EXTINF:-1,AXN WHITE HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15018
-#EXTINF:-1,A3 SERIES HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/29608
-#EXTINF:-1,SYFY HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15017
-#EXTINF:-1,TCM HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15016
-#EXTINF:-1,TNT HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15015
-#EXTINF:-1,BE MAD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15014
-#EXTINF:-1,TEN
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38486
-#EXTINF:-1,DMAX
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38492
-#EXTINF:-1,BLAZE
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15013
-#EXTINF:-1,CALLE 13 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15012
-#EXTINF:-1,CANAL COCINA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15011
-#EXTINF:-1,CANAL DECASA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15010
-#EXTINF:-1,CANAL ODISEA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15009
-#EXTINF:-1,dkiss
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38491
-#EXTINF:-1,BOM
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38494
-#EXTINF:-1,CANAL SUR HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38503
-#EXTINF:-1,TDP
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38504
-#EXTINF:-1,TDP HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38496
-#EXTINF:-1,TRECE
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38502
-#EXTINF:-1,CANAL SUR
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15008
-#EXTINF:-1,CANAL SUR 2
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38493
-#EXTINF:-1,CAZA Y PESCA HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15007
-#EXTINF:-1,CLASSICA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15006
-#EXTINF:-1,COSMO HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15005
-#EXTINF:-1,CRIMEN Y INVES
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15004
-#EXTINF:-1,DIVINITY
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15003
-#EXTINF:-1,ENERGY
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15002
-#EXTINF:-1,BABY TV
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15001
-#EXTINF:-1,BOING
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/15000
-#EXTINF:-1,CANAL PANDA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14999
-#EXTINF:-1,COMEDY CENTRAL HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14998
-#EXTINF:-1,DISNEY HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14997
-#EXTINF:-1,DISNEY JR
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14996
-#EXTINF:-1,DISNEY XD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14995
-#EXTINF:-1,NICKELODEON  HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14994
-#EXTINF:-1,M. ACCION HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14977
-#EXTINF:-1,M. CINE ESP
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14976
-#EXTINF:-1,M. COMEDIA HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14975
-#EXTINF:-1,M. DCINE HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14974
-#EXTINF:-1,M. DISNEY
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14973
-#EXTINF:-1,M. ESTRENOS HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14972
-#EXTINF:-1,M. FAMA 24
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14971
-#EXTINF:-1,M. SERIES HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14970
-#EXTINF:-1,atreseries HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/38500
-#EXTINF:-1,M. SERIES XTRA HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14969
-#EXTINF:-1,M. XTRA HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14968
-#EXTINF:-1,M.Cine Doc&Roll
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/36743
-#EXTINF:-1,MEZZO LIVE HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14964
-#EXTINF:-1,MEGA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/19757
-#EXTINF:-1,MTV ROCKS
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14963
-#EXTINF:-1,DISCOVERY
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14962
-#EXTINF:-1,HISTORIA
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14961
-#EXTINF:-1,NAT GEO HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14960
-#EXTINF:-1,NAT GEO WILD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14959
-#EXTINF:-1,NAT WILD HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14958
-#EXTINF:-1,NEOX
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14957
-#EXTINF:-1,PARAMOUNT
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14956
-#EXTINF:-1,VH1
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14955
-#EXTINF:-1,VIAJAR HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14954
-#EXTINF:-1,BARCA TV
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14983
-#EXTINF:-1,BEIN SPORTS HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14993
-#EXTINF:-1,EUROSPORT 1
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14987
-#EXTINF:-1,EUROSPORT 1 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14988
-#EXTINF:-1,EUROSPORT 2
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14986
-#EXTINF:-1,FORMULA 1 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14985
-#EXTINF:-1,GOL
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14989
-#EXTINF:-1,LA LIGA 123 TV HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24470
-#EXTINF:-1,LA LIGA HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14991
-#EXTINF:-1,LA LIGA TV HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14992
-#EXTINF:-1,M. DEP2 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14966
-#EXTINF:-1,M. DEPORTE 1 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14967
-#EXTINF:-1,M. FORMULA 1
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14984
-#EXTINF:-1,M. FTBOL HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14990
-#EXTINF:-1,M. GOLF HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14981
-#EXTINF:-1,M.CAMPEONES HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24469
-#EXTINF:-1,M. Liga De Campeones 2
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/31677
-#EXTINF:-1,M. PARTIDAZO HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14980
-#EXTINF:-1, DAZN 1 BAR FHD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/39030
-#EXTINF:-1,DAZN 2 BAR FHD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/39027
-#EXTINF:-1,MOTOGP HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14979
-#EXTINF:-1,Real MADRID TV HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14982
-#EXTINF:-1,TELE DEPORTE
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14965
-#EXTINF:-1,TOROS HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/14978
-#EXTINF:-1,Alquiler 1 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24479
-#EXTINF:-1,Alquiler 2 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24478
-#EXTINF:-1,Alquiler 3 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24477
-#EXTINF:-1,Alquiler 4 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24476
-#EXTINF:-1,Alquiler 5 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24475
-#EXTINF:-1,Alquiler 6 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24474
-#EXTINF:-1,Alquiler 7 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24473
-#EXTINF:-1,Alquiler 8 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24472
-#EXTINF:-1,Alquiler 9 HD
-http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/24471
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1,Fight Time
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1,Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1,Imas TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+#EXTINF:-1,Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,LifeTV
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,Miami TV Espana
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
+#EXTINF:-1,Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1,Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,Navarra TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:0,PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1,RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1,Vega Baja TV
+http://185.29.68.24/tvb.m3u8
