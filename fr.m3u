@@ -1,58 +1,143 @@
-#EXTINF:0,W9
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/894
-#EXTINF:0,DE:Sky_Emotion
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/818
-#EXTINF:0,Ushuaia_HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/895
-#EXTINF:0,Tout_LHistoire
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/884
-#EXTINF:0,TIJI
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/888
-#EXTINF:0,TF1
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/887
-#EXTINF:0,Disney_Junior
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/889
-#EXTINF:0,RTL9
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/885
-#EXTINF:0,Planete
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/883
-#EXTINF:0,PIWI
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/891
-#EXTINF:0,NRJ12
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/882
-#EXTINF:0,Nat_Geo
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/881
-#EXTINF:0,M6
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/880
-#EXTINF:0,Infosport
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/879
-#EXTINF:0,GULLI
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/893
-#EXTINF:0,France_5
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/845
-#EXTINF:0,France_2
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/842
-#EXTINF:0,Disney
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/878
-#EXTINF:0,CINE_POLAR
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/847
-#EXTINF:0,CINE_CLASSIC
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/848
-#EXTINF:0,CINE_FAMIZ
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/851
-#EXTINF:0,Chasse_Et_Peche
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/857
-#EXTINF:0,Discovery
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/877
-#EXTINF:0,Canal_J
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/892
-#EXTINF:0,CANAL_SPORT_HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/853
-#EXTINF:0,CANAL_HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/854
-#EXTINF:0,CANAL_DECALE_HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/855
-#EXTINF:0,Animaux_hd
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/876
-#EXTINF:0,Action
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/890
+#EXTM3U
+#EXTINF:-1,W9 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/502.m3u8
+#EXTINF:-1,VOYAGE HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/501.m3u8
+#EXTINF:-1,USHUAIA TV HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/408.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/499.m3u8
+#EXTINF:-1,TOUTE L' HISTOIRE
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/498.m3u8
+#EXTINF:-1,TIJI HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/378.m3u8
+#EXTINF:-1,TF1 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/495.m3u8
+#EXTINF:-1,SYFY HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/452.m3u8
+#EXTINF:-1,RTL 9 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/493.m3u8
+#EXTINF:-1,RMC SPORTS 4 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/515.m3u8
+#EXTINF:-1,RMC SPORTS 3 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/514.m3u8
+#EXTINF:-1,RMC SPORTS 2 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/513.m3u8
+#EXTINF:-1,RMC SPORTS 1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/512.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/492.m3u8
+#EXTINF:-1,PLANETE CI
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/491.m3u8
+#EXTINF:-1,PLANETE A et E
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/490.m3u8
+#EXTINF:-1,PLANETE + HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/489.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/448.m3u8
+#EXTINF:-1,OCS MAX HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/445.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/444.m3u8
+#EXTINF:-1,OCS CITY HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/443.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/442.m3u8
+#EXTINF:-1,NICKELODEON TEEN
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/439.m3u8
+#EXTINF:-1,NICKELODEON JR
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/438.m3u8
+#EXTINF:-1,NAT GEO WILD FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/482.m3u8
+#EXTINF:-1,NAT GEO FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/481.m3u8
+#EXTINF:-1,MTV FR
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/388.m3u8
+#EXTINF:-1,MCM
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/431.m3u8
+#EXTINF:-1,MANGAS HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/479.m3u8
+#EXTINF:-1,M6 MUSIC
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/478.m3u8
+#EXTINF:-1,M6 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/477.m3u8
+#EXTINF:-1,INFOSPORT HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/511.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/413.m3u8
+#EXTINF:-1,Gulli HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/473.m3u8
+#EXTINF:-1,France O hd
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/469.m3u8
+#EXTINF:-1,France 5 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/468.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/467.m3u8
+#EXTINF:-1,France 3 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/466.m3u8
+#EXTINF:-1,FRANCE 24 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/465.m3u8
+#EXTINF:-1,France 2 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/464.m3u8
+#EXTINF:-1,FOOT 24/24 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/423.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/507.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/506.m3u8
+#EXTINF:-1,Equidia Live
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/412.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/461.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/403.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/459.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/458.m3u8
+#EXTINF:-1,COMEDIE +HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/422.m3u8
+#EXTINF:-1,CINE PREMIER HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/400.m3u8
+#EXTINF:-1,CINE POLAR HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/402.m3u8
+#EXTINF:-1,TFX HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/401.m3u8
+#EXTINF:-1,CINE FRISSON HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/399.m3u8
+#EXTINF:-1,CINE FAMIZ HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/398.m3u8
+#EXTINF:-1,CINE EMOTION HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/397.m3u8
+#EXTINF:-1,CINE CLUB HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/396.m3u8
+#EXTINF:-1,CINE CLASSIC HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/391.m3u8
+#EXTINF:-1,CHASSE ET PECHE
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/419.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/418.m3u8
+#EXTINF:-1,CANAL+
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/416.m3u8
+#EXTINF:-1,CANAL+ SPORT HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/505.m3u8
+#EXTINF:-1,CANAL SERIES
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/417.m3u8
+#EXTINF:-1,BOING hd
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/394.m3u8
+#EXTINF:-1,BEIN SPORT 3 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/510.m3u8
+#EXTINF:-1,BEIN SPORT 2 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/509.m3u8
+#EXTINF:-1,BEIN SPORT 1 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/508.m3u8
+#EXTINF:-1,ANIMAUX
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/385.m3u8
+#EXTINF:-1,ACTION HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/384.m3u8
+#EXTINF:-1,AB1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/382.m3u8
+#EXTINF:-1,AB MOTEURS HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/381.m3u8
+#EXTINF:-1,13EME RUE hd
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/379.m3u8
