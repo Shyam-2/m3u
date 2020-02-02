@@ -1,23 +1,497 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidepoland.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="Hope.png" group-title="",Hope Channel
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://pbs.twimg.com/profile_images/911157852294787072/K-mU7Tn__400x400.jpg" group-title="",Telewizja Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-language="Polish" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="",Telewizja Wielkopolska
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/C6ckzHW.png" group-title="",Truso TV
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
-http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
+#EXTM3U
+#EXTINF:-1,13 Ulica FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31584.m3u8
+#EXTINF:-1,4Fun Dance HD*
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31582.m3u8
+#EXTINF:-1,4Fun Gold Hits PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31581.m3u8
+#EXTINF:-1,4Fun TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31580.m3u8
+#EXTINF:-1,Active Family PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31571.m3u8
+#EXTINF:-1,Adventure FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31570.m3u8
+#EXTINF:-1,Ale Kino  FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31569.m3u8
+#EXTINF:-1,Ale Kino  HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31568.m3u8
+#EXTINF:-1,AMC PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31579.m3u8
+#EXTINF:-1,Animal Planet FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31567.m3u8
+#EXTINF:-1,ATM Rozrywka TV PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31578.m3u8
+#EXTINF:-1,AXN Black PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31577.m3u8
+#EXTINF:-1,AXN FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31576.m3u8
+#EXTINF:-1,AXN HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31575.m3u8
+#EXTINF:-1,AXN Spin FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31574.m3u8
+#EXTINF:-1,AXN Spin PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31573.m3u8
+#EXTINF:-1,AXN White PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31572.m3u8
+#EXTINF:-1,BBC Earth HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31566.m3u8
+#EXTINF:-1,BBC HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31565.m3u8
+#EXTINF:-1,Boomerang PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31564.m3u8
+#EXTINF:-1,Canal  1 FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31557.m3u8
+#EXTINF:-1,Canal  Discovery FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31556.m3u8
+#EXTINF:-1,Canal  Discovery HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31555.m3u8
+#EXTINF:-1,CANAL  FAMILY FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31563.m3u8
+#EXTINF:-1,CANAL  FAMILY HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31562.m3u8
+#EXTINF:-1,Canal  FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31554.m3u8
+#EXTINF:-1,Canal  Film HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31553.m3u8
+#EXTINF:-1,Canal  HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31552.m3u8
+#EXTINF:-1,CANAL  PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31561.m3u8
+#EXTINF:-1,Canal  Seriale FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31551.m3u8
+#EXTINF:-1,Canal  Seriale HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31550.m3u8
+#EXTINF:-1,Canal  Sport 2 FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31549.m3u8
+#EXTINF:-1,Canal  Sport 2 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31548.m3u8
+#EXTINF:-1,Canal  Sport FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31547.m3u8
+#EXTINF:-1,Canal  Sport HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31546.m3u8
+#EXTINF:-1,Canal  Sport PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31545.m3u8
+#EXTINF:-1,Cartoon Network HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31544.m3u8
+#EXTINF:-1,Cbeebies PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31543.m3u8
+#EXTINF:-1,CBS Action PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31560.m3u8
+#EXTINF:-1,CBS Europa FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31559.m3u8
+#EXTINF:-1,CBS Reality PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31558.m3u8
+#EXTINF:-1,CineMax 1 FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31542.m3u8
+#EXTINF:-1,CineMax 1 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31541.m3u8
+#EXTINF:-1,Cinemax 2 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31540.m3u8
+#EXTINF:-1,Comedy Central Family
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31538.m3u8
+#EXTINF:-1,Comedy Central FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31539.m3u8
+#EXTINF:-1,Comedy Central PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31537.m3u8
+#EXTINF:-1,Da Vinci Learning PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31534.m3u8
+#EXTINF:-1,Disco Polo Music HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31533.m3u8
+#EXTINF:-1,Disco Polo Music PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31532.m3u8
+#EXTINF:-1,Discovery Channel FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31531.m3u8
+#EXTINF:-1,Discovery Channel PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31530.m3u8
+#EXTINF:-1,Discovery Historia PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31529.m3u8
+#EXTINF:-1,Discovery Life FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31528.m3u8
+#EXTINF:-1,Discovery Life PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31527.m3u8
+#EXTINF:-1,Discovery Science HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31526.m3u8
+#EXTINF:-1,Disney Channel FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31525.m3u8
+#EXTINF:-1,Disney Junior PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31524.m3u8
+#EXTINF:-1,Disney XD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31523.m3u8
+#EXTINF:-1,Domo  HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31522.m3u8
+#EXTINF:-1,DTX FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31536.m3u8
+#EXTINF:-1,DTX
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31535.m3u8
+#EXTINF:-1,E! FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31521.m3u8
+#EXTINF:-1,Eleven Sports 1 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31357.m3u8
+#EXTINF:-1,Eleven Sports 2 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31356.m3u8
+#EXTINF:-1,Eleven Sports 3 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31355.m3u8
+#EXTINF:-1,Eleven Sports 4 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31354.m3u8
+#EXTINF:-1,Eska TV Extra
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31520.m3u8
+#EXTINF:-1,Eska TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31519.m3u8
+#EXTINF:-1,EuroSport 1 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31351.m3u8
+#EXTINF:-1,EuroSport 1 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31352.m3u8
+#EXTINF:-1,Eurosport 1
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31353.m3u8
+#EXTINF:-1,EuroSport 2 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31350.m3u8
+#EXTINF:-1,Eurosport 3 PL
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31349.m3u8
+#EXTINF:-1,Eurosport 4 PL
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31348.m3u8
+#EXTINF:-1,Extreme Sports FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31347.m3u8
+#EXTINF:-1,Extreme Sports HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31346.m3u8
+#EXTINF:-1,Fight Channel World HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31515.m3u8
+#EXTINF:-1,Fight Network FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31514.m3u8
+#EXTINF:-1,Fightbox FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31513.m3u8
+#EXTINF:-1,Fightbox PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31512.m3u8
+#EXTINF:-1,Filmbox Action PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31510.m3u8
+#EXTINF:-1,FilmBox Arthouse PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31511.m3u8
+#EXTINF:-1,Filmbox Extra FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31509.m3u8
+#EXTINF:-1,Filmbox Extra PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31508.m3u8
+#EXTINF:-1,Filmbox Family
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31507.m3u8
+#EXTINF:-1,Filmbox HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31506.m3u8
+#EXTINF:-1,Filmbox Premium HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31505.m3u8
+#EXTINF:-1,Fokus TV PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31504.m3u8
+#EXTINF:-1,FOX Comedy FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31518.m3u8
+#EXTINF:-1,Fox Comedy PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31503.m3u8
+#EXTINF:-1,FOX FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31517.m3u8
+#EXTINF:-1,FOX PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31516.m3u8
+#EXTINF:-1,Golf Channel FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31345.m3u8
+#EXTINF:-1,H2 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31502.m3u8
+#EXTINF:-1,HBO 1 FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31501.m3u8
+#EXTINF:-1,HBO 1 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31500.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31499.m3u8
+#EXTINF:-1,HBO 2 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31498.m3u8
+#EXTINF:-1,HBO 3 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31497.m3u8
+#EXTINF:-1,HGTV FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31496.m3u8
+#EXTINF:-1,HGTV PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31495.m3u8
+#EXTINF:-1,HIP HOP TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31494.m3u8
+#EXTINF:-1,History FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31493.m3u8
+#EXTINF:-1,History PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31492.m3u8
+#EXTINF:-1,Investigation Discovery FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31491.m3u8
+#EXTINF:-1,Investigation Discovery PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31490.m3u8
+#EXTINF:-1,Kino Polska Muzyka PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31489.m3u8
+#EXTINF:-1,Kino Polska PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31488.m3u8
+#EXTINF:-1,Kino TV PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31487.m3u8
+#EXTINF:-1,Kuchnia  FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31486.m3u8
+#EXTINF:-1,Kuchnia  HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31485.m3u8
+#EXTINF:-1,Lifetime FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31484.m3u8
+#EXTINF:-1,Lifetime HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31483.m3u8
+#EXTINF:-1,METRO PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31482.m3u8
+#EXTINF:-1,MiniMini  FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31477.m3u8
+#EXTINF:-1,MiniMini  HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31476.m3u8
+#EXTINF:-1,Motorwizja PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31475.m3u8
+#EXTINF:-1,MTV Dance HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31481.m3u8
+#EXTINF:-1,MTV FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31480.m3u8
+#EXTINF:-1,MTV Live FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31479.m3u8
+#EXTINF:-1,MTV Polska PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31478.m3u8
+#EXTINF:-1,Nat Geo FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31474.m3u8
+#EXTINF:-1,Nat Geo People FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31472.m3u8
+#EXTINF:-1,Nat Geo PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31473.m3u8
+#EXTINF:-1,Nat Geo Wild FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31471.m3u8
+#EXTINF:-1,Nat Geo Wild PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31470.m3u8
+#EXTINF:-1,Nick JR. PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31469.m3u8
+#EXTINF:-1,Nickelodeon PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31468.m3u8
+#EXTINF:-1,Nowa TV PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31467.m3u8
+#EXTINF:-1,nSport FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31358.m3u8
+#EXTINF:-1,Nuta.TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31466.m3u8
+#EXTINF:-1,Paramount Channel FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31461.m3u8
+#EXTINF:-1,Planete  FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31460.m3u8
+#EXTINF:-1,Planete  PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31459.m3u8
+#EXTINF:-1,Polo TV PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31458.m3u8
+#EXTINF:-1,Polsat 2 FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31457.m3u8
+#EXTINF:-1,Polsat 2 HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31456.m3u8
+#EXTINF:-1,Polsat 2 PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31455.m3u8
+#EXTINF:-1,Polsat Cafe HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31454.m3u8
+#EXTINF:-1,Polsat Doku FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31453.m3u8
+#EXTINF:-1,Polsat FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31452.m3u8
+#EXTINF:-1,Polsat Film FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31451.m3u8
+#EXTINF:-1,Polsat Film HD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31450.m3u8
+#EXTINF:-1,Polsat Film PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31449.m3u8
+#EXTINF:-1,POLSAT JimJam PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31465.m3u8
+#EXTINF:-1,Polsat Music FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31448.m3u8
+#EXTINF:-1,Polsat News 2
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31447.m3u8
+#EXTINF:-1,Polsat News FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31446.m3u8
+#EXTINF:-1,Polsat News
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31445.m3u8
+#EXTINF:-1,Polsat
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31444.m3u8
+#EXTINF:-1,Polsat Play FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31443.m3u8
+#EXTINF:-1,Polsat Play HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31442.m3u8
+#EXTINF:-1,Polsat Play
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31441.m3u8
+#EXTINF:-1,Polsat Romans
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31440.m3u8
+#EXTINF:-1,Polsat Sport Extra FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31344.m3u8
+#EXTINF:-1,Polsat Sport Extra HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31343.m3u8
+#EXTINF:-1,Polsat Sport Extra
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31342.m3u8
+#EXTINF:-1,Polsat Sport FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31341.m3u8
+#EXTINF:-1,POLSAT Sport Fight FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31464.m3u8
+#EXTINF:-1,Polsat Sport Fight HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31340.m3u8
+#EXTINF:-1,Polsat Sport Fight
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31339.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31338.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31337.m3u8
+#EXTINF:-1,Polsat Sport
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31336.m3u8
+#EXTINF:-1,POLSAT Viasat Explore FHD PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31463.m3u8
+#EXTINF:-1,Polsat Viasat History FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31439.m3u8
+#EXTINF:-1,POLSAT Viasat Nature PL-
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31462.m3u8
+#EXTINF:-1,Power TV PL
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31438.m3u8
+#EXTINF:-1,Puls 2
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31437.m3u8
+#EXTINF:-1,Romance FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31436.m3u8
+#EXTINF:-1,SciFi Universal
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31435.m3u8
+#EXTINF:-1,Sport Klub FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31434.m3u8
+#EXTINF:-1,Stars TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31433.m3u8
+#EXTINF:-1,Stopklatka TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31432.m3u8
+#EXTINF:-1,Sundance FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31431.m3u8
+#EXTINF:-1,Super Polsat FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31430.m3u8
+#EXTINF:-1,Superstacja
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31429.m3u8
+#EXTINF:-1,TeleToon  FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31379.m3u8
+#EXTINF:-1,TeleToon 
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31378.m3u8
+#EXTINF:-1,TheBlaze TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31377.m3u8
+#EXTINF:-1,TLC FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31428.m3u8
+#EXTINF:-1,TLC
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31427.m3u8
+#EXTINF:-1,TNT FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31426.m3u8
+#EXTINF:-1,TNT HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31425.m3u8
+#EXTINF:-1,TNT
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31424.m3u8
+#EXTINF:-1,TO!TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31423.m3u8
+#EXTINF:-1,Trace Urban
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31376.m3u8
+#EXTINF:-1,Travel HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31375.m3u8
+#EXTINF:-1,TTV FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31422.m3u8
+#EXTINF:-1,TV 4 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31421.m3u8
+#EXTINF:-1,TV 4
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31420.m3u8
+#EXTINF:-1,TV Puls FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31419.m3u8
+#EXTINF:-1,TV Puls HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31418.m3u8
+#EXTINF:-1,TV Republika
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31417.m3u8
+#EXTINF:-1,TV Trwam
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31416.m3u8
+#EXTINF:-1,TV4 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31415.m3u8
+#EXTINF:-1,TV6 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31414.m3u8
+#EXTINF:-1,TV6 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31413.m3u8
+#EXTINF:-1,TVN 24 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31412.m3u8
+#EXTINF:-1,TVN 24 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31411.m3u8
+#EXTINF:-1,TVN 24
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31410.m3u8
+#EXTINF:-1,TVN 7 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31409.m3u8
+#EXTINF:-1,TVN 7 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31408.m3u8
+#EXTINF:-1,TVN Fabula FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31406.m3u8
+#EXTINF:-1,TVN FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31407.m3u8
+#EXTINF:-1,TVN HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31405.m3u8
+#EXTINF:-1,TVN
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31404.m3u8
+#EXTINF:-1,TVN Style FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31403.m3u8
+#EXTINF:-1,TVN Style
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31402.m3u8
+#EXTINF:-1,TVN Turbo FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31401.m3u8
+#EXTINF:-1,TVN Turbo
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31400.m3u8
+#EXTINF:-1,TVN24 BiS
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31399.m3u8
+#EXTINF:-1,TVP 1 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31398.m3u8
+#EXTINF:-1,TVP 1 HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31397.m3u8
+#EXTINF:-1,TVP 2 FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31396.m3u8
+#EXTINF:-1,TVP 2
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31395.m3u8
+#EXTINF:-1,TVP 3
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31394.m3u8
+#EXTINF:-1,TVP 3 Warszawa
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31393.m3u8
+#EXTINF:-1,TVP ABC
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31392.m3u8
+#EXTINF:-1,TVP FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31391.m3u8
+#EXTINF:-1,TVP HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31390.m3u8
+#EXTINF:-1,TVP Historia
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31389.m3u8
+#EXTINF:-1,TVP Info FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31388.m3u8
+#EXTINF:-1,TVP Info
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31387.m3u8
+#EXTINF:-1,TVP Kultura
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31386.m3u8
+#EXTINF:-1,TVP Polonia
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31385.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31384.m3u8
+#EXTINF:-1,TVP Seriale
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31383.m3u8
+#EXTINF:-1,TVP Sport FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31382.m3u8
+#EXTINF:-1,TVP Sport HD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31381.m3u8
+#EXTINF:-1,TVS
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31380.m3u8
+#EXTINF:-1,Twoja.TV FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31374.m3u8
+#EXTINF:-1,Universal FHD
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31373.m3u8
+#EXTINF:-1,VH1
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31372.m3u8
+#EXTINF:-1,VIVA Polska
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31371.m3u8
+#EXTINF:-1,VOD 202
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31370.m3u8
+#EXTINF:-1,VOD 204 PL
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31369.m3u8
+#EXTINF:-1,VOD 205
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31368.m3u8
+#EXTINF:-1,VOD 206
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31367.m3u8
+#EXTINF:-1,VOD 207 PL
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31366.m3u8
+#EXTINF:-1,VOD 208
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31365.m3u8
+#EXTINF:-1,VOD 212 PL
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31364.m3u8
+#EXTINF:-1,VOX Music TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31363.m3u8
+#EXTINF:-1,Wellbeing Network
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31361.m3u8
+#EXTINF:-1,WP
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31362.m3u8
+#EXTINF:-1,Zest TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31360.m3u8
+#EXTINF:-1,Zoom TV
+http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/31359.m3u8
