@@ -1,775 +1,99 @@
 #EXTM3U
 #EXTINF:-1,TF1 FHD
-http://showflix.org:5890/live/1234567/12345/464.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13847
 #EXTINF:-1,TF1 HD
-http://showflix.org:5890/live/1234567/12345/465.m3u8
-#EXTINF:-1,TF1 H265
-http://showflix.org:5890/live/1234567/12345/56260.m3u8
-#EXTINF:-1,TF1+1 FHD
-http://showflix.org:5890/live/1234567/12345/466.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13917
+#EXTINF:-1,TF1 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13817
 #EXTINF:-1,FRANCE 2 FHD
-http://showflix.org:5890/live/1234567/12345/467.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13739
 #EXTINF:-1,FRANCE 2 HD
-http://showflix.org:5890/live/1234567/12345/468.m3u8
-#EXTINF:-1,FRANCE 2 H265
-http://showflix.org:5890/live/1234567/12345/56261.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13916
+#EXTINF:-1,FRANCE 2 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1007
 #EXTINF:-1,FRANCE 3 FHD
-http://showflix.org:5890/live/1234567/12345/469.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13738
 #EXTINF:-1,FRANCE 3 HD
-http://showflix.org:5890/live/1234567/12345/470.m3u8
-#EXTINF:-1,FRANCE 3 H265
-http://showflix.org:5890/live/1234567/12345/56262.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13915
+#EXTINF:-1,FRANCE 3 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1008
 #EXTINF:-1,FRANCE 4 FHD
-http://showflix.org:5890/live/1234567/12345/471.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13737
 #EXTINF:-1,FRANCE 4 HD
-http://showflix.org:5890/live/1234567/12345/472.m3u8
-#EXTINF:-1,FRANCE4 H265
-http://showflix.org:5890/live/1234567/12345/56263.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13914
+#EXTINF:-1,FRANCE 4 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1009
 #EXTINF:-1,FRANCE 5 FHD
-http://showflix.org:5890/live/1234567/12345/473.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13736
 #EXTINF:-1,FRANCE 5 HD
-http://showflix.org:5890/live/1234567/12345/474.m3u8
-#EXTINF:-1,FRANCE5 H265
-http://showflix.org:5890/live/1234567/12345/56264.m3u8
-#EXTINF:-1,FRANCE O FHD
-http://showflix.org:5890/live/1234567/12345/475.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13913
+#EXTINF:-1,FRANCE Ô FHD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/89
+#EXTINF:-1,FRANCE 5 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1013
 #EXTINF:-1,FRANCE O HD
-http://showflix.org:5890/live/1234567/12345/476.m3u8
-#EXTINF:-1,FRANCEO H265
-http://showflix.org:5890/live/1234567/12345/56273.m3u8
-#EXTINF:-1,W9 FHD
-http://showflix.org:5890/live/1234567/12345/479.m3u8
-#EXTINF:-1,W9 HD
-http://showflix.org:5890/live/1234567/12345/480.m3u8
-#EXTINF:-1,W9 H265
-http://showflix.org:5890/live/1234567/12345/56267.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13735
+#EXTINF:-1,FRANCE O SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1021
 #EXTINF:-1,M6 FHD
-http://showflix.org:5890/live/1234567/12345/477.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13726
 #EXTINF:-1,M6 HD
-http://showflix.org:5890/live/1234567/12345/478.m3u8
-#EXTINF:-1,M6 H265
-http://showflix.org:5890/live/1234567/12345/56265.m3u8
-#EXTINF:-1,C8 FHD
-http://showflix.org:5890/live/1234567/12345/481.m3u8
-#EXTINF:-1,C8 HD
-http://showflix.org:5890/live/1234567/12345/482.m3u8
-#EXTINF:-1,C8 H265
-http://showflix.org:5890/live/1234567/12345/56268.m3u8
-#EXTINF:-1,CSTAR FHD
-http://showflix.org:5890/live/1234567/12345/483.m3u8
-#EXTINF:-1,CSTAR HD
-http://showflix.org:5890/live/1234567/12345/484.m3u8
-#EXTINF:-1,CSTAR H265
-http://showflix.org:5890/live/1234567/12345/56270.m3u8
-#EXTINF:-1,CSTAR HITS FHD
-http://showflix.org:5890/live/1234567/12345/485.m3u8
-#EXTINF:-1,RTS UN FHD
-http://showflix.org:5890/live/1234567/12345/486.m3u8
-#EXTINF:-1,RTS DEUX FHD
-http://showflix.org:5890/live/1234567/12345/487.m3u8
-#EXTINF:-1,6TER FHD
-http://showflix.org:5890/live/1234567/12345/488.m3u8
-#EXTINF:-1,6TER HD
-http://showflix.org:5890/live/1234567/12345/489.m3u8
-#EXTINF:-1,6TER H265
-http://showflix.org:5890/live/1234567/12345/56281.m3u8
-#EXTINF:-1,EURONEWS HD
-http://showflix.org:5890/live/1234567/12345/500.m3u8
-#EXTINF:-1,FRANCE 24
-http://showflix.org:5890/live/1234567/12345/494.m3u8
-#EXTINF:-1,CNEWS FHD
-http://showflix.org:5890/live/1234567/12345/495.m3u8
-#EXTINF:-1,CNEWS HD
-http://showflix.org:5890/live/1234567/12345/496.m3u8
-#EXTINF:-1,CNEWS H265
-http://showflix.org:5890/live/1234567/12345/56269.m3u8
-#EXTINF:-1,I24 NEWS FHD
-http://showflix.org:5890/live/1234567/12345/497.m3u8
-#EXTINF:-1,La Chainne Meteo
-http://showflix.org:5890/live/1234567/12345/503.m3u8
-#EXTINF:-1,LCI FHD
-http://showflix.org:5890/live/1234567/12345/504.m3u8
-#EXTINF:-1,LCI H265
-http://showflix.org:5890/live/1234567/12345/56271.m3u8
-#EXTINF:-1,LCP H265
-http://showflix.org:5890/live/1234567/12345/56259.m3u8
-#EXTINF:-1,TV5MONDE FHD
-http://showflix.org:5890/live/1234567/12345/501.m3u8
-#EXTINF:-1,FRANCE INFO FHD
-http://showflix.org:5890/live/1234567/12345/502.m3u8
-#EXTINF:-1,BFM TV FHD
-http://showflix.org:5890/live/1234567/12345/498.m3u8
-#EXTINF:-1,BFM TV HD
-http://showflix.org:5890/live/1234567/12345/499.m3u8
-#EXTINF:-1,BFMTV H265
-http://showflix.org:5890/live/1234567/12345/56272.m3u8
-#EXTINF:-1,BFM PARIS H265
-http://showflix.org:5890/live/1234567/12345/56340.m3u8
-#EXTINF:-1,TF1 SERIES FILMS FHD
-http://showflix.org:5890/live/1234567/12345/506.m3u8
-#EXTINF:-1,TF1 SERIES FILMS HD
-http://showflix.org:5890/live/1234567/12345/507.m3u8
-#EXTINF:-1,TF1 SERIES FILMS H265
-http://showflix.org:5890/live/1234567/12345/56279.m3u8
-#EXTINF:-1,TFX FHD
-http://showflix.org:5890/live/1234567/12345/508.m3u8
-#EXTINF:-1,TFX HD
-http://showflix.org:5890/live/1234567/12345/509.m3u8
-#EXTINF:-1,TFX H265
-http://showflix.org:5890/live/1234567/12345/56278.m3u8
-#EXTINF:-1,TEVA FHD
-http://showflix.org:5890/live/1234567/12345/491.m3u8
-#EXTINF:-1,TEVA HD
-http://showflix.org:5890/live/1234567/12345/492.m3u8
-#EXTINF:-1,TEVA H265
-http://showflix.org:5890/live/1234567/12345/56307.m3u8
-#EXTINF:-1,RTL 9 FHD
-http://showflix.org:5890/live/1234567/12345/490.m3u8
-#EXTINF:-1,RTL9 H265
-http://showflix.org:5890/live/1234567/12345/56282.m3u8
-#EXTINF:-1,13EME RUE FHD
-http://showflix.org:5890/live/1234567/12345/518.m3u8
-#EXTINF:-1,13EME RUE HD
-http://showflix.org:5890/live/1234567/12345/519.m3u8
-#EXTINF:-1,AB1 FHD
-http://showflix.org:5890/live/1234567/12345/522.m3u8
-#EXTINF:-1,AB1 HD
-http://showflix.org:5890/live/1234567/12345/523.m3u8
-#EXTINF:-1,AB3 FHD
-http://showflix.org:5890/live/1234567/12345/524.m3u8
-#EXTINF:-1,AB3 HD
-http://showflix.org:5890/live/1234567/12345/525.m3u8
-#EXTINF:-1,ACTION FHD
-http://showflix.org:5890/live/1234567/12345/545.m3u8
-#EXTINF:-1,ACTION HD
-http://showflix.org:5890/live/1234567/12345/546.m3u8
-#EXTINF:-1,ACTION H265
-http://showflix.org:5890/live/1234567/12345/56304.m3u8
-#EXTINF:-1,ARTE FHD
-http://showflix.org:5890/live/1234567/12345/514.m3u8
-#EXTINF:-1,ARTE HD
-http://showflix.org:5890/live/1234567/12345/515.m3u8
-#EXTINF:-1,ARTE H265
-http://showflix.org:5890/live/1234567/12345/56266.m3u8
-#EXTINF:-1,ALTICE STUDIO FHD
-http://showflix.org:5890/live/1234567/12345/510.m3u8
-#EXTINF:-1,NRJ 12 FHD
-http://showflix.org:5890/live/1234567/12345/685.m3u8
-#EXTINF:-1,BET* FHD
-http://showflix.org:5890/live/1234567/12345/550.m3u8
-#EXTINF:-1,CHERIE 25 FHD
-http://showflix.org:5890/live/1234567/12345/520.m3u8
-#EXTINF:-1,CHERIE 25 HD
-http://showflix.org:5890/live/1234567/12345/521.m3u8
-#EXTINF:-1,COMEDIE+ FHD
-http://showflix.org:5890/live/1234567/12345/547.m3u8
-#EXTINF:-1,COMEDIE+ HD
-http://showflix.org:5890/live/1234567/12345/548.m3u8
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://showflix.org:5890/live/1234567/12345/512.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://showflix.org:5890/live/1234567/12345/513.m3u8
-#EXTINF:-1,DEMAIN ! IDF FHD
-http://showflix.org:5890/live/1234567/12345/551.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://showflix.org:5890/live/1234567/12345/535.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://showflix.org:5890/live/1234567/12345/536.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL DECALE  FHD
-http://showflix.org:5890/live/1234567/12345/537.m3u8
-#EXTINF:-1,PARIS PREMIERE FHD
-http://showflix.org:5890/live/1234567/12345/543.m3u8
-#EXTINF:-1,PARIS PREMIERE HD
-http://showflix.org:5890/live/1234567/12345/544.m3u8
-#EXTINF:-1,POLAR+ FHD
-http://showflix.org:5890/live/1234567/12345/530.m3u8
-#EXTINF:-1,POLAR+ HD
-http://showflix.org:5890/live/1234567/12345/531.m3u8
-#EXTINF:-1,RMC STORY FHD
-http://showflix.org:5890/live/1234567/12345/526.m3u8
-#EXTINF:-1,RMC STORY HD
-http://showflix.org:5890/live/1234567/12345/527.m3u8
-#EXTINF:-1,RMC STORY H265
-http://showflix.org:5890/live/1234567/12345/56283.m3u8
-#EXTINF:-1,SERIE CLUB FHD
-http://showflix.org:5890/live/1234567/12345/528.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://showflix.org:5890/live/1234567/12345/529.m3u8
-#EXTINF:-1,SYFY FHD
-http://showflix.org:5890/live/1234567/12345/516.m3u8
-#EXTINF:-1,SYFY HD
-http://showflix.org:5890/live/1234567/12345/517.m3u8
-#EXTINF:-1,TCM CINEMA FHD
-http://showflix.org:5890/live/1234567/12345/538.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://showflix.org:5890/live/1234567/12345/539.m3u8
-#EXTINF:-1,TMC FHD
-http://showflix.org:5890/live/1234567/12345/540.m3u8
-#EXTINF:-1,TMC HD
-http://showflix.org:5890/live/1234567/12345/541.m3u8
-#EXTINF:-1,TMC H265
-http://showflix.org:5890/live/1234567/12345/56280.m3u8
-#EXTINF:-1,TMC+1 FHD
-http://showflix.org:5890/live/1234567/12345/542.m3u8
-#EXTINF:-1,SUNDANCE TV FHD
-http://showflix.org:5890/live/1234567/12345/511.m3u8
-#EXTINF:-1,TV BREIZH FHD
-http://showflix.org:5890/live/1234567/12345/533.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://showflix.org:5890/live/1234567/12345/534.m3u8
-#EXTINF:-1,WARNER TV FHD
-http://showflix.org:5890/live/1234567/12345/532.m3u8
-#EXTINF:-1,NRJ12 H265
-http://showflix.org:5890/live/1234567/12345/56277.m3u8
-#EXTINF:-1,MY CUISINE H265
-http://showflix.org:5890/live/1234567/12345/56308.m3u8
-#EXTINF:-1,ALTICE STUDIO H265
-http://showflix.org:5890/live/1234567/12345/56331.m3u8
-#EXTINF:-1,WARNER TV H265
-http://showflix.org:5890/live/1234567/12345/56332.m3u8
-#EXTINF:-1,CANAL+ FHD
-http://showflix.org:5890/live/1234567/12345/553.m3u8
-#EXTINF:-1,CANAL+ HD
-http://showflix.org:5890/live/1234567/12345/554.m3u8
-#EXTINF:-1,CANAL+ H265
-http://showflix.org:5890/live/1234567/12345/56293.m3u8
-#EXTINF:-1,CANAL+ CINEMA FHD
-http://showflix.org:5890/live/1234567/12345/555.m3u8
-#EXTINF:-1,CANAL+ CINEMA HD
-http://showflix.org:5890/live/1234567/12345/556.m3u8
-#EXTINF:-1,CANAL+ CINEMA H265
-http://showflix.org:5890/live/1234567/12345/56292.m3u8
-#EXTINF:-1,CANAL+ DECALE FHD
-http://showflix.org:5890/live/1234567/12345/557.m3u8
-#EXTINF:-1,CANAL+ DECALE HD
-http://showflix.org:5890/live/1234567/12345/558.m3u8
-#EXTINF:-1,CANAL+ DECALE H265
-http://showflix.org:5890/live/1234567/12345/56301.m3u8
-#EXTINF:-1,CANAL+ FAMILY FHD
-http://showflix.org:5890/live/1234567/12345/559.m3u8
-#EXTINF:-1,CANAL+ FAMILY HD
-http://showflix.org:5890/live/1234567/12345/560.m3u8
-#EXTINF:-1,CANAL+ FAMILY h265
-http://showflix.org:5890/live/1234567/12345/56300.m3u8
-#EXTINF:-1,CANAL+ SERIES FHD
-http://showflix.org:5890/live/1234567/12345/561.m3u8
-#EXTINF:-1,CANAL+ SERIES HD
-http://showflix.org:5890/live/1234567/12345/562.m3u8
-#EXTINF:-1,CANAL+ SERIES H265
-http://showflix.org:5890/live/1234567/12345/56294.m3u8
-#EXTINF:-1,CINE+ PREMIER FHD
-http://showflix.org:5890/live/1234567/12345/563.m3u8
-#EXTINF:-1,CINE+ PREMIER HD
-http://showflix.org:5890/live/1234567/12345/564.m3u8
-#EXTINF:-1,CINE+ PREMIER H265
-http://showflix.org:5890/live/1234567/12345/56306.m3u8
-#EXTINF:-1,CINE+ CLUB FHD
-http://showflix.org:5890/live/1234567/12345/565.m3u8
-#EXTINF:-1,CINE+ CLUB HD
-http://showflix.org:5890/live/1234567/12345/566.m3u8
-#EXTINF:-1,CINE+ CLASSIC FHD
-http://showflix.org:5890/live/1234567/12345/569.m3u8
-#EXTINF:-1,CINE+ CLASSIC HD
-http://showflix.org:5890/live/1234567/12345/570.m3u8
-#EXTINF:-1,CINE+ CLASSIC H265
-http://showflix.org:5890/live/1234567/12345/56319.m3u8
-#EXTINF:-1,CINE+ EMOTION FHD
-http://showflix.org:5890/live/1234567/12345/571.m3u8
-#EXTINF:-1,CINE+ EMOTION HD
-http://showflix.org:5890/live/1234567/12345/572.m3u8
-#EXTINF:-1,CINE+ EMOTION H265
-http://showflix.org:5890/live/1234567/12345/56305.m3u8
-#EXTINF:-1,CINE+ FRISSON FHD
-http://showflix.org:5890/live/1234567/12345/573.m3u8
-#EXTINF:-1,CINE+ FRISSON HD
-http://showflix.org:5890/live/1234567/12345/574.m3u8
-#EXTINF:-1,CINE+ FRISSON H265
-http://showflix.org:5890/live/1234567/12345/56302.m3u8
-#EXTINF:-1,CINE+ FAMIZ FHD
-http://showflix.org:5890/live/1234567/12345/567.m3u8
-#EXTINF:-1,CINE+ FAMIZ HD
-http://showflix.org:5890/live/1234567/12345/568.m3u8
-#EXTINF:-1,CINE+ FAMIZ H265
-http://showflix.org:5890/live/1234567/12345/56318.m3u8
-#EXTINF:-1,OCS CHOC FHD
-http://showflix.org:5890/live/1234567/12345/575.m3u8
-#EXTINF:-1,OCS Choc HD
-http://showflix.org:5890/live/1234567/12345/576.m3u8
-#EXTINF:-1,OCS CHOC H265
-http://showflix.org:5890/live/1234567/12345/56317.m3u8
-#EXTINF:-1,OCS CITY FHD
-http://showflix.org:5890/live/1234567/12345/577.m3u8
-#EXTINF:-1,OCS CITY HD
-http://showflix.org:5890/live/1234567/12345/578.m3u8
-#EXTINF:-1,OCS CITY H265
-http://showflix.org:5890/live/1234567/12345/56315.m3u8
-#EXTINF:-1,OCS GEANTS FHD
-http://showflix.org:5890/live/1234567/12345/579.m3u8
-#EXTINF:-1,OCS GEANTS HD
-http://showflix.org:5890/live/1234567/12345/580.m3u8
-#EXTINF:-1,OCS GEANTS H265
-http://showflix.org:5890/live/1234567/12345/56316.m3u8
-#EXTINF:-1,OCS MAX FHD
-http://showflix.org:5890/live/1234567/12345/581.m3u8
-#EXTINF:-1,OCS Max HD
-http://showflix.org:5890/live/1234567/12345/582.m3u8
-#EXTINF:-1,OCS MAX H265
-http://showflix.org:5890/live/1234567/12345/56314.m3u8
-#EXTINF:-1,CANAL+ SPORT FHD
-http://showflix.org:5890/live/1234567/12345/584.m3u8
-#EXTINF:-1,CANAL+ SPORT HD
-http://showflix.org:5890/live/1234567/12345/585.m3u8
-#EXTINF:-1,CANAL+ SPORT H265
-http://showflix.org:5890/live/1234567/12345/56295.m3u8
-#EXTINF:-1,beIN SPORTS 1 FHD
-http://showflix.org:5890/live/1234567/12345/58334.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://showflix.org:5890/live/1234567/12345/587.m3u8
-#EXTINF:-1,beIN SPORTS 1 H265
-http://showflix.org:5890/live/1234567/12345/56285.m3u8
-#EXTINF:-1,beIN SPORTS 2 FHD
-http://showflix.org:5890/live/1234567/12345/588.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://showflix.org:5890/live/1234567/12345/589.m3u8
-#EXTINF:-1,beIN SPORTS 2 H265
-http://showflix.org:5890/live/1234567/12345/56286.m3u8
-#EXTINF:-1,beIN SPORTS 3 FHD
-http://showflix.org:5890/live/1234567/12345/590.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://showflix.org:5890/live/1234567/12345/591.m3u8
-#EXTINF:-1,beIN SPORTS 3 H265
-http://showflix.org:5890/live/1234567/12345/56287.m3u8
-#EXTINF:-1,beIN SPORTS MAX 4 FHD
-http://showflix.org:5890/live/1234567/12345/592.m3u8
-#EXTINF:-1,beIN SPORTS MAX 5 FHD
-http://showflix.org:5890/live/1234567/12345/593.m3u8
-#EXTINF:-1,beIN SPORTS MAX 6 FHD
-http://showflix.org:5890/live/1234567/12345/594.m3u8
-#EXTINF:-1,beIN SPORTS MAX 7 FHD
-http://showflix.org:5890/live/1234567/12345/595.m3u8
-#EXTINF:-1,beIN SPORTS MAX 8 FHD
-http://showflix.org:5890/live/1234567/12345/596.m3u8
-#EXTINF:-1,beIN SPORTS  MAX 9 FHD
-http://showflix.org:5890/live/1234567/12345/597.m3u8
-#EXTINF:-1,beIN SPORTS MAX 10 FHD
-http://showflix.org:5890/live/1234567/12345/598.m3u8
-#EXTINF:-1,RMC SPORT NEWS FHD
-http://showflix.org:5890/live/1234567/12345/599.m3u8
-#EXTINF:-1,RMC SPORT NEWS HD
-http://showflix.org:5890/live/1234567/12345/600.m3u8
-#EXTINF:-1,RMC SPORT 1 FHD
-http://showflix.org:5890/live/1234567/12345/601.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://showflix.org:5890/live/1234567/12345/602.m3u8
-#EXTINF:-1,RMC SPORT1 H265
-http://showflix.org:5890/live/1234567/12345/56288.m3u8
-#EXTINF:-1,RMC SPORT ACCESS 1 HD
-http://showflix.org:5890/live/1234567/12345/59761.m3u8
-#EXTINF:-1,RMC SPORT 2 FHD
-http://showflix.org:5890/live/1234567/12345/603.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://showflix.org:5890/live/1234567/12345/604.m3u8
-#EXTINF:-1,RMC SPORT2 H265
-http://showflix.org:5890/live/1234567/12345/56289.m3u8
-#EXTINF:-1,RMC SPORT ACCESS 2 HD
-http://showflix.org:5890/live/1234567/12345/59762.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD
-http://showflix.org:5890/live/1234567/12345/605.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://showflix.org:5890/live/1234567/12345/606.m3u8
-#EXTINF:-1,RMC SPORT3 H265
-http://showflix.org:5890/live/1234567/12345/56290.m3u8
-#EXTINF:-1,RMC SPORT ACCESS 3 HD
-http://showflix.org:5890/live/1234567/12345/59763.m3u8
-#EXTINF:-1,RMC SPORT 4 FHD
-http://showflix.org:5890/live/1234567/12345/607.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://showflix.org:5890/live/1234567/12345/608.m3u8
-#EXTINF:-1,RMC SPORT4 H265
-http://showflix.org:5890/live/1234567/12345/56291.m3u8
-#EXTINF:-1,RMC SPORT 5 HD
-http://showflix.org:5890/live/1234567/12345/609.m3u8
-#EXTINF:-1,RMC SPORT 6 HD
-http://showflix.org:5890/live/1234567/12345/610.m3u8
-#EXTINF:-1,RMC SPORT 7 HD
-http://showflix.org:5890/live/1234567/12345/611.m3u8
-#EXTINF:-1,RMC SPORT 8 HD
-http://showflix.org:5890/live/1234567/12345/612.m3u8
-#EXTINF:-1,RMC SPORT 9 HD
-http://showflix.org:5890/live/1234567/12345/613.m3u8
-#EXTINF:-1,RMC SPORT 10 HD
-http://showflix.org:5890/live/1234567/12345/614.m3u8
-#EXTINF:-1,GOLF CHANNEL FHD
-http://showflix.org:5890/live/1234567/12345/630.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
-http://showflix.org:5890/live/1234567/12345/631.m3u8
-#EXTINF:-1,GOLF+ FHD
-http://showflix.org:5890/live/1234567/12345/632.m3u8
-#EXTINF:-1,GOLF+ HD
-http://showflix.org:5890/live/1234567/12345/633.m3u8
-#EXTINF:-1,INFOSPORT+ HD
-http://showflix.org:5890/live/1234567/12345/621.m3u8
-#EXTINF:-1,EQUIDIA LIVE FHD
-http://showflix.org:5890/live/1234567/12345/624.m3u8
-#EXTINF:-1,EQUIDIA LIVE HD
-http://showflix.org:5890/live/1234567/12345/625.m3u8
-#EXTINF:-1,EQUIDIA H265
-http://showflix.org:5890/live/1234567/12345/56313.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://showflix.org:5890/live/1234567/12345/626.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://showflix.org:5890/live/1234567/12345/627.m3u8
-#EXTINF:-1,EUROSPORT H265
-http://showflix.org:5890/live/1234567/12345/56334.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD
-http://showflix.org:5890/live/1234567/12345/628.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://showflix.org:5890/live/1234567/12345/629.m3u8
-#EXTINF:-1,EUROSPORT2 H265
-http://showflix.org:5890/live/1234567/12345/56335.m3u8
-#EXTINF:-1,FOOT+ 24/24 HD
-http://showflix.org:5890/live/1234567/12345/635.m3u8
-#EXTINF:-1,FOOT+ 24/24 FHD
-http://showflix.org:5890/live/1234567/12345/634.m3u8
-#EXTINF:-1,L'EQUIPE FHD
-http://showflix.org:5890/live/1234567/12345/622.m3u8
-#EXTINF:-1,L'EQUIPE HD
-http://showflix.org:5890/live/1234567/12345/623.m3u8
-#EXTINF:-1,L'EQUIPE H265
-http://showflix.org:5890/live/1234567/12345/56275.m3u8
-#EXTINF:-1,MULTI SPORTS 1HD
-http://showflix.org:5890/live/1234567/12345/615.m3u8
-#EXTINF:-1,MULTI SPORTS 2HD
-http://showflix.org:5890/live/1234567/12345/616.m3u8
-#EXTINF:-1,MULTI SPORTS 3HD
-http://showflix.org:5890/live/1234567/12345/617.m3u8
-#EXTINF:-1,MULTI SPORTS 4HD
-http://showflix.org:5890/live/1234567/12345/618.m3u8
-#EXTINF:-1,MULTI SPORTS 5HD
-http://showflix.org:5890/live/1234567/12345/619.m3u8
-#EXTINF:-1,MULTI SPORTS 6HD
-http://showflix.org:5890/live/1234567/12345/620.m3u8
-#EXTINF:-1,USHUAIA FHD
-http://showflix.org:5890/live/1234567/12345/643.m3u8
-#EXTINF:-1,USHUAIA HD
-http://showflix.org:5890/live/1234567/12345/644.m3u8
-#EXTINF:-1,USHUAIA H265
-http://showflix.org:5890/live/1234567/12345/56326.m3u8
-#EXTINF:-1,ANIMAUX FHD
-http://showflix.org:5890/live/1234567/12345/645.m3u8
-#EXTINF:-1,ANIMAUX HD
-http://showflix.org:5890/live/1234567/12345/646.m3u8
-#EXTINF:-1,ANIMAUX H265
-http://showflix.org:5890/live/1234567/12345/56296.m3u8
-#EXTINF:-1,SEASON HD
-http://showflix.org:5890/live/1234567/12345/640.m3u8
-#EXTINF:-1,SEASONS FHD
-http://showflix.org:5890/live/1234567/12345/639.m3u8
-#EXTINF:-1,HISTOIRE FHD
-http://showflix.org:5890/live/1234567/12345/659.m3u8
-#EXTINF:-1,HISTOIRE HD
-http://showflix.org:5890/live/1234567/12345/660.m3u8
-#EXTINF:-1,TREK FHD
-http://showflix.org:5890/live/1234567/12345/641.m3u8
-#EXTINF:-1,TREK HD
-http://showflix.org:5890/live/1234567/12345/642.m3u8
-#EXTINF:-1,VOYAGE FHD
-http://showflix.org:5890/live/1234567/12345/672.m3u8
-#EXTINF:-1,VOYAGE HD
-http://showflix.org:5890/live/1234567/12345/673.m3u8
-#EXTINF:-1,PLANETE+ FHD
-http://showflix.org:5890/live/1234567/12345/647.m3u8
-#EXTINF:-1,PLANETE+ HD
-http://showflix.org:5890/live/1234567/12345/648.m3u8
-#EXTINF:-1,PLANETE+ H265
-http://showflix.org:5890/live/1234567/12345/56320.m3u8
-#EXTINF:-1,PLANETE+ A&E FHD
-http://showflix.org:5890/live/1234567/12345/649.m3u8
-#EXTINF:-1,PLANETE+ A&E HD
-http://showflix.org:5890/live/1234567/12345/650.m3u8
-#EXTINF:-1,PLANETE+A&E H265
-http://showflix.org:5890/live/1234567/12345/56327.m3u8
-#EXTINF:-1,PLANETE+ CI FHD
-http://showflix.org:5890/live/1234567/12345/651.m3u8
-#EXTINF:-1,PLANETE+ CI HD
-http://showflix.org:5890/live/1234567/12345/652.m3u8
-#EXTINF:-1,PLANETE + CI H265
-http://showflix.org:5890/live/1234567/12345/56328.m3u8
-#EXTINF:-1,SCIENCE ET VIE FHD
-http://showflix.org:5890/live/1234567/12345/661.m3u8
-#EXTINF:-1,SCIENCE&VIE HD
-http://showflix.org:5890/live/1234567/12345/662.m3u8
-#EXTINF:-1,SCIENCES&VIE H265
-http://showflix.org:5890/live/1234567/12345/56330.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://showflix.org:5890/live/1234567/12345/665.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://showflix.org:5890/live/1234567/12345/666.m3u8
-#EXTINF:-1,DISCOVERY H265
-http://showflix.org:5890/live/1234567/12345/56321.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://showflix.org:5890/live/1234567/12345/669.m3u8
-#EXTINF:-1,DISCOVERY INV HD
-http://showflix.org:5890/live/1234567/12345/670.m3u8
-#EXTINF:-1,DISCOVERY INVES H265
-http://showflix.org:5890/live/1234567/12345/56324.m3u8
-#EXTINF:-1,DISCOVERY FAMILY FHD
-http://showflix.org:5890/live/1234567/12345/671.m3u8
-#EXTINF:-1,DISCOVERY FAMILY H265
-http://showflix.org:5890/live/1234567/12345/56322.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://showflix.org:5890/live/1234567/12345/667.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://showflix.org:5890/live/1234567/12345/668.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE H265
-http://showflix.org:5890/live/1234567/12345/56323.m3u8
-#EXTINF:-1,CRIME DISTRICT FHD
-http://showflix.org:5890/live/1234567/12345/663.m3u8
-#EXTINF:-1,CRIME DISTRICT HD
-http://showflix.org:5890/live/1234567/12345/664.m3u8
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://showflix.org:5890/live/1234567/12345/653.m3u8
-#EXTINF:-1,RMC DECOUVERTE HD
-http://showflix.org:5890/live/1234567/12345/654.m3u8
-#EXTINF:-1,RMC DECOUVERTE H265
-http://showflix.org:5890/live/1234567/12345/56284.m3u8
-#EXTINF:-1,NATIONAL GEO FHD
-http://showflix.org:5890/live/1234567/12345/655.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://showflix.org:5890/live/1234567/12345/656.m3u8
-#EXTINF:-1,NATIONAL GEO CHANNEL H265
-http://showflix.org:5890/live/1234567/12345/56309.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://showflix.org:5890/live/1234567/12345/657.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://showflix.org:5890/live/1234567/12345/658.m3u8
-#EXTINF:-1,NAT GEO WILD H265
-http://showflix.org:5890/live/1234567/12345/56297.m3u8
-#EXTINF:-1,Toute l'histoire FHD
-http://showflix.org:5890/live/1234567/12345/674.m3u8
-#EXTINF:-1,TOUTE L HISTOIRE H265
-http://showflix.org:5890/live/1234567/12345/56276.m3u8
-#EXTINF:-1,CHASSE ET PECHE FHD
-http://showflix.org:5890/live/1234567/12345/675.m3u8
-#EXTINF:-1,CHASSE & PECHE H265
-http://showflix.org:5890/live/1234567/12345/56329.m3u8
-#EXTINF:-1,BOING FHD
-http://showflix.org:5890/live/1234567/12345/735.m3u8
-#EXTINF:-1,BOING HD
-http://showflix.org:5890/live/1234567/12345/736.m3u8
-#EXTINF:-1,BOOMERANG FHD
-http://showflix.org:5890/live/1234567/12345/733.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://showflix.org:5890/live/1234567/12345/734.m3u8
-#EXTINF:-1,BOOMERANG H265
-http://showflix.org:5890/live/1234567/12345/56303.m3u8
-#EXTINF:-1,CANAL J FHD
-http://showflix.org:5890/live/1234567/12345/715.m3u8
-#EXTINF:-1,CANAL J HD
-http://showflix.org:5890/live/1234567/12345/716.m3u8
-#EXTINF:-1,CANALJ H265
-http://showflix.org:5890/live/1234567/12345/56325.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14003
+#EXTINF:-1,M6 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/90
+#EXTINF:-1,BEINSPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14160
+#EXTINF:-1,FR|BEINSPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14170
+#EXTINF:-1,BEINSPORT 1 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/92
+#EXTINF:-1,BEINSPORTS 2 F.HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14159
+#EXTINF:-1,FR|BEINSPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14169
+#EXTINF:-1,BEINSPORT 2 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/93
+#EXTINF:-1,BEINSPORTS 3 F.HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14158
+#EXTINF:-1,FR|BEINSPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/14168
+#EXTINF:-1,BEINSPORT 3 SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/94
 #EXTINF:-1,DISNEY CHANNEL FHD
-http://showflix.org:5890/live/1234567/12345/737.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://showflix.org:5890/live/1234567/12345/738.m3u8
-#EXTINF:-1,DISNEY CHANNEL H265
-http://showflix.org:5890/live/1234567/12345/56310.m3u8
-#EXTINF:-1,DISNEY CINEMA FHD
-http://showflix.org:5890/live/1234567/12345/739.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://showflix.org:5890/live/1234567/12345/740.m3u8
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://showflix.org:5890/live/1234567/12345/741.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://showflix.org:5890/live/1234567/12345/742.m3u8
-#EXTINF:-1,DISNEY JUNIOR H265
-http://showflix.org:5890/live/1234567/12345/56311.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13861
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24948
+#EXTINF:-1,DISNEY CHANNEL SD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1040
+#EXTINF:-1,DISNEY CHANNEL +1  FHD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13849
+#EXTINF:-1,DISNEY CHANNEL +1  HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/1041
 #EXTINF:-1,DISNEY XD FHD
-http://showflix.org:5890/live/1234567/12345/743.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/13862
 #EXTINF:-1,DISNEY XD HD
-http://showflix.org:5890/live/1234567/12345/744.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD
-http://showflix.org:5890/live/1234567/12345/749.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://showflix.org:5890/live/1234567/12345/750.m3u8
-#EXTINF:-1,CARTOON NETWORK H265
-http://showflix.org:5890/live/1234567/12345/56299.m3u8
-#EXTINF:-1,GAME ONE FHD
-http://showflix.org:5890/live/1234567/12345/719.m3u8
-#EXTINF:-1,GAME ONE HD
-http://showflix.org:5890/live/1234567/12345/720.m3u8
-#EXTINF:-1,GAME ONE H265
-http://showflix.org:5890/live/1234567/12345/56339.m3u8
-#EXTINF:-1,GULLI FHD
-http://showflix.org:5890/live/1234567/12345/725.m3u8
-#EXTINF:-1,GULLI HD
-http://showflix.org:5890/live/1234567/12345/726.m3u8
-#EXTINF:-1,GULLI H265
-http://showflix.org:5890/live/1234567/12345/56274.m3u8
-#EXTINF:-1,MANGAS FHD
-http://showflix.org:5890/live/1234567/12345/721.m3u8
-#EXTINF:-1,MANGAS HD
-http://showflix.org:5890/live/1234567/12345/722.m3u8
-#EXTINF:-1,PIWI+ FHD
-http://showflix.org:5890/live/1234567/12345/723.m3u8
-#EXTINF:-1,PIWI+ HD
-http://showflix.org:5890/live/1234567/12345/724.m3u8
-#EXTINF:-1,TELETOON+ FHD
-http://showflix.org:5890/live/1234567/12345/727.m3u8
-#EXTINF:-1,TELETOON+ HD
-http://showflix.org:5890/live/1234567/12345/728.m3u8
-#EXTINF:-1,TIJI FHD
-http://showflix.org:5890/live/1234567/12345/729.m3u8
-#EXTINF:-1,TIJI HD
-http://showflix.org:5890/live/1234567/12345/730.m3u8
-#EXTINF:-1,TOONAMI FHD
-http://showflix.org:5890/live/1234567/12345/731.m3u8
-#EXTINF:-1,TOONAMI HD
-http://showflix.org:5890/live/1234567/12345/732.m3u8
-#EXTINF:-1,J-ONE FHD
-http://showflix.org:5890/live/1234567/12345/717.m3u8
-#EXTINF:-1,J-ONE HD
-http://showflix.org:5890/live/1234567/12345/718.m3u8
-#EXTINF:-1,NICKELODEON FHD
-http://showflix.org:5890/live/1234567/12345/745.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://showflix.org:5890/live/1234567/12345/746.m3u8
-#EXTINF:-1,NICKELODEON H265
-http://showflix.org:5890/live/1234567/12345/56338.m3u8
-#EXTINF:-1,NICK JUNIOR FHD
-http://showflix.org:5890/live/1234567/12345/747.m3u8
-#EXTINF:-1,NICK JUNIOR H265
-http://showflix.org:5890/live/1234567/12345/56336.m3u8
-#EXTINF:-1,Nickelodeon 4 TEEN FHD
-http://showflix.org:5890/live/1234567/12345/748.m3u8
-#EXTINF:-1,NICKELODEON 4TEEN H265
-http://showflix.org:5890/live/1234567/12345/56337.m3u8
-#EXTINF:-1,MTV FRANCE FHD
-http://showflix.org:5890/live/1234567/12345/677.m3u8
-#EXTINF:-1,MTV HITS FHD
-http://showflix.org:5890/live/1234567/12345/678.m3u8
-#EXTINF:-1,DJAZZ TV HD
-http://showflix.org:5890/live/1234567/12345/682.m3u8
-#EXTINF:-1,M6 MUSIC FHD
-http://showflix.org:5890/live/1234567/12345/679.m3u8
-#EXTINF:-1,M6 MUSIC H265
-http://showflix.org:5890/live/1234567/12345/56298.m3u8
-#EXTINF:-1,MCM FHD
-http://showflix.org:5890/live/1234567/12345/680.m3u8
-#EXTINF:-1,MCM TOP FHD
-http://showflix.org:5890/live/1234567/12345/681.m3u8
-#EXTINF:-1,MCM TOP H265
-http://showflix.org:5890/live/1234567/12345/56312.m3u8
-#EXTINF:-1,NRJ HITS HD
-http://showflix.org:5890/live/1234567/12345/686.m3u8
-#EXTINF:-1,TRACE AFRICA FHD
-http://showflix.org:5890/live/1234567/12345/687.m3u8
-#EXTINF:-1,TRACE TROPICAL HD
-http://showflix.org:5890/live/1234567/12345/688.m3u8
-#EXTINF:-1,TRACE URBAN FHD
-http://showflix.org:5890/live/1234567/12345/689.m3u8
-#EXTINF:-1,TRACE MZIKI
-http://showflix.org:5890/live/1234567/12345/690.m3u8
-#EXTINF:-1,TRACE NAIJA
-http://showflix.org:5890/live/1234567/12345/691.m3u8
-#EXTINF:-1,TRACE TOCA
-http://showflix.org:5890/live/1234567/12345/692.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://showflix.org:5890/live/1234567/12345/684.m3u8
-#EXTINF:-1,VH1 FHD
-http://showflix.org:5890/live/1234567/12345/683.m3u8
-#EXTINF:-1,CANAL PLAY 1
-http://showflix.org:5890/live/1234567/12345/694.m3u8
-#EXTINF:-1,CANAL PLAY 2
-http://showflix.org:5890/live/1234567/12345/695.m3u8
-#EXTINF:-1,CANAL PLAY 3
-http://showflix.org:5890/live/1234567/12345/696.m3u8
-#EXTINF:-1,CANAL PLAY 4
-http://showflix.org:5890/live/1234567/12345/697.m3u8
-#EXTINF:-1,CANAL PLAY 5
-http://showflix.org:5890/live/1234567/12345/698.m3u8
-#EXTINF:-1,CANAL PLAY 6
-http://showflix.org:5890/live/1234567/12345/699.m3u8
-#EXTINF:-1,CANAL PLAY 7
-http://showflix.org:5890/live/1234567/12345/700.m3u8
-#EXTINF:-1,CANAL PLAY 8
-http://showflix.org:5890/live/1234567/12345/701.m3u8
-#EXTINF:-1,CANAL PLAY 9
-http://showflix.org:5890/live/1234567/12345/702.m3u8
-#EXTINF:-1,CANAL PLAY 10
-http://showflix.org:5890/live/1234567/12345/703.m3u8
-#EXTINF:-1,ALACARTE 1
-http://showflix.org:5890/live/1234567/12345/704.m3u8
-#EXTINF:-1,ALACARTE 2
-http://showflix.org:5890/live/1234567/12345/705.m3u8
-#EXTINF:-1,ALACARTE 3
-http://showflix.org:5890/live/1234567/12345/706.m3u8
-#EXTINF:-1,ALACARTE 4
-http://showflix.org:5890/live/1234567/12345/707.m3u8
-#EXTINF:-1,ALACARTE 5
-http://showflix.org:5890/live/1234567/12345/708.m3u8
-#EXTINF:-1,ALACARTE 6
-http://showflix.org:5890/live/1234567/12345/709.m3u8
-#EXTINF:-1,ALACARTE 7
-http://showflix.org:5890/live/1234567/12345/710.m3u8
-#EXTINF:-1,ALACARTE 8
-http://showflix.org:5890/live/1234567/12345/711.m3u8
-#EXTINF:-1,ALACARTE 9
-http://showflix.org:5890/live/1234567/12345/712.m3u8
-#EXTINF:-1,ALACARTE 10
-http://showflix.org:5890/live/1234567/12345/713.m3u8
-#EXTINF:-1,Canal 9
-http://showflix.org:5890/live/1234567/12345/59814.m3u8
-#EXTINF:-1,Canal Alpha Jura
-http://showflix.org:5890/live/1234567/12345/59815.m3u8
-#EXTINF:-1,Die Neue Zeit
-http://showflix.org:5890/live/1234567/12345/59816.m3u8
-#EXTINF:-1,Folx TV
-http://showflix.org:5890/live/1234567/12345/59817.m3u8
-#EXTINF:-1,Kanal 9
-http://showflix.org:5890/live/1234567/12345/59818.m3u8
-#EXTINF:-1,La Tele
-http://showflix.org:5890/live/1234567/12345/59819.m3u8
-#EXTINF:-1,La Tele
-http://showflix.org:5890/live/1234567/12345/59820.m3u8
-#EXTINF:-1,La Tele
-http://showflix.org:5890/live/1234567/12345/59821.m3u8
-#EXTINF:-1,LFM TV
-http://showflix.org:5890/live/1234567/12345/59822.m3u8
-#EXTINF:-1,Musig24
-http://showflix.org:5890/live/1234567/12345/59823.m3u8
-#EXTINF:-1,QS24
-http://showflix.org:5890/live/1234567/12345/59824.m3u8
-#EXTINF:-1,Radio 3i
-http://showflix.org:5890/live/1234567/12345/59825.m3u8
-#EXTINF:-1,Radio Pilatus TV
-http://showflix.org:5890/live/1234567/12345/59826.m3u8
-#EXTINF:-1,Rouge TV
-http://showflix.org:5890/live/1234567/12345/59827.m3u8
-#EXTINF:-1,Rouge TV
-http://showflix.org:5890/live/1234567/12345/59828.m3u8
-#EXTINF:-1,RTS 1
-http://showflix.org:5890/live/1234567/12345/59829.m3u8
-#EXTINF:-1,RTS Couleur 3
-http://showflix.org:5890/live/1234567/12345/59830.m3u8
-#EXTINF:-1,Sportal HD
-http://showflix.org:5890/live/1234567/12345/59831.m3u8
-#EXTINF:-1,Swiss Sport TV
-http://showflix.org:5890/live/1234567/12345/59832.m3u8
-#EXTINF:-1,Tele M1 HD
-http://showflix.org:5890/live/1234567/12345/59833.m3u8
-#EXTINF:-1,TeleBarn
-http://showflix.org:5890/live/1234567/12345/59834.m3u8
-#EXTINF:-1,TeleBarn
-http://showflix.org:5890/live/1234567/12345/59835.m3u8
-#EXTINF:-1,TeleBarn
-http://showflix.org:5890/live/1234567/12345/59836.m3u8
-#EXTINF:-1,Telebasel HD
-http://showflix.org:5890/live/1234567/12345/59837.m3u8
-#EXTINF:-1,TeleBielingue
-http://showflix.org:5890/live/1234567/12345/59838.m3u8
-#EXTINF:-1,TeleTicino
-http://showflix.org:5890/live/1234567/12345/59839.m3u8
-#EXTINF:-1,TVO
-http://showflix.org:5890/live/1234567/12345/59840.m3u8
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24942
+#EXTINF:-1,NATIONAL GEO (SD)
+http://iptvpro.premium-itv.com:8789/31031986/31031986/39530
+#EXTINF:-1,NATIONAL GEO WILD (SD)
+http://iptvpro.premium-itv.com:8789/31031986/31031986/39529
+#EXTINF:-1,DISCOVERY CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/31031986/31031986/39535
+#EXTINF:-1,DISCOVERY SCIENCES (SD)
+http://iptvpro.premium-itv.com:8789/31031986/31031986/39532
+#EXTINF:-1,DISCOVERY FAMILY (SD)
+http://iptvpro.premium-itv.com:8789/31031986/31031986/39534
+#EXTINF:-1,FRANCE 2 |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47475
+#EXTINF:-1,FRANCE 3 |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47476
+#EXTINF:-1,FRANCE4 |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47477
+#EXTINF:-1,FRANCE5 |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47478
+#EXTINF:-1,FRANCEO |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47487
+#EXTINF:-1,NICKELODEON 4TEEN |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47551
+#EXTINF:-1,NICKELODEON |HEVC|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47552
