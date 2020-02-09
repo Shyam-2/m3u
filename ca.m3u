@@ -1,77 +1,569 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="",CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SVdrxU4.png" group-title="Religious",Daystar Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ul9qddp.jpg" group-title="",EMCI TV (Montréal)
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="",ICI Télévision
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd861902459e1/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="",NTV (CJON-DT)
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="",NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-language="English" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTM3U
+#EXTINF:-1,ADDIK TV
+http://nbr1.co:8000/nasih/nasih/75650
+#EXTINF:-1,CANAL D HD
+http://nbr1.co:8000/nasih/nasih/75632
+#EXTINF:-1,CANAL SAVOIR
+http://nbr1.co:8000/nasih/nasih/75631
+#EXTINF:-1,CANAL VIE
+http://nbr1.co:8000/nasih/nasih/75630
+#EXTINF:-1,CASA
+http://nbr1.co:8000/nasih/nasih/75627
+#EXTINF:-1,CBC MONTREAL
+http://nbr1.co:8000/nasih/nasih/75625
+#EXTINF:-1,EVASION
+http://nbr1.co:8000/nasih/nasih/75554
+#EXTINF:-1,FRISSON
+http://nbr1.co:8000/nasih/nasih/75542
+#EXTINF:-1,MAX
+http://nbr1.co:8000/nasih/nasih/75506
+#EXTINF:-1,MEDIASET ITALIA CANADA
+http://nbr1.co:8000/nasih/nasih/75505
+#EXTINF:-1,MIRACLE
+http://nbr1.co:8000/nasih/nasih/75503
+#EXTINF:-1,MOI  CIE
+http://nbr1.co:8000/nasih/nasih/75501
+#EXTINF:-1,VIPMOI ET CIE
+http://nbr1.co:8000/nasih/nasih/80658
+#EXTINF:-1,MONTREAL  3 / TVA WEST
+http://nbr1.co:8000/nasih/nasih/75500
+#EXTINF:-1,MUSIQUE PLUS
+http://nbr1.co:8000/nasih/nasih/75492
+#EXTINF:-1,PRISE
+http://nbr1.co:8000/nasih/nasih/75468
+#EXTINF:-1,RDI
+http://nbr1.co:8000/nasih/nasih/75467
+#EXTINF:-1,RDS
+http://nbr1.co:8000/nasih/nasih/75466
+#EXTINF:-1,RDS 2
+http://nbr1.co:8000/nasih/nasih/75465
+#EXTINF:-1,RDS INFO
+http://nbr1.co:8000/nasih/nasih/75464
+#EXTINF:-1,TELE QUEBEC
+http://nbr1.co:8000/nasih/nasih/75419
+#EXTINF:-1,TELE LATINO
+http://nbr1.co:8000/nasih/nasih/75420
+#EXTINF:-1,TELE TOON FRENCH
+http://nbr1.co:8000/nasih/nasih/75416
+#EXTINF:-1,TFO
+http://nbr1.co:8000/nasih/nasih/75412
+#EXTINF:-1,TV5 QUEBEC
+http://nbr1.co:8000/nasih/nasih/75397
+#EXTINF:-1,TVA GATINEAU
+http://nbr1.co:8000/nasih/nasih/75396
+#EXTINF:-1,TVA SPORTS HD
+http://nbr1.co:8000/nasih/nasih/75395
+#EXTINF:-1,VTELE HD
+http://nbr1.co:8000/nasih/nasih/75390
+#EXTINF:-1,ZESTE
+http://nbr1.co:8000/nasih/nasih/75379
+#EXTINF:-1,ZTELE
+http://nbr1.co:8000/nasih/nasih/75378
+#EXTINF:-1,VIPTVO
+http://nbr1.co:8000/nasih/nasih/80590
+#EXTINF:-1,VRAK TV
+http://nbr1.co:8000/nasih/nasih/75391
+#EXTINF:-1, BRAVO HD
+http://nbr1.co:8000/nasih/nasih/75660
+#EXTINF:-1, Discovery HD
+http://nbr1.co:8000/nasih/nasih/75659
+#EXTINF:-1, FAMILY HD
+http://nbr1.co:8000/nasih/nasih/75658
+#EXTINF:-1,A E
+http://nbr1.co:8000/nasih/nasih/75657
+#EXTINF:-1,ABC EAST
+http://nbr1.co:8000/nasih/nasih/75656
+#EXTINF:-1,ABC HD
+http://nbr1.co:8000/nasih/nasih/75655
+#EXTINF:-1,ABC SPARK
+http://nbr1.co:8000/nasih/nasih/75654
+#EXTINF:-1,ABC SPARK HD
+http://nbr1.co:8000/nasih/nasih/75653
+#EXTINF:-1,ABC WEST
+http://nbr1.co:8000/nasih/nasih/75652
+#EXTINF:-1,ACTION
+http://nbr1.co:8000/nasih/nasih/75651
+#EXTINF:-1,AE HD
+http://nbr1.co:8000/nasih/nasih/75649
+#EXTINF:-1,AHC
+http://nbr1.co:8000/nasih/nasih/75648
+#EXTINF:-1,AMC
+http://nbr1.co:8000/nasih/nasih/75647
+#EXTINF:-1,AMC HD
+http://nbr1.co:8000/nasih/nasih/75646
+#EXTINF:-1,ANIMAL PLANET
+http://nbr1.co:8000/nasih/nasih/75645
+#EXTINF:-1,Animal Planet HD
+http://nbr1.co:8000/nasih/nasih/75644
+#EXTINF:-1,APTN HD
+http://nbr1.co:8000/nasih/nasih/75643
+#EXTINF:-1,ARTV
+http://nbr1.co:8000/nasih/nasih/75642
+#EXTINF:-1,ASSEMBLEE NATIONALE
+http://nbr1.co:8000/nasih/nasih/75641
+#EXTINF:-1,BBC CANADA
+http://nbr1.co:8000/nasih/nasih/75640
+#EXTINF:-1,BBC KIDS
+http://nbr1.co:8000/nasih/nasih/75639
+#EXTINF:-1,BBC WORLD NEWS
+http://nbr1.co:8000/nasih/nasih/75638
+#EXTINF:-1,BET
+http://nbr1.co:8000/nasih/nasih/75637
+#EXTINF:-1,BNN
+http://nbr1.co:8000/nasih/nasih/75636
+#EXTINF:-1,BNN HD
+http://nbr1.co:8000/nasih/nasih/75635
+#EXTINF:-1,BOOK TV
+http://nbr1.co:8000/nasih/nasih/75634
+#EXTINF:-1,BRAVO
+http://nbr1.co:8000/nasih/nasih/75633
+#EXTINF:-1,CARTOON NETWORK
+http://nbr1.co:8000/nasih/nasih/75628
+#EXTINF:-1,CBC CALGARY
+http://nbr1.co:8000/nasih/nasih/75626
+#EXTINF:-1,CBC Montreal HD
+http://nbr1.co:8000/nasih/nasih/75624
+#EXTINF:-1,CBC NEWS
+http://nbr1.co:8000/nasih/nasih/75623
+#EXTINF:-1,CBC NEWS HD
+http://nbr1.co:8000/nasih/nasih/75622
+#EXTINF:-1,CBC NOVA SCOTIA
+http://nbr1.co:8000/nasih/nasih/75621
+#EXTINF:-1,CBC OTTAWA
+http://nbr1.co:8000/nasih/nasih/75620
+#EXTINF:-1,CBC TORONTO
+http://nbr1.co:8000/nasih/nasih/75619
+#EXTINF:-1,CBC Toronto HD
+http://nbr1.co:8000/nasih/nasih/75618
+#EXTINF:-1,CBC VANCOUVER
+http://nbr1.co:8000/nasih/nasih/75617
+#EXTINF:-1,CBS EAST
+http://nbr1.co:8000/nasih/nasih/75616
+#EXTINF:-1,CBS WEST
+http://nbr1.co:8000/nasih/nasih/75615
+#EXTINF:-1,CHCH
+http://nbr1.co:8000/nasih/nasih/75614
+#EXTINF:-1,CHCH HD
+http://nbr1.co:8000/nasih/nasih/75613
+#EXTINF:-1,CINEPOP
+http://nbr1.co:8000/nasih/nasih/75612
+#EXTINF:-1,CITY CALGARY
+http://nbr1.co:8000/nasih/nasih/75611
+#EXTINF:-1,CITY MONTREAL
+http://nbr1.co:8000/nasih/nasih/75610
+#EXTINF:-1,CITY SASKATCHEWAN
+http://nbr1.co:8000/nasih/nasih/75609
+#EXTINF:-1,CITY TORONTO
+http://nbr1.co:8000/nasih/nasih/75608
+#EXTINF:-1,City Toronto HD
+http://nbr1.co:8000/nasih/nasih/75607
+#EXTINF:-1,CITY VANCOUVER
+http://nbr1.co:8000/nasih/nasih/75606
+#EXTINF:-1,City Vancouver HD
+http://nbr1.co:8000/nasih/nasih/75605
+#EXTINF:-1,CITY WINNIPEG
+http://nbr1.co:8000/nasih/nasih/75604
+#EXTINF:-1,CMT CANADA
+http://nbr1.co:8000/nasih/nasih/75603
+#EXTINF:-1,CNBC HD
+http://nbr1.co:8000/nasih/nasih/75602
+#EXTINF:-1,CNN
+http://nbr1.co:8000/nasih/nasih/75601
+#EXTINF:-1,CNN HD
+http://nbr1.co:8000/nasih/nasih/75600
+#EXTINF:-1,COMEDY EAST
+http://nbr1.co:8000/nasih/nasih/75599
+#EXTINF:-1,COMEDY GOLD
+http://nbr1.co:8000/nasih/nasih/75598
+#EXTINF:-1,COMEDY HD
+http://nbr1.co:8000/nasih/nasih/75597
+#EXTINF:-1,COMEDY WEST
+http://nbr1.co:8000/nasih/nasih/75596
+#EXTINF:-1,COOKING CHANNEL
+http://nbr1.co:8000/nasih/nasih/75595
+#EXTINF:-1,COSMO
+http://nbr1.co:8000/nasih/nasih/75594
+#EXTINF:-1,COTTAGE LIFE
+http://nbr1.co:8000/nasih/nasih/75593
+#EXTINF:-1,Cottage Life HD
+http://nbr1.co:8000/nasih/nasih/75592
+#EXTINF:-1,CP 24 HD
+http://nbr1.co:8000/nasih/nasih/75591
+#EXTINF:-1,CP24 HD
+http://nbr1.co:8000/nasih/nasih/75590
+#EXTINF:-1,CP24. HD
+http://nbr1.co:8000/nasih/nasih/75589
+#EXTINF:-1,CPAC
+http://nbr1.co:8000/nasih/nasih/75588
+#EXTINF:-1,CPAC FRENCH
+http://nbr1.co:8000/nasih/nasih/75587
+#EXTINF:-1,CREATE
+http://nbr1.co:8000/nasih/nasih/75586
+#EXTINF:-1,CRIME   INVEST
+http://nbr1.co:8000/nasih/nasih/75585
+#EXTINF:-1,CTV 2 VANCOUVER
+http://nbr1.co:8000/nasih/nasih/75584
+#EXTINF:-1,CTV BARRIE
+http://nbr1.co:8000/nasih/nasih/75583
+#EXTINF:-1,CTV CALGARY
+http://nbr1.co:8000/nasih/nasih/75582
+#EXTINF:-1,CTV EAST
+http://nbr1.co:8000/nasih/nasih/75581
+#EXTINF:-1,CTV HALIFAX
+http://nbr1.co:8000/nasih/nasih/75580
+#EXTINF:-1,CTV HD
+http://nbr1.co:8000/nasih/nasih/75579
+#EXTINF:-1,CTV MONTREAL
+http://nbr1.co:8000/nasih/nasih/75578
+#EXTINF:-1,CTV Montreal HD
+http://nbr1.co:8000/nasih/nasih/75577
+#EXTINF:-1,CTV NEWS HD
+http://nbr1.co:8000/nasih/nasih/75576
+#EXTINF:-1,CTV NEWS NETWORK
+http://nbr1.co:8000/nasih/nasih/75575
+#EXTINF:-1,CTV OTTAWA
+http://nbr1.co:8000/nasih/nasih/75574
+#EXTINF:-1,CTV TORONTO
+http://nbr1.co:8000/nasih/nasih/75573
+#EXTINF:-1,CTV VANCOUVER
+http://nbr1.co:8000/nasih/nasih/75572
+#EXTINF:-1,CTV2 OTTAWA
+http://nbr1.co:8000/nasih/nasih/75571
+#EXTINF:-1,CW 11 HD
+http://nbr1.co:8000/nasih/nasih/75570
+#EXTINF:-1,DAYSTAR TV
+http://nbr1.co:8000/nasih/nasih/75569
+#EXTINF:-1,DEJAVIEW
+http://nbr1.co:8000/nasih/nasih/75568
+#EXTINF:-1,DISCOVERY CANADA
+http://nbr1.co:8000/nasih/nasih/75567
+#EXTINF:-1,DISCOVERY SCIENCE CANADA
+http://nbr1.co:8000/nasih/nasih/75566
+#EXTINF:-1,DISNEY CANADA
+http://nbr1.co:8000/nasih/nasih/75565
+#EXTINF:-1,DISNEY FRENCH
+http://nbr1.co:8000/nasih/nasih/75564
+#EXTINF:-1,DISNEY JR
+http://nbr1.co:8000/nasih/nasih/75563
+#EXTINF:-1,DISNEY JR HD
+http://nbr1.co:8000/nasih/nasih/75562
+#EXTINF:-1,DIY NETWORK
+http://nbr1.co:8000/nasih/nasih/75561
+#EXTINF:-1,DIY NETWORK HD
+http://nbr1.co:8000/nasih/nasih/75560
+#EXTINF:-1,DOCUMENTARY
+http://nbr1.co:8000/nasih/nasih/75559
+#EXTINF:-1,DTOUR
+http://nbr1.co:8000/nasih/nasih/75558
+#EXTINF:-1,E! CANADA
+http://nbr1.co:8000/nasih/nasih/75557
+#EXTINF:-1,ENCORE 1 EAST
+http://nbr1.co:8000/nasih/nasih/75556
+#EXTINF:-1,ENCORE 2 EAST
+http://nbr1.co:8000/nasih/nasih/75555
+#EXTINF:-1,FAMILY CHRGD
+http://nbr1.co:8000/nasih/nasih/75553
+#EXTINF:-1,FAMILY EAST
+http://nbr1.co:8000/nasih/nasih/75552
+#EXTINF:-1,FAMILY JR
+http://nbr1.co:8000/nasih/nasih/75551
+#EXTINF:-1,FAMILY WEST
+http://nbr1.co:8000/nasih/nasih/75550
+#EXTINF:-1,FIGHT NETWORK
+http://nbr1.co:8000/nasih/nasih/75549
+#EXTINF:-1,FOOD NETWORK
+http://nbr1.co:8000/nasih/nasih/75548
+#EXTINF:-1,Food Network HD
+http://nbr1.co:8000/nasih/nasih/75547
+#EXTINF:-1,FOX EAST
+http://nbr1.co:8000/nasih/nasih/75546
+#EXTINF:-1,FOX HD
+http://nbr1.co:8000/nasih/nasih/75545
+#EXTINF:-1,FOX NEWS
+http://nbr1.co:8000/nasih/nasih/75544
+#EXTINF:-1,FOX WEST
+http://nbr1.co:8000/nasih/nasih/75543
+#EXTINF:-1,FTV CANADA
+http://nbr1.co:8000/nasih/nasih/75541
+#EXTINF:-1,FXX HD
+http://nbr1.co:8000/nasih/nasih/75540
+#EXTINF:-1,FYI
+http://nbr1.co:8000/nasih/nasih/75539
+#EXTINF:-1,Game TV
+http://nbr1.co:8000/nasih/nasih/75538
+#EXTINF:-1,GINX ESPORTS TV CANADA
+http://nbr1.co:8000/nasih/nasih/75537
+#EXTINF:-1,GLOBAL CALGARY
+http://nbr1.co:8000/nasih/nasih/75536
+#EXTINF:-1,GLOBAL EAST
+http://nbr1.co:8000/nasih/nasih/75535
+#EXTINF:-1,GLOBAL GALAGARY
+http://nbr1.co:8000/nasih/nasih/75531
+#EXTINF:-1,GLOBAL HALIFAX
+http://nbr1.co:8000/nasih/nasih/75534
+#EXTINF:-1,GLOBAL HD
+http://nbr1.co:8000/nasih/nasih/75533
+#EXTINF:-1,GLOBAL TORONTO
+http://nbr1.co:8000/nasih/nasih/75532
+#EXTINF:-1,GSN
+http://nbr1.co:8000/nasih/nasih/75530
+#EXTINF:-1,GUSTO
+http://nbr1.co:8000/nasih/nasih/75529
+#EXTINF:-1,H2 CANADA
+http://nbr1.co:8000/nasih/nasih/75528
+#EXTINF:-1,HBO 1
+http://nbr1.co:8000/nasih/nasih/75527
+#EXTINF:-1,HBO 2
+http://nbr1.co:8000/nasih/nasih/75526
+#EXTINF:-1,HBO EAST
+http://nbr1.co:8000/nasih/nasih/75525
+#EXTINF:-1,HGTV
+http://nbr1.co:8000/nasih/nasih/75524
+#EXTINF:-1,HISTORIA
+http://nbr1.co:8000/nasih/nasih/75523
+#EXTINF:-1,HISTORY HD
+http://nbr1.co:8000/nasih/nasih/75522
+#EXTINF:-1,HLN
+http://nbr1.co:8000/nasih/nasih/75521
+#EXTINF:-1,HOPE TV
+http://nbr1.co:8000/nasih/nasih/75520
+#EXTINF:-1,ICI MONTREAL
+http://nbr1.co:8000/nasih/nasih/75519
+#EXTINF:-1,ICI VANCOUVER
+http://nbr1.co:8000/nasih/nasih/75518
+#EXTINF:-1,ID CANADA
+http://nbr1.co:8000/nasih/nasih/75517
+#EXTINF:-1,ID HD
+http://nbr1.co:8000/nasih/nasih/75516
+#EXTINF:-1,IFC
+http://nbr1.co:8000/nasih/nasih/75515
+#EXTINF:-1,JOY
+http://nbr1.co:8000/nasih/nasih/75514
+#EXTINF:-1,KNOWLEDGE KIDS
+http://nbr1.co:8000/nasih/nasih/75513
+#EXTINF:-1,KTLA
+http://nbr1.co:8000/nasih/nasih/75512
+#EXTINF:-1,LCN
+http://nbr1.co:8000/nasih/nasih/75511
+#EXTINF:-1,LCN HD
+http://nbr1.co:8000/nasih/nasih/75510
+#EXTINF:-1,LIFETIME
+http://nbr1.co:8000/nasih/nasih/75509
+#EXTINF:-1,MAKEFUL
+http://nbr1.co:8000/nasih/nasih/75508
+#EXTINF:-1,MAVTV CANADA
+http://nbr1.co:8000/nasih/nasih/75507
+#EXTINF:-1,METEO
+http://nbr1.co:8000/nasih/nasih/75504
+#EXTINF:-1,MLB NETWORK
+http://nbr1.co:8000/nasih/nasih/75502
+#EXTINF:-1,MSNBC
+http://nbr1.co:8000/nasih/nasih/75499
+#EXTINF:-1,MSNBC HD
+http://nbr1.co:8000/nasih/nasih/75498
+#EXTINF:-1,MTIME
+http://nbr1.co:8000/nasih/nasih/75497
+#EXTINF:-1,MTV
+http://nbr1.co:8000/nasih/nasih/75496
+#EXTINF:-1,MTV2
+http://nbr1.co:8000/nasih/nasih/75495
+#EXTINF:-1,MUCH
+http://nbr1.co:8000/nasih/nasih/75494
+#EXTINF:-1,MUCH MUSIC
+http://nbr1.co:8000/nasih/nasih/75493
+#EXTINF:-1,NAT GEO
+http://nbr1.co:8000/nasih/nasih/75491
+#EXTINF:-1,NAT GEO WILD HD
+http://nbr1.co:8000/nasih/nasih/75490
+#EXTINF:-1,NBA TV
+http://nbr1.co:8000/nasih/nasih/75489
+#EXTINF:-1,NBC EAST
+http://nbr1.co:8000/nasih/nasih/75488
+#EXTINF:-1,NBC WEST
+http://nbr1.co:8000/nasih/nasih/75487
+#EXTINF:-1,NFL NETWORK
+http://nbr1.co:8000/nasih/nasih/75486
+#EXTINF:-1,NICK
+http://nbr1.co:8000/nasih/nasih/75485
+#EXTINF:-1,NTV
+http://nbr1.co:8000/nasih/nasih/75484
+#EXTINF:-1,OLN
+http://nbr1.co:8000/nasih/nasih/75483
+#EXTINF:-1,OLN HD
+http://nbr1.co:8000/nasih/nasih/75482
+#EXTINF:-1,Omni 1 HD
+http://nbr1.co:8000/nasih/nasih/75481
+#EXTINF:-1,OMNI 2
+http://nbr1.co:8000/nasih/nasih/75480
+#EXTINF:-1,OMNI BC
+http://nbr1.co:8000/nasih/nasih/75479
+#EXTINF:-1,OMNI EAST
+http://nbr1.co:8000/nasih/nasih/75478
+#EXTINF:-1,ONE
+http://nbr1.co:8000/nasih/nasih/75477
+#EXTINF:-1,OUTTV
+http://nbr1.co:8000/nasih/nasih/75476
+#EXTINF:-1,OWN
+http://nbr1.co:8000/nasih/nasih/75475
+#EXTINF:-1,OWN HD
+http://nbr1.co:8000/nasih/nasih/75474
+#EXTINF:-1,OWN HD (OPRAH WINFRY NETWORK)
+http://nbr1.co:8000/nasih/nasih/75473
+#EXTINF:-1,PBS EAST HD
+http://nbr1.co:8000/nasih/nasih/75472
+#EXTINF:-1,PBS WEST
+http://nbr1.co:8000/nasih/nasih/75471
+#EXTINF:-1,PEACH TREE
+http://nbr1.co:8000/nasih/nasih/75470
+#EXTINF:-1,SPORTSNET WEST HD
+http://nbr1.co:8000/nasih/nasih/75469
+#EXTINF:-1,RT AMERICA
+http://nbr1.co:8000/nasih/nasih/75463
+#EXTINF:-1,SERIES
+http://nbr1.co:8000/nasih/nasih/75462
+#EXTINF:-1,SHOPPING
+http://nbr1.co:8000/nasih/nasih/75461
+#EXTINF:-1,SHOWCASE
+http://nbr1.co:8000/nasih/nasih/75460
+#EXTINF:-1,SHOWCASE HD
+http://nbr1.co:8000/nasih/nasih/75459
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://nbr1.co:8000/nasih/nasih/75458
+#EXTINF:-1,SLICE
+http://nbr1.co:8000/nasih/nasih/75457
+#EXTINF:-1,SLICE HD
+http://nbr1.co:8000/nasih/nasih/75456
+#EXTINF:-1,SMITHSONIAN HD
+http://nbr1.co:8000/nasih/nasih/75455
+#EXTINF:-1,SPACE
+http://nbr1.co:8000/nasih/nasih/75454
+#EXTINF:-1,SPACE HD
+http://nbr1.co:8000/nasih/nasih/75453
+#EXTINF:-1,SPIKE TV
+http://nbr1.co:8000/nasih/nasih/75452
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://nbr1.co:8000/nasih/nasih/75451
+#EXTINF:-1,SPORTNET 360
+http://nbr1.co:8000/nasih/nasih/75450
+#EXTINF:-1,SPORTNET ONE
+http://nbr1.co:8000/nasih/nasih/75449
+#EXTINF:-1,SPORTNET ONTARIO
+http://nbr1.co:8000/nasih/nasih/75448
+#EXTINF:-1,SPORTS NET EAST HD
+http://nbr1.co:8000/nasih/nasih/75447
+#EXTINF:-1,SPORTS NET ONE HD
+http://nbr1.co:8000/nasih/nasih/75446
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://nbr1.co:8000/nasih/nasih/75445
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://nbr1.co:8000/nasih/nasih/75444
+#EXTINF:-1,SPORTS NET WORLD HD
+http://nbr1.co:8000/nasih/nasih/75443
+#EXTINF:-1,SPORTSMAN CHANNEL CANADA
+http://nbr1.co:8000/nasih/nasih/75442
+#EXTINF:-1,SPORTSNET 360
+http://nbr1.co:8000/nasih/nasih/75441
+#EXTINF:-1,SPORTSNET 360 HD
+http://nbr1.co:8000/nasih/nasih/75440
+#EXTINF:-1,SPORTSNET EAST
+http://nbr1.co:8000/nasih/nasih/75439
+#EXTINF:-1,SPORTSNET EAST HD
+http://nbr1.co:8000/nasih/nasih/75438
+#EXTINF:-1,SPORTSNET ONE
+http://nbr1.co:8000/nasih/nasih/75437
+#EXTINF:-1,SPORTSNET ONE HD
+http://nbr1.co:8000/nasih/nasih/75436
+#EXTINF:-1,SPORTSNET ONTARIO
+http://nbr1.co:8000/nasih/nasih/75435
+#EXTINF:-1,SPORTSNET PACIFIC
+http://nbr1.co:8000/nasih/nasih/75434
+#EXTINF:-1,SPORTSNET PACIFIC HD
+http://nbr1.co:8000/nasih/nasih/75433
+#EXTINF:-1,SPORTSNET WEST
+http://nbr1.co:8000/nasih/nasih/75432
+#EXTINF:-1,SPORTSNET WORLD
+http://nbr1.co:8000/nasih/nasih/75431
+#EXTINF:-1,SPORTSNET WORLD HD.
+http://nbr1.co:8000/nasih/nasih/75430
+#EXTINF:-1,SUPER CHANNEL 2
+http://nbr1.co:8000/nasih/nasih/75429
+#EXTINF:-1,SUPER CHANNEL FUSE
+http://nbr1.co:8000/nasih/nasih/75428
+#EXTINF:-1,SUPER CHANNEL HEART & HOME
+http://nbr1.co:8000/nasih/nasih/75427
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://nbr1.co:8000/nasih/nasih/75426
+#EXTINF:-1,SUPER ECRAN 1
+http://nbr1.co:8000/nasih/nasih/75425
+#EXTINF:-1,SUPER ECRAN 2
+http://nbr1.co:8000/nasih/nasih/75424
+#EXTINF:-1,SUPER ECRAN 3
+http://nbr1.co:8000/nasih/nasih/75423
+#EXTINF:-1,SUPER ECRAN 4
+http://nbr1.co:8000/nasih/nasih/75422
+#EXTINF:-1,TCM
+http://nbr1.co:8000/nasih/nasih/75421
+#EXTINF:-1,TELE TOON
+http://nbr1.co:8000/nasih/nasih/75418
+#EXTINF:-1,TELE TOON EAST
+http://nbr1.co:8000/nasih/nasih/75417
+#EXTINF:-1,TELE TOON WEST
+http://nbr1.co:8000/nasih/nasih/75415
+#EXTINF:-1,TELEMAGINO
+http://nbr1.co:8000/nasih/nasih/75414
+#EXTINF:-1,TELETOON
+http://nbr1.co:8000/nasih/nasih/75413
+#EXTINF:-1,THE WEATHER CHANNEL HD
+http://nbr1.co:8000/nasih/nasih/75411
+#EXTINF:-1,THE WEATHER NETWORK
+http://nbr1.co:8000/nasih/nasih/75410
+#EXTINF:-1,TLC HD CANADA
+http://nbr1.co:8000/nasih/nasih/75409
+#EXTINF:-1,TMN 1
+http://nbr1.co:8000/nasih/nasih/75408
+#EXTINF:-1,TMN 2
+http://nbr1.co:8000/nasih/nasih/75407
+#EXTINF:-1,TMN 3
+http://nbr1.co:8000/nasih/nasih/75406
+#EXTINF:-1,TMN 4
+http://nbr1.co:8000/nasih/nasih/75405
+#EXTINF:-1,TRAVEL
+http://nbr1.co:8000/nasih/nasih/75404
+#EXTINF:-1,TREEHOUSE
+http://nbr1.co:8000/nasih/nasih/75403
+#EXTINF:-1,TREEHOUSE HD
+http://nbr1.co:8000/nasih/nasih/75402
+#EXTINF:-1,TSN  3HD
+http://nbr1.co:8000/nasih/nasih/75401
+#EXTINF:-1,TSN 1HD
+http://nbr1.co:8000/nasih/nasih/75400
+#EXTINF:-1,TSN 4HD
+http://nbr1.co:8000/nasih/nasih/75399
+#EXTINF:-1,TSN 5HD
+http://nbr1.co:8000/nasih/nasih/75398
+#EXTINF:-1,TVO
+http://nbr1.co:8000/nasih/nasih/75394
+#EXTINF:-1,UNIS TV
+http://nbr1.co:8000/nasih/nasih/75393
+#EXTINF:-1,VISION
+http://nbr1.co:8000/nasih/nasih/75392
+#EXTINF:-1,W NETWORK
+http://nbr1.co:8000/nasih/nasih/75389
+#EXTINF:-1,WFN
+http://nbr1.co:8000/nasih/nasih/75388
+#EXTINF:-1,Wild TV
+http://nbr1.co:8000/nasih/nasih/75387
+#EXTINF:-1,WORLD FISHING NET
+http://nbr1.co:8000/nasih/nasih/75386
+#EXTINF:-1,WSBK
+http://nbr1.co:8000/nasih/nasih/75385
+#EXTINF:-1,WWE HD
+http://nbr1.co:8000/nasih/nasih/75384
+#EXTINF:-1,YES TV
+http://nbr1.co:8000/nasih/nasih/75383
+#EXTINF:-1,YOOPA
+http://nbr1.co:8000/nasih/nasih/75382
+#EXTINF:-1,YTV E
+http://nbr1.co:8000/nasih/nasih/75381
+#EXTINF:-1,YTV West
+http://nbr1.co:8000/nasih/nasih/75380
