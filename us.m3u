@@ -1,535 +1,437 @@
 #EXTM3U
-#EXTINF:-1,ABC Atlanta
-http://ultraplay.org:80/191225-2cl/154901/52758
-#EXTINF:-1,ABC Baltimore
-http://ultraplay.org:80/191225-2cl/154901/52776
-#EXTINF:-1,ABC Boston
-http://ultraplay.org:80/191225-2cl/154901/52759
-#EXTINF:-1,ABC Charlotte
-http://ultraplay.org:80/191225-2cl/154901/52770
-#EXTINF:-1,ABC Chicago
-http://ultraplay.org:80/191225-2cl/154901/52752
-#EXTINF:-1,ABC Cleveland
-http://ultraplay.org:80/191225-2cl/154901/52772
-#EXTINF:-1,ABC Connecticut
-http://ultraplay.org:80/191225-2cl/154901/52756
-#EXTINF:-1,ABC Dallas
-http://ultraplay.org:80/191225-2cl/154901/52762
-#EXTINF:-1,ABC Denver
-http://ultraplay.org:80/191225-2cl/154901/52765
-#EXTINF:-1,ABC Detroit
-http://ultraplay.org:80/191225-2cl/154901/52760
-#EXTINF:-1,ABC durham
-http://ultraplay.org:80/191225-2cl/154901/52753
-#EXTINF:-1,ABC Fresno
-http://ultraplay.org:80/191225-2cl/154901/52755
-#EXTINF:-1,ABC houston
-http://ultraplay.org:80/191225-2cl/154901/52754
-#EXTINF:-1,ABC Indianapolis
-http://ultraplay.org:80/191225-2cl/154901/52773
-#EXTINF:-1,ABC Kansas City
-http://ultraplay.org:80/191225-2cl/154901/52781
-#EXTINF:-1,ABC Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52748
-#EXTINF:-1,ABC Miami
-http://ultraplay.org:80/191225-2cl/154901/52769
-#EXTINF:-1,ABC Milwaukee
-http://ultraplay.org:80/191225-2cl/154901/52782
-#EXTINF:-1,ABC Nashville
-http://ultraplay.org:80/191225-2cl/154901/52767
-#EXTINF:-1,ABC New York
-http://ultraplay.org:80/191225-2cl/154901/52751
-#EXTINF:-1,ABC Orlando
-http://ultraplay.org:80/191225-2cl/154901/52768
-#EXTINF:-1,ABC Philadelphia
-http://ultraplay.org:80/191225-2cl/154901/52749
-#EXTINF:-1,ABC Phoenix
-http://ultraplay.org:80/191225-2cl/154901/52774
-#EXTINF:-1,ABC Pittsburgh
-http://ultraplay.org:80/191225-2cl/154901/52761
-#EXTINF:-1,ABC Portland
-http://ultraplay.org:80/191225-2cl/154901/52764
-#EXTINF:-1,ABC Sacramento
-http://ultraplay.org:80/191225-2cl/154901/52771
-#EXTINF:-1,ABC Saint Paul
-http://ultraplay.org:80/191225-2cl/154901/52777
-#EXTINF:-1,ABC Salt lake city
-http://ultraplay.org:80/191225-2cl/154901/52779
-#EXTINF:-1,ABC San Antonio
-http://ultraplay.org:80/191225-2cl/154901/52780
-#EXTINF:-1,ABC San Diego
-http://ultraplay.org:80/191225-2cl/154901/52766
-#EXTINF:-1,ABC San Francisco
-http://ultraplay.org:80/191225-2cl/154901/52750
-#EXTINF:-1,ABC Seattle
-http://ultraplay.org:80/191225-2cl/154901/52763
-#EXTINF:-1,ABC St Louis
-http://ultraplay.org:80/191225-2cl/154901/52778
-#EXTINF:-1,ABC Tampa Bay
-http://ultraplay.org:80/191225-2cl/154901/52775
-#EXTINF:-1,ABC Washington
-http://ultraplay.org:80/191225-2cl/154901/52757
+#EXTINF:-1,A & E
+http://uktv0.host:8000/live/empty/empty/127563.m3u8
+#EXTINF:-1,A & E FHD
+http://uktv0.host:8000/live/empty/empty/127562.m3u8
+#EXTINF:-1,ABC EAST HD
+http://uktv0.host:8000/live/empty/empty/127561.m3u8
+#EXTINF:-1,ABC NEWS HD
+http://uktv0.host:8000/live/empty/empty/127560.m3u8
+#EXTINF:-1,ABC NY FHD
+http://uktv0.host:8000/live/empty/empty/127559.m3u8
+#EXTINF:-1,ABC WEST
+http://uktv0.host:8000/live/empty/empty/127558.m3u8
 #EXTINF:-1,AMC
-http://ultraplay.org:80/191225-2cl/154901/52596
-#EXTINF:-1,American Heroes
-http://ultraplay.org:80/191225-2cl/154901/52597
-#EXTINF:-1,Baby TV
-http://ultraplay.org:80/191225-2cl/154901/52588
-#EXTINF:-1,BBC America
-http://ultraplay.org:80/191225-2cl/154901/52612
-#EXTINF:-1,Boomerang
-http://ultraplay.org:80/191225-2cl/154901/52613
-#EXTINF:-1,Bravo
-http://ultraplay.org:80/191225-2cl/154901/52614
-#EXTINF:-1,Cartoon Network
-http://ultraplay.org:80/191225-2cl/154901/52681
-#EXTINF:-1,Cartoon Network Pacific
-http://ultraplay.org:80/191225-2cl/154901/52680
-#EXTINF:-1,CBS Atlanta
-http://ultraplay.org:80/191225-2cl/154901/52595
-#EXTINF:-1,CBS Baltimore
-http://ultraplay.org:80/191225-2cl/154901/52679
-#EXTINF:-1,CBS Boston
-http://ultraplay.org:80/191225-2cl/154901/52676
-#EXTINF:-1,CBS Charlotte
-http://ultraplay.org:80/191225-2cl/154901/52677
-#EXTINF:-1,CBS Chicago
-http://ultraplay.org:80/191225-2cl/154901/52675
-#EXTINF:-1,CBS Cleveland
-http://ultraplay.org:80/191225-2cl/154901/52674
-#EXTINF:-1,CBS Columbus
-http://ultraplay.org:80/191225-2cl/154901/52673
-#EXTINF:-1,CBS Dallas
-http://ultraplay.org:80/191225-2cl/154901/52672
-#EXTINF:-1,CBS Denver
-http://ultraplay.org:80/191225-2cl/154901/52671
-#EXTINF:-1,CBS Detroit
-http://ultraplay.org:80/191225-2cl/154901/52670
-#EXTINF:-1,CBS Greensboro
-http://ultraplay.org:80/191225-2cl/154901/52669
-#EXTINF:-1,CBS Hartford
-http://ultraplay.org:80/191225-2cl/154901/52668
-#EXTINF:-1,CBS Houston
-http://ultraplay.org:80/191225-2cl/154901/52667
-#EXTINF:-1,CBS Jacksonville
-http://ultraplay.org:80/191225-2cl/154901/52666
-#EXTINF:-1,CBS Kansas City
-http://ultraplay.org:80/191225-2cl/154901/52665
-#EXTINF:-1,CBS Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52664
-#EXTINF:-1,CBS Miami
-http://ultraplay.org:80/191225-2cl/154901/52663
-#EXTINF:-1,CBS Milwaukee
-http://ultraplay.org:80/191225-2cl/154901/52661
-#EXTINF:-1,CBS Minneapolis
-http://ultraplay.org:80/191225-2cl/154901/52662
-#EXTINF:-1,CBS Nashville
-http://ultraplay.org:80/191225-2cl/154901/52660
-#EXTINF:-1,CBS New Orleans
-http://ultraplay.org:80/191225-2cl/154901/52659
-#EXTINF:-1,CBS New York
-http://ultraplay.org:80/191225-2cl/154901/52658
-#EXTINF:-1,CBS Orlando
-http://ultraplay.org:80/191225-2cl/154901/52657
-#EXTINF:-1,CBS Philadelphia
-http://ultraplay.org:80/191225-2cl/154901/52656
-#EXTINF:-1,CBS Phoenix
-http://ultraplay.org:80/191225-2cl/154901/52655
-#EXTINF:-1,CBS Pittsburgh
-http://ultraplay.org:80/191225-2cl/154901/52654
-#EXTINF:-1,CBS Sacramento
-http://ultraplay.org:80/191225-2cl/154901/52653
-#EXTINF:-1,CBS San Antonio
-http://ultraplay.org:80/191225-2cl/154901/52652
-#EXTINF:-1,CBS San Diego
-http://ultraplay.org:80/191225-2cl/154901/52650
-#EXTINF:-1,CBS San Francisco
-http://ultraplay.org:80/191225-2cl/154901/52649
-#EXTINF:-1,CBS Seattle
-http://ultraplay.org:80/191225-2cl/154901/52648
-#EXTINF:-1,CBS Sports Network
-http://ultraplay.org:80/191225-2cl/154901/52615
-#EXTINF:-1,CBS St Louis
-http://ultraplay.org:80/191225-2cl/154901/52651
-#EXTINF:-1,CBS Tampas
-http://ultraplay.org:80/191225-2cl/154901/52647
-#EXTINF:-1,CBS Washington
-http://ultraplay.org:80/191225-2cl/154901/52646
-#EXTINF:-1,Cinemax East
-http://ultraplay.org:80/191225-2cl/154901/52616
-#EXTINF:-1,Cinemax West
-http://ultraplay.org:80/191225-2cl/154901/52617
-#EXTINF:-1,CNBC
-http://ultraplay.org:80/191225-2cl/154901/52618
-#EXTINF:-1,CNBC World
-http://ultraplay.org:80/191225-2cl/154901/52619
+http://uktv0.host:8000/live/empty/empty/127557.m3u8
+#EXTINF:-1,AMERICAN HEROES CHANNEL
+http://uktv0.host:8000/live/empty/empty/127556.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://uktv0.host:8000/live/empty/empty/127555.m3u8
+#EXTINF:-1,ANTENNA TV
+http://uktv0.host:8000/live/empty/empty/127554.m3u8
+#EXTINF:-1,AWE CHANNEL
+http://uktv0.host:8000/live/empty/empty/127553.m3u8
+#EXTINF:-1,AXS TV
+http://uktv0.host:8000/live/empty/empty/127552.m3u8
+#EXTINF:-1,BABY TV
+http://uktv0.host:8000/live/empty/empty/127551.m3u8
+#EXTINF:-1,BBC AMERICA
+http://uktv0.host:8000/live/empty/empty/127550.m3u8
+#EXTINF:-1,BEIN SPORT USA
+http://uktv0.host:8000/live/empty/empty/127549.m3u8
+#EXTINF:-1,BET FHD
+http://uktv0.host:8000/live/empty/empty/127548.m3u8
+#EXTINF:-1,BET HER
+http://uktv0.host:8000/live/empty/empty/127547.m3u8
+#EXTINF:-1,BIG TEN NETWORK
+http://uktv0.host:8000/live/empty/empty/127546.m3u8
+#EXTINF:-1,BLAZE TV
+http://uktv0.host:8000/live/empty/empty/127545.m3u8
+#EXTINF:-1,BLOOMBERG
+http://uktv0.host:8000/live/empty/empty/127544.m3u8
+#EXTINF:-1,BOOMERANG
+http://uktv0.host:8000/live/empty/empty/127543.m3u8
+#EXTINF:-1,BOUNCE TV
+http://uktv0.host:8000/live/empty/empty/127542.m3u8
+#EXTINF:-1,BRAVO
+http://uktv0.host:8000/live/empty/empty/127541.m3u8
+#EXTINF:-1,BUZZER
+http://uktv0.host:8000/live/empty/empty/127540.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://uktv0.host:8000/live/empty/empty/127539.m3u8
+#EXTINF:-1,CARTOONITO ES
+http://uktv0.host:8000/live/empty/empty/127538.m3u8
+#EXTINF:-1,CBS EAST
+http://uktv0.host:8000/live/empty/empty/127537.m3u8
+#EXTINF:-1,CBS NY FHD
+http://uktv0.host:8000/live/empty/empty/127536.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK
+http://uktv0.host:8000/live/empty/empty/127535.m3u8
+#EXTINF:-1,CBSN SPORTS NETWORK
+http://uktv0.host:8000/live/empty/empty/127534.m3u8
+#EXTINF:-1,CINEMAX ACTION MAX EAST
+http://uktv0.host:8000/live/empty/empty/127533.m3u8
+#EXTINF:-1,CINEMAX EAST
+http://uktv0.host:8000/live/empty/empty/127532.m3u8
+#EXTINF:-1,CINEMAX MOVIEMAX
+http://uktv0.host:8000/live/empty/empty/127531.m3u8
+#EXTINF:-1,CINEMAX OUTER MAX
+http://uktv0.host:8000/live/empty/empty/127530.m3u8
+#EXTINF:-1,CINEMAX THRILLERMAX HD
+http://uktv0.host:8000/live/empty/empty/127529.m3u8
+#EXTINF:-1,CINEMAXX MORE MAXX
+http://uktv0.host:8000/live/empty/empty/127528.m3u8
+#EXTINF:-1,CMT HD
+http://uktv0.host:8000/live/empty/empty/127527.m3u8
 #EXTINF:-1,CNN
-http://ultraplay.org:80/191225-2cl/154901/52620
-#EXTINF:-1,Cooking Channel
-http://ultraplay.org:80/191225-2cl/154901/52621
-#EXTINF:-1,Cozi TV
-http://ultraplay.org:80/191225-2cl/154901/52622
-#EXTINF:-1,Discovery Channel
-http://ultraplay.org:80/191225-2cl/154901/52785
-#EXTINF:-1,Discovery Family
-http://ultraplay.org:80/191225-2cl/154901/52786
-#EXTINF:-1,Disney Channel
-http://ultraplay.org:80/191225-2cl/154901/52592
-#EXTINF:-1,Disney Channel Paficic
-http://ultraplay.org:80/191225-2cl/154901/52623
-#EXTINF:-1,Disney Junior Pacific
-http://ultraplay.org:80/191225-2cl/154901/52624
-#EXTINF:-1,Disney XD
-http://ultraplay.org:80/191225-2cl/154901/52682
-#EXTINF:-1,Disney XD Pacific
-http://ultraplay.org:80/191225-2cl/154901/52683
-#EXTINF:-1,Diy
-http://ultraplay.org:80/191225-2cl/154901/52783
-#EXTINF:-1,Eleven Sports Network
-http://ultraplay.org:80/191225-2cl/154901/52631
-#EXTINF:-1,Entertainment
-http://ultraplay.org:80/191225-2cl/154901/52630
-#EXTINF:-1,Epix Hits
-http://ultraplay.org:80/191225-2cl/154901/52629
+http://uktv0.host:8000/live/empty/empty/127525.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://uktv0.host:8000/live/empty/empty/127524.m3u8
+#EXTINF:-1,COMET TV
+http://uktv0.host:8000/live/empty/empty/127523.m3u8
+#EXTINF:-1,COOKING CHANNEL HD
+http://uktv0.host:8000/live/empty/empty/127522.m3u8
+#EXTINF:-1,COUNTRY NETWORK
+http://uktv0.host:8000/live/empty/empty/127521.m3u8
+#EXTINF:-1,COZI TV
+http://uktv0.host:8000/live/empty/empty/127520.m3u8
+#EXTINF:-1,CRIME AND INVESTIGATION
+http://uktv0.host:8000/live/empty/empty/127519.m3u8
+#EXTINF:-1,DESTINATION AMERICA
+http://uktv0.host:8000/live/empty/empty/127518.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://uktv0.host:8000/live/empty/empty/127517.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://uktv0.host:8000/live/empty/empty/127516.m3u8
+#EXTINF:-1,DISCOVERY FAMILY
+http://uktv0.host:8000/live/empty/empty/127515.m3u8
+#EXTINF:-1,DISCOVERY LIFE
+http://uktv0.host:8000/live/empty/empty/127514.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://uktv0.host:8000/live/empty/empty/127513.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://uktv0.host:8000/live/empty/empty/127512.m3u8
+#EXTINF:-1,DISNEY JNR
+http://uktv0.host:8000/live/empty/empty/127511.m3u8
+#EXTINF:-1,DISNEY XD
+http://uktv0.host:8000/live/empty/empty/127510.m3u8
+#EXTINF:-1,DIY NETWORK HD
+http://uktv0.host:8000/live/empty/empty/127509.m3u8
+#EXTINF:-1,DOG TV
+http://uktv0.host:8000/live/empty/empty/127508.m3u8
+#EXTINF:-1,E!
+http://uktv0.host:8000/live/empty/empty/127507.m3u8
+#EXTINF:-1,EL REY NETWORD HD
+http://uktv0.host:8000/live/empty/empty/127506.m3u8
+#EXTINF:-1,EL REY NETWORK
+http://uktv0.host:8000/live/empty/empty/127505.m3u8
+#EXTINF:-1,ELEVEN SPORTS HD
+http://uktv0.host:8000/live/empty/empty/127504.m3u8
+#EXTINF:-1,EPIX 2
+http://uktv0.host:8000/live/empty/empty/127503.m3u8
+#EXTINF:-1,EPIX HD
+http://uktv0.host:8000/live/empty/empty/127502.m3u8
+#EXTINF:-1,EPIX HITS
+http://uktv0.host:8000/live/empty/empty/127501.m3u8
 #EXTINF:-1,ESPN
-http://ultraplay.org:80/191225-2cl/154901/52627
+http://uktv0.host:8000/live/empty/empty/127500.m3u8
 #EXTINF:-1,ESPN 2
-http://ultraplay.org:80/191225-2cl/154901/52628
-#EXTINF:-1,ESPN Bases Loaded
-http://ultraplay.org:80/191225-2cl/154901/52632
-#EXTINF:-1,Espn Deportes
-http://ultraplay.org:80/191225-2cl/154901/52594
-#EXTINF:-1,Espn News
-http://ultraplay.org:80/191225-2cl/154901/52598
+http://uktv0.host:8000/live/empty/empty/127499.m3u8
+#EXTINF:-1,ESPN NEWS
+http://uktv0.host:8000/live/empty/empty/127498.m3u8
 #EXTINF:-1,ESPN U
-http://ultraplay.org:80/191225-2cl/154901/52633
-#EXTINF:-1,Food Network
-http://ultraplay.org:80/191225-2cl/154901/52634
-#EXTINF:-1,FOX Atlanta
-http://ultraplay.org:80/191225-2cl/154901/52644
-#EXTINF:-1,FOX Austin
-http://ultraplay.org:80/191225-2cl/154901/52643
-#EXTINF:-1,FOX Baltimore
-http://ultraplay.org:80/191225-2cl/154901/52642
-#EXTINF:-1,FOX Belmont
-http://ultraplay.org:80/191225-2cl/154901/52641
-#EXTINF:-1,FOX Boston
-http://ultraplay.org:80/191225-2cl/154901/52640
-#EXTINF:-1,FOX Buffalo
-http://ultraplay.org:80/191225-2cl/154901/52639
-#EXTINF:-1,Fox Bussines Network
-http://ultraplay.org:80/191225-2cl/154901/52684
-#EXTINF:-1,FOX Chicago
-http://ultraplay.org:80/191225-2cl/154901/52638
-#EXTINF:-1,FOX Cleveland
-http://ultraplay.org:80/191225-2cl/154901/52637
-#EXTINF:-1,Fox Collage Sports Atlantic
-http://ultraplay.org:80/191225-2cl/154901/52625
-#EXTINF:-1,Fox Collage Sports Central
-http://ultraplay.org:80/191225-2cl/154901/52599
-#EXTINF:-1,Fox Collage Sports Pacific
-http://ultraplay.org:80/191225-2cl/154901/52626
-#EXTINF:-1,FOX Columbus
-http://ultraplay.org:80/191225-2cl/154901/52635
-#EXTINF:-1,FOX Dallas
-http://ultraplay.org:80/191225-2cl/154901/52636
-#EXTINF:-1,FOX Denver
-http://ultraplay.org:80/191225-2cl/154901/52734
-#EXTINF:-1,FOX Deportes
-http://ultraplay.org:80/191225-2cl/154901/52806
-#EXTINF:-1,FOX Detroit
-http://ultraplay.org:80/191225-2cl/154901/52733
-#EXTINF:-1,FOX Hartford
-http://ultraplay.org:80/191225-2cl/154901/52732
-#EXTINF:-1,FOX Houston
-http://ultraplay.org:80/191225-2cl/154901/52731
-#EXTINF:-1,FOX Indianapolis
-http://ultraplay.org:80/191225-2cl/154901/52730
-#EXTINF:-1,FOX Jacksonville
-http://ultraplay.org:80/191225-2cl/154901/52729
-#EXTINF:-1,FOX Kansas City
-http://ultraplay.org:80/191225-2cl/154901/52728
-#EXTINF:-1,FOX Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52727
-#EXTINF:-1,FOX Miami
-http://ultraplay.org:80/191225-2cl/154901/52726
-#EXTINF:-1,FOX Milwaukee
-http://ultraplay.org:80/191225-2cl/154901/52725
-#EXTINF:-1,FOX Minneapolis
-http://ultraplay.org:80/191225-2cl/154901/52724
-#EXTINF:-1,FOX Nashville
-http://ultraplay.org:80/191225-2cl/154901/52723
-#EXTINF:-1,FOX New Orleans
-http://ultraplay.org:80/191225-2cl/154901/52722
-#EXTINF:-1,Fox News Channel
-http://ultraplay.org:80/191225-2cl/154901/52784
-#EXTINF:-1,FOX Ocala
-http://ultraplay.org:80/191225-2cl/154901/52721
-#EXTINF:-1,FOX Orlando
-http://ultraplay.org:80/191225-2cl/154901/52720
-#EXTINF:-1,FOX Philadelphia
-http://ultraplay.org:80/191225-2cl/154901/52719
-#EXTINF:-1,FOX Phoenix
-http://ultraplay.org:80/191225-2cl/154901/52718
-#EXTINF:-1,FOX Pittsburgh
-http://ultraplay.org:80/191225-2cl/154901/52717
-#EXTINF:-1,FOX Sacramento
-http://ultraplay.org:80/191225-2cl/154901/52716
-#EXTINF:-1,FOX Salt Lake City
-http://ultraplay.org:80/191225-2cl/154901/52715
-#EXTINF:-1,FOX San Antonio
-http://ultraplay.org:80/191225-2cl/154901/52714
-#EXTINF:-1,FOX San Diego
-http://ultraplay.org:80/191225-2cl/154901/52713
-#EXTINF:-1,FOX San Francisco
-http://ultraplay.org:80/191225-2cl/154901/52712
-#EXTINF:-1,FOX Seattle
-http://ultraplay.org:80/191225-2cl/154901/52711
-#EXTINF:-1,FOX St Louis
-http://ultraplay.org:80/191225-2cl/154901/52710
-#EXTINF:-1,FOX Tampa
-http://ultraplay.org:80/191225-2cl/154901/52709
-#EXTINF:-1,FOX Washington
-http://ultraplay.org:80/191225-2cl/154901/52708
-#EXTINF:-1,Freeform
-http://ultraplay.org:80/191225-2cl/154901/52611
-#EXTINF:-1,Fusion
-http://ultraplay.org:80/191225-2cl/154901/52736
-#EXTINF:-1,FX
-http://ultraplay.org:80/191225-2cl/154901/52735
+http://uktv0.host:8000/live/empty/empty/127497.m3u8
+#EXTINF:-1,FANTASY SPORTS NETWORK
+http://uktv0.host:8000/live/empty/empty/127496.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://uktv0.host:8000/live/empty/empty/127495.m3u8
+#EXTINF:-1,FOX 5 HD
+http://uktv0.host:8000/live/empty/empty/127494.m3u8
+#EXTINF:-1,FOX 50
+http://uktv0.host:8000/live/empty/empty/127493.m3u8
+#EXTINF:-1,FOX BUSINESS HD
+http://uktv0.host:8000/live/empty/empty/127492.m3u8
+#EXTINF:-1,Fox College Atlantic
+http://uktv0.host:8000/live/empty/empty/127491.m3u8
+#EXTINF:-1,Fox College Central
+http://uktv0.host:8000/live/empty/empty/127490.m3u8
+#EXTINF:-1,Fox College Pacific
+http://uktv0.host:8000/live/empty/empty/127489.m3u8
+#EXTINF:-1,FOX DEPORTES
+http://uktv0.host:8000/live/empty/empty/127488.m3u8
+#EXTINF:-1,FOX NEWS
+http://uktv0.host:8000/live/empty/empty/127487.m3u8
+#EXTINF:-1,Fox Soccer Plus
+http://uktv0.host:8000/live/empty/empty/127486.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://uktv0.host:8000/live/empty/empty/127485.m3u8
+#EXTINF:-1,FOX SPORTS 1 FHD
+http://uktv0.host:8000/live/empty/empty/127484.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://uktv0.host:8000/live/empty/empty/127483.m3u8
+#EXTINF:-1,FREEFORM HD
+http://uktv0.host:8000/live/empty/empty/127482.m3u8
+#EXTINF:-1,FUSE
+http://uktv0.host:8000/live/empty/empty/127481.m3u8
+#EXTINF:-1,FUSION
+http://uktv0.host:8000/live/empty/empty/127480.m3u8
+#EXTINF:-1,FX HD
+http://uktv0.host:8000/live/empty/empty/127479.m3u8
 #EXTINF:-1,FXM
-http://ultraplay.org:80/191225-2cl/154901/52808
+http://uktv0.host:8000/live/empty/empty/127478.m3u8
 #EXTINF:-1,FXX
-http://ultraplay.org:80/191225-2cl/154901/52807
-#EXTINF:-1,Galavision East
-http://ultraplay.org:80/191225-2cl/154901/52823
-#EXTINF:-1,Galavision West
-http://ultraplay.org:80/191225-2cl/154901/52821
-#EXTINF:-1,Gnix Sports TV
-http://ultraplay.org:80/191225-2cl/154901/52805
-#EXTINF:-1,Hallmark Channel
-http://ultraplay.org:80/191225-2cl/154901/52586
-#EXTINF:-1,Hallmark Movies & Mysteries
-http://ultraplay.org:80/191225-2cl/154901/52587
-#EXTINF:-1,HBO
-http://ultraplay.org:80/191225-2cl/154901/52678
-#EXTINF:-1,HBO Pacific
-http://ultraplay.org:80/191225-2cl/154901/52593
-#EXTINF:-1,Horoscopes
-http://ultraplay.org:80/191225-2cl/154901/52822
-#EXTINF:-1,KTVU Plus
-http://ultraplay.org:80/191225-2cl/154901/52645
-#EXTINF:-1,MLB Network
-http://ultraplay.org:80/191225-2cl/154901/52591
-#EXTINF:-1,My 24
-http://ultraplay.org:80/191225-2cl/154901/52585
-#EXTINF:-1,My RDC
-http://ultraplay.org:80/191225-2cl/154901/52589
-#EXTINF:-1,Natgeo Pacific
-http://ultraplay.org:80/191225-2cl/154901/52804
-#EXTINF:-1,NBC Atlanta
-http://ultraplay.org:80/191225-2cl/154901/52707
-#EXTINF:-1,NBC Baltimore
-http://ultraplay.org:80/191225-2cl/154901/52706
-#EXTINF:-1,NBC Boston
-http://ultraplay.org:80/191225-2cl/154901/52705
-#EXTINF:-1,NBC Buffalo
-http://ultraplay.org:80/191225-2cl/154901/52704
-#EXTINF:-1,NBC Charlotte
-http://ultraplay.org:80/191225-2cl/154901/52703
-#EXTINF:-1,NBC Chicago
-http://ultraplay.org:80/191225-2cl/154901/52702
-#EXTINF:-1,NBC Cincinnati
-http://ultraplay.org:80/191225-2cl/154901/52701
-#EXTINF:-1,NBC Cleveland
-http://ultraplay.org:80/191225-2cl/154901/52700
-#EXTINF:-1,NBC Dallas
-http://ultraplay.org:80/191225-2cl/154901/52699
-#EXTINF:-1,NBC Detroit
-http://ultraplay.org:80/191225-2cl/154901/52698
-#EXTINF:-1,NBC Green Bay
-http://ultraplay.org:80/191225-2cl/154901/52697
-#EXTINF:-1,NBC Hartford
-http://ultraplay.org:80/191225-2cl/154901/52696
-#EXTINF:-1,NBC Houston
-http://ultraplay.org:80/191225-2cl/154901/52695
-#EXTINF:-1,NBC Indianapolis
-http://ultraplay.org:80/191225-2cl/154901/52694
-#EXTINF:-1,NBC Jacksonville
-http://ultraplay.org:80/191225-2cl/154901/52693
-#EXTINF:-1,NBC Kansas City
-http://ultraplay.org:80/191225-2cl/154901/52692
-#EXTINF:-1,NBC Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52691
-#EXTINF:-1,NBC Miami
-http://ultraplay.org:80/191225-2cl/154901/52690
-#EXTINF:-1,NBC Milwaukee
-http://ultraplay.org:80/191225-2cl/154901/52689
-#EXTINF:-1,NBC Minneapolis
-http://ultraplay.org:80/191225-2cl/154901/52688
-#EXTINF:-1,NBC Nashville
-http://ultraplay.org:80/191225-2cl/154901/52687
-#EXTINF:-1,NBC New Orleans
-http://ultraplay.org:80/191225-2cl/154901/52686
-#EXTINF:-1,NBC New York
-http://ultraplay.org:80/191225-2cl/154901/52685
-#EXTINF:-1,NBC Orlando
-http://ultraplay.org:80/191225-2cl/154901/52737
-#EXTINF:-1,NBC Philadelphia
-http://ultraplay.org:80/191225-2cl/154901/52738
-#EXTINF:-1,NBC Pittsburgh
-http://ultraplay.org:80/191225-2cl/154901/52739
-#EXTINF:-1,NBC Portland
-http://ultraplay.org:80/191225-2cl/154901/52740
-#EXTINF:-1,NBC Raleigh
-http://ultraplay.org:80/191225-2cl/154901/52741
-#EXTINF:-1,NBC Sacramento
-http://ultraplay.org:80/191225-2cl/154901/52742
-#EXTINF:-1,NBC San Diego
-http://ultraplay.org:80/191225-2cl/154901/52743
-#EXTINF:-1,NBC San Francisco
-http://ultraplay.org:80/191225-2cl/154901/52744
-#EXTINF:-1,NBC Seattle
-http://ultraplay.org:80/191225-2cl/154901/52745
-#EXTINF:-1,NBC St Louis
-http://ultraplay.org:80/191225-2cl/154901/52746
-#EXTINF:-1,NBC Telemundo
-http://ultraplay.org:80/191225-2cl/154901/52803
-#EXTINF:-1,NBC Washington
-http://ultraplay.org:80/191225-2cl/154901/52747
-#EXTINF:-1,Novelas
-http://ultraplay.org:80/191225-2cl/154901/52820
-#EXTINF:-1,Sony Movie Channel
-http://ultraplay.org:80/191225-2cl/154901/52610
-#EXTINF:-1,Sundance
-http://ultraplay.org:80/191225-2cl/154901/52609
-#EXTINF:-1,Syfy Pacific
-http://ultraplay.org:80/191225-2cl/154901/52608
-#EXTINF:-1,TBS Pacific
-http://ultraplay.org:80/191225-2cl/154901/52606
+http://uktv0.host:8000/live/empty/empty/127477.m3u8
+#EXTINF:-1,FYI NETWORK
+http://uktv0.host:8000/live/empty/empty/127476.m3u8
+#EXTINF:-1,GALAVISION
+http://uktv0.host:8000/live/empty/empty/127475.m3u8
+#EXTINF:-1,GAME SHOW NETWORK
+http://uktv0.host:8000/live/empty/empty/127474.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://uktv0.host:8000/live/empty/empty/127473.m3u8
+#EXTINF:-1,GRIT TV
+http://uktv0.host:8000/live/empty/empty/127472.m3u8
+#EXTINF:-1,HALLMARK DRAMA
+http://uktv0.host:8000/live/empty/empty/127471.m3u8
+#EXTINF:-1,HALLMARK HD
+http://uktv0.host:8000/live/empty/empty/127470.m3u8
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES HD
+http://uktv0.host:8000/live/empty/empty/127469.m3u8
+#EXTINF:-1,HBO 2 HD
+http://uktv0.host:8000/live/empty/empty/127468.m3u8
+#EXTINF:-1,HBO COMEDY HD
+http://uktv0.host:8000/live/empty/empty/127467.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://uktv0.host:8000/live/empty/empty/127466.m3u8
+#EXTINF:-1,HBO HD
+http://uktv0.host:8000/live/empty/empty/127465.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://uktv0.host:8000/live/empty/empty/127464.m3u8
+#EXTINF:-1,HBO ZONE HD
+http://uktv0.host:8000/live/empty/empty/127463.m3u8
+#EXTINF:-1,HEROS & ICONS
+http://uktv0.host:8000/live/empty/empty/127462.m3u8
+#EXTINF:-1,HGTV FHD
+http://uktv0.host:8000/live/empty/empty/127461.m3u8
+#EXTINF:-1,HGTV HD
+http://uktv0.host:8000/live/empty/empty/127460.m3u8
+#EXTINF:-1,HISTORY 2
+http://uktv0.host:8000/live/empty/empty/127459.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://uktv0.host:8000/live/empty/empty/127458.m3u8
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://uktv0.host:8000/live/empty/empty/127457.m3u8
+#EXTINF:-1,HLN
+http://uktv0.host:8000/live/empty/empty/127456.m3u8
+#EXTINF:-1,HSN
+http://uktv0.host:8000/live/empty/empty/127455.m3u8
+#EXTINF:-1,IFC
+http://uktv0.host:8000/live/empty/empty/127454.m3u8
+#EXTINF:-1,INFOWARS
+http://uktv0.host:8000/live/empty/empty/127453.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://uktv0.host:8000/live/empty/empty/127452.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://uktv0.host:8000/live/empty/empty/127451.m3u8
+#EXTINF:-1,ION TV
+http://uktv0.host:8000/live/empty/empty/127450.m3u8
+#EXTINF:-1,LAFF TV
+http://uktv0.host:8000/live/empty/empty/127449.m3u8
+#EXTINF:-1,LIFETIME
+http://uktv0.host:8000/live/empty/empty/127448.m3u8
+#EXTINF:-1,LIFETIME MOVIES
+http://uktv0.host:8000/live/empty/empty/127447.m3u8
+#EXTINF:-1,LONGHORN NETWORK
+http://uktv0.host:8000/live/empty/empty/127446.m3u8
+#EXTINF:-1,MAV TV
+http://uktv0.host:8000/live/empty/empty/127445.m3u8
+#EXTINF:-1,ME TV
+http://uktv0.host:8000/live/empty/empty/127444.m3u8
+#EXTINF:-1,MLB NETWORK
+http://uktv0.host:8000/live/empty/empty/127443.m3u8
+#EXTINF:-1,MOTOR TREND
+http://uktv0.host:8000/live/empty/empty/127442.m3u8
+#EXTINF:-1,MSG
+http://uktv0.host:8000/live/empty/empty/127441.m3u8
+#EXTINF:-1,MSG +
+http://uktv0.host:8000/live/empty/empty/127440.m3u8
+#EXTINF:-1,MSNBC
+http://uktv0.host:8000/live/empty/empty/127439.m3u8
+#EXTINF:-1,MTV HD
+http://uktv0.host:8000/live/empty/empty/127438.m3u8
+#EXTINF:-1,MTV LIVE
+http://uktv0.host:8000/live/empty/empty/127437.m3u8
+#EXTINF:-1,MTV2
+http://uktv0.host:8000/live/empty/empty/127436.m3u8
+#EXTINF:-1,MY 9
+http://uktv0.host:8000/live/empty/empty/127435.m3u8
+#EXTINF:-1,NAT GEO USA
+http://uktv0.host:8000/live/empty/empty/127434.m3u8
+#EXTINF:-1,NAT GEO WILD HD US
+http://uktv0.host:8000/live/empty/empty/127433.m3u8
+#EXTINF:-1,NBC 10 EAST
+http://uktv0.host:8000/live/empty/empty/127431.m3u8
+#EXTINF:-1,NBC 4 NY
+http://uktv0.host:8000/live/empty/empty/127430.m3u8
+#EXTINF:-1,NBC 4 NY FHD
+http://uktv0.host:8000/live/empty/empty/127429.m3u8
+#EXTINF:-1,NBC 5
+http://uktv0.host:8000/live/empty/empty/127428.m3u8
+#EXTINF:-1,NBC GOLF
+http://uktv0.host:8000/live/empty/empty/127427.m3u8
+#EXTINF:-1,NBC Sports Bay Area HD
+http://uktv0.host:8000/live/empty/empty/127426.m3u8
+#EXTINF:-1,NBC Sports Boston HD
+http://uktv0.host:8000/live/empty/empty/127425.m3u8
+#EXTINF:-1,NBC Sports California HD
+http://uktv0.host:8000/live/empty/empty/127424.m3u8
+#EXTINF:-1,NBC Sports Chicago HD
+http://uktv0.host:8000/live/empty/empty/127423.m3u8
+#EXTINF:-1,NBC Sports Northwest HD
+http://uktv0.host:8000/live/empty/empty/127421.m3u8
+#EXTINF:-1,NBC Sports Philadelphia HD
+http://uktv0.host:8000/live/empty/empty/127420.m3u8
+#EXTINF:-1,NBC UNIVERSO
+http://uktv0.host:8000/live/empty/empty/127419.m3u8
+#EXTINF:-1,NESN
+http://uktv0.host:8000/live/empty/empty/127418.m3u8
+#EXTINF:-1,NEWS 12 LONG ISLAND
+http://uktv0.host:8000/live/empty/empty/127417.m3u8
+#EXTINF:-1,NEWS 12 NEW JERSEY
+http://uktv0.host:8000/live/empty/empty/127416.m3u8
+#EXTINF:-1,NFL NETWORK
+http://uktv0.host:8000/live/empty/empty/127415.m3u8
+#EXTINF:-1,NFL RED ZONE
+http://uktv0.host:8000/live/empty/empty/127414.m3u8
+#EXTINF:-1,NHL NETWORK
+http://uktv0.host:8000/live/empty/empty/127413.m3u8
+#EXTINF:-1,NICK HD
+http://uktv0.host:8000/live/empty/empty/127412.m3u8
+#EXTINF:-1,NICK JR
+http://uktv0.host:8000/live/empty/empty/127411.m3u8
+#EXTINF:-1,NICK JR.TOO
+http://uktv0.host:8000/live/empty/empty/127410.m3u8
+#EXTINF:-1,NICKTOONS
+http://uktv0.host:8000/live/empty/empty/127409.m3u8
+#EXTINF:-1,ONE AMERICA NEWS
+http://uktv0.host:8000/live/empty/empty/127408.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://uktv0.host:8000/live/empty/empty/127407.m3u8
+#EXTINF:-1,OUTSIDE TV
+http://uktv0.host:8000/live/empty/empty/127406.m3u8
+#EXTINF:-1,OVATION
+http://uktv0.host:8000/live/empty/empty/127405.m3u8
+#EXTINF:-1,OWN NETWORK FHD
+http://uktv0.host:8000/live/empty/empty/127404.m3u8
+#EXTINF:-1,OXYGEN
+http://uktv0.host:8000/live/empty/empty/127403.m3u8
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://uktv0.host:8000/live/empty/empty/127402.m3u8
+#EXTINF:-1,PAC 12 NETWORK
+http://uktv0.host:8000/live/empty/empty/127401.m3u8
+#EXTINF:-1,PAC-12 ARIZONA
+http://uktv0.host:8000/live/empty/empty/127400.m3u8
+#EXTINF:-1,PAC-12 BAY AREA
+http://uktv0.host:8000/live/empty/empty/127399.m3u8
+#EXTINF:-1,PAC-12 MOUNTAIN
+http://uktv0.host:8000/live/empty/empty/127398.m3u8
+#EXTINF:-1,PAC-12 OREGON
+http://uktv0.host:8000/live/empty/empty/127397.m3u8
+#EXTINF:-1,PBS
+http://uktv0.host:8000/live/empty/empty/127396.m3u8
+#EXTINF:-1,PBS KIDS EAST
+http://uktv0.host:8000/live/empty/empty/127395.m3u8
+#EXTINF:-1,PBS WLIW 21
+http://uktv0.host:8000/live/empty/empty/127394.m3u8
+#EXTINF:-1,POP
+http://uktv0.host:8000/live/empty/empty/127393.m3u8
+#EXTINF:-1,PURSUIT CHANNEL
+http://uktv0.host:8000/live/empty/empty/127392.m3u8
+#EXTINF:-1,QVC
+http://uktv0.host:8000/live/empty/empty/127391.m3u8
+#EXTINF:-1,RED BULL TV
+http://uktv0.host:8000/live/empty/empty/127390.m3u8
+#EXTINF:-1,REELZ
+http://uktv0.host:8000/live/empty/empty/127389.m3u8
+#EXTINF:-1,REVOLT
+http://uktv0.host:8000/live/empty/empty/127388.m3u8
+#EXTINF:-1,RT NEWS
+http://uktv0.host:8000/live/empty/empty/127387.m3u8
+#EXTINF:-1,SEC NETWORK
+http://uktv0.host:8000/live/empty/empty/127386.m3u8
+#EXTINF:-1,SHOWTIME 2
+http://uktv0.host:8000/live/empty/empty/127385.m3u8
+#EXTINF:-1,SHOWTIME EXTREME
+http://uktv0.host:8000/live/empty/empty/127384.m3u8
+#EXTINF:-1,SHOWTIME HD
+http://uktv0.host:8000/live/empty/empty/127383.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://uktv0.host:8000/live/empty/empty/127382.m3u8
+#EXTINF:-1,SMITHSONIAN CHANNEL
+http://uktv0.host:8000/live/empty/empty/127381.m3u8
+#EXTINF:-1,SPIKE/PARAMOUNT
+http://uktv0.host:8000/live/empty/empty/127380.m3u8
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://uktv0.host:8000/live/empty/empty/127379.m3u8
+#EXTINF:-1,SPORTSNET LA
+http://uktv0.host:8000/live/empty/empty/127378.m3u8
+#EXTINF:-1,SPORTSNET NY
+http://uktv0.host:8000/live/empty/empty/127377.m3u8
+#EXTINF:-1,STARZ
+http://uktv0.host:8000/live/empty/empty/127376.m3u8
+#EXTINF:-1,STARZ COMEDY
+http://uktv0.host:8000/live/empty/empty/127375.m3u8
+#EXTINF:-1,STARZ EDGE
+http://uktv0.host:8000/live/empty/empty/127374.m3u8
+#EXTINF:-1,STARZ ENCORE
+http://uktv0.host:8000/live/empty/empty/127373.m3u8
+#EXTINF:-1,STARZ ENCORE WESTERNS
+http://uktv0.host:8000/live/empty/empty/127372.m3u8
+#EXTINF:-1,STARZ IN BLACK
+http://uktv0.host:8000/live/empty/empty/127371.m3u8
+#EXTINF:-1,STARZ KIDS & FAMILY
+http://uktv0.host:8000/live/empty/empty/127370.m3u8
+#EXTINF:-1,SUNDANCE
+http://uktv0.host:8000/live/empty/empty/127369.m3u8
+#EXTINF:-1,SYFY
+http://uktv0.host:8000/live/empty/empty/127368.m3u8
+#EXTINF:-1,TBN Trinity Broadcasting Network
+http://uktv0.host:8000/live/empty/empty/127367.m3u8
+#EXTINF:-1,TBS
+http://uktv0.host:8000/live/empty/empty/127366.m3u8
 #EXTINF:-1,TCM
-http://ultraplay.org:80/191225-2cl/154901/52603
-#EXTINF:-1,Telemundo Boston
-http://ultraplay.org:80/191225-2cl/154901/52802
-#EXTINF:-1,Telemundo Chicago
-http://ultraplay.org:80/191225-2cl/154901/52801
-#EXTINF:-1,Telemundo Dallas
-http://ultraplay.org:80/191225-2cl/154901/52800
-#EXTINF:-1,Telemundo Denver
-http://ultraplay.org:80/191225-2cl/154901/52799
-#EXTINF:-1,Telemundo Fresno
-http://ultraplay.org:80/191225-2cl/154901/52798
-#EXTINF:-1,Telemundo Harlingen
-http://ultraplay.org:80/191225-2cl/154901/52797
-#EXTINF:-1,Telemundo Houston
-http://ultraplay.org:80/191225-2cl/154901/52796
-#EXTINF:-1,Telemundo Las Vegas
-http://ultraplay.org:80/191225-2cl/154901/52795
-#EXTINF:-1,Telemundo Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52794
-#EXTINF:-1,Telemundo Miami
-http://ultraplay.org:80/191225-2cl/154901/52793
-#EXTINF:-1,Telemundo New York
-http://ultraplay.org:80/191225-2cl/154901/52792
-#EXTINF:-1,Telemundo Philadelphia
-http://ultraplay.org:80/191225-2cl/154901/52791
-#EXTINF:-1,Telemundo Phoenix
-http://ultraplay.org:80/191225-2cl/154901/52790
-#EXTINF:-1,Telemundo San Antonio
-http://ultraplay.org:80/191225-2cl/154901/52789
-#EXTINF:-1,Telemundo San francisco
-http://ultraplay.org:80/191225-2cl/154901/52788
-#EXTINF:-1,Telemundo Tucson
-http://ultraplay.org:80/191225-2cl/154901/52787
-#EXTINF:-1,TNT Pacific
-http://ultraplay.org:80/191225-2cl/154901/52607
-#EXTINF:-1,Travel
-http://ultraplay.org:80/191225-2cl/154901/52605
-#EXTINF:-1,Travel Pacific
-http://ultraplay.org:80/191225-2cl/154901/52604
-#EXTINF:-1,Trutv
-http://ultraplay.org:80/191225-2cl/154901/52600
-#EXTINF:-1,Uforia Debut
-http://ultraplay.org:80/191225-2cl/154901/52818
-#EXTINF:-1,Unimas Atlanta
-http://ultraplay.org:80/191225-2cl/154901/52817
-#EXTINF:-1,Unimas Chicago2
-http://ultraplay.org:80/191225-2cl/154901/52819
-#EXTINF:-1,Unimas Dalas
-http://ultraplay.org:80/191225-2cl/154901/52816
-#EXTINF:-1,Unimas East
-http://ultraplay.org:80/191225-2cl/154901/52815
-#EXTINF:-1,Unimas Houston
-http://ultraplay.org:80/191225-2cl/154901/52814
-#EXTINF:-1,Unimas Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52813
-#EXTINF:-1,Unimas New York
-http://ultraplay.org:80/191225-2cl/154901/52812
-#EXTINF:-1,Unimas San Francisco
-http://ultraplay.org:80/191225-2cl/154901/52811
-#EXTINF:-1,Unimas West 2
-http://ultraplay.org:80/191225-2cl/154901/52810
-#EXTINF:-1,Universal Kids
-http://ultraplay.org:80/191225-2cl/154901/52590
-#EXTINF:-1,Universo
-http://ultraplay.org:80/191225-2cl/154901/52824
-#EXTINF:-1,Univisi0n (21-Fresno)
-http://ultraplay.org:80/191225-2cl/154901/52833
-#EXTINF:-1,Univisi0n (23-Dallas)
-http://ultraplay.org:80/191225-2cl/154901/52831
-#EXTINF:-1,Univisi0n (23-Fort Lauderdale)
-http://ultraplay.org:80/191225-2cl/154901/52828
-#EXTINF:-1,Univisi0n (34-Atlanta)
-http://ultraplay.org:80/191225-2cl/154901/52826
-#EXTINF:-1,Univisi0n (34-Los Angeles)
-http://ultraplay.org:80/191225-2cl/154901/52832
-#EXTINF:-1,Univisi0n (41-Paterson)
-http://ultraplay.org:80/191225-2cl/154901/52825
-#EXTINF:-1,Univisi0n (45-Houston)
-http://ultraplay.org:80/191225-2cl/154901/52830
-#EXTINF:-1,Univisi0n (61-Cleveland)
-http://ultraplay.org:80/191225-2cl/154901/52827
-#EXTINF:-1,Univisi0n (62-Austin)
-http://ultraplay.org:80/191225-2cl/154901/52834
-#EXTINF:-1,Univisi0n (66-Chicago)
-http://ultraplay.org:80/191225-2cl/154901/52829
-#EXTINF:-1,Univisi0n Atlanta
-http://ultraplay.org:80/191225-2cl/154901/52809
-#EXTINF:-1,Univisi0n Atlanta 2
-http://ultraplay.org:80/191225-2cl/154901/52851
-#EXTINF:-1,Univisi0n Chicago 2
-http://ultraplay.org:80/191225-2cl/154901/52850
-#EXTINF:-1,Univisi0n Dalas
-http://ultraplay.org:80/191225-2cl/154901/52849
-#EXTINF:-1,Univisi0n Dalas 2
-http://ultraplay.org:80/191225-2cl/154901/52848
-#EXTINF:-1,Univisi0n East
-http://ultraplay.org:80/191225-2cl/154901/52846
-#EXTINF:-1,Univisi0n East2
-http://ultraplay.org:80/191225-2cl/154901/52847
-#EXTINF:-1,Univisi0n Houston
-http://ultraplay.org:80/191225-2cl/154901/52845
-#EXTINF:-1,Univisi0n Los Angeles
-http://ultraplay.org:80/191225-2cl/154901/52844
-#EXTINF:-1,Univisi0n Los Angeles 2
-http://ultraplay.org:80/191225-2cl/154901/52843
-#EXTINF:-1,Univisi0n Miami
-http://ultraplay.org:80/191225-2cl/154901/52842
-#EXTINF:-1,Univisi0n New York.
-http://ultraplay.org:80/191225-2cl/154901/52841
-#EXTINF:-1,Univisi0n Noticias
-http://ultraplay.org:80/191225-2cl/154901/52840
-#EXTINF:-1,Univisi0n San Francisco
-http://ultraplay.org:80/191225-2cl/154901/52839
-#EXTINF:-1,Univisi0n San Francisco 2
-http://ultraplay.org:80/191225-2cl/154901/52838
-#EXTINF:-1,Univisi0n TDN
-http://ultraplay.org:80/191225-2cl/154901/52837
-#EXTINF:-1,Univisi0n tlnovelas
-http://ultraplay.org:80/191225-2cl/154901/52836
-#EXTINF:-1,Univisi0n West
-http://ultraplay.org:80/191225-2cl/154901/52835
-#EXTINF:-1,Usa Network Pacific
-http://ultraplay.org:80/191225-2cl/154901/52602
-#EXTINF:-1,We TV
-http://ultraplay.org:80/191225-2cl/154901/52601
+http://uktv0.host:8000/live/empty/empty/127365.m3u8
+#EXTINF:-1,TEEN NICK
+http://uktv0.host:8000/live/empty/empty/127364.m3u8
+#EXTINF:-1,TELEMUNDO
+http://uktv0.host:8000/live/empty/empty/127363.m3u8
+#EXTINF:-1,TENNIS HD
+http://uktv0.host:8000/live/empty/empty/127362.m3u8
+#EXTINF:-1,THE WEATHER CHANNEL HD
+http://uktv0.host:8000/live/empty/empty/127361.m3u8
+#EXTINF:-1,TLC CHANNEL
+http://uktv0.host:8000/live/empty/empty/127360.m3u8
+#EXTINF:-1,TNT
+http://uktv0.host:8000/live/empty/empty/127359.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://uktv0.host:8000/live/empty/empty/127358.m3u8
+#EXTINF:-1,TRU TV
+http://uktv0.host:8000/live/empty/empty/127357.m3u8
+#EXTINF:-1,TV LAND HD
+http://uktv0.host:8000/live/empty/empty/127356.m3u8
+#EXTINF:-1,TVG HORSE RACING
+http://uktv0.host:8000/live/empty/empty/127355.m3u8
+#EXTINF:-1,TVONE
+http://uktv0.host:8000/live/empty/empty/127354.m3u8
+#EXTINF:-1,UNIMAS
+http://uktv0.host:8000/live/empty/empty/127353.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://uktv0.host:8000/live/empty/empty/127352.m3u8
+#EXTINF:-1,UNIVERSAL KIDS HD
+http://uktv0.host:8000/live/empty/empty/127351.m3u8
+#EXTINF:-1,UNIVISION
+http://uktv0.host:8000/live/empty/empty/127350.m3u8
+#EXTINF:-1,UNIVISION TDN
+http://uktv0.host:8000/live/empty/empty/127349.m3u8
+#EXTINF:-1,USA NETWORK
+http://uktv0.host:8000/live/empty/empty/127348.m3u8
+#EXTINF:-1,VH1 HD
+http://uktv0.host:8000/live/empty/empty/127347.m3u8
+#EXTINF:-1,VICELAND
+http://uktv0.host:8000/live/empty/empty/127346.m3u8
+#EXTINF:-1,WE TV
+http://uktv0.host:8000/live/empty/empty/127345.m3u8
+#EXTINF:-1,WGN AMERICA
+http://uktv0.host:8000/live/empty/empty/127344.m3u8
+#EXTINF:-1,WORLD FISHING NETWORK
+http://uktv0.host:8000/live/empty/empty/127343.m3u8
