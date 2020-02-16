@@ -1,863 +1,135 @@
 #EXTM3U
-#EXTINF:-1,BBC 1
-http://uktv0.host:8000/live/empty/empty/4139.m3u8
-#EXTINF:-1,BBC 1
-http://uktv0.host:8000/live/empty/empty/4244.m3u8
-#EXTINF:-1,BBC1
-http://uktv0.host:8000/live/empty/empty/4338.m3u8
-#EXTINF:-1,UK : BBC Scotland FHD
-http://uktv0.host:8000/live/empty/empty/131241.m3u8
-#EXTINF:-1,BBC 2
-http://uktv0.host:8000/live/empty/empty/4140.m3u8
-#EXTINF:-1,BBC 2
-http://uktv0.host:8000/live/empty/empty/4245.m3u8
-#EXTINF:-1,BBC2
-http://uktv0.host:8000/live/empty/empty/4339.m3u8
-#EXTINF:-1,UK: ITV1
-http://uktv0.host:8000/live/empty/empty/4500.m3u8
-#EXTINF:-1,ITV 1 FHD
-http://uktv0.host:8000/live/empty/empty/4175.m3u8
-#EXTINF:-1,ITV1 
-http://uktv0.host:8000/live/empty/empty/6255.m3u8
-#EXTINF:-1,ITV1
-http://uktv0.host:8000/live/empty/empty/4410.m3u8
-#EXTINF:-1,CHANNEL 4
-http://uktv0.host:8000/live/empty/empty/4153.m3u8
-#EXTINF:-1,CHANNEL 4
-http://uktv0.host:8000/live/empty/empty/4266.m3u8
-#EXTINF:-1,CHANNEL 4
-http://uktv0.host:8000/live/empty/empty/4375.m3u8
-#EXTINF:-1,CHANNEL 5
-http://uktv0.host:8000/live/empty/empty/4154.m3u8
-#EXTINF:-1,CHANNEL 5
-http://uktv0.host:8000/live/empty/empty/4267.m3u8
-#EXTINF:-1,Channel 5
-http://uktv0.host:8000/live/empty/empty/4376.m3u8
-#EXTINF:-1,SKY ONE
-http://uktv0.host:8000/live/empty/empty/4208.m3u8
-#EXTINF:-1,SKY ONE
-http://uktv0.host:8000/live/empty/empty/4463.m3u8
-#EXTINF:-1,SKY WITNESS
-http://uktv0.host:8000/live/empty/empty/4220.m3u8
-#EXTINF:-1,SKY WITNESS
-http://uktv0.host:8000/live/empty/empty/4330.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://uktv0.host:8000/live/empty/empty/4195.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://uktv0.host:8000/live/empty/empty/4118.m3u8
-#EXTINF:-1,W
-http://uktv0.host:8000/live/empty/empty/196351.m3u8
-#EXTINF:-1,W
-http://uktv0.host:8000/live/empty/empty/4336.m3u8
-#EXTINF:-1,W
-http://uktv0.host:8000/live/empty/empty/4490.m3u8
-#EXTINF:-1,GOLD
-http://uktv0.host:8000/live/empty/empty/4172.m3u8
-#EXTINF:-1,GOLD
-http://uktv0.host:8000/live/empty/empty/4404.m3u8
-#EXTINF:-1,DAVE
-http://uktv0.host:8000/live/empty/empty/4159.m3u8
-#EXTINF:-1,DAVE
-http://uktv0.host:8000/live/empty/empty/4271.m3u8
-#EXTINF:-1,DAVE
-http://uktv0.host:8000/live/empty/empty/4382.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://uktv0.host:8000/live/empty/empty/4157.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://uktv0.host:8000/live/empty/empty/4270.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://uktv0.host:8000/live/empty/empty/4379.m3u8
-#EXTINF:-1,UNIVERSAL
-http://uktv0.host:8000/live/empty/empty/4229.m3u8
-#EXTINF:-1,UNIVERSAL
-http://uktv0.host:8000/live/empty/empty/4335.m3u8
-#EXTINF:-1,Universal Channel
-http://uktv0.host:8000/live/empty/empty/4487.m3u8
-#EXTINF:-1,SYFY
-http://uktv0.host:8000/live/empty/empty/4226.m3u8
-#EXTINF:-1,SYFY
-http://uktv0.host:8000/live/empty/empty/4331.m3u8
-#EXTINF:-1,ITV 2
-http://uktv0.host:8000/live/empty/empty/4176.m3u8
-#EXTINF:-1,ITV2
-http://uktv0.host:8000/live/empty/empty/4287.m3u8
-#EXTINF:-1,ITV2
-http://uktv0.host:8000/live/empty/empty/4411.m3u8
-#EXTINF:-1,ITV 3
-http://uktv0.host:8000/live/empty/empty/4177.m3u8
-#EXTINF:-1,ITV3
-http://uktv0.host:8000/live/empty/empty/4288.m3u8
-#EXTINF:-1,ITV3
-http://uktv0.host:8000/live/empty/empty/4412.m3u8
+#EXTINF:-1,BBC 1 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1495.m3u8
+#EXTINF:-1,BBC 2 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1496.m3u8
+#EXTINF:-1,BBC 3 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1497.m3u8
+#EXTINF:-1,BBC 4 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1498.m3u8
+#EXTINF:-1,BBC News
+http://live.redfhd.com:8000/live/cemal/sakarya54/6922.m3u8
+#EXTINF:-1,ITV 1 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1505.m3u8
+#EXTINF:-1,ITV 2 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1506.m3u8
+#EXTINF:-1,ITV 3 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1507.m3u8
+#EXTINF:-1,ITV BE HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1508.m3u8
+#EXTINF:-1,E4
+http://live.redfhd.com:8000/live/cemal/sakarya54/6928.m3u8
 #EXTINF:-1,ITV 4
-http://uktv0.host:8000/live/empty/empty/4178.m3u8
-#EXTINF:-1,ITV4
-http://uktv0.host:8000/live/empty/empty/4289.m3u8
-#EXTINF:-1,ITV4
-http://uktv0.host:8000/live/empty/empty/4413.m3u8
-#EXTINF:-1,Sky Crime 
-http://uktv0.host:8000/live/empty/empty/127578.m3u8
-#EXTINF:-1,Sky Crime HD
-http://uktv0.host:8000/live/empty/empty/127579.m3u8
-#EXTINF:-1,Sky Crime
-http://uktv0.host:8000/live/empty/empty/127580.m3u8
-#EXTINF:-1,Sky Arts
-http://uktv0.host:8000/live/empty/empty/127575.m3u8
-#EXTINF:-1,Sky Arts
-http://uktv0.host:8000/live/empty/empty/127576.m3u8
-#EXTINF:-1,Sky Arts
-http://uktv0.host:8000/live/empty/empty/127577.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://uktv0.host:8000/live/empty/empty/4395.m3u8
-#EXTINF:-1,FOX
-http://uktv0.host:8000/live/empty/empty/4170.m3u8
-#EXTINF:-1,FOX
-http://uktv0.host:8000/live/empty/empty/4282.m3u8
-#EXTINF:-1,FOX
-http://uktv0.host:8000/live/empty/empty/4402.m3u8
-#EXTINF:-1,MTV
-http://uktv0.host:8000/live/empty/empty/4294.m3u8
-#EXTINF:-1,MTV 
-http://uktv0.host:8000/live/empty/empty/127065.m3u8
-#EXTINF:-1,MTV
-http://uktv0.host:8000/live/empty/empty/127075.m3u8
-#EXTINF:-1,5 STAR
-http://uktv0.host:8000/live/empty/empty/4009.m3u8
-#EXTINF:-1,5Star
-http://uktv0.host:8000/live/empty/empty/4346.m3u8
-#EXTINF:-1,ITVBE
-http://uktv0.host:8000/live/empty/empty/4290.m3u8
-#EXTINF:-1,ITVBE
-http://uktv0.host:8000/live/empty/empty/4414.m3u8
-#EXTINF:-1,ALIBI
-http://uktv0.host:8000/live/empty/empty/4137.m3u8
-#EXTINF:-1,ALIBI
-http://uktv0.host:8000/live/empty/empty/4240.m3u8
-#EXTINF:-1,ALIBI
-http://uktv0.host:8000/live/empty/empty/4347.m3u8
-#EXTINF:-1,TLC
-http://uktv0.host:8000/live/empty/empty/4228.m3u8
-#EXTINF:-1,TLC
-http://uktv0.host:8000/live/empty/empty/4334.m3u8
-#EXTINF:-1,S4C
-http://uktv0.host:8000/live/empty/empty/4448.m3u8
-#EXTINF:-1,E4
-http://uktv0.host:8000/live/empty/empty/4165.m3u8
-#EXTINF:-1,E4
-http://uktv0.host:8000/live/empty/empty/4277.m3u8
-#EXTINF:-1,E4
-http://uktv0.host:8000/live/empty/empty/4396.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6923.m3u8
+#EXTINF:-1,FILM 4
+http://live.redfhd.com:8000/live/cemal/sakarya54/6927.m3u8
 #EXTINF:-1,MORE 4
-http://uktv0.host:8000/live/empty/empty/4293.m3u8
-#EXTINF:-1,4 SEVEN
-http://uktv0.host:8000/live/empty/empty/4136.m3u8
-#EXTINF:-1,4 SEVEN
-http://uktv0.host:8000/live/empty/empty/4239.m3u8
-#EXTINF:-1,4 SEVEN
-http://uktv0.host:8000/live/empty/empty/4342.m3u8
-#EXTINF:-1,5 USA
-http://uktv0.host:8000/live/empty/empty/4345.m3u8
-#EXTINF:-1,REALLY
-http://uktv0.host:8000/live/empty/empty/4447.m3u8
-#EXTINF:-1,DRAMA
-http://uktv0.host:8000/live/empty/empty/4394.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6926.m3u8
+#EXTINF:-1,CHANNEL 4
+http://live.redfhd.com:8000/live/cemal/sakarya54/6924.m3u8
+#EXTINF:-1,CHANNEL 5
+http://live.redfhd.com:8000/live/cemal/sakarya54/6925.m3u8
+#EXTINF:-1,SKY ONE HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7427.m3u8
+#EXTINF:-1,E!
+http://live.redfhd.com:8000/live/cemal/sakarya54/6948.m3u8
+#EXTINF:-1,CNBC
+http://live.redfhd.com:8000/live/cemal/sakarya54/32697.m3u8
+#EXTINF:-1,ALIBI
+http://live.redfhd.com:8000/live/cemal/sakarya54/6947.m3u8
+#EXTINF:-1,DAVE
+http://live.redfhd.com:8000/live/cemal/sakarya54/6951.m3u8
 #EXTINF:-1,QUEST
-http://uktv0.host:8000/live/empty/empty/4192.m3u8
-#EXTINF:-1,QUEST
-http://uktv0.host:8000/live/empty/empty/4302.m3u8
-#EXTINF:-1,QUEST
-http://uktv0.host:8000/live/empty/empty/4444.m3u8
-#EXTINF:-1,UK : CBS REALITY
-http://uktv0.host:8000/live/empty/empty/4052.m3u8
-#EXTINF:-1,CBS Action
-http://uktv0.host:8000/live/empty/empty/4371.m3u8
-#EXTINF:-1,CBS DRAMA
-http://uktv0.host:8000/live/empty/empty/4372.m3u8
-#EXTINF:-1,CBS Reality
-http://uktv0.host:8000/live/empty/empty/4373.m3u8
-#EXTINF:-1,Quest Red
-http://uktv0.host:8000/live/empty/empty/4445.m3u8
-#EXTINF:-1,PARAMOUNT
-http://uktv0.host:8000/live/empty/empty/4189.m3u8
-#EXTINF:-1,PARAMOUNT
-http://uktv0.host:8000/live/empty/empty/4300.m3u8
-#EXTINF:-1,PARAMOUNT
-http://uktv0.host:8000/live/empty/empty/4438.m3u8
-#EXTINF:-1,UK : SPIKE UK
-http://uktv0.host:8000/live/empty/empty/4124.m3u8
-#EXTINF:-1,PICK TV
-http://uktv0.host:8000/live/empty/empty/4439.m3u8
-#EXTINF:-1,BBC ALBA
-http://uktv0.host:8000/live/empty/empty/133976.m3u8
-#EXTINF:-1,BBC ALBA Glasgow
-http://uktv0.host:8000/live/empty/empty/133977.m3u8
-#EXTINF:-1,BBC One Channel Islands
-http://uktv0.host:8000/live/empty/empty/133981.m3u8
-#EXTINF:-1,BBC One East East
-http://uktv0.host:8000/live/empty/empty/133983.m3u8
-#EXTINF:-1,BBC One East Midlands
-http://uktv0.host:8000/live/empty/empty/133984.m3u8
-#EXTINF:-1,BBC One East West
-http://uktv0.host:8000/live/empty/empty/133985.m3u8
-#EXTINF:-1,BBC One London
-http://uktv0.host:8000/live/empty/empty/133987.m3u8
-#EXTINF:-1,BBC One North East & Cumbria
-http://uktv0.host:8000/live/empty/empty/133988.m3u8
-#EXTINF:-1,BBC One North West
-http://uktv0.host:8000/live/empty/empty/133989.m3u8
-#EXTINF:-1,BBC One Oxford
-http://uktv0.host:8000/live/empty/empty/133992.m3u8
-#EXTINF:-1,BBC One Scotland
-http://uktv0.host:8000/live/empty/empty/133993.m3u8
-#EXTINF:-1,BBC One South
-http://uktv0.host:8000/live/empty/empty/133994.m3u8
-#EXTINF:-1,BBC One South East
-http://uktv0.host:8000/live/empty/empty/133995.m3u8
-#EXTINF:-1,BBC One South West
-http://uktv0.host:8000/live/empty/empty/133996.m3u8
-#EXTINF:-1,BBC One Wales
-http://uktv0.host:8000/live/empty/empty/133997.m3u8
-#EXTINF:-1,BBC One West
-http://uktv0.host:8000/live/empty/empty/133999.m3u8
-#EXTINF:-1,BBC One West Midlands
-http://uktv0.host:8000/live/empty/empty/134000.m3u8
-#EXTINF:-1,BBC One Yorkshire & Lincolnshire
-http://uktv0.host:8000/live/empty/empty/133986.m3u8
-#EXTINF:-1,BBC One Yorkshire & North Midlands
-http://uktv0.host:8000/live/empty/empty/134001.m3u8
-#EXTINF:-1,BBC Scotland
-http://uktv0.host:8000/live/empty/empty/134004.m3u8
-#EXTINF:-1,BBC Two Wales
-http://uktv0.host:8000/live/empty/empty/134007.m3u8
-#EXTINF:-1,Channel 4 London
-http://uktv0.host:8000/live/empty/empty/134014.m3u8
-#EXTINF:-1,Channel 4 Midlands
-http://uktv0.host:8000/live/empty/empty/134016.m3u8
-#EXTINF:-1,Channel 4 North
-http://uktv0.host:8000/live/empty/empty/134017.m3u8
-#EXTINF:-1,Channel 4 Scotland
-http://uktv0.host:8000/live/empty/empty/134021.m3u8
-#EXTINF:-1,Channel 4 South & East
-http://uktv0.host:8000/live/empty/empty/134024.m3u8
-#EXTINF:-1,ITV Anglia East
-http://uktv0.host:8000/live/empty/empty/133931.m3u8
-#EXTINF:-1,ITV Anglia West
-http://uktv0.host:8000/live/empty/empty/133935.m3u8
-#EXTINF:-1,ITV Border England
-http://uktv0.host:8000/live/empty/empty/133936.m3u8
-#EXTINF:-1,ITV Border Scotland
-http://uktv0.host:8000/live/empty/empty/133938.m3u8
-#EXTINF:-1,ITV Central East
-http://uktv0.host:8000/live/empty/empty/133939.m3u8
-#EXTINF:-1,ITV Central West
-http://uktv0.host:8000/live/empty/empty/133940.m3u8
-#EXTINF:-1,ITV Channel TV
-http://uktv0.host:8000/live/empty/empty/133942.m3u8
-#EXTINF:-1,ITV Granada
-http://uktv0.host:8000/live/empty/empty/133945.m3u8
-#EXTINF:-1,ITV London
-http://uktv0.host:8000/live/empty/empty/133947.m3u8
-#EXTINF:-1,ITV Meridian East
-http://uktv0.host:8000/live/empty/empty/133949.m3u8
-#EXTINF:-1,ITV Meridian South Coast
-http://uktv0.host:8000/live/empty/empty/133951.m3u8
-#EXTINF:-1,ITV Meridian Thames Valley
-http://uktv0.host:8000/live/empty/empty/133953.m3u8
-#EXTINF:-1,ITV Tyne Tees
-http://uktv0.host:8000/live/empty/empty/133954.m3u8
-#EXTINF:-1,ITV Wales
-http://uktv0.host:8000/live/empty/empty/133956.m3u8
-#EXTINF:-1,ITV West Country West
-http://uktv0.host:8000/live/empty/empty/133959.m3u8
-#EXTINF:-1,ITV Westcountry South West
-http://uktv0.host:8000/live/empty/empty/133961.m3u8
-#EXTINF:-1,ITV Yorkshire East
-http://uktv0.host:8000/live/empty/empty/133963.m3u8
-#EXTINF:-1,ITV Yorkshire West
-http://uktv0.host:8000/live/empty/empty/133966.m3u8
-#EXTINF:-1,STV East
-http://uktv0.host:8000/live/empty/empty/133922.m3u8
-#EXTINF:-1,STV North
-http://uktv0.host:8000/live/empty/empty/133923.m3u8
-#EXTINF:-1,STV Tayside
-http://uktv0.host:8000/live/empty/empty/133924.m3u8
-#EXTINF:-1,STV West
-http://uktv0.host:8000/live/empty/empty/133925.m3u8
-#EXTINF:-1,Channel 4 London +1
-http://uktv0.host:8000/live/empty/empty/134015.m3u8
-#EXTINF:-1,Channel 4 North +1
-http://uktv0.host:8000/live/empty/empty/134019.m3u8
-#EXTINF:-1,Channel 4 Scotland +1
-http://uktv0.host:8000/live/empty/empty/134022.m3u8
-#EXTINF:-1,Channel 4 South & East +1
-http://uktv0.host:8000/live/empty/empty/134025.m3u8
-#EXTINF:-1,ITV Anglia East +1
-http://uktv0.host:8000/live/empty/empty/133933.m3u8
-#EXTINF:-1,ITV Central West +1
-http://uktv0.host:8000/live/empty/empty/133941.m3u8
-#EXTINF:-1,ITV Granada +1
-http://uktv0.host:8000/live/empty/empty/133946.m3u8
-#EXTINF:-1,ITV London +1
-http://uktv0.host:8000/live/empty/empty/133948.m3u8
-#EXTINF:-1,ITV Meridian East +1
-http://uktv0.host:8000/live/empty/empty/133950.m3u8
-#EXTINF:-1,ITV Tyne Tees +1
-http://uktv0.host:8000/live/empty/empty/133955.m3u8
-#EXTINF:-1,ITV Wales +1
-http://uktv0.host:8000/live/empty/empty/133958.m3u8
-#EXTINF:-1,ITV West Country West +1
-http://uktv0.host:8000/live/empty/empty/133960.m3u8
-#EXTINF:-1,ITV Westcountry South West +1
-http://uktv0.host:8000/live/empty/empty/133962.m3u8
-#EXTINF:-1,ITV Yorkshire East +1
-http://uktv0.host:8000/live/empty/empty/133964.m3u8
-#EXTINF:-1,5Spike+1
-http://uktv0.host:8000/live/empty/empty/127050.m3u8
-#EXTINF:-1,5STAR+1
-http://uktv0.host:8000/live/empty/empty/127049.m3u8
-#EXTINF:-1,5USA+1
-http://uktv0.host:8000/live/empty/empty/127048.m3u8
-#EXTINF:-1,alibi+1
-http://uktv0.host:8000/live/empty/empty/127046.m3u8
-#EXTINF:-1,Animal Plnt+1
-http://uktv0.host:8000/live/empty/empty/127045.m3u8
-#EXTINF:-1,Boomerang+1
-http://uktv0.host:8000/live/empty/empty/127047.m3u8
-#EXTINF:-1,CBS Reality+1
-http://uktv0.host:8000/live/empty/empty/127044.m3u8
-#EXTINF:-1,Channel 5+1
-http://uktv0.host:8000/live/empty/empty/127043.m3u8
-#EXTINF:-1,ComedyXtra+1
-http://uktv0.host:8000/live/empty/empty/127042.m3u8
-#EXTINF:-1,Disc.Sci+1
-http://uktv0.host:8000/live/empty/empty/127041.m3u8
-#EXTINF:-1,Disc.Turbo+1
-http://uktv0.host:8000/live/empty/empty/127040.m3u8
-#EXTINF:-1,Discovery+1
-http://uktv0.host:8000/live/empty/empty/127039.m3u8
-#EXTINF:-1,DMAX+1
-http://uktv0.host:8000/live/empty/empty/127038.m3u8
-#EXTINF:-1,Drama+1
-http://uktv0.host:8000/live/empty/empty/127037.m3u8
-#EXTINF:-1,Eden+1
-http://uktv0.host:8000/live/empty/empty/127036.m3u8
-#EXTINF:-1,Food Netwrk+1
-http://uktv0.host:8000/live/empty/empty/127035.m3u8
-#EXTINF:-1,GOLD+1
-http://uktv0.host:8000/live/empty/empty/127034.m3u8
-#EXTINF:-1,Home+1
-http://uktv0.host:8000/live/empty/empty/127033.m3u8
-#EXTINF:-1,HomeHealth+1
-http://uktv0.host:8000/live/empty/empty/127032.m3u8
-#EXTINF:-1,horror ch+1
-http://uktv0.host:8000/live/empty/empty/127031.m3u8
-#EXTINF:-1,MTV MUSIC+1
-http://uktv0.host:8000/live/empty/empty/127030.m3u8
-#EXTINF:-1,MTV+1
-http://uktv0.host:8000/live/empty/empty/127029.m3u8
-#EXTINF:-1,Nick Jr+1
-http://uktv0.host:8000/live/empty/empty/127028.m3u8
-#EXTINF:-1,POP Max+1
-http://uktv0.host:8000/live/empty/empty/127027.m3u8
-#EXTINF:-1,POP+1
-http://uktv0.host:8000/live/empty/empty/127026.m3u8
-#EXTINF:-1,Quest Red+1
-http://uktv0.host:8000/live/empty/empty/127025.m3u8
-#EXTINF:-1,QUEST+1
-http://uktv0.host:8000/live/empty/empty/127024.m3u8
-#EXTINF:-1,ROK+1
-http://uktv0.host:8000/live/empty/empty/127023.m3u8
-#EXTINF:-1,Sony Action+1
-http://uktv0.host:8000/live/empty/empty/127022.m3u8
-#EXTINF:-1,Sony Channel+1
-http://uktv0.host:8000/live/empty/empty/127021.m3u8
-#EXTINF:-1,Sony Crime+1
-http://uktv0.host:8000/live/empty/empty/127020.m3u8
-#EXTINF:-1,Sony Movies+1
-http://uktv0.host:8000/live/empty/empty/127019.m3u8
-#EXTINF:-1,Sony Xmas+1
-http://uktv0.host:8000/live/empty/empty/127018.m3u8
-#EXTINF:-1,TCM Movies+1
-http://uktv0.host:8000/live/empty/empty/127017.m3u8
-#EXTINF:-1,Tiny Pop+1
-http://uktv0.host:8000/live/empty/empty/127016.m3u8
-#EXTINF:-1,TLC+1
-http://uktv0.host:8000/live/empty/empty/127015.m3u8
-#EXTINF:-1,SKY CINEMA PREMIERE
-http://uktv0.host:8000/live/empty/empty/4203.m3u8
-#EXTINF:-1,SKY CINEMA PREMIERE
-http://uktv0.host:8000/live/empty/empty/4313.m3u8
-#EXTINF:-1,SKY CINEMA PREMIERE
-http://uktv0.host:8000/live/empty/empty/4458.m3u8
-#EXTINF:-1,SKY CINEMA SELECT
-http://uktv0.host:8000/live/empty/empty/4205.m3u8
-#EXTINF:-1,SKY CINEMA SELECT
-http://uktv0.host:8000/live/empty/empty/4315.m3u8
-#EXTINF:-1,SKY CINEMA SELECT
-http://uktv0.host:8000/live/empty/empty/4460.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://uktv0.host:8000/live/empty/empty/4202.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://uktv0.host:8000/live/empty/empty/4312.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://uktv0.host:8000/live/empty/empty/4457.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA
-http://uktv0.host:8000/live/empty/empty/4199.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA
-http://uktv0.host:8000/live/empty/empty/4308.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA
-http://uktv0.host:8000/live/empty/empty/4454.m3u8
-#EXTINF:-1,SKY CINEMA DISNEY
-http://uktv0.host:8000/live/empty/empty/4198.m3u8
-#EXTINF:-1,SKY CINEMA DISNEY
-http://uktv0.host:8000/live/empty/empty/4307.m3u8
-#EXTINF:-1,SKY CINEMA DISNEY
-http://uktv0.host:8000/live/empty/empty/4453.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://uktv0.host:8000/live/empty/empty/4200.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://uktv0.host:8000/live/empty/empty/4309.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://uktv0.host:8000/live/empty/empty/4455.m3u8
-#EXTINF:-1,SKY CINEMA ACTION
-http://uktv0.host:8000/live/empty/empty/4196.m3u8
-#EXTINF:-1,SKY CINEMA ACTION
-http://uktv0.host:8000/live/empty/empty/4305.m3u8
-#EXTINF:-1,SKY CINEMA ACTION
-http://uktv0.host:8000/live/empty/empty/4451.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY
-http://uktv0.host:8000/live/empty/empty/4197.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY
-http://uktv0.host:8000/live/empty/empty/4306.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY
-http://uktv0.host:8000/live/empty/empty/4452.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER
-http://uktv0.host:8000/live/empty/empty/4206.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER
-http://uktv0.host:8000/live/empty/empty/4316.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER
-http://uktv0.host:8000/live/empty/empty/4461.m3u8
-#EXTINF:-1,SKY CINEMA GREATS
-http://uktv0.host:8000/live/empty/empty/4201.m3u8
-#EXTINF:-1,SKY CINEMA GREATS
-http://uktv0.host:8000/live/empty/empty/4310.m3u8
-#EXTINF:-1,SKY CINEMA GREATS
-http://uktv0.host:8000/live/empty/empty/4456.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI HORROR
-http://uktv0.host:8000/live/empty/empty/4204.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI HORROR
-http://uktv0.host:8000/live/empty/empty/4314.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI
-http://uktv0.host:8000/live/empty/empty/4459.m3u8
-#EXTINF:-1,FILM 4
-http://uktv0.host:8000/live/empty/empty/4169.m3u8
-#EXTINF:-1,FILM 4
-http://uktv0.host:8000/live/empty/empty/4281.m3u8
-#EXTINF:-1,UK : TCM FHD
-http://uktv0.host:8000/live/empty/empty/131237.m3u8
-#EXTINF:-1,UK : TCM HD
-http://uktv0.host:8000/live/empty/empty/131238.m3u8
-#EXTINF:-1,UK : TCM SD
-http://uktv0.host:8000/live/empty/empty/131239.m3u8
-#EXTINF:-1,Movies 24
-http://uktv0.host:8000/live/empty/empty/131045.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://uktv0.host:8000/live/empty/empty/4215.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://uktv0.host:8000/live/empty/empty/4325.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://uktv0.host:8000/live/empty/empty/4470.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://uktv0.host:8000/live/empty/empty/4218.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://uktv0.host:8000/live/empty/empty/4328.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://uktv0.host:8000/live/empty/empty/4472.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://uktv0.host:8000/live/empty/empty/4213.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://uktv0.host:8000/live/empty/empty/4323.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://uktv0.host:8000/live/empty/empty/4468.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET
-http://uktv0.host:8000/live/empty/empty/4211.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET
-http://uktv0.host:8000/live/empty/empty/4321.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET
-http://uktv0.host:8000/live/empty/empty/4466.m3u8
-#EXTINF:-1,SKY SPORTS GOLF
-http://uktv0.host:8000/live/empty/empty/4214.m3u8
-#EXTINF:-1,SKY SPORTS GOLF
-http://uktv0.host:8000/live/empty/empty/4324.m3u8
-#EXTINF:-1,SKY SPORTS GOLF
-http://uktv0.host:8000/live/empty/empty/4469.m3u8
-#EXTINF:-1,SKY SPORTS F1
-http://uktv0.host:8000/live/empty/empty/4212.m3u8
-#EXTINF:-1,SKY SPORTS F1
-http://uktv0.host:8000/live/empty/empty/4322.m3u8
-#EXTINF:-1,SKY SPORTS F1
-http://uktv0.host:8000/live/empty/empty/4467.m3u8
-#EXTINF:-1,SKY SPORTS ACTION
-http://uktv0.host:8000/live/empty/empty/4209.m3u8
-#EXTINF:-1,SKY SPORTS ACTION
-http://uktv0.host:8000/live/empty/empty/4319.m3u8
-#EXTINF:-1,SKY SPORTS ACTION
-http://uktv0.host:8000/live/empty/empty/4465.m3u8
-#EXTINF:-1,SKY SPORTS ARENA
-http://uktv0.host:8000/live/empty/empty/4210.m3u8
-#EXTINF:-1,SKY SPORTS ARENA
-http://uktv0.host:8000/live/empty/empty/4320.m3u8
-#EXTINF:-1,UK SD: SKY SPORTS ARENA
-http://uktv0.host:8000/live/empty/empty/4493.m3u8
-#EXTINF:-1,SKY SPORTS NEWS
-http://uktv0.host:8000/live/empty/empty/4217.m3u8
-#EXTINF:-1,SKY SPORTS NEWS
-http://uktv0.host:8000/live/empty/empty/4327.m3u8
-#EXTINF:-1,UK SD: SKY SPORTS NEWS
-http://uktv0.host:8000/live/empty/empty/4497.m3u8
-#EXTINF:-1,SKY SPORTS NEWS
-http://uktv0.host:8000/live/empty/empty/4471.m3u8
-#EXTINF:-1,SKY SPORTS MIX
-http://uktv0.host:8000/live/empty/empty/4216.m3u8
-#EXTINF:-1,SKY SPORTS MIX
-http://uktv0.host:8000/live/empty/empty/4326.m3u8
-#EXTINF:-1,UK SD: SKY SPORTS MIX
-http://uktv0.host:8000/live/empty/empty/4494.m3u8
-#EXTINF:-1,SKY SPORTS RACING
-http://uktv0.host:8000/live/empty/empty/4219.m3u8
-#EXTINF:-1,SKY SPORTS RACING
-http://uktv0.host:8000/live/empty/empty/4329.m3u8
-#EXTINF:-1,SKY SPORTS RACING
-http://uktv0.host:8000/live/empty/empty/4473.m3u8
-#EXTINF:-1,EUROSPORTS 1
-http://uktv0.host:8000/live/empty/empty/4167.m3u8
-#EXTINF:-1,EUROSPORTS 1
-http://uktv0.host:8000/live/empty/empty/4279.m3u8
-#EXTINF:-1,EUROSPORTS 1
-http://uktv0.host:8000/live/empty/empty/4398.m3u8
-#EXTINF:-1,EUROSPORTS 2
-http://uktv0.host:8000/live/empty/empty/4168.m3u8
-#EXTINF:-1,EUROSPORTS 2
-http://uktv0.host:8000/live/empty/empty/4280.m3u8
-#EXTINF:-1,EUROSPORTS 2
-http://uktv0.host:8000/live/empty/empty/4399.m3u8
-#EXTINF:-1,PREMIER SPORTS
-http://uktv0.host:8000/live/empty/empty/4190.m3u8
-#EXTINF:-1,PREMIER SPORTS
-http://uktv0.host:8000/live/empty/empty/4301.m3u8
-#EXTINF:-1,PREMIER SPORTS
-http://uktv0.host:8000/live/empty/empty/4442.m3u8
-#EXTINF:-1,PREMIER SPORTS 2
-http://uktv0.host:8000/live/empty/empty/4191.m3u8
-#EXTINF:-1,PREMIER SPORTS 2
-http://uktv0.host:8000/live/empty/empty/4443.m3u8
-#EXTINF:-1,BT SPORTS 1
-http://uktv0.host:8000/live/empty/empty/4147.m3u8
-#EXTINF:-1,BT SPORTS 1
-http://uktv0.host:8000/live/empty/empty/4259.m3u8
-#EXTINF:-1,BT SPORTS 1
-http://uktv0.host:8000/live/empty/empty/4361.m3u8
-#EXTINF:-1,BT SPORTS 2
-http://uktv0.host:8000/live/empty/empty/4148.m3u8
-#EXTINF:-1,BT SPORTS 2
-http://uktv0.host:8000/live/empty/empty/4260.m3u8
-#EXTINF:-1,BT SPORTS 2
-http://uktv0.host:8000/live/empty/empty/4362.m3u8
-#EXTINF:-1,BT SPORTS 3
-http://uktv0.host:8000/live/empty/empty/4149.m3u8
-#EXTINF:-1,BT SPORTS 3
-http://uktv0.host:8000/live/empty/empty/4261.m3u8
-#EXTINF:-1,BT SPORTS 3
-http://uktv0.host:8000/live/empty/empty/4363.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://uktv0.host:8000/live/empty/empty/196285.m3u8
-#EXTINF:-1,BT SPORTS  ESPN
-http://uktv0.host:8000/live/empty/empty/4150.m3u8
-#EXTINF:-1,BT SPORTS ESPN
-http://uktv0.host:8000/live/empty/empty/4262.m3u8
-#EXTINF:-1,BT SPORTS ESPN
-http://uktv0.host:8000/live/empty/empty/4364.m3u8
-#EXTINF:-1,MUTV FHD
-http://uktv0.host:8000/live/empty/empty/4185.m3u8
-#EXTINF:-1,MUTV
-http://uktv0.host:8000/live/empty/empty/4296.m3u8
-#EXTINF:-1,FREESPORTS
-http://uktv0.host:8000/live/empty/empty/4171.m3u8
-#EXTINF:-1,FREESPORTS
-http://uktv0.host:8000/live/empty/empty/4403.m3u8
-#EXTINF:-1,LFC TV
-http://uktv0.host:8000/live/empty/empty/184982.m3u8
-#EXTINF:-1,LFC TV
-http://uktv0.host:8000/live/empty/empty/4417.m3u8
-#EXTINF:-1,BOXNATION
-http://uktv0.host:8000/live/empty/empty/4146.m3u8
-#EXTINF:-1,BOXNATION
-http://uktv0.host:8000/live/empty/empty/4360.m3u8
-#EXTINF:-1,Racing UK HD
-http://uktv0.host:8000/live/empty/empty/127590.m3u8
-#EXTINF:-1,Sky Sports Racing HD
-http://uktv0.host:8000/live/empty/empty/127591.m3u8
-#EXTINF:-1,PDC Darts (live events only)
-http://uktv0.host:8000/live/empty/empty/127581.m3u8
-#EXTINF:-1,PDC Darts 2 (Live events only)
-http://uktv0.host:8000/live/empty/empty/197205.m3u8
-#EXTINF:-1,ID
-http://uktv0.host:8000/live/empty/empty/4409.m3u8
-#EXTINF:-1,YESTERDAY
-http://uktv0.host:8000/live/empty/empty/4491.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://uktv0.host:8000/live/empty/empty/4158.m3u8
-#EXTINF:-1, CRIME INVESTIGATION
-http://uktv0.host:8000/live/empty/empty/4268.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://uktv0.host:8000/live/empty/empty/4381.m3u8
-#EXTINF:-1,BBC NEWS FHD
-http://uktv0.host:8000/live/empty/empty/4142.m3u8
-#EXTINF:-1,SKY NEWS
-http://uktv0.host:8000/live/empty/empty/116758.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6962.m3u8
+#EXTINF:-1,UTV
+http://live.redfhd.com:8000/live/cemal/sakarya54/6930.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://live.redfhd.com:8000/live/cemal/sakarya54/6950.m3u8
+#EXTINF:-1,CBBC
+http://live.redfhd.com:8000/live/cemal/sakarya54/6920.m3u8
+#EXTINF:-1,FOX NEWS
+http://live.redfhd.com:8000/live/cemal/sakarya54/6933.m3u8
+#EXTINF:-1,CNN INT.
+http://live.redfhd.com:8000/live/cemal/sakarya54/32670.m3u8
+#EXTINF:-1,EURONEWS
+http://live.redfhd.com:8000/live/cemal/sakarya54/6934.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://live.redfhd.com:8000/live/cemal/sakarya54/6958.m3u8
 #EXTINF:-1,BLOOMBERG
-http://uktv0.host:8000/live/empty/empty/4258.m3u8
-#EXTINF:-1,SKY NEWS
-http://uktv0.host:8000/live/empty/empty/116759.m3u8
-#EXTINF:-1,UK : BBC Parliament
-http://uktv0.host:8000/live/empty/empty/195953.m3u8
-#EXTINF:-1,SONY TV
-http://uktv0.host:8000/live/empty/empty/4222.m3u8
-#EXTINF:-1,HOME
-http://uktv0.host:8000/live/empty/empty/4407.m3u8
-#EXTINF:-1,UK : STARZ
-http://uktv0.host:8000/live/empty/empty/4125.m3u8
-#EXTINF:-1,UK : CBEEBIES HD
-http://uktv0.host:8000/live/empty/empty/4051.m3u8
-#EXTINF:-1,UK : Eir Sports 1
-http://uktv0.host:8000/live/empty/empty/131094.m3u8
-#EXTINF:-1,UK : The Box
-http://uktv0.host:8000/live/empty/empty/131240.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://uktv0.host:8000/live/empty/empty/4135.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://uktv0.host:8000/live/empty/empty/4151.m3u8
-#EXTINF:-1,CBBC
-http://uktv0.host:8000/live/empty/empty/4152.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://uktv0.host:8000/live/empty/empty/4162.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://uktv0.host:8000/live/empty/empty/4163.m3u8
-#EXTINF:-1,DISNEY XD
-http://uktv0.host:8000/live/empty/empty/4164.m3u8
-#EXTINF:-1,EDEN
-http://uktv0.host:8000/live/empty/empty/4166.m3u8
-#EXTINF:-1,H2
-http://uktv0.host:8000/live/empty/empty/4173.m3u8
-#EXTINF:-1,HISTORY
-http://uktv0.host:8000/live/empty/empty/4174.m3u8
-#EXTINF:-1,LIFETIME
-http://uktv0.host:8000/live/empty/empty/4179.m3u8
-#EXTINF:-1,LIVERPOOL FC TV
-http://uktv0.host:8000/live/empty/empty/4180.m3u8
-#EXTINF:-1,NAT GEO
-http://uktv0.host:8000/live/empty/empty/4186.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://uktv0.host:8000/live/empty/empty/4187.m3u8
-#EXTINF:-1,AMC from BT
-http://uktv0.host:8000/live/empty/empty/4241.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://uktv0.host:8000/live/empty/empty/4242.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6939.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1504.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1503.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
-http://uktv0.host:8000/live/empty/empty/4263.m3u8
-#EXTINF:-1,CBBC
-http://uktv0.host:8000/live/empty/empty/4264.m3u8
-#EXTINF:-1,CBeebies
-http://uktv0.host:8000/live/empty/empty/4265.m3u8
-#EXTINF:-1,DISCOVERY
-http://uktv0.host:8000/live/empty/empty/4273.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://uktv0.host:8000/live/empty/empty/4274.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://uktv0.host:8000/live/empty/empty/4275.m3u8
-#EXTINF:-1,DISNEY XD
-http://uktv0.host:8000/live/empty/empty/4276.m3u8
-#EXTINF:-1,EDEN
-http://uktv0.host:8000/live/empty/empty/4278.m3u8
-#EXTINF:-1,H2
-http://uktv0.host:8000/live/empty/empty/4284.m3u8
-#EXTINF:-1,HISTORY
-http://uktv0.host:8000/live/empty/empty/4283.m3u8
-#EXTINF:-1,LIFETIME
-http://uktv0.host:8000/live/empty/empty/4291.m3u8
-#EXTINF:-1,NAT GEO
-http://uktv0.host:8000/live/empty/empty/4297.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://uktv0.host:8000/live/empty/empty/4298.m3u8
-#EXTINF:-1,NICK
-http://uktv0.host:8000/live/empty/empty/4299.m3u8
-#EXTINF:-1,ZOOMOO
-http://uktv0.host:8000/live/empty/empty/4337.m3u8
-#EXTINF:-1,5 SELECT
-http://uktv0.host:8000/live/empty/empty/4344.m3u8
-#EXTINF:-1,AMC
-http://uktv0.host:8000/live/empty/empty/4138.m3u8
-#EXTINF:-1,AMC
-http://uktv0.host:8000/live/empty/empty/4348.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/1502.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://live.redfhd.com:8000/live/cemal/sakarya54/6964.m3u8
+#EXTINF:-1,HISTORY HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1513.m3u8
 #EXTINF:-1,ANIMAL PLANET
-http://uktv0.host:8000/live/empty/empty/4349.m3u8
-#EXTINF:-1,BOOMERANG
-http://uktv0.host:8000/live/empty/empty/4357.m3u8
-#EXTINF:-1,Chart Show Hits
-http://uktv0.host:8000/live/empty/empty/127089.m3u8
-#EXTINF:-1,Chart Show TV
-http://uktv0.host:8000/live/empty/empty/127088.m3u8
-#EXTINF:-1,Christmas Starz
-http://uktv0.host:8000/live/empty/empty/131046.m3u8
-#EXTINF:-1,Club MTV
-http://uktv0.host:8000/live/empty/empty/127087.m3u8
-#EXTINF:-1,Clubland TV
-http://uktv0.host:8000/live/empty/empty/127086.m3u8
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-http://uktv0.host:8000/live/empty/empty/4380.m3u8
-#EXTINF:-1,DAVE JA VU
-http://uktv0.host:8000/live/empty/empty/4383.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6959.m3u8
 #EXTINF:-1,DISCOVERY
-http://uktv0.host:8000/live/empty/empty/4384.m3u8
-#EXTINF:-1,DISCOVERY HISTORY
-http://uktv0.host:8000/live/empty/empty/4385.m3u8
-#EXTINF:-1,DISCOVERY HOME HEALTH
-http://uktv0.host:8000/live/empty/empty/4386.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6954.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
-http://uktv0.host:8000/live/empty/empty/4387.m3u8
-#EXTINF:-1,DISCOVERY SHED
-http://uktv0.host:8000/live/empty/empty/4388.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://uktv0.host:8000/live/empty/empty/4389.m3u8
-#EXTINF:-1,EDEN
-http://uktv0.host:8000/live/empty/empty/4397.m3u8
-#EXTINF:-1,H2
-http://uktv0.host:8000/live/empty/empty/4406.m3u8
-#EXTINF:-1,HISTORY
-http://uktv0.host:8000/live/empty/empty/4405.m3u8
-#EXTINF:-1,Kerrang!
-http://uktv0.host:8000/live/empty/empty/127085.m3u8
-#EXTINF:-1,KISS
-http://uktv0.host:8000/live/empty/empty/127084.m3u8
-#EXTINF:-1,LIFETIME
-http://uktv0.host:8000/live/empty/empty/4418.m3u8
-#EXTINF:-1,Magic
-http://uktv0.host:8000/live/empty/empty/127083.m3u8
-#EXTINF:-1,MTV Base
-http://uktv0.host:8000/live/empty/empty/127067.m3u8
-#EXTINF:-1,MTV BASE
-http://uktv0.host:8000/live/empty/empty/127082.m3u8
-#EXTINF:-1,MTV Classic
-http://uktv0.host:8000/live/empty/empty/127066.m3u8
-#EXTINF:-1,MTV Classic
-http://uktv0.host:8000/live/empty/empty/127081.m3u8
-#EXTINF:-1,MTV Club
-http://uktv0.host:8000/live/empty/empty/127072.m3u8
-#EXTINF:-1,MTV Hits
-http://uktv0.host:8000/live/empty/empty/127071.m3u8
-#EXTINF:-1,MTV HITS
-http://uktv0.host:8000/live/empty/empty/127080.m3u8
-#EXTINF:-1,MTV Live HD
-http://uktv0.host:8000/live/empty/empty/127064.m3u8
-#EXTINF:-1,MTV Live SD
-http://uktv0.host:8000/live/empty/empty/127079.m3u8
-#EXTINF:-1,MTV Music
-http://uktv0.host:8000/live/empty/empty/127070.m3u8
-#EXTINF:-1,MTV MUSIC
-http://uktv0.host:8000/live/empty/empty/127078.m3u8
-#EXTINF:-1,MTV OMG
-http://uktv0.host:8000/live/empty/empty/127069.m3u8
-#EXTINF:-1,MTV OMG
-http://uktv0.host:8000/live/empty/empty/127077.m3u8
-#EXTINF:-1,MTV Rocks
-http://uktv0.host:8000/live/empty/empty/127068.m3u8
-#EXTINF:-1,MTV ROCKS
-http://uktv0.host:8000/live/empty/empty/127076.m3u8
-#EXTINF:-1,NAT GEO
-http://uktv0.host:8000/live/empty/empty/4432.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6952.m3u8
+#EXTINF:-1,CRIME & INVERSTIGATION
+http://live.redfhd.com:8000/live/cemal/sakarya54/6949.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://live.redfhd.com:8000/live/cemal/sakarya54/6955.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://uktv0.host:8000/live/empty/empty/4433.m3u8
-#EXTINF:-1,Nick
-http://uktv0.host:8000/live/empty/empty/4434.m3u8
-#EXTINF:-1,NICK JR TOO
-http://uktv0.host:8000/live/empty/empty/4435.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://uktv0.host:8000/live/empty/empty/4436.m3u8
-#EXTINF:-1,NICK TOONS
-http://uktv0.host:8000/live/empty/empty/4437.m3u8
-#EXTINF:-1,NOW 80s
-http://uktv0.host:8000/live/empty/empty/127074.m3u8
-#EXTINF:-1,NOW 90s
-http://uktv0.host:8000/live/empty/empty/127073.m3u8
-#EXTINF:-1,SPOT LIGHT
-http://uktv0.host:8000/live/empty/empty/131639.m3u8
-#EXTINF:-1,TINY POP
-http://uktv0.host:8000/live/empty/empty/4483.m3u8
-#EXTINF:-1,VH1
-http://uktv0.host:8000/live/empty/empty/4488.m3u8
-#EXTINF:-1,VICE LAND
-http://uktv0.host:8000/live/empty/empty/4489.m3u8
-#EXTINF:-1,Capital FM 
-http://uktv0.host:8000/live/empty/empty/185951.m3u8
-#EXTINF:-1,Heart FM
-http://uktv0.host:8000/live/empty/empty/185956.m3u8
-#EXTINF:-1,Heart Xtra Xmas
-http://uktv0.host:8000/live/empty/empty/185966.m3u8
-#EXTINF:-1,Smooth Radio 
-http://uktv0.host:8000/live/empty/empty/185967.m3u8
-#EXTINF:-1,LBC UK
-http://uktv0.host:8000/live/empty/empty/185968.m3u8
-#EXTINF:-1,Capital Xtra
-http://uktv0.host:8000/live/empty/empty/185969.m3u8
-#EXTINF:-1,Radio Essex
-http://uktv0.host:8000/live/empty/empty/185970.m3u8
-#EXTINF:-1,BBC Radio 1
-http://uktv0.host:8000/live/empty/empty/185940.m3u8
-#EXTINF:-1,BBC Radio 2
-http://uktv0.host:8000/live/empty/empty/185942.m3u8
-#EXTINF:-1,BBC Radio 3
-http://uktv0.host:8000/live/empty/empty/185944.m3u8
-#EXTINF:-1,BBC Radio 4
-http://uktv0.host:8000/live/empty/empty/185945.m3u8
-#EXTINF:-1,BBC Radio 5 Live 
-http://uktv0.host:8000/live/empty/empty/185947.m3u8
-#EXTINF:-1,BBC Radio 6 Music
-http://uktv0.host:8000/live/empty/empty/185948.m3u8
-#EXTINF:-1,Abacus.fm - Mozart Piano
-http://uktv0.host:8000/live/empty/empty/185935.m3u8
-#EXTINF:-1,Absolute Radio - 00s
-http://uktv0.host:8000/live/empty/empty/185936.m3u8
-#EXTINF:-1,Absolute Radio - 90s
-http://uktv0.host:8000/live/empty/empty/185937.m3u8
-#EXTINF:-1,Absolute Radio - Classic Rock
-http://uktv0.host:8000/live/empty/empty/185938.m3u8
-#EXTINF:-1,BBC World Service
-http://uktv0.host:8000/live/empty/empty/185939.m3u8
-#EXTINF:-1,Burnside Radio 105.0 FM Swansea
-http://uktv0.host:8000/live/empty/empty/185950.m3u8
-#EXTINF:-1,Energy FM
-http://uktv0.host:8000/live/empty/empty/185952.m3u8
-#EXTINF:-1,Garden County Radio Dublin
-http://uktv0.host:8000/live/empty/empty/185953.m3u8
-#EXTINF:-1,Harborough FM 102.3 
-http://uktv0.host:8000/live/empty/empty/185954.m3u8
-#EXTINF:-1,HearMe.fm - Cool Jazz
-http://uktv0.host:8000/live/empty/empty/185955.m3u8
-#EXTINF:-1,Island FM 104.7/93.7 Guernsey/Alderney
-http://uktv0.host:8000/live/empty/empty/185957.m3u8
-#EXTINF:-1,Mondo Bongo Radio
-http://uktv0.host:8000/live/empty/empty/185958.m3u8
-#EXTINF:-1,Pigpen Radio
-http://uktv0.host:8000/live/empty/empty/185959.m3u8
-#EXTINF:-1,Premier Christian Radio 1332 AM London
-http://uktv0.host:8000/live/empty/empty/185961.m3u8
-#EXTINF:-1,Radio Jahani
-http://uktv0.host:8000/live/empty/empty/185962.m3u8
-#EXTINF:-1,Radio Paradise
-http://uktv0.host:8000/live/empty/empty/185963.m3u8
-#EXTINF:-1,Silk 106.9 FM
-http://uktv0.host:8000/live/empty/empty/185964.m3u8
-#EXTINF:-1,The Power Station
-http://uktv0.host:8000/live/empty/empty/185965.m3u8
-#EXTINF:-1,Pirate FM
-http://uktv0.host:8000/live/empty/empty/185972.m3u8
+http://live.redfhd.com:8000/live/cemal/sakarya54/6961.m3u8
+#EXTINF:-1,SKY ARTS 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/6945.m3u8
+#EXTINF:-1,SKY ATLANTIC
+http://live.redfhd.com:8000/live/cemal/sakarya54/6946.m3u8
+#EXTINF:-1,SKY NEWS HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1499.m3u8
+#EXTINF:-1,SKY THRILLER HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1490.m3u8
+#EXTINF:-1,CBS REALITY HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1509.m3u8
+#EXTINF:-1,CBS DRAMA HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1510.m3u8
+#EXTINF:-1,CBS ACTION JUSTICE HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1511.m3u8
+#EXTINF:-1,MOVIES THRILLER HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1514.m3u8
+#EXTINF:-1,MOVIES DRAMA HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1515.m3u8
+#EXTINF:-1,MOVIES DISNEY HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1516.m3u8
+#EXTINF:-1,MOVIES COMEDY HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1517.m3u8
+#EXTINF:-1,MOVIES ACTION HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1518.m3u8
+#EXTINF:-1,BT SPORT 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/4758.m3u8
+#EXTINF:-1,BT SPORT 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/4759.m3u8
+#EXTINF:-1,BT SPORT 3
+http://live.redfhd.com:8000/live/cemal/sakarya54/4760.m3u8
+#EXTINF:-1,SETANTA SPORTS HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1501.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1512.m3u8
+#EXTINF:-1,EVELEVEN SPORTS 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/32749.m3u8
+#EXTINF:-1,PREMIERE SPORTS
+http://live.redfhd.com:8000/live/cemal/sakarya54/32743.m3u8
+#EXTINF:-1,SETANTA/PREMIERE SPORTS
+http://live.redfhd.com:8000/live/cemal/sakarya54/32754.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1016.m3u8
+#EXTINF:-1,SKY SPORT CRICKET HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1017.m3u8
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1018.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1019.m3u8
+#EXTINF:-1,SKY SPORTS F1 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1020.m3u8
+#EXTINF:-1,Sky Sport Main Event HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/22754.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://live.redfhd.com:8000/live/cemal/sakarya54/22755.m3u8
