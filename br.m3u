@@ -1,205 +1,555 @@
 #EXTM3U
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/389
-#EXTINF:-1,A E HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/390
-#EXTINF:-1,AMC HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/391
-#EXTINF:-1,ANIMAL PLANET HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/392
-#EXTINF:-1,BAND HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/395
-#EXTINF:-1,BAND SPORTS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/397
-#EXTINF:-1,BOOMERANG HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/398
-#EXTINF:-1,CARTOON HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/400
-#EXTINF:-1,CINEMAX HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/401
-#EXTINF:-1,CNN INTERNACIONAL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/402
-#EXTINF:-1,COMBATE HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/403
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/404
-#EXTINF:-1,CULTURA HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/405
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/406
-#EXTINF:-1,DISCOVERY H H HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/407
-#EXTINF:-1,DISCOVERY HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/408
-#EXTINF:-1,DISCOVERY KIDS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/409
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/410
-#EXTINF:-1,DISCOVERY THEATHER HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/411
-#EXTINF:-1,DISCOVERY TURBO HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/412
-#EXTINF:-1,DISCOVERY WORLD HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/413
-#EXTINF:-1,DISNEY CHANNEL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/414
-#EXTINF:-1,DISNEY JUNIOR HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/415
-#EXTINF:-1,DISNEY XD HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/416
+#EXTINF:-1,Animal Planet HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358372
+#EXTINF:-1,Band Campinas HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358549
+#EXTINF:-1,Band SPorts HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358559
+#EXTINF:-1,Band News HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358358
+#EXTINF:-1,Axn HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358301
+#EXTINF:-1,Band SP HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358551
+#EXTINF:-1,Boomerang HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358343
+#EXTINF:-1,Canal Brasil HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358546
+#EXTINF:-1,Cartoon Network HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358344
+#EXTINF:-1,Amc HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358299
+#EXTINF:-1,Discovery Channel HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358373
+#EXTINF:-1,Discovery Civilization HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358374
+#EXTINF:-1,Discovery H&H HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358375
+#EXTINF:-1,Discovery Kids HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358346
+#EXTINF:-1,Discovery Science HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358376
+#EXTINF:-1,Discovery Theater HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358377
+#EXTINF:-1,Discovery Turbo HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358378
+#EXTINF:-1,Discovery World HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358379
+#EXTINF:-1,Disney Channel HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358347
+#EXTINF:-1,Arte 1 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358300
+#EXTINF:-1,Disney Jr HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358348
+#EXTINF:-1,Disney Xd HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358349
 #EXTINF:-1,E! HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/417
-#EXTINF:-1,ESPN   HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/418
-#EXTINF:-1,ESPN BR HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/419
-#EXTINF:-1,ESPN INTERNACIONAL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/420
-#EXTINF:-1,ESPORTE INTERATIVO HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/421
-#EXTINF:-1,FASHION TV BRASIL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/422
-#EXTINF:-1,FILM ARTS HD1
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/423
-#EXTINF:-1,FOOD NETWORK HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/424
-#EXTINF:-1,FOX HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/425
-#EXTINF:-1,FOX LIFE HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/426
-#EXTINF:-1,FOX PREMIUM HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/427
-#EXTINF:-1,FOX SPORTS 2 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/428
-#EXTINF:-1,FX HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/431
-#EXTINF:-1,GLOBO NEWS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/432
-#EXTINF:-1,GLOBO PREMIUM HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/433
-#EXTINF:-1,GLOBO PT HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/434
-#EXTINF:-1,GLOBO TV HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/435
-#EXTINF:-1,GNT HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/436
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358561
+#EXTINF:-1,EpTV Ribeirao Preto HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358334
+#EXTINF:-1,Espn 2 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358562
+#EXTINF:-1,Espn HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358565
+#EXTINF:-1,Espn Brasil HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358563
+#EXTINF:-1,Espn Extra
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358455
+#EXTINF:-1,Espn Extra HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358564
+#EXTINF:-1,Universal HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358331
+#EXTINF:-1,Viva HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358371
+#EXTINF:-1,Warner Channel HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358332
+#EXTINF:-1,Combate HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358560
+#EXTINF:-1,Food Network HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358362
+#EXTINF:-1,Fox Premium 1 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358304
+#EXTINF:-1,Fox Premium 2 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358305
+#EXTINF:-1,Fox Life HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358363
+#EXTINF:-1,Fox Life HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358364
+#EXTINF:-1,Fox SPorts HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358567
+#EXTINF:-1,Fox SPorts 2 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358566
+#EXTINF:-1,Globo Brasilia HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358333
+#EXTINF:-1,Globo Minas HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358336
+#EXTINF:-1,Globo News HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358359
+#EXTINF:-1,Globo Manaus HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358335
+#EXTINF:-1,Gloobinho HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358351
+#EXTINF:-1,Gnt HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358365
 #EXTINF:-1,H2 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/437
-#EXTINF:-1,HBO FAMILY HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/438
-#EXTINF:-1,HBO HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/439
-#EXTINF:-1,HBO PLUS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/440
-#EXTINF:-1,HBO SIGNATURE HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/441
-#EXTINF:-1,HBO2 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/442
-#EXTINF:-1,HISTORY HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/443
-#EXTINF:-1,ID HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/444
-#EXTINF:-1,LIFETIME HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/445
-#EXTINF:-1,LOVE NATURE HD1
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/446
-#EXTINF:-1,MAX HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/447
-#EXTINF:-1,MAX PRIME HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/448
-#EXTINF:-1,MAX UP HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/449
-#EXTINF:-1,MEGAPIX HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/450
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358380
+#EXTINF:-1,Hbo Family HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358308
+#EXTINF:-1,Hbo Plus HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358310
+#EXTINF:-1,Comedy CEntral HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358345
+#EXTINF:-1,Cinemax HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358302
+#EXTINF:-1,Fox HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358303
+#EXTINF:-1,Globo Nordeste HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358337
+#EXTINF:-1,Globo Rbs Porto Alegre HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358338
+#EXTINF:-1,Globo RJ HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358339
+#EXTINF:-1,Globo SP HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358340
+#EXTINF:-1,Globo TV Sergipe HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358341
+#EXTINF:-1,Gloob HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358350
+#EXTINF:-1,Baby HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358342
+#EXTINF:-1,Hbo 2 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358309
+#EXTINF:-1,Hbo HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358307
+#EXTINF:-1,Hbo Signature HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358311
+#EXTINF:-1,ID Discovery HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358382
+#EXTINF:-1,Lifetime HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358366
+#EXTINF:-1,Max Up HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358314
+#EXTINF:-1,Megapix HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358315
 #EXTINF:-1,MTV HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/451
-#EXTINF:-1,MTV LIVE HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/452
-#EXTINF:-1,MULTISHOW HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/453
-#EXTINF:-1,NATGEO HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/454
-#EXTINF:-1,NATGEO KIDS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/455
-#EXTINF:-1,NATGEO WILD HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/456
-#EXTINF:-1,NICK HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/457
-#EXTINF:-1,NICK JR HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/458
-#EXTINF:-1,OFF HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/459
-#EXTINF:-1,PARAMOUNT HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/460
-#EXTINF:-1,PREMIERE 2 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/462
-#EXTINF:-1,PREMIERE 3 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/463
-#EXTINF:-1,PREMIERE 4 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/464
-#EXTINF:-1,PREMIERE 5 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/465
-#EXTINF:-1,PREMIERE 6 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/466
-#EXTINF:-1,PREMIERE 7 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/467
-#EXTINF:-1,PREMIERE CLUBES HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/468
-#EXTINF:-1,PRIME BOX BRASIL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/469
-#EXTINF:-1,RECORD HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/471
-#EXTINF:-1,RECORD NEWS HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/472
-#EXTINF:-1,REDE 21
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/473
-#EXTINF:-1,Rede New
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/474
-#EXTINF:-1,REDE TV HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/475
-#EXTINF:-1,REDE VIDA
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/476
-#EXTINF:-1,SBT HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/478
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358368
+#EXTINF:-1,Multishow HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358369
+#EXTINF:-1,Natgeo HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358383
+#EXTINF:-1,Natgeo Kids HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358352
+#EXTINF:-1,Natgeo Wild HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358384
+#EXTINF:-1,Nick HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358353
+#EXTINF:-1,Nick Jr HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358354
+#EXTINF:-1,Paramount HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358316
+#EXTINF:-1,Premiere 2 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358568
+#EXTINF:-1,Premiere 3 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358569
+#EXTINF:-1,Premiere 4 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358570
+#EXTINF:-1,Premiere 5 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358571
+#EXTINF:-1,Premiere 6 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358572
+#EXTINF:-1,Premiere 7 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358573
+#EXTINF:-1,Premiere Clubes HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358574
+#EXTINF:-1,Record Mg HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358557
+#EXTINF:-1,Record News HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358360
+#EXTINF:-1,Record RJ HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358558
+#EXTINF:-1,Sbt Cidade Verde HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358552
+#EXTINF:-1,Sbt TV Jornal HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358554
+#EXTINF:-1,Sony Channel HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358317
+#EXTINF:-1,SPorTV 2 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358575
+#EXTINF:-1,SPorTV 3 HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358576
+#EXTINF:-1,SPorTV HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358577
+#EXTINF:-1,Studio Universal HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358319
+#EXTINF:-1,Tbs HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358321
+#EXTINF:-1,Tcm HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358322
+#EXTINF:-1,Telecine Action HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358323
+#EXTINF:-1,Telecine Cult HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358324
+#EXTINF:-1,Telecine Fun HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358325
+#EXTINF:-1,Telecine Pipoca HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358326
+#EXTINF:-1,Telecine Premium HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358327
+#EXTINF:-1,Telecine Touch HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358328
+#EXTINF:-1,Tlc HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358370
+#EXTINF:-1,Tnt HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358329
+#EXTINF:-1,Tnt Series HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358330
+#EXTINF:-1,Tooncast HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358356
+#EXTINF:-1,Woohoo HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358579
+#EXTINF:-1,Fx HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358306
+#EXTINF:-1,History HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358381
+#EXTINF:-1,Mais Globosat HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358367
+#EXTINF:-1,Max Prime HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358313
+#EXTINF:-1,Band HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358550
+#EXTINF:-1,Syfy HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358320
+#EXTINF:-1,TV Guarulhos HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358547
+#EXTINF:-1,TV Ra Tim Bum HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358355
+#EXTINF:-1,Rede TV HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358548
+#EXTINF:-1,Bis HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358361
+#EXTINF:-1,A&E HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358298
+#EXTINF:-1,A&E 
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358465
+#EXTINF:-1,Animal Planet
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358536
+#EXTINF:-1,Arte 1
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358466
+#EXTINF:-1,Axn
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358467
+#EXTINF:-1,Baby TV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358498
+#EXTINF:-1,Band News
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358513
+#EXTINF:-1,Band
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358446
+#EXTINF:-1,Band Sports
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358452
+#EXTINF:-1,Bis
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358520
+#EXTINF:-1,Boomerang
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358499
+#EXTINF:-1,Canal 24 Horas RS
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358431
+#EXTINF:-1,Canal Brasil
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358385
+#EXTINF:-1,Canal Rural
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358386
+#EXTINF:-1,CEak TV Esrita SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358442
+#EXTINF:-1,Cine Sky 3
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358468
+#EXTINF:-1,Cine Sky 4
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358469
+#EXTINF:-1,Cine Sky 5
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358470
+#EXTINF:-1,Cnn Internacional
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358514
+#EXTINF:-1,Cnt
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358515
+#EXTINF:-1,Combate
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358453
+#EXTINF:-1,Comedy CEntral
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358501
+#EXTINF:-1,ConecTV SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358440
+#EXTINF:-1,Creative TV PB
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358413
+#EXTINF:-1,Discovery Channel
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358537
+#EXTINF:-1,Discovery H&H
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358538
+#EXTINF:-1,Discovery Kids
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358502
+#EXTINF:-1,Discovery Turbo
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358539
+#EXTINF:-1,Disney Channel
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358503
+#EXTINF:-1,Disney Junior
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358504
+#EXTINF:-1,Disney Xd
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358505
+#EXTINF:-1,E!
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358535
+#EXTINF:-1,Espn
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358456
+#EXTINF:-1,Espn Brasil
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358454
+#EXTINF:-1,Fish TV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358457
+#EXTINF:-1,Fonte TV Go
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358407
+#EXTINF:-1,Food Network
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358521
+#EXTINF:-1,Fox
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358472
+#EXTINF:-1,Fox Life
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358522
+#EXTINF:-1,Fox Life
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358523
+#EXTINF:-1,Fox SPorts
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358459
+#EXTINF:-1,Fox Sports 2
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358458
+#EXTINF:-1,Furg TV RS
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358429
+#EXTINF:-1,Fx
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358473
+#EXTINF:-1,Globo News
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358516
+#EXTINF:-1,Gloob
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358506
+#EXTINF:-1,Gloobinho
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358507
+#EXTINF:-1,Gnt
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358524
+#EXTINF:-1,Gostei Gospel TV SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358445
+#EXTINF:-1,H2
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358540
+#EXTINF:-1,Hbo 2
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358474
+#EXTINF:-1,Hbo Family
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358475
+#EXTINF:-1,Hbo Plus
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358476
+#EXTINF:-1,Hbo Signature
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358477
+#EXTINF:-1,History
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358541
+#EXTINF:-1,Id Discovery
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358542
+#EXTINF:-1,ITV - Canal Itu TV SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358438
+#EXTINF:-1,Lifetime
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358525
+#EXTINF:-1,Mais Globosat
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358526
+#EXTINF:-1,Master TV Pr
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358417
+#EXTINF:-1,Max HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358312
+#EXTINF:-1,Max Prime
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358479
+#EXTINF:-1,Max
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358478
+#EXTINF:-1,Max Up
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358480
+#EXTINF:-1,Megapix 
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358481
+#EXTINF:-1,MTV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358527
+#EXTINF:-1,Multishow
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358528
+#EXTINF:-1,Natgeo Kids
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358508
+#EXTINF:-1,Natgeo
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358543
+#EXTINF:-1,Natgeo Wild
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358544
+#EXTINF:-1,Nbr
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358519
+#EXTINF:-1,Nick Jr
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358509
+#EXTINF:-1,Nickelodeon
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358510
+#EXTINF:-1,Nova TV Vale SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358444
+#EXTINF:-1,NTV Patos Mg
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358409
+#EXTINF:-1,Off HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358578
+#EXTINF:-1,Off
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358463
+#EXTINF:-1,Paramount
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358482
+#EXTINF:-1,Play TV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358545
+#EXTINF:-1,Polishop TV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358529
+#EXTINF:-1,Prime Box Brasil 
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358530
+#EXTINF:-1,Radio Esportes Brasilia
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358403
+#EXTINF:-1,RbaTV (Band Pa)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358411
+#EXTINF:-1,Record Ba HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358555
+#EXTINF:-1,Record HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358556
+#EXTINF:-1,Record Mg
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358448
+#EXTINF:-1,Record News
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358517
+#EXTINF:-1,Record RJ
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358449
+#EXTINF:-1,Record RS
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358450
+#EXTINF:-1,Record TV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358451
+#EXTINF:-1,Rede Brasil De Comunica
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358420
+#EXTINF:-1,Rede Brasil
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358395
+#EXTINF:-1,Rede TV RJ
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358425
+#EXTINF:-1,Rede TV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358396
+#EXTINF:-1,Rede TV SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358432
+#EXTINF:-1,Rede Vida
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358397
+#EXTINF:-1,Sbt HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358553
+#EXTINF:-1,Sbt Interior SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358434
+#EXTINF:-1,Sbt
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358447
+#EXTINF:-1,Sbt SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358433
+#EXTINF:-1,Sic Internacional
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358394
 #EXTINF:-1,Sony
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/481
-#EXTINF:-1,SONY  HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/482
-#EXTINF:-1,SPACE HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/483
-#EXTINF:-1,SPORT TV 3 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/484
-#EXTINF:-1,SPORTV 2 HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/485
-#EXTINF:-1,SPORTV HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/486
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/487
-#EXTINF:-1,SYFY HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/488
-#EXTINF:-1,TELECINE ACTION HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/491
-#EXTINF:-1,TELECINE CULT HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/492
-#EXTINF:-1,TELECINE FUN HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/493
-#EXTINF:-1,TELECINE PIPOCA HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/494
-#EXTINF:-1,TELECINE PREMIUM HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/495
-#EXTINF:-1,TELECINE TOUCH HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/496
-#EXTINF:-1,TLC HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/497
-#EXTINF:-1,TNT HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/498
-#EXTINF:-1,TV Geral
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/504
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/508
-#EXTINF:-1,VIVA HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/511
-#EXTINF:-1,WARNER CHANNEL HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/512
-#EXTINF:-1,WOOHOO HD
-http://dreamtv.v90.co:2095/KASS0102/n4FhD5Id8E/513
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358483
+#EXTINF:-1,SPace HD
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358318
+#EXTINF:-1,SPace
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358484
+#EXTINF:-1,SPorTV 2 
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358460
+#EXTINF:-1,SPorTV 3
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358461
+#EXTINF:-1,SPorTV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358462
+#EXTINF:-1,Studio Universal
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358485
+#EXTINF:-1,Summer TV SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358435
+#EXTINF:-1,Syfy
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358486
+#EXTINF:-1,Tbs
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358487
+#EXTINF:-1,Tcm
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358488
+#EXTINF:-1,Telecine Cult 
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358490
+#EXTINF:-1,Telecine Fun
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358491
+#EXTINF:-1,Telecine Premium
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358492
+#EXTINF:-1,Telecine Touch
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358493
+#EXTINF:-1,Terra Viva
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358393
+#EXTINF:-1,Tlc
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358531
+#EXTINF:-1,Tnt
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358494
+#EXTINF:-1,Tnt Series
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358495
+#EXTINF:-1,TruTV
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358532
+#EXTINF:-1,TV A Caminho Da Luz Espirita SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358441
+#EXTINF:-1,TV A Cara Da Bahia
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358401
+#EXTINF:-1,TV Aparecida
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358518
+#EXTINF:-1,TV Boa Esperan
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358422
+#EXTINF:-1,TV Brasil Df
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358404
+#EXTINF:-1,TV Brasil
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358387
+#EXTINF:-1,TV Cachoeira RS
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358428
+#EXTINF:-1,TV Camara
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358388
+#EXTINF:-1,TV Capital 777 SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358436
+#EXTINF:-1,TV Caruaru Pe
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358421
+#EXTINF:-1,TV Cidade Verde (Sbt Pi)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358423
+#EXTINF:-1,TV Climatempo
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358389
+#EXTINF:-1,TV Destak SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358437
+#EXTINF:-1,TV Eparana (Cultura Pr)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358415
+#EXTINF:-1,TV Escola
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358390
+#EXTINF:-1,TV Gide
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358430
+#EXTINF:-1,TV Guarulhos SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358443
+#EXTINF:-1,TV Itapetininga SP
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358439
+#EXTINF:-1,TV J.Sid BA
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358400
+#EXTINF:-1,TV Jornal (Sbt Pe)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358418
+#EXTINF:-1,TV Jornal Caruaru (Sbt Pe)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358419
+#EXTINF:-1,TV Justica
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358391
+#EXTINF:-1,TV Maceio
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358399
+#EXTINF:-1,TV Mar
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358398
+#EXTINF:-1,TV Natal Rn
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358426
+#EXTINF:-1,TV O Povo CE
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358402
+#EXTINF:-1,TV Pampa (Rede TV RS)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358427
+#EXTINF:-1,TV Plan Mg
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358410
+#EXTINF:-1,TV Po
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358408
+#EXTINF:-1,TV Ra Tim Bum
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358511
+#EXTINF:-1,TV Senado
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358392
+#EXTINF:-1,TV Serra Dourada (Sbt Go)
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358406
+#EXTINF:-1,TV Sol PB
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358412
+#EXTINF:-1,TV Up HD (Futura) Pr
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358416
+#EXTINF:-1,TV5
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358533
+#EXTINF:-1,TVc 16 RJ
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358424
+#EXTINF:-1,TVci Pr
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358414
+#EXTINF:-1,TVn Brasil Df
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358405
+#EXTINF:-1,Universal Channel
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358496
+#EXTINF:-1,Viva 
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358534
+#EXTINF:-1,Warner Channel
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358497
+#EXTINF:-1,Woohoo
+http://tvla.xyz:80/noslsahr/X5G01h0xki/1358464
