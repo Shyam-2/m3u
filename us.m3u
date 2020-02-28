@@ -1,73 +1,96 @@
-#EXTM3U
-#EXTINF:-1,MSNBC
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22581.m3u8
-#EXTINF:-1,CBSN
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22582.m3u8
-#EXTINF:-1,CNN
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9493.m3u8
-#EXTINF:-1,FOX NEWS
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9477.m3u8
-#EXTINF:-1,BLOOMBERG
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22589.m3u8
-#EXTINF:-1,MLB NETWORK
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/20401.m3u8
-#EXTINF:-1,ABC
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9511.m3u8
-#EXTINF:-1,ABC NEWS
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9441.m3u8
-#EXTINF:-1,AMC
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9502.m3u8
-#EXTINF:-1,BRAVO
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9500.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9492.m3u8
-#EXTINF:-1,DISCOVERY
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9488.m3u8
-#EXTINF:-1,E!
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9485.m3u8
-#EXTINF:-1,ESPN 1
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9484.m3u8
-#EXTINF:-1,ESPN 2
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9483.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9481.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9476.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9475.m3u8
-#EXTINF:-1,FX HD
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9473.m3u8
-#EXTINF:-1,US | HBO SIGNATURE
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9463.m3u8
-#EXTINF:-1,HGTV
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9461.m3u8
-#EXTINF:-1,HISTORY
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9460.m3u8
-#EXTINF:-1,US | FXX
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22946.m3u8
-#EXTINF:-1,NBC GOLF
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9453.m3u8
-#EXTINF:-1,NHL NETWORK
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9451.m3u8
-#EXTINF:-1,SHOWTIME
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9447.m3u8
-#EXTINF:-1,SPORTSNET WORLD
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9442.m3u8
-#EXTINF:-1,SYFY
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9438.m3u8
-#EXTINF:-1,TNT
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9434.m3u8
-#EXTINF:-1,TSN 1
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9444.m3u8
-#EXTINF:-1,US | QVC Beauty IQ
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22797.m3u8
-#EXTINF:-1,FREEFORM
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22788.m3u8
-#EXTINF:-1,IFC
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22786.m3u8
-#EXTINF:-1,TSN 2
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22782.m3u8
-#EXTINF:-1,TSN 3
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22783.m3u8
-#EXTINF:-1,DISNEY XD
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22951.m3u8
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png",ABC
+http://skdn.redi-vo.com/iptv/ch3507?code=138137164006399&key=48737
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png",SHOWTIME
+http://skdn.redi-vo.com/iptv/ch3536?code=138137164006399&key=23528
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png",USA Net.
+http://skdn.redi-vo.com/iptv/ch3537?code=138137164006399&key=55254
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png",MLB Net.
+http://skdn.redi-vo.com/iptv/ch3538?code=138137164006399&key=40848
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png",TBS HD
+http://skdn.redi-vo.com/iptv/ch3509?code=138137164006399&key=10311
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png",TNT HD
+http://skdn.redi-vo.com/iptv/ch3508?code=138137164006399&key=37699
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png",FOX HD
+http://skdn.redi-vo.com/iptv/ch3520?code=138137164006399&key=62732
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png",AMC HD
+http://skdn.redi-vo.com/iptv/ch3528?code=138137164006399&key=56264
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png",E. USA
+http://skdn.redi-vo.com/iptv/ch3506?code=138137164006399&key=23829
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png",CBS HD
+http://skdn.redi-vo.com/iptv/ch3519?code=138137164006399&key=61007
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png",TLC HD
+http://skdn.redi-vo.com/iptv/ch3503?code=138137164006399&key=37152
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png",HBO
+http://skdn.redi-vo.com/iptv/ch3535?code=138137164006399&key=58751
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png",HBO Zone
+http://skdn.redi-vo.com/iptv/ch3534?code=138137164006399&key=34382
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png",HBO Signature
+http://skdn.redi-vo.com/iptv/ch3533?code=138137164006399&key=32919
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png",HBO Comedy
+http://skdn.redi-vo.com/iptv/ch3532?code=138137164006399&key=46897
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png",FXX
+http://skdn.redi-vo.com/iptv/ch3531?code=138137164006399&key=49226
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png",FX
+http://skdn.redi-vo.com/iptv/ch3530?code=138137164006399&key=27953
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png",Action Max HD
+http://skdn.redi-vo.com/iptv/ch3527?code=138137164006399&key=64453
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png",ABC news
+http://skdn.redi-vo.com/iptv/ch3504?code=138137164006399&key=43655
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png",HG TV
+http://skdn.redi-vo.com/iptv/ch3501?code=138137164006399&key=56571
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png",Viceland
+http://skdn.redi-vo.com/iptv/ch3502?code=138137164006399&key=43347
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
+http://skdn.redi-vo.com/iptv/ch3529?code=138137164006399&key=62091
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=138137164006399&key=50004
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
+http://skdn.redi-vo.com/iptv/ch3525?code=138137164006399&key=10333
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=138137164006399&key=50106
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=138137164006399&key=11368
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=138137164006399&key=43296
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
+http://skdn.redi-vo.com/iptv/ch3521?code=138137164006399&key=12123
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
+http://skdn.redi-vo.com/iptv/ch3518?code=138137164006399&key=58344
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
+http://skdn.redi-vo.com/iptv/ch3517?code=138137164006399&key=57551
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
+http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=31686
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
+http://skdn.redi-vo.com/iptv/ch3515?code=138137164006399&key=17889
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch3513?code=138137164006399&key=23216
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch3514?code=138137164006399&key=27554
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=138137164006399&key=43116
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
+http://skdn.redi-vo.com/iptv/ch3511?code=138137164006399&key=19048
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
+http://skdn.redi-vo.com/iptv/ch3510?code=138137164006399&key=23870
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png",Willow cricket HD
+http://skdn.redi-vo.com/iptv/ch3505?code=138137164006399&key=11725
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/320.png",US Box Office 1
+http://skdn.redi-vo.com/iptv/ch320?code=138137164006399&key=29146
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/321.png",US Box Office 2
+http://skdn.redi-vo.com/iptv/ch321?code=138137164006399&key=20696
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/322.png",US Box Office 3
+http://skdn.redi-vo.com/iptv/ch322?code=138137164006399&key=21014
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/323.png",US Box Office 4
+http://skdn.redi-vo.com/iptv/ch323?code=138137164006399&key=46658
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/324.png",US Box Office 5
+http://skdn.redi-vo.com/iptv/ch324?code=138137164006399&key=63857
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/325.png",US Box Office 6
+http://skdn.redi-vo.com/iptv/ch325?code=138137164006399&key=50817
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/326.png",US Box Office 7
+http://skdn.redi-vo.com/iptv/ch326?code=138137164006399&key=52574
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/327.png",US Box Office 8
+http://skdn.redi-vo.com/iptv/ch327?code=138137164006399&key=48171
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/328.png",US Box Office 9
+http://skdn.redi-vo.com/iptv/ch328?code=138137164006399&key=29719
+#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/329.png",US Box Office 10
+http://skdn.redi-vo.com/iptv/ch329?code=138137164006399&key=16990
