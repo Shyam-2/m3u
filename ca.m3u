@@ -1,401 +1,389 @@
 #EXTM3U
-#EXTINF:-1,CP24 
-http://198.255.0.114:8080/live/yves123/yves123/21339.m3u8
-#EXTINF:-1,CP24 (OP 2)
-http://198.255.0.114:8080/live/yves123/yves123/46858.m3u8
-#EXTINF:-1,CNN
-http://198.255.0.114:8080/live/yves123/yves123/10083.m3u8
-#EXTINF:-1,CNN (OP2)
-http://198.255.0.114:8080/live/yves123/yves123/37209.m3u8
-#EXTINF:-1,CNN INTERNATIONAL SD
-http://198.255.0.114:8080/live/yves123/yves123/44562.m3u8
-#EXTINF:-1,FOX NEWS
-http://198.255.0.114:8080/live/yves123/yves123/10084.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://198.255.0.114:8080/live/yves123/yves123/10090.m3u8
-#EXTINF:-1,BNN 
-http://198.255.0.114:8080/live/yves123/yves123/9815.m3u8
-#EXTINF:-1,MSNBC
-http://198.255.0.114:8080/live/yves123/yves123/45037.m3u8
-#EXTINF:-1,CNBC 
-http://198.255.0.114:8080/live/yves123/yves123/10105.m3u8
-#EXTINF:-1,RT NEWS
-http://198.255.0.114:8080/live/yves123/yves123/45353.m3u8
-#EXTINF:-1,WEATHER NETWORK SD
-http://198.255.0.114:8080/live/yves123/yves123/44673.m3u8
-#EXTINF:-1,BBC EARTH
-http://198.255.0.114:8080/live/yves123/yves123/45042.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://198.255.0.114:8080/live/yves123/yves123/38267.m3u8
-#EXTINF:-1,DISCOVERY CH
-http://198.255.0.114:8080/live/yves123/yves123/11574.m3u8
-#EXTINF:-1,SCI (DISCOVERY SCIENCE) SD
-http://198.255.0.114:8080/live/yves123/yves123/44677.m3u8
-#EXTINF:-1,NAT GEO SD
-http://198.255.0.114:8080/live/yves123/yves123/44616.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://198.255.0.114:8080/live/yves123/yves123/45022.m3u8
-#EXTINF:-1,NAT GEO HD
-http://198.255.0.114:8080/live/yves123/yves123/9818.m3u8
-#EXTINF:-1,HISTORY 
-http://198.255.0.114:8080/live/yves123/yves123/12823.m3u8
-#EXTINF:-1,COTTAGE LIFE
-http://198.255.0.114:8080/live/yves123/yves123/45354.m3u8
-#EXTINF:-1,WILD TV 
-http://198.255.0.114:8080/live/yves123/yves123/10887.m3u8
-#EXTINF:-1,LOVE NATURE
-http://198.255.0.114:8080/live/yves123/yves123/45337.m3u8
-#EXTINF:-1,OLN HD
-http://198.255.0.114:8080/live/yves123/yves123/44633.m3u8
-#EXTINF:-1,CBS EAST SD
-http://198.255.0.114:8080/live/yves123/yves123/44576.m3u8
-#EXTINF:-1,CBC EAST 
-http://198.255.0.114:8080/live/yves123/yves123/10087.m3u8
-#EXTINF:-1,CBS WEST SD
-http://198.255.0.114:8080/live/yves123/yves123/44575.m3u8
-#EXTINF:-1,CBC TORONTO
-http://198.255.0.114:8080/live/yves123/yves123/64173.m3u8
-#EXTINF:-1,CBC OTTAWA
-http://198.255.0.114:8080/live/yves123/yves123/38266.m3u8
-#EXTINF:-1,CBC OTTAWA SD
-http://198.255.0.114:8080/live/yves123/yves123/44580.m3u8
-#EXTINF:-1,CBC ST.JOHN
-http://198.255.0.114:8080/live/yves123/yves123/64174.m3u8
-#EXTINF:-1,CBC NEW YORK
-http://198.255.0.114:8080/live/yves123/yves123/64176.m3u8
-#EXTINF:-1,CITY TV TORONTO
-http://198.255.0.114:8080/live/yves123/yves123/64178.m3u8
-#EXTINF:-1,CITY TV CALGARY
-http://198.255.0.114:8080/live/yves123/yves123/45040.m3u8
-#EXTINF:-1,CITY TV EAST
-http://198.255.0.114:8080/live/yves123/yves123/45012.m3u8
-#EXTINF:-1,CTV NEWS EDMONTON
-http://198.255.0.114:8080/live/yves123/yves123/14774.m3u8
-#EXTINF:-1,CTV NEWS
-http://198.255.0.114:8080/live/yves123/yves123/10086.m3u8
-#EXTINF:-1,CTV COMEDY HD
-http://198.255.0.114:8080/live/yves123/yves123/64183.m3u8
-#EXTINF:-1,CTV SCI-FI HD
-http://198.255.0.114:8080/live/yves123/yves123/64181.m3u8
-#EXTINF:-1,CTV TORONTO HD
-http://198.255.0.114:8080/live/yves123/yves123/64180.m3u8
-#EXTINF:-1,CTV SCI-FI
-http://198.255.0.114:8080/live/yves123/yves123/45019.m3u8
-#EXTINF:-1,CTV NEWS CHANNEL HD
-http://198.255.0.114:8080/live/yves123/yves123/64182.m3u8
-#EXTINF:-1,CTV DRAMA / BRAVO
-http://198.255.0.114:8080/live/yves123/yves123/9813.m3u8
-#EXTINF:-1,CTV VANCOUVER
-http://198.255.0.114:8080/live/yves123/yves123/35961.m3u8
-#EXTINF:-1,CTV VANCOUVER SD
-http://198.255.0.114:8080/live/yves123/yves123/44586.m3u8
-#EXTINF:-1,CTV2 
-http://198.255.0.114:8080/live/yves123/yves123/38268.m3u8
-#EXTINF:-1,CTV NORTH
-http://198.255.0.114:8080/live/yves123/yves123/45350.m3u8
-#EXTINF:-1,OMNI CALGARY
-http://198.255.0.114:8080/live/yves123/yves123/45347.m3u8
-#EXTINF:-1,OMNI 1
-http://198.255.0.114:8080/live/yves123/yves123/16116.m3u8
-#EXTINF:-1,OMNI 2
-http://198.255.0.114:8080/live/yves123/yves123/51458.m3u8
-#EXTINF:-1,GLOBAL BC
-http://198.255.0.114:8080/live/yves123/yves123/45343.m3u8
-#EXTINF:-1,GLOBAL CALGARY
-http://198.255.0.114:8080/live/yves123/yves123/45346.m3u8
+#EXTINF:-1,A&E
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58174
 #EXTINF:-1,ABC EAST
-http://198.255.0.114:8080/live/yves123/yves123/45018.m3u8
-#EXTINF:-1,ABC-W SD
-http://198.255.0.114:8080/live/yves123/yves123/44547.m3u8
-#EXTINF:-1,ABC-E SD
-http://198.255.0.114:8080/live/yves123/yves123/44548.m3u8
-#EXTINF:-1,NBC-W SD
-http://198.255.0.114:8080/live/yves123/yves123/44637.m3u8
-#EXTINF:-1,NBC-E SD
-http://198.255.0.114:8080/live/yves123/yves123/44638.m3u8
-#EXTINF:-1,FOX 29 ( EAST )
-http://198.255.0.114:8080/live/yves123/yves123/45020.m3u8
-#EXTINF:-1,FOX EAST
-http://198.255.0.114:8080/live/yves123/yves123/45043.m3u8
-#EXTINF:-1,FOX WEST 
-http://198.255.0.114:8080/live/yves123/yves123/35962.m3u8
-#EXTINF:-1,GLOBAL TV EAST 
-http://198.255.0.114:8080/live/yves123/yves123/10089.m3u8
-#EXTINF:-1,GLOBAL EDMONTON
-http://198.255.0.114:8080/live/yves123/yves123/14763.m3u8
-#EXTINF:-1,FOX WEST SD
-http://198.255.0.114:8080/live/yves123/yves123/44601.m3u8
-#EXTINF:-1,CW11
-http://198.255.0.114:8080/live/yves123/yves123/45344.m3u8
-#EXTINF:-1,CBS
-http://198.255.0.114:8080/live/yves123/yves123/45345.m3u8
-#EXTINF:-1,NFL HD
-http://198.255.0.114:8080/live/yves123/yves123/44636.m3u8
-#EXTINF:-1,SUPER CH 1
-http://198.255.0.114:8080/live/yves123/yves123/45026.m3u8
-#EXTINF:-1,SUPER CH 2
-http://198.255.0.114:8080/live/yves123/yves123/45044.m3u8
-#EXTINF:-1,SUPER CH 3 
-http://198.255.0.114:8080/live/yves123/yves123/14784.m3u8
-#EXTINF:-1,HBO EAST
-http://198.255.0.114:8080/live/yves123/yves123/45045.m3u8
-#EXTINF:-1,HBO WEST
-http://198.255.0.114:8080/live/yves123/yves123/11576.m3u8
-#EXTINF:-1,ENC1E ( STARZ 1 )
-http://198.255.0.114:8080/live/yves123/yves123/44598.m3u8
-#EXTINF:-1,FX
-http://198.255.0.114:8080/live/yves123/yves123/45339.m3u8
-#EXTINF:-1,FXX
-http://198.255.0.114:8080/live/yves123/yves123/45338.m3u8
-#EXTINF:-1,E!
-http://198.255.0.114:8080/live/yves123/yves123/9823.m3u8
-#EXTINF:-1,BET
-http://198.255.0.114:8080/live/yves123/yves123/45017.m3u8
-#EXTINF:-1,VELOCITY
-http://198.255.0.114:8080/live/yves123/yves123/45039.m3u8
-#EXTINF:-1,PARAMOUNT / SPIKE
-http://198.255.0.114:8080/live/yves123/yves123/45016.m3u8
-#EXTINF:-1,TMN 1
-http://198.255.0.114:8080/live/yves123/yves123/9812.m3u8
-#EXTINF:-1,TMN1E (CRAVE TV 1) SD
-http://198.255.0.114:8080/live/yves123/yves123/44659.m3u8
-#EXTINF:-1,TMN2E (CRAVE TV 2) SD
-http://198.255.0.114:8080/live/yves123/yves123/44658.m3u8
-#EXTINF:-1,TMN3E (CRAVE TV 3) SD
-http://198.255.0.114:8080/live/yves123/yves123/44657.m3u8
-#EXTINF:-1,TMN4E (CRAVE TV 4) SD
-http://198.255.0.114:8080/live/yves123/yves123/44656.m3u8
-#EXTINF:-1,70s MOVIE CH 
-http://198.255.0.114:8080/live/yves123/yves123/10101.m3u8
-#EXTINF:-1,90s MOVIE CH 
-http://198.255.0.114:8080/live/yves123/yves123/12320.m3u8
-#EXTINF:-1,2000s MOVIE CH
-http://198.255.0.114:8080/live/yves123/yves123/10102.m3u8
-#EXTINF:-1,TCM (TURNER CLASSIC MOVIES) SD
-http://198.255.0.114:8080/live/yves123/yves123/44645.m3u8
-#EXTINF:-1,PRMNT (PARAMOUNT) SD
-http://198.255.0.114:8080/live/yves123/yves123/44644.m3u8
-#EXTINF:-1,MTV2 SD
-http://198.255.0.114:8080/live/yves123/yves123/44641.m3u8
-#EXTINF:-1,MTV HD
-http://198.255.0.114:8080/live/yves123/yves123/44642.m3u8
-#EXTINF:-1,MUCH MUSIC
-http://198.255.0.114:8080/live/yves123/yves123/45031.m3u8
-#EXTINF:-1,STINGRAY (MUSIC)
-http://198.255.0.114:8080/live/yves123/yves123/45341.m3u8
-#EXTINF:-1,MOVIE CENTRAL
-http://198.255.0.114:8080/live/yves123/yves123/45340.m3u8
-#EXTINF:-1,GAME SHOW
-http://198.255.0.114:8080/live/yves123/yves123/45355.m3u8
-#EXTINF:-1,SUPER CH GINX ESPORTS
-http://198.255.0.114:8080/live/yves123/yves123/45348.m3u8
-#EXTINF:-1,COMEDY
-http://198.255.0.114:8080/live/yves123/yves123/45357.m3u8
-#EXTINF:-1,PEACHTREE
-http://198.255.0.114:8080/live/yves123/yves123/9824.m3u8
-#EXTINF:-1,COMEDY HD
-http://198.255.0.114:8080/live/yves123/yves123/12821.m3u8
-#EXTINF:-1,APTN 
-http://198.255.0.114:8080/live/yves123/yves123/10093.m3u8
-#EXTINF:-1,A & E
-http://198.255.0.114:8080/live/yves123/yves123/9822.m3u8
-#EXTINF:-1,ADULT SWIM
-http://198.255.0.114:8080/live/yves123/yves123/14177.m3u8
-#EXTINF:-1,BRAVO
-http://198.255.0.114:8080/live/yves123/yves123/34266.m3u8
-#EXTINF:-1,CMT 
-http://198.255.0.114:8080/live/yves123/yves123/9814.m3u8
-#EXTINF:-1,DIY
-http://198.255.0.114:8080/live/yves123/yves123/10097.m3u8
-#EXTINF:-1,DTOUR.
-http://198.255.0.114:8080/live/yves123/yves123/9821.m3u8
-#EXTINF:-1,HLN
-http://198.255.0.114:8080/live/yves123/yves123/10091.m3u8
-#EXTINF:-1,COOKING CH SD
-http://198.255.0.114:8080/live/yves123/yves123/44561.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://198.255.0.114:8080/live/yves123/yves123/9826.m3u8
-#EXTINF:-1,HGTV
-http://198.255.0.114:8080/live/yves123/yves123/45027.m3u8
-#EXTINF:-1,SLICE
-http://198.255.0.114:8080/live/yves123/yves123/45028.m3u8
-#EXTINF:-1,DEJAVIEW
-http://198.255.0.114:8080/live/yves123/yves123/45024.m3u8
-#EXTINF:-1,E!
-http://198.255.0.114:8080/live/yves123/yves123/45021.m3u8
-#EXTINF:-1,FAMILY CH
-http://198.255.0.114:8080/live/yves123/yves123/9820.m3u8
-#EXTINF:-1,PEACHTREE TV SD
-http://198.255.0.114:8080/live/yves123/yves123/44626.m3u8
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58175
+#EXTINF:-1,ABC WEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58176
+#EXTINF:-1,ACTION
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58177
+#EXTINF:-1,ADDIK TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58178
+#EXTINF:-1,AHC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58179
 #EXTINF:-1,AMC
-http://198.255.0.114:8080/live/yves123/yves123/45013.m3u8
-#EXTINF:-1,ENCORE AVENUE 1 (MOVIE) 
-http://198.255.0.114:8080/live/yves123/yves123/14782.m3u8
-#EXTINF:-1,MOVIETIME
-http://198.255.0.114:8080/live/yves123/yves123/10095.m3u8
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58180
+#EXTINF:-1,APTN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58181
+#EXTINF:-1,ARTV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58182
+#EXTINF:-1,ASSEMBLEE NATIONALE QUEBEC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58183
+#EXTINF:-1,BBC CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58184
+#EXTINF:-1,BNN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58185
+#EXTINF:-1,BOOK TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58186
+#EXTINF:-1,BRAVO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58187
+#EXTINF:-1,CANAL D
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58188
+#EXTINF:-1,CASA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58190
+#EXTINF:-1,CBC MONTREAL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58191
+#EXTINF:-1,CBC OTTAWA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58192
+#EXTINF:-1,CBC TORONTO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58193
+#EXTINF:-1,CBC VANCOUVER
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58194
+#EXTINF:-1,CBS EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58195
+#EXTINF:-1,CBS WEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58196
 #EXTINF:-1,CHCH
-http://198.255.0.114:8080/live/yves123/yves123/45014.m3u8
-#EXTINF:-1,SHOWCASE EAST
-http://198.255.0.114:8080/live/yves123/yves123/11573.m3u8
-#EXTINF:-1,TCM
-http://198.255.0.114:8080/live/yves123/yves123/9819.m3u8
-#EXTINF:-1,CRIME + INVESTIGATION
-http://198.255.0.114:8080/live/yves123/yves123/45033.m3u8
-#EXTINF:-1,OWN
-http://198.255.0.114:8080/live/yves123/yves123/45036.m3u8
-#EXTINF:-1,OWN SD
-http://198.255.0.114:8080/live/yves123/yves123/44628.m3u8
-#EXTINF:-1,THE SHOPPING CHANNEL
-http://198.255.0.114:8080/live/yves123/yves123/11575.m3u8
-#EXTINF:-1,TLC
-http://198.255.0.114:8080/live/yves123/yves123/13842.m3u8
-#EXTINF:-1,TVO
-http://198.255.0.114:8080/live/yves123/yves123/14176.m3u8
-#EXTINF:-1,LTIME (LIFETIME) SD
-http://198.255.0.114:8080/live/yves123/yves123/44625.m3u8
-#EXTINF:-1,DISNEY XD
-http://198.255.0.114:8080/live/yves123/yves123/45342.m3u8
-#EXTINF:-1,FAMILY JR SD
-http://198.255.0.114:8080/live/yves123/yves123/44606.m3u8
-#EXTINF:-1,DISNEY CH SD
-http://198.255.0.114:8080/live/yves123/yves123/44596.m3u8
-#EXTINF:-1,NICKTOON SD
-http://198.255.0.114:8080/live/yves123/yves123/44635.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://198.255.0.114:8080/live/yves123/yves123/64184.m3u8
-#EXTINF:-1,SILVER SCREEN
-http://198.255.0.114:8080/live/yves123/yves123/45032.m3u8
-#EXTINF:-1,HIFI
-http://198.255.0.114:8080/live/yves123/yves123/45038.m3u8
-#EXTINF:-1,JOY TV
-http://198.255.0.114:8080/live/yves123/yves123/45349.m3u8
-#EXTINF:-1,HOPE TV
-http://198.255.0.114:8080/live/yves123/yves123/45351.m3u8
-#EXTINF:-1,YES TV HD
-http://198.255.0.114:8080/live/yves123/yves123/9811.m3u8
-#EXTINF:-1,TREEHOUSE (OP2)
-http://198.255.0.114:8080/live/yves123/yves123/16106.m3u8
-#EXTINF:-1,TREEHOUSE
-http://198.255.0.114:8080/live/yves123/yves123/45015.m3u8
-#EXTINF:-1,TELETOON
-http://198.255.0.114:8080/live/yves123/yves123/45023.m3u8
-#EXTINF:-1,SONY TV
-http://198.255.0.114:8080/live/yves123/yves123/45025.m3u8
-#EXTINF:-1,CBC NEWS HD
-http://198.255.0.114:8080/live/yves123/yves123/54424.m3u8
-#EXTINF:-1,CHRGD
-http://198.255.0.114:8080/live/yves123/yves123/9817.m3u8
-#EXTINF:-1,GSN (GAME SHOW NETWORK) SD
-http://198.255.0.114:8080/live/yves123/yves123/44610.m3u8
-#EXTINF:-1,APKA COLORS
-http://198.255.0.114:8080/live/yves123/yves123/45035.m3u8
-#EXTINF:-1,YTV EAST
-http://198.255.0.114:8080/live/yves123/yves123/10088.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://198.255.0.114:8080/live/yves123/yves123/37868.m3u8
-#EXTINF:-1,H2 CANADA SD
-http://198.255.0.114:8080/live/yves123/yves123/44608.m3u8
-#EXTINF:-1,HISTORY SD
-http://198.255.0.114:8080/live/yves123/yves123/44620.m3u8
-#EXTINF:-1,ZEE TV CANADA
-http://198.255.0.114:8080/live/yves123/yves123/64123.m3u8
-#EXTINF:-1,GUSTO SD
-http://198.255.0.114:8080/live/yves123/yves123/44609.m3u8
-#EXTINF:-1,GLB-HALIFAX SD
-http://198.255.0.114:8080/live/yves123/yves123/44614.m3u8
-#EXTINF:-1,CTV EAST
-http://198.255.0.114:8080/live/yves123/yves123/10092.m3u8
-#EXTINF:-1,PBS-E SD
-http://198.255.0.114:8080/live/yves123/yves123/44627.m3u8
-#EXTINF:-1,OUTTV SD
-http://198.255.0.114:8080/live/yves123/yves123/44629.m3u8
-#EXTINF:-1,ONE SD
-http://198.255.0.114:8080/live/yves123/yves123/44630.m3u8
-#EXTINF:-1,NTV SD
-http://198.255.0.114:8080/live/yves123/yves123/44634.m3u8
-#EXTINF:-1,MTIME SD
-http://198.255.0.114:8080/live/yves123/yves123/44643.m3u8
-#EXTINF:-1,SPRMC (SPORTSMAN CHANNELS) SD
-http://198.255.0.114:8080/live/yves123/yves123/44646.m3u8
-#EXTINF:-1,SPACE SD
-http://198.255.0.114:8080/live/yves123/yves123/44647.m3u8
-#EXTINF:-1,TLC SD
-http://198.255.0.114:8080/live/yves123/yves123/44660.m3u8
-#EXTINF:-1,TREEHOUSE SD
-http://198.255.0.114:8080/live/yves123/yves123/44666.m3u8
-#EXTINF:-1,TRAVEL + ESCAPE SD
-http://198.255.0.114:8080/live/yves123/yves123/44667.m3u8
-#EXTINF:-1,SCHRT (SUPER CHANNEL HEART & HOME) SD
-http://198.255.0.114:8080/live/yves123/yves123/44678.m3u8
-#EXTINF:-1,WGRZ
-http://198.255.0.114:8080/live/yves123/yves123/54427.m3u8
-#EXTINF:-1,CRAVE 3
-http://198.255.0.114:8080/live/yves123/yves123/54428.m3u8
-#EXTINF:-1,DISNEY CH 
-http://198.255.0.114:8080/live/yves123/yves123/20016.m3u8
-#EXTINF:-1,LAT | TLN
-http://198.255.0.114:8080/live/yves123/yves123/45030.m3u8
-#EXTINF:-1,ESP | BEIN SPORTS SD 
-http://198.255.0.114:8080/live/yves123/yves123/45034.m3u8
-#EXTINF:-1,SPORTSNET ONTARIO
-http://198.255.0.114:8080/live/yves123/yves123/45010.m3u8
-#EXTINF:-1,SPORTSNET ONE
-http://198.255.0.114:8080/live/yves123/yves123/44542.m3u8
-#EXTINF:-1,SPORTSNET EAST
-http://198.255.0.114:8080/live/yves123/yves123/44541.m3u8
-#EXTINF:-1,SPORTSNET 360
-http://198.255.0.114:8080/live/yves123/yves123/45356.m3u8
-#EXTINF:-1,SPORTSNET WORLD
-http://198.255.0.114:8080/live/yves123/yves123/44538.m3u8
-#EXTINF:-1,SPORTSNET WEST
-http://198.255.0.114:8080/live/yves123/yves123/12822.m3u8
-#EXTINF:-1,SNETO (SPORTSNET ONTARIO) SD
-http://198.255.0.114:8080/live/yves123/yves123/44650.m3u8
-#EXTINF:-1,SN EAST (SPORTSNET EAST) SD
-http://198.255.0.114:8080/live/yves123/yves123/44651.m3u8
-#EXTINF:-1,SN 360 (SPORTSNET 360) SD
-http://198.255.0.114:8080/live/yves123/yves123/44652.m3u8
-#EXTINF:-1,TSN 1
-http://198.255.0.114:8080/live/yves123/yves123/44537.m3u8
-#EXTINF:-1,TSN 2
-http://198.255.0.114:8080/live/yves123/yves123/44544.m3u8
-#EXTINF:-1,TSN 2 (OP2)
-http://198.255.0.114:8080/live/yves123/yves123/54426.m3u8
-#EXTINF:-1,TSN 3
-http://198.255.0.114:8080/live/yves123/yves123/47028.m3u8
-#EXTINF:-1,TSN 4 
-http://198.255.0.114:8080/live/yves123/yves123/47029.m3u8
-#EXTINF:-1,TSN 4 (OP2) 
-http://198.255.0.114:8080/live/yves123/yves123/54425.m3u8
-#EXTINF:-1,TSN 5
-http://198.255.0.114:8080/live/yves123/yves123/44540.m3u8
-#EXTINF:-1,TSN 1 SD
-http://198.255.0.114:8080/live/yves123/yves123/44665.m3u8
-#EXTINF:-1,TSN 2 SD
-http://198.255.0.114:8080/live/yves123/yves123/44664.m3u8
-#EXTINF:-1,TSN 3 SD
-http://198.255.0.114:8080/live/yves123/yves123/44663.m3u8
-#EXTINF:-1,TSN 4 SD
-http://198.255.0.114:8080/live/yves123/yves123/44662.m3u8
-#EXTINF:-1,TSN 5 SD
-http://198.255.0.114:8080/live/yves123/yves123/44661.m3u8
-#EXTINF:-1,RDS HD
-http://198.255.0.114:8080/live/yves123/yves123/13082.m3u8
-#EXTINF:-1,RDS 2 HD 
-http://198.255.0.114:8080/live/yves123/yves123/10100.m3u8
-#EXTINF:-1,TVA SPORTS HD 
-http://198.255.0.114:8080/live/yves123/yves123/10104.m3u8
-#EXTINF:-1,TVA SPORTS 2 HD
-http://198.255.0.114:8080/live/yves123/yves123/13077.m3u8
-#EXTINF:-1,HPI TV (HORSE RACING) 
-http://198.255.0.114:8080/live/yves123/yves123/14785.m3u8
-#EXTINF:-1,LEAFS TV
-http://198.255.0.114:8080/live/yves123/yves123/54538.m3u8
-#EXTINF:-1,NBA TV
-http://198.255.0.114:8080/live/yves123/yves123/44539.m3u8
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58197
+#EXTINF:-1,CINEPOP
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58198
+#EXTINF:-1,CITY MONTREAL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58199
+#EXTINF:-1,CITY TORONTO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58200
+#EXTINF:-1,CITY VANCOUVER
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58201
+#EXTINF:-1,CMT CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58202
+#EXTINF:-1,COSMO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58203
+#EXTINF:-1,COTTAGE LIFE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58204
+#EXTINF:-1,CP24
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58205
+#EXTINF:-1,CPAC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58206
+#EXTINF:-1,CPAC FRENCH
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58207
+#EXTINF:-1,CRIME   INVEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58208
+#EXTINF:-1,CW 11
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58209
+#EXTINF:-1,DAYSTAR TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58210
+#EXTINF:-1,DEJAVIEW
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58211
+#EXTINF:-1,DIY
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58212
+#EXTINF:-1,DTOUR
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58213
+#EXTINF:-1,E! CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58214
+#EXTINF:-1,ENCORE 1 EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58215
+#EXTINF:-1,ENCORE 2 EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58216
+#EXTINF:-1,EVASION
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58217
+#EXTINF:-1,FAMILY CHRGD
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58218
+#EXTINF:-1,FAMILY EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58219
+#EXTINF:-1,FIGHT NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58220
+#EXTINF:-1,FOX EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58221
+#EXTINF:-1,FOX WEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58222
+#EXTINF:-1,FRISSON
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58223
+#EXTINF:-1,FTV CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58224
+#EXTINF:-1,FYI
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58225
+#EXTINF:-1,GAME TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58226
+#EXTINF:-1,GLOBAL HALIFAX
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58227
+#EXTINF:-1,GLOBAL TORONTO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58228
+#EXTINF:-1,GLOBAL VANCOUVER
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58229
 #EXTINF:-1,GOLF
-http://198.255.0.114:8080/live/yves123/yves123/45352.m3u8
-#EXTINF:-1,FOX RACING 
-http://198.255.0.114:8080/live/yves123/yves123/9816.m3u8
-#EXTINF:-1,WWE
-http://198.255.0.114:8080/live/yves123/yves123/44543.m3u8
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58230
+#EXTINF:-1,GSN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58231
+#EXTINF:-1,GUSTO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58232
+#EXTINF:-1,H2 CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58233
+#EXTINF:-1,HBO 1
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58234
+#EXTINF:-1,HBO 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58235
+#EXTINF:-1,HGTV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58236
+#EXTINF:-1,HLN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58237
+#EXTINF:-1,HOPE TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58238
+#EXTINF:-1,ICI MONTREAL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58239
+#EXTINF:-1,ICI VANCOUVER
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58240
+#EXTINF:-1,ID CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58241
+#EXTINF:-1,IFC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58242
+#EXTINF:-1,KNOWLEDGE KIDS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58243
+#EXTINF:-1,KTLA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58244
+#EXTINF:-1,LCN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58245
+#EXTINF:-1,LIFETIME
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58246
+#EXTINF:-1,MAKEFUL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58247
+#EXTINF:-1,MAVTV CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58248
+#EXTINF:-1,MAX
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58249
+#EXTINF:-1,METEO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58250
+#EXTINF:-1,MIRACLE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58251
+#EXTINF:-1,MLB NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58252
+#EXTINF:-1,MOI CIE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58253
+#EXTINF:-1,MTIME
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58254
+#EXTINF:-1,NBA TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58255
+#EXTINF:-1,NBC EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58256
+#EXTINF:-1,NBC WEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58257
+#EXTINF:-1,NFL NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58258
+#EXTINF:-1,NICK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58259
+#EXTINF:-1,NTV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58260
+#EXTINF:-1,OLN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58261
+#EXTINF:-1,OMNI 1
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58262
+#EXTINF:-1,OMNI 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58263
+#EXTINF:-1,ONE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58264
+#EXTINF:-1,OUTTV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58265
+#EXTINF:-1,OWN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58266
+#EXTINF:-1,PBS EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58267
+#EXTINF:-1,PEACH TREE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58268
+#EXTINF:-1,PRISE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58269
+#EXTINF:-1,RDI
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58270
+#EXTINF:-1,RDS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58271
+#EXTINF:-1,RDS 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58272
+#EXTINF:-1,RDS INFO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58273
+#EXTINF:-1,SERIS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58274
+#EXTINF:-1,SHOPPING
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58275
+#EXTINF:-1,SHOWCASE EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58276
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58277
+#EXTINF:-1,SLICE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58278
+#EXTINF:-1,SPACE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58279
+#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58280
+#EXTINF:-1,SUPER CHANNEL FUSE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58281
+#EXTINF:-1,SUPER CHANNEL HEART & HOME
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58282
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58283
+#EXTINF:-1,SUPER ECRAN 1
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58284
+#EXTINF:-1,SUPER ECRAN 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58285
+#EXTINF:-1,SUPER ECRAN 3
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58286
+#EXTINF:-1,SUPER ECRAN 4
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58287
+#EXTINF:-1,TCM
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58288
+#EXTINF:-1,TELE LATINO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58289
+#EXTINF:-1,TELE QUEBEC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58290
+#EXTINF:-1,TELEMAGINO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58291
+#EXTINF:-1,TFO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58292
+#EXTINF:-1,THE WEATHER NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58293
+#EXTINF:-1,TLC CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58294
+#EXTINF:-1,TMN 1
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58295
+#EXTINF:-1,TMN 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58296
+#EXTINF:-1,TMN 3
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58297
+#EXTINF:-1,TMN 4
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58298
+#EXTINF:-1,TSN 1
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58299
+#EXTINF:-1,TSN 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58300
+#EXTINF:-1,TSN 3
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58301
+#EXTINF:-1,TSN 4
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58302
+#EXTINF:-1,TSN 5
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58303
+#EXTINF:-1,TV5 QUEBEC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58304
+#EXTINF:-1,TVA GATINEAU
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58305
+#EXTINF:-1,TVA MONTREAL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58306
+#EXTINF:-1,TVA SPORTS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58307
+#EXTINF:-1,TVO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58308
+#EXTINF:-1,UNIS TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58309
+#EXTINF:-1,VIE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58310
+#EXTINF:-1,VISION
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58311
+#EXTINF:-1,VRAK TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58312
+#EXTINF:-1,W NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58313
+#EXTINF:-1,WFN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58314
+#EXTINF:-1,WGN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58315
+#EXTINF:-1,WILD TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58316
+#EXTINF:-1,WSBK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58317
+#EXTINF:-1,YES TV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58318
+#EXTINF:-1,YOOPA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58319
+#EXTINF:-1,Z TELE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58320
+#EXTINF:-1,ZESTE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58321
+#EXTINF:-1,MEDIASET ITALIA CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58322
+#EXTINF:-1,ABC SPARK CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58324
+#EXTINF:-1,DISNEY CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58326
+#EXTINF:-1,DISNEY FRENCH
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58327
+#EXTINF:-1,DISNEY JR
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58328
+#EXTINF:-1,FAMILY JR
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58329
+#EXTINF:-1,TELE TOON EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58330
+#EXTINF:-1,TELE TOON FRENCH
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58331
+#EXTINF:-1,TREEHOUSE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58332
+#EXTINF:-1,YTV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58333
+#EXTINF:-1,YTV WEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58334
+#EXTINF:-1,TRAVEL + ESCAPE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58337
+#EXTINF:-1,BBC WORLD NEWS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58339
+#EXTINF:-1,CNBC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58340
+#EXTINF:-1,CNN
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58341
+#EXTINF:-1,CNN INTERNATIONAL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58342
+#EXTINF:-1,CBC NEWS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58343
+#EXTINF:-1,FOX NEWS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58344
+#EXTINF:-1,SPORTSNET 360
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58346
+#EXTINF:-1,SPORTSNET EAST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58347
+#EXTINF:-1,SPORTSNET ONE
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58348
+#EXTINF:-1,SPORTSNET ONTARIO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58349
+#EXTINF:-1,SPORTSNET PACIFIC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58350
+#EXTINF:-1,SPORTSNET WEST
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58351
+#EXTINF:-1,BET
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58353
+#EXTINF:-1,MUSIQUE PLUS
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58354
+#EXTINF:-1,MTV
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58355
+#EXTINF:-1,MTV 2
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58356
+#EXTINF:-1,FOOD NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58358
+#EXTINF:-1,COOKING CHANNEL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58359
+#EXTINF:-1,MUCH MUSIC
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58361
+#EXTINF:-1,ANIMAL PLANET
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58362
+#EXTINF:-1,CRIME + INVESTIGATION
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58363
+#EXTINF:-1,DISCOVERY CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58364
+#EXTINF:-1,DISCOVERY SCIENCE CANADA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58365
+#EXTINF:-1,DOCUMENTARY
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58366
+#EXTINF:-1,HISTORIO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58367
+#EXTINF:-1,HISTORY
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58368
+#EXTINF:-1,NAT GEO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58369
+#EXTINF:-1,CTV 2 VANCOUVER
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58371
+#EXTINF:-1,CTV HALIFAX
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58372
+#EXTINF:-1,CTV MONTREAL
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58373
+#EXTINF:-1,CTV OTTAWA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58374
+#EXTINF:-1,CTV TORONTO
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58375
+#EXTINF:-1,CTV VANCOUVER
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58376
+#EXTINF:-1,CTV2 OTTAWA
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58377
+#EXTINF:-1,CTV NEWS NETWORK
+http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/58378
