@@ -1,77 +1,625 @@
 #EXTM3U
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png",HBO
-http://vvn.neoredi.com/iptv/ch3535?code=135114454296143&key=28724
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png",HBO Zone
-http://vvn.neoredi.com/iptv/ch3534?code=135114454296143&key=53995
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png",HBO Signature
-http://vvn.neoredi.com/iptv/ch3533?code=135114454296143&key=55642
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png",HBO Comedy
-http://vvn.neoredi.com/iptv/ch3532?code=135114454296143&key=53952
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png",FXX
-http://vvn.neoredi.com/iptv/ch3531?code=135114454296143&key=29056
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png",FX
-http://vvn.neoredi.com/iptv/ch3530?code=135114454296143&key=24701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png",Action Max HD
-http://vvn.neoredi.com/iptv/ch3527?code=135114454296143&key=14720
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png",ABC news
-http://vvn.neoredi.com/iptv/ch3504?code=135114454296143&key=11437
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png",HG TV
-http://vvn.neoredi.com/iptv/ch3501?code=135114454296143&key=23290
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png",Viceland
-http://vvn.neoredi.com/iptv/ch3502?code=135114454296143&key=32043
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
-http://vvn.neoredi.com/iptv/ch3529?code=135114454296143&key=22106
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
-http://vvn.neoredi.com/iptv/ch3522?code=135114454296143&key=12157
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-http://vvn.neoredi.com/iptv/ch3525?code=135114454296143&key=51646
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
-http://vvn.neoredi.com/iptv/ch3523?code=135114454296143&key=54617
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
-http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
-http://vvn.neoredi.com/iptv/ch3526?code=135114454296143&key=38701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
-http://vvn.neoredi.com/iptv/ch3521?code=135114454296143&key=61270
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
-http://vvn.neoredi.com/iptv/ch3518?code=135114454296143&key=21916
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
-http://vvn.neoredi.com/iptv/ch3517?code=135114454296143&key=50778
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
-http://vvn.neoredi.com/iptv/ch3516?code=135114454296143&key=50917
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
-http://vvn.neoredi.com/iptv/ch3515?code=135114454296143&key=40035
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
-http://vvn.neoredi.com/iptv/ch3513?code=135114454296143&key=30356
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
-http://vvn.neoredi.com/iptv/ch3514?code=135114454296143&key=23881
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
-http://vvn.neoredi.com/iptv/ch3512?code=135114454296143&key=16615
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
-http://vvn.neoredi.com/iptv/ch3511?code=135114454296143&key=54244
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
-http://vvn.neoredi.com/iptv/ch3510?code=135114454296143&key=60519
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png",Willow cricket HD
-http://vvn.neoredi.com/iptv/ch3505?code=135114454296143&key=33017
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png",ABC
-http://vvn.neoredi.com/iptv/ch3507?code=135114454296143&key=19745
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png",SHOWTIME
-http://vvn.neoredi.com/iptv/ch3536?code=135114454296143&key=55698
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png",USA Net.
-http://vvn.neoredi.com/iptv/ch3537?code=135114454296143&key=52146
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png",MLB Net.
-http://vvn.neoredi.com/iptv/ch3538?code=135114454296143&key=44711
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png",TBS HD
-http://vvn.neoredi.com/iptv/ch3509?code=135114454296143&key=35342
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png",TNT HD
-http://vvn.neoredi.com/iptv/ch3508?code=135114454296143&key=38265
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png",FOX HD
-http://vvn.neoredi.com/iptv/ch3520?code=135114454296143&key=38096
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png",AMC HD
-http://vvn.neoredi.com/iptv/ch3528?code=135114454296143&key=46099
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png",E. USA
-http://vvn.neoredi.com/iptv/ch3506?code=135114454296143&key=42746
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png",CBS HD
-http://vvn.neoredi.com/iptv/ch3519?code=135114454296143&key=15078
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png",TLC HD
-http://vvn.neoredi.com/iptv/ch3503?code=135114454296143&key=26270
+#EXTINF:-1,A&E FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4960
+#EXTINF:-1,A&E HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14399
+#EXTINF:-1,ABC News
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6364
+#EXTINF:-1,ABC
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4925
+#EXTINF:-1,Discovery Life FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4933
+#EXTINF:-1,Discovery Family HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14396
+#EXTINF:-1,AMC HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4959
+#EXTINF:-1,AMC
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6363
+#EXTINF:-1,Weather Channel
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4900
+#EXTINF:-1,Action Max FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4869
+#EXTINF:-1,Animal Planet HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14393
+#EXTINF:-1,Animal Planet
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6362
+#EXTINF:-1,beIN Sports FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13759
+#EXTINF:-1,beiN Sports HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4902
+#EXTINF:-1,BBC America HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14392
+#EXTINF:-1,BTN Sport
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4884
+#EXTINF:-1,Bet FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13764
+#EXTINF:-1,BET Soul
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/661091
+#EXTINF:-1,Bet HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4958
+#EXTINF:-1,Big Ten
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6361
+#EXTINF:-1,Bloomberg FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4940
+#EXTINF:-1,Bloomberg HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6360
+#EXTINF:-1,Bravo HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4883
+#EXTINF:-1,CBN
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4920
+#EXTINF:-1,CBS Sports Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14385
+#EXTINF:-1,CBS FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13751
+#EXTINF:-1,CBS HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6348
+#EXTINF:-1,CBS
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4885
+#EXTINF:-1,CBS NY HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/668947
+#EXTINF:-1,CBSN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6342
+#EXTINF:-1,CBSN
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4939
+#EXTINF:-1,CNBC HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4956
+#EXTINF:-1,CNN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4919
+#EXTINF:-1,CNN News FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13750
+#EXTINF:-1,CNN News HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14377
+#EXTINF:-1,CNN
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6359
+#EXTINF:-1,CW HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14401
+#EXTINF:-1,CW
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4955
+#EXTINF:-1,Cartoon Network FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4886
+#EXTINF:-1,Cartoon Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14387
+#EXTINF:-1,CineMax Action HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14382
+#EXTINF:-1,CineMax East
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14380
+#EXTINF:-1,CineMax MoreMax
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14378
+#EXTINF:-1,Cinemax 5 Starmax
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4911
+#EXTINF:-1,CMT HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14383
+#EXTINF:-1,Cinemax East FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4912
+#EXTINF:-1,Cinemax FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4914
+#EXTINF:-1,Cinemax More HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14379
+#EXTINF:-1,Cinemax Moremax FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4913
+#EXTINF:-1,Cinemax
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6693
+#EXTINF:-1,Comedy Central FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14376
+#EXTINF:-1,Comedy Central HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13823
+#EXTINF:-1,Comedy Central
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4882
+#EXTINF:-1,Crime and Investigation
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4879
+#EXTINF:-1,Destination America FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/17640
+#EXTINF:-1,DW
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14366
+#EXTINF:-1,Discovery Channel HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14373
+#EXTINF:-1,Discovery Channel
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/16988
+#EXTINF:-1,Discovery HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14372
+#EXTINF:-1,Discovery ID FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4918
+#EXTINF:-1,Discovery Science FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4887
+#EXTINF:-1,Discovery Velocity FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4877
+#EXTINF:-1,Discovery Velocity HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14371
+#EXTINF:-1,Disney Channel FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14370
+#EXTINF:-1,Disney Channel HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14369
+#EXTINF:-1,Disney XD FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14368
+#EXTINF:-1,Disney XD HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14367
+#EXTINF:-1,Diy Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/11373
+#EXTINF:-1,E! HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14365
+#EXTINF:-1,E! Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4951
+#EXTINF:-1,ESPN FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4937
+#EXTINF:-1,ESPN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14363
+#EXTINF:-1,ESPN 1
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14405
+#EXTINF:-1,ESPN 2 FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13749
+#EXTINF:-1,ESPN 2 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4936
+#EXTINF:-1,ESPN 3
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6708
+#EXTINF:-1,ESPN News HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4935
+#EXTINF:-1,ESPN+ HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6707
+#EXTINF:-1,ESPN U
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/33498
+#EXTINF:-1,El Rey Network FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13758
+#EXTINF:-1,El Rey Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14364
+#EXTINF:-1,Fox Sports HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14562
+#EXTINF:-1,Fox Sports 1
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/63735
+#EXTINF:-1,Fox Sports 1 FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/137256
+#EXTINF:-1,Fox Sports 1 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/494720
+#EXTINF:-1,Fox Sports 2
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/63365
+#EXTINF:-1,Fox Sports 2 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/494259
+#EXTINF:-1,FOX Soccer Plus HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14408
+#EXTINF:-1,FX FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13763
+#EXTINF:-1,FX HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4942
+#EXTINF:-1,FXX FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13756
+#EXTINF:-1,FXX HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14353
+#EXTINF:-1,Fashion One HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14362
+#EXTINF:-1,Fight Network FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13748
+#EXTINF:-1,Fight Sport
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14361
+#EXTINF:-1,Food Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14359
+#EXTINF:-1,Food Network
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4949
+#EXTINF:-1,Fox FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13757
+#EXTINF:-1,Fox HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4948
+#EXTINF:-1,Fox News FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14358
+#EXTINF:-1,Fox News HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14357
+#EXTINF:-1,Fox News
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4943
+#EXTINF:-1,Fox Sports 506 FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4944
+#EXTINF:-1,Fox Sports North HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14355
+#EXTINF:-1,Golf HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6340
+#EXTINF:-1,H2 FHD UK
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4888
+#EXTINF:-1,HBO Comedy FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4921
+#EXTINF:-1,HBO Comedy HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13762
+#EXTINF:-1,HBO FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14411
+#EXTINF:-1,HBO Family FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13741
+#EXTINF:-1,HBO HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4923
+#EXTINF:-1,HBO Signature FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13761
+#EXTINF:-1,HBO Signature HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6343
+#EXTINF:-1,HBO
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14350
+#EXTINF:-1,HBO Zone
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4922
+#EXTINF:-1,HGTV HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14348
+#EXTINF:-1,HGTV
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/10218
+#EXTINF:-1,Hallmark FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4889
+#EXTINF:-1,Hallmark Drama HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/648287
+#EXTINF:-1,Hallmark Movies & Mysteries FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13746
+#EXTINF:-1,History Channel FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4880
+#EXTINF:-1,History FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13754
+#EXTINF:-1,History HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14346
+#EXTINF:-1,History
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14347
+#EXTINF:-1,ID HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14345
+#EXTINF:-1,IFC FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13739
+#EXTINF:-1,Lifetime HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14343
+#EXTINF:-1,MLB Live
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4867
+#EXTINF:-1,MLB Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14402
+#EXTINF:-1,MLB Network FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4868
+#EXTINF:-1,MSNBC FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13738
+#EXTINF:-1,MSNBC HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14398
+#EXTINF:-1,MSNBC
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4904
+#EXTINF:-1,MTV FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14342
+#EXTINF:-1,MTV HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14341
+#EXTINF:-1,NASA
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4941
+#EXTINF:-1,NBA HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14338
+#EXTINF:-1,NBA TV HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6355
+#EXTINF:-1,NBC Golf FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13753
+#EXTINF:-1,NBC Golf HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4953
+#EXTINF:-1,NBC Golf
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14410
+#EXTINF:-1,NBC News HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14337
+#EXTINF:-1,NBC SN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14336
+#EXTINF:-1,NBC Sport FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4952
+#EXTINF:-1,NBC Sports Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14403
+#EXTINF:-1,NBC HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4954
+#EXTINF:-1,NBCSN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14330
+#EXTINF:-1,NFL  HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6345
+#EXTINF:-1,NFL HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4917
+#EXTINF:-1,NFL Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14329
+#EXTINF:-1,NFL Now HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14328
+#EXTINF:-1,NHL Network FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4875
+#EXTINF:-1,NHL Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14409
+#EXTINF:-1,Nat Geo Wild FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13745
+#EXTINF:-1,National Geographic FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4881
+#EXTINF:-1,National Geographic HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14339
+#EXTINF:-1,Nick FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13744
+#EXTINF:-1,Nick HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14327
+#EXTINF:-1,OWN FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13760
+#EXTINF:-1,OWN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/11255
+#EXTINF:-1,OWN
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14326
+#EXTINF:-1,Outdoor Channel HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14325
+#EXTINF:-1,PAC Oregon FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4863
+#EXTINF:-1,PAC-12 Oregon FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13752
+#EXTINF:-1,PAC12 Bay Area HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4865
+#EXTINF:-1,Showtime FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13735
+#EXTINF:-1,Showtime Showcase HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4891
+#EXTINF:-1,Showtime
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4926
+#EXTINF:-1,Showtime West HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14321
+#EXTINF:-1,Spike FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4892
+#EXTINF:-1,Spike HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14319
+#EXTINF:-1,Sportnet Ontario
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14406
+#EXTINF:-1,Sports Net 360 FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4915
+#EXTINF:-1,SportsNet One HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4916
+#EXTINF:-1,Sports Net One HD.
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4894
+#EXTINF:-1,Sports Net West HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4861
+#EXTINF:-1,Sportsnet East HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14318
+#EXTINF:-1,Sports net Ontario HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14317
+#EXTINF:-1,Sportsnet 360 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14388
+#EXTINF:-1,Starz Cinema
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4898
+#EXTINF:-1,Starz Comedy
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4899
+#EXTINF:-1,Starz East
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4895
+#EXTINF:-1,Starz Edge
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4897
+#EXTINF:-1,Starz Encore
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4896
+#EXTINF:-1,TBS FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6341
+#EXTINF:-1,TBS
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4908
+#EXTINF:-1,TLC Discovery
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6747
+#EXTINF:-1,TLC FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13734
+#EXTINF:-1,TLC HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14397
+#EXTINF:-1,TLC
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4924
+#EXTINF:-1,TNT HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6354
+#EXTINF:-1,TNT
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4876
+#EXTINF:-1,TSN 1 SD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6353
+#EXTINF:-1,TSN 2 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6352
+#EXTINF:-1,TSN 3 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6351
+#EXTINF:-1,TSN 5 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6349
+#EXTINF:-1,Tru TV
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/629081
+#EXTINF:-1,USA Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/4901
+#EXTINF:-1,VH1 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/11254
+#EXTINF:-1,VH1
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6753
+#EXTINF:-1,WWE HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14404
+#EXTINF:-1,WWE
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/6347
+#EXTINF:-1,UFC Fight Pass FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/16617
+#EXTINF:-1,Lifetime Movies HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/17513
+#EXTINF:-1,SEC Network
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/32382
+#EXTINF:-1,Travel Channel
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/32381
+#EXTINF:-1,NESN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/34415
+#EXTINF:-1,Reelz Channel
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51014
+#EXTINF:-1,Oxygen HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51015
+#EXTINF:-1,GSN HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14351
+#EXTINF:-1,NFL RedZone HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/53157
+#EXTINF:-1,Tennis FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7084
+#EXTINF:-1,MSG [Live Events Only]
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/623146
+#EXTINF:-1,BounceTV
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/638798
+#EXTINF:-1,Nickelodeon FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/638822
+#EXTINF:-1,Syfy HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/648340
+#EXTINF:-1,TV Land HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/655120
+#EXTINF:-1,ABC Atlanta HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658628
+#EXTINF:-1,ABC Baltimore HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658627
+#EXTINF:-1,ABC Boston HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658626
+#EXTINF:-1,ABC California HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658625
+#EXTINF:-1,ABC Charlotte HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658624
+#EXTINF:-1,ABC Chicago HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658623
+#EXTINF:-1,ABC Cleveland HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658622
+#EXTINF:-1,ABC Columbus HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658591
+#EXTINF:-1,ABC Connecticut HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658621
+#EXTINF:-1,ABC Dallas HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658620
+#EXTINF:-1,ABC Detroit HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658619
+#EXTINF:-1,ABC Durham HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658618
+#EXTINF:-1,ABC Finix HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658617
+#EXTINF:-1,ABC Fresno HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658616
+#EXTINF:-1,ABC Houston 2 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658613
+#EXTINF:-1,ABC Houston HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658614
+#EXTINF:-1,ABC Indiana HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658612
+#EXTINF:-1,ABC Kansas City HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658611
+#EXTINF:-1,ABC Los Angeles HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658610
+#EXTINF:-1,ABC Miami HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658609
+#EXTINF:-1,ABC Milwaukee HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658608
+#EXTINF:-1,ABC Minessota HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658607
+#EXTINF:-1,ABC News HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658589
+#EXTINF:-1,ABC NewYork HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658606
+#EXTINF:-1,ABC Ohio HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658605
+#EXTINF:-1,ABC Orlando HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658604
+#EXTINF:-1,ABC Philadelphia HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658603
+#EXTINF:-1,ABC Pittsburg HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658590
+#EXTINF:-1,ABC Portland HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658602
+#EXTINF:-1,ABC Raleigh Durham HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658601
+#EXTINF:-1,ABC Sacramento HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658600
+#EXTINF:-1,ABC Saltlake City HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658599
+#EXTINF:-1,ABC San Antonio HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658598
+#EXTINF:-1,ABC San Francisco HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658597
+#EXTINF:-1,ABC San Luis HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658596
+#EXTINF:-1,ABC Seatle HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658595
+#EXTINF:-1,ABC Texas HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658593
+#EXTINF:-1,ABC Washington HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658592
+#EXTINF:-1,Cooking Channel HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18958
+#EXTINF:-1,FOX Business HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18957
+#EXTINF:-1,Fox Alabama
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659777
+#EXTINF:-1,Fox Charlotte
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659776
+#EXTINF:-1,Fox CSA HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659756
+#EXTINF:-1,Fox CSC HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659755
+#EXTINF:-1,Fox CSP HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659754
+#EXTINF:-1,Fox Deportes
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/494543
+#EXTINF:-1,Fox Detroit
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659775
+#EXTINF:-1,Fox Houston
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659774
+#EXTINF:-1,Fox Kansas City
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659773
+#EXTINF:-1,Fox Miami
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659772
+#EXTINF:-1,Fox Minnesota
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659771
+#EXTINF:-1,Fox Nebraska
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659770
+#EXTINF:-1,Fox NewYork
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659769
+#EXTINF:-1,Fox Philadelphia
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659768
+#EXTINF:-1,Fox Pitts
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659767
+#EXTINF:-1,Fox Sports Detroit
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659764
+#EXTINF:-1,Fox Sports Midwest
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659763
+#EXTINF:-1,Fox Sports OhioPlus
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659762
+#EXTINF:-1,Fox Sports Primeticket
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659761
+#EXTINF:-1,Fox Sports Sandiego
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659760
+#EXTINF:-1,Fox Sports Tennesse
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659759
+#EXTINF:-1,Fox Sports W 1 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659758
+#EXTINF:-1,Fox Sports W 2 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659757
+#EXTINF:-1,Fox Tennessee
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659766
+#EXTINF:-1,Fox Texas
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659765
+#EXTINF:-1,Fox Sports Arizona HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18953
+#EXTINF:-1,Fox Sports College Pacific HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18950
+#EXTINF:-1,Fox Sports Florida HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18938
+#EXTINF:-1,Fox Sports North HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18954
+#EXTINF:-1,Fox Sports Ohio HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18947
+#EXTINF:-1,Fox Sports San Diego HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18945
+#EXTINF:-1,Fox Sports South East HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18943
+#EXTINF:-1,Fox Sports South HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/650574
+#EXTINF:-1,Fox Sports South West HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18942
+#EXTINF:-1,Fox Sports Sun HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18937
+#EXTINF:-1,Fox Sports West HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18940
+#EXTINF:-1,Fox Sports Wisconsin HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18939
+#EXTINF:-1,NBCSN Bay Area HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658632
+#EXTINF:-1,NBCSN California HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658630
+#EXTINF:-1,NBCSN California Plus HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658629
+#EXTINF:-1,The Weather Channel HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18956
+#EXTINF:-1,Univision HD US VIP
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/18959
+#EXTINF:-1,WGN America HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/620791
+#EXTINF:-1,WWE NETWORK HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/620793
+#EXTINF:-1,Longhorn Network HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659778
+#EXTINF:-1,OutSide TV HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659779
+#EXTINF:-1,People TV HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659780
+#EXTINF:-1,Revolt HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659781
+#EXTINF:-1,Sportnet East
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/14407
+#EXTINF:-1,Sports Man HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659782
+#EXTINF:-1,Stadium 1 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659785
+#EXTINF:-1,Stadium 2 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659784
+#EXTINF:-1,Stadium 3 HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/659783
+#EXTINF:-1,Yes Network FHD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/620794
+#EXTINF:-1,Viceland HD
+http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/667813
