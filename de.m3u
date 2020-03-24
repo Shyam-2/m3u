@@ -1,341 +1,1123 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Allgäu TV
-http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ARD
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u8
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="http://www.augsburg.tv/wp-content/themes/atv/img/icons/microsoft-icon-310x310.png" group-title="",Augsburg TV
-http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="",Augsburg TV
-http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="XXX",Babestation 24
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="XXX",Babestation 24
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="",Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bibel TV" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png" group-title="",Bibel TV
-http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Bibel TV HD DE" tvg-name="Bibel TV HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/Q1JUGLd.png" group-title="",Bibel TV HD
-https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="",BLK TV
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png" group-title="",BR Event 2
-http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png" group-title="",BR Event 3
-http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",BR FERNSEHEN
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="",BR Fernsehen Germany
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="",BR Fernsehen Nord
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Campus TV Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",Campus TV Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Das Erste
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Deutsche Welle
-https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen DE" tvg-name="Deutsches Musik Fernsehen DE" tvg-language="German" tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="Music",Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen DE" tvg-name="Deutsches Musik Fernsehen DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Music",Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen DE" tvg-name="Deutsches Musik Fernsehen DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Music",Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",DMAX
-https://wer1.wertvlive.com/d4/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" group-title="",Donau TV
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" group-title="",Donau TV
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ygv8ASn.png" group-title="",Donau TV
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eCQnVHQ.png" group-title="",DRF1
-http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eCQnVHQ.png" group-title="",DRF1
-http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",DW
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-language="German" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-https://strm.yandex.ru/kal/dw_supres/dw_supres0.m3u8
-#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="News",DW Arabia
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="News",DW Arabia
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_2_av-b.m3u8
-#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="News",DW Arabia
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="News",DW Arabia
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News",DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News",DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News",DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="",ELBEKANAL
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/MAnSA7W.jpg" group-title="",ERF 1
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="",Erz-TV Stollberg
-http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="",Filstalwelle
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/z42mYv9.jpg" group-title="",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/z42mYv9.jpg" group-title="",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/q2QtEJO.jpg" group-title="",Franken Fernsehen
-http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="",FRF1
-http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/iaXoYxb.png" group-title="",H1
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/iaXoYxb.png" group-title="",H1
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" group-title="",Halle
-http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Event 2
-http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR HD
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR HD
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR HD
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR HD
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HSE24
-https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/v3uL5SG.png" group-title="",Isar TV
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Kabel Eins
-https://wer1.wertvlive.com/d5/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/GmwlJ2K.png" group-title="",KabelJournal
-http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="",Light Channel
-http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="",MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="",MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="",MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklist_w146192926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Fernsehen
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-b.m3u8?sd=10&rebase=on&id=
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NDR Mecklenburg-Vorpommern
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-b.m3u8?sd=10&rebase=on&id=
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Mecklenburg-Vorpommern
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NDR Schleswig-Holstein
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Schleswig-Holstein
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Noa 4 Hamburg
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="",Noa 4 Norderstedt
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NRD Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Oberpfalz TV
-http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Offener Kanal Dessau
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="",Offener Kanal Dessau
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="",Offener Kanal Magdeburg
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Offener Kanal Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="",Offener Kanal Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" group-title="",Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",OK-Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",OK-Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://ok54.de/wp-content/uploads/2012/01/ok54.png" group-title="",OK54
-http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/K1hkyd7.png" group-title="",Oldenburg Eins
-http://oeins.de:1935/live/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="",Parlamentsfernsehen 1
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Parlamentsfernsehen 1
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="",Parlamentsfernsehen 2
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Parlamentsfernsehen 2
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Pro7
-https://wer1.wertvlive.com/d1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Pro7 Maxx
-https://wer11.wertvlive.com/w2/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",Radio 21 TV
-http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="",RAN1 Regionalfernsehen
-http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/oYho5l3.jpg" group-title="",Regio TV Bodensee
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XTMWFx7.jpg" group-title="",Regio TV Schwaben
-http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",RFO
-http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="",RNF
-http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="",RNF
-http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="",Saarland Fernsehen 1
-http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="",Saarland Fernsehen 2
-http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" group-title="",Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sat1
-https://wer1.wertvlive.com/d6/video.m3u8
-#EXTINF:-1 tvg-id="Sonnenklar.TV DE" tvg-name="Sonnenklar.TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="",Sonnenklar.TV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="",Sonus FM
-http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="",Sonus FM TV
-http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV
-https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",SYLT1
-http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" group-title="",tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" group-title="",tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" group-title="",tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Tele 5
-https://wer11.wertvlive.com/w3/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/a8JgvKq.png" group-title="",Tele Regional Passau 1
-http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png" group-title="",Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png" group-title="",TRP1
-http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TV Aktuell
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" group-title="",TV Halle
-http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TV Mainfranken
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TV Mainfranken
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TV Mittelrhein
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/927.png" group-title="",TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/925.png" group-title="",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" group-title="",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://www.firstonetv.eu/images/logos/de/TVA.png" group-title="",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="",Unserding
-http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="",WDR
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
-#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" group-title="",WDR
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" group-title="",WDR
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/5sn32FG.png" group-title="",Westerwald TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTM3U
+#EXTINF:-1,3 SAT FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/892
+#EXTINF:-1,5 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67580
+#EXTINF:-1,7 MAXX HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32643
+#EXTINF:-1,1-2-3 TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18446
+#EXTINF:-1,13th Street FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/3498
+#EXTINF:-1,4+ HD
+http://iptvtree.net:8080/sckmydck/362a63707882/64183
+#EXTINF:-1,A&E FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/5181
+#EXTINF:-1,Alex Berlin HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18448
+#EXTINF:-1,ALLGAU TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18445
+#EXTINF:-1,Altaghier FHD ARB
+http://iptvtree.net:8080/sckmydck/362a63707882/85582
+#EXTINF:-1,ANIMAL PLANET FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/14370
+#EXTINF:-1,ANIXE FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/5987
+#EXTINF:-1,ARD Alpha
+http://iptvtree.net:8080/sckmydck/362a63707882/42561
+#EXTINF:-1,ARD FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/409
+#EXTINF:-1,ARD ONE HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91128
+#EXTINF:-1,ARTE HD
+http://iptvtree.net:8080/sckmydck/362a63707882/893
+#EXTINF:-1,Astro TV
+http://iptvtree.net:8080/sckmydck/362a63707882/34799
+#EXTINF:-1,ATLANTIC HD
+http://iptvtree.net:8080/sckmydck/362a63707882/39918
+#EXTINF:-1,ATV
+http://iptvtree.net:8080/sckmydck/362a63707882/71419
+#EXTINF:-1,Augsburg TV
+http://iptvtree.net:8080/sckmydck/362a63707882/60393
+#EXTINF:-1,AUSBURG TV
+http://iptvtree.net:8080/sckmydck/362a63707882/31161
+#EXTINF:-1,Austria 24
+http://iptvtree.net:8080/sckmydck/362a63707882/18444
+#EXTINF:-1,Auto Moto Sport FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2385
+#EXTINF:-1,AUTO MOTOR SPORT FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/53065
+#EXTINF:-1,Auto Motor und Sport HD
+http://iptvtree.net:8080/sckmydck/362a63707882/80350
+#EXTINF:-1,AXN FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2091
+#EXTINF:-1,Baby TV
+http://iptvtree.net:8080/sckmydck/362a63707882/31389
+#EXTINF:-1,BADEN TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18449
+#EXTINF:-1,BAERN REGIONAL
+http://iptvtree.net:8080/sckmydck/362a63707882/47595
+#EXTINF:-1,BBL Sport 1
+http://iptvtree.net:8080/sckmydck/362a63707882/29078
+#EXTINF:-1,BBL Sport 2
+http://iptvtree.net:8080/sckmydck/362a63707882/29079
+#EXTINF:-1,BBL Sport 3
+http://iptvtree.net:8080/sckmydck/362a63707882/29081
+#EXTINF:-1,Bibel TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8179
+#EXTINF:-1,Bibel TV Impuls
+http://iptvtree.net:8080/sckmydck/362a63707882/85658
+#EXTINF:-1,Bibel TV Musik
+http://iptvtree.net:8080/sckmydck/362a63707882/85653
+#EXTINF:-1,Blizz TV
+http://iptvtree.net:8080/sckmydck/362a63707882/31387
+#EXTINF:-1,BLK
+http://iptvtree.net:8080/sckmydck/362a63707882/29925
+#EXTINF:-1,BLK Regional TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18453
+#EXTINF:-1,Bon Gusto HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85664
+#EXTINF:-1,Boomerang FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2090
+#EXTINF:-1,BOSS MOVIES 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12601
+#EXTINF:-1,BOSS MOVIES 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12602
+#EXTINF:-1,BOSS MOVIES 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12603
+#EXTINF:-1,BOSS MOVIES 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12604
+#EXTINF:-1,BR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18454
+#EXTINF:-1,C TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/60270
+#EXTINF:-1,Campus Magdeburg
+http://iptvtree.net:8080/sckmydck/362a63707882/40258
+#EXTINF:-1,CARTOON NETWORK FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2089
+#EXTINF:-1,Channel 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/37111
+#EXTINF:-1,Channel 21
+http://iptvtree.net:8080/sckmydck/362a63707882/70117
+#EXTINF:-1,Chaula Music HD
+http://iptvtree.net:8080/sckmydck/362a63707882/13543
+#EXTINF:-1,CINE 2
+http://iptvtree.net:8080/sckmydck/362a63707882/82254
+#EXTINF:-1,CINE 5
+http://iptvtree.net:8080/sckmydck/362a63707882/82253
+#EXTINF:-1,CINE FILM CLUB 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/41966
+#EXTINF:-1,CINE SELECT 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/20115
+#EXTINF:-1,CINE SELECT 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/20118
+#EXTINF:-1,CINE SELECT 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/20117
+#EXTINF:-1,CINE SELECT 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/20116
+#EXTINF:-1,CINE SELECT 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/20125
+#EXTINF:-1,Cinedome Action
+http://iptvtree.net:8080/sckmydck/362a63707882/83312
+#EXTINF:-1,Cinedome Animation
+http://iptvtree.net:8080/sckmydck/362a63707882/83332
+#EXTINF:-1,Cinedome Cinema
+http://iptvtree.net:8080/sckmydck/362a63707882/83322
+#EXTINF:-1,Cinedome Comedy
+http://iptvtree.net:8080/sckmydck/362a63707882/83315
+#EXTINF:-1,Cinedome Familie
+http://iptvtree.net:8080/sckmydck/362a63707882/83313
+#EXTINF:-1,Cinedome Hits
+http://iptvtree.net:8080/sckmydck/362a63707882/83314
+#EXTINF:-1,Cinedome Horror
+http://iptvtree.net:8080/sckmydck/362a63707882/83316
+#EXTINF:-1,Cinedome Marvel
+http://iptvtree.net:8080/sckmydck/362a63707882/83317
+#EXTINF:-1,Cinema 24
+http://iptvtree.net:8080/sckmydck/362a63707882/10499
+#EXTINF:-1,Classica HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2088
+#EXTINF:-1,CNBC
+http://iptvtree.net:8080/sckmydck/362a63707882/67369
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1670
+#EXTINF:-1,Crime+ Investigation HD
+http://iptvtree.net:8080/sckmydck/362a63707882/31386
+#EXTINF:-1,DAS ERSTE FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2386
+#EXTINF:-1,DAZN 1 Bar HD
+http://iptvtree.net:8080/sckmydck/362a63707882/48355
+#EXTINF:-1,DAZN 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2387
+#EXTINF:-1,DAZN 2 Bar HD
+http://iptvtree.net:8080/sckmydck/362a63707882/48357
+#EXTINF:-1,DAZN 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2389
+#EXTINF:-1,DAZN BAR 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/39595
+#EXTINF:-1,DAZN Bar 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/39596
+#EXTINF:-1,DAZN WEB 1
+http://iptvtree.net:8080/sckmydck/362a63707882/73146
+#EXTINF:-1,DAZN WEB 2
+http://iptvtree.net:8080/sckmydck/362a63707882/73159
+#EXTINF:-1,DAZN WEB 5
+http://iptvtree.net:8080/sckmydck/362a63707882/76735
+#EXTINF:-1,DEL Sport 1
+http://iptvtree.net:8080/sckmydck/362a63707882/10505
+#EXTINF:-1,DEL Sport 2
+http://iptvtree.net:8080/sckmydck/362a63707882/29080
+#EXTINF:-1,DEL Sport 3
+http://iptvtree.net:8080/sckmydck/362a63707882/29083
+#EXTINF:-1,DEL Sport 4
+http://iptvtree.net:8080/sckmydck/362a63707882/82815
+#EXTINF:-1,DEL Sport 5
+http://iptvtree.net:8080/sckmydck/362a63707882/29084
+#EXTINF:-1,DEL Sport 6
+http://iptvtree.net:8080/sckmydck/362a63707882/29082
+#EXTINF:-1,Deluxe Music HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2111
+#EXTINF:-1,Der kleine Prinz
+http://iptvtree.net:8080/sckmydck/362a63707882/67379
+#EXTINF:-1,Der kleine Ritter Trenk
+http://iptvtree.net:8080/sckmydck/362a63707882/67376
+#EXTINF:-1,DEUTSCHLAND
+http://iptvtree.net:8080/sckmydck/362a63707882/84473
+#EXTINF:-1,Die Abenteuer des jungen Marco Polo
+http://iptvtree.net:8080/sckmydck/362a63707882/67395
+#EXTINF:-1,Die Neue Zeit TV
+http://iptvtree.net:8080/sckmydck/362a63707882/85660
+#EXTINF:-1,Die Welt
+http://iptvtree.net:8080/sckmydck/362a63707882/73147
+#EXTINF:-1,Discovery Channel FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/410
+#EXTINF:-1,Disney Channel FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2390
+#EXTINF:-1,Disney Cinemagic FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2085
+#EXTINF:-1,Disney JIUNIOR
+http://iptvtree.net:8080/sckmydck/362a63707882/33354
+#EXTINF:-1,Disney Jr
+http://iptvtree.net:8080/sckmydck/362a63707882/2099
+#EXTINF:-1,Disney XD HD
+http://iptvtree.net:8080/sckmydck/362a63707882/411
+#EXTINF:-1,DMAX FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/895
+#EXTINF:-1,DONAU TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18459
+#EXTINF:-1,DRF 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/5017
+#EXTINF:-1,Dutsches Musik Fernsehen
+http://iptvtree.net:8080/sckmydck/362a63707882/80852
+#EXTINF:-1,DW TV
+http://iptvtree.net:8080/sckmydck/362a63707882/10941
+#EXTINF:-1,E! FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2114
+#EXTINF:-1,Eagle Cinema 007 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/23801
+#EXTINF:-1,Eagle Cinema Abenteuer FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75485
+#EXTINF:-1,Eagle Cinema Animation FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75487
+#EXTINF:-1,Eagle Cinema Drama FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/20127
+#EXTINF:-1,Eagle Cinema Geschichte FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75490
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75489
+#EXTINF:-1,Eagle Cinema Komodie FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75486
+#EXTINF:-1,Eagle Cinema L
+http://iptvtree.net:8080/sckmydck/362a63707882/80843
+#EXTINF:-1,Eagle Cinema Lächeln FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75493
+#EXTINF:-1,Eagle Cinema Premiere FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75484
+#EXTINF:-1,Eagle Cinema Romantisch FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75488
+#EXTINF:-1,Eagle Cinema sci-fi FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/75492
+#EXTINF:-1,Elbekanal TV
+http://iptvtree.net:8080/sckmydck/362a63707882/60390
+#EXTINF:-1,eSports 1 TV
+http://iptvtree.net:8080/sckmydck/362a63707882/14357
+#EXTINF:-1,euronews HD
+http://iptvtree.net:8080/sckmydck/362a63707882/4421
+#EXTINF:-1,EUROSPORT 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/412
+#EXTINF:-1,EUROSPORT 2 EXTRA FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/16202
+#EXTINF:-1,EUROSPORT 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2082
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://iptvtree.net:8080/sckmydck/362a63707882/2083
+#EXTINF:-1,EUROSPORT HD
+http://iptvtree.net:8080/sckmydck/362a63707882/15243
+#EXTINF:-1,EWTN
+http://iptvtree.net:8080/sckmydck/362a63707882/85677
+#EXTINF:-1,EWTN katholisches TV
+http://iptvtree.net:8080/sckmydck/362a63707882/70130
+#EXTINF:-1,Family TV
+http://iptvtree.net:8080/sckmydck/362a63707882/31412
+#EXTINF:-1,FC BAYERN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/10506
+#EXTINF:-1,Filmax Kids 1
+http://iptvtree.net:8080/sckmydck/362a63707882/67380
+#EXTINF:-1,Filmax Kids 2
+http://iptvtree.net:8080/sckmydck/362a63707882/67383
+#EXTINF:-1,Filmax Kids 3
+http://iptvtree.net:8080/sckmydck/362a63707882/67384
+#EXTINF:-1,Fix & Foxi
+http://iptvtree.net:8080/sckmydck/362a63707882/31147
+#EXTINF:-1,Folx HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8186
+#EXTINF:-1,FOX FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/407
+#EXTINF:-1,Fox Series HD
+http://iptvtree.net:8080/sckmydck/362a63707882/34802
+#EXTINF:-1,FOX SPORTS 1
+http://iptvtree.net:8080/sckmydck/362a63707882/44792
+#EXTINF:-1,Franken Fernsehen HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2144
+#EXTINF:-1,Franken HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85665
+#EXTINF:-1,Genius Plus TV
+http://iptvtree.net:8080/sckmydck/362a63707882/85675
+#EXTINF:-1,Geo TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85673
+#EXTINF:-1,GOLDSTAR TV
+http://iptvtree.net:8080/sckmydck/362a63707882/34804
+#EXTINF:-1,Halle TV
+http://iptvtree.net:8080/sckmydck/362a63707882/91223
+#EXTINF:-1,Health TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85681
+#EXTINF:-1,Heimatikanal
+http://iptvtree.net:8080/sckmydck/362a63707882/41974
+#EXTINF:-1,Heimatkanal HD
+http://iptvtree.net:8080/sckmydck/362a63707882/1668
+#EXTINF:-1,Histori
+http://iptvtree.net:8080/sckmydck/362a63707882/413
+#EXTINF:-1,HR Fernsehen HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8187
+#EXTINF:-1,HR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/40257
+#EXTINF:-1,HSE24 EXTRA
+http://iptvtree.net:8080/sckmydck/362a63707882/85678
+#EXTINF:-1,ISAR TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18474
+#EXTINF:-1,Jukebox HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12613
+#EXTINF:-1,JUNIOR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12314
+#EXTINF:-1,JUWELO HD
+http://iptvtree.net:8080/sckmydck/362a63707882/21327
+#EXTINF:-1,K-TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18477
+#EXTINF:-1,Kabel 1 Classic HD
+http://iptvtree.net:8080/sckmydck/362a63707882/10026
+#EXTINF:-1,Kabel 1 DOKU FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/31399
+#EXTINF:-1,Kabel 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/891
+#EXTINF:-1,Kabel Doku
+http://iptvtree.net:8080/sckmydck/362a63707882/5011
+#EXTINF:-1,Kabel eins Classics FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/12294
+#EXTINF:-1,Kabel Eins Doku HD
+http://iptvtree.net:8080/sckmydck/362a63707882/4420
+#EXTINF:-1,Kabel Eins FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4408
+#EXTINF:-1,KIKA FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2101
+#EXTINF:-1,Kingdom HD 24/7
+http://iptvtree.net:8080/sckmydck/362a63707882/85659
+#EXTINF:-1,Kino WELT HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2127
+#EXTINF:-1,KRONI HIT
+http://iptvtree.net:8080/sckmydck/362a63707882/33366
+#EXTINF:-1,Luxe Music
+http://iptvtree.net:8080/sckmydck/362a63707882/63291
+#EXTINF:-1,MAGIC BOX KINO 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32664
+#EXTINF:-1,MAGIC BOX KINO 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32665
+#EXTINF:-1,MAGIC BOX KINO 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32666
+#EXTINF:-1,MAGIC BOX KINO 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32667
+#EXTINF:-1,MAIN FRANKEN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/47596
+#EXTINF:-1,Mainfranken Würzburg TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85669
+#EXTINF:-1,Mascha und der Bar
+http://iptvtree.net:8080/sckmydck/362a63707882/67375
+#EXTINF:-1,MAX KINO
+http://iptvtree.net:8080/sckmydck/362a63707882/67440
+#EXTINF:-1,MAX Kino 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67429
+#EXTINF:-1,Max Kino 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67442
+#EXTINF:-1,MAX KINO COLLECTION
+http://iptvtree.net:8080/sckmydck/362a63707882/67432
+#EXTINF:-1,MAX Select 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67439
+#EXTINF:-1,MAX Select 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67450
+#EXTINF:-1,MAX Select 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67433
+#EXTINF:-1,MAX Select 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67435
+#EXTINF:-1,MAX Select 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67436
+#EXTINF:-1,MAX Select 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67437
+#EXTINF:-1,MAX Select 7 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/82844
+#EXTINF:-1,MDF 1
+http://iptvtree.net:8080/sckmydck/362a63707882/60392
+#EXTINF:-1,MDR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/3483
+#EXTINF:-1,MediaShop
+http://iptvtree.net:8080/sckmydck/362a63707882/41982
+#EXTINF:-1,Melodie TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18487
+#EXTINF:-1,MGM HD
+http://iptvtree.net:8080/sckmydck/362a63707882/13523
+#EXTINF:-1,Miraculous
+http://iptvtree.net:8080/sckmydck/362a63707882/67378
+#EXTINF:-1,Motor Vision HD
+http://iptvtree.net:8080/sckmydck/362a63707882/4480
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/63315
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/41986
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/42866
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/63296
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/63311
+#EXTINF:-1,MTV Dance
+http://iptvtree.net:8080/sckmydck/362a63707882/41984
+#EXTINF:-1,MTV FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/3486
+#EXTINF:-1,MTV Music 24
+http://iptvtree.net:8080/sckmydck/362a63707882/28987
+#EXTINF:-1,MUENCHEN TV
+http://iptvtree.net:8080/sckmydck/362a63707882/31159
+#EXTINF:-1,Munchen TV FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/6811
+#EXTINF:-1,Music TV 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/13541
+#EXTINF:-1,MYSPORTS FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/63682
+#EXTINF:-1,MyTVplus
+http://iptvtree.net:8080/sckmydck/362a63707882/60388
+#EXTINF:-1,N-TV FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2080
+#EXTINF:-1,n-tv HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77662
+#EXTINF:-1,N24 DOC
+http://iptvtree.net:8080/sckmydck/362a63707882/47558
+#EXTINF:-1,N24 Doku
+http://iptvtree.net:8080/sckmydck/362a63707882/85610
+#EXTINF:-1,N24 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2093
+#EXTINF:-1,NAT GEO FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2095
+#EXTINF:-1,NAT GEO Wild FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1666
+#EXTINF:-1,NDR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2113
+#EXTINF:-1,NEIDER
+http://iptvtree.net:8080/sckmydck/362a63707882/60268
+#EXTINF:-1,NICK / MTV
+http://iptvtree.net:8080/sckmydck/362a63707882/12587
+#EXTINF:-1,Nick Junior HD
+http://iptvtree.net:8080/sckmydck/362a63707882/63288
+#EXTINF:-1,NICKELDEON HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12588
+#EXTINF:-1,nickelodeon HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2102
+#EXTINF:-1,Nitro FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/5167
+#EXTINF:-1,NO4A
+http://iptvtree.net:8080/sckmydck/362a63707882/33369
+#EXTINF:-1,Noa 4 Hamburg
+http://iptvtree.net:8080/sckmydck/362a63707882/18491
+#EXTINF:-1,NOA 4 Norderstedt FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/17141
+#EXTINF:-1,NRWision
+http://iptvtree.net:8080/sckmydck/362a63707882/60397
+#EXTINF:-1,OBERPFALZ HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18493
+#EXTINF:-1,Oe24 TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18492
+#EXTINF:-1,Offener Kanal Magdeburg
+http://iptvtree.net:8080/sckmydck/362a63707882/18498
+#EXTINF:-1,OK Dessau
+http://iptvtree.net:8080/sckmydck/362a63707882/60396
+#EXTINF:-1,OK Magdeburg
+http://iptvtree.net:8080/sckmydck/362a63707882/60398
+#EXTINF:-1,OK Merseburg
+http://iptvtree.net:8080/sckmydck/362a63707882/60399
+#EXTINF:-1,OK Salzwedel TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18500
+#EXTINF:-1,OK Stendal
+http://iptvtree.net:8080/sckmydck/362a63707882/60401
+#EXTINF:-1,OK Sudwestpfalz
+http://iptvtree.net:8080/sckmydck/362a63707882/60403
+#EXTINF:-1,OK TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18501
+#EXTINF:-1,OK TV Mainz
+http://iptvtree.net:8080/sckmydck/362a63707882/60405
+#EXTINF:-1,OK Weinstrasse
+http://iptvtree.net:8080/sckmydck/362a63707882/60410
+#EXTINF:-1,OK Wernigerode
+http://iptvtree.net:8080/sckmydck/362a63707882/60402
+#EXTINF:-1,OK Wettin TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18503
+#EXTINF:-1,OK4
+http://iptvtree.net:8080/sckmydck/362a63707882/60404
+#EXTINF:-1,ONE HD
+http://iptvtree.net:8080/sckmydck/362a63707882/5185
+#EXTINF:-1,One Music HD
+http://iptvtree.net:8080/sckmydck/362a63707882/13542
+#EXTINF:-1,PEARL TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18509
+#EXTINF:-1,pearl tv Shop
+http://iptvtree.net:8080/sckmydck/362a63707882/67401
+#EXTINF:-1,Phoenix HD
+http://iptvtree.net:8080/sckmydck/362a63707882/1663
+#EXTINF:-1,Planet Animal
+http://iptvtree.net:8080/sckmydck/362a63707882/60910
+#EXTINF:-1,PLANET FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4441
+#EXTINF:-1,POPCORN SELECT
+http://iptvtree.net:8080/sckmydck/362a63707882/37112
+#EXTINF:-1,POPCORN SELECT 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/855
+#EXTINF:-1,POPCORN SELECT 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/856
+#EXTINF:-1,POPCORN SELECT 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/857
+#EXTINF:-1,POPCORN SELECT 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/858
+#EXTINF:-1,POPCORN SELECT 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/859
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/860
+#EXTINF:-1,POPCORN SELECT 7 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/861
+#EXTINF:-1,POPCORN SELECT 8 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/862
+#EXTINF:-1,POPCORN SELECT 9 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/863
+#EXTINF:-1,Pro 7 Fun FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2079
+#EXTINF:-1,PRO 7 MAX HD
+http://iptvtree.net:8080/sckmydck/362a63707882/10032
+#EXTINF:-1,Pro 7 Maxx FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2077
+#EXTINF:-1,Pro7 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/887
+#EXTINF:-1,PULS 24
+http://iptvtree.net:8080/sckmydck/362a63707882/67405
+#EXTINF:-1,PunktUM
+http://iptvtree.net:8080/sckmydck/362a63707882/60406
+#EXTINF:-1,QVC 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/21336
+#EXTINF:-1,QVC GERMANY
+http://iptvtree.net:8080/sckmydck/362a63707882/44789
+#EXTINF:-1,QVC HD
+http://iptvtree.net:8080/sckmydck/362a63707882/17156
+#EXTINF:-1,RAN1
+http://iptvtree.net:8080/sckmydck/362a63707882/60407
+#EXTINF:-1,RBB Berlin HD
+http://iptvtree.net:8080/sckmydck/362a63707882/4429
+#EXTINF:-1,rbb HD
+http://iptvtree.net:8080/sckmydck/362a63707882/41991
+#EXTINF:-1,RBW
+http://iptvtree.net:8080/sckmydck/362a63707882/60408
+#EXTINF:-1,RFH
+http://iptvtree.net:8080/sckmydck/362a63707882/60409
+#EXTINF:-1,RFO HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18517
+#EXTINF:-1,Rhein Neckar Fernsehen
+http://iptvtree.net:8080/sckmydck/362a63707882/91187
+#EXTINF:-1,RiC TV
+http://iptvtree.net:8080/sckmydck/362a63707882/18520
+#EXTINF:-1,RNF TV
+http://iptvtree.net:8080/sckmydck/362a63707882/5010
+#EXTINF:-1,ro News
+http://iptvtree.net:8080/sckmydck/362a63707882/84474
+#EXTINF:-1,Romance HD
+http://iptvtree.net:8080/sckmydck/362a63707882/1662
+#EXTINF:-1,RTL 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4399
+#EXTINF:-1,RTL 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/888
+#EXTINF:-1,RTL 2 Germany
+http://iptvtree.net:8080/sckmydck/362a63707882/50873
+#EXTINF:-1,RTL Crime FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2103
+#EXTINF:-1,RTL FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/890
+#EXTINF:-1,RTL II HD
+http://iptvtree.net:8080/sckmydck/362a63707882/41962
+#EXTINF:-1,RTL Living FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/3477
+#EXTINF:-1,RTL Nitro FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2104
+#EXTINF:-1,RTL PASION
+http://iptvtree.net:8080/sckmydck/362a63707882/6797
+#EXTINF:-1,RTL Passion FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2411
+#EXTINF:-1,RTL plus FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4402
+#EXTINF:-1,RTL zwei FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/50339
+#EXTINF:-1,Sat 1 Emotions HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12571
+#EXTINF:-1,Sat 1 Gold HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2412
+#EXTINF:-1,Sat 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2107
+#EXTINF:-1,Schau TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85667
+#EXTINF:-1,Servus HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2073
+#EXTINF:-1,ServusTv Deutschland 720
+http://iptvtree.net:8080/sckmydck/362a63707882/67365
+#EXTINF:-1,ServusTv Oesterreich 720
+http://iptvtree.net:8080/sckmydck/362a63707882/67360
+#EXTINF:-1,Silverline Movie Channel HD
+http://iptvtree.net:8080/sckmydck/362a63707882/42576
+#EXTINF:-1,Sixx FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2072
+#EXTINF:-1,Sky 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2115
+#EXTINF:-1,SKY 13 STREET FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/39271
+#EXTINF:-1,Sky Action FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/3503
+#EXTINF:-1,Sky Atlantic FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1661
+#EXTINF:-1,SKY AXN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32684
+#EXTINF:-1,Sky Cinema +1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4457
+#EXTINF:-1,Sky Cinema +24 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4458
+#EXTINF:-1,Sky Cinema 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1660
+#EXTINF:-1,SKY CINEMA 1+
+http://iptvtree.net:8080/sckmydck/362a63707882/40209
+#EXTINF:-1,Sky Cinema 24 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2414
+#EXTINF:-1,SKY Cinema Action FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1659
+#EXTINF:-1,Sky Cinema Alien
+http://iptvtree.net:8080/sckmydck/362a63707882/70176
+#EXTINF:-1,Sky Cinema Atlantic FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4462
+#EXTINF:-1,Sky Cinema Best Of HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91123
+#EXTINF:-1,Sky Cinema Classics HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91126
+#EXTINF:-1,Sky Cinema Comdey
+http://iptvtree.net:8080/sckmydck/362a63707882/17143
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2120
+#EXTINF:-1,Sky Cinema Comic Helden
+http://iptvtree.net:8080/sckmydck/362a63707882/71407
+#EXTINF:-1,Sky Cinema Emotion FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2121
+#EXTINF:-1,Sky Cinema Family FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2118
+#EXTINF:-1,Sky Cinema FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2117
+#EXTINF:-1,Sky Cinema Fun HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91120
+#EXTINF:-1,Sky Cinema Hits FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2119
+#EXTINF:-1,SKY CINEMA HTS
+http://iptvtree.net:8080/sckmydck/362a63707882/39600
+#EXTINF:-1,SKY CINEMA MITTELERDE
+http://iptvtree.net:8080/sckmydck/362a63707882/67854
+#EXTINF:-1,Sky Cinema Nostalgie FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2116
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91122
+#EXTINF:-1,Sky Cinema Premieren HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91118
+#EXTINF:-1,Sky Cinema Special HD
+http://iptvtree.net:8080/sckmydck/362a63707882/29070
+#EXTINF:-1,Sky Cinema Thriller HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91116
+#EXTINF:-1,Sky Cinema TLC
+http://iptvtree.net:8080/sckmydck/362a63707882/13533
+#EXTINF:-1,Sky Cinema+ HD
+http://iptvtree.net:8080/sckmydck/362a63707882/31431
+#EXTINF:-1,SKY COMEDY FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4461
+#EXTINF:-1,Sky Discovery Channel HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91156
+#EXTINF:-1,Sky Disney Channel HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2124
+#EXTINF:-1,Sky DMAX HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2123
+#EXTINF:-1,SKY Emotion HD
+http://iptvtree.net:8080/sckmydck/362a63707882/4465
+#EXTINF:-1,SKY FAMILY FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/15246
+#EXTINF:-1,Sky Fox HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2081
+#EXTINF:-1,Sky History HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91157
+#EXTINF:-1,Sky Hits FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4840
+#EXTINF:-1,Sky Junior HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91144
+#EXTINF:-1,SKY KINOWELT TV HD
+http://iptvtree.net:8080/sckmydck/362a63707882/5154
+#EXTINF:-1,Sky Krimi FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2122
+#EXTINF:-1,Sky Movies Box Office 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/52439
+#EXTINF:-1,Sky Movies Box Office 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/41994
+#EXTINF:-1,Sky Movies BoxOffice 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/85575
+#EXTINF:-1,Sky Movies BoxOffice 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/42875
+#EXTINF:-1,Sky NAT GEO HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91150
+#EXTINF:-1,SKY Nostalgie HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2415
+#EXTINF:-1,SKY POPCORN SELECT 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12605
+#EXTINF:-1,SKY POPCORN SELECT 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12606
+#EXTINF:-1,SKY POPCORN SELECT 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12607
+#EXTINF:-1,SKY POPCORN SELECT 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12608
+#EXTINF:-1,SKY POPCORN SELECT 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12609
+#EXTINF:-1,Sky Popcorn Select 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/34834
+#EXTINF:-1,Sky Romance TV
+http://iptvtree.net:8080/sckmydck/362a63707882/46007
+#EXTINF:-1,SKY RTL PASSION
+http://iptvtree.net:8080/sckmydck/362a63707882/32678
+#EXTINF:-1,SKY SELECT 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2138
+#EXTINF:-1,SKY SELECT 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2139
+#EXTINF:-1,SKY SELECT 3 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2419
+#EXTINF:-1,SKY SELECT 4 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2420
+#EXTINF:-1,SKY SELECT 5 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2140
+#EXTINF:-1,SKY SELECT 6 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2422
+#EXTINF:-1,SKY SELECT 7 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2141
+#EXTINF:-1,Sky Select 8 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2424
+#EXTINF:-1,Sky Select 9 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2425
+#EXTINF:-1,Sky Select 10 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2417
+#EXTINF:-1,Sky Select 11 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70189
+#EXTINF:-1,Sky Select 12 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70190
+#EXTINF:-1,Sky Select 13 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70191
+#EXTINF:-1,Sky Select 14 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70193
+#EXTINF:-1,Sky Select 15 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70194
+#EXTINF:-1,Sky Select 16 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70195
+#EXTINF:-1,Sky Select 17 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/70196
+#EXTINF:-1,Sky Sport 1 +
+http://iptvtree.net:8080/sckmydck/362a63707882/10510
+#EXTINF:-1,Sky Sport 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4487
+#EXTINF:-1,Sky Sport 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/41530
+#EXTINF:-1,Sky Sport 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4488
+#EXTINF:-1,Sky Sport 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/13402
+#EXTINF:-1,Sky Sport 3 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/13500
+#EXTINF:-1,Sky Sport 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/72238
+#EXTINF:-1,Sky Sport 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32708
+#EXTINF:-1,Sky Sport 5 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/13497
+#EXTINF:-1,Sky Sport 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/3514
+#EXTINF:-1,Sky Sport 6 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/50373
+#EXTINF:-1,Sky Sport 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/31445
+#EXTINF:-1,Sky Sport 7 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/13499
+#EXTINF:-1,Sky Sport 7 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2133
+#EXTINF:-1,Sky Sport 8 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/13501
+#EXTINF:-1,Sky Sport 8 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/4489
+#EXTINF:-1,Sky Sport 9 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/65582
+#EXTINF:-1,Sky Sport 9 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2134
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4492
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2431
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4493
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/60755
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/44325
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2135
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/82251
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/3513
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/82810
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2136
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/46531
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12638
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/46532
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2433
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/46533
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2434
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/10051
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/2432
+#EXTINF:-1,Sky Sport Bundesliga HD
+http://iptvtree.net:8080/sckmydck/362a63707882/13763
+#EXTINF:-1,Sky Sport HD 4
+http://iptvtree.net:8080/sckmydck/362a63707882/31446
+#EXTINF:-1,Sky Sport News HD
+http://iptvtree.net:8080/sckmydck/362a63707882/1658
+#EXTINF:-1,SKY TNT COMEDY
+http://iptvtree.net:8080/sckmydck/362a63707882/60903
+#EXTINF:-1,Sky TNT Film HD
+http://iptvtree.net:8080/sckmydck/362a63707882/46005
+#EXTINF:-1,SKY TNT Series HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32680
+#EXTINF:-1,Sky Universal Channel HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91127
+#EXTINF:-1,SKYLANTIC 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/65393
+#EXTINF:-1,Skylantic HD
+http://iptvtree.net:8080/sckmydck/362a63707882/65625
+#EXTINF:-1,Skyselect HD
+http://iptvtree.net:8080/sckmydck/362a63707882/60136
+#EXTINF:-1,SkyselectHD-02
+http://iptvtree.net:8080/sckmydck/362a63707882/77172
+#EXTINF:-1,SONNEKLAR TV
+http://iptvtree.net:8080/sckmydck/362a63707882/44784
+#EXTINF:-1,SONNENKLAR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/24698
+#EXTINF:-1,Sony AXN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/17150
+#EXTINF:-1,SONY Channel
+http://iptvtree.net:8080/sckmydck/362a63707882/2128
+#EXTINF:-1,Sony Enterainment HD
+http://iptvtree.net:8080/sckmydck/362a63707882/32349
+#EXTINF:-1,Sony Entertainment
+http://iptvtree.net:8080/sckmydck/362a63707882/71233
+#EXTINF:-1,Sparhandy TV
+http://iptvtree.net:8080/sckmydck/362a63707882/31456
+#EXTINF:-1,Spiegel Geschichte HD
+http://iptvtree.net:8080/sckmydck/362a63707882/1657
+#EXTINF:-1,SPIEGEL TV WISSEN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/3506
+#EXTINF:-1,Sport +1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/84323
+#EXTINF:-1,SPORT 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2436
+#EXTINF:-1,Sport 1+ FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2100
+#EXTINF:-1,Sport Digital FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/3509
+#EXTINF:-1,Sport Olympic HD
+http://iptvtree.net:8080/sckmydck/362a63707882/31452
+#EXTINF:-1,Sportdigital Fu
+http://iptvtree.net:8080/sckmydck/362a63707882/53132
+#EXTINF:-1,Sportdigital Fußball FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/63928
+#EXTINF:-1,SPORTS 1 USA HD
+http://iptvtree.net:8080/sckmydck/362a63707882/10183
+#EXTINF:-1,SR FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/18524
+#EXTINF:-1,SRF 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/4413
+#EXTINF:-1,SRF 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/13750
+#EXTINF:-1,SRF Info FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67576
+#EXTINF:-1,SRF Zwei HD
+http://iptvtree.net:8080/sckmydck/362a63707882/28357
+#EXTINF:-1,Stendal TV
+http://iptvtree.net:8080/sckmydck/362a63707882/91182
+#EXTINF:-1,SUPER RTL FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/896
+#EXTINF:-1,SWR BW HD
+http://iptvtree.net:8080/sckmydck/362a63707882/29000
+#EXTINF:-1,SWR Fernsehen HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91110
+#EXTINF:-1,SWR HD
+http://iptvtree.net:8080/sckmydck/362a63707882/7513
+#EXTINF:-1,SYFY FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/408
+#EXTINF:-1,TAGESSCHAU 24 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/40268
+#EXTINF:-1,TC Action FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67577
+#EXTINF:-1,TC ANIMAL PLANET HD
+http://iptvtree.net:8080/sckmydck/362a63707882/67613
+#EXTINF:-1,TC Emotion FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67591
+#EXTINF:-1,TC Sport 1 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67573
+#EXTINF:-1,TC Sport 2 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67571
+#EXTINF:-1,TC Sport 3 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67568
+#EXTINF:-1,TC ZOOM
+http://iptvtree.net:8080/sckmydck/362a63707882/67569
+#EXTINF:-1,TEGESSCHAU 24 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/1656
+#EXTINF:-1,TELE 1 CH
+http://iptvtree.net:8080/sckmydck/362a63707882/47591
+#EXTINF:-1,TELE 5 FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2439
+#EXTINF:-1,Tele Baern FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67594
+#EXTINF:-1,Tele biellingue FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67566
+#EXTINF:-1,Tele D FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/67572
+#EXTINF:-1,Tele Ticino
+http://iptvtree.net:8080/sckmydck/362a63707882/24716
+#EXTINF:-1,TELE ZURI
+http://iptvtree.net:8080/sckmydck/362a63707882/90602
+#EXTINF:-1,TELE ZURI CH
+http://iptvtree.net:8080/sckmydck/362a63707882/47592
+#EXTINF:-1,Telebasel
+http://iptvtree.net:8080/sckmydck/362a63707882/43523
+#EXTINF:-1,TELECLUB ACTION HD
+http://iptvtree.net:8080/sckmydck/362a63707882/12610
+#EXTINF:-1,Teleclub Sport 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/73176
+#EXTINF:-1,Teleclub Sport 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/73175
+#EXTINF:-1,TELECOM SPORT 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/72127
+#EXTINF:-1,TELECOM SPORT 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/73163
+#EXTINF:-1,TELECOM SPORT 8 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/73172
+#EXTINF:-1,Telekom 3 Bundesliga 1
+http://iptvtree.net:8080/sckmydck/362a63707882/67455
+#EXTINF:-1,Telekom 3 Bundesliga 2
+http://iptvtree.net:8080/sckmydck/362a63707882/67452
+#EXTINF:-1,Telekom 3 Bundesliga 3
+http://iptvtree.net:8080/sckmydck/362a63707882/67451
+#EXTINF:-1,Telekom 3 Bundesliga 4
+http://iptvtree.net:8080/sckmydck/362a63707882/67454
+#EXTINF:-1,Telekom 3 Bundesliga 5
+http://iptvtree.net:8080/sckmydck/362a63707882/67498
+#EXTINF:-1,Telekom 3 Bundesliga 6
+http://iptvtree.net:8080/sckmydck/362a63707882/67470
+#EXTINF:-1,Telekom 3 Bundesliga 7
+http://iptvtree.net:8080/sckmydck/362a63707882/67464
+#EXTINF:-1,Telekom 3 Bundesliga 8
+http://iptvtree.net:8080/sckmydck/362a63707882/67487
+#EXTINF:-1,Telekom BBL Sport 1
+http://iptvtree.net:8080/sckmydck/362a63707882/67465
+#EXTINF:-1,Telekom BBL Sport 2
+http://iptvtree.net:8080/sckmydck/362a63707882/67457
+#EXTINF:-1,Telekom BBL Sport 2 nur Spiel Tag
+http://iptvtree.net:8080/sckmydck/362a63707882/77251
+#EXTINF:-1,Telekom BBL Sport 3
+http://iptvtree.net:8080/sckmydck/362a63707882/67458
+#EXTINF:-1,TELEKOM BUNDESLIGA 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8206
+#EXTINF:-1,TELEKOM BUNDESLIGA 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8207
+#EXTINF:-1,TELEKOM BUNDESLIGA 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8208
+#EXTINF:-1,TELEKOM BUNDESLIGA 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8209
+#EXTINF:-1,TELEKOM BUNDESLIGA 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8210
+#EXTINF:-1,TELEKOM BUNDESLIGA 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8211
+#EXTINF:-1,TELEKOM BUNDESLIGA 7 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8212
+#EXTINF:-1,TELEKOM DEL SPORT 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8214
+#EXTINF:-1,TELEKOM DEL SPORT 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8215
+#EXTINF:-1,Telekom DEL Sport 3
+http://iptvtree.net:8080/sckmydck/362a63707882/67461
+#EXTINF:-1,Telekom DEL Sport 4
+http://iptvtree.net:8080/sckmydck/362a63707882/67468
+#EXTINF:-1,Telekom DEL Sport 5
+http://iptvtree.net:8080/sckmydck/362a63707882/67474
+#EXTINF:-1,Telekom DEL Sport 6
+http://iptvtree.net:8080/sckmydck/362a63707882/67467
+#EXTINF:-1,Telekom Fussball 1 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77249
+#EXTINF:-1,Telekom Fussball 2 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77252
+#EXTINF:-1,Telekom Fussball 3 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77253
+#EXTINF:-1,Telekom Fussball 4 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77248
+#EXTINF:-1,Telekom Fussball 5 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77250
+#EXTINF:-1,Telekom Fussball 6 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/68292
+#EXTINF:-1,Telekom Fussball 7 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77246
+#EXTINF:-1,Telekom Fussball 8 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/77245
+#EXTINF:-1,Telekom sport 1
+http://iptvtree.net:8080/sckmydck/362a63707882/80845
+#EXTINF:-1,Telekom sport 2
+http://iptvtree.net:8080/sckmydck/362a63707882/80844
+#EXTINF:-1,Telekom sport 3
+http://iptvtree.net:8080/sckmydck/362a63707882/80846
+#EXTINF:-1,Telekom sport 4
+http://iptvtree.net:8080/sckmydck/362a63707882/80848
+#EXTINF:-1,Telekom sport 5
+http://iptvtree.net:8080/sckmydck/362a63707882/80847
+#EXTINF:-1,Telekom sport 7
+http://iptvtree.net:8080/sckmydck/362a63707882/80849
+#EXTINF:-1,TLC FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2108
+#EXTINF:-1,TNT COMEDY FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2087
+#EXTINF:-1,TNT Film FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2441
+#EXTINF:-1,TNT Serie FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1655
+#EXTINF:-1,TOGGO
+http://iptvtree.net:8080/sckmydck/362a63707882/70188
+#EXTINF:-1,TOGGO PLUS FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2145
+#EXTINF:-1,TOGGO plus von Super RTL
+http://iptvtree.net:8080/sckmydck/362a63707882/63295
+#EXTINF:-1,Tom and Jerry HD
+http://iptvtree.net:8080/sckmydck/362a63707882/63343
+#EXTINF:-1,TRP1
+http://iptvtree.net:8080/sckmydck/362a63707882/91196
+#EXTINF:-1,TV 25 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/56635
+#EXTINF:-1,TV A
+http://iptvtree.net:8080/sckmydck/362a63707882/44795
+#EXTINF:-1,TV A OSTBAYERN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/8217
+#EXTINF:-1,TV Aktuell
+http://iptvtree.net:8080/sckmydck/362a63707882/91175
+#EXTINF:-1,TV Aktuelle
+http://iptvtree.net:8080/sckmydck/362a63707882/31460
+#EXTINF:-1,TV AKTUELLR
+http://iptvtree.net:8080/sckmydck/362a63707882/31164
+#EXTINF:-1,TV Halle
+http://iptvtree.net:8080/sckmydck/362a63707882/18535
+#EXTINF:-1,TV Mainfranken
+http://iptvtree.net:8080/sckmydck/362a63707882/60413
+#EXTINF:-1,TV OBERFRANKEN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18537
+#EXTINF:-1,TV Touring Fernsehen
+http://iptvtree.net:8080/sckmydck/362a63707882/91181
+#EXTINF:-1,TV Touring Wurzburg
+http://iptvtree.net:8080/sckmydck/362a63707882/18536
+#EXTINF:-1,TVO HD
+http://iptvtree.net:8080/sckmydck/362a63707882/18541
+#EXTINF:-1,TVO Oberfranken
+http://iptvtree.net:8080/sckmydck/362a63707882/91194
+#EXTINF:-1,UNIVERSAL Channel FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1654
+#EXTINF:-1,utsches Musik Fernsehen
+http://iptvtree.net:8080/sckmydck/362a63707882/63284
+#EXTINF:-1,VH1
+http://iptvtree.net:8080/sckmydck/362a63707882/29003
+#EXTINF:-1,VH1 Classic
+http://iptvtree.net:8080/sckmydck/362a63707882/29007
+#EXTINF:-1,VIVA / Comedy Central
+http://iptvtree.net:8080/sckmydck/362a63707882/32334
+#EXTINF:-1,VIVA Comedy
+http://iptvtree.net:8080/sckmydck/362a63707882/71423
+#EXTINF:-1,Viyana TV
+http://iptvtree.net:8080/sckmydck/362a63707882/91189
+#EXTINF:-1,VOX FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/894
+#EXTINF:-1,VOXup
+http://iptvtree.net:8080/sckmydck/362a63707882/67368
+#EXTINF:-1,WDR AACHEN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/24697
+#EXTINF:-1,WDR BONN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/24691
+#EXTINF:-1,WDR DUISBURG HD
+http://iptvtree.net:8080/sckmydck/362a63707882/24689
+#EXTINF:-1,WDR Fernsehen HD
+http://iptvtree.net:8080/sckmydck/362a63707882/91125
+#EXTINF:-1,WDR FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/1653
+#EXTINF:-1,WDR KOLN HD
+http://iptvtree.net:8080/sckmydck/362a63707882/24690
+#EXTINF:-1,Welt der Wunder TV
+http://iptvtree.net:8080/sckmydck/362a63707882/29008
+#EXTINF:-1,WELT FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/5973
+#EXTINF:-1,Welt N24 HD
+http://iptvtree.net:8080/sckmydck/362a63707882/10503
+#EXTINF:-1,Weltr Wunder
+http://iptvtree.net:8080/sckmydck/362a63707882/63348
+#EXTINF:-1,Westerwald TV
+http://iptvtree.net:8080/sckmydck/362a63707882/60415
+#EXTINF:-1,WILD HD
+http://iptvtree.net:8080/sckmydck/362a63707882/60954
+#EXTINF:-1,WWE HD
+http://iptvtree.net:8080/sckmydck/362a63707882/63347
+#EXTINF:-1,Yarmouk ARB
+http://iptvtree.net:8080/sckmydck/362a63707882/85587
+#EXTINF:-1,ZDF FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/889
+#EXTINF:-1,ZDF IINFO
+http://iptvtree.net:8080/sckmydck/362a63707882/71608
+#EXTINF:-1,ZDF Info FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2069
+#EXTINF:-1,ZDF neo FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2070
+#EXTINF:-1,ZEE One FHD
+http://iptvtree.net:8080/sckmydck/362a63707882/2444
