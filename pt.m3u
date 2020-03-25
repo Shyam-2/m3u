@@ -1,33 +1,97 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideportugal.xml.gz"
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kOnFXO1.png" group-title="",FM O Dia TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="",Sobrenatural TV
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="",TVI Reality
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",A & E
+http://iptvhit.live/AzZ/MAX/4K_Z/3710
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",CANÇÃO NOVA
+http://iptvhit.live/AzZ/MAX/4K_Z/3711
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Galicia
+http://iptvhit.live/AzZ/MAX/4K_Z/3712
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RTP International
+http://iptvhit.live/AzZ/MAX/4K_Z/3713
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TPA ANGOLA
+http://iptvhit.live/AzZ/MAX/4K_Z/3714
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TCV Cabo Verde
+http://iptvhit.live/AzZ/MAX/4K_Z/3715
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",DOG HD
+http://iptvhit.live/AzZ/MAX/4K_Z/3716
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",MVM
+http://iptvhit.live/AzZ/MAX/4K_Z/3717
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",MÁS CHIC
+http://iptvhit.live/AzZ/MAX/4K_Z/3718
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Regiões TV
+http://iptvhit.live/AzZ/MAX/4K_Z/3719
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal 180
+http://iptvhit.live/AzZ/MAX/4K_Z/3720
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fashion TV
+http://iptvhit.live/AzZ/MAX/4K_Z/3721
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",My Cuisine
+http://iptvhit.live/AzZ/MAX/4K_Z/3722
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",NOW
+http://iptvhit.live/AzZ/MAX/4K_Z/3723
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",LOCALVISAO TV HD
+http://iptvhit.live/AzZ/MAX/4K_Z/3724
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Kuriakos Kids
+http://iptvhit.live/AzZ/MAX/4K_Z/3725
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fine Living Network FHD
+http://iptvhit.live/AzZ/MAX/4K_Z/3726
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Crime & Incvestigation
+http://iptvhit.live/AzZ/MAX/4K_Z/3727
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Biggs
+http://iptvhit.live/AzZ/MAX/4K_Z/3728
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",AR TV HD
+http://iptvhit.live/AzZ/MAX/4K_Z/3729
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",AandE TV
+http://iptvhit.live/AzZ/MAX/4K_Z/3730
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BTV 1
+http://iptvhit.live/AzZ/MAX/4K_Z/3731
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TLC
+http://iptvhit.live/AzZ/MAX/4K_Z/3732
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",SIC Kids
+http://iptvhit.live/AzZ/MAX/4K_Z/3733
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",EuroNews
+http://iptvhit.live/AzZ/MAX/4K_Z/3734
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",NBA HD
+http://iptvhit.live/AzZ/MAX/4K_Z/3735
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",MOV HD
+http://iptvhit.live/AzZ/MAX/4K_Z/3736
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Food Network
+http://iptvhit.live/AzZ/MAX/4K_Z/3737
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Casavision
+http://iptvhit.live/AzZ/MAX/4K_Z/3738
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",CBS REALITY
+http://iptvhit.live/AzZ/MAX/4K_Z/3739
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Blaze
+http://iptvhit.live/AzZ/MAX/4K_Z/3740
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",baby tv
+http://iptvhit.live/AzZ/MAX/4K_Z/3741
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Travel Channel HD
+http://iptvhit.live/AzZ/MAX/4K_Z/3742
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",CAÃ‡A E PESCA
+http://iptvhit.live/AzZ/MAX/4K_Z/3743
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TVI Fic
+http://iptvhit.live/AzZ/MAX/4K_Z/3744
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",MCM POP
+http://iptvhit.live/AzZ/MAX/4K_Z/3745
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Trace Urban
+http://iptvhit.live/AzZ/MAX/4K_Z/3746
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",ABola TV
+http://iptvhit.live/AzZ/MAX/4K_Z/3747
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal 11
+http://iptvhit.live/AzZ/MAX/4K_Z/3748
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",PFC
+http://iptvhit.live/AzZ/MAX/4K_Z/3749
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Real Madrid TV
+http://iptvhit.live/AzZ/MAX/4K_Z/3750
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",AMC
+http://iptvhit.live/AzZ/MAX/4K_Z/3751
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",NOS Studios
+http://iptvhit.live/AzZ/MAX/4K_Z/3752
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",TV Series
+http://iptvhit.live/AzZ/MAX/4K_Z/3753
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",JimJam
+http://iptvhit.live/AzZ/MAX/4K_Z/3754
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",SBT Brasil
+http://iptvhit.live/AzZ/MAX/4K_Z/3755
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",ZAP VIVA
+http://iptvhit.live/AzZ/MAX/4K_Z/3756
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Toros TV
+http://iptvhit.live/AzZ/MAX/4K_Z/3757
