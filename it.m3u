@@ -1,1149 +1,341 @@
 #EXTM3U
 #EXTINF:-1,51 Radio TV
-http://89.248.174.133:8000/andres/andres/672048
-#EXTINF:-1,555 (1988)
-http://89.248.174.133:8000/andres/andres/672049
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1,AB Channel
-http://89.248.174.133:8000/andres/andres/672050
-#EXTINF:-1,Aldo Giovanni e Giacomo Channel
-http://89.248.174.133:8000/andres/andres/672051
-#EXTINF:-1,Alice TV
-http://89.248.174.133:8000/andres/andres/672052
-#EXTINF:-1,Alpa Uno TV
-http://89.248.174.133:8000/andres/andres/672053
-#EXTINF:-1,ALTO ADIGE TV
-http://89.248.174.133:8000/andres/andres/672054
-#EXTINF:-1,Antenna 3
-http://89.248.174.133:8000/andres/andres/672055
-#EXTINF:-1,Antenna Tre Nordest
-http://89.248.174.133:8000/andres/andres/672056
-#EXTINF:-1,Arte Investimenti
-http://89.248.174.133:8000/andres/andres/672057
-#EXTINF:-1,Arte Network
-http://89.248.174.133:8000/andres/andres/672058
-#EXTINF:-1,AURORAARTE
-http://89.248.174.133:8000/andres/andres/672059
-#EXTINF:-1,AUTO MOTO TV
-http://89.248.174.133:8000/andres/andres/672060
-#EXTINF:-1,BIKE Channel HD
-http://89.248.174.133:8000/andres/andres/672061
-#EXTINF:-1,Boing HD
-http://89.248.174.133:8000/andres/andres/672062
-#EXTINF:-1,BOING PLUS
-http://89.248.174.133:8000/andres/andres/672063
-#EXTINF:-1,Boomerang HD
-http://89.248.174.133:8000/andres/andres/672064
-#EXTINF:-1,BRESCIA LIVE TV
-http://89.248.174.133:8000/andres/andres/672065
-#EXTINF:-1,Caccia & Pesca
-http://89.248.174.133:8000/andres/andres/672066
-#EXTINF:-1,Caccia e Pesca HD
-http://89.248.174.133:8000/andres/andres/672067
-#EXTINF:-1,Caccia HD
-http://89.248.174.133:8000/andres/andres/672068
-#EXTINF:-1,Cafe 24
-http://89.248.174.133:8000/andres/andres/672069
-#EXTINF:-1,Calabria Uno
-http://89.248.174.133:8000/andres/andres/672070
-#EXTINF:-1,CANAL 5 HD
-http://89.248.174.133:8000/andres/andres/672071
-#EXTINF:-1,Canale 2
-http://89.248.174.133:8000/andres/andres/672072
-#EXTINF:-1,Canale 5 FHD
-http://89.248.174.133:8000/andres/andres/672073
-#EXTINF:-1,Canale 7
-http://89.248.174.133:8000/andres/andres/672074
-#EXTINF:-1,CANALE 8
-http://89.248.174.133:8000/andres/andres/672075
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+#EXTINF:-1,Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:-1,Antenna Sud
+http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
+#EXTINF:-1,Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1,Azzurra TV
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
+#EXTINF:-1,CafèTV24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 #EXTINF:-1,Canale 10
-http://89.248.174.133:8000/andres/andres/672076
-#EXTINF:-1,CANALE 20
-http://89.248.174.133:8000/andres/andres/672077
-#EXTINF:-1,CANALE 20 MEDIASET HD
-http://89.248.174.133:8000/andres/andres/672078
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1,Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1,Canale 21 Campania
+http://live.sloode.com:1935/canale21/live/playlist.m3u8
 #EXTINF:-1,Canale 21 Lazio
-http://89.248.174.133:8000/andres/andres/672079
-#EXTINF:-1,Canale 85
-http://89.248.174.133:8000/andres/andres/672080
+http://live.sloode.com:1935/canale21/live2/playlist.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1,Canale 85 Puglia
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1,Canale 85 Puglia
+https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8
 #EXTINF:-1,Carina TV
-http://89.248.174.133:8000/andres/andres/672081
-#EXTINF:-1,CARTOON NETWOORK
-http://89.248.174.133:8000/andres/andres/672082
-#EXTINF:-1,Cartoon Network HD
-http://89.248.174.133:8000/andres/andres/672083
-#EXTINF:-1,Cartoonito HD
-http://89.248.174.133:8000/andres/andres/672084
-#EXTINF:-1,Cielo FHD
-http://89.248.174.133:8000/andres/andres/672085
-#EXTINF:-1,Cine 34
-http://89.248.174.133:8000/andres/andres/672086
-#EXTINF:-1,Cine 34 Mediaset HD
-http://89.248.174.133:8000/andres/andres/672087
-#EXTINF:-1,Classica HD
-http://89.248.174.133:8000/andres/andres/672088
-#EXTINF:-1,Comedy Central
-http://89.248.174.133:8000/andres/andres/672089
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,Carina TV
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
 #EXTINF:-1,Company TV
-http://89.248.174.133:8000/andres/andres/672090
-#EXTINF:-1,Cremona 1
-http://89.248.174.133:8000/andres/andres/672091
-#EXTINF:-1,Crime+ Investigation FHD
-http://89.248.174.133:8000/andres/andres/672092
-#EXTINF:-1,DAZN 1 HD
-http://89.248.174.133:8000/andres/andres/672093
-#EXTINF:-1,DAZN 2 HD
-http://89.248.174.133:8000/andres/andres/672094
-#EXTINF:-1,DAZN WEB 1
-http://89.248.174.133:8000/andres/andres/672095
-#EXTINF:-1,DAZN WEB 2
-http://89.248.174.133:8000/andres/andres/672096
-#EXTINF:-1,DAZN WEB 3
-http://89.248.174.133:8000/andres/andres/672097
-#EXTINF:-1,DAZN WEB 4
-http://89.248.174.133:8000/andres/andres/672098
-#EXTINF:-1,DAZN WEB 5
-http://89.248.174.133:8000/andres/andres/672099
-#EXTINF:-1,DAZN WEB 6
-http://89.248.174.133:8000/andres/andres/672100
-#EXTINF:-1,DAZN WEB 7
-http://89.248.174.133:8000/andres/andres/672101
-#EXTINF:-1,Dea Junior HD
-http://89.248.174.133:8000/andres/andres/672102
-#EXTINF:-1,DEA KIDS
-http://89.248.174.133:8000/andres/andres/672103
-#EXTINF:-1,Deejay TV HD
-http://89.248.174.133:8000/andres/andres/672104
-#EXTINF:-1,DEEJAY TV NOVE
-http://89.248.174.133:8000/andres/andres/672105
-#EXTINF:-1,Discovery Channel FHD
-http://89.248.174.133:8000/andres/andres/672106
-#EXTINF:-1,Discovery Focus
-http://89.248.174.133:8000/andres/andres/672107
-#EXTINF:-1,Discovery Science FHD
-http://89.248.174.133:8000/andres/andres/672108
-#EXTINF:-1,Disney Channel FHD
-http://89.248.174.133:8000/andres/andres/672109
-#EXTINF:-1,Disney Junior HD
-http://89.248.174.133:8000/andres/andres/672110
-#EXTINF:-1,Disney XD HD
-http://89.248.174.133:8000/andres/andres/672111
-#EXTINF:-1,DiTV 90
-http://89.248.174.133:8000/andres/andres/672112
-#EXTINF:-1,DMAX +1 HD
-http://89.248.174.133:8000/andres/andres/672113
-#EXTINF:-1,DMAX 1
-http://89.248.174.133:8000/andres/andres/672114
-#EXTINF:-1,DMAX FHD
-http://89.248.174.133:8000/andres/andres/672115
-#EXTINF:-1,DMAX Italia
-http://89.248.174.133:8000/andres/andres/672116
-#EXTINF:-1,Dragon Ball Z Channel FHD
-http://89.248.174.133:8000/andres/andres/672117
-#EXTINF:-1,Eagle American Dad 24H
-http://89.248.174.133:8000/andres/andres/672118
-#EXTINF:-1,Eagle Brickleberry FHD 24H
-http://89.248.174.133:8000/andres/andres/672119
-#EXTINF:-1,Eagle Cinema 007 HD
-http://89.248.174.133:8000/andres/andres/672120
-#EXTINF:-1,Eagle Cinema Animazione FHD
-http://89.248.174.133:8000/andres/andres/672121
-#EXTINF:-1,Eagle Cinema Avventura FHD
-http://89.248.174.133:8000/andres/andres/672122
-#EXTINF:-1,Eagle Cinema Azione FHD
-http://89.248.174.133:8000/andres/andres/672123
-#EXTINF:-1,Eagle Cinema Biografico FHD
-http://89.248.174.133:8000/andres/andres/672124
-#EXTINF:-1,Eagle Cinema Commedia FHD
-http://89.248.174.133:8000/andres/andres/672125
-#EXTINF:-1,Eagle Cinema Drammatico FHD
-http://89.248.174.133:8000/andres/andres/672126
-#EXTINF:-1,Eagle Cinema Fantascienza FHD
-http://89.248.174.133:8000/andres/andres/672127
-#EXTINF:-1,Eagle Cinema Film in Sala HD
-http://89.248.174.133:8000/andres/andres/672128
-#EXTINF:-1,Eagle Cinema Horror FHD
-http://89.248.174.133:8000/andres/andres/672129
-#EXTINF:-1,Eagle Cinema Passione FHD
-http://89.248.174.133:8000/andres/andres/672130
-#EXTINF:-1,Eagle Cinema Prima Visione FHD
-http://89.248.174.133:8000/andres/andres/672131
-#EXTINF:-1,Eagle Cinema Sorriso FHD
-http://89.248.174.133:8000/andres/andres/672132
-#EXTINF:-1,Eagle Cinema Thriller FHD
-http://89.248.174.133:8000/andres/andres/672133
-#EXTINF:-1,Eagle Cinema Western FHD
-http://89.248.174.133:8000/andres/andres/672134
-#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo HD
-http://89.248.174.133:8000/andres/andres/672135
-#EXTINF:-1,Eagle Fiabe Magiche HD
-http://89.248.174.133:8000/andres/andres/672136
-#EXTINF:-1,Eagle Gomorra Stagione 1 FHD
-http://89.248.174.133:8000/andres/andres/672137
-#EXTINF:-1,Eagle Gomorra Stagione 2 FHD
-http://89.248.174.133:8000/andres/andres/672138
-#EXTINF:-1,Eagle Gomorra Stagione 3 FHD
-http://89.248.174.133:8000/andres/andres/672139
-#EXTINF:-1,Eagle Gomorra Stagione 4 FHD
-http://89.248.174.133:8000/andres/andres/672140
-#EXTINF:-1,Eagle Le Fiabe Disney
-http://89.248.174.133:8000/andres/andres/672141
-#EXTINF:-1,Eagle Looney Toons HD
-http://89.248.174.133:8000/andres/andres/672142
-#EXTINF:-1,Eagle Masha e Orso FHD
-http://89.248.174.133:8000/andres/andres/672143
-#EXTINF:-1,Eagle Nature Discovery
-http://89.248.174.133:8000/andres/andres/672144
-#EXTINF:-1,Eagle Nature Explorer FHD
-http://89.248.174.133:8000/andres/andres/672145
-#EXTINF:-1,Eagle Peter Griffin 24H
-http://89.248.174.133:8000/andres/andres/672146
-#EXTINF:-1,EAGLE SCOOBY DOO FHD
-http://89.248.174.133:8000/andres/andres/672147
-#EXTINF:-1,Eagle Super Pigiamini FHD
-http://89.248.174.133:8000/andres/andres/672148
-#EXTINF:-1,Eagle Trono di Spade S08
-http://89.248.174.133:8000/andres/andres/672149
-#EXTINF:-1,Emilia Romagna 24
-http://89.248.174.133:8000/andres/andres/672150
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1,Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,DeeJay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1,DMAX
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1,Elive TV Brescia
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1,Esperia TV
-http://89.248.174.133:8000/andres/andres/672151
-#EXTINF:-1,Esperia TV 18 Calabria
-http://89.248.174.133:8000/andres/andres/672152
-#EXTINF:-1,eTV MARCHE
-http://89.248.174.133:8000/andres/andres/672153
-#EXTINF:-1,euronews Italiano
-http://89.248.174.133:8000/andres/andres/672154
-#EXTINF:-1,EUROSPORT 1 HD
-http://89.248.174.133:8000/andres/andres/672155
-#EXTINF:-1,EUROSPORT 2 FHD
-http://89.248.174.133:8000/andres/andres/672156
-#EXTINF:-1,Fano TV
-http://89.248.174.133:8000/andres/andres/672157
-#EXTINF:-1,Fantozzi Channel
-http://89.248.174.133:8000/andres/andres/672158
-#EXTINF:-1,Fashion TV
-http://89.248.174.133:8000/andres/andres/672159
-#EXTINF:-1,Fine Living
-http://89.248.174.133:8000/andres/andres/672160
-#EXTINF:-1,Fishing TV
-http://89.248.174.133:8000/andres/andres/672161
-#EXTINF:-1,Fishing Tv italiano
-http://89.248.174.133:8000/andres/andres/672162
-#EXTINF:-1,FM Italia
-http://89.248.174.133:8000/andres/andres/672163
-#EXTINF:-1,Focus HD
-http://89.248.174.133:8000/andres/andres/672164
-#EXTINF:-1,Focus MEDIASET HD
-http://89.248.174.133:8000/andres/andres/672165
-#EXTINF:-1,Food Network
-http://89.248.174.133:8000/andres/andres/672166
-#EXTINF:-1,FOX Animation FHD
-http://89.248.174.133:8000/andres/andres/672167
-#EXTINF:-1,FOX COMEDY HD
-http://89.248.174.133:8000/andres/andres/672168
-#EXTINF:-1,FOX Crime FHD
-http://89.248.174.133:8000/andres/andres/672169
-#EXTINF:-1,Fox Crime HD 1
-http://89.248.174.133:8000/andres/andres/672170
-#EXTINF:-1,FOX CRIME ITA
-http://89.248.174.133:8000/andres/andres/672171
-#EXTINF:-1,FOX FHD
-http://89.248.174.133:8000/andres/andres/672172
-#EXTINF:-1,FOX LIF
-http://89.248.174.133:8000/andres/andres/672173
-#EXTINF:-1,FOX Life FHD
-http://89.248.174.133:8000/andres/andres/672174
-#EXTINF:-1,frisbee HD
-http://89.248.174.133:8000/andres/andres/672175
-#EXTINF:-1,Gambero Rosso FHD
-http://89.248.174.133:8000/andres/andres/672176
-#EXTINF:-1,Giallo FHD
-http://89.248.174.133:8000/andres/andres/672177
-#EXTINF:-1,GLOBUS TV
-http://89.248.174.133:8000/andres/andres/672178
-#EXTINF:-1,Grande Fratello VIP 1
-http://89.248.174.133:8000/andres/andres/672179
-#EXTINF:-1,Grande Fratello VIP 2
-http://89.248.174.133:8000/andres/andres/672180
-#EXTINF:-1,Grande Fratello Vip Regia 1
-http://89.248.174.133:8000/andres/andres/672181
-#EXTINF:-1,Grande Fratello Vip Regia 2
-http://89.248.174.133:8000/andres/andres/672182
-#EXTINF:-1,Grande Fratello Vip Un
-http://89.248.174.133:8000/andres/andres/672183
-#EXTINF:-1,History Channel HD
-http://89.248.174.133:8000/andres/andres/672184
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1,Esperia TV
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1,ETV Marche
+http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
+#EXTINF:-1,ETV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,ETV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:-1,Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1,FM Italia TV
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:-1,Gold TV Roma
+http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
 #EXTINF:-1,History Lab
-http://89.248.174.133:8000/andres/andres/672185
-#EXTINF:-1,Inter Channel HD
-http://89.248.174.133:8000/andres/andres/672186
-#EXTINF:-1,Iris HD
-http://89.248.174.133:8000/andres/andres/672187
-#EXTINF:-1,Italia 1 FHD
-http://89.248.174.133:8000/andres/andres/672188
-#EXTINF:-1,Italia 2 HD
-http://89.248.174.133:8000/andres/andres/672189
-#EXTINF:-1,ITALIA 2 MEDIASET HD
-http://89.248.174.133:8000/andres/andres/672190
-#EXTINF:-1,ITALIAN FISHING TV
-http://89.248.174.133:8000/andres/andres/672191
-#EXTINF:-1,ITLIYA 1 HD
-http://89.248.174.133:8000/andres/andres/672192
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Icaro TV
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1,Italia 2 TV
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1,Julie Italia
-http://89.248.174.133:8000/andres/andres/672193
-#EXTINF:-1,Juventus Channel
-http://89.248.174.133:8000/andres/andres/672194
-#EXTINF:-1,K2 HD
-http://89.248.174.133:8000/andres/andres/672195
-#EXTINF:-1,LA 2
-http://89.248.174.133:8000/andres/andres/672196
-#EXTINF:-1,La 5 HD
-http://89.248.174.133:8000/andres/andres/672197
-#EXTINF:-1,LA 5 MEDIASET HD
-http://89.248.174.133:8000/andres/andres/672198
-#EXTINF:-1,La Casa di Topolino Channel
-http://89.248.174.133:8000/andres/andres/672199
-#EXTINF:-1,La7 FHD
-http://89.248.174.133:8000/andres/andres/672200
-#EXTINF:-1,LA7d FHD
-http://89.248.174.133:8000/andres/andres/672201
-#EXTINF:-1,LAZIO Channel HD
-http://89.248.174.133:8000/andres/andres/672202
-#EXTINF:-1,Lazio Style Channel
-http://89.248.174.133:8000/andres/andres/672203
-#EXTINF:-1,LegaPro Pontedera
-http://89.248.174.133:8000/andres/andres/672204
-#EXTINF:-1,LegaPro/Albinoeffe
-http://89.248.174.133:8000/andres/andres/672205
-#EXTINF:-1,LegaPro/Alessandria
-http://89.248.174.133:8000/andres/andres/672206
-#EXTINF:-1,LegaPro/Arezzo
-http://89.248.174.133:8000/andres/andres/672207
-#EXTINF:-1,LegaPro/Arzignano Valchiampo
-http://89.248.174.133:8000/andres/andres/672208
-#EXTINF:-1,LegaPro/Avellino
-http://89.248.174.133:8000/andres/andres/672209
-#EXTINF:-1,LegaPro/Bari
-http://89.248.174.133:8000/andres/andres/672210
-#EXTINF:-1,LegaPro/Bisceglie
-http://89.248.174.133:8000/andres/andres/672211
-#EXTINF:-1,LegaPro/Carpi
-http://89.248.174.133:8000/andres/andres/672212
-#EXTINF:-1,LegaPro/Carrarese
-http://89.248.174.133:8000/andres/andres/672213
-#EXTINF:-1,LegaPro/Casertana
-http://89.248.174.133:8000/andres/andres/672214
-#EXTINF:-1,LegaPro/Catania
-http://89.248.174.133:8000/andres/andres/672215
-#EXTINF:-1,LegaPro/Catanzaro
-http://89.248.174.133:8000/andres/andres/672216
-#EXTINF:-1,LegaPro/Cavese
-http://89.248.174.133:8000/andres/andres/672217
-#EXTINF:-1,LegaPro/Cesena
-http://89.248.174.133:8000/andres/andres/672218
-#EXTINF:-1,LegaPro/Como
-http://89.248.174.133:8000/andres/andres/672219
-#EXTINF:-1,LegaPro/Fano
-http://89.248.174.133:8000/andres/andres/672220
-#EXTINF:-1,LegaPro/Feralpisalò
-http://89.248.174.133:8000/andres/andres/672221
-#EXTINF:-1,LegaPro/Fermana
-http://89.248.174.133:8000/andres/andres/672222
-#EXTINF:-1,LegaPro/Francavilla
-http://89.248.174.133:8000/andres/andres/672223
-#EXTINF:-1,LegaPro/Giana Erminio
-http://89.248.174.133:8000/andres/andres/672224
-#EXTINF:-1,LegaPro/Gozzano
-http://89.248.174.133:8000/andres/andres/672225
-#EXTINF:-1,LegaPro/Gubbio
-http://89.248.174.133:8000/andres/andres/672226
-#EXTINF:-1,LegaPro/Imolese
-http://89.248.174.133:8000/andres/andres/672227
-#EXTINF:-1,LegaPro/Juventus U23
-http://89.248.174.133:8000/andres/andres/672228
-#EXTINF:-1,LegaPro/Lecco
-http://89.248.174.133:8000/andres/andres/672229
-#EXTINF:-1,LegaPro/LR Vicenza Virtus
-http://89.248.174.133:8000/andres/andres/672230
-#EXTINF:-1,LegaPro/Modena
-http://89.248.174.133:8000/andres/andres/672231
-#EXTINF:-1,LegaPro/Monopoli
-http://89.248.174.133:8000/andres/andres/672232
-#EXTINF:-1,LegaPro/Monza
-http://89.248.174.133:8000/andres/andres/672233
-#EXTINF:-1,LegaPro/Novara
-http://89.248.174.133:8000/andres/andres/672234
-#EXTINF:-1,LegaPro/Olbia
-http://89.248.174.133:8000/andres/andres/672235
-#EXTINF:-1,LegaPro/Padova
-http://89.248.174.133:8000/andres/andres/672236
-#EXTINF:-1,LegaPro/Paganese
-http://89.248.174.133:8000/andres/andres/672237
-#EXTINF:-1,LegaPro/Pergolettese
-http://89.248.174.133:8000/andres/andres/672238
-#EXTINF:-1,LegaPro/Piacenza
-http://89.248.174.133:8000/andres/andres/672239
-#EXTINF:-1,LegaPro/Pianese
-http://89.248.174.133:8000/andres/andres/672240
-#EXTINF:-1,LegaPro/Picerno
-http://89.248.174.133:8000/andres/andres/672241
-#EXTINF:-1,LegaPro/Pistoiese
-http://89.248.174.133:8000/andres/andres/672242
-#EXTINF:-1,LegaPro/Potenza
-http://89.248.174.133:8000/andres/andres/672243
-#EXTINF:-1,LegaPro/Pro Patria
-http://89.248.174.133:8000/andres/andres/672244
-#EXTINF:-1,LegaPro/Pro Vercelli
-http://89.248.174.133:8000/andres/andres/672245
-#EXTINF:-1,LegaPro/Ravenna
-http://89.248.174.133:8000/andres/andres/672246
-#EXTINF:-1,LegaPro/Reggina
-http://89.248.174.133:8000/andres/andres/672247
-#EXTINF:-1,LegaPro/Reggio Audace
-http://89.248.174.133:8000/andres/andres/672248
-#EXTINF:-1,LegaPro/Renate
-http://89.248.174.133:8000/andres/andres/672249
-#EXTINF:-1,LegaPro/Rende
-http://89.248.174.133:8000/andres/andres/672250
-#EXTINF:-1,LegaPro/Rieti
-http://89.248.174.133:8000/andres/andres/672251
-#EXTINF:-1,LegaPro/Rimini
-http://89.248.174.133:8000/andres/andres/672252
-#EXTINF:-1,LegaPro/Robur Siena
-http://89.248.174.133:8000/andres/andres/672253
-#EXTINF:-1,LegaPro/Sambenedettese
-http://89.248.174.133:8000/andres/andres/672254
-#EXTINF:-1,LegaPro/Sicula Leonzio
-http://89.248.174.133:8000/andres/andres/672255
-#EXTINF:-1,LegaPro/Teramo
-http://89.248.174.133:8000/andres/andres/672256
-#EXTINF:-1,LegaPro/Ternana
-http://89.248.174.133:8000/andres/andres/672257
-#EXTINF:-1,LegaPro/Triestina
-http://89.248.174.133:8000/andres/andres/672258
-#EXTINF:-1,LegaPro/Vibonese
-http://89.248.174.133:8000/andres/andres/672259
-#EXTINF:-1,LegaPro/Virtus Verona
-http://89.248.174.133:8000/andres/andres/672260
-#EXTINF:-1,LegaPro/Vis Pesaro
-http://89.248.174.133:8000/andres/andres/672261
-#EXTINF:-1,LegaPro/Viterbese
-http://89.248.174.133:8000/andres/andres/672262
-#EXTINF:-1,Life 120
-http://89.248.174.133:8000/andres/andres/672263
-#EXTINF:-1,Lupin III Channel
-http://89.248.174.133:8000/andres/andres/672264
-#EXTINF:-1,m20 TV
-http://89.248.174.133:8000/andres/andres/672265
-#EXTINF:-1,M2O TV
-http://89.248.174.133:8000/andres/andres/672266
-#EXTINF:-1,Man-Ga
-http://89.248.174.133:8000/andres/andres/672267
-#EXTINF:-1,MARCO POLO
-http://89.248.174.133:8000/andres/andres/672268
-#EXTINF:-1,MEDIASET 1
-http://89.248.174.133:8000/andres/andres/672269
-#EXTINF:-1,MEDIASET 20 HD
-http://89.248.174.133:8000/andres/andres/672270
-#EXTINF:-1,MEDIASET DUE
-http://89.248.174.133:8000/andres/andres/672271
-#EXTINF:-1,Mediaset Extra 2
-http://89.248.174.133:8000/andres/andres/672272
-#EXTINF:-1,Mediaset Extra HD
-http://89.248.174.133:8000/andres/andres/672273
-#EXTINF:-1,Mediaset Iris HD
-http://89.248.174.133:8000/andres/andres/672274
-#EXTINF:-1,MEDIASET ITALIA 2 HD
-http://89.248.174.133:8000/andres/andres/672275
-#EXTINF:-1,Mediaset ITALIA DUE
-http://89.248.174.133:8000/andres/andres/672276
-#EXTINF:-1,Mediaset Italia HD
-http://89.248.174.133:8000/andres/andres/672277
-#EXTINF:-1,MEDIASET PREMIUM CRIME 24 HD
-http://89.248.174.133:8000/andres/andres/672278
-#EXTINF:-1,MEDIASET SKY CINEMA 1 HD
-http://89.248.174.133:8000/andres/andres/672279
-#EXTINF:-1,MEDIASPORT
-http://89.248.174.133:8000/andres/andres/672280
-#EXTINF:-1,MILAN Channel HD
-http://89.248.174.133:8000/andres/andres/672281
-#EXTINF:-1,Motor Trend HD
-http://89.248.174.133:8000/andres/andres/672282
-#EXTINF:-1,MTV 8 Musica
-http://89.248.174.133:8000/andres/andres/672283
-#EXTINF:-1,MTV HD
-http://89.248.174.133:8000/andres/andres/672284
-#EXTINF:-1,MTV Rocks HD
-http://89.248.174.133:8000/andres/andres/672285
-#EXTINF:-1,Napoli Icaro TV
-http://89.248.174.133:8000/andres/andres/672286
-#EXTINF:-1,NAT GEO FHD
-http://89.248.174.133:8000/andres/andres/672287
-#EXTINF:-1,NAT GEO People HD
-http://89.248.174.133:8000/andres/andres/672288
-#EXTINF:-1,NAT GEO Wild FHD
-http://89.248.174.133:8000/andres/andres/672289
-#EXTINF:-1,NationalGeo HD
-http://89.248.174.133:8000/andres/andres/672290
-#EXTINF:-1,Nick Junior HD
-http://89.248.174.133:8000/andres/andres/672291
-#EXTINF:-1,nickelodeon HD
-http://89.248.174.133:8000/andres/andres/672292
-#EXTINF:-1,NOVE DEEJAY TV HD
-http://89.248.174.133:8000/andres/andres/672293
-#EXTINF:-1,Nove FHD
-http://89.248.174.133:8000/andres/andres/672294
-#EXTINF:-1,Onda TV
-http://89.248.174.133:8000/andres/andres/672295
-#EXTINF:-1,Onda TV Messina
-http://89.248.174.133:8000/andres/andres/672296
-#EXTINF:-1,One TV Emilia HD
-http://89.248.174.133:8000/andres/andres/672297
-#EXTINF:-1,Padre Pio HD
-http://89.248.174.133:8000/andres/andres/672299
-#EXTINF:-1,Paramount Channel HD
-http://89.248.174.133:8000/andres/andres/672300
-#EXTINF:-1,SKY CINEMA ROCKY HD
-http://89.248.174.133:8000/andres/andres/672447
-#EXTINF:-1,Sky Cinema Romance FHD
-http://89.248.174.133:8000/andres/andres/672448
-#EXTINF:-1,Sky Cinema Suspance FHD
-http://89.248.174.133:8000/andres/andres/672449
-#EXTINF:-1,SKY CINEMA SUSPENSE HD
-http://89.248.174.133:8000/andres/andres/672450
-#EXTINF:-1,Sky Cinema UNO +24 HD
-http://89.248.174.133:8000/andres/andres/672451
-#EXTINF:-1,SKY CINEMA UNO 24 HD
-http://89.248.174.133:8000/andres/andres/672452
-#EXTINF:-1,SKY CINEMA UNO HD
-http://89.248.174.133:8000/andres/andres/672453
-#EXTINF:-1,Sky Cinema+ 24
-http://89.248.174.133:8000/andres/andres/672454
-#EXTINF:-1,SKY COMEDY CENTRAL
-http://89.248.174.133:8000/andres/andres/672455
-#EXTINF:-1,SKY DAZN BAR
-http://89.248.174.133:8000/andres/andres/672456
-#EXTINF:-1,SKY DEA JUNIOR
-http://89.248.174.133:8000/andres/andres/672457
-#EXTINF:-1,SKY DEA KIDS
-http://89.248.174.133:8000/andres/andres/672458
-#EXTINF:-1,SKY DISCOVERY
-http://89.248.174.133:8000/andres/andres/672459
-#EXTINF:-1,SKY DMAX
-http://89.248.174.133:8000/andres/andres/672460
-#EXTINF:-1,SKY DOVE TV
-http://89.248.174.133:8000/andres/andres/672461
-#EXTINF:-1,SKY EUROSPORT 1
-http://89.248.174.133:8000/andres/andres/672462
-#EXTINF:-1,SKY EUROSPORT 2
-http://89.248.174.133:8000/andres/andres/672463
-#EXTINF:-1,SKY FOOD NETWORK
-http://89.248.174.133:8000/andres/andres/672464
-#EXTINF:-1,SKY FOX
-http://89.248.174.133:8000/andres/andres/672465
-#EXTINF:-1,SKY FOX COMEDY HD
-http://89.248.174.133:8000/andres/andres/672466
-#EXTINF:-1,Sky FOX CRIME
-http://89.248.174.133:8000/andres/andres/672467
-#EXTINF:-1,Sky Fox Life
-http://89.248.174.133:8000/andres/andres/672468
-#EXTINF:-1,SKY FRISBEE MINI
-http://89.248.174.133:8000/andres/andres/672469
-#EXTINF:-1,SKY GAMBERO ROSSO
-http://89.248.174.133:8000/andres/andres/672470
-#EXTINF:-1,Sky History HD
-http://89.248.174.133:8000/andres/andres/672471
-#EXTINF:-1,SKY INTER
-http://89.248.174.133:8000/andres/andres/672472
-#EXTINF:-1,Sky Italia NAT GEO Wild HD
-http://89.248.174.133:8000/andres/andres/672473
-#EXTINF:-1,Sky Juventus
-http://89.248.174.133:8000/andres/andres/672474
-#EXTINF:-1,SKY LAEFFE
-http://89.248.174.133:8000/andres/andres/672475
-#EXTINF:-1,SKY LAZIO
-http://89.248.174.133:8000/andres/andres/672476
-#EXTINF:-1,SKY LEI
-http://89.248.174.133:8000/andres/andres/672477
-#EXTINF:-1,SKY MANGA
-http://89.248.174.133:8000/andres/andres/672478
-#EXTINF:-1,SKY MILAN
-http://89.248.174.133:8000/andres/andres/672479
-#EXTINF:-1,Sky MotoGP FHD
-http://89.248.174.133:8000/andres/andres/672480
-#EXTINF:-1,SKY MTV
-http://89.248.174.133:8000/andres/andres/672481
-#EXTINF:-1,SKY MTV MUSIC
-http://89.248.174.133:8000/andres/andres/672482
-#EXTINF:-1,Sky NAT GEO HD
-http://89.248.174.133:8000/andres/andres/672483
-#EXTINF:-1,SKY NAT GEO WILD
-http://89.248.174.133:8000/andres/andres/672484
-#EXTINF:-1,SKY NICK JR
-http://89.248.174.133:8000/andres/andres/672485
-#EXTINF:-1,SKY PESCA E CACCIA
-http://89.248.174.133:8000/andres/andres/672486
-#EXTINF:-1,SKY PREMIUM ACTION
-http://89.248.174.133:8000/andres/andres/672487
-#EXTINF:-1,SKY PREMIUM CINEMA 24
-http://89.248.174.133:8000/andres/andres/672489
-#EXTINF:-1,SKY PREMIUM CINEMA COMEDY
-http://89.248.174.133:8000/andres/andres/672490
-#EXTINF:-1,SKY PREMIUM CINEMA EMOTION
-http://89.248.174.133:8000/andres/andres/672491
-#EXTINF:-1,SKY PREMIUM CINEMA ENERGY
-http://89.248.174.133:8000/andres/andres/672492
-#EXTINF:-1,Sky Premium Comedy HD
-http://89.248.174.133:8000/andres/andres/672493
-#EXTINF:-1,SKY PREMIUM CRIME
-http://89.248.174.133:8000/andres/andres/672494
-#EXTINF:-1,SKY PREMIUM STORIES
-http://89.248.174.133:8000/andres/andres/672495
-#EXTINF:-1,Sky Prima Fila 1 HD
-http://89.248.174.133:8000/andres/andres/672496
-#EXTINF:-1,Sky Primafila 2 HD
-http://89.248.174.133:8000/andres/andres/672497
-#EXTINF:-1,SKY PRIMAFILA 3 FHD
-http://89.248.174.133:8000/andres/andres/672498
-#EXTINF:-1,Sky Primafila 03 HD
-http://89.248.174.133:8000/andres/andres/672499
-#EXTINF:-1,SKY PRIMAFILA 4 FHD
-http://89.248.174.133:8000/andres/andres/672500
-#EXTINF:-1,Sky Primafila 04 HD
-http://89.248.174.133:8000/andres/andres/672501
-#EXTINF:-1,Sky Primafila 5 HD
-http://89.248.174.133:8000/andres/andres/672502
-#EXTINF:-1,Sky Primafila 05 HD
-http://89.248.174.133:8000/andres/andres/672503
-#EXTINF:-1,Sky Primafila 6 HD
-http://89.248.174.133:8000/andres/andres/672504
-#EXTINF:-1,SKY PRIMAFILA 7 FHD
-http://89.248.174.133:8000/andres/andres/672505
-#EXTINF:-1,Sky Primafila 07 HD
-http://89.248.174.133:8000/andres/andres/672506
-#EXTINF:-1,SKY PRIMAFILA 8 FHD
-http://89.248.174.133:8000/andres/andres/672507
-#EXTINF:-1,Sky Primafila 9 HD
-http://89.248.174.133:8000/andres/andres/672508
-#EXTINF:-1,Sky Primafila 10 HD
-http://89.248.174.133:8000/andres/andres/672509
-#EXTINF:-1,SKY PRIMAFILA 11 FHD
-http://89.248.174.133:8000/andres/andres/672510
-#EXTINF:-1,Sky Primafila 12 HD
-http://89.248.174.133:8000/andres/andres/672511
-#EXTINF:-1,Sky Primafila 13 HD
-http://89.248.174.133:8000/andres/andres/672512
-#EXTINF:-1,Sky Primafila 14 HD
-http://89.248.174.133:8000/andres/andres/672513
-#EXTINF:-1,Sky Primafila 15 HD
-http://89.248.174.133:8000/andres/andres/672514
-#EXTINF:-1,Sky PRIMAFILA 16 HD
-http://89.248.174.133:8000/andres/andres/672515
-#EXTINF:-1,Sky Primafila 17 HD
-http://89.248.174.133:8000/andres/andres/672516
-#EXTINF:-1,Sky Primafila 18 HD
-http://89.248.174.133:8000/andres/andres/672517
-#EXTINF:-1,Sky Primafila super HD
-http://89.248.174.133:8000/andres/andres/672518
-#EXTINF:-1,SKY PRIMAFILA WWE
-http://89.248.174.133:8000/andres/andres/672519
-#EXTINF:-1,SKY REAL TIME
-http://89.248.174.133:8000/andres/andres/672520
-#EXTINF:-1,SKY ROMA
-http://89.248.174.133:8000/andres/andres/672521
-#EXTINF:-1,Sky Seri A HD
-http://89.248.174.133:8000/andres/andres/672522
-#EXTINF:-1,Sky Sport 2 FHD
-http://89.248.174.133:8000/andres/andres/672523
-#EXTINF:-1,Sky Sport 2 Football
-http://89.248.174.133:8000/andres/andres/672524
-#EXTINF:-1,Sky Sport 2 HD
-http://89.248.174.133:8000/andres/andres/672525
-#EXTINF:-1,Sky Sport 24 FHD
-http://89.248.174.133:8000/andres/andres/672526
-#EXTINF:-1,Sky Sport 24 HD
-http://89.248.174.133:8000/andres/andres/672527
-#EXTINF:-1,Sky Sport 252 HD
-http://89.248.174.133:8000/andres/andres/672528
-#EXTINF:-1,Sky Sport 253 FHD
-http://89.248.174.133:8000/andres/andres/672529
-#EXTINF:-1,Sky Sport 253 HD
-http://89.248.174.133:8000/andres/andres/672530
-#EXTINF:-1,Sky Sport 254 HD
-http://89.248.174.133:8000/andres/andres/672531
-#EXTINF:-1,Sky Sport 255 FHD
-http://89.248.174.133:8000/andres/andres/672532
-#EXTINF:-1,Sky Sport 255 HD
-http://89.248.174.133:8000/andres/andres/672533
-#EXTINF:-1,Sky Sport ARENA FHD
-http://89.248.174.133:8000/andres/andres/672534
-#EXTINF:-1,Sky Sport ARENA HD
-http://89.248.174.133:8000/andres/andres/672535
-#EXTINF:-1,Sky Sport COLECTION
-http://89.248.174.133:8000/andres/andres/672536
-#EXTINF:-1,Sky Sport COLLECTION FHD
-http://89.248.174.133:8000/andres/andres/672537
-#EXTINF:-1,Sky Sport COLLECTION HD
-http://89.248.174.133:8000/andres/andres/672538
-#EXTINF:-1,Sky Sport F1 FHD
-http://89.248.174.133:8000/andres/andres/672539
-#EXTINF:-1,Sky Sport F1 HD
-http://89.248.174.133:8000/andres/andres/672540
-#EXTINF:-1,Sky Sport Footbal HD
-http://89.248.174.133:8000/andres/andres/672541
-#EXTINF:-1,Sky Sport FOOTBALL FHD
-http://89.248.174.133:8000/andres/andres/672542
-#EXTINF:-1,Sky Sport FOOTBALL HD
-http://89.248.174.133:8000/andres/andres/672543
-#EXTINF:-1,Sky Sport MotoGP FHD
-http://89.248.174.133:8000/andres/andres/672544
-#EXTINF:-1,Sky Sport MotoGP HD
-http://89.248.174.133:8000/andres/andres/672545
-#EXTINF:-1,Sky Sport NBA FHD
-http://89.248.174.133:8000/andres/andres/672546
-#EXTINF:-1,Sky Sport NBA HD
-http://89.248.174.133:8000/andres/andres/672547
-#EXTINF:-1,Sky Sport Plus HD
-http://89.248.174.133:8000/andres/andres/672548
-#EXTINF:-1,Sky Sport Seria A
-http://89.248.174.133:8000/andres/andres/672549
-#EXTINF:-1,Sky Sport serie A FHD
-http://89.248.174.133:8000/andres/andres/672550
-#EXTINF:-1,Sky Sport SERIE A HD
-http://89.248.174.133:8000/andres/andres/672551
-#EXTINF:-1,Sky Sport Uno FHD
-http://89.248.174.133:8000/andres/andres/672552
-#EXTINF:-1,Sky Sport Uno HD
-http://89.248.174.133:8000/andres/andres/672553
-#EXTINF:-1,Sky Supercalcio Serie A
-http://89.248.174.133:8000/andres/andres/672554
-#EXTINF:-1,Sky tg 24 FHD
-http://89.248.174.133:8000/andres/andres/672555
-#EXTINF:-1,SKY TORINO
-http://89.248.174.133:8000/andres/andres/672556
-#EXTINF:-1,Sky Uno FHD
-http://89.248.174.133:8000/andres/andres/672557
-#EXTINF:-1,Sky Virgin Music TV
-http://89.248.174.133:8000/andres/andres/672558
-#EXTINF:-1,Skylantic 1
-http://89.248.174.133:8000/andres/andres/672559
-#EXTINF:-1,Skylantic HD
-http://89.248.174.133:8000/andres/andres/672560
-#EXTINF:-1,SPIKE
-http://89.248.174.133:8000/andres/andres/672561
-#EXTINF:-1,Sport Italia 24H HD
-http://89.248.174.133:8000/andres/andres/672562
-#EXTINF:-1,SPORT ITALIA HD
-http://89.248.174.133:8000/andres/andres/672563
-#EXTINF:-1,Sport Italia Live 24
-http://89.248.174.133:8000/andres/andres/672564
-#EXTINF:-1,Sport Italia Solo Calcio HD
-http://89.248.174.133:8000/andres/andres/672565
-#EXTINF:-1,Sportalia
-http://89.248.174.133:8000/andres/andres/672566
-#EXTINF:-1,Studio 100
-http://89.248.174.133:8000/andres/andres/672567
-#EXTINF:-1,Studio 100 Puglia
-http://89.248.174.133:8000/andres/andres/672568
-#EXTINF:-1,Super J HD
-http://89.248.174.133:8000/andres/andres/672569
-#EXTINF:-1,Super!
-http://89.248.174.133:8000/andres/andres/672570
-#EXTINF:-1,TELE 5
-http://89.248.174.133:8000/andres/andres/672571
-#EXTINF:-1,Tele Boario
-http://89.248.174.133:8000/andres/andres/672572
-#EXTINF:-1,Tele Chiara
-http://89.248.174.133:8000/andres/andres/672573
-#EXTINF:-1,TELE MIA
-http://89.248.174.133:8000/andres/andres/672574
-#EXTINF:-1,TELE MONTE NEVE 3
-http://89.248.174.133:8000/andres/andres/672575
-#EXTINF:-1,Tele Occidente
-http://89.248.174.133:8000/andres/andres/672576
-#EXTINF:-1,Tele Padova Telecitt
-http://89.248.174.133:8000/andres/andres/672577
-#EXTINF:-1,Tele Sirio
-http://89.248.174.133:8000/andres/andres/672578
-#EXTINF:-1,Tele Video Agrigento
-http://89.248.174.133:8000/andres/andres/672579
-#EXTINF:-1,TeleArena
-http://89.248.174.133:8000/andres/andres/672580
-#EXTINF:-1,TeleBari Tv
-http://89.248.174.133:8000/andres/andres/672581
-#EXTINF:-1,TeleDehonTV
-http://89.248.174.133:8000/andres/andres/672582
-#EXTINF:-1,Telefoggia
-http://89.248.174.133:8000/andres/andres/672583
-#EXTINF:-1,Telemantova
-http://89.248.174.133:8000/andres/andres/672584
-#EXTINF:-1,Telemolise
-http://89.248.174.133:8000/andres/andres/672585
-#EXTINF:-1,TelePace Tv
-http://89.248.174.133:8000/andres/andres/672586
-#EXTINF:-1,TELEPAVIA
-http://89.248.174.133:8000/andres/andres/672587
-#EXTINF:-1,TeleRadioSciacca
-http://89.248.174.133:8000/andres/andres/672588
-#EXTINF:-1,Teleromagna
-http://89.248.174.133:8000/andres/andres/672589
-#EXTINF:-1,TELESTAR
-http://89.248.174.133:8000/andres/andres/672590
-#EXTINF:-1,Telestar 1
-http://89.248.174.133:8000/andres/andres/672591
-#EXTINF:-1,Teletricolore
-http://89.248.174.133:8000/andres/andres/672592
-#EXTINF:-1,TeleVenezia
-http://89.248.174.133:8000/andres/andres/672593
-#EXTINF:-1,TG Com 24
-http://89.248.174.133:8000/andres/andres/672594
-#EXTINF:-1,TG Norba 24
-http://89.248.174.133:8000/andres/andres/672595
-#EXTINF:-1,TOP CALCIO 24
-http://89.248.174.133:8000/andres/andres/672596
-#EXTINF:-1,Top Crime HD
-http://89.248.174.133:8000/andres/andres/672597
-#EXTINF:-1,TOP Crime Mediaset HD
-http://89.248.174.133:8000/andres/andres/672598
-#EXTINF:-1,TORINO Channel HD
-http://89.248.174.133:8000/andres/andres/672599
-#EXTINF:-1,Totò Channel
-http://89.248.174.133:8000/andres/andres/672600
-#EXTINF:-1,TR Mia
-http://89.248.174.133:8000/andres/andres/672601
-#EXTINF:-1,TRM h24
-http://89.248.174.133:8000/andres/andres/672602
-#EXTINF:-1,TRM TV
-http://89.248.174.133:8000/andres/andres/672603
-#EXTINF:-1,TV 7 DIGITAL
-http://89.248.174.133:8000/andres/andres/672604
-#EXTINF:-1,TV 8 HD
-http://89.248.174.133:8000/andres/andres/672605
-#EXTINF:-1,Tv Avicenza
-http://89.248.174.133:8000/andres/andres/672606
-#EXTINF:-1,TV Qui Modena
-http://89.248.174.133:8000/andres/andres/672607
-#EXTINF:-1,TV SIENA
-http://89.248.174.133:8000/andres/andres/672608
-#EXTINF:-1,TV2000 HD
-http://89.248.174.133:8000/andres/andres/672609
-#EXTINF:-1,TVA
-http://89.248.174.133:8000/andres/andres/672610
-#EXTINF:-1,TVRS
-http://89.248.174.133:8000/andres/andres/672611
-#EXTINF:-1,TVRS Marche
-http://89.248.174.133:8000/andres/andres/672612
-#EXTINF:-1,Umbria TV
-http://89.248.174.133:8000/andres/andres/672613
-#EXTINF:-1,Unire Sat HD
-http://89.248.174.133:8000/andres/andres/672614
-#EXTINF:-1,VERA TV
-http://89.248.174.133:8000/andres/andres/672615
-#EXTINF:-1,VH1
-http://89.248.174.133:8000/andres/andres/672616
-#EXTINF:-1,VIDEO BRESCIA
-http://89.248.174.133:8000/andres/andres/672617
-#EXTINF:-1,Video Calabria
-http://89.248.174.133:8000/andres/andres/672618
-#EXTINF:-1,Video Star TV
-http://89.248.174.133:8000/andres/andres/672619
-#EXTINF:-1,Video Tolento
-http://89.248.174.133:8000/andres/andres/672620
-#EXTINF:-1,ViDEolina
-http://89.248.174.133:8000/andres/andres/672621
-#EXTINF:-1,Virgin Radio TV
-http://89.248.174.133:8000/andres/andres/672622
-#EXTINF:-1,Xee
-http://89.248.174.133:8000/andres/andres/672623
-#EXTINF:-1,YOYO
-http://89.248.174.133:8000/andres/andres/672624
-#EXTINF:-1,RADIO BRUNO TV
-http://89.248.174.133:8000/andres/andres/672347
-#EXTINF:-1,Radio Capital TV
-http://89.248.174.133:8000/andres/andres/672348
-#EXTINF:-1,RADIO CAPITAL TV DIRETTO
-http://89.248.174.133:8000/andres/andres/672349
-#EXTINF:-1,RADIO FRECCIA
-http://89.248.174.133:8000/andres/andres/672350
-#EXTINF:-1,Radio Iglesias Sardegna
-http://89.248.174.133:8000/andres/andres/672351
-#EXTINF:-1,RADIO ITALIA TV HD
-http://89.248.174.133:8000/andres/andres/672352
-#EXTINF:-1,Radio Lombardia TV
-http://89.248.174.133:8000/andres/andres/672353
-#EXTINF:-1,RADIO M20 TV
-http://89.248.174.133:8000/andres/andres/672354
-#EXTINF:-1,Radio Montecarlo TV
-http://89.248.174.133:8000/andres/andres/672355
-#EXTINF:-1,RADIO NORBA TV
-http://89.248.174.133:8000/andres/andres/672356
-#EXTINF:-1,RADIO NUMBER ONE TV
-http://89.248.174.133:8000/andres/andres/672357
-#EXTINF:-1,RADIO NUMBER ONE TV DIRETTO
-http://89.248.174.133:8000/andres/andres/672358
-#EXTINF:-1,RADIO ZETA TV
-http://89.248.174.133:8000/andres/andres/672359
-#EXTINF:-1,Rai 1 FHD
-http://89.248.174.133:8000/andres/andres/672360
-#EXTINF:-1,Rai 2 FHD
-http://89.248.174.133:8000/andres/andres/672361
-#EXTINF:-1,Rai 3 FHD
-http://89.248.174.133:8000/andres/andres/672362
-#EXTINF:-1,Rai 4 FHD
-http://89.248.174.133:8000/andres/andres/672363
-#EXTINF:-1,Rai 5 FHD
-http://89.248.174.133:8000/andres/andres/672364
-#EXTINF:-1,Rai Gulp FHD
-http://89.248.174.133:8000/andres/andres/672365
-#EXTINF:-1,Rai Italia HD
-http://89.248.174.133:8000/andres/andres/672366
-#EXTINF:-1,Rai Movie FHD
-http://89.248.174.133:8000/andres/andres/672367
-#EXTINF:-1,Rai Nettuno
-http://89.248.174.133:8000/andres/andres/672368
-#EXTINF:-1,Rai News 24 FHD
-http://89.248.174.133:8000/andres/andres/672369
-#EXTINF:-1,Rai Premium FHD
-http://89.248.174.133:8000/andres/andres/672370
-#EXTINF:-1,Rai Scuola HD
-http://89.248.174.133:8000/andres/andres/672371
-#EXTINF:-1,Rai Sport 1 HD
-http://89.248.174.133:8000/andres/andres/672372
-#EXTINF:-1,Rai SPORT 2 HD
-http://89.248.174.133:8000/andres/andres/672373
-#EXTINF:-1,RAI SPORT HD
-http://89.248.174.133:8000/andres/andres/672374
-#EXTINF:-1,Rai Sport plus
-http://89.248.174.133:8000/andres/andres/672375
-#EXTINF:-1,Rai Storia HD
-http://89.248.174.133:8000/andres/andres/672376
-#EXTINF:-1,Rai Sudtirol
-http://89.248.174.133:8000/andres/andres/672377
-#EXTINF:-1,Rai YoYo FHD
-http://89.248.174.133:8000/andres/andres/672378
-#EXTINF:-1,RDS Social TV
-http://89.248.174.133:8000/andres/andres/672379
-#EXTINF:-1,RDS TV
-http://89.248.174.133:8000/andres/andres/672380
-#EXTINF:-1,Real Giallo
-http://89.248.174.133:8000/andres/andres/672381
-#EXTINF:-1,REAL MADRID TV
-http://89.248.174.133:8000/andres/andres/672382
-#EXTINF:-1,Real Time +1
-http://89.248.174.133:8000/andres/andres/672383
-#EXTINF:-1,Real Time 1
-http://89.248.174.133:8000/andres/andres/672384
-#EXTINF:-1,Real Time FHD
-http://89.248.174.133:8000/andres/andres/672385
-#EXTINF:-1,Rete 4 FHD
-http://89.248.174.133:8000/andres/andres/672386
-#EXTINF:-1,Rete Biella TV
-http://89.248.174.133:8000/andres/andres/672387
-#EXTINF:-1,ReteSole Umbria
-http://89.248.174.133:8000/andres/andres/672388
-#EXTINF:-1,Roma Channel HD
-http://89.248.174.133:8000/andres/andres/672389
-#EXTINF:-1,Rossini TV
-http://89.248.174.133:8000/andres/andres/672390
-#EXTINF:-1,Rsi La 2 FHD
-http://89.248.174.133:8000/andres/andres/672391
-#EXTINF:-1,Rsi La1 FHD
-http://89.248.174.133:8000/andres/andres/672392
-#EXTINF:-1,RTC Calabria Channel
-http://89.248.174.133:8000/andres/andres/672393
-#EXTINF:-1,RTL 1025 TV
-http://89.248.174.133:8000/andres/andres/672394
-#EXTINF:-1,RTTR TV Trento
-http://89.248.174.133:8000/andres/andres/672395
-#EXTINF:-1,RTV Reggio
-http://89.248.174.133:8000/andres/andres/672396
-#EXTINF:-1,San Marino RTV
-http://89.248.174.133:8000/andres/andres/672397
-#EXTINF:-1,Sardegna 1
-http://89.248.174.133:8000/andres/andres/672398
-#EXTINF:-1,Sardegna Uno TV
-http://89.248.174.133:8000/andres/andres/672399
-#EXTINF:-1,Scuola di Polizia Channel
-http://89.248.174.133:8000/andres/andres/672400
-#EXTINF:-1,Senato TV
-http://89.248.174.133:8000/andres/andres/672401
-#EXTINF:-1,SKY 1 BEST BAKERY FHD
-http://89.248.174.133:8000/andres/andres/672402
-#EXTINF:-1,Sky 1 FHD
-http://89.248.174.133:8000/andres/andres/672403
-#EXTINF:-1,SKY ARTE HD
-http://89.248.174.133:8000/andres/andres/672404
-#EXTINF:-1,Sky Atlantic +1 HD
-http://89.248.174.133:8000/andres/andres/672405
-#EXTINF:-1,Sky Atlantic 1
-http://89.248.174.133:8000/andres/andres/672406
-#EXTINF:-1,Sky Atlantic FHD
-http://89.248.174.133:8000/andres/andres/672407
-#EXTINF:-1,SKY ATLANTIC MARATONA HD
-http://89.248.174.133:8000/andres/andres/672408
-#EXTINF:-1,SKY BABY
-http://89.248.174.133:8000/andres/andres/672409
-#EXTINF:-1,SKY BIKE Channel
-http://89.248.174.133:8000/andres/andres/672410
-#EXTINF:-1,SKY BLAZE
-http://89.248.174.133:8000/andres/andres/672411
-#EXTINF:-1,SKY BOOMERANG
-http://89.248.174.133:8000/andres/andres/672412
-#EXTINF:-1,Sky Caccia
-http://89.248.174.133:8000/andres/andres/672413
-#EXTINF:-1,SKY CACCIA E PESCA
-http://89.248.174.133:8000/andres/andres/672414
-#EXTINF:-1,SKY CALCIO 1 FHD
-http://89.248.174.133:8000/andres/andres/672415
-#EXTINF:-1,SKY CALCIO 2 FHD
-http://89.248.174.133:8000/andres/andres/672416
-#EXTINF:-1,SKY CALCIO 3 FHD
-http://89.248.174.133:8000/andres/andres/672417
-#EXTINF:-1,Sky Calcio 4 HD
-http://89.248.174.133:8000/andres/andres/672418
-#EXTINF:-1,SKY CALCIO 5 HD
-http://89.248.174.133:8000/andres/andres/672419
-#EXTINF:-1,Sky Calcio 6 HD
-http://89.248.174.133:8000/andres/andres/672420
-#EXTINF:-1,SKY CIELO
-http://89.248.174.133:8000/andres/andres/672421
-#EXTINF:-1,SKY CINEMA + 24
-http://89.248.174.133:8000/andres/andres/672422
-#EXTINF:-1,Sky Cinema +1 HD
-http://89.248.174.133:8000/andres/andres/672423
-#EXTINF:-1,Sky Cinema +24 FHD
-http://89.248.174.133:8000/andres/andres/672424
-#EXTINF:-1,Sky Cinema 1 +24
-http://89.248.174.133:8000/andres/andres/672425
-#EXTINF:-1,Sky Cinema 1 24
-http://89.248.174.133:8000/andres/andres/672426
-#EXTINF:-1,Sky Cinema 1 FHD
-http://89.248.174.133:8000/andres/andres/672427
-#EXTINF:-1,Sky Cinema 2 +24 FHD
-http://89.248.174.133:8000/andres/andres/672428
-#EXTINF:-1,Sky Cinema 2 24 FHD
-http://89.248.174.133:8000/andres/andres/672429
-#EXTINF:-1,Sky Cinema 2 FHD
-http://89.248.174.133:8000/andres/andres/672430
-#EXTINF:-1,Sky Cinema Action 1 HD
-http://89.248.174.133:8000/andres/andres/672431
-#EXTINF:-1,SKY CINEMA ACTION FHD
-http://89.248.174.133:8000/andres/andres/672432
-#EXTINF:-1,SKY CINEMA CLASSIC HD
-http://89.248.174.133:8000/andres/andres/672433
-#EXTINF:-1,Sky Cinema Collection +1 HD
-http://89.248.174.133:8000/andres/andres/672434
-#EXTINF:-1,Sky Cinema Collection FHD
-http://89.248.174.133:8000/andres/andres/672435
-#EXTINF:-1,Sky Cinema Comedy FHD
-http://89.248.174.133:8000/andres/andres/672436
-#EXTINF:-1,Sky Cinema Cult HD
-http://89.248.174.133:8000/andres/andres/672437
-#EXTINF:-1,Sky Cinema Drama FHD
-http://89.248.174.133:8000/andres/andres/672438
-#EXTINF:-1,SKY CINEMA DUE +24
-http://89.248.174.133:8000/andres/andres/672439
-#EXTINF:-1,SKY CINEMA DUE 24 HD
-http://89.248.174.133:8000/andres/andres/672440
-#EXTINF:-1,Sky Cinema Due HD
-http://89.248.174.133:8000/andres/andres/672441
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://89.248.174.133:8000/andres/andres/672442
-#EXTINF:-1,Sky Cinema Family 1 HD
-http://89.248.174.133:8000/andres/andres/672443
-#EXTINF:-1,Sky Cinema Family FHD
-http://89.248.174.133:8000/andres/andres/672444
-#EXTINF:-1,Sky CINEMA MAX HD
-http://89.248.174.133:8000/andres/andres/672445
-#EXTINF:-1,Sky Cinema Passion HD
-http://89.248.174.133:8000/andres/andres/672446
-#EXTINF:-1,QVC HD
-http://89.248.174.133:8000/andres/andres/672346
-#EXTINF:-1,Quarta Rete TV
-http://89.248.174.133:8000/andres/andres/672345
-#EXTINF:-1,Primocanale TV
-http://89.248.174.133:8000/andres/andres/672344
-#EXTINF:-1,Primocanale Liguria
-http://89.248.174.133:8000/andres/andres/672343
-#EXTINF:-1,Primafila 15 HD
-http://89.248.174.133:8000/andres/andres/672342
-#EXTINF:-1,Primafila 12 HD
-http://89.248.174.133:8000/andres/andres/672340
-#EXTINF:-1,Primafila 11 HD
-http://89.248.174.133:8000/andres/andres/672339
-#EXTINF:-1,Primafila 10 HD
-http://89.248.174.133:8000/andres/andres/672338
-#EXTINF:-1,Primafila 13 HD
-http://89.248.174.133:8000/andres/andres/672341
-#EXTINF:-1,PrimaFila 9 HD
-http://89.248.174.133:8000/andres/andres/672337
-#EXTINF:-1,Primafila 8 HD
-http://89.248.174.133:8000/andres/andres/672336
-#EXTINF:-1,Primafila 7 HD
-http://89.248.174.133:8000/andres/andres/672335
-#EXTINF:-1,PRIMAFILA 6 HD
-http://89.248.174.133:8000/andres/andres/672334
-#EXTINF:-1,Primafila 5 HD
-http://89.248.174.133:8000/andres/andres/672333
-#EXTINF:-1,Primafila 4 HD
-http://89.248.174.133:8000/andres/andres/672332
-#EXTINF:-1,Primafila 3 HD
-http://89.248.174.133:8000/andres/andres/672331
-#EXTINF:-1,Primafila 2 HD
-http://89.248.174.133:8000/andres/andres/672330
-#EXTINF:-1,Primafila 1 HD
-http://89.248.174.133:8000/andres/andres/672329
-#EXTINF:-1,Premium Studio Universal
-http://89.248.174.133:8000/andres/andres/672328
-#EXTINF:-1,Premium Stories HD
-http://89.248.174.133:8000/andres/andres/672327
-#EXTINF:-1,Premium Stories 24
-http://89.248.174.133:8000/andres/andres/672326
-#EXTINF:-1,PREMIUM PARAMOUNT
-http://89.248.174.133:8000/andres/andres/672325
-#EXTINF:-1,Premium Joy HD
-http://89.248.174.133:8000/andres/andres/672324
-#EXTINF:-1,PREMIUM CRIME FHD
-http://89.248.174.133:8000/andres/andres/672321
-#EXTINF:-1,Premium Energy FHD
-http://89.248.174.133:8000/andres/andres/672323
-#EXTINF:-1,PREMIUM EMOTION HD
-http://89.248.174.133:8000/andres/andres/672322
-#EXTINF:-1,Premium Crime +24
-http://89.248.174.133:8000/andres/andres/672320
-#EXTINF:-1,Premium Comedy HD
-http://89.248.174.133:8000/andres/andres/672319
-#EXTINF:-1,PREMIUM CINEMA STORIES
-http://89.248.174.133:8000/andres/andres/672318
-#EXTINF:-1,PREMIUM CINEMA ENERGY HD
-http://89.248.174.133:8000/andres/andres/672316
-#EXTINF:-1,PREMIUM CINEMA EMOTION FHD
-http://89.248.174.133:8000/andres/andres/672315
-#EXTINF:-1,PREMIUM CINEMA CRIME HD
-http://89.248.174.133:8000/andres/andres/672314
-#EXTINF:-1,PREMIUM CINEMA COMEDY HD
-http://89.248.174.133:8000/andres/andres/672313
-#EXTINF:-1,PREMIUM CINEMA ACTION HD
-http://89.248.174.133:8000/andres/andres/672312
-#EXTINF:-1,Premium Cinema Action 24
-http://89.248.174.133:8000/andres/andres/672311
-#EXTINF:-1,Premium Cinema 24 HD
-http://89.248.174.133:8000/andres/andres/672310
-#EXTINF:-1,PREMIUM CINEMA 2 HD
-http://89.248.174.133:8000/andres/andres/672309
-#EXTINF:-1,Premium Cinema +24
-http://89.248.174.133:8000/andres/andres/672308
-#EXTINF:-1,Premium Calcio 3 HD
-http://89.248.174.133:8000/andres/andres/672306
-#EXTINF:-1,Premium Calcio 1 HD
-http://89.248.174.133:8000/andres/andres/672305
-#EXTINF:-1,Premium Action FHD
-http://89.248.174.133:8000/andres/andres/672304
-#EXTINF:-1,PREMIUM 20 HD
-http://89.248.174.133:8000/andres/andres/672303
-#EXTINF:-1,Paramount Network HD
-http://89.248.174.133:8000/andres/andres/672302
-#EXTINF:-1,Paramount Channel Ita
-http://89.248.174.133:8000/andres/andres/672301
+https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
+#EXTINF:-1,La Tr3
+https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
+#EXTINF:-1,La7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+#EXTINF:-1,LaC TV
+http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1,MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,Orler TV
-http://89.248.174.133:8000/andres/andres/672298
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1,Otto FM TV
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+#EXTINF:-1,Otto FM TV
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1,Padre Pio TV
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+#EXTINF:-1,Paradise TV
+https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
+#EXTINF:-1,Partenope TV
+https://live.puglia.net:8080/live/partenopetv/index.m3u8
+#EXTINF:-1,Pescara TV
+http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
+#EXTINF:-1,Prima Tivvu
+https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8
+#EXTINF:-1,Prima Tivvu
+https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8
+#EXTINF:-1,Prima TV
+http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
+#EXTINF:-1,Primocanale Liguria
+http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1,QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1,Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1,Radio Bruno
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1,Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Freccia
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1,Radio Lombardia TV
+https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+#EXTINF:-1,Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1,Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1,Radio Siena TV
+http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
+#EXTINF:-1,Radio Taormina
+http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Radio Zeta TV
+https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:-1,Radionorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1,Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1,Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1,Rai 5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai 5
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1,Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
+#EXTINF:-1,Rai YoYo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1,RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:-1,ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1,Retesole Lazio
+http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
+#EXTINF:-1,Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
+#EXTINF:-1,RMK TV Sciacca
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+#EXTINF:-1,RMM TV
+http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
+#EXTINF:-1,RTC Quarta Rete
+http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
+#EXTINF:-1,RTC Telecalabria
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1,RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1,RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
+#EXTINF:-1,RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1,RTL 102.5 TV
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+#EXTINF:-1,RTP
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1,RTR 99 TV
+https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8
+#EXTINF:-1,RTTR
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1,RTV Sport (San Marino)
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
+#EXTINF:-1,Sardegna Uno
+https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
+#EXTINF:-1,Senato della Repubblica
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:-1,Skyline TV Radio &amp; Soul
+http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
+#EXTINF:-1,Sophia TV
+https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8
+#EXTINF:-1,Super TV Brescia
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
+#EXTINF:-1,Tele One
+http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
+#EXTINF:-1,TeleBoario
+http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
+#EXTINF:-1,Telechiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1,Telecitta
+http://213.187.12.18/live/tv1.m3u8
+#EXTINF:-1,Telecitta
+http://213.187.12.18:80/live/tv1.m3u8
+#EXTINF:-1,Telecolor Lombardia
+https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1,Telefoggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1,Telefriuli
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:-1,Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1,Telemantova
+https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1,TeleMia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1,Telemolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
+#EXTINF:-1,TeleMonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1,TeleNordest
+http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8
+#EXTINF:-1,TeleNordest
+https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1,Teleonda
+https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8
+#EXTINF:-1,TeleQuattro
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
+#EXTINF:-1,TeleRama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1,Teleromagna
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:-1,Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1,Telesud Trapani
+https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1,TeleTerni
+https://diretta.teleterni.it/live/stream_src.m3u8
+#EXTINF:-1,TeleTicino
+https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
+#EXTINF:-1,Teletricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1,Teleuniverso
+https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/chunklist_w1494799728.m3u8
+#EXTINF:-1,TeleVideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
+#EXTINF:-1,Tevere TV
+https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
+#EXTINF:-1,TLN Tele Lazio Nord
+http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
+#EXTINF:-1,TR Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1,TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,TSN Livigno
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:-1,TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1,TV Campane 1 (Napoli)
+http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8
+#EXTINF:-1,Tv Luna
+http://live.sloode.com:1935/teleluna/live/playlist.m3u8
+#EXTINF:-1,TV Qui (Modena)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1,TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,TV2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,TV2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:-1,TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1,TV7 Triveneta
+http://217.61.26.46:8080/hls/triveneta.m3u8
+#EXTINF:-1,TVA (Vicenza)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1,TVL Toscana
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,Vera TV (Marche)
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1,Vera TV Marche
+http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
+#EXTINF:-1,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:-1,Video Mediterraneo
+http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
+#EXTINF:-1,Videolina (Sardegna)
+http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
+#EXTINF:-1,Videolina (Sardegna)
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1,Videostar TV (Lombardia)
+http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
