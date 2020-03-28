@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PmX9Ca3.png" group-title="",Aghani
+http://livecdnh1.tvanywhere.ae/hls/aghani/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PmX9Ca3.png" group-title="",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="",Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/02.m3u8
@@ -21,6 +23,8 @@ http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Arabica Music ARB" tvg-name="Arabica Music ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="Music",Arabica Music
 http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1 tvg-id="Arabica Music ARB" tvg-name="Arabica Music ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="Music",Arabica Music
+http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Religious",Assirat TV
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="Religious",CharityTV
@@ -72,6 +76,6 @@ https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="Kids",Taha TV
 http://95.170.215.109/hls/TAHA-Backup-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="Kids",Taha TV
-http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
+http://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
