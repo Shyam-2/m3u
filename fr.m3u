@@ -1,135 +1,1475 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",D5TV
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
-https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://bit.ly/2zOVkbF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",France 24 (ENG)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-language="French" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",Lèeekô TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="",MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="",Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+#EXTM3U
+#EXTINF:-1,TF1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39476.m3u8
+#EXTINF:-1,TF1  1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39475.m3u8
+#EXTINF:-1,FRANCE 2 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39474.m3u8
+#EXTINF:-1,FRANCE 3 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39473.m3u8
+#EXTINF:-1,FRANCE 4 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39472.m3u8
+#EXTINF:-1,FRANCE 5 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39471.m3u8
+#EXTINF:-1,M6 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39470.m3u8
+#EXTINF:-1,ARTE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39469.m3u8
+#EXTINF:-1,CANAL +  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39442.m3u8
+#EXTINF:-1,CANAL  CINEMA (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39441.m3u8
+#EXTINF:-1,CANAL  SPORT (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39437.m3u8
+#EXTINF:-1,CANAL  SERIES (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39438.m3u8
+#EXTINF:-1,CANAL  FAMILY (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39439.m3u8
+#EXTINF:-1,CANAL  DECALE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39440.m3u8
+#EXTINF:-1,CINE  PREMIER (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39436.m3u8
+#EXTINF:-1,CINE  FRISSON (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39433.m3u8
+#EXTINF:-1,CINE  EMOTION (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39435.m3u8
+#EXTINF:-1,CINE  FAMIZ (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39434.m3u8
+#EXTINF:-1,CINE  CLUB (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39432.m3u8
+#EXTINF:-1,CINE  CLASSIC (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39431.m3u8
+#EXTINF:-1,OCS MAX (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39422.m3u8
+#EXTINF:-1,OCS CITY (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39424.m3u8
+#EXTINF:-1,OCS CHOC (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39423.m3u8
+#EXTINF:-1,OCS GEANTS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39425.m3u8
+#EXTINF:-1,DISNEY CINEMA (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39524.m3u8
+#EXTINF:-1,TCM CINEMA (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39428.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39427.m3u8
+#EXTINF:-1,ALTICE STUDIO (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39430.m3u8
+#EXTINF:-1,CRIME DISTRICT (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39536.m3u8
+#EXTINF:-1,COMEDIE  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39418.m3u8
+#EXTINF:-1,POLAR  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39421.m3u8
+#EXTINF:-1,13EME RUE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39419.m3u8
+#EXTINF:-1,WARNER TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39429.m3u8
+#EXTINF:-1,SYFY (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39412.m3u8
+#EXTINF:-1,SERIE CLUB (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39414.m3u8
+#EXTINF:-1,ELLE GIRLS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39546.m3u8
+#EXTINF:-1,NON STOP PEOPLE TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39543.m3u8
+#EXTINF:-1,NOVELAS TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39541.m3u8
+#EXTINF:-1,E! ENTERTAINMENT (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39545.m3u8
+#EXTINF:-1,GAME ONE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39505.m3u8
+#EXTINF:-1,J-ONE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39506.m3u8
+#EXTINF:-1,MANGAS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39507.m3u8
+#EXTINF:-1,AB1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39411.m3u8
+#EXTINF:-1,AB3 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39410.m3u8
+#EXTINF:-1,TV BREIZH (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39548.m3u8
+#EXTINF:-1,TEVA (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39413.m3u8
+#EXTINF:-1,PARIS PREMIERE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39416.m3u8
+#EXTINF:-1,RTL9 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39415.m3u8
+#EXTINF:-1,BET (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39547.m3u8
+#EXTINF:-1,C8 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39468.m3u8
+#EXTINF:-1,W9 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39467.m3u8
+#EXTINF:-1,TMC (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39466.m3u8
+#EXTINF:-1,TFX (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39464.m3u8
+#EXTINF:-1,NRJ 12 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39463.m3u8
+#EXTINF:-1,CSTAR (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39448.m3u8
+#EXTINF:-1,TF1 SERIES / FILMS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39449.m3u8
+#EXTINF:-1,6TER (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39446.m3u8
+#EXTINF:-1,RMC DECOUVERTE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39444.m3u8
+#EXTINF:-1,CHERIE 25 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39443.m3u8
+#EXTINF:-1,MYZEN TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39487.m3u8
+#EXTINF:-1,PLANETE  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39539.m3u8
+#EXTINF:-1,PLANETE  CI (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39537.m3u8
+#EXTINF:-1,PLANETE+  A&E (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39538.m3u8
+#EXTINF:-1,VICELAND TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39542.m3u8
+#EXTINF:-1,NATIONAL GEO (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39530.m3u8
+#EXTINF:-1,NATIONAL GEO WILD (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39529.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39535.m3u8
+#EXTINF:-1,DISCOVERY SCIENCES (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39532.m3u8
+#EXTINF:-1,DISCOVERY FAMILY (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39534.m3u8
+#EXTINF:-1,MY CUISINE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39540.m3u8
+#EXTINF:-1,USHUAIA TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39531.m3u8
+#EXTINF:-1,HISTOIRE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39527.m3u8
+#EXTINF:-1,SCIENCE & VIE TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39528.m3u8
+#EXTINF:-1,ANIMAUX (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39526.m3u8
+#EXTINF:-1,AEROSTAR.TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39488.m3u8
+#EXTINF:-1,LA CHAINE METEO (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39462.m3u8
+#EXTINF:-1,CNEWS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39455.m3u8
+#EXTINF:-1,BFM TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39461.m3u8
+#EXTINF:-1,LCI (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39458.m3u8
+#EXTINF:-1,FRANCE INFO (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39457.m3u8
+#EXTINF:-1,EURONEWS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39456.m3u8
+#EXTINF:-1,BFM BUSINESS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39459.m3u8
+#EXTINF:-1,RMC NEWS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39504.m3u8
+#EXTINF:-1,RMC SPORT 1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39503.m3u8
+#EXTINF:-1,RMC SPORT 2 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39502.m3u8
+#EXTINF:-1,RMC SPORT 3 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39501.m3u8
+#EXTINF:-1,RMC SPORT 4 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39500.m3u8
+#EXTINF:-1,BEIN SPORT 1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39499.m3u8
+#EXTINF:-1,BEIN SPORT 2(SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39498.m3u8
+#EXTINF:-1,BEIN SPORT 3 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39497.m3u8
+#EXTINF:-1,INFOSPORT  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39496.m3u8
+#EXTINF:-1,EUROSPORT 1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39494.m3u8
+#EXTINF:-1,EUROSPORT 2 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39493.m3u8
+#EXTINF:-1,AUTOMOTO LA CHAINE (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39490.m3u8
+#EXTINF:-1,EQUIDIA (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39492.m3u8
+#EXTINF:-1,GOLF  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39489.m3u8
+#EXTINF:-1,FOOT  24/24 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39491.m3u8
+#EXTINF:-1,BABY TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39517.m3u8
+#EXTINF:-1,DISNEY JUNIOR (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39523.m3u8
+#EXTINF:-1,PIWI  (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39515.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39519.m3u8
+#EXTINF:-1,TIJI (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39514.m3u8
+#EXTINF:-1,BOOMERANG (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39510.m3u8
+#EXTINF:-1,CARTOON NETWORK (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39508.m3u8
+#EXTINF:-1,NICKELODEON CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39521.m3u8
+#EXTINF:-1,TELETOON  1 (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39512.m3u8
+#EXTINF:-1,TELETOON (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39513.m3u8
+#EXTINF:-1,DISNEY XD (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39522.m3u8
+#EXTINF:-1,CANAL J (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39518.m3u8
+#EXTINF:-1,BOING (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39511.m3u8
+#EXTINF:-1,TOONAMI (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39509.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39520.m3u8
+#EXTINF:-1,DISNEY CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39525.m3u8
+#EXTINF:-1,GULLI (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39516.m3u8
+#EXTINF:-1,OKLM TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39480.m3u8
+#EXTINF:-1,CLIQUE TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39484.m3u8
+#EXTINF:-1,CSTAR HITS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39447.m3u8
+#EXTINF:-1,MTV HITS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39485.m3u8
+#EXTINF:-1,M6 MUSIC (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39481.m3u8
+#EXTINF:-1,NRJ HITS TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39479.m3u8
+#EXTINF:-1,TRACE URBAN (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39482.m3u8
+#EXTINF:-1,MELODY TV (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39478.m3u8
+#EXTINF:-1,VIA GRAND PARIS (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39452.m3u8
+#EXTINF:-1,TRACE TROPICAL (SD)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39483.m3u8
+#EXTINF:-1,TF1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13847.m3u8
+#EXTINF:-1,TF1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13917.m3u8
+#EXTINF:-1,TF1 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13817.m3u8
+#EXTINF:-1,FRANCE 2 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13739.m3u8
+#EXTINF:-1,FRANCE 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13916.m3u8
+#EXTINF:-1,FRANCE 2 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1007.m3u8
+#EXTINF:-1,FRANCE 3 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13738.m3u8
+#EXTINF:-1,FRANCE 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13915.m3u8
+#EXTINF:-1,FRANCE 3 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1008.m3u8
+#EXTINF:-1,FRANCE 4 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13737.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13914.m3u8
+#EXTINF:-1,FRANCE 4 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1009.m3u8
+#EXTINF:-1,FRANCE 5 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13736.m3u8
+#EXTINF:-1,FRANCE 5 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13913.m3u8
+#EXTINF:-1,FRANCE 5 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1013.m3u8
+#EXTINF:-1,FRANCE Ô HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13735.m3u8
+#EXTINF:-1,FRANCE Ô SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1021.m3u8
+#EXTINF:-1,M6 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13726.m3u8
+#EXTINF:-1,M6 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14003.m3u8
+#EXTINF:-1,M6 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/90.m3u8
+#EXTINF:-1,PARIS PREMIERE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13824.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13993.m3u8
+#EXTINF:-1,PARIS PREMIERE SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1030.m3u8
+#EXTINF:-1,TMC FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13696.m3u8
+#EXTINF:-1,TMC HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13979.m3u8
+#EXTINF:-1,TMC SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1014.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13693.m3u8
+#EXTINF:-1,TV BREIZH FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13975.m3u8
+#EXTINF:-1,TV BREIZH SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1032.m3u8
+#EXTINF:-1,6TER FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13793.m3u8
+#EXTINF:-1,6TER HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14046.m3u8
+#EXTINF:-1,6TER SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1024.m3u8
+#EXTINF:-1,ARTE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13788.m3u8
+#EXTINF:-1,ARTE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14043.m3u8
+#EXTINF:-1,ARTE SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/426.m3u8
+#EXTINF:-1,•----• CINEMA FRANCE •----• |FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24927.m3u8
+#EXTINF:-1,CANAL + FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14157.m3u8
+#EXTINF:-1,CANAL+ HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14167.m3u8
+#EXTINF:-1,CANAL + SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28345.m3u8
+#EXTINF:-1,CANAL + DECALE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13768.m3u8
+#EXTINF:-1,CANAL + DECALE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14035.m3u8
+#EXTINF:-1,CANAL + DECALE SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28346.m3u8
+#EXTINF:-1,CANAL + FAMILY FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13767.m3u8
+#EXTINF:-1,CANAL + FAMILY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/61011.m3u8
+#EXTINF:-1,CANAL + FAMILY SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14033.m3u8
+#EXTINF:-1,CANAL + CINEMA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13769.m3u8
+#EXTINF:-1,CANAL + CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28942.m3u8
+#EXTINF:-1,CANAL + CINEMA SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28347.m3u8
+#EXTINF:-1,OCS MAX FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13825.m3u8
+#EXTINF:-1,OCS MAX HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13996.m3u8
+#EXTINF:-1,OCS MAX SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/38198.m3u8
+#EXTINF:-1,OCS GEANTS FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13833.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13846.m3u8
+#EXTINF:-1,OCS GEANT SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/38199.m3u8
+#EXTINF:-1,OCS CITY FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13827.m3u8
+#EXTINF:-1,OCS CITY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13994.m3u8
+#EXTINF:-1,OCS CITY SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/38200.m3u8
+#EXTINF:-1,OCS CHOC FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13834.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13995.m3u8
+#EXTINF:-1,OCS CHOC SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/38201.m3u8
+#EXTINF:-1,CINE+ PREMIER FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13759.m3u8
+#EXTINF:-1,CINE+ PREMIER HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14021.m3u8
+#EXTINF:-1,CINE+ PREMIER SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28332.m3u8
+#EXTINF:-1,CINE+ FRISSON FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13754.m3u8
+#EXTINF:-1,CINE+ FRISSON HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14023.m3u8
+#EXTINF:-1,CINE+ FRISSON SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28331.m3u8
+#EXTINF:-1,CINE+ FAMIZ FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13755.m3u8
+#EXTINF:-1,CINE+ FAMIZ HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13941.m3u8
+#EXTINF:-1,CINE+ FAMIZ SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28329.m3u8
+#EXTINF:-1,CINE+ EMOTION FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13756.m3u8
+#EXTINF:-1,CINE+ EMOTION HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14024.m3u8
+#EXTINF:-1,CINE+ EMOTION SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28330.m3u8
+#EXTINF:-1,CINE+ CLUB FHD 
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47556.m3u8
+#EXTINF:-1,CINE+ CLUB HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14025.m3u8
+#EXTINF:-1,CINE+ CLUB SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28328.m3u8
+#EXTINF:-1,ACTION FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13790.m3u8
+#EXTINF:-1,ACTION HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14045.m3u8
+#EXTINF:-1,ACTION SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28334.m3u8
+#EXTINF:-1,WARNER TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13784.m3u8
+#EXTINF:-1,POLAR+  FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13763.m3u8
+#EXTINF:-1,POLAR+ HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25041.m3u8
+#EXTINF:-1,TCM CINEMA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13697.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13980.m3u8
+#EXTINF:-1,TCM CINEMA SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28337.m3u8
+#EXTINF:-1,CINE+ CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13758.m3u8
+#EXTINF:-1,CINE+ CLASSIC HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14026.m3u8
+#EXTINF:-1,CINE+ CLASSIC SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28327.m3u8
+#EXTINF:-1,ALTICE STUDIO FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13787.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28413.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13713.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13911.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28340.m3u8
+#EXTINF:-1,PARAMOUNT DECALE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13829.m3u8
+#EXTINF:-1,PARAMOUNT DECALE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28339.m3u8
+#EXTINF:-1,CANALPLAY 1 
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13970.m3u8
+#EXTINF:-1,CANALPLAY 2 
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13962.m3u8
+#EXTINF:-1,CANALPLAY 3 
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13961.m3u8
+#EXTINF:-1,CANALPLAY 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13960.m3u8
+#EXTINF:-1,CANALPLAY 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13959.m3u8
+#EXTINF:-1,CANALPLAY 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13958.m3u8
+#EXTINF:-1,CANALPLAY 7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13957.m3u8
+#EXTINF:-1,CANALPLAY 8
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13956.m3u8
+#EXTINF:-1,CANALPLAY 9
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13955.m3u8
+#EXTINF:-1,CANALPLAY 10
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13969.m3u8
+#EXTINF:-1,CANALPLAY 11
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13968.m3u8
+#EXTINF:-1,CANALPLAY 12
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13967.m3u8
+#EXTINF:-1,CANALPLAY 13
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13966.m3u8
+#EXTINF:-1,CANALPLAY 14
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13965.m3u8
+#EXTINF:-1,CANALPLAY 15
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13964.m3u8
+#EXTINF:-1,CANALPLAY 16
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13963.m3u8
+#EXTINF:-1,•----• ORANGE CINE •----• |FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24928.m3u8
+#EXTINF:-1,ORANGE CINE (Série: The Witcher 24/7)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13926.m3u8
+#EXTINF:-1,ORANGE CINE 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13925.m3u8
+#EXTINF:-1,ORANGE CINE 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13924.m3u8
+#EXTINF:-1,ORANGE CINE 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13923.m3u8
+#EXTINF:-1,ORANGE CINE 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13922.m3u8
+#EXTINF:-1,ORANGE CINE 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13921.m3u8
+#EXTINF:-1,ORANGE CINE 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13920.m3u8
+#EXTINF:-1,ORANGE CINE 7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13919.m3u8
+#EXTINF:-1,ORANGE CINE 8
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13918.m3u8
+#EXTINF:-1,ALACARTE 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13949.m3u8
+#EXTINF:-1,ALACARTE 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13947.m3u8
+#EXTINF:-1,ALACARTE 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13946.m3u8
+#EXTINF:-1,ALACARTE 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13945.m3u8
+#EXTINF:-1,ALACARTE 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13954.m3u8
+#EXTINF:-1,ALACARTE 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13953.m3u8
+#EXTINF:-1,ALACARTE 7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13952.m3u8
+#EXTINF:-1,ALACARTE 8
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13951.m3u8
+#EXTINF:-1,ALACARTE 9
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13950.m3u8
+#EXTINF:-1,ALACARTE 10
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13948.m3u8
+#EXTINF:-1,•------• SPORT FRANCE •------•  
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24929.m3u8
+#EXTINF:-1,RMC SPORT NEWS FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35031.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32713.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32718.m3u8
+#EXTINF:-1,RMC SPORT 1 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39589.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37931.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32714.m3u8
+#EXTINF:-1,RMC SPORT 2HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32719.m3u8
+#EXTINF:-1,RMC SPORT 2 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39588.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37930.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32715.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32720.m3u8
+#EXTINF:-1,RMC SPORT 3 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39587.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37929.m3u8
+#EXTINF:-1,RMC SPORT 4 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32716.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32721.m3u8
+#EXTINF:-1,RMC SPORT 4K
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37942.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32717.m3u8
+#EXTINF:-1,RMC SPORT LIVE 6 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37941.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37940.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37939.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37938.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37937.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37936.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37935.m3u8
+#EXTINF:-1,RMC SPORT LIVE 13 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37934.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37933.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/37932.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35340.m3u8
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14160.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28941.m3u8
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/92.m3u8
+#EXTINF:-1,BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14159.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28943.m3u8
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/93.m3u8
+#EXTINF:-1,BEIN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14158.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14163.m3u8
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/94.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/95.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39882.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1089.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1113.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 8
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1468.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 9
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1469.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 10
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1470.m3u8
+#EXTINF:-1,CANAL+ SPORT FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14156.m3u8
+#EXTINF:-1,CANAL+ SPORT HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14161.m3u8
+#EXTINF:-1,FOOT+ 24/24 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13937.m3u8
+#EXTINF:-1,FOOT+ 24/24 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/425.m3u8
+#EXTINF:-1,CANAL+ SPORT SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13936.m3u8
+#EXTINF:-1,MULTISPORTS 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13807.m3u8
+#EXTINF:-1,MULTISPORTS 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13802.m3u8
+#EXTINF:-1,MULTISPORTS 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13806.m3u8
+#EXTINF:-1,MULTISPORTS 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13805.m3u8
+#EXTINF:-1,MULTISPORTS 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13804.m3u8
+#EXTINF:-1,MULTISPORTS 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13803.m3u8
+#EXTINF:-1,NBA TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/46216.m3u8
+#EXTINF:-1,FOOT+ 24/24 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13797.m3u8
+#EXTINF:-1,BFM HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13839.m3u8
+#EXTINF:-1,INFOSPORT FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13729.m3u8
+#EXTINF:-1,LEQUIPE 21 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13728.m3u8
+#EXTINF:-1,EQUIPE 21 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1023.m3u8
+#EXTINF:-1,OL TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13842.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13740.m3u8
+#EXTINF:-1,AUTOMOTO  HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1035.m3u8
+#EXTINF:-1,MOTORSPORT HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13782.m3u8
+#EXTINF:-1,MOTORSPORT FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13722.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13742.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14011.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13741.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14010.m3u8
+#EXTINF:-1,l'equipe 21 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13743.m3u8
+#EXTINF:-1,EQUIDIA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14012.m3u8
+#EXTINF:-1,FRANCE Ô FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/89.m3u8
+#EXTINF:-1,LUCKY JACK HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/42548.m3u8
+#EXTINF:-1,•------• SPORT GOLF •------• |FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24930.m3u8
+#EXTINF:-1,GOLF+ FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13734.m3u8
+#EXTINF:-1,GOLF CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13689.m3u8
+#EXTINF:-1,GOLF CHANNELS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13977.m3u8
+#EXTINF:-1,•------• DIVERTISSEMENT •------•  
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24931.m3u8
+#EXTINF:-1,SERIE CLUB FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13830.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13986.m3u8
+#EXTINF:-1,CANAL+ SERIES FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13766.m3u8
+#EXTINF:-1,CANAL + SERIES HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28944.m3u8
+#EXTINF:-1,13EME RUE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13794.m3u8
+#EXTINF:-1,13EME RUE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14048.m3u8
+#EXTINF:-1,SYFY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13981.m3u8
+#EXTINF:-1,SYFY FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13698.m3u8
+#EXTINF:-1,SUNDANCE TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13733.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28338.m3u8
+#EXTINF:-1,TEVA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35331.m3u8
+#EXTINF:-1,TEVA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25039.m3u8
+#EXTINF:-1,TEVA SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1031.m3u8
+#EXTINF:-1,COMEDIE+ FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13751.m3u8
+#EXTINF:-1,COMEDIE  HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14019.m3u8
+#EXTINF:-1,MY CUISINE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13781.m3u8
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13746.m3u8
+#EXTINF:-1,E! ENTERTAINEMENT HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14015.m3u8
+#EXTINF:-1,NO STOP PEOPLE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13780.m3u8
+#EXTINF:-1,NON STOP PEOPLE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13928.m3u8
+#EXTINF:-1,IL TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13934.m3u8
+#EXTINF:-1,NRJ12 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13717.m3u8
+#EXTINF:-1,NRJ12 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14047.m3u8
+#EXTINF:-1,NRJ12 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1019.m3u8
+#EXTINF:-1,ELLE GIRL FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13745.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14014.m3u8
+#EXTINF:-1,BET FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13841.m3u8
+#EXTINF:-1,VICELAND FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13772.m3u8
+#EXTINF:-1,TV 5 MONDE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25042.m3u8
+#EXTINF:-1,TV 5 monde
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1033.m3u8
+#EXTINF:-1,CHERIE 25 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13760.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14028.m3u8
+#EXTINF:-1,CHERIE 25 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1027.m3u8
+#EXTINF:-1,TF1 +1 fhd
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13732.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1022.m3u8
+#EXTINF:-1,C8 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13823.m3u8
+#EXTINF:-1,C8 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14036.m3u8
+#EXTINF:-1,C8 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/188.m3u8
+#EXTINF:-1,CSTAR FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13749.m3u8
+#EXTINF:-1,DIRECT8
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1091.m3u8
+#EXTINF:-1,CSTAR HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13940.m3u8
+#EXTINF:-1,AZUR TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25043.m3u8
+#EXTINF:-1,WEO FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13795.m3u8
+#EXTINF:-1,WEO HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25045.m3u8
+#EXTINF:-1,TV8 MONT BLANC FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13796.m3u8
+#EXTINF:-1,RTL9 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13707.m3u8
+#EXTINF:-1,RTL9 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13989.m3u8
+#EXTINF:-1,RTL9 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1029.m3u8
+#EXTINF:-1,A+  FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13695.m3u8
+#EXTINF:-1,RMC STORY FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13715.m3u8
+#EXTINF:-1,RMC STORY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13997.m3u8
+#EXTINF:-1,RMC STORY   SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1025.m3u8
+#EXTINF:-1,TFX FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13716.m3u8
+#EXTINF:-1,TFX HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13998.m3u8
+#EXTINF:-1,TFX SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1015.m3u8
+#EXTINF:-1,W9 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13690.m3u8
+#EXTINF:-1,W9 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13973.m3u8
+#EXTINF:-1,W9 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/421.m3u8
+#EXTINF:-1,LUXE TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1054.m3u8
+#EXTINF:-1,ALSACE 20
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25048.m3u8
+#EXTINF:-1,VOSGES
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1102.m3u8
+#EXTINF:-1,M6 BOUTIQUE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1097.m3u8
+#EXTINF:-1,FASHION TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1064.m3u8
+#EXTINF:-1,GONG
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24936.m3u8
+#EXTINF:-1,•------• DOCUMENTAIRE •------• |FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24961.m3u8
+#EXTINF:-1,PLANETE+ FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13712.m3u8
+#EXTINF:-1,PLANETE+  HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13991.m3u8
+#EXTINF:-1,PLANETE+ CI FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13710.m3u8
+#EXTINF:-1,PLANETE+  CI HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13992.m3u8
+#EXTINF:-1,PLANETE+ A&E FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13711.m3u8
+#EXTINF:-1,PLANETE+  A&E HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13971.m3u8
+#EXTINF:-1,DISCOVERY FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13748.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14017.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13747.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14016.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13836.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13828.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13811.m3u8
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25047.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13719.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14000.m3u8
+#EXTINF:-1,NATIONAL GEO FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13718.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13999.m3u8
+#EXTINF:-1,SCIENCES & VIE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13987.m3u8
+#EXTINF:-1,SCIENCES & VIE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13704.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13789.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14044.m3u8
+#EXTINF:-1,USHUAIA  FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13692.m3u8
+#EXTINF:-1,USHUAIA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13974.m3u8
+#EXTINF:-1,USHUAIA SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1055.m3u8
+#EXTINF:-1,ULTRA NATURE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25049.m3u8
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13708.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13990.m3u8
+#EXTINF:-1,RMC STORY SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1026.m3u8
+#EXTINF:-1,VOYAGE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13691.m3u8
+#EXTINF:-1,VOYAGE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13972.m3u8
+#EXTINF:-1,TREK FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13694.m3u8
+#EXTINF:-1,TREK HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13976.m3u8
+#EXTINF:-1,CHASSE&PECHE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13837.m3u8
+#EXTINF:-1,CHASSE & PECHE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14029.m3u8
+#EXTINF:-1,SEASON FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13703.m3u8
+#EXTINF:-1,SEASON HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13988.m3u8
+#EXTINF:-1,CAMPAGNE TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13942.m3u8
+#EXTINF:-1,CRIME DISTRICT FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13750.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14018.m3u8
+#EXTINF:-1,MUSEUM CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13714.m3u8
+#EXTINF:-1,HISTOIRE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13731.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14007.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13832.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25050.m3u8
+#EXTINF:-1,HISTOIRE SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1056.m3u8
+#EXTINF:-1,|FR|***FRANCE INFO***|FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24963.m3u8
+#EXTINF:-1,LA CHAINE METEO FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13783.m3u8
+#EXTINF:-1,EURONEWS FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13835.m3u8
+#EXTINF:-1,EURONEWS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13938.m3u8
+#EXTINF:-1,FRANCE 24 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/162.m3u8
+#EXTINF:-1,BFM TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13770.m3u8
+#EXTINF:-1,BFM TV HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14039.m3u8
+#EXTINF:-1,BFM TV SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/424.m3u8
+#EXTINF:-1,BFM BUISINESS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1045.m3u8
+#EXTINF:-1,LCI FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13727.m3u8
+#EXTINF:-1,LCI SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1042.m3u8
+#EXTINF:-1,LCP FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13809.m3u8
+#EXTINF:-1,LCP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1016.m3u8
+#EXTINF:-1,LCP100%
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1046.m3u8
+#EXTINF:-1,CNEWS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14020.m3u8
+#EXTINF:-1,CNEWS SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1017.m3u8
+#EXTINF:-1,FRANCE INFO HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13935.m3u8
+#EXTINF:-1,FRANCE INFO SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1917.m3u8
+#EXTINF:-1,TV5 MONDE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25051.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25052.m3u8
+#EXTINF:-1,I24 NEWS FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13730.m3u8
+#EXTINF:-1,i24 NEWS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1050.m3u8
+#EXTINF:-1,RT FRANCE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35341.m3u8
+#EXTINF:-1,|FR|***MUSSIC***|FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24964.m3u8
+#EXTINF:-1,M6 MUSIC FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13826.m3u8
+#EXTINF:-1,TRACE URBAIN HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13844.m3u8
+#EXTINF:-1,TRACE URBAIN
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13978.m3u8
+#EXTINF:-1,TRACE URBAIN FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1099.m3u8
+#EXTINF:-1,TRACE URBAN INTER
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/9127.m3u8
+#EXTINF:-1,TRACE TROPICAL HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/9128.m3u8
+#EXTINF:-1,TRACE AFRICA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13771.m3u8
+#EXTINF:-1,TRACE AFRICA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13720.m3u8
+#EXTINF:-1,MTV LIVE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25054.m3u8
+#EXTINF:-1,BET
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25057.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25055.m3u8
+#EXTINF:-1,TRACE TOCA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25056.m3u8
+#EXTINF:-1,MTV HITS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/8050.m3u8
+#EXTINF:-1,BBLACK CLASSIK
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/8052.m3u8
+#EXTINF:-1,INDIES LIVE MUSIC
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25058.m3u8
+#EXTINF:-1,MTV MUSIC LIVE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13930.m3u8
+#EXTINF:-1,MTV DANCE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13931.m3u8
+#EXTINF:-1,MTV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13932.m3u8
+#EXTINF:-1,MTV HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14009.m3u8
+#EXTINF:-1,MCM FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13725.m3u8
+#EXTINF:-1,MCM HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14002.m3u8
+#EXTINF:-1,MCM TOP HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1037.m3u8
+#EXTINF:-1,MCM TOP FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13724.m3u8
+#EXTINF:-1,RFM TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13709.m3u8
+#EXTINF:-1,RFM HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24960.m3u8
+#EXTINF:-1,NRJ HITS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13927.m3u8
+#EXTINF:-1,MEZZO HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14001.m3u8
+#EXTINF:-1,MEZZO LIVE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13723.m3u8
+#EXTINF:-1,BBLACK
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13840.m3u8
+#EXTINF:-1,VH1 CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13815.m3u8
+#EXTINF:-1,MELODY TV FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13808.m3u8
+#EXTINF:-1,BRAVA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14038.m3u8
+#EXTINF:-1,DJAZZ TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13939.m3u8
+#EXTINF:-1,TELESUD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1101.m3u8
+#EXTINF:-1,MTV HITS FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13845.m3u8
+#EXTINF:-1,EUROSPORT 1 SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/57859.m3u8
+#EXTINF:-1,|FR|***** CANAL+  SD *****|FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39549.m3u8
+#EXTINF:-1,LA CHAINE DU PERE NOÊL HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/48784.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13861.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24948.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1040.m3u8
+#EXTINF:-1,DISNEY CHANNEL +1  HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1041.m3u8
+#EXTINF:-1,DISNEY XD FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13862.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24942.m3u8
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13863.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24934.m3u8
+#EXTINF:-1,DISNEY CINEMA FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13860.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24940.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14037.m3u8
+#EXTINF:-1,NICKELODEON+1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13854.m3u8
+#EXTINF:-1,NICKELODEON JUN FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13851.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24935.m3u8
+#EXTINF:-1,NICKELODEON JUN SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28344.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24957.m3u8
+#EXTINF:-1,TOONAMI FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13850.m3u8
+#EXTINF:-1,|FR|TOONAMI HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24956.m3u8
+#EXTINF:-1,TELETOON+ FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13855.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24958.m3u8
+#EXTINF:-1,TELETOON+1 
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13869.m3u8
+#EXTINF:-1,PIWI+ FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13867.m3u8
+#EXTINF:-1,PIWI+ HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24937.m3u8
+#EXTINF:-1,MONDE DES PETITS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13848.m3u8
+#EXTINF:-1,CANAL J FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13764.m3u8
+#EXTINF:-1,Canal J HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24941.m3u8
+#EXTINF:-1,TIJI FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13868.m3u8
+#EXTINF:-1,TIJI HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24949.m3u8
+#EXTINF:-1,BOOMERANG FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13858.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24954.m3u8
+#EXTINF:-1,BOING FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13859.m3u8
+#EXTINF:-1,BOING HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24945.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13761.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24933.m3u8
+#EXTINF:-1,GAME ONE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13856.m3u8
+#EXTINF:-1,GAME ONE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24952.m3u8
+#EXTINF:-1,GAMEONE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1034.m3u8
+#EXTINF:-1,GAME ONE +1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13857.m3u8
+#EXTINF:-1,J ONE FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13852.m3u8
+#EXTINF:-1,GULLI FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13864.m3u8
+#EXTINF:-1,GULLI SD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1020.m3u8
+#EXTINF:-1,GONG
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13853.m3u8
+#EXTINF:-1,MANGAS FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13865.m3u8
+#EXTINF:-1,MANGAS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24932.m3u8
+#EXTINF:-1,CINE KIDS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24959.m3u8
+#EXTINF:-1,DISNEY ORANGE 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24939.m3u8
+#EXTINF:-1,DISNEY ORANGE 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24950.m3u8
+#EXTINF:-1,DISNEY ORANGE 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24951.m3u8
+#EXTINF:-1,PEPPA PIG (LIVE)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/6700.m3u8
+#EXTINF:-1, DORA L'EXPLORATRICE (LIVE )
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/6713.m3u8
+#EXTINF:-1,LIVE LILO & STITCH (LIVE)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/6736.m3u8
+#EXTINF:-1,TOM AND JERRY
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/6757.m3u8
+#EXTINF:-1,MASHA ET MICHKA (LIVE )
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/7185.m3u8
+#EXTINF:-1,LAPIN CRETIN
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/7258.m3u8
+#EXTINF:-1,•------• CANALSAT HEVC •------• |FR|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47555.m3u8
+#EXTINF:-1,FRANKLIN HD (LIVE)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35036.m3u8
+#EXTINF:-1,LA MAISON DE MICKEY (LIVE)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/38527.m3u8
+#EXTINF:-1,CHUCHU TV (LIVE)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/64608.m3u8
+#EXTINF:-1,TF1 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47474.m3u8
+#EXTINF:-1,FRANCE 2 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47475.m3u8
+#EXTINF:-1,FRANCE 3 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47476.m3u8
+#EXTINF:-1,FRANCE4 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47477.m3u8
+#EXTINF:-1,FRANCE5 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47478.m3u8
+#EXTINF:-1,FRANCEO |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47487.m3u8
+#EXTINF:-1,M6 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47479.m3u8
+#EXTINF:-1,6TER |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47495.m3u8
+#EXTINF:-1,W9 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47481.m3u8
+#EXTINF:-1,NRJ12 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47491.m3u8
+#EXTINF:-1,TFX |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47492.m3u8
+#EXTINF:-1,TF1 SERIES FILMS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47493.m3u8
+#EXTINF:-1,C8 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47482.m3u8
+#EXTINF:-1,CSTAR |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47484.m3u8
+#EXTINF:-1,TMC |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47494.m3u8
+#EXTINF:-1,ARTE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47480.m3u8
+#EXTINF:-1,CANAL |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47507.m3u8
+#EXTINF:-1,CANAL CINEMA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47506.m3u8
+#EXTINF:-1,CANAL FAMILY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47514.m3u8
+#EXTINF:-1,CANAL DECALE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47515.m3u8
+#EXTINF:-1,CANAL SERIES |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47508.m3u8
+#EXTINF:-1,CINE PREMIER |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47520.m3u8
+#EXTINF:-1,CINE EMOTION |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47519.m3u8
+#EXTINF:-1,CINE FAMIZ |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47532.m3u8
+#EXTINF:-1,CINE CLASSIC |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47533.m3u8
+#EXTINF:-1,CINE FRISSON |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47516.m3u8
+#EXTINF:-1,OCS MAX |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47528.m3u8
+#EXTINF:-1,OCS CITY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47529.m3u8
+#EXTINF:-1,OCS CHOC |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47531.m3u8
+#EXTINF:-1,OCS GEANTS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47530.m3u8
+#EXTINF:-1,ACTION |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47518.m3u8
+#EXTINF:-1,WARNER TV |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47546.m3u8
+#EXTINF:-1,ALTICE STUDIO |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47545.m3u8
+#EXTINF:-1,RTL9 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47496.m3u8
+#EXTINF:-1,TEVA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47521.m3u8
+#EXTINF:-1,MY CUISINE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47522.m3u8
+#EXTINF:-1,RMC SPORT1 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47502.m3u8
+#EXTINF:-1,RMC SPORT2 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47503.m3u8
+#EXTINF:-1,RMC SPORT3 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47504.m3u8
+#EXTINF:-1,RMC SPORT4 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47505.m3u8
+#EXTINF:-1,BEIN 1 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47499.m3u8
+#EXTINF:-1,BEIN 2 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47500.m3u8
+#EXTINF:-1,BEIN 3 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47501.m3u8
+#EXTINF:-1,CANAL SPORT |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47509.m3u8
+#EXTINF:-1,L'EQUIPE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47489.m3u8
+#EXTINF:-1,EQUIDIA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47527.m3u8
+#EXTINF:-1,EUROSPORT 1  |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47548.m3u8
+#EXTINF:-1,EUROSPORT2 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47549.m3u8
+#EXTINF:-1,PLANETE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47534.m3u8
+#EXTINF:-1,PLANETE+A&E |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47541.m3u8
+#EXTINF:-1,PLANETE + CI |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47542.m3u8
+#EXTINF:-1,NATIONAL GEO CHANNEL |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47523.m3u8
+#EXTINF:-1,NAT GEO WILD |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47511.m3u8
+#EXTINF:-1,DISCOVERY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47535.m3u8
+#EXTINF:-1,DISCOVERY FAMILY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47536.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47537.m3u8
+#EXTINF:-1,DISCOVERY INVES |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47538.m3u8
+#EXTINF:-1,USHUAIA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47540.m3u8
+#EXTINF:-1,TOUTE L HISTOIRE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47490.m3u8
+#EXTINF:-1,SCIENCES&VIE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47544.m3u8
+#EXTINF:-1,RMC STORY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47497.m3u8
+#EXTINF:-1,RMC DECOUVERTE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47498.m3u8
+#EXTINF:-1,ANIMAUX |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47510.m3u8
+#EXTINF:-1,CHASSE & PECHE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47543.m3u8
+#EXTINF:-1,DISNEY CHANNEL |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47524.m3u8
+#EXTINF:-1,DISNEY JUNIOR |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47525.m3u8
+#EXTINF:-1,CANALJ |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47539.m3u8
+#EXTINF:-1,NICK JUNIOR |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47550.m3u8
+#EXTINF:-1,BOOMERANG |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47517.m3u8
+#EXTINF:-1,CARTOON N |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47513.m3u8
+#EXTINF:-1,GULLI |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47488.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47551.m3u8
+#EXTINF:-1,NICKELODEON |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47552.m3u8
+#EXTINF:-1,GAME ONE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47553.m3u8
+#EXTINF:-1,BFM PARIS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47554.m3u8
+#EXTINF:-1,LCI |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47485.m3u8
+#EXTINF:-1,CNEWS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47483.m3u8
+#EXTINF:-1,LCP |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47473.m3u8
+#EXTINF:-1,BFMTV |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47486.m3u8
+#EXTINF:-1,NON STOP PEOPLE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47547.m3u8
+#EXTINF:-1,M6 MUSIC |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47512.m3u8
+#EXTINF:-1,MCM TOP |HEVC|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47526.m3u8
+#EXTINF:-1,|BE| RTL LUXEMBURG
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/28446.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21766.m3u8
+#EXTINF:-1,|CH| MY SPORT HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29559.m3u8
+#EXTINF:-1,|CH| MY SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29558.m3u8
+#EXTINF:-1,|CH| MY SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29557.m3u8
+#EXTINF:-1,|CH| MY SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29556.m3u8
+#EXTINF:-1,|CH| MY SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29555.m3u8
+#EXTINF:-1,|CH| MY SPORT 5 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29554.m3u8
+#EXTINF:-1,|CH| MY SPORT 6 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29553.m3u8
+#EXTINF:-1,|CH| MY SPORT 7 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29552.m3u8
+#EXTINF:-1,|CH| MY SPORT 8 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29551.m3u8
+#EXTINF:-1,|CH| MY SPORT9 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29550.m3u8
+#EXTINF:-1,|BE| •------• BELGIQUE •------• |BE|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24965.m3u8
+#EXTINF:-1,|BE|  LA UNE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29821.m3u8
+#EXTINF:-1,|BE| LA DEUX
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14149.m3u8
+#EXTINF:-1,|BE| LA TROIS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14148.m3u8
+#EXTINF:-1,|BE| CLUB RTL FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14144.m3u8
+#EXTINF:-1,|BE| PLUG RTL HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14147.m3u8
+#EXTINF:-1,|BE| RTL TVi HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14146.m3u8
+#EXTINF:-1,|BE| AB1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14143.m3u8
+#EXTINF:-1,|BE| AB3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14115.m3u8
+#EXTINF:-1,|BE| AB3 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14142.m3u8
+#EXTINF:-1,|BE| AB XPLORE HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29560.m3u8
+#EXTINF:-1,|BE| CINÉ HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14141.m3u8
+#EXTINF:-1,|BE| ZES
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14140.m3u8
+#EXTINF:-1,|BE| TELE BRUXELLES
+http://51.159.21.231:2052/sourcebelgiquepro2/6875360917/1890
+#EXTINF:-1,|BE| •------• SPORTS •------• |BE|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24966.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/46646.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/46647.m3u8
+#EXTINF:-1,|BE| PROXIMUS 11 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35336.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14137.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14136.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14128.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14134.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14133.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/46648.m3u8
+#EXTINF:-1,|BE|•------• VLAANDEREN •------• |BE|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24967.m3u8
+#EXTINF:-1,|BE| EEN HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14122.m3u8
+#EXTINF:-1,|BE| VIER HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14111.m3u8
+#EXTINF:-1,|BE| VIJF
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14112.m3u8
+#EXTINF:-1,|BE|  VITAYA  HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14109.m3u8
+#EXTINF:-1,|BE| CANVAS HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14110.m3u8
+#EXTINF:-1,|BE| 192 TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14124.m3u8
+#EXTINF:-1,|BE| KETNET
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14119.m3u8
+#EXTINF:-1,|BE| TVO
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14117.m3u8
+#EXTINF:-1,|BE| VTM HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14126.m3u8
+#EXTINF:-1,|BE| VTM KAZOOM HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14125.m3u8
+#EXTINF:-1,|BE| Q2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14127.m3u8
+#EXTINF:-1,|BE| KET OP2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14120.m3u8
+#EXTINF:-1,|BE| ACHT TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14113.m3u8
+#EXTINF:-1,|BE| KADET
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14121.m3u8
+#EXTINF:-1,|BE| ATV ANTWERPEN
+http://source.vision-new.org:5000/live/BELGuser/pro2/99997003.ts
+#EXTINF:-1,|BE| NO TELE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25119.m3u8
+#EXTINF:-1,|BE| CANAL ZOOM
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25120.m3u8
+#EXTINF:-1,|BE| CANAL C
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/25118.m3u8
+#EXTINF:-1,|LU| •------• LUXEMBOURG •------• |LU|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/45414.m3u8
+#EXTINF:-1,|LU| TV LUX
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/45413.m3u8
+#EXTINF:-1,|LU| RTL LUX 1
+http://51.159.21.231:2052/sourcebelgiquepro2/6875360917/1888
+#EXTINF:-1,|LU| RTL LUX 2
+http://51.159.21.231:2052/sourcebelgiquepro2/6875360917/1887
+#EXTINF:-1,|LU| ELDO TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/45410.m3u8
+#EXTINF:-1,|LU| CHAMBER TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/45409.m3u8
+#EXTINF:-1,|CH| •------• SUISSE  •------• |CH|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/24968.m3u8
+#EXTINF:-1,|CH| RTS UN HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13705.m3u8
+#EXTINF:-1,|CH| RTS DEUX HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13706.m3u8
+#EXTINF:-1,|CH| BE CURIOUS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21776.m3u8
+#EXTINF:-1,|CH| RSI LA 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29567.m3u8
+#EXTINF:-1,|CH| RSI LA 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29568.m3u8
+#EXTINF:-1,|CH| BOING
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21775.m3u8
+#EXTINF:-1,|CH|  BOOMERANG
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21773.m3u8
+#EXTINF:-1,|CH| CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21772.m3u8
+#EXTINF:-1,|CH| MOTORS ViSION
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21771.m3u8
+#EXTINF:-1,|CH|  ROUGE TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21770.m3u8
+#EXTINF:-1,|CH| •------• TELECLUB •------• |CH|
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29569.m3u8
+#EXTINF:-1,|CH|  TELECLUB CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21769.m3u8
+#EXTINF:-1,|CH|  TELECLUB ACTION
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21768.m3u8
+#EXTINF:-1,|CH| TELECLUB EMOTION
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21767.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21764.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21763.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29574.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29573.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29572.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29571.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/29570.m3u8
+#EXTINF:-1,|CH| TELE M1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21762.m3u8
+#EXTINF:-1,|CH|  TELEBASEL
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21761.m3u8
+#EXTINF:-1,|CH| TELE BIELINGUE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21760.m3u8
+#EXTINF:-1,|CH| TELE ZURICH
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21759.m3u8
+#EXTINF:-1,|CH| SRF 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21755.m3u8
+#EXTINF:-1,|CH| SRF ZWEI FHD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21754.m3u8
+#EXTINF:-1,|CH| SRF INFO
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/21753.m3u8
