@@ -1,193 +1,248 @@
-#EXTINF:-1,~ USA TV ~
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,MSNBC (SD)*
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg TV*
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,ESPN DEPORTES HD
+http://rayito-tv.xyz:41001/1/1/30535
+#EXTINF:-1,BEIN SPORTS LA LIGA
+http://rayito-tv.xyz:41001/1/1/30536
+#EXTINF:-1,US  | TENNIS CHANEL
+http://rayito-tv.xyz:41001/1/1/30542
+#EXTINF:-1,UFC TV
+http://rayito-tv.xyz:41001/1/1/30543
+#EXTINF:-1,FIGHTING SPORTS
+http://rayito-tv.xyz:41001/1/1/30544
+#EXTINF:-1,ES | M. LIGA DE CAMPEONES
+http://rayito-tv.xyz:41001/1/1/30545
+#EXTINF:-1,CO | Win Sports
+http://rayito-tv.xyz:41001/1/1/30546
+#EXTINF:-1,Eleven Sports
+http://rayito-tv.xyz:41001/1/1/30547
+#EXTINF:-1,ESPN
+http://rayito-tv.xyz:41001/1/1/30548
+#EXTINF:-1,ESPN News
+http://rayito-tv.xyz:41001/1/1/30549
+#EXTINF:-1,ESPN U
+http://rayito-tv.xyz:41001/1/1/30550
+#EXTINF:-1,Fight Network
+http://rayito-tv.xyz:41001/1/1/30551
+#EXTINF:-1,Bein Sports Ñ HD
+http://rayito-tv.xyz:41001/1/1/30511
+#EXTINF:-1,Bein Sports USA HD
+http://rayito-tv.xyz:41001/1/1/30512
+#EXTINF:-1,Fox Sports 1
+http://rayito-tv.xyz:41001/1/1/30552
+#EXTINF:-1,Fox Sports 2
+http://rayito-tv.xyz:41001/1/1/30553
+#EXTINF:-1,Fox Soccer Plus
+http://rayito-tv.xyz:41001/1/1/30554
+#EXTINF:-1,GINX eSports
+http://rayito-tv.xyz:41001/1/1/30555
+#EXTINF:-1,Golf Channel
+http://rayito-tv.xyz:41001/1/1/30556
+#EXTINF:-1,LongHorn Network
+http://rayito-tv.xyz:41001/1/1/30557
 #EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,MLB Network*
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+http://rayito-tv.xyz:41001/1/1/30558
+#EXTINF:-1,MSG
+http://rayito-tv.xyz:41001/1/1/30559
+#EXTINF:-1,MSNBC
+http://rayito-tv.xyz:41001/1/1/30560
 #EXTINF:-1,NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1,NBC Golf [NoRoku]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+http://rayito-tv.xyz:41001/1/1/30561
+#EXTINF:-1,NFL Network
+http://rayito-tv.xyz:41001/1/1/30562
+#EXTINF:-1,NHL Network
+http://rayito-tv.xyz:41001/1/1/30563
+#EXTINF:-1,Outdoor Channel
+http://rayito-tv.xyz:41001/1/1/30564
+#EXTINF:-1,SNY
+http://rayito-tv.xyz:41001/1/1/30565
+#EXTINF:-1,Yes Network
+http://rayito-tv.xyz:41001/1/1/30566
+#EXTINF:-1,TVG
+http://rayito-tv.xyz:41001/1/1/30567
+#EXTINF:-1,GOLTV ENG
+http://rayito-tv.xyz:41001/1/1/30568
+#EXTINF:-1,USA | TVG 2
+http://rayito-tv.xyz:41001/1/1/30569
+#EXTINF:-1,NBCSN
+http://rayito-tv.xyz:41001/1/1/30570
+#EXTINF:-1,AMC
+http://rayito-tv.xyz:41001/1/1/32104
+#EXTINF:-1,Discovery ID
+http://rayito-tv.xyz:41001/1/1/32105
+#EXTINF:-1,CNBC
+http://rayito-tv.xyz:41001/1/1/32106
 #EXTINF:-1,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1,FreeForm [NoKodi]
-https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1,Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,D23 TV
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Evine [Off]
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-#EXTINF:-1,Home Shopping Network
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-#EXTINF:-1,Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-#EXTINF:-1,Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-#EXTINF:-1,Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1,ASD TV
-http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,Capital City Connection
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,The Florida Channel
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1,Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1,KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1,Laurel TV
-https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:-1,Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:-1,Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1,PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,SCCtv
-http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1,Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
-#EXTINF:-1,Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:-1,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,UCTV
-http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
-#EXTINF:-1,UGA TV
-http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-#EXTINF:-1,White Plains TV
-http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
-#EXTINF:-1,WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+http://rayito-tv.xyz:41001/1/1/32107
+#EXTINF:-1,Destination America
+http://rayito-tv.xyz:41001/1/1/32108
+#EXTINF:-1,Discovery Family
+http://rayito-tv.xyz:41001/1/1/32109
+#EXTINF:-1,Discovery Life
+http://rayito-tv.xyz:41001/1/1/32110
+#EXTINF:-1,Discovery Science
+http://rayito-tv.xyz:41001/1/1/32111
+#EXTINF:-1,Food Network
+http://rayito-tv.xyz:41001/1/1/32112
+#EXTINF:-1,FX
+http://rayito-tv.xyz:41001/1/1/32113
+#EXTINF:-1,FXX
+http://rayito-tv.xyz:41001/1/1/32114
+#EXTINF:-1,Hallmark
+http://rayito-tv.xyz:41001/1/1/32115
+#EXTINF:-1,Hallmark Drama
+http://rayito-tv.xyz:41001/1/1/32116
+#EXTINF:-1,History Channel
+http://rayito-tv.xyz:41001/1/1/32117
+#EXTINF:-1,Lifetime
+http://rayito-tv.xyz:41001/1/1/32118
+#EXTINF:-1,Nat Geo
+http://rayito-tv.xyz:41001/1/1/32119
+#EXTINF:-1,Nat Geo Wild
+http://rayito-tv.xyz:41001/1/1/32120
+#EXTINF:-1,PBS KIDS
+http://rayito-tv.xyz:41001/1/1/32121
+#EXTINF:-1,SyFy
+http://rayito-tv.xyz:41001/1/1/32122
+#EXTINF:-1,TBS
+http://rayito-tv.xyz:41001/1/1/32123
+#EXTINF:-1,TCM
+http://rayito-tv.xyz:41001/1/1/32124
+#EXTINF:-1,The Weather Channel
+http://rayito-tv.xyz:41001/1/1/32125
+#EXTINF:-1,TLC
+http://rayito-tv.xyz:41001/1/1/32126
+#EXTINF:-1,Travel Channel
+http://rayito-tv.xyz:41001/1/1/32127
+#EXTINF:-1,E!
+http://rayito-tv.xyz:41001/1/1/32128
+#EXTINF:-1,Unimas
+http://rayito-tv.xyz:41001/1/1/32129
+#EXTINF:-1,Galavision
+http://rayito-tv.xyz:41001/1/1/32130
+#EXTINF:-1,Telemundo
+http://rayito-tv.xyz:41001/1/1/32131
+#EXTINF:-1,Telemundo Chicago
+http://rayito-tv.xyz:41001/1/1/32132
+#EXTINF:-1,Telemundo LA
+http://rayito-tv.xyz:41001/1/1/32133
+#EXTINF:-1,Telemundo Miami
+http://rayito-tv.xyz:41001/1/1/32134
+#EXTINF:-1,Telemundo Texas
+http://rayito-tv.xyz:41001/1/1/32135
+#EXTINF:-1,Univision
+http://rayito-tv.xyz:41001/1/1/32136
+#EXTINF:-1,NBC Universo
+http://rayito-tv.xyz:41001/1/1/32137
+#EXTINF:-1,Discovery Familia
+http://rayito-tv.xyz:41001/1/1/32138
+#EXTINF:-1,Discovery
+http://rayito-tv.xyz:41001/1/1/32139
+#EXTINF:-1,Cartoon Network
+http://rayito-tv.xyz:41001/1/1/32140
+#EXTINF:-1,Disney Channel
+http://rayito-tv.xyz:41001/1/1/32141
+#EXTINF:-1,Disney Jr
+http://rayito-tv.xyz:41001/1/1/32142
+#EXTINF:-1,Disney XD
+http://rayito-tv.xyz:41001/1/1/32143
+#EXTINF:-1,Nick
+http://rayito-tv.xyz:41001/1/1/32144
+#EXTINF:-1,Nick Jr
+http://rayito-tv.xyz:41001/1/1/32145
+#EXTINF:-1,Nicktoons
+http://rayito-tv.xyz:41001/1/1/32146
+#EXTINF:-1,Universal Kids
+http://rayito-tv.xyz:41001/1/1/32147
+#EXTINF:-1,Cinemax East
+http://rayito-tv.xyz:41001/1/1/32148
+#EXTINF:-1,EPIX
+http://rayito-tv.xyz:41001/1/1/32149
+#EXTINF:-1,Showtime
+http://rayito-tv.xyz:41001/1/1/32150
+#EXTINF:-1,Showtime 2
+http://rayito-tv.xyz:41001/1/1/32151
+#EXTINF:-1,Showtime Showcase
+http://rayito-tv.xyz:41001/1/1/32152
+#EXTINF:-1,Showtime Extreme
+http://rayito-tv.xyz:41001/1/1/32153
+#EXTINF:-1,Starz Encore Western
+http://rayito-tv.xyz:41001/1/1/32154
+#EXTINF:-1,Starz
+http://rayito-tv.xyz:41001/1/1/32155
+#EXTINF:-1,Starz Black
+http://rayito-tv.xyz:41001/1/1/32156
+#EXTINF:-1,HBO ESP
+http://rayito-tv.xyz:41001/1/1/32157
+#EXTINF:-1,HBO ZONE
+http://rayito-tv.xyz:41001/1/1/32158
+#EXTINF:-1,STARZ ESP
+http://rayito-tv.xyz:41001/1/1/32159
+#EXTINF:-1,STARZ EDGE
+http://rayito-tv.xyz:41001/1/1/32160
+#EXTINF:-1,HBO Signature ESP
+http://rayito-tv.xyz:41001/1/1/32161
+#EXTINF:-1,SHOWTIME ESP
+http://rayito-tv.xyz:41001/1/1/32162
+#EXTINF:-1,HBO
+http://rayito-tv.xyz:41001/1/1/32163
+#EXTINF:-1,HBO Latino
+http://rayito-tv.xyz:41001/1/1/32164
+#EXTINF:-1,Cinemax
+http://rayito-tv.xyz:41001/1/1/32165
+#EXTINF:-1,American Horrors
+http://rayito-tv.xyz:41001/1/1/32166
+#EXTINF:-1,Sundance
+http://rayito-tv.xyz:41001/1/1/32167
+#EXTINF:-1,A&E
+http://rayito-tv.xyz:41001/1/1/32168
+#EXTINF:-1,Paramount
+http://rayito-tv.xyz:41001/1/1/32169
+#EXTINF:-1,USA Network
+http://rayito-tv.xyz:41001/1/1/32170
+#EXTINF:-1,HBO Family
+http://rayito-tv.xyz:41001/1/1/32171
+#EXTINF:-1,Hbo Siganture
+http://rayito-tv.xyz:41001/1/1/32172
+#EXTINF:-1,Fox News
+http://rayito-tv.xyz:41001/1/1/32173
+#EXTINF:-1,Fox NY
+http://rayito-tv.xyz:41001/1/1/32174
+#EXTINF:-1,ABC
+http://rayito-tv.xyz:41001/1/1/32175
+#EXTINF:-1,CBS
+http://rayito-tv.xyz:41001/1/1/32176
+#EXTINF:-1,HBO Comedy
+http://rayito-tv.xyz:41001/1/1/32177
+#EXTINF:-1,BBC America
+http://rayito-tv.xyz:41001/1/1/32178
+#EXTINF:-1,Boomerang
+http://rayito-tv.xyz:41001/1/1/32179
+#EXTINF:-1,Bravo TV
+http://rayito-tv.xyz:41001/1/1/32180
+#EXTINF:-1,Tru TV
+http://rayito-tv.xyz:41001/1/1/32181
+#EXTINF:-1,Cooking Channel
+http://rayito-tv.xyz:41001/1/1/32182
+#EXTINF:-1,DIY Premium
+http://rayito-tv.xyz:41001/1/1/32183
+#EXTINF:-1,Discovery Velocity
+http://rayito-tv.xyz:41001/1/1/32184
+#EXTINF:-1,Own Channel
+http://rayito-tv.xyz:41001/1/1/32185
+#EXTINF:-1,El Rey Network
+http://rayito-tv.xyz:41001/1/1/32186
+#EXTINF:-1,FXM
+http://rayito-tv.xyz:41001/1/1/32187
+#EXTINF:-1,HBO West
+http://rayito-tv.xyz:41001/1/1/32188
+#EXTINF:-1,CBS MIAMI
+http://rayito-tv.xyz:41001/1/1/32189
+#EXTINF:-1,CNN
+http://rayito-tv.xyz:41001/1/1/32190
+#EXTINF:-1,CBS Houston
+http://rayito-tv.xyz:41001/1/1/32191
+#EXTINF:-1,H2
+http://rayito-tv.xyz:41001/1/1/32192
+#EXTINF:-1,TNT
+http://rayito-tv.xyz:41001/1/1/32193
+#EXTINF:-1,ABC New York HD
+http://rayito-tv.xyz:41001/1/1/32194
