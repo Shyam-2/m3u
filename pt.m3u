@@ -1,33 +1,175 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideportugal.xml.gz"
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kOnFXO1.png" group-title="",FM O Dia TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Rdt24TC.png" group-title="",RTP 1
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="",Sobrenatural TV
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="",TVI Reality
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,TVCINE 1
+http://iptvbest.org:80/joyce3/273769/1006
+#EXTINF:-1,TVCINE  2
+http://iptvbest.org:80/joyce3/273769/1008
+#EXTINF:-1,TVCINE  3
+http://iptvbest.org:80/joyce3/273769/1010
+#EXTINF:-1,TVCINE 4
+http://iptvbest.org:80/joyce3/273769/1012
+#EXTINF:-1,TV series
+http://iptvbest.org:80/joyce3/273769/1014
+#EXTINF:-1,FOX HD
+http://iptvbest.org:80/joyce3/273769/1016
+#EXTINF:-1,FOX MOVIES
+http://iptvbest.org:80/joyce3/273769/1017
+#EXTINF:-1,Fox Comedy
+http://iptvbest.org:80/joyce3/273769/1019
+#EXTINF:-1,FOX CRIME
+http://iptvbest.org:80/joyce3/273769/1021
+#EXTINF:-1,FOX LIFE HD
+http://iptvbest.org:80/joyce3/273769/1023
+#EXTINF:-1,AMC HD
+http://iptvbest.org:80/joyce3/273769/1024
+#EXTINF:-1,AXN BLACK FHD
+http://iptvbest.org:80/joyce3/273769/1025
+#EXTINF:-1,AXN HD
+http://iptvbest.org:80/joyce3/273769/1026
+#EXTINF:-1,AXN WHITE HD
+http://iptvbest.org:80/joyce3/273769/1027
+#EXTINF:-1,CINEMUNDO HD
+http://iptvbest.org:80/joyce3/273769/1029
+#EXTINF:-1,HOLLYWOOD FHD
+http://iptvbest.org:80/joyce3/273769/1031
+#EXTINF:-1,SYFY FHD
+http://iptvbest.org:80/joyce3/273769/1033
+#EXTINF:-1,SPORT TV 
+http://iptvbest.org:80/joyce3/273769/1034
+#EXTINF:-1,CANAL 11 FHD
+http://iptvbest.org:80/joyce3/273769/1035
+#EXTINF:-1,SPORT TV+  
+http://iptvbest.org:80/joyce3/273769/1038
+#EXTINF:-1,SPORT TV 1 FHD
+http://iptvbest.org:80/joyce3/273769/1041
+#EXTINF:-1,SPORT TV 2 FHD
+http://iptvbest.org:80/joyce3/273769/1044
+#EXTINF:-1,SPORT TV 3 FHD
+http://iptvbest.org:80/joyce3/273769/1047
+#EXTINF:-1,SPORT TV 4 FHD
+http://iptvbest.org:80/joyce3/273769/1050
+#EXTINF:-1,SPORT TV 5 FHD
+http://iptvbest.org:80/joyce3/273769/1053
+#EXTINF:-1,SPORT TV NBA FHD
+http://iptvbest.org:80/joyce3/273769/1054
+#EXTINF:-1,Eleven Sport 1 HD
+http://iptvbest.org:80/joyce3/273769/1055
+#EXTINF:-1,Eleven Sport 2 HD
+http://iptvbest.org:80/joyce3/273769/1057
+#EXTINF:-1,Eleven Sport 3 HD
+http://iptvbest.org:80/joyce3/273769/1059
+#EXTINF:-1,Eleven Sport 4 HD
+http://iptvbest.org:80/joyce3/273769/1061
+#EXTINF:-1,Eleven Sport 5 HD
+http://iptvbest.org:80/joyce3/273769/1063
+#EXTINF:-1,Eleven Sport 6 HD
+http://iptvbest.org:80/joyce3/273769/1065
+#EXTINF:-1,SPORTINGTV 
+http://iptvbest.org:80/joyce3/273769/1068
+#EXTINF:-1,BTV FHD
+http://iptvbest.org:80/joyce3/273769/1071
+#EXTINF:-1,Motorvision HD
+http://iptvbest.org:80/joyce3/273769/1073
+#EXTINF:-1,KOMBAT SPORT
+http://iptvbest.org:80/joyce3/273769/1075
+#EXTINF:-1,PFC
+http://iptvbest.org:80/joyce3/273769/1077
+#EXTINF:-1,PORTO CANAL HD
+http://iptvbest.org:80/joyce3/273769/1079
+#EXTINF:-1,RTP 1 FHD
+http://iptvbest.org:80/joyce3/273769/1081
+#EXTINF:-1,RTP 2
+http://iptvbest.org:80/joyce3/273769/1082
+#EXTINF:-1,RTP 3
+http://iptvbest.org:80/joyce3/273769/1084
+#EXTINF:-1,RTP
+http://iptvbest.org:80/joyce3/273769/1087
+#EXTINF:-1,RTP MADEIRA
+http://iptvbest.org:80/joyce3/273769/1088
+#EXTINF:-1,RTP MEMÓRIA
+http://iptvbest.org:80/joyce3/273769/1089
+#EXTINF:-1,Sic
+http://iptvbest.org:80/joyce3/273769/1090
+#EXTINF:-1,SIC CARAS FHD
+http://iptvbest.org:80/joyce3/273769/1093
+#EXTINF:-1,SIC K
+http://iptvbest.org:80/joyce3/273769/1094
+#EXTINF:-1,SIC RADICAL FHD
+http://iptvbest.org:80/joyce3/273769/1096
+#EXTINF:-1,SIC NOTICIAS
+http://iptvbest.org:80/joyce3/273769/1099
+#EXTINF:-1,TLC
+http://iptvbest.org:80/joyce3/273769/1101
+#EXTINF:-1,TOROS TV
+http://iptvbest.org:80/joyce3/273769/1102
+#EXTINF:-1,GLOBO
+http://iptvbest.org:80/joyce3/273769/1103
+#EXTINF:-1,TV Globo Premium
+http://iptvbest.org:80/joyce3/273769/1104
+#EXTINF:-1,TVI
+http://iptvbest.org:80/joyce3/273769/1105
+#EXTINF:-1,TVI 24
+http://iptvbest.org:80/joyce3/273769/1107
+#EXTINF:-1,TVI Fic
+http://iptvbest.org:80/joyce3/273769/1108
+#EXTINF:-1,TVI REALITY
+http://iptvbest.org:80/joyce3/273769/1109
+#EXTINF:-1,VH1
+http://iptvbest.org:80/joyce3/273769/1111
+#EXTINF:-1,Trace Urban 
+http://iptvbest.org:80/joyce3/273769/1112
+#EXTINF:-1,MTV PORTUGAL
+http://iptvbest.org:80/joyce3/273769/1114
+#EXTINF:-1,MCM POP
+http://iptvbest.org:80/joyce3/273769/1115
+#EXTINF:-1,AFRO MUSIC
+http://iptvbest.org:80/joyce3/273769/1116
+#EXTINF:-1,A BOLA TV
+http://iptvbest.org:80/joyce3/273769/1117
+#EXTINF:-1,CANAL Q
+http://iptvbest.org:80/joyce3/273769/1119
+#EXTINF:-1,CM TV
+http://iptvbest.org:80/joyce3/273769/1120
+#EXTINF:-1,E! Entertainment
+http://iptvbest.org:80/joyce3/273769/1122
+#EXTINF:-1,FUEL TV
+http://iptvbest.org:80/joyce3/273769/1124
+#EXTINF:-1,CBS REALITY
+http://iptvbest.org:80/joyce3/273769/1125
+#EXTINF:-1,BABY TV
+http://iptvbest.org:80/joyce3/273769/1130
+#EXTINF:-1,NICKELODEON
+http://iptvbest.org:80/joyce3/273769/1131
+#EXTINF:-1,CARTOON  NETWORK
+http://iptvbest.org:80/joyce3/273769/1132
+#EXTINF:-1, PANDA
+http://iptvbest.org:80/joyce3/273769/1133
+#EXTINF:-1,Panda Biggs
+http://iptvbest.org:80/joyce3/273769/1134
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvbest.org:80/joyce3/273769/1135
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvbest.org:80/joyce3/273769/1136
+#EXTINF:-1,JIM JAM
+http://iptvbest.org:80/joyce3/273769/1137
+#EXTINF:-1,Discovery 
+http://iptvbest.org:80/joyce3/273769/1139
+#EXTINF:-1, Historia
+http://iptvbest.org:80/joyce3/273769/1140
+#EXTINF:-1,Nat Geo WILD 
+http://iptvbest.org:80/joyce3/273769/1142
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://iptvbest.org:80/joyce3/273769/1143
+#EXTINF:-1,CRIME INVISTIGATION
+http://iptvbest.org:80/joyce3/273769/1144
+#EXTINF:-1,Travel Channel FHD
+http://iptvbest.org:80/joyce3/273769/1145
+#EXTINF:-1,ODISSEIA
+http://iptvbest.org:80/joyce3/273769/1146
+#EXTINF:-1,FASHION TV
+http://iptvbest.org:80/joyce3/273769/1147
+#EXTINF:-1,24 KITCHEN FHD
+http://iptvbest.org:80/joyce3/273769/1148
+#EXTINF:-1,A & E
+http://iptvbest.org:80/joyce3/273769/1149
+#EXTINF:-1,TV RECORD
+http://iptvbest.org:80/joyce3/273769/1150

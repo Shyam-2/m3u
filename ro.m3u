@@ -1,163 +1,395 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideromania.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="6 TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f5Ddkx2.png" group-title="",6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" group-title="",Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" group-title="",Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="",Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Mediao TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Media TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="Comedy",Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png" group-title="",Antena Cook and PLay
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6R5TLlc.png" group-title="",Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="",B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="",B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/5RcXm3M.png" group-title="",Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JZW1rg4.png" group-title="Movies",BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JZW1rg4.png" group-title="Movies",BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" group-title="",Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="",Columna TV
-rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music",Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XzChc5P.jpg" group-title="",Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bKcsZBn/Diaspora-TV.png" group-title="",Diaspora TV
-http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="",Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xAmYapr.jpg" group-title="",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="",EST TV Neamt
-http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="",GTV
-rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" group-title="",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" group-title="",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0j1matP.jpg" group-title="",Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/xfMpRfy/Infinit-tv.jpg" group-title="",Infinit TV
-http://webmobile.xdev.ro:81/tv6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RiZA8Yu.png" group-title="",Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Intermedia TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="",Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/b8bgnx7.jpg" group-title="",Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/N162WWZ/mdi-tv-ro.jpg" group-title="",MDI TV
-rtmp://89.33.78.174/live/livestream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" group-title="Music",MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" group-title="Music",MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" group-title="Music",MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" group-title="Music",MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/tm4gMJF/Muscel-TV-RO.png" group-title="",Muscel TV
-mmsh://musceltvlive.muscel.ro:8080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZUOylvd.png" group-title="",NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kyy7qvk/Orizont-TV-RO.png" group-title="",Orizont TV
-http://89.45.164.236:8048/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/2dgyYGy/Ploiesti-TV.jpg" group-title="",Ploiesti TV
-rtmp://v1.arya.ro:1935/live/ptv1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" group-title="",Pro X
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" group-title="",Pro X
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xM1dw57.png" group-title="",Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="",Rapsodia TV
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:-1 tvg-id="Realitatea TV RO" tvg-name="Realitatea TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dn1E2cE.png" group-title="",Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="",Sangeorz TV
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="",Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="",Telestar1
-http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/1SapDQU.jpg" group-title="",Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/LZYnpH6/Traditii-TV-RO.png" group-title="",TraditiiTV
-rtmp://traditii1.arya.ro/live/traditiitv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" group-title="",TravelMix
-http://89.38.8.131:39520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0CbAlXu.png" group-title="",TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" group-title="",TV SE
-http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="",TVPlus Suceava
-http://85.186.146.34:8080
-#EXTINF:-1 tvg-id="TVR 1 RO" tvg-name="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xyu1yKB.png" group-title="",TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR 2 RO" tvg-name="TVR 2 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ASFXz4f.png" group-title="",TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR 3 RO" tvg-name="TVR 3 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pb2nnKU.png" group-title="",TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Cluj RO" tvg-name="TVR Cluj RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/2QPJrkY.png" group-title="",TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Craiova RO" tvg-name="TVR Craiova RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="",TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR HD RO" tvg-name="TVR HD RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ouVOW2q.png" group-title="",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR HD RO" tvg-name="TVR HD RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ouVOW2q.png" group-title="",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TVR Iasi RO" tvg-name="TVR Iasi RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="",TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:-1 tvg-id="TVR Timisoara RO" tvg-name="TVR Timisoara RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/EA98bRr.png" group-title="",TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png" group-title="",TVSat
-http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png" group-title="",VP TV
-http://89.38.8.130:39437
+#EXTM3U
+#EXTINF:-1,PRO TV SD
+http://iptvbest.org:80/joyce3/273769/3071
+#EXTINF:-1,PRO TV FHD
+http://iptvbest.org:80/joyce3/273769/3072
+#EXTINF:-1,ANTENA 1 SD
+http://iptvbest.org:80/joyce3/273769/3073
+#EXTINF:-1,ANTENA 1 FHD
+http://iptvbest.org:80/joyce3/273769/3074
+#EXTINF:-1,KANAL D SD
+http://iptvbest.org:80/joyce3/273769/3075
+#EXTINF:-1,KANAL D FHD
+http://iptvbest.org:80/joyce3/273769/3076
+#EXTINF:-1,ANTENA 3 SD
+http://iptvbest.org:80/joyce3/273769/3077
+#EXTINF:-1,ANTENA 3 FHD
+http://iptvbest.org:80/joyce3/273769/3078
+#EXTINF:-1,ANTENA STARS SD
+http://iptvbest.org:80/joyce3/273769/3079
+#EXTINF:-1,ANTENA STARS FHD
+http://iptvbest.org:80/joyce3/273769/3080
+#EXTINF:-1,PRO 2 SD
+http://iptvbest.org:80/joyce3/273769/3081
+#EXTINF:-1,PRO 2 FHD
+http://iptvbest.org:80/joyce3/273769/3082
+#EXTINF:-1,PRO X SD
+http://iptvbest.org:80/joyce3/273769/3083
+#EXTINF:-1,PRO X FHD
+http://iptvbest.org:80/joyce3/273769/3084
+#EXTINF:-1,PRO GOLD SD
+http://iptvbest.org:80/joyce3/273769/3085
+#EXTINF:-1,PRO CINEMA SD
+http://iptvbest.org:80/joyce3/273769/3086
+#EXTINF:-1,PRIMA TV SD
+http://iptvbest.org:80/joyce3/273769/3087
+#EXTINF:-1,B1 TV SD
+http://iptvbest.org:80/joyce3/273769/3088
+#EXTINF:-1,N 24 PLUS SD
+http://iptvbest.org:80/joyce3/273769/3089
+#EXTINF:-1,DIGI 24 SD
+http://iptvbest.org:80/joyce3/273769/3090
+#EXTINF:-1,DIGI 24 FHD
+http://iptvbest.org:80/joyce3/273769/3091
+#EXTINF:-1,ROMANIA TV SD
+http://iptvbest.org:80/joyce3/273769/3092
+#EXTINF:-1,REALITATEA TV PLUS SD
+http://iptvbest.org:80/joyce3/273769/3093
+#EXTINF:-1,NATIONAL TV SD
+http://iptvbest.org:80/joyce3/273769/3094
+#EXTINF:-1,TVR INTERNATIONAL SD
+http://iptvbest.org:80/joyce3/273769/3095
+#EXTINF:-1,TVR 1 SD
+http://iptvbest.org:80/joyce3/273769/3096
+#EXTINF:-1,TVR 2 SD
+http://iptvbest.org:80/joyce3/273769/3097
+#EXTINF:-1,TVR 3 SD
+http://iptvbest.org:80/joyce3/273769/3098
+#EXTINF:-1,TVR FHD
+http://iptvbest.org:80/joyce3/273769/3099
+#EXTINF:-1,*** FILME ***
+http://iptvbest.org:80/joyce3/273769/3100
+#EXTINF:-1,AXN WHITE SD
+http://iptvbest.org:80/joyce3/273769/3101
+#EXTINF:-1,AXN SPIN SD
+http://iptvbest.org:80/joyce3/273769/3102
+#EXTINF:-1,AXN SD
+http://iptvbest.org:80/joyce3/273769/3103
+#EXTINF:-1,AXN FHD
+http://iptvbest.org:80/joyce3/273769/3104
+#EXTINF:-1,AXN BLACK SD
+http://iptvbest.org:80/joyce3/273769/3105
+#EXTINF:-1,HBO FHD
+http://iptvbest.org:80/joyce3/273769/3106
+#EXTINF:-1,HBO 2 FHD
+http://iptvbest.org:80/joyce3/273769/3107
+#EXTINF:-1,HBO 3 FHD
+http://iptvbest.org:80/joyce3/273769/3108
+#EXTINF:-1,TV1000 SD
+http://iptvbest.org:80/joyce3/273769/3109
+#EXTINF:-1,CINEMAX 2 SD
+http://iptvbest.org:80/joyce3/273769/3110
+#EXTINF:-1,CINEMAX 1 FHD
+http://iptvbest.org:80/joyce3/273769/3111
+#EXTINF:-1,FilmBox Premium
+http://iptvbest.org:80/joyce3/273769/3112
+#EXTINF:-1,FilmBox Family
+http://iptvbest.org:80/joyce3/273769/3113
+#EXTINF:-1,FilmBox Extra HD
+http://iptvbest.org:80/joyce3/273769/3114
+#EXTINF:-1,FilmBox
+http://iptvbest.org:80/joyce3/273769/3115
+#EXTINF:-1,Fight Box
+http://iptvbest.org:80/joyce3/273769/3116
+#EXTINF:-1,CINEMARATON SD
+http://iptvbest.org:80/joyce3/273769/3117
+#EXTINF:-1,CINEMARATON FHD
+http://iptvbest.org:80/joyce3/273769/3118
+#EXTINF:-1,HIT MUSIC CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3119
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://iptvbest.org:80/joyce3/273769/3120
+#EXTINF:-1,FILM NOW FHD
+http://iptvbest.org:80/joyce3/273769/3121
+#EXTINF:-1,HAPPY CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3122
+#EXTINF:-1,HAPPY CHANNEL FHD
+http://iptvbest.org:80/joyce3/273769/3123
+#EXTINF:-1,EPIC DRAMA SD
+http://iptvbest.org:80/joyce3/273769/3124
+#EXTINF:-1,BOLLYWOOD TV SD
+http://iptvbest.org:80/joyce3/273769/3125
+#EXTINF:-1,FILM CAFE SD
+http://iptvbest.org:80/joyce3/273769/3126
+#EXTINF:-1,EPIC DRAMA FHD
+http://iptvbest.org:80/joyce3/273769/3127
+#EXTINF:-1,COMEDYEST SD
+http://iptvbest.org:80/joyce3/273769/3128
+#EXTINF:-1,COMEDY CENTRAL SD
+http://iptvbest.org:80/joyce3/273769/3129
+#EXTINF:-1,CINETHRONIX SD
+http://iptvbest.org:80/joyce3/273769/3130
+#EXTINF:-1,TNT SD
+http://iptvbest.org:80/joyce3/273769/3131
+#EXTINF:-1,TLC SD
+http://iptvbest.org:80/joyce3/273769/3132
+#EXTINF:-1,*** SPORT ***
+http://iptvbest.org:80/joyce3/273769/3133
+#EXTINF:-1,TELEKOM SPORT 1 FHD
+http://iptvbest.org:80/joyce3/273769/3134
+#EXTINF:-1,TELEKOM SPORT 2 FHD
+http://iptvbest.org:80/joyce3/273769/3135
+#EXTINF:-1,TELEKOM SPORT 3 FHD
+http://iptvbest.org:80/joyce3/273769/3136
+#EXTINF:-1,TELEKOM SPORT 4 FHD
+http://iptvbest.org:80/joyce3/273769/3137
+#EXTINF:-1,LOOK SPORT SD
+http://iptvbest.org:80/joyce3/273769/3142
+#EXTINF:-1,LOOK SPORT FHD
+http://iptvbest.org:80/joyce3/273769/3143
+#EXTINF:-1,DIGI SPORT 1 SD
+http://iptvbest.org:80/joyce3/273769/3144
+#EXTINF:-1,DIGI SPORT 1 FHD
+http://iptvbest.org:80/joyce3/273769/3145
+#EXTINF:-1,DIGI SPORT 2 SD
+http://iptvbest.org:80/joyce3/273769/3146
+#EXTINF:-1,DIGI SPORT 2 FHD
+http://iptvbest.org:80/joyce3/273769/3147
+#EXTINF:-1,DIGI SPORT 3 SD
+http://iptvbest.org:80/joyce3/273769/3148
+#EXTINF:-1,DIGI SPORT 3 FHD
+http://iptvbest.org:80/joyce3/273769/3149
+#EXTINF:-1,DIGI SPORT 4 SD
+http://iptvbest.org:80/joyce3/273769/3150
+#EXTINF:-1,DIGI SPORT 4 FHD
+http://iptvbest.org:80/joyce3/273769/3151
+#EXTINF:-1,LOOK PLUS SD
+http://iptvbest.org:80/joyce3/273769/3152
+#EXTINF:-1,*** DESENE ANIMATE ***
+http://iptvbest.org:80/joyce3/273769/3153
+#EXTINF:-1,DUCK TV SD
+http://iptvbest.org:80/joyce3/273769/3154
+#EXTINF:-1,NICKTOONS SD
+http://iptvbest.org:80/joyce3/273769/3155
+#EXTINF:-1,NICKELODEON SD
+http://iptvbest.org:80/joyce3/273769/3156
+#EXTINF:-1,NICK JR SD
+http://iptvbest.org:80/joyce3/273769/3157
+#EXTINF:-1,DISNEY JUNIOR SD
+http://iptvbest.org:80/joyce3/273769/3158
+#EXTINF:-1,DISNEY CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3159
+#EXTINF:-1,BOOMERANG SD
+http://iptvbest.org:80/joyce3/273769/3160
+#EXTINF:-1,Nick Toons
+http://iptvbest.org:80/joyce3/273769/3161
+#EXTINF:-1,MINIMAX SD
+http://iptvbest.org:80/joyce3/273769/3162
+#EXTINF:-1,MEGAMAX SD
+http://iptvbest.org:80/joyce3/273769/3163
+#EXTINF:-1,Jim Jam
+http://iptvbest.org:80/joyce3/273769/3164
+#EXTINF:-1,CARTOON NETWORK SD
+http://iptvbest.org:80/joyce3/273769/3165
+#EXTINF:-1,*** MUZICA ***
+http://iptvbest.org:80/joyce3/273769/3166
+#EXTINF:-1,TARAF TV SD
+http://iptvbest.org:80/joyce3/273769/3167
+#EXTINF:-1,ZU TV FHD
+http://iptvbest.org:80/joyce3/273769/3168
+#EXTINF:-1,VH1 SD
+http://iptvbest.org:80/joyce3/273769/3169
+#EXTINF:-1,UTV SD
+http://iptvbest.org:80/joyce3/273769/3170
+#EXTINF:-1,UTV FHD
+http://iptvbest.org:80/joyce3/273769/3171
+#EXTINF:-1,MUSIC CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3172
+#EXTINF:-1,First Music
+http://iptvbest.org:80/joyce3/273769/3173
+#EXTINF:-1,First Music FHD
+http://iptvbest.org:80/joyce3/273769/3174
+#EXTINF:-1,VH1 Classic
+http://iptvbest.org:80/joyce3/273769/3175
+#EXTINF:-1,BusuiocTV
+http://iptvbest.org:80/joyce3/273769/3176
+#EXTINF:-1,MTV Europe
+http://iptvbest.org:80/joyce3/273769/3177
+#EXTINF:-1,MTV ROCKS SD
+http://iptvbest.org:80/joyce3/273769/3178
+#EXTINF:-1,MTV Hits
+http://iptvbest.org:80/joyce3/273769/3179
+#EXTINF:-1,MTV Dance
+http://iptvbest.org:80/joyce3/273769/3180
+#EXTINF:-1,Mooz RO!
+http://iptvbest.org:80/joyce3/273769/3181
+#EXTINF:-1,Mooz Dance
+http://iptvbest.org:80/joyce3/273769/3182
+#EXTINF:-1,MTV LIVE FHD
+http://iptvbest.org:80/joyce3/273769/3183
+#EXTINF:-1,ROCK TV SD
+http://iptvbest.org:80/joyce3/273769/3184
+#EXTINF:-1,MOOZ FHD
+http://iptvbest.org:80/joyce3/273769/3185
+#EXTINF:-1,KISS TV SD
+http://iptvbest.org:80/joyce3/273769/3186
+#EXTINF:-1,HORA TV SD
+http://iptvbest.org:80/joyce3/273769/3187
+#EXTINF:-1,*** DOCUMENTARE ***
+http://iptvbest.org:80/joyce3/273769/3188
+#EXTINF:-1,VIASAT NATURE FHD
+http://iptvbest.org:80/joyce3/273769/3189
+#EXTINF:-1,VIASAT HISTORY SD
+http://iptvbest.org:80/joyce3/273769/3190
+#EXTINF:-1,VIASAT HISTORY FHD
+http://iptvbest.org:80/joyce3/273769/3191
+#EXTINF:-1,VIASAT EXPLORE SD
+http://iptvbest.org:80/joyce3/273769/3192
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://iptvbest.org:80/joyce3/273769/3193
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://iptvbest.org:80/joyce3/273769/3194
+#EXTINF:-1,DTX
+http://iptvbest.org:80/joyce3/273769/3195
+#EXTINF:-1,CNN
+http://iptvbest.org:80/joyce3/273769/3196
+#EXTINF:-1,Travel MIX FHD
+http://iptvbest.org:80/joyce3/273769/3197
+#EXTINF:-1,FINE LIVING
+http://iptvbest.org:80/joyce3/273769/3198
+#EXTINF:-1,NAT GEO WILD SD
+http://iptvbest.org:80/joyce3/273769/3199
+#EXTINF:-1,Crime & Investigation
+http://iptvbest.org:80/joyce3/273769/3200
+#EXTINF:-1,NAT GEO WILD FHD
+http://iptvbest.org:80/joyce3/273769/3201
+#EXTINF:-1,E! ENTERTAINMENT SD
+http://iptvbest.org:80/joyce3/273769/3202
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://iptvbest.org:80/joyce3/273769/3203
+#EXTINF:-1,DISCOVERY TURBO XTRA FHD
+http://iptvbest.org:80/joyce3/273769/3204
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://iptvbest.org:80/joyce3/273769/3205
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://iptvbest.org:80/joyce3/273769/3206
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3207
+#EXTINF:-1,TRAVEL MIX SD
+http://iptvbest.org:80/joyce3/273769/3208
+#EXTINF:-1,TRAVEL CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3209
+#EXTINF:-1,TRAVEL CHANNEL FHD
+http://iptvbest.org:80/joyce3/273769/3210
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://iptvbest.org:80/joyce3/273769/3211
+#EXTINF:-1,FISHING AND HUNTING SD
+http://iptvbest.org:80/joyce3/273769/3212
+#EXTINF:-1,DIGI LIFE SD
+http://iptvbest.org:80/joyce3/273769/3213
+#EXTINF:-1,FASHION TV SD
+http://iptvbest.org:80/joyce3/273769/3214
+#EXTINF:-1,DIGI WORLD SD
+http://iptvbest.org:80/joyce3/273769/3215
+#EXTINF:-1,DIGI WORLD FHD
+http://iptvbest.org:80/joyce3/273769/3216
+#EXTINF:-1,DIVA CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3217
+#EXTINF:-1,BBC EARTH SD
+http://iptvbest.org:80/joyce3/273769/3218
+#EXTINF:-1,ANIMAL PLANET FHD
+http://iptvbest.org:80/joyce3/273769/3219
+#EXTINF:-1,DIGI LIFE FHD
+http://iptvbest.org:80/joyce3/273769/3220
+#EXTINF:-1,DIGI ANIMAL WORLD SD
+http://iptvbest.org:80/joyce3/273769/3221
+#EXTINF:-1,DIGI ANIMAL WORLD FHD
+http://iptvbest.org:80/joyce3/273769/3222
+#EXTINF:-1,DA VINCI LEARNING SD
+http://iptvbest.org:80/joyce3/273769/3223
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://iptvbest.org:80/joyce3/273769/3224
+#EXTINF:-1,*** RELIGIE ***
+http://iptvbest.org:80/joyce3/273769/3225
+#EXTINF:-1,TRINITAS TV SD
+http://iptvbest.org:80/joyce3/273769/3226
+#EXTINF:-1,ALPHA MEDIA SD
+http://iptvbest.org:80/joyce3/273769/3227
+#EXTINF:-1,ALFA OMEGA SD
+http://iptvbest.org:80/joyce3/273769/3228
+#EXTINF:-1,SPERANTA TV SD
+http://iptvbest.org:80/joyce3/273769/3229
+#EXTINF:-1,CREDO TV SD
+http://iptvbest.org:80/joyce3/273769/3230
+#EXTINF:-1,*** REGIONALE ***
+http://iptvbest.org:80/joyce3/273769/3231
+#EXTINF:-1,SOMAX TV SD
+http://iptvbest.org:80/joyce3/273769/3232
+#EXTINF:-1,GAGIUL TV SD
+http://iptvbest.org:80/joyce3/273769/3233
+#EXTINF:-1,VP SD
+http://iptvbest.org:80/joyce3/273769/3234
+#EXTINF:-1,FAVORIT TV SD
+http://iptvbest.org:80/joyce3/273769/3235
+#EXTINF:-1,NASUL TV SD
+http://iptvbest.org:80/joyce3/273769/3236
+#EXTINF:-1,ETNO TV SD
+http://iptvbest.org:80/joyce3/273769/3237
+#EXTINF:-1,AGRO TV SD
+http://iptvbest.org:80/joyce3/273769/3238
+#EXTINF:-1,TVR International
+http://iptvbest.org:80/joyce3/273769/3239
+#EXTINF:-1,Rapsodia Tv
+http://iptvbest.org:80/joyce3/273769/3240
+#EXTINF:-1,PopasTV
+http://iptvbest.org:80/joyce3/273769/3241
+#EXTINF:-1,NorocTV
+http://iptvbest.org:80/joyce3/273769/3242
+#EXTINF:-1,Look Plus
+http://iptvbest.org:80/joyce3/273769/3243
+#EXTINF:-1,KronehitTV FHD
+http://iptvbest.org:80/joyce3/273769/3244
+#EXTINF:-1,GurinelTV
+http://iptvbest.org:80/joyce3/273769/3245
+#EXTINF:-1,TELESTAR1 SD
+http://iptvbest.org:80/joyce3/273769/3246
+#EXTINF:-1,TV NEPTUN SD
+http://iptvbest.org:80/joyce3/273769/3247
+#EXTINF:-1,TELE MOLDOVA PLUS SD
+http://iptvbest.org:80/joyce3/273769/3248
+#EXTINF:-1,SUCEAVA TV SD
+http://iptvbest.org:80/joyce3/273769/3249
+#EXTINF:-1,TV PAPRIKA SD
+http://iptvbest.org:80/joyce3/273769/3250
+#EXTINF:-1,Stirile ProTV
+http://iptvbest.org:80/joyce3/273769/3251
+#EXTINF:-1,SANGEORZ TV SD
+http://iptvbest.org:80/joyce3/273769/3252
+#EXTINF:-1,S TV SD
+http://iptvbest.org:80/joyce3/273769/3253
+#EXTINF:-1,PROFIT TV RO SD
+http://iptvbest.org:80/joyce3/273769/3254
+#EXTINF:-1,TELE M SD
+http://iptvbest.org:80/joyce3/273769/3255
+#EXTINF:-1,TV SUD EST SD
+http://iptvbest.org:80/joyce3/273769/3256
+#EXTINF:-1,NCN SD
+http://iptvbest.org:80/joyce3/273769/3257
+#EXTINF:-1,MAGIC TV SD
+http://iptvbest.org:80/joyce3/273769/3258
+#EXTINF:-1,MEDIKA TV SD
+http://iptvbest.org:80/joyce3/273769/3259
+#EXTINF:-1,LITORAL TV SD
+http://iptvbest.org:80/joyce3/273769/3260
+#EXTINF:-1,KAPITAL TV SD
+http://iptvbest.org:80/joyce3/273769/3261
+#EXTINF:-1,INFORMATIA TV SD
+http://iptvbest.org:80/joyce3/273769/3262
+#EXTINF:-1,IASI TV SD
+http://iptvbest.org:80/joyce3/273769/3263
+#EXTINF:-1,CROMTEL TV SD
+http://iptvbest.org:80/joyce3/273769/3264
+#EXTINF:-1,BUCURESTI TV SD
+http://iptvbest.org:80/joyce3/273769/3265
+#EXTINF:-1,BUCOVINA TV SD
+http://iptvbest.org:80/joyce3/273769/3266
+#EXTINF:-1,BIT TV SD
+http://iptvbest.org:80/joyce3/273769/3267
+#EXTINF:-1,ANTENA MONDEN SD
+http://iptvbest.org:80/joyce3/273769/3268
+#EXTINF:-1,ANTENA COOK&PLAY SD
+http://iptvbest.org:80/joyce3/273769/3269
+#EXTINF:-1,ANTENA COMEDY PLAY SD
+http://iptvbest.org:80/joyce3/273769/3270
+#EXTINF:-1,ACUM TV SD
+http://iptvbest.org:80/joyce3/273769/3271
