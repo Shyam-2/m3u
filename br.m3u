@@ -1,109 +1,189 @@
-#EXTM3U x-tvg-url="http://infinitytv.xyz/guide.xml"
-#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zX5c4CG.png" group-title="",Boa Vontade TV
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="",Canal Ricos
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="",Canção Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="",Canção Nova
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sQ5BKun.png" group-title="",FM O Dia
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SGupCEL.png" group-title="",In Paradise TV
-https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/36EnRYI.png" group-title="",Itú TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sk2AKSC.png" group-title="",RCI
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2WmdjU9.png" group-title="",Rede Metropole
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="",Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="",Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="",Rede Século 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="",Sesc TV
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="",Summer TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jpEJYfT.png" group-title="",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jpEJYfT.png" group-title="",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="",TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://bit.ly/2CyHmr0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/z5HMLv9.png" group-title="",TV Gidoes
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tEsqFyN.jpg" group-title="",TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/pel3QRE.jpg" group-title="",TV Paraná
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7bTT8mw.png" group-title="",TV Transamérica
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TYfIH55.png" group-title="",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NlB8ioY.png" group-title="",TVCI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VFDVsWK.jpg" group-title="",Web TV Minas
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTM3U
+#EXTINF:-1,24 horas
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66365
+#EXTINF:-1,24 KITCHEN
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66366
+#EXTINF:-1,A FAZENDA 11
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66367
+#EXTINF:-1,A&E FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66368
+#EXTINF:-1,AGRO BRAZIL
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66369
+#EXTINF:-1,ALFA TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66370
+#EXTINF:-1,ALL SPORTS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66371
+#EXTINF:-1,AMC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66372
+#EXTINF:-1,ANIMAL PLANET FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66373
+#EXTINF:-1,ARTE 1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66374
+#EXTINF:-1,AUTO MOTOR SPORT
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66375
+#EXTINF:-1,AXN FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66376
+#EXTINF:-1,BABY TV HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66377
+#EXTINF:-1,BALKANIKA MUSIC TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66378
+#EXTINF:-1,BAND 4K
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66379
+#EXTINF:-1,BAND HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66380
+#EXTINF:-1,BAND NEWS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66381
+#EXTINF:-1,BAND SPORTS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66382
+#EXTINF:-1,BG MUSIC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66383
+#EXTINF:-1,BIS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66384
+#EXTINF:-1,BNT 1 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66385
+#EXTINF:-1,BNT 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66386
+#EXTINF:-1,BNT 3
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66387
+#EXTINF:-1,BOA VONTADE TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66388
+#EXTINF:-1,BOOMBERANG FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66389
+#EXTINF:-1,BOOMERANG HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66390
+#EXTINF:-1,BOX TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66391
+#EXTINF:-1,BTV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66392
+#EXTINF:-1,BTV ACTION HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66393
+#EXTINF:-1,BTV COMEDY
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66395
+#EXTINF:-1,BTV LADY
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66396
+#EXTINF:-1,BULGARIA ON AIR
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66397
+#EXTINF:-1,CAN
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66398
+#EXTINF:-1,Canal Brasil HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66399
+#EXTINF:-1,CANAL Nova HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66400
+#EXTINF:-1,CANAL SONY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66401
+#EXTINF:-1,CANALASIL FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66402
+#EXTINF:-1,CANC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66403
+#EXTINF:-1,Cariri TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66404
+#EXTINF:-1,CARTOON
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66405
+#EXTINF:-1,CARTOON 4K
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66406
+#EXTINF:-1,Cartoon Network FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66407
+#EXTINF:-1,CHERNO MORE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66408
+#EXTINF:-1,Cine Sky
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66409
+#EXTINF:-1,CINE+
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66410
+#EXTINF:-1,CINEMAX 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66411
+#EXTINF:-1,CINEMAX FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66412
+#EXTINF:-1,CITY TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66413
+#EXTINF:-1,CNN INTERNACIONAL
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66414
+#EXTINF:-1,CNT HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66415
+#EXTINF:-1,COMBATE 4K
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66416
+#EXTINF:-1,COMBATE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66417
+#EXTINF:-1,COMEDY CENTRAL HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66418
+#EXTINF:-1,COMEDY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66419
+#EXTINF:-1,COMEDY PLUS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66420
+#EXTINF:-1,Crime+ Investigation
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66421
+#EXTINF:-1,CULTURA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66422
+#EXTINF:-1,Curta! HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66423
+#EXTINF:-1,DESTINATIONS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66424
+#EXTINF:-1,DIEAMA TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66425
+#EXTINF:-1,DIEMA FAMILY
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66426
+#EXTINF:-1,DIEMA SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66427
+#EXTINF:-1,DIEMA SPORT HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66428
+#EXTINF:-1,Discovery Channel FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66429
+#EXTINF:-1,Discovery CIVILIZATION HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66430
+#EXTINF:-1,Discovery H&H HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66431
+#EXTINF:-1,Discovery Kids FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66432
+#EXTINF:-1,Discovery Science HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66433
+#EXTINF:-1,Discovery THEATER FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66434
+#EXTINF:-1,Discovery TLC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66435
+#EXTINF:-1,Discovery Turbo FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66436
+#EXTINF:-1,Discovery WORLD FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66437
+#EXTINF:-1,Disney Channel FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66438
+#EXTINF:-1,Disney JR FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66439
+#EXTINF:-1,Disney XD FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66440
+#EXTINF:-1,DOG TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66441
+#EXTINF:-1,DSTV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66442
+#EXTINF:-1,DW
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66443
+#EXTINF:-1,DW Latin
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66444
+#EXTINF:-1,E! HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66445
+#EXTINF:-1,E-KIDS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66446
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66447
+#EXTINF:-1,ESPN 2 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66448
+#EXTINF:-1,ESPN 4K
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66449
+#EXTINF:-1,ESPN ASIL HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66450
+#EXTINF:-1,ESPN Brasil HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66451
+#EXTINF:-1,ESPN Extra FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66452
+#EXTINF:-1,ESPN FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66453
+#EXTINF:-1,EUROSPORT 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66454
+#EXTINF:-1,EVROKOM
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66455
+#EXTINF:-1,F PLUS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66456
+#EXTINF:-1,FEN FOLK
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66457
+#EXTINF:-1,FEN TV HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66458
+#EXTINF:-1,FILM ARTS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/66459
