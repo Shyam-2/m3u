@@ -1,241 +1,281 @@
 #EXTM3U
-#EXTINF:-1,ZDF NEO
-http://vlc.news:9000/0789986602/0789986602/99837
-#EXTINF:-1,ZDF INFO
-http://vlc.news:9000/0789986602/0789986602/99838
+#EXTINF:-1,One HD
+http://showflix.org:5890/mahir/1234/1175
+#EXTINF:-1,Das Erste HD
+http://showflix.org:5890/mahir/1234/1176
 #EXTINF:-1,ZDF HD
-http://vlc.news:9000/0789986602/0789986602/99839
-#EXTINF:-1,ZDF
-http://vlc.news:9000/0789986602/0789986602/99840
-#EXTINF:-1,WELT
-http://vlc.news:9000/0789986602/0789986602/99841
+http://showflix.org:5890/mahir/1234/1177
+#EXTINF:-1,ZDF info HD
+http://showflix.org:5890/mahir/1234/1180
 #EXTINF:-1,VOX HD
-http://vlc.news:9000/0789986602/0789986602/99842
+http://showflix.org:5890/mahir/1234/1181
 #EXTINF:-1,VOX
-http://vlc.news:9000/0789986602/0789986602/99843
+http://showflix.org:5890/mahir/1234/1182
+#EXTINF:-1,SAT.1 HD
+http://showflix.org:5890/mahir/1234/1183
+#EXTINF:-1,SAT.1
+http://showflix.org:5890/mahir/1234/1184
+#EXTINF:-1,SAT.1 Gold
+http://showflix.org:5890/mahir/1234/1185
 #EXTINF:-1,RTL HD
-http://vlc.news:9000/0789986602/0789986602/99844
+http://showflix.org:5890/mahir/1234/1187
 #EXTINF:-1,RTL
-http://vlc.news:9000/0789986602/0789986602/99845
-#EXTINF:-1,RTL 2 HD
-http://vlc.news:9000/0789986602/0789986602/99846
-#EXTINF:-1,RTL 2
-http://vlc.news:9000/0789986602/0789986602/99847
+http://showflix.org:5890/mahir/1234/1188
+#EXTINF:-1,RTL Zwei HD
+http://showflix.org:5890/mahir/1234/1189
+#EXTINF:-1,RTL Zwei
+http://showflix.org:5890/mahir/1234/1190
+#EXTINF:-1,RTL plus
+http://showflix.org:5890/mahir/1234/1191
+#EXTINF:-1,ProSieben HD
+http://showflix.org:5890/mahir/1234/1194
+#EXTINF:-1,ProSieben
+http://showflix.org:5890/mahir/1234/1195
+#EXTINF:-1,Pro7 MAXX
+http://showflix.org:5890/mahir/1234/1197
+#EXTINF:-1,kabel eins HD
+http://showflix.org:5890/mahir/1234/1198
+#EXTINF:-1,Zee One
+http://showflix.org:5890/mahir/1234/1199
+#EXTINF:-1,Zee One HD
+http://showflix.org:5890/mahir/1234/1200
+#EXTINF:-1,Channel 21
+http://showflix.org:5890/mahir/1234/1204
+#EXTINF:-1,N-TV
+http://showflix.org:5890/mahir/1234/1205
 #EXTINF:-1,SUPER RTL HD
-http://vlc.news:9000/0789986602/0789986602/99848
-#EXTINF:-1,Super RTL
-http://vlc.news:9000/0789986602/0789986602/99849
-#EXTINF:-1,RTL PASSION HD
-http://vlc.news:9000/0789986602/0789986602/99850
-#EXTINF:-1,DAZN 1 HD
-http://vlc.news:9000/0789986602/0789986602/99851
-#EXTINF:-1,DAZN 1
-http://vlc.news:9000/0789986602/0789986602/99852
-#EXTINF:-1,DAZN 2 HD
-http://vlc.news:9000/0789986602/0789986602/99853
-#EXTINF:-1,DAZN 2
-http://vlc.news:9000/0789986602/0789986602/99854
-#EXTINF:-1,SAT 1
-http://vlc.news:9000/0789986602/0789986602/99855
-#EXTINF:-1,NITRO
-http://vlc.news:9000/0789986602/0789986602/99856
-#EXTINF:-1,KABEL EINS
-http://vlc.news:9000/0789986602/0789986602/99857
-#EXTINF:-1,DAS ERSTE
-http://vlc.news:9000/0789986602/0789986602/99858
-#EXTINF:-1,ARTE
-http://vlc.news:9000/0789986602/0789986602/99859
-#EXTINF:-1,3SAT HD
-http://vlc.news:9000/0789986602/0789986602/99860
-#EXTINF:-1,ZEE ONE HD
-http://vlc.news:9000/0789986602/0789986602/99861
-#EXTINF:-1,TOGGO PLUS HD
-http://vlc.news:9000/0789986602/0789986602/99862
-#EXTINF:-1,SPIEGEL GESCHICHTE HD
-http://vlc.news:9000/0789986602/0789986602/99863
-#EXTINF:-1,ROMANCE TV
-http://vlc.news:9000/0789986602/0789986602/99864
-#EXTINF:-1,PROSIEBEN HD
-http://vlc.news:9000/0789986602/0789986602/99865
-#EXTINF:-1,KIKA
-http://vlc.news:9000/0789986602/0789986602/99866
-#EXTINF:-1,CLASSICA HD
-http://vlc.news:9000/0789986602/0789986602/99867
-#EXTINF:-1,MOTORVISION TV HD
-http://vlc.news:9000/0789986602/0789986602/99868
-#EXTINF:-1,MOTORVISION
-http://vlc.news:9000/0789986602/0789986602/99869
-#EXTINF:-1,EUROSPORT 2 XTRA
-http://vlc.news:9000/0789986602/0789986602/99870
-#EXTINF:-1,EUROSPORT 1 HD
-http://vlc.news:9000/0789986602/0789986602/99871
-#EXTINF:-1,NICKELODEON HD
-http://vlc.news:9000/0789986602/0789986602/99872
-#EXTINF:-1,NICKELODEON
-http://vlc.news:9000/0789986602/0789986602/99873
-#EXTINF:-1,KINOWELT TV HD
-http://vlc.news:9000/0789986602/0789986602/99874
-#EXTINF:-1,DISNEY JUNIOR HD
-http://vlc.news:9000/0789986602/0789986602/99875
-#EXTINF:-1,DISNEY JR
-http://vlc.news:9000/0789986602/0789986602/99876
-#EXTINF:-1,DISNEY XD
-http://vlc.news:9000/0789986602/0789986602/99877
-#EXTINF:-1,DISNEY CINEMAGIC
-http://vlc.news:9000/0789986602/0789986602/99878
-#EXTINF:-1,DISNEY CHANNEL
-http://vlc.news:9000/0789986602/0789986602/99879
-#EXTINF:-1,CARTOON NETWORK HD
-http://vlc.news:9000/0789986602/0789986602/99880
-#EXTINF:-1,JUKEBOX
-http://vlc.news:9000/0789986602/0789986602/99881
-#EXTINF:-1,NAT GEO WILD HD
-http://vlc.news:9000/0789986602/0789986602/99882
-#EXTINF:-1,DISCOVERY HD
-http://vlc.news:9000/0789986602/0789986602/99883
-#EXTINF:-1,DMAX HD
-http://vlc.news:9000/0789986602/0789986602/99884
-#EXTINF:-1,HISTORY HD
-http://vlc.news:9000/0789986602/0789986602/99885
-#EXTINF:-1,SYFY HD
-http://vlc.news:9000/0789986602/0789986602/99886
-#EXTINF:-1,13TH STREET HD
-http://vlc.news:9000/0789986602/0789986602/99887
-#EXTINF:-1,HEIMATKANAL HD
-http://vlc.news:9000/0789986602/0789986602/99888
-#EXTINF:-1,HEIMAT
-http://vlc.news:9000/0789986602/0789986602/99889
-#EXTINF:-1,BOOMERANG HD
-http://vlc.news:9000/0789986602/0789986602/99890
-#EXTINF:-1,NAT GEO
-http://vlc.news:9000/0789986602/0789986602/99891
-#EXTINF:-1,UNIVERSAL
-http://vlc.news:9000/0789986602/0789986602/99892
-#EXTINF:-1,TLC
-http://vlc.news:9000/0789986602/0789986602/99893
-#EXTINF:-1,BUNDESLIGA 1 SD
-http://vlc.news:9000/0789986602/0789986602/99894
-#EXTINF:-1,BUNDESLIGA 1 HD
-http://vlc.news:9000/0789986602/0789986602/99895
-#EXTINF:-1,BUNDESLIGA 2 HD
-http://vlc.news:9000/0789986602/0789986602/99896
-#EXTINF:-1,BUNDESLIGA 2 SD
-http://vlc.news:9000/0789986602/0789986602/99897
-#EXTINF:-1,BUNDESLIGA 3 HD
-http://vlc.news:9000/0789986602/0789986602/99898
-#EXTINF:-1,BUNDESLIGA 3 SD
-http://vlc.news:9000/0789986602/0789986602/99899
-#EXTINF:-1,BUNDESLIGA 4 SD
-http://vlc.news:9000/0789986602/0789986602/99900
-#EXTINF:-1,BUNDESLIGA 4 HD
-http://vlc.news:9000/0789986602/0789986602/99901
-#EXTINF:-1,BUNDESLIGA 5 HD
-http://vlc.news:9000/0789986602/0789986602/99902
-#EXTINF:-1,BUNDESLIGA 5 SD
-http://vlc.news:9000/0789986602/0789986602/99903
-#EXTINF:-1,CINEMA NOSTALGIE HD
-http://vlc.news:9000/0789986602/0789986602/99904
-#EXTINF:-1,CINEMA NOSTALGIE
-http://vlc.news:9000/0789986602/0789986602/99905
-#EXTINF:-1,CINEMA FAMILY HD
-http://vlc.news:9000/0789986602/0789986602/99906
-#EXTINF:-1,CINEMA EMOTION
-http://vlc.news:9000/0789986602/0789986602/99907
-#EXTINF:-1,CINEMA COMEDY HD
-http://vlc.news:9000/0789986602/0789986602/99908
-#EXTINF:-1,CINEMA ACTION HD
-http://vlc.news:9000/0789986602/0789986602/99909
-#EXTINF:-1,ATLANTIC HD
-http://vlc.news:9000/0789986602/0789986602/99910
-#EXTINF:-1,KRIMI HD
-http://vlc.news:9000/0789986602/0789986602/99911
-#EXTINF:-1,CINEMA HITS
-http://vlc.news:9000/0789986602/0789986602/99912
-#EXTINF:-1,CINEMA 1
-http://vlc.news:9000/0789986602/0789986602/99913
-#EXTINF:-1,TNT SERIE HD
-http://vlc.news:9000/0789986602/0789986602/99915
-#EXTINF:-1,TNT FILM HD
-http://vlc.news:9000/0789986602/0789986602/99916
-#EXTINF:-1,PRO 7 MAXX HD
-http://vlc.news:9000/0789986602/0789986602/99917
-#EXTINF:-1,PRO 7
-http://vlc.news:9000/0789986602/0789986602/99918
-#EXTINF:-1,SPORT 1 HD
-http://vlc.news:9000/0789986602/0789986602/99919
-#EXTINF:-1,SPORT 2 HD
-http://vlc.news:9000/0789986602/0789986602/99920
-#EXTINF:-1,SPORT 2
-http://vlc.news:9000/0789986602/0789986602/99921
-#EXTINF:-1,SPORT 3
-http://vlc.news:9000/0789986602/0789986602/99922
-#EXTINF:-1,SPORT 4 
-http://vlc.news:9000/0789986602/0789986602/99923
-#EXTINF:-1,SPORT 5 
-http://vlc.news:9000/0789986602/0789986602/99924
-#EXTINF:-1,SPORT 6
-http://vlc.news:9000/0789986602/0789986602/99925
-#EXTINF:-1,SPORT 7 
-http://vlc.news:9000/0789986602/0789986602/99926
-#EXTINF:-1,SPORT 8 
-http://vlc.news:9000/0789986602/0789986602/99927
-#EXTINF:-1,SPORT 9 
-http://vlc.news:9000/0789986602/0789986602/99928
-#EXTINF:-1,SPORT 10
-http://vlc.news:9000/0789986602/0789986602/99929
-#EXTINF:-1,SPORT NEWS HD
-http://vlc.news:9000/0789986602/0789986602/99930
-#EXTINF:-1,SPORT AUSTRIA
-http://vlc.news:9000/0789986602/0789986602/99931
-#EXTINF:-1,SELECT 1 HD
-http://vlc.news:9000/0789986602/0789986602/99932
-#EXTINF:-1,SELECT 2 HD
-http://vlc.news:9000/0789986602/0789986602/99933
-#EXTINF:-1,SELECT 3 HD
-http://vlc.news:9000/0789986602/0789986602/99934
-#EXTINF:-1,SELECT 4 HD
-http://vlc.news:9000/0789986602/0789986602/99935
-#EXTINF:-1,SELECT 5 HD
-http://vlc.news:9000/0789986602/0789986602/99936
-#EXTINF:-1,SELECT 6 HD
-http://vlc.news:9000/0789986602/0789986602/99937
-#EXTINF:-1,SELECT 7 HD
-http://vlc.news:9000/0789986602/0789986602/99938
-#EXTINF:-1,SELECT 8 HD
-http://vlc.news:9000/0789986602/0789986602/99939
-#EXTINF:-1,SELECT 9 HD
-http://vlc.news:9000/0789986602/0789986602/99940
+http://showflix.org:5890/mahir/1234/1206
+#EXTINF:-1,SUPER RTL
+http://showflix.org:5890/mahir/1234/1207
+#EXTINF:-1,Tagesschau 24
+http://showflix.org:5890/mahir/1234/1208
+#EXTINF:-1,Family TV
+http://showflix.org:5890/mahir/1234/1215
+#EXTINF:-1,Sky Krimi FHD
+http://showflix.org:5890/mahir/1234/1224
+#EXTINF:-1,Sky Cinema Alien HD
+http://showflix.org:5890/mahir/1234/1235
+#EXTINF:-1,Romance TV HD
+http://showflix.org:5890/mahir/1234/1242
+#EXTINF:-1,13th Street HD
+http://showflix.org:5890/mahir/1234/1243
+#EXTINF:-1,13th Street
+http://showflix.org:5890/mahir/1234/1244
+#EXTINF:-1,FOX
+http://showflix.org:5890/mahir/1234/1246
+#EXTINF:-1,Fox Serie
+http://showflix.org:5890/mahir/1234/1247
+#EXTINF:-1,TNT Serie
+http://showflix.org:5890/mahir/1234/1249
+#EXTINF:-1,TNT Comedy HD
+http://showflix.org:5890/mahir/1234/1256
+#EXTINF:-1,SIXX HD
+http://showflix.org:5890/mahir/1234/1250
 #EXTINF:-1,SIXX
-http://vlc.news:9000/0789986602/0789986602/99941
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://vlc.news:9000/0789986602/0789986602/99942
-#EXTINF:-1,SAT 1 GOLD
-http://vlc.news:9000/0789986602/0789986602/99943
-#EXTINF:-1,CLASSICA
-http://vlc.news:9000/0789986602/0789986602/99944
-#EXTINF:-1,DAS ERSTE HEVC
-http://vlc.news:9000/0789986602/0789986602/99945
-#EXTINF:-1,E! HD
-http://vlc.news:9000/0789986602/0789986602/99946
-#EXTINF:-1,Premiere INFO
-http://vlc.news:9000/0789986602/0789986602/99947
-#EXTINF:-1,Premiere 1 HD
-http://vlc.news:9000/0789986602/0789986602/99948
-#EXTINF:-1,Premiere 2 HD
-http://vlc.news:9000/0789986602/0789986602/99949
-#EXTINF:-1,Premiere 3 HD
-http://vlc.news:9000/0789986602/0789986602/99950
-#EXTINF:-1,Premiere 4 HD
-http://vlc.news:9000/0789986602/0789986602/99951
-#EXTINF:-1,Premiere 5 HD
-http://vlc.news:9000/0789986602/0789986602/99952
-#EXTINF:-1,Premiere 6 HD
-http://vlc.news:9000/0789986602/0789986602/99953
-#EXTINF:-1,Premiere 7 HD
-http://vlc.news:9000/0789986602/0789986602/99954
-#EXTINF:-1,Premiere 8
-http://vlc.news:9000/0789986602/0789986602/99955
-#EXTINF:-1,Premiere 9
-http://vlc.news:9000/0789986602/0789986602/99956
-#EXTINF:-1,Galileo
-http://vlc.news:9000/0789986602/0789986602/99957
+http://showflix.org:5890/mahir/1234/1251
+#EXTINF:-1,NITRO
+http://showflix.org:5890/mahir/1234/1253
+#EXTINF:-1,Comedy Central
+http://showflix.org:5890/mahir/1234/1257
+#EXTINF:-1,SYFY HD
+http://showflix.org:5890/mahir/1234/1258
+#EXTINF:-1,SYFY
+http://showflix.org:5890/mahir/1234/1259
+#EXTINF:-1,TLC HD
+http://showflix.org:5890/mahir/1234/1260
+#EXTINF:-1,TLC
+http://showflix.org:5890/mahir/1234/1261
+#EXTINF:-1,Kinowelt TV HD
+http://showflix.org:5890/mahir/1234/1262
+#EXTINF:-1,E! Entertainm. HD
+http://showflix.org:5890/mahir/1234/1263
+#EXTINF:-1,Sport1 HD
+http://showflix.org:5890/mahir/1234/1265
+#EXTINF:-1,DAZN 1 Bar FHD
+http://showflix.org:5890/mahir/1234/1266
+#EXTINF:-1,DAZN 2 Bar FHD
+http://showflix.org:5890/mahir/1234/1267
+#EXTINF:-1,Eurosport 1 HD
+http://showflix.org:5890/mahir/1234/1268
+#EXTINF:-1,Eurosport 1 SD
+http://showflix.org:5890/mahir/1234/1269
+#EXTINF:-1,Eurosport 2  HD Xtra
+http://showflix.org:5890/mahir/1234/1270
+#EXTINF:-1,Sport Digital HD
+http://showflix.org:5890/mahir/1234/1271
+#EXTINF:-1,Motorvision TV
+http://showflix.org:5890/mahir/1234/1272
+#EXTINF:-1,Sky Sport News FHD
+http://showflix.org:5890/mahir/1234/1273
+#EXTINF:-1,Sky Sport News
+http://showflix.org:5890/mahir/1234/1274
+#EXTINF:-1,Sky Sport Austria 
+http://showflix.org:5890/mahir/1234/1275
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://showflix.org:5890/mahir/1234/1276
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://showflix.org:5890/mahir/1234/1277
+#EXTINF:-1,Sky Sport Bundesliga 2 | Match time 
+http://showflix.org:5890/mahir/1234/1278
+#EXTINF:-1,Sky Sport Bundesliga 2 HD | Match time 
+http://showflix.org:5890/mahir/1234/1279
+#EXTINF:-1,Sky Sport Bundesliga 3 HD | Match time 
+http://showflix.org:5890/mahir/1234/1280
+#EXTINF:-1,Sky Sport Bundesliga 3 | Match time 
+http://showflix.org:5890/mahir/1234/1281
+#EXTINF:-1,Sky Sport Bundesliga 4 HD | Match time 
+http://showflix.org:5890/mahir/1234/1282
+#EXTINF:-1,DE |Sky Sport Bundesliga 4 | Match time 
+http://showflix.org:5890/mahir/1234/1283
+#EXTINF:-1,Sky Sport Bundesliga 5 HD | Match time 
+http://showflix.org:5890/mahir/1234/1284
+#EXTINF:-1,Sky Sport Bundesliga 5 | Match time 
+http://showflix.org:5890/mahir/1234/1285
+#EXTINF:-1,Sky Sport Bundesliga 6 HD | Match time 
+http://showflix.org:5890/mahir/1234/1286
+#EXTINF:-1,Sky Sport Bundesliga 6 | Match time 
+http://showflix.org:5890/mahir/1234/1287
+#EXTINF:-1,Sky Sport Bundesliga 7 | Match time 
+http://showflix.org:5890/mahir/1234/1288
+#EXTINF:-1,Sky Sport Bundesliga 8 | Match time 
+http://showflix.org:5890/mahir/1234/1289
+#EXTINF:-1,Sky Sport Bundesliga 9 | Match time 
+http://showflix.org:5890/mahir/1234/1290
+#EXTINF:-1,Sky Sport Bundesliga 10 HD | Match time 
+http://showflix.org:5890/mahir/1234/1291
+#EXTINF:-1,Sky Sport Bundesliga 10 | Match time 
+http://showflix.org:5890/mahir/1234/1292
+#EXTINF:-1,Sky Sport 1 HD
+http://showflix.org:5890/mahir/1234/1293
+#EXTINF:-1,Sky Sport 1
+http://showflix.org:5890/mahir/1234/1294
+#EXTINF:-1,Sky Sport 2 HD
+http://showflix.org:5890/mahir/1234/1295
+#EXTINF:-1,Sky Sport 2
+http://showflix.org:5890/mahir/1234/1296
+#EXTINF:-1,Sky Sport 3 HD | Match time 
+http://showflix.org:5890/mahir/1234/1297
+#EXTINF:-1,Sky Sport 3 | Match time 
+http://showflix.org:5890/mahir/1234/1298
+#EXTINF:-1,Sky Sport 4 HD | Match time 
+http://showflix.org:5890/mahir/1234/1299
+#EXTINF:-1,Sky Sport 4 | Match time 
+http://showflix.org:5890/mahir/1234/1300
+#EXTINF:-1,Sky Sport 5HD | Match time 
+http://showflix.org:5890/mahir/1234/1301
+#EXTINF:-1,Sky Sport 5 | Match time 
+http://showflix.org:5890/mahir/1234/1302
+#EXTINF:-1,Sky Sport 6 HD | Match time 
+http://showflix.org:5890/mahir/1234/1303
+#EXTINF:-1,Sky Sport 6 ( Match time )
+http://showflix.org:5890/mahir/1234/1304
+#EXTINF:-1,Sky Sport 7 HD | Match time 
+http://showflix.org:5890/mahir/1234/1305
+#EXTINF:-1,Sky Sport 7 | Match time 
+http://showflix.org:5890/mahir/1234/1306
+#EXTINF:-1,Sky Sport 8 | Match time 
+http://showflix.org:5890/mahir/1234/1307
+#EXTINF:-1,Sky Sport 9 | Match time 
+http://showflix.org:5890/mahir/1234/1308
+#EXTINF:-1,Sky Sport 10 | Match time 
+http://showflix.org:5890/mahir/1234/1309
+#EXTINF:-1,Sky Sport 11 HD | Match time 
+http://showflix.org:5890/mahir/1234/1310
+#EXTINF:-1,Sky Sport 11 | Match time 
+http://showflix.org:5890/mahir/1234/1311
+#EXTINF:-1,National Geographic HD
+http://showflix.org:5890/mahir/1234/1313
+#EXTINF:-1,National Geographic
+http://showflix.org:5890/mahir/1234/1314
+#EXTINF:-1,Nat Geo Wild FHD
+http://showflix.org:5890/mahir/1234/1315
+#EXTINF:-1,Nat Geo Wild
+http://showflix.org:5890/mahir/1234/1317
+#EXTINF:-1,DMAX HD
+http://showflix.org:5890/mahir/1234/1316
+#EXTINF:-1,N24 DOKU
+http://showflix.org:5890/mahir/1234/1318
+#EXTINF:-1,ANIXE HD
+http://showflix.org:5890/mahir/1234/1327
+#EXTINF:-1,3sat HD
+http://showflix.org:5890/mahir/1234/1328
+#EXTINF:-1,Discovery HD
+http://showflix.org:5890/mahir/1234/1319
+#EXTINF:-1,Discovery
+http://showflix.org:5890/mahir/1234/1320
+#EXTINF:-1,History HD
+http://showflix.org:5890/mahir/1234/1324
+#EXTINF:-1,kabel eins Doku
+http://showflix.org:5890/mahir/1234/1325
+#EXTINF:-1,CRIME+ INVESTI GATION HD
+http://showflix.org:5890/mahir/1234/1326
+#EXTINF:-1,EWTN katholisches TV
+http://showflix.org:5890/mahir/1234/1323
+#EXTINF:-1,KiKA HD
+http://showflix.org:5890/mahir/1234/1331
+#EXTINF:-1,Boomerang
+http://showflix.org:5890/mahir/1234/1333
+#EXTINF:-1,Junior
+http://showflix.org:5890/mahir/1234/1334
+#EXTINF:-1,TOGGO plus
+http://showflix.org:5890/mahir/1234/1335
+#EXTINF:-1,Disney XD HD
+http://showflix.org:5890/mahir/1234/1336
+#EXTINF:-1,Disney Junior HD
+http://showflix.org:5890/mahir/1234/1337
+#EXTINF:-1,Disney Junior
+http://showflix.org:5890/mahir/1234/1338
+#EXTINF:-1,Disney Cinemagic HD
+http://showflix.org:5890/mahir/1234/1339
+#EXTINF:-1,Disney Cinemagic
+http://showflix.org:5890/mahir/1234/1340
+#EXTINF:-1,Disney Channel  ᴴᴰ
+http://showflix.org:5890/mahir/1234/1341
+#EXTINF:-1,NICKELODEON AT
+http://showflix.org:5890/mahir/1234/1342
+#EXTINF:-1,MTV HD
+http://showflix.org:5890/mahir/1234/1344
+#EXTINF:-1,Classica
+http://showflix.org:5890/mahir/1234/1346
+#EXTINF:-1,DELUXE MUSIC
+http://showflix.org:5890/mahir/1234/1347
+#EXTINF:-1,SKY SELECTE 1 HD
+http://showflix.org:5890/mahir/1234/1192
+#EXTINF:-1,SKY SELECTE 2 HD
+http://showflix.org:5890/mahir/1234/1193
+#EXTINF:-1,SKY SELECTE 3 HD
+http://showflix.org:5890/mahir/1234/1202
+#EXTINF:-1,SKY SELECTE 4 HD
+http://showflix.org:5890/mahir/1234/1203
+#EXTINF:-1,SKY SELECTE 5 HD
+http://showflix.org:5890/mahir/1234/1209
+#EXTINF:-1,SKY SELECTE 6 HD
+http://showflix.org:5890/mahir/1234/1210
+#EXTINF:-1,SKY SELECTE 7 HD
+http://showflix.org:5890/mahir/1234/1211
+#EXTINF:-1,SKY SELECTE 8 HD
+http://showflix.org:5890/mahir/1234/1212
+#EXTINF:-1,SKY SELECTE 9 HD
+http://showflix.org:5890/mahir/1234/1213
+#EXTINF:-1,SKY SELECTE 10 HD
+http://showflix.org:5890/mahir/1234/1214
+#EXTINF:-1,Sky Select 1 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1349
+#EXTINF:-1,Sky Select 2 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1350
+#EXTINF:-1,Sky Select 3 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1351
+#EXTINF:-1,Sky Select 4 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1352
+#EXTINF:-1,Sky Select 5 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1353
+#EXTINF:-1,Sky Select 6 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1354
+#EXTINF:-1,Sky Select 7 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1355
+#EXTINF:-1,Sky Select 8 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1356
+#EXTINF:-1,Sky Select 9 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1357
+#EXTINF:-1,Sky Select 10 ᴴᴰ
+http://showflix.org:5890/mahir/1234/1358
