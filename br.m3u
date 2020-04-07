@@ -1,117 +1,419 @@
 #EXTM3U
-#EXTINF:-1,AE HD
-http://showflix.org:5890/mahir/1234/68173
-#EXTINF:-1,Animal Planet HD
-http://showflix.org:5890/mahir/1234/68174
-#EXTINF:-1,Arte 1
-http://showflix.org:5890/mahir/1234/68175
+#EXTINF:-1,A&E HD
+http://m-iptv.net:6204/12345678/12345678/32855
+#EXTINF:-1,AMC HD
+http://m-iptv.net:6204/12345678/12345678/32856
+#EXTINF:-1,Animal Planet Full HD
+http://m-iptv.net:6204/12345678/12345678/32857
+#EXTINF:-1,Arte 1 HD
+http://m-iptv.net:6204/12345678/12345678/32858
 #EXTINF:-1,AXN HD
-http://showflix.org:5890/mahir/1234/68176
-#EXTINF:-1,Band Sport HD
-http://showflix.org:5890/mahir/1234/68177
-#EXTINF:-1,Can
-http://showflix.org:5890/mahir/1234/68178
+http://m-iptv.net:6204/12345678/12345678/32859
+#EXTINF:-1,Band Campinas SD
+http://m-iptv.net:6204/12345678/12345678/32860
+#EXTINF:-1,Band SP HD
+http://m-iptv.net:6204/12345678/12345678/32861
 #EXTINF:-1,Band News HD
-http://showflix.org:5890/mahir/1234/68179
-#EXTINF:-1,Discovery TV
-http://showflix.org:5890/mahir/1234/68180
-#EXTINF:-1,Fish TV
-http://showflix.org:5890/mahir/1234/68181
-#EXTINF:-1,FOX Sports HD
-http://showflix.org:5890/mahir/1234/68182
-#EXTINF:-1,FOX Sports 2
-http://showflix.org:5890/mahir/1234/68183
-#EXTINF:-1,Globo News
-http://showflix.org:5890/mahir/1234/68184
-#EXTINF:-1,Globo Nordeste
-http://showflix.org:5890/mahir/1234/68185
-#EXTINF:-1,Globo Premium
-http://showflix.org:5890/mahir/1234/68186
-#EXTINF:-1,Globo RJ
-http://showflix.org:5890/mahir/1234/68187
+http://m-iptv.net:6204/12345678/12345678/32862
+#EXTINF:-1,Band Nordeste SD
+http://m-iptv.net:6204/12345678/12345678/32863
+#EXTINF:-1,Band Sports HD
+http://m-iptv.net:6204/12345678/12345678/33245
+#EXTINF:-1,Bis HD
+http://m-iptv.net:6204/12345678/12345678/32865
+#EXTINF:-1,Boomerang HD
+http://m-iptv.net:6204/12345678/12345678/32866
+#EXTINF:-1,Canal Brasil SD
+http://m-iptv.net:6204/12345678/12345678/32867
+#EXTINF:-1,Cartoon Network HD
+http://m-iptv.net:6204/12345678/12345678/32868
+#EXTINF:-1,Cinemax HD
+http://m-iptv.net:6204/12345678/12345678/32869
+#EXTINF:-1,Combate HD
+http://m-iptv.net:6204/12345678/12345678/32870
+#EXTINF:-1,Comedy Central HD
+http://m-iptv.net:6204/12345678/12345678/32871
+#EXTINF:-1,Cultura HD
+http://m-iptv.net:6204/12345678/12345678/32872
+#EXTINF:-1,Curta! HD
+http://m-iptv.net:6204/12345678/12345678/32873
+#EXTINF:-1,Discovery Channel HD
+http://m-iptv.net:6204/12345678/12345678/32874
+#EXTINF:-1,HGTV HD
+http://m-iptv.net:6204/12345678/12345678/32875
+#EXTINF:-1,Discovery Home & Health HD
+http://m-iptv.net:6204/12345678/12345678/32876
+#EXTINF:-1,Discovery Kids HD
+http://m-iptv.net:6204/12345678/12345678/32877
+#EXTINF:-1,Discovery Science HD
+http://m-iptv.net:6204/12345678/12345678/32878
+#EXTINF:-1,Discovery Theater HD
+http://m-iptv.net:6204/12345678/12345678/32879
+#EXTINF:-1,Discovery TLC HD
+http://m-iptv.net:6204/12345678/12345678/32880
+#EXTINF:-1,Discovery Turbo HD
+http://m-iptv.net:6204/12345678/12345678/32881
+#EXTINF:-1,Discovery World HD
+http://m-iptv.net:6204/12345678/12345678/32882
+#EXTINF:-1,Disney Channel HD
+http://m-iptv.net:6204/12345678/12345678/32883
+#EXTINF:-1,Disney Junior Full HD
+http://m-iptv.net:6204/12345678/12345678/32884
+#EXTINF:-1,Disney XD HD
+http://m-iptv.net:6204/12345678/12345678/32885
+#EXTINF:-1,E! HD
+http://m-iptv.net:6204/12345678/12345678/32886
+#EXTINF:-1,Ei Plus
+http://m-iptv.net:6204/12345678/12345678/32887
+#EXTINF:-1,ESPN 2 HD
+http://m-iptv.net:6204/12345678/12345678/33271
+#EXTINF:-1,ESPN Brasil HD
+http://m-iptv.net:6204/12345678/12345678/33272
+#EXTINF:-1,ESPN HD
+http://m-iptv.net:6204/12345678/12345678/33280
+#EXTINF:-1,Fish TV HD
+http://m-iptv.net:6204/12345678/12345678/32891
+#EXTINF:-1,Food Network HD
+http://m-iptv.net:6204/12345678/12345678/32892
+#EXTINF:-1,Fox HD
+http://m-iptv.net:6204/12345678/12345678/32893
+#EXTINF:-1,Fox Life HD
+http://m-iptv.net:6204/12345678/12345678/32894
+#EXTINF:-1,Fox Premium 1 HD
+http://m-iptv.net:6204/12345678/12345678/32895
+#EXTINF:-1,Fox Premium 2 HD
+http://m-iptv.net:6204/12345678/12345678/32896
+#EXTINF:-1,Fox SD
+http://m-iptv.net:6204/12345678/12345678/32897
+#EXTINF:-1,Fox Sports 2 HD
+http://m-iptv.net:6204/12345678/12345678/33276
+#EXTINF:-1,Fox Sports HD
+http://m-iptv.net:6204/12345678/12345678/33277
+#EXTINF:-1,Futura HD
+http://m-iptv.net:6204/12345678/12345678/32900
+#EXTINF:-1,FX HD
+http://m-iptv.net:6204/12345678/12345678/32901
+#EXTINF:-1,Globo Anhanguera Goiania SD
+http://m-iptv.net:6204/12345678/12345678/32902
+#EXTINF:-1,Globo Brasilia SD
+http://m-iptv.net:6204/12345678/12345678/32903
+#EXTINF:-1,Globo Centro América SD
+http://m-iptv.net:6204/12345678/12345678/32904
+#EXTINF:-1,Globo EPTV Campinas HD
+http://m-iptv.net:6204/12345678/12345678/32905
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://m-iptv.net:6204/12345678/12345678/32906
+#EXTINF:-1,Globo Internacional SD
+http://m-iptv.net:6204/12345678/12345678/32907
+#EXTINF:-1,Globo Minas HD
+http://m-iptv.net:6204/12345678/12345678/32908
+#EXTINF:-1,Globo News HD
+http://m-iptv.net:6204/12345678/12345678/32909
+#EXTINF:-1,Globo Nordeste Full HD
+http://m-iptv.net:6204/12345678/12345678/32910
+#EXTINF:-1,Globo Nordeste HD
+http://m-iptv.net:6204/12345678/12345678/32911
+#EXTINF:-1,Globo RBS Porto Alegre SD
+http://m-iptv.net:6204/12345678/12345678/32912
+#EXTINF:-1,Globo RBS TV Poa SD
+http://m-iptv.net:6204/12345678/12345678/32913
+#EXTINF:-1,Globo Ribeirao Preto SD
+http://m-iptv.net:6204/12345678/12345678/32914
 #EXTINF:-1,Globo RJ HD
-http://showflix.org:5890/mahir/1234/68188
-#EXTINF:-1,Globo SP
-http://showflix.org:5890/mahir/1234/68189
+http://m-iptv.net:6204/12345678/12345678/32915
+#EXTINF:-1,Globo RPC TV SD
+http://m-iptv.net:6204/12345678/12345678/32916
+#EXTINF:-1,Globo Sergipe SD
+http://m-iptv.net:6204/12345678/12345678/32917
 #EXTINF:-1,Globo SP HD
-http://showflix.org:5890/mahir/1234/68190
-#EXTINF:-1,Gloob
-http://showflix.org:5890/mahir/1234/68191
-#EXTINF:-1,History FHD
-http://showflix.org:5890/mahir/1234/68192
-#EXTINF:-1,MTV
-http://showflix.org:5890/mahir/1234/68193
-#EXTINF:-1,Mais Globosat HD
-http://showflix.org:5890/mahir/1234/68194
-#EXTINF:-1,MegaPix
-http://showflix.org:5890/mahir/1234/68195
-#EXTINF:-1,MegaPix TV
-http://showflix.org:5890/mahir/1234/68196
-#EXTINF:-1,Proyecto 40
-http://showflix.org:5890/mahir/1234/68197
-#EXTINF:-1,RCTV
-http://showflix.org:5890/mahir/1234/68198
-#EXTINF:-1,Redeasil
-http://showflix.org:5890/mahir/1234/68199
-#EXTINF:-1,Rede Gospel
-http://showflix.org:5890/mahir/1234/68200
-#EXTINF:-1,Rede TV
-http://showflix.org:5890/mahir/1234/68201
-#EXTINF:-1,SporTV 1
-http://showflix.org:5890/mahir/1234/68202
-#EXTINF:-1,SporTV 2
-http://showflix.org:5890/mahir/1234/68203
-#EXTINF:-1,SporTV 3
-http://showflix.org:5890/mahir/1234/68204
-#EXTINF:-1,Syfy
-http://showflix.org:5890/mahir/1234/68205
-#EXTINF:-1,TC Action
-http://showflix.org:5890/mahir/1234/68206
-#EXTINF:-1,TC Cult
-http://showflix.org:5890/mahir/1234/68207
-#EXTINF:-1,TC Fun
-http://showflix.org:5890/mahir/1234/68208
-#EXTINF:-1,TC Pipoca HD
-http://showflix.org:5890/mahir/1234/68209
-#EXTINF:-1,TNT HD
-http://showflix.org:5890/mahir/1234/68210
-#EXTINF:-1,TV Aparceida
-http://showflix.org:5890/mahir/1234/68211
-#EXTINF:-1,TVasil Central
-http://showflix.org:5890/mahir/1234/68212
-#EXTINF:-1,TV Diario
-http://showflix.org:5890/mahir/1234/68213
-#EXTINF:-1,TLC
-http://showflix.org:5890/mahir/1234/68214
-#EXTINF:-1,TV Gazeta HD
-http://showflix.org:5890/mahir/1234/68215
-#EXTINF:-1,TV Gearl
-http://showflix.org:5890/mahir/1234/68216
-#EXTINF:-1,TV Globo
-http://showflix.org:5890/mahir/1234/68217
-#EXTINF:-1,TV Globo Premium
-http://showflix.org:5890/mahir/1234/68218
-#EXTINF:-1,Universal TV
-http://showflix.org:5890/mahir/1234/68219
+http://m-iptv.net:6204/12345678/12345678/32918
+#EXTINF:-1,Globo TV Bahia SD
+http://m-iptv.net:6204/12345678/12345678/32919
+#EXTINF:-1,Globo TV Belem SD
+http://m-iptv.net:6204/12345678/12345678/32920
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://m-iptv.net:6204/12345678/12345678/32921
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://m-iptv.net:6204/12345678/12345678/32922
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://m-iptv.net:6204/12345678/12345678/32923
+#EXTINF:-1,Globo TV Vanguarda Sâo José Dos Campos SD
+http://m-iptv.net:6204/12345678/12345678/32924
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://m-iptv.net:6204/12345678/12345678/32925
+#EXTINF:-1,Globosat HD
+http://m-iptv.net:6204/12345678/12345678/32926
+#EXTINF:-1,Gloob HD
+http://m-iptv.net:6204/12345678/12345678/32927
+#EXTINF:-1,GNT HD
+http://m-iptv.net:6204/12345678/12345678/32928
+#EXTINF:-1,H2 HD
+http://m-iptv.net:6204/12345678/12345678/32929
+#EXTINF:-1,HBO 2 HD
+http://m-iptv.net:6204/12345678/12345678/32930
+#EXTINF:-1,HBO Family HD
+http://m-iptv.net:6204/12345678/12345678/32931
+#EXTINF:-1,HBO HD
+http://m-iptv.net:6204/12345678/12345678/32932
+#EXTINF:-1,HBO Plus HD
+http://m-iptv.net:6204/12345678/12345678/32933
+#EXTINF:-1,HBO Plus*e HD
+http://m-iptv.net:6204/12345678/12345678/32934
+#EXTINF:-1,HBO Signature HD
+http://m-iptv.net:6204/12345678/12345678/32935
+#EXTINF:-1,History Channel HD
+http://m-iptv.net:6204/12345678/12345678/32936
+#EXTINF:-1,Lifetime HD
+http://m-iptv.net:6204/12345678/12345678/32937
+#EXTINF:-1,HBO Mundi HD
+http://m-iptv.net:6204/12345678/12345678/32938
+#EXTINF:-1,HBO Extreme HD
+http://m-iptv.net:6204/12345678/12345678/32939
+#EXTINF:-1,HBO Mundi SD
+http://m-iptv.net:6204/12345678/12345678/32940
+#EXTINF:-1,HBO Pop HD
+http://m-iptv.net:6204/12345678/12345678/32941
+#EXTINF:-1,Megapix HD
+http://m-iptv.net:6204/12345678/12345678/32942
+#EXTINF:-1,MTV HD
+http://m-iptv.net:6204/12345678/12345678/32943
+#EXTINF:-1,MTV Live HD
+http://m-iptv.net:6204/12345678/12345678/32944
+#EXTINF:-1,Multishow HD
+http://m-iptv.net:6204/12345678/12345678/32945
+#EXTINF:-1,Music Box Brazil SD
+http://m-iptv.net:6204/12345678/12345678/32946
+#EXTINF:-1,Nat Geo Kids HD
+http://m-iptv.net:6204/12345678/12345678/32947
+#EXTINF:-1,Nat Geo Wild HD
+http://m-iptv.net:6204/12345678/12345678/32948
+#EXTINF:-1,National Geographic HD
+http://m-iptv.net:6204/12345678/12345678/32949
+#EXTINF:-1,Nick Jr HD
+http://m-iptv.net:6204/12345678/12345678/32950
+#EXTINF:-1,Nickelodeon HD
+http://m-iptv.net:6204/12345678/12345678/32951
+#EXTINF:-1,Novo Tempo SD
+http://m-iptv.net:6204/12345678/12345678/32952
+#EXTINF:-1,Off HD
+http://m-iptv.net:6204/12345678/12345678/32953
+#EXTINF:-1,Paramount Channel HD
+http://m-iptv.net:6204/12345678/12345678/32954
+#EXTINF:-1,Play TV SD
+http://m-iptv.net:6204/12345678/12345678/32955
+#EXTINF:-1,Premiere 1 SD
+http://m-iptv.net:6204/12345678/12345678/32956
+#EXTINF:-1,Premiere 2 HD
+http://m-iptv.net:6204/12345678/12345678/32957
+#EXTINF:-1,Premiere 3 HD
+http://m-iptv.net:6204/12345678/12345678/32958
+#EXTINF:-1,Premiere 4 HD
+http://m-iptv.net:6204/12345678/12345678/32959
+#EXTINF:-1,Premiere 5 HD
+http://m-iptv.net:6204/12345678/12345678/32960
+#EXTINF:-1,Premiere 6 HD
+http://m-iptv.net:6204/12345678/12345678/32961
+#EXTINF:-1,Premiere 7 SD
+http://m-iptv.net:6204/12345678/12345678/32962
+#EXTINF:-1,Premiere 8 SD
+http://m-iptv.net:6204/12345678/12345678/32963
+#EXTINF:-1,Premiere Clubes HD
+http://m-iptv.net:6204/12345678/12345678/32964
+#EXTINF:-1,Record Campinas HD
+http://m-iptv.net:6204/12345678/12345678/32965
+#EXTINF:-1,Record DF SD
+http://m-iptv.net:6204/12345678/12345678/32966
+#EXTINF:-1,Record Esp. Santo SD
+http://m-iptv.net:6204/12345678/12345678/32967
+#EXTINF:-1,Record MG SD
+http://m-iptv.net:6204/12345678/12345678/32968
+#EXTINF:-1,Record News HD
+http://m-iptv.net:6204/12345678/12345678/32969
+#EXTINF:-1,Record Nordeste HD
+http://m-iptv.net:6204/12345678/12345678/32970
+#EXTINF:-1,Record RJ SD
+http://m-iptv.net:6204/12345678/12345678/32971
+#EXTINF:-1,Record SP HD
+http://m-iptv.net:6204/12345678/12345678/32972
+#EXTINF:-1,Rede Familia SD
+http://m-iptv.net:6204/12345678/12345678/32973
+#EXTINF:-1,Rede TV HD
+http://m-iptv.net:6204/12345678/12345678/32974
+#EXTINF:-1,Rede Vida HD
+http://m-iptv.net:6204/12345678/12345678/32975
+#EXTINF:-1,SBT Goias HD
+http://m-iptv.net:6204/12345678/12345678/32976
+#EXTINF:-1,SBT SP HD
+http://m-iptv.net:6204/12345678/12345678/32977
+#EXTINF:-1,SBT Nordeste HD
+http://m-iptv.net:6204/12345678/12345678/32978
+#EXTINF:-1,Sony HD
+http://m-iptv.net:6204/12345678/12345678/32979
+#EXTINF:-1,Space HD
+http://m-iptv.net:6204/12345678/12345678/32980
+#EXTINF:-1,SporTV 2 HD
+http://m-iptv.net:6204/12345678/12345678/33324
+#EXTINF:-1,SporTV 3 HD
+http://m-iptv.net:6204/12345678/12345678/33326
+#EXTINF:-1,SporTV HD
+http://m-iptv.net:6204/12345678/12345678/33328
 #EXTINF:-1,Studio Universal HD
-http://showflix.org:5890/mahir/1234/68220
+http://m-iptv.net:6204/12345678/12345678/32984
+#EXTINF:-1,SyFy HD
+http://m-iptv.net:6204/12345678/12345678/32985
+#EXTINF:-1,TBS SD
+http://m-iptv.net:6204/12345678/12345678/32986
+#EXTINF:-1,Telecine Action HD
+http://m-iptv.net:6204/12345678/12345678/32987
+#EXTINF:-1,Telecine Cult HD
+http://m-iptv.net:6204/12345678/12345678/32988
+#EXTINF:-1,Telecine Fun HD
+http://m-iptv.net:6204/12345678/12345678/32989
+#EXTINF:-1,Telecine Pipoca HD
+http://m-iptv.net:6204/12345678/12345678/32990
+#EXTINF:-1,Telecine Premium HD
+http://m-iptv.net:6204/12345678/12345678/32991
+#EXTINF:-1,Telecine Touch HD
+http://m-iptv.net:6204/12345678/12345678/32992
+#EXTINF:-1,TNT HD
+http://m-iptv.net:6204/12345678/12345678/32993
+#EXTINF:-1,TNT Séries HD
+http://m-iptv.net:6204/12345678/12345678/32994
+#EXTINF:-1,Tooncast HD
+http://m-iptv.net:6204/12345678/12345678/32995
+#EXTINF:-1,TV Aparecida SD
+http://m-iptv.net:6204/12345678/12345678/32996
+#EXTINF:-1,TV Gazeta SD
+http://m-iptv.net:6204/12345678/12345678/32997
+#EXTINF:-1,Universal Channel HD
+http://m-iptv.net:6204/12345678/12345678/32998
+#EXTINF:-1,VH1 HD
+http://m-iptv.net:6204/12345678/12345678/32999
+#EXTINF:-1,VH1 MegaHits SD
+http://m-iptv.net:6204/12345678/12345678/33000
+#EXTINF:-1,Viva HD
+http://m-iptv.net:6204/12345678/12345678/33001
+#EXTINF:-1,Warner Channel HD
+http://m-iptv.net:6204/12345678/12345678/33002
 #EXTINF:-1,Woohoo HD
-http://showflix.org:5890/mahir/1234/68221
-#EXTINF:-1,VH1 Mega Hits
-http://showflix.org:5890/mahir/1234/68222
-#EXTINF:-1,Warner TV
-http://showflix.org:5890/mahir/1234/68223
-#EXTINF:-1,PREMIERE 1 HD
-http://showflix.org:5890/mahir/1234/68224
-#EXTINF:-1,PREMIERE 2 HD
-http://showflix.org:5890/mahir/1234/68225
-#EXTINF:-1,PREMIERE 3 HD
-http://showflix.org:5890/mahir/1234/68226
-#EXTINF:-1,PREMIERE 4 HD
-http://showflix.org:5890/mahir/1234/68227
-#EXTINF:-1,PREMIERE 5 HD
-http://showflix.org:5890/mahir/1234/68228
-#EXTINF:-1,PREMIERE 6 HD
-http://showflix.org:5890/mahir/1234/68229
-#EXTINF:-1,PREMIERE 7 HD
-http://showflix.org:5890/mahir/1234/68230
+http://m-iptv.net:6204/12345678/12345678/33003
+#EXTINF:-1,Zoomoo HD
+http://m-iptv.net:6204/12345678/12345678/33004
+#EXTINF:-1,Rit SD
+http://m-iptv.net:6204/12345678/12345678/33005
+#EXTINF:-1,Globo TV Tem São José Do Rio Preto SD
+http://m-iptv.net:6204/12345678/12345678/33006
+#EXTINF:-1,Globo RPC Curitiba HD
+http://m-iptv.net:6204/12345678/12345678/33007
+#EXTINF:-1,SBT TV Cidade Verde Piaui SD
+http://m-iptv.net:6204/12345678/12345678/33008
+#EXTINF:-1,SBT TV Jornal Pernambuco SD
+http://m-iptv.net:6204/12345678/12345678/33009
+#EXTINF:-1,Globo INTER TV Cabugi RN SD
+http://m-iptv.net:6204/12345678/12345678/33010
+#EXTINF:-1,SBT RJ HD
+http://m-iptv.net:6204/12345678/12345678/33011
+#EXTINF:-1,Rede Gospel SD
+http://m-iptv.net:6204/12345678/12345678/33012
+#EXTINF:-1,Sony Full HD
+http://m-iptv.net:6204/12345678/12345678/33013
+#EXTINF:-1,Globo Asa Branca SD
+http://m-iptv.net:6204/12345678/12345678/33014
+#EXTINF:-1,Disney Junior HD
+http://m-iptv.net:6204/12345678/12345678/33015
+#EXTINF:-1,Globo TV Morena HD
+http://m-iptv.net:6204/12345678/12345678/33016
+#EXTINF:-1,Band SP Full HD
+http://m-iptv.net:6204/12345678/12345678/33017
+#EXTINF:-1,Discovery Channel Full HD
+http://m-iptv.net:6204/12345678/12345678/33018
+#EXTINF:-1,Arte 1 Full HD
+http://m-iptv.net:6204/12345678/12345678/33019
+#EXTINF:-1,Paramount Channel Full HD
+http://m-iptv.net:6204/12345678/12345678/33020
+#EXTINF:-1,TCM SD
+http://m-iptv.net:6204/12345678/12345678/33021
+#EXTINF:-1,MTV Live Full HD
+http://m-iptv.net:6204/12345678/12345678/33022
+#EXTINF:-1,History Channel Full HD
+http://m-iptv.net:6204/12345678/12345678/33023
+#EXTINF:-1,ID Investigação Discovery HD
+http://m-iptv.net:6204/12345678/12345678/33024
+#EXTINF:-1,National Geographic Full HD
+http://m-iptv.net:6204/12345678/12345678/33025
+#EXTINF:-1,Record SP Full HD
+http://m-iptv.net:6204/12345678/12345678/33026
+#EXTINF:-1,Record TV Vitoria SD
+http://m-iptv.net:6204/12345678/12345678/33027
+#EXTINF:-1,TV Século 21
+http://m-iptv.net:6204/12345678/12345678/33028
+#EXTINF:-1,ESPN Extra HD
+http://m-iptv.net:6204/12345678/12345678/33183
+#EXTINF:-1,BBB Cam 01
+http://m-iptv.net:6204/12345678/12345678/33030
+#EXTINF:-1,BBB Cam 02
+http://m-iptv.net:6204/12345678/12345678/33031
+#EXTINF:-1,BBB Cam 03
+http://m-iptv.net:6204/12345678/12345678/33032
+#EXTINF:-1,BBB Cam 04
+http://m-iptv.net:6204/12345678/12345678/33033
+#EXTINF:-1,BBB Cam 05
+http://m-iptv.net:6204/12345678/12345678/33034
+#EXTINF:-1,BBB Cam 06
+http://m-iptv.net:6204/12345678/12345678/33035
+#EXTINF:-1,BBB Cam 07
+http://m-iptv.net:6204/12345678/12345678/33036
+#EXTINF:-1,BBB Cam 08
+http://m-iptv.net:6204/12345678/12345678/33037
+#EXTINF:-1,BBB Cam 09
+http://m-iptv.net:6204/12345678/12345678/33038
+#EXTINF:-1,BBB Cam 10
+http://m-iptv.net:6204/12345678/12345678/33039
+#EXTINF:-1,TV Ra Tim Bum SD
+http://m-iptv.net:6204/12345678/12345678/33040
+#EXTINF:-1,Prime Box Brazil SD
+http://m-iptv.net:6204/12345678/12345678/33041
+#EXTINF:-1,TV Playkids
+http://m-iptv.net:6204/12345678/12345678/33042
+#EXTINF:-1,Nickelodeon Full HD
+http://m-iptv.net:6204/12345678/12345678/33043
+#EXTINF:-1,Band Sports Full HD
+http://m-iptv.net:6204/12345678/12345678/33192
+#EXTINF:-1,Discovery TLC Full HD
+http://m-iptv.net:6204/12345678/12345678/33045
+#EXTINF:-1,Fox Life Full HD
+http://m-iptv.net:6204/12345678/12345678/33046
+#EXTINF:-1,Globo Nsc Blumenau SD
+http://m-iptv.net:6204/12345678/12345678/33047
+#EXTINF:-1,Globo Blumenau SD
+http://m-iptv.net:6204/12345678/12345678/33048
+#EXTINF:-1,Globo Itapetininga SD
+http://m-iptv.net:6204/12345678/12345678/33049
+#EXTINF:-1,Globo Serra Mar SD
+http://m-iptv.net:6204/12345678/12345678/33050
+#EXTINF:-1,Globosat Full HD
+http://m-iptv.net:6204/12345678/12345678/33051
+#EXTINF:-1,HBO Family Full HD
+http://m-iptv.net:6204/12345678/12345678/33052
+#EXTINF:-1,Lifetime Full HD
+http://m-iptv.net:6204/12345678/12345678/33053
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://m-iptv.net:6204/12345678/12345678/33054
+#EXTINF:-1,TruTV SD
+http://m-iptv.net:6204/12345678/12345678/33055
+#EXTINF:-1,Chef TV HD
+http://m-iptv.net:6204/12345678/12345678/33056
+#EXTINF:-1,Record RS HD
+http://m-iptv.net:6204/12345678/12345678/33057
+#EXTINF:-1,Globo RPC Paranavaí SD
+http://m-iptv.net:6204/12345678/12345678/33058
+#EXTINF:-1,Globo NSC Florianopolis SD
+http://m-iptv.net:6204/12345678/12345678/33059
+#EXTINF:-1,Globo TV Diario HD
+http://m-iptv.net:6204/12345678/12345678/33060
+#EXTINF:-1,Gloobinho SD
+http://m-iptv.net:6204/12345678/12345678/33061
+#EXTINF:-1,Copa do Nordeste 1 *
+http://m-iptv.net:6204/12345678/12345678/33062
+#EXTINF:-1,Comming soon
+http://m-iptv.net:6204/12345678/12345678/20483
