@@ -1,127 +1,491 @@
 #EXTM3U
+#EXTINF:-1,M6 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20597.m3u8
+#EXTINF:-1,M6 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/117.m3u8
 #EXTINF:-1,TF1 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2650
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20593.m3u8
 #EXTINF:-1,TF1 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/91
-#EXTINF:-1,FRANCE O FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3412
-#EXTINF:-1,FRANCE O HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/113
-#EXTINF:-1,FRANCE 2  FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2941
-#EXTINF:-1,FRANCE 2 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/116
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/150.m3u8
+#EXTINF:-1,TF1 series film FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20602.m3u8
+#EXTINF:-1,France ô HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/104.m3u8
+#EXTINF:-1,France 2 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20594.m3u8
+#EXTINF:-1,France 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/108.m3u8
+#EXTINF:-1,France 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/107.m3u8
 #EXTINF:-1,FRANCE 3 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3032
-#EXTINF:-1,FRANCE 3 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/115
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38763.m3u8
+#EXTINF:-1,France 4 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/106.m3u8
 #EXTINF:-1,FRANCE 4 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2912
-#EXTINF:-1,FRANCE 4 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/114
-#EXTINF:-1,FRANCE 5 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2913
-#EXTINF:-1,FRANCE 5 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/117
-#EXTINF:-1,MTV LIVE
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3411
-#EXTINF:-1,MTV MUSIC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1592
-#EXTINF:-1,MTV HITS
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2397
-#EXTINF:-1,MTV BASE
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2201
-#EXTINF:-1,MTV ROCK
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3272
-#EXTINF:-1,MTV DANCE
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2771
-#EXTINF:-1,MTV CLASSIC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9670
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2431
-#EXTINF:-1,BEIN SPORT 1 FHD  STABLE
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9210
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/85
-#EXTINF:-1,BEIN SPORT 1 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3401
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2432
-#EXTINF:-1,BEIN SPORT 2 FHD  STABLE
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9211
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2
-#EXTINF:-1,BEIN SPORT 2 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3402
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2433
-#EXTINF:-1,BEIN SPORT 3 FHD STABLE
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9212
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3011
-#EXTINF:-1,BEIN SPORT 3 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9441
-#EXTINF:-1,BEIN MAX 4 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1209
-#EXTINF:-1,BEIN MAX 5 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/894
-#EXTINF:-1,BEIN MAX 6 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/903
-#EXTINF:-1,BEIN MAX 7 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/902
-#EXTINF:-1,BEIN MAX 8 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/901
-#EXTINF:-1,BEIN MAX 9 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2680
-#EXTINF:-1,BEIN MAX 10 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2770
-#EXTINF:-1,BEIN MAX 4 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3424
-#EXTINF:-1,BEIN MAX 6 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3422
-#EXTINF:-1,BEIN MAX 5 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3423
-#EXTINF:-1,BEIN MAX 7 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3421
-#EXTINF:-1,BEIN MAX 8 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3420
-#EXTINF:-1,BEIN MAX 9 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3419
-#EXTINF:-1,BEIN MAX 10 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3418
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3329
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38764.m3u8
+#EXTINF:-1,France 5 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20596.m3u8
+#EXTINF:-1,France 5 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/105.m3u8
+#EXTINF:-1,SYFY HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/67.m3u8
+#EXTINF:-1,Action HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/149.m3u8
+#EXTINF:-1,TV Breizh SD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7296.m3u8
+#EXTINF:-1,TV Breizh HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/127.m3u8
+#EXTINF:-1,TV BREIZH FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/50718.m3u8
+#EXTINF:-1,13eme rue HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/68.m3u8
+#EXTINF:-1,TFX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/103.m3u8
+#EXTINF:-1,TF1 series films HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/202.m3u8
+#EXTINF:-1,6TER FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20603.m3u8
+#EXTINF:-1,6TER HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1487.m3u8
+#EXTINF:-1,RTL 9 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/28.m3u8
+#EXTINF:-1,NRJ 12 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20601.m3u8
+#EXTINF:-1,NRJ12 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/401.m3u8
+#EXTINF:-1,NRJ 12 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7320.m3u8
+#EXTINF:-1,AB1 HD BE
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/21.m3u8
+#EXTINF:-1,ARTE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20604.m3u8
+#EXTINF:-1,ARTE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/110.m3u8
+#EXTINF:-1,TEVA HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/201.m3u8
+#EXTINF:-1,Cherie 25 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/296.m3u8
+#EXTINF:-1,CNEWS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/300.m3u8
+#EXTINF:-1,LCI FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7327.m3u8
+#EXTINF:-1,LCI HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1489.m3u8
+#EXTINF:-1,C8 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7316.m3u8
+#EXTINF:-1,C8 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/31.m3u8
+#EXTINF:-1,W9 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20600.m3u8
+#EXTINF:-1,W9 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/66.m3u8
+#EXTINF:-1,CSTAR HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/218.m3u8
+#EXTINF:-1,TFX FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20599.m3u8
+#EXTINF:-1,TMC FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20598.m3u8
+#EXTINF:-1,TMC HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/109.m3u8
+#EXTINF:-1,RMC story HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1432.m3u8
+#EXTINF:-1,Comedie + HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/25.m3u8
+#EXTINF:-1,Paris premiere FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7322.m3u8
+#EXTINF:-1,Paris premiere HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/230.m3u8
+#EXTINF:-1,Serie club HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/217.m3u8
+#EXTINF:-1,Paramount channel HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/26.m3u8
+#EXTINF:-1,TCM  HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4609.m3u8
+#EXTINF:-1,BFM TV HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1382.m3u8
+#EXTINF:-1,BFM TV Paris
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22620.m3u8
+#EXTINF:-1,E! entertainment HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4593.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1150.m3u8
+#EXTINF:-1,MCM HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4390.m3u8
+#EXTINF:-1,M6 MUSIC HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1521.m3u8
+#EXTINF:-1,MTV HITS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1522.m3u8
+#EXTINF:-1,MCM TOP HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4602.m3u8
+#EXTINF:-1,MTV HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4598.m3u8
+#EXTINF:-1,NRJ HITS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4600.m3u8
+#EXTINF:-1,France 24 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4812.m3u8
+#EXTINF:-1,Euronews HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4819.m3u8
+#EXTINF:-1,LCP HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/45476.m3u8
+#EXTINF:-1,FOOT +24 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1022.m3u8
+#EXTINF:-1,L'EQUIPE 21 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/45475.m3u8
+#EXTINF:-1,EQUIDIA LIVE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4595.m3u8
+#EXTINF:-1,INFOSPORT + HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1021.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/379.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/378.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38791.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38792.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1729.m3u8
+#EXTINF:-1,RMC SPORT 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1728.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1739.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22773.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22774.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22775.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 4 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22776.m3u8
+#EXTINF:-1,BEINSPORT 1 SD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7380.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/115.m3u8
+#EXTINF:-1,BEINSPORT 2 SD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7381.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/114.m3u8
+#EXTINF:-1,BEINSPORT 3 SD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7382.m3u8
+#EXTINF:-1,beIN SPORTS 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/113.m3u8
+#EXTINF:-1,BEINSPORT 4 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2118.m3u8
+#EXTINF:-1,beIN SPORTS  5 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2119.m3u8
+#EXTINF:-1,beIN SPORTS 6 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2120.m3u8
+#EXTINF:-1,beIN SPORTS 7 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2121.m3u8
+#EXTINF:-1,BEINSPORT MAX 8 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7796.m3u8
+#EXTINF:-1,BEINSPORT MAX 9 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7797.m3u8
+#EXTINF:-1,BEINSPORT MAX 10 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7798.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38816.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38817.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38818.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38794.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38795.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38796.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38798.m3u8
+#EXTINF:-1,RMC SPORT 4 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38797.m3u8
+#EXTINF:-1,RMC SPORT 5 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38799.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38801.m3u8
+#EXTINF:-1,RMC SPORT 6 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38802.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38803.m3u8
+#EXTINF:-1,beIN SPORTS 8 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38826.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38804.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38805.m3u8
+#EXTINF:-1,beIN SPORTS 9 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38827.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38806.m3u8
+#EXTINF:-1,beIN SPORTS 10 MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38828.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38807.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38808.m3u8
+#EXTINF:-1,RMC SPORT LIVE 13 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38809.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38810.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38811.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38812.m3u8
+#EXTINF:-1,SEASONS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4594.m3u8
+#EXTINF:-1,TREK HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1448.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2553.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/99.m3u8
+#EXTINF:-1,SCIENCE & VIE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/27.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/292.m3u8
+#EXTINF:-1,CHASSE ET PÊCHE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/294.m3u8
+#EXTINF:-1,AB MOTEURS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/16616.m3u8
+#EXTINF:-1,Planet+ HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/24.m3u8
+#EXTINF:-1,Planet+ CI HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/30.m3u8
+#EXTINF:-1,Planet+ A&E HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/29.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/102.m3u8
+#EXTINF:-1,Nat Geographic HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/137.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/231.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/101.m3u8
 #EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2971
-#EXTINF:-1,DISCOVERY FAMILY  FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6636
-#EXTINF:-1,DISCOVERY FAMILY FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3343
-#EXTINF:-1,DISCOVERY FAMILY
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4245
-#EXTINF:-1,DISCOVERY  FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2508
-#EXTINF:-1,DISCOVERY HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/125
-#EXTINF:-1,DISCOVERY SD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8852
-#EXTINF:-1,DISCOVERY SCIENCE  FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6480
-#EXTINF:-1,DISCOVERY SCIENCE FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2435
-#EXTINF:-1,DISCOVERY SCIENCE  HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/107
-#EXTINF:-1,NICKELODEON JR FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3414
-#EXTINF:-1,NICKELODEON JR HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2171
-#EXTINF:-1,NICKELODEON FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3415
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/16614.m3u8
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38846.m3u8
+#EXTINF:-1,13EME RUE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38767.m3u8
+#EXTINF:-1,ACTION FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38766.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38833.m3u8
+#EXTINF:-1,ARTE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38771.m3u8
+#EXTINF:-1,BFM BUSINESS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38783.m3u8
+#EXTINF:-1,BFM FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38780.m3u8
+#EXTINF:-1,BFM LYON FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38782.m3u8
+#EXTINF:-1,BFM PARIS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38781.m3u8
+#EXTINF:-1,BOING FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38849.m3u8
+#EXTINF:-1,BOOMERANG FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38855.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38863.m3u8
+#EXTINF:-1,CHASSE & PÊCHE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38837.m3u8
+#EXTINF:-1,CHERIE 25 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38772.m3u8
+#EXTINF:-1,CNEWS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38773.m3u8
+#EXTINF:-1,Comedie+ FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38776.m3u8
+#EXTINF:-1,CSTAR FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38774.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38844.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38845.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38843.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38834.m3u8
+#EXTINF:-1,DISNEY XD FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38850.m3u8
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38784.m3u8
+#EXTINF:-1,GAME ONE +1 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38854.m3u8
+#EXTINF:-1,GAME ONE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38853.m3u8
+#EXTINF:-1,GULLI FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38848.m3u8
+#EXTINF:-1,HISTOIRE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38831.m3u8
+#EXTINF:-1,INFOSPORT + FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38790.m3u8
+#EXTINF:-1,MANGAS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38852.m3u8
+#EXTINF:-1,MCM FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38786.m3u8
+#EXTINF:-1,MTV FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38787.m3u8
+#EXTINF:-1,MTV HITS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38788.m3u8
 #EXTINF:-1,NICKELODEON +1 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4454
-#EXTINF:-1,NICKELODEON HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1647
-#EXTINF:-1,NICKELODEON 4TEEN FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3340
-#EXTINF:-1,NICKELODEON 4TEEN HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1648
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38857.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38858.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38859.m3u8
+#EXTINF:-1,NRJ HITS  FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38789.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38778.m3u8
+#EXTINF:-1,PARAMOUNT DECALE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38779.m3u8
+#EXTINF:-1,PIWI+ FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38847.m3u8
+#EXTINF:-1,PLANET + A&E FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38839.m3u8
+#EXTINF:-1,PLANET + CI FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38840.m3u8
+#EXTINF:-1,PLANET + FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38838.m3u8
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38836.m3u8
+#EXTINF:-1,RMC SPORT NEWS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38793.m3u8
+#EXTINF:-1,RMC STORY FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38775.m3u8
+#EXTINF:-1,RTL9 FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38768.m3u8
+#EXTINF:-1,SCIENCES & VIE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38835.m3u8
+#EXTINF:-1,SEASON FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38829.m3u8
+#EXTINF:-1,SERIE CLUB FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38777.m3u8
+#EXTINF:-1,SYFY FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38765.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38832.m3u8
+#EXTINF:-1,TREK FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38830.m3u8
+#EXTINF:-1,TV5 MONDE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38785.m3u8
+#EXTINF:-1,PIWI HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/302.m3u8
+#EXTINF:-1,GULLI HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7321.m3u8
+#EXTINF:-1,Gulli HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/58.m3u8
+#EXTINF:-1,BOING HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4596.m3u8
+#EXTINF:-1,Disney XD HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/73.m3u8
+#EXTINF:-1,CANAL J HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/297.m3u8
+#EXTINF:-1,MANGAS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/96.m3u8
+#EXTINF:-1,GAME ONE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1488.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/97.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/57.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1353.m3u8
+#EXTINF:-1,Nickelodeon Junior HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17776.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1152.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7298.m3u8
+#EXTINF:-1,Disney Channel HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/74.m3u8
+#EXTINF:-1,DISNEY CHANNEL +1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7299.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/98.m3u8
+#EXTINF:-1,CANAL + HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/148.m3u8
+#EXTINF:-1,CANAL + FAMILY HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/145.m3u8
+#EXTINF:-1,CANAL + SERIES HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/146.m3u8
+#EXTINF:-1,CANAL + CINEMA HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/144.m3u8
+#EXTINF:-1,CANAL + DECALE HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/147.m3u8
+#EXTINF:-1,CANAL + SPORT HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/143.m3u8
+#EXTINF:-1,CANAL + FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38864.m3u8
+#EXTINF:-1,CANAL + CINEMA FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38865.m3u8
+#EXTINF:-1,CANAL + DECALE FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38867.m3u8
+#EXTINF:-1,CANAL + FAMILY FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38866.m3u8
+#EXTINF:-1,CANAL + SERIES FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38868.m3u8
+#EXTINF:-1,CANAL + SPORT FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38869.m3u8
+#EXTINF:-1,CANAL J FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38851.m3u8
+#EXTINF:-1,CINE FX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4608.m3u8
+#EXTINF:-1,CINE POLAR HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7794.m3u8
+#EXTINF:-1,CINE + CLASSIC HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/138.m3u8
+#EXTINF:-1,CINE + FRISSON HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/141.m3u8
+#EXTINF:-1,CINE + PREMIER  HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/142.m3u8
+#EXTINF:-1,CINE + FAMIZ HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1678.m3u8
+#EXTINF:-1,CINE + EMOTION  HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1679.m3u8
+#EXTINF:-1,CINE + CLASSIC FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38875.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38876.m3u8
+#EXTINF:-1,CINE + CLUB FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38874.m3u8
+#EXTINF:-1,CINE + EMOTION FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38871.m3u8
+#EXTINF:-1,CINE + FAMIZ FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38872.m3u8
+#EXTINF:-1,CINE + FRISSON FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38873.m3u8
+#EXTINF:-1,CINE + PREMIER FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38870.m3u8
+#EXTINF:-1,OCS MAX HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32.m3u8
+#EXTINF:-1,OCS CITY HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/23.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/33.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/200.m3u8
+#EXTINF:-1,OCS CITY FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38878.m3u8
+#EXTINF:-1,OCS GEANTS FHD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38877.m3u8
+#EXTINF:-1,beIN OFFICE 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/391.m3u8
+#EXTINF:-1,beIN OFFICE 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/392.m3u8
+#EXTINF:-1,beIN OFFICE 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/393.m3u8
+#EXTINF:-1,beIN OFFICE 4 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/394.m3u8
+#EXTINF:-1,beIN OFFICE 5 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/395.m3u8
+#EXTINF:-1,A la carte 6 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/396.m3u8
+#EXTINF:-1,A la Carte 7 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/397.m3u8
+#EXTINF:-1,A la Carte 8 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/398.m3u8
+#EXTINF:-1,A la Carte 9 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/399.m3u8
+#EXTINF:-1,A la carte 10 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/400.m3u8
