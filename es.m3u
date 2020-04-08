@@ -1,79 +1,191 @@
 #EXTM3U
+#EXTINF:-1,LA 1
+http://m-iptv.net:6204/12345678/12345678/9986
+#EXTINF:-1,LA 2
+http://m-iptv.net:6204/12345678/12345678/9985
+#EXTINF:-1,ANTENA 3
+http://m-iptv.net:6204/12345678/12345678/10017
+#EXTINF:-1,CUATRO
+http://m-iptv.net:6204/12345678/12345678/10001
+#EXTINF:-1,TELECINCO
+http://m-iptv.net:6204/12345678/12345678/9956
+#EXTINF:-1,LA SEXTA
+http://m-iptv.net:6204/12345678/12345678/9984
+#EXTINF:-1,Canal Sur Andalucia
+http://m-iptv.net:6204/12345678/12345678/30781
+#EXTINF:-1,FDF
+http://m-iptv.net:6204/12345678/12345678/30782
+#EXTINF:-1,DIVINITY
+http://m-iptv.net:6204/12345678/12345678/9996
+#EXTINF:-1,MEGA TV HD
+http://m-iptv.net:6204/12345678/12345678/30783
+#EXTINF:-1,Be Mad
+http://m-iptv.net:6204/12345678/12345678/30784
+#EXTINF:-1,NEOX
+http://m-iptv.net:6204/12345678/12345678/9965
 #EXTINF:-1,#0 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4259
-#EXTINF:-1,CALLE 13 TV HD RU
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4279
-#EXTINF:-1,A & E HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4276
-#EXTINF:-1,AMC HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4274
-#EXTINF:-1,Antena 3 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4271
-#EXTINF:-1,AXN HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4270
-#EXTINF:-1,AXN White HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4268
-#EXTINF:-1,La 1 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4211
-#EXTINF:-1,La 2 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4210
-#EXTINF:-1,Syfy HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4175
-#EXTINF:-1,TCM HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4164
-#EXTINF:-1,Telecinco HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4163
-#EXTINF:-1,Teledeporte HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4162
-#EXTINF:-1,TNT HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4156
-#EXTINF:-1,Toros TV HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4155
-#EXTINF:-1,24 Horas HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4258
-#EXTINF:-1,Boing HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4261
-#EXTINF:-1,Calle 13 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4260
-#EXTINF:-1,Barca TV HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4265
-#EXTINF:-1,Bein La Liga HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4264
-#EXTINF:-1,La Liga Bar HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4263
-#EXTINF:-1,Disney Channel HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4233
-#EXTINF:-1,Nickelodeon HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4189
-#EXTINF:-1,Caza y Pesca HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4243
-#EXTINF:-1,Comedy Central HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4241
-#EXTINF:-1,Cuatro HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4238
-#EXTINF:-1,Discovery Channel HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4235
-#EXTINF:-1,Fox HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4219
-#EXTINF:-1,Fox Life HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4218
-#EXTINF:-1,Historia HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4216
-#EXTINF:-1,Hollywood HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4215
-#EXTINF:-1,La Sexta HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4208
-#EXTINF:-1,Mega HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4205
-#EXTINF:-1,Nat Geographic HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4194
-#EXTINF:-1,Nat Geo Wild HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4193
-#EXTINF:-1,Neox HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4191
-#EXTINF:-1,Nova HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4188
-#EXTINF:-1,Paramount Channel HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4184
-#EXTINF:-1,Real Madrid TV HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4180
+http://m-iptv.net:6204/12345678/12345678/30785
+#EXTINF:-1,#0
+http://m-iptv.net:6204/12345678/12345678/10021
+#EXTINF:-1,Aragon
+http://m-iptv.net:6204/12345678/12345678/30786
+#EXTINF:-1,NOVA
+http://m-iptv.net:6204/12345678/12345678/9962
+#EXTINF:-1,Canal Once
+http://m-iptv.net:6204/12345678/12345678/30787
+#EXTINF:-1,24 HORAS
+http://m-iptv.net:6204/12345678/12345678/10020
+#EXTINF:-1,VAMOS HD
+http://m-iptv.net:6204/12345678/12345678/30788
+#EXTINF:-1,BABY TV
+http://m-iptv.net:6204/12345678/12345678/30789
+#EXTINF:-1,BOING
+http://m-iptv.net:6204/12345678/12345678/10011
+#EXTINF:-1,CLAN TVE
+http://m-iptv.net:6204/12345678/12345678/10005
+#EXTINF:-1,DISNEY CHANNEL HD
+http://m-iptv.net:6204/12345678/12345678/9999
+#EXTINF:-1,DISNEY JR
+http://m-iptv.net:6204/12345678/12345678/9998
+#EXTINF:-1,DISNEY XD
+http://m-iptv.net:6204/12345678/12345678/9997
+#EXTINF:-1,Nick Jr HD
+http://m-iptv.net:6204/12345678/12345678/30790
+#EXTINF:-1,NICKELODEON
+http://m-iptv.net:6204/12345678/12345678/9964
+#EXTINF:-1,Canal Panda
+http://m-iptv.net:6204/12345678/12345678/30791
+#EXTINF:-1,AMC
+http://m-iptv.net:6204/12345678/12345678/10018
+#EXTINF:-1,AXN
+http://m-iptv.net:6204/12345678/12345678/10016
+#EXTINF:-1,AXN WHITE
+http://m-iptv.net:6204/12345678/12345678/10015
+#EXTINF:-1,CALLE 13
+http://m-iptv.net:6204/12345678/12345678/10010
+#EXTINF:-1,COMEDY CENTRAL
+http://m-iptv.net:6204/12345678/12345678/10004
+#EXTINF:-1,COSMO
+http://m-iptv.net:6204/12345678/12345678/10003
+#EXTINF:-1,FOX
+http://m-iptv.net:6204/12345678/12345678/9992
+#EXTINF:-1,FOX LIFE
+http://m-iptv.net:6204/12345678/12345678/9991
+#EXTINF:-1,HOLLYWOOD
+http://m-iptv.net:6204/12345678/12345678/9988
+#EXTINF:-1,PARAMOUNT
+http://m-iptv.net:6204/12345678/12345678/9961
+#EXTINF:-1,SUNDANCE
+http://m-iptv.net:6204/12345678/12345678/9959
+#EXTINF:-1,SYFY
+http://m-iptv.net:6204/12345678/12345678/9958
+#EXTINF:-1,TCM
+http://m-iptv.net:6204/12345678/12345678/9957
+#EXTINF:-1,TNT
+http://m-iptv.net:6204/12345678/12345678/9954
+#EXTINF:-1,CLASSICA
+http://m-iptv.net:6204/12345678/12345678/30792
+#EXTINF:-1,EUROSPORT 1
+http://m-iptv.net:6204/12345678/12345678/33579
+#EXTINF:-1,EUROSPORT 2
+http://m-iptv.net:6204/12345678/12345678/33580
+#EXTINF:-1,Real Madrid TV
+http://m-iptv.net:6204/12345678/12345678/33586
+#EXTINF:-1,BARCA TV
+http://m-iptv.net:6204/12345678/12345678/33578
+#EXTINF:-1,GOL TV
+http://m-iptv.net:6204/12345678/12345678/33581
+#EXTINF:-1,LALIGA TV BAR
+http://m-iptv.net:6204/12345678/12345678/33582
+#EXTINF:-1,M.FORMULA 1
+http://m-iptv.net:6204/12345678/12345678/33583
+#EXTINF:-1,M.FUTBOL
+http://m-iptv.net:6204/12345678/12345678/33584
+#EXTINF:-1,M.GOLF
+http://m-iptv.net:6204/12345678/12345678/33585
+#EXTINF:-1,TOROS TV
+http://m-iptv.net:6204/12345678/12345678/33587
+#EXTINF:-1,M.ACCION
+http://m-iptv.net:6204/12345678/12345678/9982
+#EXTINF:-1,M.CINE ESPANOL
+http://m-iptv.net:6204/12345678/12345678/9981
+#EXTINF:-1,M.COMEDIA
+http://m-iptv.net:6204/12345678/12345678/9980
+#EXTINF:-1,M. DRAMA HD
+http://m-iptv.net:6204/12345678/12345678/30793
+#EXTINF:-1,M.ESTRENOS
+http://m-iptv.net:6204/12345678/12345678/9976
+#EXTINF:-1,M. Cinedoc&Roll HD
+http://m-iptv.net:6204/12345678/12345678/30794
+#EXTINF:-1,M.SERIES
+http://m-iptv.net:6204/12345678/12345678/9971
+#EXTINF:-1,M.SERIESXTRA
+http://m-iptv.net:6204/12345678/12345678/9970
+#EXTINF:-1,M.SERIESMANIA HD
+http://m-iptv.net:6204/12345678/12345678/30795
+#EXTINF:-1,M.DEP 1
+http://m-iptv.net:6204/12345678/12345678/9978
+#EXTINF:-1,M.DEP 2
+http://m-iptv.net:6204/12345678/12345678/9977
+#EXTINF:-1,TELEDEPORTE
+http://m-iptv.net:6204/12345678/12345678/9955
+#EXTINF:-1,MEZZO LIVE HD
+http://m-iptv.net:6204/12345678/12345678/30796
+#EXTINF:-1, MTV
+http://m-iptv.net:6204/12345678/12345678/30797
+#EXTINF:-1,BLAZE HD
+http://m-iptv.net:6204/12345678/12345678/30799
+#EXTINF:-1,CANAL COCINA
+http://m-iptv.net:6204/12345678/12345678/10009
+#EXTINF:-1,CANAL DECASA
+http://m-iptv.net:6204/12345678/12345678/10008
+#EXTINF:-1,CAZA Y PESCA
+http://m-iptv.net:6204/12345678/12345678/10006
+#EXTINF:-1,CRIMEN+INVES
+http://m-iptv.net:6204/12345678/12345678/30800
+#EXTINF:-1,DISCOVERY
+http://m-iptv.net:6204/12345678/12345678/10000
+#EXTINF:-1,HISTORIA
+http://m-iptv.net:6204/12345678/12345678/9989
+#EXTINF:-1,CANAL IBERALIA
+http://m-iptv.net:6204/12345678/12345678/30801
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://m-iptv.net:6204/12345678/12345678/9966
+#EXTINF:-1,NAT GEO WILD
+http://m-iptv.net:6204/12345678/12345678/9967
+#EXTINF:-1,CANAL ODISEA
+http://m-iptv.net:6204/12345678/12345678/10007
+#EXTINF:-1,VIAJAR HD
+http://m-iptv.net:6204/12345678/12345678/30802
+#EXTINF:-1,Cultura 24 TV
+http://m-iptv.net:6204/12345678/12345678/30798
+#EXTINF:-1,24/7 Canal de Noticias
+http://m-iptv.net:6204/12345678/12345678/30803
+#EXTINF:-1,A&E
+http://m-iptv.net:6204/12345678/12345678/10019
+#EXTINF:-1,ENERGY
+http://m-iptv.net:6204/12345678/12345678/9995
+#EXTINF:-1,M.MOTOGP
+http://m-iptv.net:6204/12345678/12345678/9972
+#EXTINF:-1,M.XTRA
+http://m-iptv.net:6204/12345678/12345678/9969
+#EXTINF:-1,Taquilla 1
+http://m-iptv.net:6204/12345678/12345678/8957
+#EXTINF:-1,Taquilla 2
+http://m-iptv.net:6204/12345678/12345678/8955
+#EXTINF:-1,Taquilla 3
+http://m-iptv.net:6204/12345678/12345678/8954
+#EXTINF:-1,Taquilla 4
+http://m-iptv.net:6204/12345678/12345678/8953
+#EXTINF:-1,Taquilla 5
+http://m-iptv.net:6204/12345678/12345678/8952
+#EXTINF:-1,Taquilla 6
+http://m-iptv.net:6204/12345678/12345678/8951
+#EXTINF:-1,Taquilla 7
+http://m-iptv.net:6204/12345678/12345678/8950
+#EXTINF:-1,Taquilla 8
+http://m-iptv.net:6204/12345678/12345678/8949
+#EXTINF:-1,Taquilla 9
+http://m-iptv.net:6204/12345678/12345678/8948
+#EXTINF:-1,Taquilla 10
+http://m-iptv.net:6204/12345678/12345678/8956
