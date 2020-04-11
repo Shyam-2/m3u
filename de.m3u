@@ -1,91 +1,281 @@
 #EXTM3U
-#EXTINF:-1,ARD HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3537.m3u8
-#EXTINF:-1,WDR HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3129.m3u8
-#EXTINF:-1,ZDF HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3497.m3u8
-#EXTINF:-1,ZDF NEO HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4761.m3u8
-#EXTINF:-1,ZDF-INFO HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4762.m3u8
-#EXTINF:-1,SAT 1 HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3521.m3u8
-#EXTINF:-1,SAT 1 GOLD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3532.m3u8
-#EXTINF:-1,PRO 7 HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3524.m3u8
-#EXTINF:-1,PRO 7 MAXX HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4763.m3u8
-#EXTINF:-1,AXN HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5708.m3u8
-#EXTINF:-1,ZEE ONE HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5691.m3u8
-#EXTINF:-1,DMAX HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4784.m3u8
-#EXTINF:-1,3 SAT HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4760.m3u8
-#EXTINF:-1,VOX HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3499.m3u8
-#EXTINF:-1,N-TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/10976.m3u8
-#EXTINF:-1,N24 HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/10977.m3u8
-#EXTINF:-1,RTL HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4757.m3u8
-#EXTINF:-1,RTL 2 HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3523.m3u8
-#EXTINF:-1,TELE 5 TV HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5697.m3u8
-#EXTINF:-1,SUPER RTL HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3501.m3u8
-#EXTINF:-1,NITRO HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3522.m3u8
-#EXTINF:-1,RTL PASSION
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/4765.m3u8
-#EXTINF:-1,RTL LIVING HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3536.m3u8
-#EXTINF:-1,RTL PLUS HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5698.m3u8
-#EXTINF:-1,FC Bayern TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5692.m3u8
-#EXTINF:-1,CLASSICA HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5693.m3u8
-#EXTINF:-1,Folx Tv
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5683.m3u8
-#EXTINF:-1,SKY 1 HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5687.m3u8
+#EXTINF:-1,One HD
+http://topiptv.net:5890/abdou2020/abdou2020/1175
 #EXTINF:-1,Das Erste HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5690.m3u8
-#EXTINF:-1,SRF1 HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/5706.m3u8
-#EXTINF:-1,SERVUS HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3530.m3u8
-#EXTINF:-1,K-TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20160.m3u8
-#EXTINF:-1,1-2-3 TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20169.m3u8
-#EXTINF:-1,Bibel TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20168.m3u8
-#EXTINF:-1,DRF1
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20170.m3u8
-#EXTINF:-1,Geo Tv HD
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20173.m3u8
-#EXTINF:-1,NDR Fernsehen
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20174.m3u8
-#EXTINF:-1,Pearl TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20167.m3u8
-#EXTINF:-1,RIC TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20175.m3u8
-#EXTINF:-1,RNF
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/20159.m3u8
-#EXTINF:-1,DW
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/14294.m3u8
-#EXTINF:-1,TAGESSCHAU 24
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/3130.m3u8
-#EXTINF:-1,ALLGAU TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/24644.m3u8
-#EXTINF:-1,AUGSBURG  TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/24643.m3u8
-#EXTINF:-1,BADEN TV
-http://iptv.blackkill.org:5487/live/kUYO84YoUr/13796/24642.m3u8
+http://topiptv.net:5890/abdou2020/abdou2020/1176
+#EXTINF:-1,ZDF HD
+http://topiptv.net:5890/abdou2020/abdou2020/1177
+#EXTINF:-1,ZDF info HD
+http://topiptv.net:5890/abdou2020/abdou2020/1180
+#EXTINF:-1,VOX HD
+http://topiptv.net:5890/abdou2020/abdou2020/1181
+#EXTINF:-1,VOX
+http://topiptv.net:5890/abdou2020/abdou2020/1182
+#EXTINF:-1,SAT.1 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1183
+#EXTINF:-1,SAT.1
+http://topiptv.net:5890/abdou2020/abdou2020/1184
+#EXTINF:-1,SAT.1 Gold
+http://topiptv.net:5890/abdou2020/abdou2020/1185
+#EXTINF:-1,RTL HD
+http://topiptv.net:5890/abdou2020/abdou2020/1187
+#EXTINF:-1,RTL
+http://topiptv.net:5890/abdou2020/abdou2020/1188
+#EXTINF:-1,RTL Zwei HD
+http://topiptv.net:5890/abdou2020/abdou2020/1189
+#EXTINF:-1,RTL Zwei
+http://topiptv.net:5890/abdou2020/abdou2020/1190
+#EXTINF:-1,RTL plus
+http://topiptv.net:5890/abdou2020/abdou2020/1191
+#EXTINF:-1,ProSieben HD
+http://topiptv.net:5890/abdou2020/abdou2020/1194
+#EXTINF:-1,ProSieben
+http://topiptv.net:5890/abdou2020/abdou2020/1195
+#EXTINF:-1,Pro7 MAXX
+http://topiptv.net:5890/abdou2020/abdou2020/1197
+#EXTINF:-1,kabel eins HD
+http://topiptv.net:5890/abdou2020/abdou2020/1198
+#EXTINF:-1,Zee One
+http://topiptv.net:5890/abdou2020/abdou2020/1199
+#EXTINF:-1,Zee One HD
+http://topiptv.net:5890/abdou2020/abdou2020/1200
+#EXTINF:-1,Channel 21
+http://topiptv.net:5890/abdou2020/abdou2020/1204
+#EXTINF:-1,N-TV
+http://topiptv.net:5890/abdou2020/abdou2020/1205
+#EXTINF:-1,SUPER RTL HD
+http://topiptv.net:5890/abdou2020/abdou2020/1206
+#EXTINF:-1,SUPER RTL
+http://topiptv.net:5890/abdou2020/abdou2020/1207
+#EXTINF:-1,Tagesschau 24
+http://topiptv.net:5890/abdou2020/abdou2020/1208
+#EXTINF:-1,Family TV
+http://topiptv.net:5890/abdou2020/abdou2020/1215
+#EXTINF:-1,Sky Krimi FHD
+http://topiptv.net:5890/abdou2020/abdou2020/1224
+#EXTINF:-1,Sky Cinema Alien HD
+http://topiptv.net:5890/abdou2020/abdou2020/1235
+#EXTINF:-1,Romance TV HD
+http://topiptv.net:5890/abdou2020/abdou2020/1242
+#EXTINF:-1,13th Street HD
+http://topiptv.net:5890/abdou2020/abdou2020/1243
+#EXTINF:-1,13th Street
+http://topiptv.net:5890/abdou2020/abdou2020/1244
+#EXTINF:-1,FOX
+http://topiptv.net:5890/abdou2020/abdou2020/1246
+#EXTINF:-1,Fox Serie
+http://topiptv.net:5890/abdou2020/abdou2020/1247
+#EXTINF:-1,TNT Serie
+http://topiptv.net:5890/abdou2020/abdou2020/1249
+#EXTINF:-1,TNT Comedy HD
+http://topiptv.net:5890/abdou2020/abdou2020/1256
+#EXTINF:-1,SIXX HD
+http://topiptv.net:5890/abdou2020/abdou2020/1250
+#EXTINF:-1,SIXX
+http://topiptv.net:5890/abdou2020/abdou2020/1251
+#EXTINF:-1,NITRO
+http://topiptv.net:5890/abdou2020/abdou2020/1253
+#EXTINF:-1,Comedy Central
+http://topiptv.net:5890/abdou2020/abdou2020/1257
+#EXTINF:-1,SYFY HD
+http://topiptv.net:5890/abdou2020/abdou2020/1258
+#EXTINF:-1,SYFY
+http://topiptv.net:5890/abdou2020/abdou2020/1259
+#EXTINF:-1,TLC HD
+http://topiptv.net:5890/abdou2020/abdou2020/1260
+#EXTINF:-1,TLC
+http://topiptv.net:5890/abdou2020/abdou2020/1261
+#EXTINF:-1,Kinowelt TV HD
+http://topiptv.net:5890/abdou2020/abdou2020/1262
+#EXTINF:-1,E! Entertainm. HD
+http://topiptv.net:5890/abdou2020/abdou2020/1263
+#EXTINF:-1,Sport1 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1265
+#EXTINF:-1,DAZN 1 Bar FHD
+http://topiptv.net:5890/abdou2020/abdou2020/1266
+#EXTINF:-1,DAZN 2 Bar FHD
+http://topiptv.net:5890/abdou2020/abdou2020/1267
+#EXTINF:-1,Eurosport 1 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1268
+#EXTINF:-1,Eurosport 1 SD
+http://topiptv.net:5890/abdou2020/abdou2020/1269
+#EXTINF:-1,Eurosport 2  HD Xtra
+http://topiptv.net:5890/abdou2020/abdou2020/1270
+#EXTINF:-1,Sport Digital HD
+http://topiptv.net:5890/abdou2020/abdou2020/1271
+#EXTINF:-1,Motorvision TV
+http://topiptv.net:5890/abdou2020/abdou2020/1272
+#EXTINF:-1,Sky Sport News FHD
+http://topiptv.net:5890/abdou2020/abdou2020/1273
+#EXTINF:-1,Sky Sport News
+http://topiptv.net:5890/abdou2020/abdou2020/1274
+#EXTINF:-1,Sky Sport Austria 
+http://topiptv.net:5890/abdou2020/abdou2020/1275
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1276
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://topiptv.net:5890/abdou2020/abdou2020/1277
+#EXTINF:-1,Sky Sport Bundesliga 2 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1278
+#EXTINF:-1,Sky Sport Bundesliga 2 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1279
+#EXTINF:-1,Sky Sport Bundesliga 3 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1280
+#EXTINF:-1,Sky Sport Bundesliga 3 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1281
+#EXTINF:-1,Sky Sport Bundesliga 4 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1282
+#EXTINF:-1,DE |Sky Sport Bundesliga 4 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1283
+#EXTINF:-1,Sky Sport Bundesliga 5 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1284
+#EXTINF:-1,Sky Sport Bundesliga 5 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1285
+#EXTINF:-1,Sky Sport Bundesliga 6 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1286
+#EXTINF:-1,Sky Sport Bundesliga 6 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1287
+#EXTINF:-1,Sky Sport Bundesliga 7 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1288
+#EXTINF:-1,Sky Sport Bundesliga 8 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1289
+#EXTINF:-1,Sky Sport Bundesliga 9 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1290
+#EXTINF:-1,Sky Sport Bundesliga 10 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1291
+#EXTINF:-1,Sky Sport Bundesliga 10 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1292
+#EXTINF:-1,Sky Sport 1 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1293
+#EXTINF:-1,Sky Sport 1
+http://topiptv.net:5890/abdou2020/abdou2020/1294
+#EXTINF:-1,Sky Sport 2 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1295
+#EXTINF:-1,Sky Sport 2
+http://topiptv.net:5890/abdou2020/abdou2020/1296
+#EXTINF:-1,Sky Sport 3 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1297
+#EXTINF:-1,Sky Sport 3 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1298
+#EXTINF:-1,Sky Sport 4 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1299
+#EXTINF:-1,Sky Sport 4 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1300
+#EXTINF:-1,Sky Sport 5HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1301
+#EXTINF:-1,Sky Sport 5 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1302
+#EXTINF:-1,Sky Sport 6 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1303
+#EXTINF:-1,Sky Sport 6 ( Match time )
+http://topiptv.net:5890/abdou2020/abdou2020/1304
+#EXTINF:-1,Sky Sport 7 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1305
+#EXTINF:-1,Sky Sport 7 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1306
+#EXTINF:-1,Sky Sport 8 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1307
+#EXTINF:-1,Sky Sport 9 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1308
+#EXTINF:-1,Sky Sport 10 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1309
+#EXTINF:-1,Sky Sport 11 HD | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1310
+#EXTINF:-1,Sky Sport 11 | Match time 
+http://topiptv.net:5890/abdou2020/abdou2020/1311
+#EXTINF:-1,National Geographic HD
+http://topiptv.net:5890/abdou2020/abdou2020/1313
+#EXTINF:-1,National Geographic
+http://topiptv.net:5890/abdou2020/abdou2020/1314
+#EXTINF:-1,Nat Geo Wild FHD
+http://topiptv.net:5890/abdou2020/abdou2020/1315
+#EXTINF:-1,Nat Geo Wild
+http://topiptv.net:5890/abdou2020/abdou2020/1317
+#EXTINF:-1,DMAX HD
+http://topiptv.net:5890/abdou2020/abdou2020/1316
+#EXTINF:-1,N24 DOKU
+http://topiptv.net:5890/abdou2020/abdou2020/1318
+#EXTINF:-1,ANIXE HD
+http://topiptv.net:5890/abdou2020/abdou2020/1327
+#EXTINF:-1,3sat HD
+http://topiptv.net:5890/abdou2020/abdou2020/1328
+#EXTINF:-1,Discovery HD
+http://topiptv.net:5890/abdou2020/abdou2020/1319
+#EXTINF:-1,Discovery
+http://topiptv.net:5890/abdou2020/abdou2020/1320
+#EXTINF:-1,History HD
+http://topiptv.net:5890/abdou2020/abdou2020/1324
+#EXTINF:-1,kabel eins Doku
+http://topiptv.net:5890/abdou2020/abdou2020/1325
+#EXTINF:-1,CRIME+ INVESTI GATION HD
+http://topiptv.net:5890/abdou2020/abdou2020/1326
+#EXTINF:-1,EWTN katholisches TV
+http://topiptv.net:5890/abdou2020/abdou2020/1323
+#EXTINF:-1,KiKA HD
+http://topiptv.net:5890/abdou2020/abdou2020/1331
+#EXTINF:-1,Boomerang
+http://topiptv.net:5890/abdou2020/abdou2020/1333
+#EXTINF:-1,Junior
+http://topiptv.net:5890/abdou2020/abdou2020/1334
+#EXTINF:-1,TOGGO plus
+http://topiptv.net:5890/abdou2020/abdou2020/1335
+#EXTINF:-1,Disney XD HD
+http://topiptv.net:5890/abdou2020/abdou2020/1336
+#EXTINF:-1,Disney Junior HD
+http://topiptv.net:5890/abdou2020/abdou2020/1337
+#EXTINF:-1,Disney Junior
+http://topiptv.net:5890/abdou2020/abdou2020/1338
+#EXTINF:-1,Disney Cinemagic HD
+http://topiptv.net:5890/abdou2020/abdou2020/1339
+#EXTINF:-1,Disney Cinemagic
+http://topiptv.net:5890/abdou2020/abdou2020/1340
+#EXTINF:-1,Disney Channel  ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1341
+#EXTINF:-1,NICKELODEON AT
+http://topiptv.net:5890/abdou2020/abdou2020/1342
+#EXTINF:-1,MTV HD
+http://topiptv.net:5890/abdou2020/abdou2020/1344
+#EXTINF:-1,Classica
+http://topiptv.net:5890/abdou2020/abdou2020/1346
+#EXTINF:-1,DELUXE MUSIC
+http://topiptv.net:5890/abdou2020/abdou2020/1347
+#EXTINF:-1,SKY SELECTE 1 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1192
+#EXTINF:-1,SKY SELECTE 2 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1193
+#EXTINF:-1,SKY SELECTE 3 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1202
+#EXTINF:-1,SKY SELECTE 4 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1203
+#EXTINF:-1,SKY SELECTE 5 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1209
+#EXTINF:-1,SKY SELECTE 6 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1210
+#EXTINF:-1,SKY SELECTE 7 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1211
+#EXTINF:-1,SKY SELECTE 8 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1212
+#EXTINF:-1,SKY SELECTE 9 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1213
+#EXTINF:-1,SKY SELECTE 10 HD
+http://topiptv.net:5890/abdou2020/abdou2020/1214
+#EXTINF:-1,Sky Select 1 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1349
+#EXTINF:-1,Sky Select 2 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1350
+#EXTINF:-1,Sky Select 3 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1351
+#EXTINF:-1,Sky Select 4 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1352
+#EXTINF:-1,Sky Select 5 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1353
+#EXTINF:-1,Sky Select 6 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1354
+#EXTINF:-1,Sky Select 7 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1355
+#EXTINF:-1,Sky Select 8 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1356
+#EXTINF:-1,Sky Select 9 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1357
+#EXTINF:-1,Sky Select 10 ᴴᴰ
+http://topiptv.net:5890/abdou2020/abdou2020/1358
