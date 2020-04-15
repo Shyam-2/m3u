@@ -1,341 +1,643 @@
 #EXTM3U
-#EXTINF:-1,51 Radio TV
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1,AB Channel
-https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
-#EXTINF:-1,Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1,Antenna Sud
-http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
-#EXTINF:-1,Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1,Azzurra TV
-https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
-#EXTINF:-1,CafèTV24
-http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1,Canale 2 Altamura
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
-#EXTINF:-1,Canale 21 Campania
-http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1,Canale 21 Lazio
-http://live.sloode.com:1935/canale21/live2/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,Canale 8
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1,Canale 85 Puglia
-http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
-#EXTINF:-1,Canale 85 Puglia
-https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
-#EXTINF:-1,Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1,Company TV
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1,Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1,DMAX
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1,Elive TV Brescia
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,ETV Marche
-http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
-#EXTINF:-1,ETV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1,ETV Marche
-http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF:-1,Euro Indie Music Chart TV
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1,FM Italia TV
-http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1,Gold TV Roma
-http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,Icaro TV
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1,Italia 2 TV
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1,Julie Italia
-https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
-#EXTINF:-1,La Tr3
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
-#EXTINF:-1,La7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1,LaC TV
-http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1,Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1,Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
-#EXTINF:-1,Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1,Padre Pio TV
-https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
-#EXTINF:-1,Paradise TV
-https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
-#EXTINF:-1,Partenope TV
-https://live.puglia.net:8080/live/partenopetv/index.m3u8
-#EXTINF:-1,Pescara TV
-http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
-#EXTINF:-1,Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8
-#EXTINF:-1,Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8
-#EXTINF:-1,Prima TV
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1,Primocanale Liguria
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1,QVC
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-#EXTINF:-1,Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Bruno
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Freccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1,Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1,Radio Lombardia TV
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
-#EXTINF:-1,Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Piter Pan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Siena TV
-http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
-#EXTINF:-1,Radio Taormina
-http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1,Radio Zeta TV
-https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1,Radionorba TV
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1,Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Rai 5
-http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1,Rai 1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/219
+#EXTINF:-1,Rai 1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/362
+#EXTINF:-1,Rai Uno HD bis
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7531
+#EXTINF:-1,RAI 2 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/220
+#EXTINF:-1,Rai 2 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/363
+#EXTINF:-1,RAI 3 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/221
+#EXTINF:-1,Rai 3 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/364
+#EXTINF:-1,Rete 4 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/222
+#EXTINF:-1,Rete 4 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/365
+#EXTINF:-1,Canale 5 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/223
+#EXTINF:-1,Canale 5 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/366
+#EXTINF:-1,Italia 1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/224
+#EXTINF:-1,Italia 1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/367
+#EXTINF:-1,La 7 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/225
+#EXTINF:-1,La7d
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/226
+#EXTINF:-1,Tv 8
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/227
+#EXTINF:-1,Nove HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/228
+#EXTINF:-1,Rsi La 1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/229
+#EXTINF:-1,Rsi La 2 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/230
 #EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1,Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/231
+#EXTINF:-1,Iris
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/232
+#EXTINF:-1,Paramount Network HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/233
 #EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1,Rai Sport
-http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
-#EXTINF:-1,Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1,RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1,ReggioTV
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1,Retesole Lazio
-http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
-#EXTINF:-1,Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
-#EXTINF:-1,RMK TV Sciacca
-http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
-#EXTINF:-1,RMM TV
-http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
-#EXTINF:-1,RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
-#EXTINF:-1,RTC Telecalabria
-http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1,RTL 102.5 TV
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-#EXTINF:-1,RTP
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1,RTR 99 TV
-https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8
-#EXTINF:-1,RTTR
-http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/234
+#EXTINF:-1,Rai 4 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/235
+#EXTINF:-1,Rai 5 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/236
+#EXTINF:-1,20 Mediaset HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/237
+#EXTINF:-1,Cine 34
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/488
+#EXTINF:-1,TV 2000
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/558
+#EXTINF:-1,La 5
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/238
+#EXTINF:-1,Italia 2
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/239
+#EXTINF:-1,Mediaset Extra
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/240
+#EXTINF:-1,Spike HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/241
+#EXTINF:-1,Rai New 24
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6810
+#EXTINF:-1,Tgcom 24
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/349
+#EXTINF:-1,Sky Tg 24 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/350
+#EXTINF:-1,<=°=°=SKY CINEMA=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/245
+#EXTINF:-1,Sky Cinema Uno HD 
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7435
+#EXTINF:-1,Sky Cinema Uno HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/246
+#EXTINF:-1,Sky Cinema Uno Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/352
+#EXTINF:-1,Sky Cinema Uno +24 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/247
+#EXTINF:-1,Sky Cinema Uno +24 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/354
+#EXTINF:-1,Sky Cinema Due HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/248
+#EXTINF:-1,Sky Cinema Due Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/353
+#EXTINF:-1,Sky Cinema Due +24 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/249
+#EXTINF:-1,Sky Cinema Collection HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/250
+#EXTINF:-1,Sky Cinema Collection Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/355
+#EXTINF:-1,Sky Cinema Family HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/251
+#EXTINF:-1,Sky Cinema Family Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/356
+#EXTINF:-1,Sky Cinema Action HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/252
+#EXTINF:-1,Sky Cinema Action Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/357
+#EXTINF:-1,Sky Cinema Suspense HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/253
+#EXTINF:-1,Sky Cinema Suspance Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/358
+#EXTINF:-1,Sky Cinema Romance HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/254
+#EXTINF:-1,Sky Cinema Romance Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/359
+#EXTINF:-1,Sky Cinema Drama HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/255
+#EXTINF:-1,Sky Cinema Drama Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/360
+#EXTINF:-1,Sky Cinema Comedy HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/256
+#EXTINF:-1,Sky Cinema Comedy Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/361
+#EXTINF:-1,<=°=°=INTRATTENIMENTO=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/257
+#EXTINF:-1,Sky Uno HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/258
+#EXTINF:-1,Sky Atlantic HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/259
+#EXTINF:-1,Fox HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/260
+#EXTINF:-1,Fox Crime HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/261
+#EXTINF:-1,Fox Life HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/262
+#EXTINF:-1,Food Network HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/279
+#EXTINF:-1,Gambero Rosso HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/280
+#EXTINF:-1,Dove TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/281
+#EXTINF:-1,Blaze HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/263
+#EXTINF:-1,Comedy Central
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/264
+#EXTINF:-1,LEI
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/265
+#EXTINF:-1,LaEffe hd
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7220
+#EXTINF:-1,Cielo
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/266
+#EXTINF:-1,Real Time HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/267
+#EXTINF:-1,Dmax HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/268
+#EXTINF:-1,Giallo HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/269
+#EXTINF:-1,TOP crime
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/270
+#EXTINF:-1,<=°=°=CULTURA=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/271
+#EXTINF:-1,National Geographic HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7532
+#EXTINF:-1,National Geographic Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/368
+#EXTINF:-1,National Geo Wild HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/273
+#EXTINF:-1,National Geographic Wild FULLHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7533
+#EXTINF:-1,Discovery HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/274
+#EXTINF:-1,Discovery Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/369
+#EXTINF:-1,Sky Arte  HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/370
+#EXTINF:-1,Discovery Sci HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/275
+#EXTINF:-1,Crime + Inv HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/276
+#EXTINF:-1,History HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/277
+#EXTINF:-1,Focus HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/242
+#EXTINF:-1,Italian Fishing Tv HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/243
+#EXTINF:-1,Rai Storia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/244
+#EXTINF:-1,Marcopolo
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/282
+#EXTINF:-1,CACCIA & Pesca
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/283
+#EXTINF:-1,PESCA.
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/284
+#EXTINF:-1,<=°=°=RAGAZZI=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/285
+#EXTINF:-1,Disney Ch  HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/286
+#EXTINF:-1,Disney Junior
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/287
+#EXTINF:-1,Cartoon Network
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/288
+#EXTINF:-1,Boomerang
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/289
+#EXTINF:-1,Nickelodeon
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/290
+#EXTINF:-1,Nick Jr
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/291
+#EXTINF:-1,Baby TV HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/292
+#EXTINF:-1,Dea Junior
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/293
+#EXTINF:-1,Dea Kids
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/294
+#EXTINF:-1,MAN-GA
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/295
+#EXTINF:-1,Super!
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/296
+#EXTINF:-1,K2
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/297
+#EXTINF:-1,frisbee
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/298
+#EXTINF:-1,Rai YoYo HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/299
+#EXTINF:-1,Rai Gulp
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/300
+#EXTINF:-1,Cartoonito
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/301
+#EXTINF:-1,Boing
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/302
+#EXTINF:-1,<=°=°=SPORT=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/303
+#EXTINF:-1,Sky Sport 24 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/304
+#EXTINF:-1,Sky Sport 24 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/371
+#EXTINF:-1,Sky Sport Uno HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/305
+#EXTINF:-1,Sky Sport Uno Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/372
+#EXTINF:-1,Sky Sport Football HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/307
+#EXTINF:-1,Sky Sport Football Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/374
+#EXTINF:-1,Sky Sport Arena HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/308
+#EXTINF:-1,Sky Sport Arena Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/377
+#EXTINF:-1,Sky Sport NBA HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/309
+#EXTINF:-1,Sky Sport NBA Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/375
+#EXTINF:-1,Sky Sport Collection HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/310
+#EXTINF:-1,Sky Sport Collection FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6748
+#EXTINF:-1,Sky Sport F1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/311
+#EXTINF:-1,Sky Sport F1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/378
+#EXTINF:-1,Sky Sport Moto GP HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/312
+#EXTINF:-1,Sky Sport Moto GP Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/379
+#EXTINF:-1,Bike Channel HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/313
+#EXTINF:-1,Juventus TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/554
+#EXTINF:-1,Torino Channel
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/314
+#EXTINF:-1,Roma Tv HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/315
+#EXTINF:-1,Milan Tv HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/316
+#EXTINF:-1,Inter Tv HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/318
+#EXTINF:-1,Rai Sport + HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/341
+#EXTINF:-1,MotorTrend
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/342
+#EXTINF:-1,Eurosport 1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/343
+#EXTINF:-1,Eurosport 2 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/344
+#EXTINF:-1,Uniresat HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/345
+#EXTINF:-1,Supertennis HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/346
+#EXTINF:-1,TOPCalcio 24
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/347
+#EXTINF:-1,Sport Italia HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/348
+#EXTINF:-1,<=°=°=CALCIO=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/319
+#EXTINF:-1,Sky Sport Serie A HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/306
+#EXTINF:-1,Sky Sport Serie A Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/373
+#EXTINF:-1,Sky Calcio 251 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/380
+#EXTINF:-1,Sky Calcio 251 FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/320
+#EXTINF:-1,Sky Calcio 252 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/321
+#EXTINF:-1,Sky Calcio 252 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/381
+#EXTINF:-1,Sky Calcio 253 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/322
+#EXTINF:-1,Sky Calcio 254 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/323
+#EXTINF:-1,<°=°=°= DAZN SPORT =°=°=°>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/324
+#EXTINF:-1,SKY DAZN BAR HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6732
+#EXTINF:-1,SKY DAZN BAR FULL HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6733
+#EXTINF:-1,SKY DAZN BAR 2 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6734
+#EXTINF:-1,SKY DAZN BAR 2 FULL HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6735
+#EXTINF:-1,DAZN WEB 1
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6736
+#EXTINF:-1,DAZN WEB 2
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6737
+#EXTINF:-1,DAZN WEB 3
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6738
+#EXTINF:-1,DAZN WEB 4
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6739
+#EXTINF:-1,DAZN WEB 5
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6740
+#EXTINF:-1,DAZN WEB 6
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6741
+#EXTINF:-1,DAZN WEB 7
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6742
+#EXTINF:-1,DAZN WEB 8
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6743
+#EXTINF:-1,DAZN WEB 9
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6744
+#EXTINF:-1,DAZN WEB 10
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6745
+#EXTINF:-1,DAZN WEB 11
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6746
+#EXTINF:-1,DAZN WEB 12
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6747
+#EXTINF:-1,DAZN DE  Bar 1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/552
+#EXTINF:-1,DAZN DE Bar 2 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/553
+#EXTINF:-1,<=°=°=PREMIUM CINEMA=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/330
+#EXTINF:-1,Premium Cinema HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/331
+#EXTINF:-1,Premium cinema +24 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7064
+#EXTINF:-1,Premium Comedy HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/333
+#EXTINF:-1,Premium Emotion HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/334
+#EXTINF:-1,Premium Energy HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/335
+#EXTINF:-1,Premium Action HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/336
+#EXTINF:-1,Premium Stories HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/337
+#EXTINF:-1,Premium Crime HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/338
+#EXTINF:-1,Premium Action Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/339
+#EXTINF:-1,<=°=°=CANALI +1 =°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7436
+#EXTINF:-1,Rai 1 +1 Full Hd
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7437
+#EXTINF:-1,Rai 2 +1  Full Hd
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7438
+#EXTINF:-1,Rai 3 +1 Full Hd
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7439
+#EXTINF:-1,Rete 4 +1 Full Hd
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7440
+#EXTINF:-1,Canale 5 +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7441
+#EXTINF:-1,Italia 1 +1 Full Hd
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7442
+#EXTINF:-1,Sky Atlantic +1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7443
+#EXTINF:-1,FoxLife +1HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7444
+#EXTINF:-1,Fox +1
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7445
+#EXTINF:-1,FoxCrime +1HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7446
+#EXTINF:-1,FoxCrime +2HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7447
+#EXTINF:-1,Sky Uno +1 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7448
+#EXTINF:-1,Sky Cinema uno +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7449
+#EXTINF:-1,Sky Cinema Due +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7450
+#EXTINF:-1,Sky Cinema Family +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7451
+#EXTINF:-1,Sky Cinema Suspance +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7452
+#EXTINF:-1,Sky Cinema Romance +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7453
+#EXTINF:-1,Sky Cinema Drama +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7454
+#EXTINF:-1,Sky Cinema Comedy +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7455
+#EXTINF:-1,Sky Cinema Collection +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7456
+#EXTINF:-1,Sky Cinema Action +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7457
+#EXTINF:-1,Discovery Channel +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7458
+#EXTINF:-1,Discovery Science +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7459
+#EXTINF:-1,Nat Geo +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7460
+#EXTINF:-1,Nat Geo Wild +1 Full HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7461
+#EXTINF:-1,<=°=°=CANALI SD=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6699
+#EXTINF:-1,Rai 1 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6700
+#EXTINF:-1,Rai 2 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6701
+#EXTINF:-1,Rai 3 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6702
+#EXTINF:-1,Canale 5 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6703
+#EXTINF:-1,Italia 1 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6704
+#EXTINF:-1,Rai Sport SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6705
+#EXTINF:-1,Sky Uno SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6706
+#EXTINF:-1,CI Crime Investigation SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6707
+#EXTINF:-1,Fox SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6708
+#EXTINF:-1,Fox Life SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6709
+#EXTINF:-1,Fox Crime SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6710
+#EXTINF:-1,Fox Comedy SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6711
+#EXTINF:-1,SKY Cinema Suspense SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6712
+#EXTINF:-1,SKY Cinema Romance SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6713
+#EXTINF:-1,Sky Cinema Family SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6714
+#EXTINF:-1,SKY Cinema Due SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6715
+#EXTINF:-1,Sky Cinema Comedy SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6716
+#EXTINF:-1,SKY Cinema Collection SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6717
+#EXTINF:-1,SKY Cinema Action SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6718
+#EXTINF:-1,Sky Cinema 1 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6719
+#EXTINF:-1,Sky Cinema  24 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6720
+#EXTINF:-1,Sky Serie A SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6721
+#EXTINF:-1,SKY Calcio 1  SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6722
+#EXTINF:-1,SKY Calcio 2 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6723
+#EXTINF:-1,SKY Calcio 3 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6724
+#EXTINF:-1,Sky Sport NBA SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6725
+#EXTINF:-1,Sky Sport Moto GP SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6726
+#EXTINF:-1,Sky Sport Football SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6728
+#EXTINF:-1,Sky Sport Arena SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6729
+#EXTINF:-1,Sky Sport 24 SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6730
+#EXTINF:-1,SKY DAZN BAR SD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6731
+#EXTINF:-1,<=°=°=NewTeamTV Channel=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/487
+#EXTINF:-1,EAGLE 4K (IT-DE-EN-multilanguage)
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/401
+#EXTINF:-1,Eagle American Dad 24H
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/402
+#EXTINF:-1,Eagle Brickleberry FHD 24H
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/403
+#EXTINF:-1,Eagle Cinema 007 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/404
+#EXTINF:-1,Eagle Cinema Animazione FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/405
+#EXTINF:-1,Eagle Cinema Avventura FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/406
+#EXTINF:-1,Eagle Cinema Azione FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/407
+#EXTINF:-1,Eagle Cinema Biografico FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/408
+#EXTINF:-1,Eagle Cinema Bud Spencer HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/409
+#EXTINF:-1,Eagle Cinema Comico Cult FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/410
+#EXTINF:-1,Eagle Cinema Commedia FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/411
+#EXTINF:-1,Eagle Cinema Drammatico FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/412
+#EXTINF:-1,Eagle Cinema Famiglia FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/413
+#EXTINF:-1,Eagle Cinema Fantascienza FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/414
+#EXTINF:-1,Eagle Cinema Fantastico FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/415
+#EXTINF:-1,Eagle Cinema Film in Sala  HD (qualita camera)
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/416
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/417
+#EXTINF:-1,Eagle Cinema Mitologia HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/418
+#EXTINF:-1,Eagle Cinema Passione FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/419
+#EXTINF:-1,Eagle Cinema Prima Visione FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/420
+#EXTINF:-1,Eagle Cinema Religion HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/421
+#EXTINF:-1,Eagle Cinema Sorriso FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/422
+#EXTINF:-1,Eagle Cinema Spaghetti Western FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/423
+#EXTINF:-1,Eagle Cinema Storico FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/424
+#EXTINF:-1,Eagle Cinema Thriller FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/425
+#EXTINF:-1,Eagle Cinema Western FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/426
+#EXTINF:-1,Eagle Cinepanettone HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/427
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/428
+#EXTINF:-1,Eagle Fiabe Magiche HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/429
+#EXTINF:-1,Eagle Gomorra Stagione 1 FHD 1080p
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/430
+#EXTINF:-1,Eagle Gomorra Stagione 2 FHD 1080p
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/431
+#EXTINF:-1,Eagle Gomorra Stagione 3 FHD 1080p
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/432
+#EXTINF:-1,Eagle Gomorra Stagione 4 FHD 1080p
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/433
+#EXTINF:-1,Eagle Le Fiabe Disney
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/434
+#EXTINF:-1,Eagle Looney Toons HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/435
+#EXTINF:-1,Eagle MARVEL FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/436
+#EXTINF:-1,Eagle Masha e Orso FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/437
+#EXTINF:-1,Eagle Nature Discovery 4K (double audio)
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/438
+#EXTINF:-1,Eagle Nature Explorer FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/439
+#EXTINF:-1,Eagle Peppa Pig FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/440
+#EXTINF:-1,Eagle Peter Griffin 24H
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/441
+#EXTINF:-1,Eagle Scooby-Doo FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/442
+#EXTINF:-1,Eagle Super Pigiamini FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/443
+#EXTINF:-1,Eagle The Cleveland Show 24H
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/444
+#EXTINF:-1,Eagle 20thCenturyFox FHD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/485
+#EXTINF:-1,Pj Mask Pigiamini Channel
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6779
+#EXTINF:-1,Peppa Pig Channel
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6780
+#EXTINF:-1,<=°=°=TV Regionali=°=°=>
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/512
+#EXTINF:-1,Padre PIO
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/489
+#EXTINF:-1,Super TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/490
+#EXTINF:-1,Antenna Sud
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/491
+#EXTINF:-1,Canale 21
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/492
+#EXTINF:-1,Videonola
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7112
+#EXTINF:-1,Video Nola Napoli
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/493
+#EXTINF:-1,Telenostra Avellino
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/494
+#EXTINF:-1,TelePegaso Catania
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/495
 #EXTINF:-1,RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
-#EXTINF:-1,Sardegna Uno
-https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
-#EXTINF:-1,Senato della Repubblica
-http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1,Skyline TV Radio &amp; Soul
-http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
-#EXTINF:-1,Sophia TV
-https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8
-#EXTINF:-1,Super TV Brescia
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Tele Arena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1,TELE MONTE NEVE
-http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
-#EXTINF:-1,TELE MONTE NEVE 3
-http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
-#EXTINF:-1,Tele One
-http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
-#EXTINF:-1,TeleBoario
-http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
-#EXTINF:-1,Telechiara
-http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1,Telecitta
-http://213.187.12.18/live/tv1.m3u8
-#EXTINF:-1,Telecitta
-http://213.187.12.18:80/live/tv1.m3u8
-#EXTINF:-1,Telecolor Lombardia
-https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1,Telefoggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1,Telefriuli
-http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1,Telegranda
-http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:-1,Telemantova
-https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1,TeleMia
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:-1,Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
-#EXTINF:-1,TeleMonteve
-http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1,TeleNordest
-http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8
-#EXTINF:-1,TeleNordest
-https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1,Teleonda
-https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8
-#EXTINF:-1,TeleQuattro
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
-#EXTINF:-1,TeleRama
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1,Teleromagna
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1,Teleromagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1,Telesud Trapani
-https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
-#EXTINF:-1,TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8
-#EXTINF:-1,TeleTicino
-https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
-#EXTINF:-1,Teletricolore
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1,Teleuniverso
-https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/chunklist_w1494799728.m3u8
-#EXTINF:-1,TeleVideo Agrigento
-https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
-#EXTINF:-1,Tevere TV
-https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
-#EXTINF:-1,TLN Tele Lazio Nord
-http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
-#EXTINF:-1,TR Mia
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1,TR24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1,TSN Livigno
-http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
-#EXTINF:-1,TSN Tele Sondrio News
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1,TV Campane 1 (Napoli)
-http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8
-#EXTINF:-1,Tv Luna
-http://live.sloode.com:1935/teleluna/live/playlist.m3u8
-#EXTINF:-1,TV Qui (Modena)
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1,TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,TV2000
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1,TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1,TV7 Triveneta
-http://217.61.26.46:8080/hls/triveneta.m3u8
-#EXTINF:-1,TVA (Vicenza)
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1,TVL Toscana
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
-#EXTINF:-1,TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,Vera TV (Marche)
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1,Vera TV Marche
-http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
-#EXTINF:-1,VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1,Video Mediterraneo
-http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
-#EXTINF:-1,Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
-#EXTINF:-1,Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1,Videostar TV (Lombardia)
-http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/496
+#EXTINF:-1,SL 48 TV Lazio
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/497
+#EXTINF:-1,Elive TV Brescia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/498
+#EXTINF:-1,RAI SUDTIROL
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/499
+#EXTINF:-1,Onda TV Sicilia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/500
+#EXTINF:-1,Globus TV Sicilia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/501
+#EXTINF:-1,Prima TV Sicilia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7072
+#EXTINF:-1,RTP Sicilia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7073
+#EXTINF:-1,Yvii TV Sicilia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7074
+#EXTINF:-1,Video Brescia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/502
+#EXTINF:-1,Cafe24TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/503
+#EXTINF:-1,Italia 2 TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/504
+#EXTINF:-1,Julie Italia
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/505
+#EXTINF:-1,VideoLina
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/506
+#EXTINF:-1,CBS - US NY
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/507
+#EXTINF:-1,NBC 4 NY
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/508
+#EXTINF:-1,ABC NY
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/509
+#EXTINF:-1,CNN US
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/510
+#EXTINF:-1,CNBC USA
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/511
+#EXTINF:-1,Globo New 
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/7941
+#EXTINF:-1,RTL 102.5 HD
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6811
+#EXTINF:-1,Virgin Tv
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6812
+#EXTINF:-1,R101
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6813
+#EXTINF:-1,FM Italia TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6814
+#EXTINF:-1,Kiss Kiss TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6815
+#EXTINF:-1,Kiss Kiss Italia TV
+http://newteamtv.ddns.net:8000/G14mpa3012/S4gh69skf/6816
