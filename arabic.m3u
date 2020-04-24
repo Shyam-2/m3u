@@ -1,213 +1,1151 @@
 #EXTM3U
-#EXTINF:-1,AL AOULA INTER HD
-http://chronostv.com:80/123456/654321/74369
-#EXTINF:-1,MEDI1 TV Afrique
-http://chronostv.com:80/123456/654321/74370
-#EXTINF:-1,MEDI 1 SAT
-http://chronostv.com:80/123456/654321/74371
-#EXTINF:-1,beiN MOVIES PREMIERE 1 HD
-http://chronostv.com:80/123456/654321/74372
-#EXTINF:-1,beiN MOVIES ACTION 2 HD
-http://chronostv.com:80/123456/654321/74373
-#EXTINF:-1,2M Maroc
-http://chronostv.com:80/123456/654321/74374
-#EXTINF:-1,beiN MOVIES DRAMA 3 HD
-http://chronostv.com:80/123456/654321/74375
-#EXTINF:-1,beiN SERIES 1 HD
-http://chronostv.com:80/123456/654321/74376
-#EXTINF:-1,beiN SERIES 2 HD
-http://chronostv.com:80/123456/654321/74377
-#EXTINF:-1,beiN MOVIES FAMILY 4 HD
-http://chronostv.com:80/123456/654321/74378
-#EXTINF:-1,beiN DRAMA  HD
-http://chronostv.com:80/123456/654321/74379
-#EXTINF:-1,beiN FOX HD
-http://chronostv.com:80/123456/654321/74380
-#EXTINF:-1,beiN Fox Movies HD
-http://chronostv.com:80/123456/654321/74381
-#EXTINF:-1,beiN Fox Family Movies HD
-http://chronostv.com:80/123456/654321/74382
-#EXTINF:-1,beiN Fox Action Movies HD
-http://chronostv.com:80/123456/654321/74383
-#EXTINF:-1,beiN Seevii PRIME 1 HD
-http://chronostv.com:80/123456/654321/74384
-#EXTINF:-1,beiN AMC HD
-http://chronostv.com:80/123456/654321/74385
-#EXTINF:-1,beiN GULLI HD
-http://chronostv.com:80/123456/654321/74386
-#EXTINF:-1,beiN Outdoor HD
-http://chronostv.com:80/123456/654321/74387
-#EXTINF:-1,beiN DTX HD
-http://chronostv.com:80/123456/654321/74388
-#EXTINF:-1,beiN my Cinema HD
-http://chronostv.com:80/123456/654321/74389
-#EXTINF:-1,beiN Seevii PRIME 2 HD
-http://chronostv.com:80/123456/654321/74390
-#EXTINF:-1,beiN Fatafeat HD
-http://chronostv.com:80/123456/654321/74391
-#EXTINF:-1,beiN Dream Works HD
-http://chronostv.com:80/123456/654321/74392
+#EXTINF:-1,AL OULA TNT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/25132.m3u8
+#EXTINF:-1,Al OULA INTER FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/29563.m3u8
+#EXTINF:-1,2M MAROC HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14177.m3u8
+#EXTINF:-1,2M TNT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14186.m3u8
+#EXTINF:-1,ARRIADIA TV FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14182.m3u8
+#EXTINF:-1,ARRIADIA HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/28349.m3u8
+#EXTINF:-1,ARRIADIA TNT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14185.m3u8
+#EXTINF:-1,ARRABIA MAROC FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/29564.m3u8
+#EXTINF:-1,ARRABIA  MAROC HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14175.m3u8
+#EXTINF:-1,AL MAGHRIBIA FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14181.m3u8
+#EXTINF:-1,AL MAGHRIBIA HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14172.m3u8
+#EXTINF:-1,AL MAGHRIBIA TNT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14183.m3u8
+#EXTINF:-1,ASSADISSA FHD
+http://iptv8.premium-stv.com:2052/pro2arab@aradr/ghh@GT@jjGK@/3277
+#EXTINF:-1,ASSADISSA MAROC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14171.m3u8
+#EXTINF:-1,ASSABIA AFLAM 
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14179.m3u8
+#EXTINF:-1,ASSABIA AFLAM HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/25218.m3u8
+#EXTINF:-1,TAMAZIGH FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/29566.m3u8
+#EXTINF:-1,TAMAZIGHT MAROC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14173.m3u8
+#EXTINF:-1,MEDI 1 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14174.m3u8
+#EXTINF:-1,MEDI 1 TNT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14184.m3u8
+#EXTINF:-1,CHADA TV HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14189.m3u8
+#EXTINF:-1,AL AOULA INTER LAAYOUNE
+http://iptv8.premium-stv.com:2052/pro2arab@aradr/ghh@GT@jjGK@/2541
+#EXTINF:-1,TELE MAROC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/14180.m3u8
+#EXTINF:-1,CANAL ATLAS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22087.m3u8
+#EXTINF:-1,GM AFLAM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22085.m3u8
+#EXTINF:-1,GM COMEDIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22084.m3u8
+#EXTINF:-1,GM DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22083.m3u8
+#EXTINF:-1,GM DOCUMENTAIRE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22081.m3u8
+#EXTINF:-1,GM KATAKIT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22080.m3u8
+#EXTINF:-1,GM CHAABI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22078.m3u8
+#EXTINF:-1,GM TAMAZIGHT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22077.m3u8
+#EXTINF:-1,AL ONS TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/64276.m3u8
+#EXTINF:-1,M24 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/64279.m3u8
+#EXTINF:-1,========ALGERIE=======
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24972.m3u8
+#EXTINF:-1,|AR|*****ALGERIE*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22256.m3u8
+#EXTINF:-1,CANAL ALGERIE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22255.m3u8
+#EXTINF:-1,ENTV 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22254.m3u8
+#EXTINF:-1,ALGERIE 3 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22253.m3u8
+#EXTINF:-1,ALGERIE 4
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22252.m3u8
+#EXTINF:-1,ALGERIE 5
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22251.m3u8
+#EXTINF:-1,ELDJAZAIRIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22250.m3u8
+#EXTINF:-1,AL MAGHARIBIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/25219.m3u8
+#EXTINF:-1,DZAIR TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22247.m3u8
+#EXTINF:-1,DZAIR NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22246.m3u8
+#EXTINF:-1,ENNAHAR TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22242.m3u8
+#EXTINF:-1,Al Anis TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22241.m3u8
+#EXTINF:-1,BAHIA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22239.m3u8
+#EXTINF:-1,EL HEDDAF TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22236.m3u8
+#EXTINF:-1,ECHOUROUK TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22235.m3u8
+#EXTINF:-1,ECHOUROUK NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22234.m3u8
+#EXTINF:-1,ECHOUROUK BENNA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22233.m3u8
+#EXTINF:-1,BEUR TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22232.m3u8
+#EXTINF:-1,SAMIRA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22231.m3u8
+#EXTINF:-1,NUMEDIA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22230.m3u8
+#EXTINF:-1,EL FADJR 
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22229.m3u8
+#EXTINF:-1,BERBERE JEUNESSE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22227.m3u8
+#EXTINF:-1,BERBERE TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22225.m3u8
+#EXTINF:-1,|AR|*****TUNISIE*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22723.m3u8
+#EXTINF:-1,|AR|TUNISIA NAT 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22722.m3u8
+#EXTINF:-1,|AR|TUNISIA NAT 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22721.m3u8
+#EXTINF:-1,|AR|TUNISNA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22718.m3u8
+#EXTINF:-1,HANNIBAL
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22720.m3u8
+#EXTINF:-1,NESMA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22719.m3u8
+#EXTINF:-1,ElHIWAR ETTOUNSI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22715.m3u8
+#EXTINF:-1,TUNISIA FIRST
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22714.m3u8
+#EXTINF:-1,ALJANOUBIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22713.m3u8
+#EXTINF:-1,TELVZA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22712.m3u8
+#EXTINF:-1,ATTESIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22711.m3u8
+#EXTINF:-1,ZAYTOUNA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22710.m3u8
+#EXTINF:-1,ZAYTOUNA HIDAYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22709.m3u8
+#EXTINF:-1,AL INSAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22708.m3u8
+#EXTINF:-1,----- |CHAINES ARABE| ----- AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24969.m3u8
+#EXTINF:-1, •------•   MBC HD •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23080.m3u8
+#EXTINF:-1,MBC 2 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21189.m3u8
+#EXTINF:-1,MBC 3 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21188.m3u8
+#EXTINF:-1,MBC 4 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21187.m3u8
+#EXTINF:-1,MBC Action HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23079.m3u8
+#EXTINF:-1,MBC Max HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23077.m3u8
+#EXTINF:-1,MBC Drama HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23078.m3u8
+#EXTINF:-1, •------•   MBC •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23076.m3u8
+#EXTINF:-1,MBC 5
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21186.m3u8
 #EXTINF:-1,MBC 2
-http://chronostv.com:80/123456/654321/74393
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21185.m3u8
 #EXTINF:-1,MBC 3
-http://chronostv.com:80/123456/654321/74394
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21184.m3u8
 #EXTINF:-1,MBC 4
-http://chronostv.com:80/123456/654321/74395
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21183.m3u8
+#EXTINF:-1,MBC ACTION
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23075.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23074.m3u8
 #EXTINF:-1,MBC DRAMA
-http://chronostv.com:80/123456/654321/74396
-#EXTINF:-1,Al Jazeera HD
-http://chronostv.com:80/123456/654321/74397
-#EXTINF:-1,Al Jazeera Mubasher
-http://chronostv.com:80/123456/654321/74398
-#EXTINF:-1,Al Arabiya
-http://chronostv.com:80/123456/654321/74400
-#EXTINF:-1,Nabaa
-http://chronostv.com:80/123456/654321/74401
-#EXTINF:-1,Maan News
-http://chronostv.com:80/123456/654321/74402
-#EXTINF:-1,Libya 218
-http://chronostv.com:80/123456/654321/74403
-#EXTINF:-1,DW
-http://chronostv.com:80/123456/654321/74404
-#EXTINF:-1,Orient News
-http://chronostv.com:80/123456/654321/74405
-#EXTINF:-1,MBC 1
-http://chronostv.com:80/123456/654321/74406
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23073.m3u8
+#EXTINF:-1,MBC MASR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23072.m3u8
+#EXTINF:-1,MBC MASR 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23071.m3u8
+#EXTINF:-1,MBC MAX
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23070.m3u8
+#EXTINF:-1,  •------•   NEWS  •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23065.m3u8
+#EXTINF:-1,AL JAZEERA FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23064.m3u8
+#EXTINF:-1,AL JAZEERA HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23063.m3u8
+#EXTINF:-1,ALJAZEERA ENGLISH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23045.m3u8
+#EXTINF:-1,AlJAZEERA MOUBACHER
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23046.m3u8
+#EXTINF:-1,ALARABIA FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23062.m3u8
+#EXTINF:-1,AL HADATH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23061.m3u8
+#EXTINF:-1,SKY NEWS ARABIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23060.m3u8
 #EXTINF:-1,CNBC Arabia
-http://chronostv.com:80/123456/654321/74407
-#EXTINF:-1,CGTN ARABIC
-http://chronostv.com:80/123456/654321/74408
-#EXTINF:-1,BBC ARABIA
-http://chronostv.com:80/123456/654321/74409
-#EXTINF:-1,ALJAZEERA DOCUMENT
-http://chronostv.com:80/123456/654321/74410
-#EXTINF:-1,Alaraby TV
-http://chronostv.com:80/123456/654321/74411
-#EXTINF:-1,AL AAN TV
-http://chronostv.com:80/123456/654321/74412
-#EXTINF:-1,DUBAI TV
-http://chronostv.com:80/123456/654321/74413
-#EXTINF:-1,DUBAI ONE
-http://chronostv.com:80/123456/654321/74414
-#EXTINF:-1,SAMA DUBAI
-http://chronostv.com:80/123456/654321/74415
-#EXTINF:-1,Quest Arabiya
-http://chronostv.com:80/123456/654321/74416
-#EXTINF:-1,DUBAI ZAMAN
-http://chronostv.com:80/123456/654321/74417
-#EXTINF:-1,Dubai Racing 2
-http://chronostv.com:80/123456/654321/74418
-#EXTINF:-1,Dubai Racing 1
-http://chronostv.com:80/123456/654321/74419
-#EXTINF:-1,AJMAN TV
-http://chronostv.com:80/123456/654321/74420
-#EXTINF:-1,Al Wusta Tv
-http://chronostv.com:80/123456/654321/74421
-#EXTINF:-1,Ariana TV
-http://chronostv.com:80/123456/654321/74422
-#EXTINF:-1,Ariana News
-http://chronostv.com:80/123456/654321/74423
-#EXTINF:-1,Aghani Aghani
-http://chronostv.com:80/123456/654321/74424
-#EXTINF:-1,CHAMS-TV
-http://chronostv.com:80/123456/654321/74425
-#EXTINF:-1,STAR MOVIES HD
-http://chronostv.com:80/123456/654321/74427
-#EXTINF:-1, Mekamleen 4k
-http://chronostv.com:80/123456/654321/74428
-#EXTINF:-1,Manar
-http://chronostv.com:80/123456/654321/74429
-#EXTINF:-1,TOYOR AL JANAH
-http://chronostv.com:80/123456/654321/74430
-#EXTINF:-1, Sat7 kids
-http://chronostv.com:80/123456/654321/74431
-#EXTINF:-1,Kuwait 2 TV
-http://chronostv.com:80/123456/654321/74432
-#EXTINF:-1,Star World
-http://chronostv.com:80/123456/654321/74433
-#EXTINF:-1,Space toon TV
-http://chronostv.com:80/123456/654321/74434
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23059.m3u8
+#EXTINF:-1,RT ARAB
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23058.m3u8
+#EXTINF:-1,BBC Arab
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23056.m3u8
+#EXTINF:-1,DW AR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23057.m3u8
+#EXTINF:-1,ANN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23053.m3u8
+#EXTINF:-1,TRT ARABIC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23051.m3u8
+#EXTINF:-1,AL HADATH AL YOUM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23043.m3u8
+#EXTINF:-1,ALRAI TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23042.m3u8
+#EXTINF:-1,MAAN NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23041.m3u8
+#EXTINF:-1,AL HURA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23047.m3u8
+#EXTINF:-1,AL IRAQIYA NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22862.m3u8
+#EXTINF:-1,AL ALAM NEWS CHANNEL
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23044.m3u8
+#EXTINF:-1,SHARQIYA NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23048.m3u8
+#EXTINF:-1,SYRIA NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22779.m3u8
+#EXTINF:-1, •------•   ISLAMIC •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23040.m3u8
+#EXTINF:-1,AL AFASY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23039.m3u8
+#EXTINF:-1,SAUDI QURAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23038.m3u8
+#EXTINF:-1,Al SUNNA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23037.m3u8
+#EXTINF:-1,ALERTH ALNABAWI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23036.m3u8
+#EXTINF:-1,MECCA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23034.m3u8
 #EXTINF:-1,ALNAS
-http://chronostv.com:80/123456/654321/74435
-#EXTINF:-1,ALMAGD TV
-http://chronostv.com:80/123456/654321/74436
-#EXTINF:-1,AL SHASHA FOOD
-http://chronostv.com:80/123456/654321/74437
-#EXTINF:-1,AL MANAR TV
-http://chronostv.com:80/123456/654321/74438
-#EXTINF:-1,SALAM TV
-http://chronostv.com:80/123456/654321/74439
-#EXTINF:-1,PBC PALESTINE Live
-http://chronostv.com:80/123456/654321/74440
-#EXTINF:-1,PBC PALESTINE 1
-http://chronostv.com:80/123456/654321/74441
-#EXTINF:-1,Musawa
-http://chronostv.com:80/123456/654321/74442
-#EXTINF:-1,Maan
-http://chronostv.com:80/123456/654321/74443
-#EXTINF:-1,Hona Alquds
-http://chronostv.com:80/123456/654321/74444
-#EXTINF:-1,Al Fajer 2 HD
-http://chronostv.com:80/123456/654321/74445
-#EXTINF:-1,Ajyal TV
-http://chronostv.com:80/123456/654321/74446
-#EXTINF:-1, MUSIC NOW
-http://chronostv.com:80/123456/654321/74447
-#EXTINF:-1,FUTURE LEBANON
-http://chronostv.com:80/123456/654321/74448
-#EXTINF:-1,KUWAIT 1 HD
-http://chronostv.com:80/123456/654321/74449
-#EXTINF:-1,KTV Sport Plus
-http://chronostv.com:80/123456/654321/74450
-#EXTINF:-1,KTV Al Majlis
-http://chronostv.com:80/123456/654321/74451
-#EXTINF:-1,Al Qurain
-http://chronostv.com:80/123456/654321/74452
-#EXTINF:-1,KTV Sport
-http://chronostv.com:80/123456/654321/74453
-#EXTINF:-1,KTV Ethraa
-http://chronostv.com:80/123456/654321/74454
-#EXTINF:-1,Libya's Channel
-http://chronostv.com:80/123456/654321/74455
-#EXTINF:-1,Libya Tanasuh
-http://chronostv.com:80/123456/654321/74456
-#EXTINF:-1,Libya Nabaa
-http://chronostv.com:80/123456/654321/74457
-#EXTINF:-1,Libya Alhadath TV
-http://chronostv.com:80/123456/654321/74458
-#EXTINF:-1,Libya 218 News
-http://chronostv.com:80/123456/654321/74459
-#EXTINF:-1,BAHRAIN TV
-http://chronostv.com:80/123456/654321/74460
-#EXTINF:-1,BAHRAIN SPORT 2
-http://chronostv.com:80/123456/654321/74461
-#EXTINF:-1,BAHRAIN SPORT
-http://chronostv.com:80/123456/654321/74462
-#EXTINF:-1,BAHRAIN Quran
-http://chronostv.com:80/123456/654321/74463
-#EXTINF:-1,AD SPORT 1 HD
-http://chronostv.com:80/123456/654321/74464
-#EXTINF:-1,BAHRAIN International TV
-http://chronostv.com:80/123456/654321/74465
-#EXTINF:-1,TOP CINEMA 9
-http://chronostv.com:80/123456/654321/74476
-#EXTINF:-1,TOP CINEMA 8
-http://chronostv.com:80/123456/654321/74477
-#EXTINF:-1,TOP CINEMA 10
-http://chronostv.com:80/123456/654321/74478
-#EXTINF:-1,TOP CINEMA 7
-http://chronostv.com:80/123456/654321/74479
-#EXTINF:-1,TOP CINEMA 5
-http://chronostv.com:80/123456/654321/74480
-#EXTINF:-1,TOP CINEMA 6
-http://chronostv.com:80/123456/654321/74481
-#EXTINF:-1,TOP CINEMA 4
-http://chronostv.com:80/123456/654321/74482
-#EXTINF:-1,TOP CINEMA 2
-http://chronostv.com:80/123456/654321/74483
-#EXTINF:-1,AD SPORT 2 HD
-http://chronostv.com:80/123456/654321/74484
-#EXTINF:-1,TOP CINEMA 3
-http://chronostv.com:80/123456/654321/74485
-#EXTINF:-1,TOP CINEMA 1
-http://chronostv.com:80/123456/654321/74486
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23029.m3u8
+#EXTINF:-1,ALRAHMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23032.m3u8
+#EXTINF:-1,IQRAA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23035.m3u8
+#EXTINF:-1,AL RESALAH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23031.m3u8
+#EXTINF:-1,AHEL AL QURAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23033.m3u8
+#EXTINF:-1,ELMAHADRA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23024.m3u8
+#EXTINF:-1,WESAL
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23027.m3u8
+#EXTINF:-1, •------•   AL MAJD •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23023.m3u8
+#EXTINF:-1,Al MAJD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23022.m3u8
+#EXTINF:-1,ALMAJD QURAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23021.m3u8
+#EXTINF:-1,ALMAJD HADEETH ALNABAWI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23019.m3u8
+#EXTINF:-1,ALMAJD ALILMIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23020.m3u8
+#EXTINF:-1,AlLMAJD EDUCATIONAL
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23018.m3u8
+#EXTINF:-1, •------•   BARAEM •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23017.m3u8
+#EXTINF:-1,JEEM KIDS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23016.m3u8
+#EXTINF:-1,BARAEM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23015.m3u8
+#EXTINF:-1,TOYOR ALJANAH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23011.m3u8
+#EXTINF:-1,TOYOR BABY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23012.m3u8
+#EXTINF:-1,CARTOON NETWORK AR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23013.m3u8
+#EXTINF:-1,SEM SEM TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23010.m3u8
+#EXTINF:-1,KARAMEESH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23006.m3u8
+#EXTINF:-1,MAJED KIDS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23009.m3u8
+#EXTINF:-1,AJYAL HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23008.m3u8
+#EXTINF:-1,MICKEY CHANNEL
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23007.m3u8
+#EXTINF:-1,|AR|SPACETOON
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23005.m3u8
+#EXTINF:-1,UNRWA KIDS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23004.m3u8
+#EXTINF:-1,MODY KIDS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23003.m3u8
+#EXTINF:-1, •------•   ART •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23001.m3u8
+#EXTINF:-1,ART AFLAM 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22999.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22998.m3u8
+#EXTINF:-1,ART CINEMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/23000.m3u8
+#EXTINF:-1,ART HEKAYAT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22997.m3u8
+#EXTINF:-1,ART HEKAYAT 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22996.m3u8
+#EXTINF:-1, •------•   ROTANA •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22995.m3u8
+#EXTINF:-1,ROTANA AFLAM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22988.m3u8
+#EXTINF:-1,ROTANA CINEMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22990.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22989.m3u8
+#EXTINF:-1,ROTANA CLIP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22991.m3u8
+#EXTINF:-1,ROTANA KHALIJI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22992.m3u8
+#EXTINF:-1,ROTANA MASRIYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22993.m3u8
+#EXTINF:-1,ROTANA MUSIC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22994.m3u8
+#EXTINF:-1, •------•   DUBAI  •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22987.m3u8
+#EXTINF:-1,Dubai TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22984.m3u8
+#EXTINF:-1,DUBAI ALOULA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22983.m3u8
+#EXTINF:-1,DUBAI DARAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22979.m3u8
+#EXTINF:-1,DUBAI NOOR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22981.m3u8
+#EXTINF:-1,DUBAI ONE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22982.m3u8
+#EXTINF:-1,DUBAI ZAMAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22980.m3u8
+#EXTINF:-1,DUBAI SPORTS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22973.m3u8
+#EXTINF:-1,DUBAI SPORTS 3
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22972.m3u8
+#EXTINF:-1,DUBAI SPORTS 4
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22971.m3u8
+#EXTINF:-1,DUBAI RACING
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22977.m3u8
+#EXTINF:-1,DUBAI RACING 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22976.m3u8
+#EXTINF:-1,DUBAI RACING 3
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22975.m3u8
+#EXTINF:-1,YAS SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22974.m3u8
+#EXTINF:-1,FUJAIRAH TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22970.m3u8
+#EXTINF:-1,ALDAFRA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22969.m3u8
+#EXTINF:-1,AL SHARJAH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22968.m3u8
+#EXTINF:-1,AL SHARJAH Sport
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22967.m3u8
+#EXTINF:-1,ABU DHABI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22966.m3u8
+#EXTINF:-1,ABU DHABI 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22965.m3u8
+#EXTINF:-1,NAT GEO ABUDAHABI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22964.m3u8
+#EXTINF:-1,AD Al EMARAT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22963.m3u8
+#EXTINF:-1,AD Drama HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22962.m3u8
+#EXTINF:-1,AD MAJIDKIDS FullHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22961.m3u8
+#EXTINF:-1,|AR|*****EGYPTE*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22960.m3u8
+#EXTINF:-1,ESC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22959.m3u8
+#EXTINF:-1,ALTHANYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22958.m3u8
+#EXTINF:-1,DREAM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22957.m3u8
+#EXTINF:-1,NILE CINEMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22956.m3u8
+#EXTINF:-1, AL OULA  (Masr)
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/29599.m3u8
+#EXTINF:-1,NILE SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22955.m3u8
+#EXTINF:-1,PYRAMIDS  FC TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/29600.m3u8
+#EXTINF:-1,NILE CULTURE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22954.m3u8
+#EXTINF:-1,Nile DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22953.m3u8
+#EXTINF:-1,NILE NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22952.m3u8
+#EXTINF:-1,NILE COMEDY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22951.m3u8
+#EXTINF:-1,NILE FAMILY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22950.m3u8
+#EXTINF:-1,NILE LIFE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22949.m3u8
+#EXTINF:-1,AL MASRIYA1 TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22948.m3u8
+#EXTINF:-1,AL MASRIYA2 TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22947.m3u8
+#EXTINF:-1,ALKAHERA WALNAS 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22946.m3u8
+#EXTINF:-1,ALKAHERA WALNAS 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22945.m3u8
+#EXTINF:-1,ALMASSAR ALOULA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22943.m3u8
+#EXTINF:-1,LTC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22942.m3u8
+#EXTINF:-1,MASPRO ZAMAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22941.m3u8
+#EXTINF:-1,MELODY CLASSIC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22940.m3u8
+#EXTINF:-1,MEHWAR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22939.m3u8
+#EXTINF:-1,SADA ELBALAD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22938.m3u8
+#EXTINF:-1,PANORAMA DRAMA 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22937.m3u8
+#EXTINF:-1, PANORAMA DRAMA 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22936.m3u8
+#EXTINF:-1,PANORAMA COMEDY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22935.m3u8
+#EXTINF:-1,PANORAMA FILM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22934.m3u8
+#EXTINF:-1,PANORAMA FOOD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22933.m3u8
+#EXTINF:-1,MODERN SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22932.m3u8
+#EXTINF:-1,CAIRO ONE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22931.m3u8
+#EXTINF:-1,CAIRO CINEMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22930.m3u8
+#EXTINF:-1,CAIRO DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22929.m3u8
+#EXTINF:-1,ALNAHAR ALYOUM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22928.m3u8
+#EXTINF:-1,ALNAHAR SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22927.m3u8
+#EXTINF:-1,ALNAHAR ONE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22926.m3u8
+#EXTINF:-1,AL NAHAR DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22925.m3u8
+#EXTINF:-1,AL QANAT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22924.m3u8
+#EXTINF:-1,ALARABI
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22923.m3u8
+#EXTINF:-1,Mekameleen TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22922.m3u8
+#EXTINF:-1,WATAN TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22921.m3u8
+#EXTINF:-1,EL SHARQ TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22920.m3u8
+#EXTINF:-1,TEN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22919.m3u8
+#EXTINF:-1,SEHATY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22918.m3u8
+#EXTINF:-1,AL AHLY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22917.m3u8
+#EXTINF:-1,CBC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22916.m3u8
+#EXTINF:-1,CBC TWO
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22915.m3u8
+#EXTINF:-1,CBC DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22914.m3u8
+#EXTINF:-1,CBC EXTRA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22913.m3u8
+#EXTINF:-1,CBC SOFRA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22912.m3u8
+#EXTINF:-1,ON TV HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22911.m3u8
+#EXTINF:-1,ON TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22910.m3u8
+#EXTINF:-1,ON E
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22909.m3u8
+#EXTINF:-1,ON LIVE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22908.m3u8
+#EXTINF:-1,ON SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22907.m3u8
+#EXTINF:-1,ON DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22906.m3u8
+#EXTINF:-1,ON TV DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22905.m3u8
+#EXTINF:-1,ON TV PLUS HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22904.m3u8
+#EXTINF:-1,DMC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22903.m3u8
+#EXTINF:-1,DMC DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22902.m3u8
+#EXTINF:-1,DMC SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22901.m3u8
+#EXTINF:-1,AL HAYAT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22900.m3u8
+#EXTINF:-1,AL HAYAT 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22899.m3u8
+#EXTINF:-1,ALHAYAT MUSALSALAT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22898.m3u8
+#EXTINF:-1,AL HAYAT TAWAZON
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22897.m3u8
+#EXTINF:-1,CIMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22896.m3u8
+#EXTINF:-1,AL BAIT BAITAK CINEMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22895.m3u8
+#EXTINF:-1,WANASAH TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22894.m3u8
+#EXTINF:-1,AGHAPY TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22893.m3u8
+#EXTINF:-1,AL ASSEMA 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22892.m3u8
+#EXTINF:-1,AL ASSEMA 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22891.m3u8
+#EXTINF:-1,=====SAUDIA=====
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22890.m3u8
+#EXTINF:-1,SAUDI ARABIA 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22889.m3u8
+#EXTINF:-1,|AR|SAUDI ARABIA 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22888.m3u8
+#EXTINF:-1,Saudi Anti terrorism
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22887.m3u8
+#EXTINF:-1,SAUDI FAMILY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22886.m3u8
+#EXTINF:-1,MASDAR TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22885.m3u8
+#EXTINF:-1,Direct
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22884.m3u8
+#EXTINF:-1,AL TEEB
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22883.m3u8
+#EXTINF:-1,SAUDI 24
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22882.m3u8
+#EXTINF:-1,SAUDI SPORT 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22881.m3u8
+#EXTINF:-1,|AR|*****LIBAN*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22880.m3u8
+#EXTINF:-1,LBC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22879.m3u8
+#EXTINF:-1,TELE LIBAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22878.m3u8
+#EXTINF:-1,FUTURE TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22877.m3u8
+#EXTINF:-1,LDC LIBAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22876.m3u8
+#EXTINF:-1,NBN HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22875.m3u8
+#EXTINF:-1,ALAAN TV LEBANON
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22874.m3u8
+#EXTINF:-1,ELJADEED
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22873.m3u8
+#EXTINF:-1,ALMANAR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22872.m3u8
+#EXTINF:-1,MTV LIBAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22871.m3u8
+#EXTINF:-1,ALMAYADEEN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22870.m3u8
+#EXTINF:-1,OTV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22869.m3u8
+#EXTINF:-1,EL IMAN TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22868.m3u8
+#EXTINF:-1,AL WAAD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22867.m3u8
+#EXTINF:-1,ARABICA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22866.m3u8
+#EXTINF:-1,AGHANI TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22865.m3u8
+#EXTINF:-1,|AR|*****IRAQ*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22864.m3u8
+#EXTINF:-1,AL IRAQIYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22863.m3u8
+#EXTINF:-1,AL IRAQIYA SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22861.m3u8
+#EXTINF:-1,AL FORAT TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22860.m3u8
+#EXTINF:-1,AFAQ
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22859.m3u8
+#EXTINF:-1,ANB TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22858.m3u8
+#EXTINF:-1,HONA BAGHDAD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22857.m3u8
+#EXTINF:-1,AL RAFIDAYAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22856.m3u8
+#EXTINF:-1,AL MAWSELIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22855.m3u8
+#EXTINF:-1,AL SUMARIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22854.m3u8
+#EXTINF:-1,KARBALA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22853.m3u8
+#EXTINF:-1,AL KAWTHAR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22852.m3u8
+#EXTINF:-1,AL AHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22851.m3u8
+#EXTINF:-1,DIJLA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22850.m3u8
+#EXTINF:-1,AL ESHRAQ TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22849.m3u8
+#EXTINF:-1,AL ITEJAH TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22848.m3u8
+#EXTINF:-1,AL CHARQIA NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22847.m3u8
+#EXTINF:-1,Jordan
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22846.m3u8
+#EXTINF:-1,JORDAN DERETNA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22845.m3u8
+#EXTINF:-1,KAIFA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22844.m3u8
+#EXTINF:-1,JORDAN AL HURRA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22843.m3u8
+#EXTINF:-1,JORDAN AMEN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22842.m3u8
+#EXTINF:-1,JORDAN JOOD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22841.m3u8
+#EXTINF:-1,JORDAN MANASEER
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22840.m3u8
+#EXTINF:-1,JORDAN NOW
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22839.m3u8
+#EXTINF:-1,JORDAN SAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22838.m3u8
+#EXTINF:-1,JORDAN SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22837.m3u8
+#EXTINF:-1,JORDAN WAST ALBALAD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22836.m3u8
+#EXTINF:-1,KUWAIT TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22835.m3u8
+#EXTINF:-1,KTV ETHRAA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22833.m3u8
+#EXTINF:-1,KTV SPORT HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22832.m3u8
+#EXTINF:-1,KUWAIT 2 TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22831.m3u8
+#EXTINF:-1,KUWAIT SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22830.m3u8
+#EXTINF:-1,KTV PLUS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22829.m3u8
+#EXTINF:-1,LIBYA 218
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22828.m3u8
+#EXTINF:-1,LIBYA 24
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22827.m3u8
+#EXTINF:-1,LIBYA AL RSMIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22826.m3u8
+#EXTINF:-1,LIBYA EL MARAH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22825.m3u8
+#EXTINF:-1,LIBYA ONE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22824.m3u8
+#EXTINF:-1,LIBYA SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/45903.m3u8
+#EXTINF:-1,LIBYA PANORAMA HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22823.m3u8
+#EXTINF:-1,LIBYA TODAY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22822.m3u8
+#EXTINF:-1,STAR CINEMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22821.m3u8
+#EXTINF:-1,STAR CINEMA 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22820.m3u8
+#EXTINF:-1,ALJAZEERA DOC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22819.m3u8
+#EXTINF:-1,CGTN TV ARABIC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22818.m3u8
+#EXTINF:-1,ALMIHWAR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22817.m3u8
+#EXTINF:-1,AL QUDS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22816.m3u8
+#EXTINF:-1,ETIHAD TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22815.m3u8
+#EXTINF:-1,AWDEH TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22814.m3u8
+#EXTINF:-1,FALASTINIAH TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22813.m3u8
+#EXTINF:-1,PALESTINE TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22812.m3u8
+#EXTINF:-1,PALESTINE LIVE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22811.m3u8
+#EXTINF:-1,PALESTINE TODAY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22810.m3u8
+#EXTINF:-1,PALESTINE NEWS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22809.m3u8
+#EXTINF:-1,PALESTINE SPORT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22808.m3u8
+#EXTINF:-1,ANNAJAH NBC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22807.m3u8
+#EXTINF:-1,B4U AFLAM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22806.m3u8
+#EXTINF:-1,B4U PLUS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22805.m3u8
+#EXTINF:-1,LIBYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22804.m3u8
+#EXTINF:-1,AL ISTIQAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22803.m3u8
+#EXTINF:-1,OMAN TV 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22802.m3u8
+#EXTINF:-1,OMAN TV 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22801.m3u8
+#EXTINF:-1,OMAN TV 3
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22800.m3u8
+#EXTINF:-1,OMAN TV 4
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22799.m3u8
+#EXTINF:-1,YEMEN TODAY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22797.m3u8
+#EXTINF:-1,YEMEN SAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22796.m3u8
+#EXTINF:-1,SUHAIL TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22795.m3u8
+#EXTINF:-1,AL SHAREYYAH
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22794.m3u8
+#EXTINF:-1,YEMEN SHABAB
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22793.m3u8
+#EXTINF:-1,QACAID TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22792.m3u8
+#EXTINF:-1,QATAR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22791.m3u8
+#EXTINF:-1,QATAR TODAY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22790.m3u8
+#EXTINF:-1,AL RAYYAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22789.m3u8
+#EXTINF:-1,AL RAYYAN HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22788.m3u8
+#EXTINF:-1,AL RAYYAN 2 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22787.m3u8
+#EXTINF:-1,BAHRAIN TV HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22786.m3u8
+#EXTINF:-1,BAHRAIN INTERNATIONAL
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22785.m3u8
+#EXTINF:-1,BAHRAIN INTERNATIONAL HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22784.m3u8
+#EXTINF:-1,BAHRAIN QURAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22783.m3u8
+#EXTINF:-1,BAHRAIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22782.m3u8
+#EXTINF:-1,BAHRAIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22781.m3u8
+#EXTINF:-1,QUEST ARABIYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22780.m3u8
+#EXTINF:-1,AL EKHBARIYA AL SORIYA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22778.m3u8
+#EXTINF:-1,SYRIA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22777.m3u8
+#EXTINF:-1,ORIENT TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22776.m3u8
+#EXTINF:-1,AL GHAD MUSHREQ TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22775.m3u8
+#EXTINF:-1,AL AMAKEN DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22774.m3u8
+#EXTINF:-1,AL DAWAEIA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22773.m3u8
+#EXTINF:-1,AL HAQIQA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22772.m3u8
+#EXTINF:-1,MUSIC AL HANEN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22771.m3u8
+#EXTINF:-1,ZEE AFLAM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22770.m3u8
+#EXTINF:-1,ZEE ALWAN
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22769.m3u8
+#EXTINF:-1,HALABA TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22768.m3u8
+#EXTINF:-1,I FILM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22767.m3u8
+#EXTINF:-1,ALKASS 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22766.m3u8
+#EXTINF:-1,ALKASS 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22765.m3u8
+#EXTINF:-1,ALKASS 3
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22764.m3u8
+#EXTINF:-1,ALKASS 4
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22763.m3u8
+#EXTINF:-1,ALKASS 5
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22762.m3u8
+#EXTINF:-1,MYHD MBCHD1
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1621
+#EXTINF:-1,MYHD MBC HD 2
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1622
+#EXTINF:-1,MYHD MBC HD 3
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1623
+#EXTINF:-1,MYHD MBC HD 4
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1624
+#EXTINF:-1,MYHD MBC DRAMA HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1625
+#EXTINF:-1,MYHD MBC DRAMA  HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1626
+#EXTINF:-1,MYHD MBC ACTION HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1627
+#EXTINF:-1,MYHD MBC MAX HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1628
+#EXTINF:-1,MYHD MBC VARIETY HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1629
+#EXTINF:-1,MYHD MBC IRAQ HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1630
+#EXTINF:-1,MYHD MYHD MBC DRAMA+ HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1635
+#EXTINF:-1,MYHD MYHD MBC 5 HD MAROC
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1636
+#EXTINF:-1,MYHD MYHD MBC Bollywood HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1637
+#EXTINF:-1,MYHD MYHD MBC Masr
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1638
+#EXTINF:-1,MYHD MYHD MBC Masr 2
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1639
+#EXTINF:-1,MYHD Rotana_HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1640
+#EXTINF:-1,MYHD Rotana Drama HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1641
+#EXTINF:-1,MYHD Rotana Aflam HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1642
+#EXTINF:-1,MYHD Rotana Masriya HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1643
+#EXTINF:-1,MYHD Rotana Music HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1644
+#EXTINF:-1,MYHD GULLI ARABIC
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1645
+#EXTINF:-1,MYHD TIJI HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1646
+#EXTINF:-1,MYHD Fix & Foxi
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1647
+#EXTINF:-1,MYHD ZOOMOO
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1648
+#EXTINF:-1,MYHD CINEMA HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1649
+#EXTINF:-1,MYHD STAR MOVIES HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1650
+#EXTINF:-1,MYHD ME DOC
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1651
+#EXTINF:-1,MYHD FILM BOX HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1652
+#EXTINF:-1,MYHD FIGHT BOX HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1653
+#EXTINF:-1,MYHD FOX ACTION HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1654
+#EXTINF:-1,MYHD FOX FAMILY HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1655
+#EXTINF:-1,MYHD FREE Movie HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1656
+#EXTINF:-1,MYHD BBC Fisrt HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1657
+#EXTINF:-1,MYHD FOX Crime
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1658
+#EXTINF:-1,MYHD FOX LIFE
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1659
+#EXTINF:-1,MYHD Fox Rewayat MyHD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1660
+#EXTINF:-1,MYHD FX HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1661
+#EXTINF:-1,MYHD ZEN HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1662
+#EXTINF:-1,MYHD DOCU BOX HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1663
+#EXTINF:-1,MYHD ANIMAL PLANET
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1664
+#EXTINF:-1,MYHD Discovery-SC
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1665
+#EXTINF:-1,MYHD Nat Geo Wild HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1666
+#EXTINF:-1,MYHD NATGEO HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1667
+#EXTINF:-1,•------• OSN MOVIES •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22073.m3u8
+#EXTINF:-1,•------• OSN KIDS•------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22047.m3u8
+#EXTINF:-1,•------• OSN CULTURE •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22020.m3u8
+#EXTINF:-1,•------• OSN SPORT •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22008.m3u8
+#EXTINF:-1,|OSN| AD SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47364.m3u8
+#EXTINF:-1,|OSN| AD SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47365.m3u8
+#EXTINF:-1,|OSN| AD SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47366.m3u8
+#EXTINF:-1,|OSN| AD SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47367.m3u8
+#EXTINF:-1,|OSN| Ya Hala Oula HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47368.m3u8
+#EXTINF:-1,|OSN| Ya Hala HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47369.m3u8
+#EXTINF:-1,|OSN| AL Yawm HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47370.m3u8
+#EXTINF:-1,|OSN| Animal Planet HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47371.m3u8
+#EXTINF:-1,|OSN| Baby TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47372.m3u8
+#EXTINF:-1,|OSN| BBC First HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47373.m3u8
+#EXTINF:-1,|OSN| CINEMA 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47374.m3u8
+#EXTINF:-1,|OSN| CINEMA 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47375.m3u8
+#EXTINF:-1,|OSN| Comedy Central HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47376.m3u8
+#EXTINF:-1,|OSN| Discovery Channel HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47377.m3u8
+#EXTINF:-1,|OSN| Discovery Family HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47378.m3u8
+#EXTINF:-1,|OSN| Discovery IDX
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47379.m3u8
+#EXTINF:-1,|OSN| Discovery Science HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47380.m3u8
+#EXTINF:-1,|OSN| Disney Channel HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47381.m3u8
+#EXTINF:-1,|OSN| Disney Junior
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47382.m3u8
+#EXTINF:-1,|OSN| Disney XD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47383.m3u8
+#EXTINF:-1,|OSN| H2 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47384.m3u8
+#EXTINF:-1,|OSN| History Channel HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47385.m3u8
+#EXTINF:-1,|OSN| TLC HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47386.m3u8
+#EXTINF:-1,|OSN| Action HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47387.m3u8
+#EXTINF:-1,|OSN| Movies Diseny
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47388.m3u8
+#EXTINF:-1,|OSN| Movies First HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47389.m3u8
+#EXTINF:-1,|OSN| Movies First HD 2h
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47390.m3u8
+#EXTINF:-1,|OSN| Movies HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47391.m3u8
+#EXTINF:-1,|OSN| Kids
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47392.m3u8
+#EXTINF:-1,|OSN| Enigma HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47393.m3u8
+#EXTINF:-1,|OSN| MUSALSALAT HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47394.m3u8
+#EXTINF:-1,|OSN| MUSALSALAT 2HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47395.m3u8
+#EXTINF:-1,|OSN| Nat Geo HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47396.m3u8
+#EXTINF:-1,|OSN| NAT GEO People HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47397.m3u8
+#EXTINF:-1,|OSN| Nat GEO Wild HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47398.m3u8
+#EXTINF:-1,|OSN| Nick JR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47399.m3u8
+#EXTINF:-1,|OSN| Nickelodeon HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47400.m3u8
+#EXTINF:-1,|OSN| Kid Zone TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47401.m3u8
+#EXTINF:-1,|OSN| Paramount HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47402.m3u8
+#EXTINF:-1,|OSN| Comedy HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47403.m3u8
+#EXTINF:-1,|OSN| Series First
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47404.m3u8
+#EXTINF:-1,|OSN| Star Movie HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47405.m3u8
+#EXTINF:-1,|OSN| Star World HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47406.m3u8
+#EXTINF:-1,|OSN| Syfy HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47407.m3u8
+#EXTINF:-1,|OSN| E! HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47408.m3u8
+#EXTINF:-1,|OSN| Fashion HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47409.m3u8
+#EXTINF:-1,|OSN| Living HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47410.m3u8
+#EXTINF:-1,|OSN| MTV Live HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47411.m3u8
+#EXTINF:-1,|OSN| Music NOW HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47412.m3u8
+#EXTINF:-1,|OSN| Yahala Cinema HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47413.m3u8
+#EXTINF:-1,|OSN| BINGE HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/47414.m3u8
+#EXTINF:-1,•------• BEINS SPORT •------• |AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24983.m3u8
+#EXTINF:-1,BEIN SPORTS NEWS FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24979.m3u8
+#EXTINF:-1,BEIN SPORTS GLOBAL FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24980.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13688.m3u8
+#EXTINF:-1,BEIN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13595.m3u8
+#EXTINF:-1,BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13687.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13686.m3u8
+#EXTINF:-1,BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13685.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13684.m3u8
+#EXTINF:-1,BEIN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13683.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13682.m3u8
+#EXTINF:-1,BEIN SPORTS 4 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13681.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13680.m3u8
+#EXTINF:-1,BEIN SPORTS 5 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13679.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13678.m3u8
+#EXTINF:-1,BEIN SPORTS 6 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13677.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13676.m3u8
+#EXTINF:-1,BEIN SPORTS 7 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13675.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13674.m3u8
+#EXTINF:-1,BEIN SPORTS 8 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13673.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13672.m3u8
+#EXTINF:-1,BEIN SPORTS 9 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13587.m3u8
+#EXTINF:-1,BEINSPORT 10 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13670.m3u8
+#EXTINF:-1,BEIN SPORTS 10 BKP
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13669.m3u8
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24977.m3u8
+#EXTINF:-1,BEINSPORTS HD13
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21202.m3u8
+#EXTINF:-1,BEINSPORTS HD14
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21201.m3u8
+#EXTINF:-1,BEINSPORTS HD15
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21200.m3u8
+#EXTINF:-1,BEINSPORTS HD16
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21199.m3u8
+#EXTINF:-1,BEINSPORTS HD17
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21198.m3u8
+#EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24981.m3u8
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13611.m3u8
+#EXTINF:-1,BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13610.m3u8
+#EXTINF:-1,BEIN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13609.m3u8
+#EXTINF:-1,BEIN SPORTS 4 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13608.m3u8
+#EXTINF:-1,BEIN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13607.m3u8
+#EXTINF:-1,BEIN SPORTS 6 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13606.m3u8
+#EXTINF:-1,BEIN SPORTS 7 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13605.m3u8
+#EXTINF:-1,BEIN SPORTS 8 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13604.m3u8
+#EXTINF:-1,BEIN SPORTS 9 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13603.m3u8
+#EXTINF:-1,BEIN SPORTS 10 FHD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13602.m3u8
+#EXTINF:-1,|AR|*****BEINSPORT SD*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/24982.m3u8
+#EXTINF:-1,|AR|*****BEINS MOVIES *****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22761.m3u8
+#EXTINF:-1,BEIN MOVIES 1 HD PREMIER
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22760.m3u8
+#EXTINF:-1,BEIN MOVIES 2 HD ACTION
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22759.m3u8
+#EXTINF:-1,BEIN MOVIES 3 HD DRAMA
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22758.m3u8
+#EXTINF:-1,BEIN MOVIES 4 HD FAMILY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22757.m3u8
+#EXTINF:-1,BEIN STAR MOVIES HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22756.m3u8
+#EXTINF:-1,BEIN AMC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22755.m3u8
+#EXTINF:-1,BEIN FX HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22754.m3u8
+#EXTINF:-1,BEIN FOX HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22753.m3u8
+#EXTINF:-1,BEIN FOX ACTION
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22752.m3u8
+#EXTINF:-1,BEIN FOX FAMILY
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22751.m3u8
+#EXTINF:-1,BEIN TCM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22750.m3u8
+#EXTINF:-1,|AR|*****BEINS BARAEM*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22749.m3u8
+#EXTINF:-1,BEIN JEEM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22748.m3u8
+#EXTINF:-1,BEIN DISCOVERY KIDS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22747.m3u8
+#EXTINF:-1,BEIN BARAEM
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22746.m3u8
+#EXTINF:-1,BEIN DREAMWORKS
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22745.m3u8
+#EXTINF:-1,BEIN BABY TV
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22744.m3u8
+#EXTINF:-1,BEIN BOOMERANG
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22743.m3u8
+#EXTINF:-1,BEIN CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22742.m3u8
+#EXTINF:-1,BEIN JUNIOR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22741.m3u8
+#EXTINF:-1,|AR|*****BEINS CULTURAL*****|AR|
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22740.m3u8
+#EXTINF:-1,BEIN SERIES HD 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22739.m3u8
+#EXTINF:-1,BEIN SERIES HD 2
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22738.m3u8
+#EXTINF:-1,BEIN DRAMA HD 1
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22737.m3u8
+#EXTINF:-1,BEIN STARWORLD HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22736.m3u8
+#EXTINF:-1,BEIN FATAFEAT
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22735.m3u8
+#EXTINF:-1,BEIN GOURMET HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22734.m3u8
+#EXTINF:-1,BEIN FOOD NETWORK
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22733.m3u8
+#EXTINF:-1,BEIN DLIFE
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22732.m3u8
+#EXTINF:-1,BEIN FINE LIVING
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22731.m3u8
+#EXTINF:-1,BEIN DTX
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22730.m3u8
+#EXTINF:-1,BEIN OUTDOOR
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22729.m3u8
+#EXTINF:-1,BEIN DISCOVERY SC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22728.m3u8
+#EXTINF:-1,BEIN NAT GEO PEOPLE HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22725.m3u8
+#EXTINF:-1,BEIN NAT GEO WILD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22726.m3u8
+#EXTINF:-1,BEIN NAT GEOGRAPHIC
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22727.m3u8
+#EXTINF:-1,BEIN ANIMAL PLANET
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/22724.m3u8
+#EXTINF:-1,BEINSPORTS 1  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13601.m3u8
+#EXTINF:-1,BEINSPORTS 2  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13612.m3u8
+#EXTINF:-1,BEINSPORTS 3  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13613.m3u8
+#EXTINF:-1,BEINSPORTS 4  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13614.m3u8
+#EXTINF:-1,BEINSPORTS 5  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13615.m3u8
+#EXTINF:-1,BEINSPORTS 6  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13616.m3u8
+#EXTINF:-1,BEINSPORTS 7 SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13617.m3u8
+#EXTINF:-1,BEINSPORTS 8 SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13618.m3u8
+#EXTINF:-1,BEINSPORTS 9  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13641.m3u8
+#EXTINF:-1,BEINSPORTS 10  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13642.m3u8
+#EXTINF:-1,BEINSPORTS 11  SD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/13643.m3u8
+#EXTINF:-1,AD SPORT 1HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21196.m3u8
+#EXTINF:-1,AD SPORT 2HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21195.m3u8
+#EXTINF:-1,AD SPORT 3HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21194.m3u8
+#EXTINF:-1,AD SPORT 4HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21193.m3u8
+#EXTINF:-1,AD SPORT 5HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21192.m3u8
+#EXTINF:-1,AD SPORT 6HD
+http://iptvpro.premium-itv.com:8789/live/PatrickD/PatrickD/21191.m3u8
