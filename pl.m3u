@@ -1,49 +1,388 @@
-#EXTM3U
-#EXTINF:-1,TVP HD
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7531
-#EXTINF:-1,TVP 3
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7533
-#EXTINF:-1,TV 4
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7539
-#EXTINF:-1,TVP SERIALE
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7534
-#EXTINF:-1,TVP Rozrywka
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7536
-#EXTINF:-1,TVP Polonia
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7535
-#EXTINF:-1,TVP KULTURA
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7537
-#EXTINF:-1,TVP Info
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7532
-#EXTINF:-1,Polsat Viasat Nature
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7544
-#EXTINF:-1,POLSAT SPORTS
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7541
-#EXTINF:-1,Polsat Sport Extra
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7542
-#EXTINF:-1,POLSAT FILM
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7540
-#EXTINF:-1,Polsat
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7538
-#EXTINF:-1,Nsport
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7543
-#EXTINF:-1,Nick Jr
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7555
-#EXTINF:-1,Nat Geo Wild
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7554
-#EXTINF:-1,HBO
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7545
-#EXTINF:-1,FOX COMEDY
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7546
-#EXTINF:-1,FILMBOX EXTRA
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7547
-#EXTINF:-1,E! FHD
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7548
-#EXTINF:-1,Disney XD
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7556
-#EXTINF:-1,BBC EARTH
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7553
-#EXTINF:-1,AXN
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7551
-#EXTINF:-1,Ale Kino
-http://195.181.161.119:80/qWTghY7RP2/hcW1n6v9Rp/7552
+#EXTINF:-1,PL004:ANIMAL PLANET HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33528
+#EXTINF:-1,PL011:BBC Earth HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33521
+#EXTINF:-1,PL030:Discovery Channel FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33502
+#EXTINF:-1,PL031:Discovery HISTORIA
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33501
+#EXTINF:-1,PL032:Discovery Life FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33500
+#EXTINF:-1,PL033:Discovery Science FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33499
+#EXTINF:-1,PL034:Discovery Turbo Xtra HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33498
+#EXTINF:-1,PL056:FOKUS TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33476
+#EXTINF:-1,PL061:H2 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33471
+#EXTINF:-1,PL066:HISTORY CHANNEL HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33466
+#EXTINF:-1,PL078:MUZYKA POLSKA
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33454
+#EXTINF:-1,PL079:NAT GEO FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33453
+#EXTINF:-1,PL080:NAT GEO PEOPLE HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33452
+#EXTINF:-1,PL081:NAT GEO Wild HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33451
+#EXTINF:-1,PL086:Paramount Channel FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33446
+#EXTINF:-1,PL105:POLSAT Viasat Explore FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33427
+#EXTINF:-1,PL106:Polsat Viasat History FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33426
+#EXTINF:-1,PL107:Polsat Viasat Nature HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33425
+#EXTINF:-1,PL109:PULS 2
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33423
+#EXTINF:-1,PL117:TLC FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33415
+#EXTINF:-1,PL131:TVN Turbo FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33401
+#EXTINF:-1,PL136:TVP Historiy HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33396
+#EXTINF:-1,PL147:BBC
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33385
+#EXTINF:-1,PL148:ZOOM TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33384
+#EXTINF:-1,PL153:ADVENTURE HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33379
+#EXTINF:-1,PL167:Discovery Channel
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33365
+#EXTINF:-1,PL168:Discovery Life HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33364
+#EXTINF:-1,PL171:DTX
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33361
+#EXTINF:-1,PL178:FOKUS TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33354
+#EXTINF:-1,PL181:H2 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33351
+#EXTINF:-1,PL191:Nat Geo People HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33341
+#EXTINF:-1,PL200:Polsat Viasat Explore HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33332
+#EXTINF:-1,PL201:Polsat Viasat History HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33331
+#EXTINF:-1,PL202:Polsat Viasat Nature
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33330
+#EXTINF:-1,PL:------|CINEMA|-------------------------------------
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/61060
+#EXTINF:-1,PL001:13 Ulica FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33531
+#EXTINF:-1,PL002:Ale Kino  FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33530
+#EXTINF:-1,PL006:AXN Black HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33526
+#EXTINF:-1,PL007:AXN HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33525
+#EXTINF:-1,PL008:AXN SPIN HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33524
+#EXTINF:-1,PL009:AXN White HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33523
+#EXTINF:-1,PL022:CBS ACTION
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33510
+#EXTINF:-1,PL025:CINEMAX 2 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33507
+#EXTINF:-1,PL026:CINEMAX HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33506
+#EXTINF:-1,PL040:Epic Drama
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33492
+#EXTINF:-1,PL050:Fightbox FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33482
+#EXTINF:-1,PL051:FILMBOX ACTION HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33481
+#EXTINF:-1,PL052:Filmbox Arthouse
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33480
+#EXTINF:-1,PL053:Filmbox Extra FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33479
+#EXTINF:-1,PL054:FILMBOX FAMILY FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33478
+#EXTINF:-1,PL055:FILMBOX PREMIUM HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33477
+#EXTINF:-1,PL057:FOX Comedy FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33475
+#EXTINF:-1,PL058:FOX FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33474
+#EXTINF:-1,PL062:HBO 2 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33470
+#EXTINF:-1,PL063:HBO 3 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33469
+#EXTINF:-1,PL064:HBO HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33468
+#EXTINF:-1,PL113:Stop klatka TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33419
+#EXTINF:-1,PL118:TNT FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33414
+#EXTINF:-1,PL124:TV Puls FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33408
+#EXTINF:-1,PL132:TVP 1 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33400
+#EXTINF:-1,PL134:TVP 3 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33398
+#EXTINF:-1,PL149:13 Ulica HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33383
+#EXTINF:-1,PL154:Ale Kino   HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33378
+#EXTINF:-1,PL155:AMC
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33377
+#EXTINF:-1,PL156:ATM Rozrywka
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33376
+#EXTINF:-1,PL157:AXN SPIN HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33375
+#EXTINF:-1,PL160:CBS Action
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33372
+#EXTINF:-1,PL163:Cinemax 2 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33369
+#EXTINF:-1,PL177:Filmbox Arthouse
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33355
+#EXTINF:-1,PL179:FOX HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33353
+#EXTINF:-1,PL193:Paramount Channel HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33339
+#EXTINF:-1,PL:------|NEWS|---------------------------------------
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/61061
+#EXTINF:-1,PL083:wPolsce.pl
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33449
+#EXTINF:-1,PL096:Polsat News HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33436
+#EXTINF:-1,PL102:Polsat Sport News HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33430
+#EXTINF:-1,PL114:TVN 24 Bis
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33418
+#EXTINF:-1,PL119:Polsat News 2
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33413
+#EXTINF:-1,PL125:TV Republika HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33407
+#EXTINF:-1,PL127:TVN 24 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33405
+#EXTINF:-1,PL137:TVP Info FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33395
+#EXTINF:-1,PL:------|KIDS|---------------------------------------
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/61059
+#EXTINF:-1,PL014:Boomerang HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33518
+#EXTINF:-1,PL021:CARTOON NETWORK HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33511
+#EXTINF:-1,PL028:Da Vinci Learning
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33504
+#EXTINF:-1,PL036:Da Vinci
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33496
+#EXTINF:-1,PL038:DOMO  FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33494
+#EXTINF:-1,PL059:Polsat Cafe
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33473
+#EXTINF:-1,PL072:MiniMini HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33460
+#EXTINF:-1,PL093:Polsat Jim Jam
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33439
+#EXTINF:-1,PL116:Teletoon  HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33416
+#EXTINF:-1,PL135:TVP abc HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33397
+#EXTINF:-1,PL146:BBC CBeebies
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33386
+#EXTINF:-1,PL159:Cartoon Network HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33373
+#EXTINF:-1,PL165:Da Vinci Learning
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33367
+#EXTINF:-1,PL188:MiniMini  HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33344
+#EXTINF:-1,PL204:Nick JR
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33328
+#EXTINF:-1,PL:------|SPORT|--------------------------------------
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/61058
+#EXTINF:-1,PL041:ELEVEN SPORTS 2 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33491
+#EXTINF:-1,PL042:Eleven Sports 3
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33490
+#EXTINF:-1,PL043:ELEVEN SPORTS 4 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33489
+#EXTINF:-1,PL044:Polsat Sport Premium 2 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33488
+#EXTINF:-1,PL045:Polsat Sport Premium 1 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33487
+#EXTINF:-1,PL047:EUROSPORT 1HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33485
+#EXTINF:-1,PL048:EUROSPORT 2HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33484
+#EXTINF:-1,PL060:KSW PPV HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33472
+#EXTINF:-1,PL085:NSport Plus HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33447
+#EXTINF:-1,PL099:Polsat Sport Extra FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33433
+#EXTINF:-1,PL100:POLSAT Sport Fight FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33432
+#EXTINF:-1,PL101:Polsat Sport HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33431
+#EXTINF:-1,PL111:Sport klub HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33421
+#EXTINF:-1,PL112:Sport Klub Polska FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33420
+#EXTINF:-1,PL142:TVP Sport FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33390
+#EXTINF:-1,PL172:Eleven Sports 1 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33360
+#EXTINF:-1,PL173:Eleven Sports 2 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33359
+#EXTINF:-1,PL174:Eleven Sports 3 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33358
+#EXTINF:-1,PL175:Eleven Sports 4 HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33357
+#EXTINF:-1,PL180:Golf Channel HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33352
+#EXTINF:-1,PL199:Polsat Sport Fight HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33333
+#EXTINF:-1,PL:------|ENTERTAINMENT|------------------------------
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/61057
+#EXTINF:-1,PL003:4Fun TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33529
+#EXTINF:-1,PL005:ATM ROZRYWKA TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33527
+#EXTINF:-1,PL012:BBC FIRST
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33520
+#EXTINF:-1,PL013:Chillizet
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33519
+#EXTINF:-1,PL023:CBS EUROPA HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33509
+#EXTINF:-1,PL024:CBS REALITY HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33508
+#EXTINF:-1,PL027:Comedy Central FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33505
+#EXTINF:-1,PL029:DISCO POLO MUSIC
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33503
+#EXTINF:-1,PL039:E! FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33493
+#EXTINF:-1,PL046:ID
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33486
+#EXTINF:-1,PL049:BBC BRIT HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33483
+#EXTINF:-1,PL065:HGTV FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33467
+#EXTINF:-1,PL067:Romance TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33465
+#EXTINF:-1,PL068:KINO TV FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33464
+#EXTINF:-1,PL069:Kuchnia HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33463
+#EXTINF:-1,PL070:Lifetime HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33462
+#EXTINF:-1,PL071:METRO
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33461
+#EXTINF:-1,PL073:MOTOR WIZJA
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33459
+#EXTINF:-1,PL074:STARS TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33458
+#EXTINF:-1,PL075:Red Carpet TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33457
+#EXTINF:-1,PL077:TVS
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33455
+#EXTINF:-1,PL082:VOX MUSIC TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33450
+#EXTINF:-1,PL084:NOWA TV HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33448
+#EXTINF:-1,PL087:Planete  FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33445
+#EXTINF:-1,PL088:Polo TV HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33444
+#EXTINF:-1,PL089:POLSAT 2 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33443
+#EXTINF:-1,PL090:POLSAT CAFE
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33442
+#EXTINF:-1,PL091:Polsat Doku HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33441
+#EXTINF:-1,PL092:Polsat FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33440
+#EXTINF:-1,PL094:Polsat Music HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33438
+#EXTINF:-1,PL095:Travel Channel
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33437
+#EXTINF:-1,PL097:Polsat Play FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33435
+#EXTINF:-1,PL098:POLSAT ROMANS
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33434
+#EXTINF:-1,PL103:TVN Siedem
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33429
+#EXTINF:-1,PL108:POWER TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33424
+#EXTINF:-1,PL110:Sci-Fi HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33422
+#EXTINF:-1,PL115:SUPER POLSAT
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33417
+#EXTINF:-1,PL120:Polsat Rodzina
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33412
+#EXTINF:-1,PL121:TTV FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33411
+#EXTINF:-1,PL122:E! Entertainment
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33410
+#EXTINF:-1,PL123:TV6
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33409
+#EXTINF:-1,PL126:TVN 7 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33406
+#EXTINF:-1,PL128:TVN Fabula FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33404
+#EXTINF:-1,PL129:TVN FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33403
+#EXTINF:-1,PL130:TVN Style FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33402
+#EXTINF:-1,PL133:TVP 2 FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33399
+#EXTINF:-1,PL138:TVP KULTURA HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33394
+#EXTINF:-1,PL139:TVP Polonia HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33393
+#EXTINF:-1,PL140:TVP ROZRYWKA
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33392
+#EXTINF:-1,PL141:TVP SERIALE
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33391
+#EXTINF:-1,PL144:VH1
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33388
+#EXTINF:-1,PL145:Baby TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33387
+#EXTINF:-1,PL150:4Fun Dance
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33382
+#EXTINF:-1,PL151:4Fun Gold Hits
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33381
+#EXTINF:-1,PL152:BBC LifeStyle
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33380
+#EXTINF:-1,PL161:CBS Europa HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33371
+#EXTINF:-1,PL162:CBS Reality
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33370
+#EXTINF:-1,PL164:Comedy Central Family
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33368
+#EXTINF:-1,PL166:Disco Polo Music
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33366
+#EXTINF:-1,PL176:ESKA TV Extra
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33356
+#EXTINF:-1,PL182:HIP HOP TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33350
+#EXTINF:-1,PL183:KINO POLSKA
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33349
+#EXTINF:-1,PL184:Kino Polska Muzyka
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33348
+#EXTINF:-1,PL185:Kino Tv
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33347
+#EXTINF:-1,PL186:Lifetime HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33346
+#EXTINF:-1,PL187:Metro
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33345
+#EXTINF:-1,PL189:MTV Dance HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33343
+#EXTINF:-1,PL190:MTV Polska HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33342
+#EXTINF:-1,PL192:NOWA TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33340
+#EXTINF:-1,PL194:Planete  HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33338
+#EXTINF:-1,PL195:Polo TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33337
+#EXTINF:-1,PL196:Polsat Doku FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33336
+#EXTINF:-1,PL197:Polsat Music FHD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33335
+#EXTINF:-1,PL198:POLSAT ROMANS HD
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33334
+#EXTINF:-1,PL203:Power TV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/33329
