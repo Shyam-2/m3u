@@ -1,35 +1,85 @@
 #EXTM3U
-#EXTINF:0,MX | Fox Sports
-http://209.126.114.93:25461/teleplay/teleplay/103
-#EXTINF:0,UK | Sky Sports F1
-http://209.126.114.93:25461/teleplay/teleplay/9299
-#EXTINF:0,MX | Fox Sports 2
-http://209.126.114.93:25461/teleplay/teleplay/184
-#EXTINF:0,MX | Fox Sports 3
-http://209.126.114.93:25461/teleplay/teleplay/185
-#EXTINF:0,USA | Golf Channel
-http://209.126.114.93:25461/teleplay/teleplay/193
-#EXTINF:0,NBA LEAGUE PASS 2
-http://209.126.114.93:25461/teleplay/teleplay/10291
-#EXTINF:0,NBA LEAGUE PASS 3
-http://209.126.114.93:25461/teleplay/teleplay/10292
-#EXTINF:0,NBA LEAGUE PASS 4
-http://209.126.114.93:25461/teleplay/teleplay/10293
-#EXTINF:0,NBA LEAGUE PASS 5
-http://209.126.114.93:25461/teleplay/teleplay/10294
-#EXTINF:0,NBA LEAGUE PASS 6
-http://209.126.114.93:25461/teleplay/teleplay/10295
-#EXTINF:0,BEIN Sports 1 HD
-http://209.126.114.93:25461/teleplay/teleplay/11213
-#EXTINF:0,BEIN Sports 2 HD
-http://209.126.114.93:25461/teleplay/teleplay/11214
-#EXTINF:0,FOX Sports Detroit
-http://209.126.114.93:25461/teleplay/teleplay/11229
-#EXTINF:0,Fox Deportes
-http://209.126.114.93:25461/teleplay/teleplay/11230
-#EXTINF:0,AR | FOX SPORTS 1
-http://209.126.114.93:25461/teleplay/teleplay/15402
-#EXTINF:0,AR | FOX SPORTS 2
-http://209.126.114.93:25461/teleplay/teleplay/15403
-#EXTINF:0,ES: EUROSPORT 2 HD
-http://209.126.114.93:25461/teleplay/teleplay/15673
+#EXTINF:-1,beIN SPORTS 1 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24697
+#EXTINF:-1,beIN SPORTS 1 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22157
+#EXTINF:-1,beIN SPORTS 1 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14980
+#EXTINF:-1,beIN SPORTS 1 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14981
+#EXTINF:-1,beIN SPORTS 2 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24696
+#EXTINF:-1,beIN SPORTS 2 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22158
+#EXTINF:-1,beIN SPORTS 2 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14982
+#EXTINF:-1,beIN SPORTS 2 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14983
+#EXTINF:-1,beIN SPORTS 3 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24695
+#EXTINF:-1,beIN SPORTS 3 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22159
+#EXTINF:-1,beIN SPORTS 3 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14984
+#EXTINF:-1,beIN SPORTS 3 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14985
+#EXTINF:-1,beIN SPORTS 4 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24694
+#EXTINF:-1,beIN SPORTS 4 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22160
+#EXTINF:-1,beIN SPORTS 4 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14986
+#EXTINF:-1,beIN SPORTS 4 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14987
+#EXTINF:-1,bein SPORTS 5 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24693
+#EXTINF:-1,beIN SPORTS 5 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22161
+#EXTINF:-1,beIN SPORTS 5 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14988
+#EXTINF:-1,beIN SPORTS 5 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14989
+#EXTINF:-1,beIN SPORTS 6 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24692
+#EXTINF:-1,beIN SPORTS 6 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22162
+#EXTINF:-1,beIN SPORTS 6 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14990
+#EXTINF:-1,beIN SPORTS 6 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14991
+#EXTINF:-1,beIN SPORTS 7 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24691
+#EXTINF:-1,beIN SPORTS 7 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/22163
+#EXTINF:-1,beIN SPORTS 7 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14992
+#EXTINF:-1,beIN SPORTS 7 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14993
+#EXTINF:-1,beIN SPORTS 8 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24690
+#EXTINF:-1,beIN SPORTS 8 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/18284
+#EXTINF:-1,beIN SPORTS 8 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14994
+#EXTINF:-1,beIN SPORTS 8 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14995
+#EXTINF:-1,beIN SPORTS 9 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24689
+#EXTINF:-1,beIN SPORTS 9 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/21515
+#EXTINF:-1,beIN SPORTS 9 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14996
+#EXTINF:-1,beIN SPORTS 9 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14997
+#EXTINF:-1,beIN SPORTS 10 4K ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/24688
+#EXTINF:-1,beIN SPORTS 10 FHD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/21516
+#EXTINF:-1,beIN SPORTS 10 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14998
+#EXTINF:-1,beIN SPORTS 10 SD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14999
+#EXTINF:-1,beIN SPORTS 11 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/15000
+#EXTINF:-1,beIN SPORTS 12 HD ARB
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/15001
