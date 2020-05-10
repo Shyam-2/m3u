@@ -1,59 +1,593 @@
 #EXTM3U
-#EXTINF:-1,5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1,5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1,BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1,Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1,Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1,EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1,A&E HD
+http://xilo.vip:80/skippy/skippy/45518
+#EXTINF:-1,ABC HD
+http://xilo.vip:80/skippy/skippy/45517
+#EXTINF:-1,ABC SPARK
+http://xilo.vip:80/skippy/skippy/45516
+#EXTINF:-1,AMC HD
+http://xilo.vip:80/skippy/skippy/45515
+#EXTINF:-1,BEIN SPORTS HD
+http://xilo.vip:80/skippy/skippy/135108
+#EXTINF:-1,BEIN SPORTS SPANISH HD
+http://xilo.vip:80/skippy/skippy/135109
+#EXTINF:-1,BNN HD
+http://xilo.vip:80/skippy/skippy/45514
+#EXTINF:-1,BRAVO HD
+http://xilo.vip:80/skippy/skippy/45512
+#EXTINF:-1,BTV HD
+http://xilo.vip:80/skippy/skippy/45513
+#EXTINF:-1,CBC ATLANTIC HD (Stopped)
+http://xilo.vip:80/skippy/skippy/45511
+#EXTINF:-1,CBC CALGARY
+http://xilo.vip:80/skippy/skippy/45509
+#EXTINF:-1,CBC CHARLOTTETOWN
+http://xilo.vip:80/skippy/skippy/45508
+#EXTINF:-1,CBC EDMONTON
+http://xilo.vip:80/skippy/skippy/45507
+#EXTINF:-1,CBC FREDERICTON
+http://xilo.vip:80/skippy/skippy/45506
+#EXTINF:-1,CBC HALIFAX
+http://xilo.vip:80/skippy/skippy/45505
+#EXTINF:-1,CBC HD
+http://xilo.vip:80/skippy/skippy/45510
+#EXTINF:-1,CBC MONTREAL HD
+http://xilo.vip:80/skippy/skippy/45410
+#EXTINF:-1,CBC NATIONAL
+http://xilo.vip:80/skippy/skippy/45504
+#EXTINF:-1,CBC NEWS  NETWORK HD
+http://xilo.vip:80/skippy/skippy/45431
+#EXTINF:-1,CBC NEWS HD
+http://xilo.vip:80/skippy/skippy/45495
+#EXTINF:-1,CBC OTTAWA
+http://xilo.vip:80/skippy/skippy/45503
+#EXTINF:-1,CBC REGINA
+http://xilo.vip:80/skippy/skippy/45502
+#EXTINF:-1,CBC ST.JOHN
+http://xilo.vip:80/skippy/skippy/45501
+#EXTINF:-1,CBC TORONTO
+http://xilo.vip:80/skippy/skippy/45500
+#EXTINF:-1,CBC VANCOVER
+http://xilo.vip:80/skippy/skippy/45499
+#EXTINF:-1,CBC WINDSOR
+http://xilo.vip:80/skippy/skippy/45498
+#EXTINF:-1,CBC WINNIPEG
+http://xilo.vip:80/skippy/skippy/45497
+#EXTINF:-1,CBC YELLOWKNIFE
+http://xilo.vip:80/skippy/skippy/45496
+#EXTINF:-1,CBS FHD
+http://xilo.vip:80/skippy/skippy/45494
+#EXTINF:-1,CHCH HD
+http://xilo.vip:80/skippy/skippy/45492
+#EXTINF:-1,CITY FHD
+http://xilo.vip:80/skippy/skippy/45491
+#EXTINF:-1,CNN HD
+http://xilo.vip:80/skippy/skippy/45489
+#EXTINF:-1,COMEDY HD
+http://xilo.vip:80/skippy/skippy/45488
+#EXTINF:-1,CP 24 HD
+http://xilo.vip:80/skippy/skippy/45487
+#EXTINF:-1,CPAC FRANCAIS HD
+http://xilo.vip:80/skippy/skippy/45430
+#EXTINF:-1,CPAC HD
+http://xilo.vip:80/skippy/skippy/45486
+#EXTINF:-1,CRAVE 1 HD
+http://xilo.vip:80/skippy/skippy/45485
+#EXTINF:-1,CRAVE 2 HD
+http://xilo.vip:80/skippy/skippy/45484
+#EXTINF:-1,CRAVE 3 HD
+http://xilo.vip:80/skippy/skippy/45483
+#EXTINF:-1,CREATE HD
+http://xilo.vip:80/skippy/skippy/45482
+#EXTINF:-1,CTV ATLANTIC
+http://xilo.vip:80/skippy/skippy/45481
+#EXTINF:-1,CTV FHD
+http://xilo.vip:80/skippy/skippy/45480
+#EXTINF:-1,CTV NEWS HD
+http://xilo.vip:80/skippy/skippy/45479
+#EXTINF:-1,CTV NEWS LIVE 1 HD
+http://xilo.vip:80/skippy/skippy/45429
+#EXTINF:-1,CTV NEWS LIVE 2 HD
+http://xilo.vip:80/skippy/skippy/45428
+#EXTINF:-1,CTV NEWS LIVE 3 HD
+http://xilo.vip:80/skippy/skippy/45427
+#EXTINF:-1,CTV NEWS LIVE 4 HD
+http://xilo.vip:80/skippy/skippy/45426
+#EXTINF:-1,CW HD
+http://xilo.vip:80/skippy/skippy/45478
+#EXTINF:-1,DISNEY HD
+http://xilo.vip:80/skippy/skippy/45477
+#EXTINF:-1,DISNEY JR HD
+http://xilo.vip:80/skippy/skippy/45476
+#EXTINF:-1,DISNEY XD HD
+http://xilo.vip:80/skippy/skippy/45475
+#EXTINF:-1,E! HD
+http://xilo.vip:80/skippy/skippy/45474
+#EXTINF:-1,EETV TAMIL HD
+http://xilo.vip:80/skippy/skippy/45425
+#EXTINF:-1,EMCI MONTREAL HD
+http://xilo.vip:80/skippy/skippy/45424
+#EXTINF:-1,FANTASY SPORTS HD
+http://xilo.vip:80/skippy/skippy/45473
+#EXTINF:-1,FIGHT NETWORK HD
+http://xilo.vip:80/skippy/skippy/45472
+#EXTINF:-1,FOOD NETWORK  HD
+http://xilo.vip:80/skippy/skippy/45471
+#EXTINF:-1,FOX HD
+http://xilo.vip:80/skippy/skippy/45470
+#EXTINF:-1,FX HD
+http://xilo.vip:80/skippy/skippy/45469
+#EXTINF:-1,FXX HD
+http://xilo.vip:80/skippy/skippy/45468
+#EXTINF:-1,GLOBAL CALGRAY
+http://xilo.vip:80/skippy/skippy/45466
+#EXTINF:-1,GLOBAL EDMONTON HD
+http://xilo.vip:80/skippy/skippy/45423
+#EXTINF:-1,GLOBAL FHD
+http://xilo.vip:80/skippy/skippy/45467
+#EXTINF:-1,GLOBAL HALIFAX HD
+http://xilo.vip:80/skippy/skippy/45464
+#EXTINF:-1,GLOBAL TORONTO HD
+http://xilo.vip:80/skippy/skippy/45465
+#EXTINF:-1,GSN HD
+http://xilo.vip:80/skippy/skippy/45462
+#EXTINF:-1,HARD KNOCKS FIGHTING HD
+http://xilo.vip:80/skippy/skippy/45422
+#EXTINF:-1,HBO 2 HD
+http://xilo.vip:80/skippy/skippy/45461
+#EXTINF:-1,HBO HD
+http://xilo.vip:80/skippy/skippy/45460
+#EXTINF:-1,HGTV HD
+http://xilo.vip:80/skippy/skippy/45459
+#EXTINF:-1,HISTORY HD
+http://xilo.vip:80/skippy/skippy/45458
+#EXTINF:-1,HLN HD
+http://xilo.vip:80/skippy/skippy/45457
+#EXTINF:-1,ICI TELE HD
+http://xilo.vip:80/skippy/skippy/45421
+#EXTINF:-1,LIFETIME HD
+http://xilo.vip:80/skippy/skippy/45454
+#EXTINF:-1,ME TV HD
+http://xilo.vip:80/skippy/skippy/45453
+#EXTINF:-1,MOVIETIME HD
+http://xilo.vip:80/skippy/skippy/45452
+#EXTINF:-1,MSNBC HD
+http://xilo.vip:80/skippy/skippy/45451
+#EXTINF:-1,NAT GEO HD
+http://xilo.vip:80/skippy/skippy/45450
+#EXTINF:-1,NAT GEO WILD HD
+http://xilo.vip:80/skippy/skippy/45449
+#EXTINF:-1,NBA TV HD
+http://xilo.vip:80/skippy/skippy/45317
+#EXTINF:-1,NBC FHD
+http://xilo.vip:80/skippy/skippy/45448
+#EXTINF:-1,NTV HD
+http://xilo.vip:80/skippy/skippy/45420
+#EXTINF:-1,NTV NEWFOUNDLAND HD
+http://xilo.vip:80/skippy/skippy/45419
+#EXTINF:-1,OLN HD
+http://xilo.vip:80/skippy/skippy/45463
+#EXTINF:-1,OWN HD
+http://xilo.vip:80/skippy/skippy/45447
+#EXTINF:-1,PARDESI TV HD
+http://xilo.vip:80/skippy/skippy/45418
+#EXTINF:-1,PBS HD
+http://xilo.vip:80/skippy/skippy/45446
+#EXTINF:-1,PEACH TREE HD
+http://xilo.vip:80/skippy/skippy/45445
+#EXTINF:-1,PRIME TV HD
+http://xilo.vip:80/skippy/skippy/45417
+#EXTINF:-1,PTN 24 HD
+http://xilo.vip:80/skippy/skippy/45416
+#EXTINF:-1,SARDARI TV HD
+http://xilo.vip:80/skippy/skippy/45415
+#EXTINF:-1,SHOWCASE HD
+http://xilo.vip:80/skippy/skippy/45444
+#EXTINF:-1,SLICE HD
+http://xilo.vip:80/skippy/skippy/45443
+#EXTINF:-1,SPACE HD
+http://xilo.vip:80/skippy/skippy/45442
+#EXTINF:-1,SPORTSNET 360 HD
+http://xilo.vip:80/skippy/skippy/45324
+#EXTINF:-1,SPORTSNET EAST HD
+http://xilo.vip:80/skippy/skippy/45323
+#EXTINF:-1,SPORTSNET ONE HD
+http://xilo.vip:80/skippy/skippy/45322
+#EXTINF:-1,SPORTSNET ONTARIO HD
+http://xilo.vip:80/skippy/skippy/45321
+#EXTINF:-1,SPORTSNET PACIFIC HD
+http://xilo.vip:80/skippy/skippy/45320
+#EXTINF:-1,SPORTSNET WEST HD
+http://xilo.vip:80/skippy/skippy/45319
+#EXTINF:-1,SPORTSNET WORLD HD
+http://xilo.vip:80/skippy/skippy/45318
+#EXTINF:-1,SUR SUGAR TV HD
+http://xilo.vip:80/skippy/skippy/45414
+#EXTINF:-1,TAMIL VISION HD
+http://xilo.vip:80/skippy/skippy/45409
+#EXTINF:-1,TELE-QUEBEC HD
+http://xilo.vip:80/skippy/skippy/45413
+#EXTINF:-1,TLC HD
+http://xilo.vip:80/skippy/skippy/45441
+#EXTINF:-1,TSN HD 1
+http://xilo.vip:80/skippy/skippy/45308
+#EXTINF:-1,TSN HD 2
+http://xilo.vip:80/skippy/skippy/45307
+#EXTINF:-1,TSN HD 3
+http://xilo.vip:80/skippy/skippy/45306
+#EXTINF:-1,TSN HD 4
+http://xilo.vip:80/skippy/skippy/45305
+#EXTINF:-1,TSN HD 5
+http://xilo.vip:80/skippy/skippy/45304
+#EXTINF:-1,UNIVISION HD
+http://xilo.vip:80/skippy/skippy/45412
+#EXTINF:-1,URDU TV HD
+http://xilo.vip:80/skippy/skippy/45411
+#EXTINF:-1,WEATHER CHANNEL HD
+http://xilo.vip:80/skippy/skippy/45437
+#EXTINF:-1,WORLD HD
+http://xilo.vip:80/skippy/skippy/45436
+#EXTINF:-1,ZESTE
+http://xilo.vip:80/skippy/skippy/339282
+#EXTINF:-1,Z TELE
+http://xilo.vip:80/skippy/skippy/339283
+#EXTINF:-1,YTV-E
+http://xilo.vip:80/skippy/skippy/339284
+#EXTINF:-1,YOOPA
+http://xilo.vip:80/skippy/skippy/339285
+#EXTINF:-1,YES
+http://xilo.vip:80/skippy/skippy/339286
+#EXTINF:-1,WSBK
+http://xilo.vip:80/skippy/skippy/339287
+#EXTINF:-1,WILD TV
+http://xilo.vip:80/skippy/skippy/339288
+#EXTINF:-1,WGN
+http://xilo.vip:80/skippy/skippy/339289
+#EXTINF:-1,WEA (WEATHER NETWORK)
+http://xilo.vip:80/skippy/skippy/339290
+#EXTINF:-1,W NETWORK
+http://xilo.vip:80/skippy/skippy/339291
+#EXTINF:-1,VRAK
+http://xilo.vip:80/skippy/skippy/339292
+#EXTINF:-1,VISON
+http://xilo.vip:80/skippy/skippy/339293
+#EXTINF:-1,VIE
+http://xilo.vip:80/skippy/skippy/339294
+#EXTINF:-1,UNIS TV
+http://xilo.vip:80/skippy/skippy/339295
+#EXTINF:-1,TVO
+http://xilo.vip:80/skippy/skippy/339296
+#EXTINF:-1,TVASP (TVA SPORTS)
+http://xilo.vip:80/skippy/skippy/339297
+#EXTINF:-1,TV5
+http://xilo.vip:80/skippy/skippy/339298
+#EXTINF:-1,TREEHOUSE
+http://xilo.vip:80/skippy/skippy/339299
+#EXTINF:-1,TRAVEL + ESCAPE
+http://xilo.vip:80/skippy/skippy/339300
+#EXTINF:-1,TELE TOON FRENCH
+http://xilo.vip:80/skippy/skippy/339301
+#EXTINF:-1,TELE TOON EAST
+http://xilo.vip:80/skippy/skippy/339302
+#EXTINF:-1,TMN4E (CRAVE TV 4)
+http://xilo.vip:80/skippy/skippy/339303
+#EXTINF:-1,TMN3E (CRAVE TV 3)
+http://xilo.vip:80/skippy/skippy/339304
+#EXTINF:-1,TMN2E (CRAVE TV 2)
+http://xilo.vip:80/skippy/skippy/339305
+#EXTINF:-1,TMN1E (CRAVE TV 1)
+http://xilo.vip:80/skippy/skippy/339306
+#EXTINF:-1,TLC
+http://xilo.vip:80/skippy/skippy/339307
+#EXTINF:-1,TFO
+http://xilo.vip:80/skippy/skippy/339308
+#EXTINF:-1,TELEQ (TELETOON QUEBEC)
+http://xilo.vip:80/skippy/skippy/339309
+#EXTINF:-1,TELAT (TELE LATINO)
+http://xilo.vip:80/skippy/skippy/339310
+#EXTINF:-1,TCM (TURNER CLASSIC MOVIES)
+http://xilo.vip:80/skippy/skippy/339311
+#EXTINF:-1,SPACE
+http://xilo.vip:80/skippy/skippy/339312
+#EXTINF:-1,SLVSC (SILVER SCREEN CLASSICS)
+http://xilo.vip:80/skippy/skippy/339313
+#EXTINF:-1,SLICE
+http://xilo.vip:80/skippy/skippy/339314
+#EXTINF:-1,SHOP (THE SHOPPING NETWORK)
+http://xilo.vip:80/skippy/skippy/339315
+#EXTINF:-1,SHO-E (SHOWCASE EAST)
+http://xilo.vip:80/skippy/skippy/339316
+#EXTINF:-1,SCVLT (SUPER CHANNEL VAULT)
+http://xilo.vip:80/skippy/skippy/339317
+#EXTINF:-1,SCI (DISCOVERY SCIENCE)
+http://xilo.vip:80/skippy/skippy/339318
+#EXTINF:-1,SCHRT (SUPER CHANNEL HEART & HOME)
+http://xilo.vip:80/skippy/skippy/339319
+#EXTINF:-1,SCGNX (SUPER CHANNEL GNX)
+http://xilo.vip:80/skippy/skippy/339320
+#EXTINF:-1,SCFUS (SUPER CHANNEL FUSE)
+http://xilo.vip:80/skippy/skippy/339321
+#EXTINF:-1,S (SERIES +)
+http://xilo.vip:80/skippy/skippy/339322
+#EXTINF:-1,RDSIN (RDS INFO)
+http://xilo.vip:80/skippy/skippy/339323
+#EXTINF:-1,RDS2
+http://xilo.vip:80/skippy/skippy/339324
+#EXTINF:-1,RDS
+http://xilo.vip:80/skippy/skippy/339325
 #EXTINF:-1,ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1,IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1,Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1,Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1,Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1,Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1,NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1,Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1,QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1,Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1,Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1,Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1,Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1,Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1,TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1,Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+http://xilo.vip:80/skippy/skippy/339326
+#EXTINF:-1,PRMNT (PARAMOUNT)
+http://xilo.vip:80/skippy/skippy/339327
+#EXTINF:-1,Prise
+http://xilo.vip:80/skippy/skippy/339328
+#EXTINF:-1,PEACHTREE TV
+http://xilo.vip:80/skippy/skippy/339329
+#EXTINF:-1,PBS-E
+http://xilo.vip:80/skippy/skippy/339330
+#EXTINF:-1,OWN
+http://xilo.vip:80/skippy/skippy/339331
+#EXTINF:-1,OUTTV
+http://xilo.vip:80/skippy/skippy/339332
+#EXTINF:-1,ONE
+http://xilo.vip:80/skippy/skippy/339333
+#EXTINF:-1,OMNI2
+http://xilo.vip:80/skippy/skippy/339334
+#EXTINF:-1,OMNI1
+http://xilo.vip:80/skippy/skippy/339335
+#EXTINF:-1,OLN
+http://xilo.vip:80/skippy/skippy/339336
+#EXTINF:-1,NTV
+http://xilo.vip:80/skippy/skippy/339337
+#EXTINF:-1,NICKTOON
+http://xilo.vip:80/skippy/skippy/339338
+#EXTINF:-1,NFL-N
+http://xilo.vip:80/skippy/skippy/339339
+#EXTINF:-1,NBC-W
+http://xilo.vip:80/skippy/skippy/339340
+#EXTINF:-1,NBC-E
+http://xilo.vip:80/skippy/skippy/339341
+#EXTINF:-1,NBATV
+http://xilo.vip:80/skippy/skippy/339342
+#EXTINF:-1,MUCH MUSIC
+http://xilo.vip:80/skippy/skippy/339343
+#EXTINF:-1,MTV2
+http://xilo.vip:80/skippy/skippy/339344
+#EXTINF:-1,MTV
+http://xilo.vip:80/skippy/skippy/339345
+#EXTINF:-1,MTIME
+http://xilo.vip:80/skippy/skippy/339346
+#EXTINF:-1,MSITA (MEDIA SET ITALIA)
+http://xilo.vip:80/skippy/skippy/339347
+#EXTINF:-1,MP (MUSIQUE PLUS)
+http://xilo.vip:80/skippy/skippy/339348
+#EXTINF:-1,MOI ET CIE
+http://xilo.vip:80/skippy/skippy/339349
+#EXTINF:-1,MIRACLE NETWORK
+http://xilo.vip:80/skippy/skippy/339350
+#EXTINF:-1,METEOMEDIA
+http://xilo.vip:80/skippy/skippy/339351
+#EXTINF:-1,MAX
+http://xilo.vip:80/skippy/skippy/339352
+#EXTINF:-1,MAVTV
+http://xilo.vip:80/skippy/skippy/339353
+#EXTINF:-1,MAKEFUL
+http://xilo.vip:80/skippy/skippy/339354
+#EXTINF:-1,MAGIO
+http://xilo.vip:80/skippy/skippy/339355
+#EXTINF:-1,LTIME (LIFETIME)
+http://xilo.vip:80/skippy/skippy/339356
+#EXTINF:-1,LCN
+http://xilo.vip:80/skippy/skippy/339357
+#EXTINF:-1,KTLA
+http://xilo.vip:80/skippy/skippy/339358
+#EXTINF:-1,KNOWLEDGE NETWORK
+http://xilo.vip:80/skippy/skippy/339359
+#EXTINF:-1,IFC
+http://xilo.vip:80/skippy/skippy/339360
+#EXTINF:-1,ID (INVESTIGATION DISCOVERY)
+http://xilo.vip:80/skippy/skippy/339361
+#EXTINF:-1,ICI-VANCOUVER
+http://xilo.vip:80/skippy/skippy/339362
+#EXTINF:-1,ICI-MONTREAL
+http://xilo.vip:80/skippy/skippy/339363
+#EXTINF:-1,HOPE
+http://xilo.vip:80/skippy/skippy/339364
+#EXTINF:-1,HLN
+http://xilo.vip:80/skippy/skippy/339365
+#EXTINF:-1,HISTORIO
+http://xilo.vip:80/skippy/skippy/339366
+#EXTINF:-1,HISTORY
+http://xilo.vip:80/skippy/skippy/339367
+#EXTINF:-1,HGTV
+http://xilo.vip:80/skippy/skippy/339368
+#EXTINF:-1,HBO2
+http://xilo.vip:80/skippy/skippy/339369
+#EXTINF:-1,HBO1
+http://xilo.vip:80/skippy/skippy/339370
+#EXTINF:-1,H2 CANADA
+http://xilo.vip:80/skippy/skippy/339371
+#EXTINF:-1,GUSTO
+http://xilo.vip:80/skippy/skippy/339372
+#EXTINF:-1,GSN (GAME SHOW NETWORK)
+http://xilo.vip:80/skippy/skippy/339373
+#EXTINF:-1,GOLF
+http://xilo.vip:80/skippy/skippy/339374
+#EXTINF:-1,GLB-VANCOUVER
+http://xilo.vip:80/skippy/skippy/339375
+#EXTINF:-1,GLB-T (GLOBAL TORONTO)
+http://xilo.vip:80/skippy/skippy/339376
+#EXTINF:-1,GLB-HALIFAX
+http://xilo.vip:80/skippy/skippy/339377
+#EXTINF:-1,GLB-C (GLOBAL CALGARY)
+http://xilo.vip:80/skippy/skippy/339378
+#EXTINF:-1,GEO (NATIONAL GEOGRAPHIC)
+http://xilo.vip:80/skippy/skippy/339379
+#EXTINF:-1,GAME TV
+http://xilo.vip:80/skippy/skippy/339380
+#EXTINF:-1,FYI
+http://xilo.vip:80/skippy/skippy/339381
+#EXTINF:-1,FTV (FASHION TV)
+http://xilo.vip:80/skippy/skippy/339382
+#EXTINF:-1,FRISON
+http://xilo.vip:80/skippy/skippy/339383
+#EXTINF:-1,FOX NEWS CHANNEL
+http://xilo.vip:80/skippy/skippy/339384
+#EXTINF:-1,FOX-W
+http://xilo.vip:80/skippy/skippy/339385
+#EXTINF:-1,FOX-E
+http://xilo.vip:80/skippy/skippy/339386
+#EXTINF:-1,FOOD NETWORK
+http://xilo.vip:80/skippy/skippy/339387
+#EXTINF:-1,FAMILY CHANNEL
+http://xilo.vip:80/skippy/skippy/339388
+#EXTINF:-1,FIGHT NETWORK
+http://xilo.vip:80/skippy/skippy/339389
+#EXTINF:-1,FAMILY JR
+http://xilo.vip:80/skippy/skippy/339390
+#EXTINF:-1,EVASION
+http://xilo.vip:80/skippy/skippy/339391
+#EXTINF:-1,ENC2E (STARZ 2)
+http://xilo.vip:80/skippy/skippy/339392
+#EXTINF:-1,ENC1E (STARZ 1)
+http://xilo.vip:80/skippy/skippy/339393
+#EXTINF:-1,E!
+http://xilo.vip:80/skippy/skippy/339394
+#EXTINF:-1,DTOUR
+http://xilo.vip:80/skippy/skippy/339395
+#EXTINF:-1,DISNEY FRENCH
+http://xilo.vip:80/skippy/skippy/339396
+#EXTINF:-1,DSNY (DISNEY CHANNEL)
+http://xilo.vip:80/skippy/skippy/339397
+#EXTINF:-1,DOCUMENTARY CHANNEL
+http://xilo.vip:80/skippy/skippy/339398
+#EXTINF:-1,DJR (DISNEY JR)
+http://xilo.vip:80/skippy/skippy/339399
+#EXTINF:-1,DIY
+http://xilo.vip:80/skippy/skippy/339400
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xilo.vip:80/skippy/skippy/339401
+#EXTINF:-1,DEJA VUE
+http://xilo.vip:80/skippy/skippy/339402
+#EXTINF:-1,DAYSTAR
+http://xilo.vip:80/skippy/skippy/339403
+#EXTINF:-1,D (CANAL D)
+http://xilo.vip:80/skippy/skippy/339404
+#EXTINF:-1,CW11
+http://xilo.vip:80/skippy/skippy/339405
+#EXTINF:-1,CTYML (CITY TV MONTREAL)
+http://xilo.vip:80/skippy/skippy/339406
+#EXTINF:-1,CTV NEWS CHANNEL
+http://xilo.vip:80/skippy/skippy/339407
+#EXTINF:-1,CTV2VANCOUVER
+http://xilo.vip:80/skippy/skippy/339408
+#EXTINF:-1,CTV2OTTAWA
+http://xilo.vip:80/skippy/skippy/339409
+#EXTINF:-1,CTV-VANCOUVER
+http://xilo.vip:80/skippy/skippy/339410
+#EXTINF:-1,CTV-OTTAWA
+http://xilo.vip:80/skippy/skippy/339411
+#EXTINF:-1,CTV-MONTREAL
+http://xilo.vip:80/skippy/skippy/339412
+#EXTINF:-1,CTV-HALIFAX
+http://xilo.vip:80/skippy/skippy/339413
+#EXTINF:-1,CTV-CALGARY
+http://xilo.vip:80/skippy/skippy/339414
+#EXTINF:-1,CPACF
+http://xilo.vip:80/skippy/skippy/339415
+#EXTINF:-1,CPAC
+http://xilo.vip:80/skippy/skippy/339416
+#EXTINF:-1,CP24
+http://xilo.vip:80/skippy/skippy/339417
+#EXTINF:-1,COTTAGE LIFE TV
+http://xilo.vip:80/skippy/skippy/339418
+#EXTINF:-1,COSMO
+http://xilo.vip:80/skippy/skippy/339419
+#EXTINF:-1,COOKING CHANNEL
+http://xilo.vip:80/skippy/skippy/339420
+#EXTINF:-1,cnpop (CINEPOP)
+http://xilo.vip:80/skippy/skippy/339421
+#EXTINF:-1,CNN INTERNATIONAL
+http://xilo.vip:80/skippy/skippy/339422
+#EXTINF:-1,CNN
+http://xilo.vip:80/skippy/skippy/339423
+#EXTINF:-1,CNBC
+http://xilo.vip:80/skippy/skippy/339424
+#EXTINF:-1,CN (CARTOON NETWORK)
+http://xilo.vip:80/skippy/skippy/339425
+#EXTINF:-1,CMT
+http://xilo.vip:80/skippy/skippy/339426
+#EXTINF:-1,CMDYG
+http://xilo.vip:80/skippy/skippy/339427
+#EXTINF:-1,CMDY (COMEDY NETWORK)
+http://xilo.vip:80/skippy/skippy/339428
+#EXTINF:-1,CITY VANCOUVER
+http://xilo.vip:80/skippy/skippy/339429
+#EXTINF:-1,CITYT (CITY TV TORONTO)
+http://xilo.vip:80/skippy/skippy/339430
+#EXTINF:-1,CITYC (CITY TV CALGARY)
+http://xilo.vip:80/skippy/skippy/339431
+#EXTINF:-1,FAMILY CHRGD
+http://xilo.vip:80/skippy/skippy/339432
+#EXTINF:-1,CHCH
+http://xilo.vip:80/skippy/skippy/339433
+#EXTINF:-1,CBS-W
+http://xilo.vip:80/skippy/skippy/339434
+#EXTINF:-1,CBS-E
+http://xilo.vip:80/skippy/skippy/339435
+#EXTINF:-1,CBCNN (CBC NEWS NETWORK)
+http://xilo.vip:80/skippy/skippy/339436
+#EXTINF:-1,CBC-VANCOUVER
+http://xilo.vip:80/skippy/skippy/339437
+#EXTINF:-1,CBC-TORONTO
+http://xilo.vip:80/skippy/skippy/339438
+#EXTINF:-1,CBC-OTTAWA
+http://xilo.vip:80/skippy/skippy/339439
+#EXTINF:-1,CBC-MONTREAL
+http://xilo.vip:80/skippy/skippy/339440
+#EXTINF:-1,CBC-HALIFAX
+http://xilo.vip:80/skippy/skippy/339441
+#EXTINF:-1,CBC-CALGARY
+http://xilo.vip:80/skippy/skippy/339442
+#EXTINF:-1,CASA
+http://xilo.vip:80/skippy/skippy/339443
+#EXTINF:-1,CANAL-S
+http://xilo.vip:80/skippy/skippy/339444
+#EXTINF:-1,C I (CRIME + INVESTIGATION)
+http://xilo.vip:80/skippy/skippy/339445
+#EXTINF:-1,BRAVO
+http://xilo.vip:80/skippy/skippy/339446
+#EXTINF:-1,BOOK TV
+http://xilo.vip:80/skippy/skippy/339447
+#EXTINF:-1,BNN
+http://xilo.vip:80/skippy/skippy/339448
+#EXTINF:-1,BET
+http://xilo.vip:80/skippy/skippy/339449
+#EXTINF:-1,BBC WORLD NEWS
+http://xilo.vip:80/skippy/skippy/339450
+#EXTINF:-1,BBC-CANADA
+http://xilo.vip:80/skippy/skippy/339451
+#EXTINF:-1,ARTV
+http://xilo.vip:80/skippy/skippy/339452
+#EXTINF:-1,APTN
+http://xilo.vip:80/skippy/skippy/339453
+#EXTINF:-1,ANQ
+http://xilo.vip:80/skippy/skippy/339454
+#EXTINF:-1,ANIMAL PLANET
+http://xilo.vip:80/skippy/skippy/339455
+#EXTINF:-1,AMC
+http://xilo.vip:80/skippy/skippy/339456
+#EXTINF:-1,AHC
+http://xilo.vip:80/skippy/skippy/339457
+#EXTINF:-1,ADDIK
+http://xilo.vip:80/skippy/skippy/339458
+#EXTINF:-1,ACTN (ADULT SWIM)
+http://xilo.vip:80/skippy/skippy/339459
+#EXTINF:-1,ABC SPARK
+http://xilo.vip:80/skippy/skippy/339460
+#EXTINF:-1,ABC-W
+http://xilo.vip:80/skippy/skippy/339461
+#EXTINF:-1,ABC-E
+http://xilo.vip:80/skippy/skippy/339462
+#EXTINF:-1,A&E
+http://xilo.vip:80/skippy/skippy/339463
