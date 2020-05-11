@@ -1,71 +1,351 @@
 #EXTM3U
-#EXTINF:-1,RTI1
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6147.m3u8
-#EXTINF:-1,RTI 2
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6146.m3u8
-#EXTINF:-1,TV 5 Monde
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6225.m3u8
-#EXTINF:-1,TMC
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6215.m3u8
-#EXTINF:-1,TF1 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6230.m3u8
-#EXTINF:-1,RTS Un HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6239.m3u8
-#EXTINF:-1,RTS Deux
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6241.m3u8
-#EXTINF:-1,AB1
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6128.m3u8
-#EXTINF:-1,RMC Decouverte HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6125.m3u8
-#EXTINF:-1,Numero 23 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6216.m3u8
-#EXTINF:-1,National Geographic
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6153.m3u8
-#EXTINF:-1,NRj12
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6137.m3u8
-#EXTINF:-1,Leman Bleu
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6155.m3u8
-#EXTINF:-1,EQUIPE HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6234.m3u8
-#EXTINF:-1,La Tele HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6229.m3u8
-#EXTINF:-1,L EQUIPE HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6222.m3u8
-#EXTINF:-1,HD1
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6120.m3u8
-#EXTINF:-1,Gulli
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6160.m3u8
-#EXTINF:-1,France O
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6238.m3u8
-#EXTINF:-1,France 5 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6235.m3u8
-#EXTINF:-1,France 4 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6236.m3u8
-#EXTINF:-1,France 3 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6237.m3u8
-#EXTINF:-1,M6
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6224.m3u8
-#EXTINF:-1,France 2 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6240.m3u8
-#EXTINF:-1,Euronews fr
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6223.m3u8
-#EXTINF:-1,Cherie 25 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6214.m3u8
-#EXTINF:-1,CHERIE 25
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6122.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6157.m3u8
-#EXTINF:-1,Canal+ Cinema
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6206.m3u8
-#EXTINF:-1,Canal J
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6159.m3u8
-#EXTINF:-1,RTL9
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6227.m3u8
-#EXTINF:-1,CANAL FAMILY HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6209.m3u8
-#EXTINF:-1,C8
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6149.m3u8
-#EXTINF:-1,BFM TV
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6150.m3u8
+#EXTINF:-1,Bein sport fr 1
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/507.m3u8
+#EXTINF:-1,Bein sport fr 2
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/508.m3u8
+#EXTINF:-1,Bein sport fr 3
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/509.m3u8
+#EXTINF:-1,Bein sport 01
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7052.m3u8
+#EXTINF:-1,Canal Sport
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20164.m3u8
+#EXTINF:-1,Canal estrenos
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5090.m3u8
+#EXTINF:-1,Canal golf
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5085.m3u8
+#EXTINF:-1,Canal plus sport
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/916.m3u8
+#EXTINF:-1,13 Eme rue
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1026.m3u8
+#EXTINF:-1,6ter
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/997.m3u8
+#EXTINF:-1,A  Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20917.m3u8
+#EXTINF:-1,A la carte 01
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13004.m3u8
+#EXTINF:-1,A la carte 02
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13005.m3u8
+#EXTINF:-1,A la carte 03
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13006.m3u8
+#EXTINF:-1,A la carte 04
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13007.m3u8
+#EXTINF:-1,A la carte 05
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13008.m3u8
+#EXTINF:-1,A la carte 06
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13009.m3u8
+#EXTINF:-1,A la carte 07
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13010.m3u8
+#EXTINF:-1,A la carte 08
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13011.m3u8
+#EXTINF:-1,Ab Explore Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20908.m3u8
+#EXTINF:-1,Ab moteurs
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5042.m3u8
+#EXTINF:-1,Ab1
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1098.m3u8
+#EXTINF:-1,Ab3
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13049.m3u8
+#EXTINF:-1,Action fr
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7032.m3u8
+#EXTINF:-1,Altice Studio Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20914.m3u8
+#EXTINF:-1,Altice Studio Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20915.m3u8
+#EXTINF:-1,Animaux
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1093.m3u8
 #EXTINF:-1,Arte
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6151.m3u8
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/301.m3u8
+#EXTINF:-1,Be curious tv fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13051.m3u8
+#EXTINF:-1,Bet etoile
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13052.m3u8
+#EXTINF:-1,Bfm business
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/945.m3u8
+#EXTINF:-1,Bfm tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/299.m3u8
+#EXTINF:-1,Brava
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20906.m3u8
+#EXTINF:-1,C News
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20882.m3u8
+#EXTINF:-1,C star
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13053.m3u8
+#EXTINF:-1,C8 local
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13054.m3u8
+#EXTINF:-1,Canal play 01
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13012.m3u8
+#EXTINF:-1,Canal play 02
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13013.m3u8
+#EXTINF:-1,Canal play 03
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13014.m3u8
+#EXTINF:-1,Canal play 04
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13015.m3u8
+#EXTINF:-1,Canal play 05
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13016.m3u8
+#EXTINF:-1,Canal play 06
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13017.m3u8
+#EXTINF:-1,Canal play 07
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13018.m3u8
+#EXTINF:-1,Canal play 08
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13019.m3u8
+#EXTINF:-1,Canal play 09
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13020.m3u8
+#EXTINF:-1,Canal play 10
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13021.m3u8
+#EXTINF:-1,Canal play 11
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13022.m3u8
+#EXTINF:-1,Canal play 12
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13023.m3u8
+#EXTINF:-1,Canal play 13
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13024.m3u8
+#EXTINF:-1,Canal play 14
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13025.m3u8
+#EXTINF:-1,Canal play 15
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13026.m3u8
+#EXTINF:-1,Canal+
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/800.m3u8
+#EXTINF:-1,Canal+ cinema
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/801.m3u8
+#EXTINF:-1,Canal+ decale
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/930.m3u8
+#EXTINF:-1,Canal+ family
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/919.m3u8
+#EXTINF:-1,Canal+ series
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/306.m3u8
+#EXTINF:-1,Chasse et peche
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1097.m3u8
+#EXTINF:-1,Cherie 25
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5053.m3u8
+#EXTINF:-1,Cine 12
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20892.m3u8
+#EXTINF:-1,Cine Classic
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20169.m3u8
+#EXTINF:-1,Cine Famiz Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20926.m3u8
+#EXTINF:-1,Cine cinema frisson
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/941.m3u8
+#EXTINF:-1,Cine emotion hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/921.m3u8
+#EXTINF:-1,Cine plus premier hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/920.m3u8
+#EXTINF:-1,Cine polar fr
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7033.m3u8
+#EXTINF:-1,Club rtl
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/11101.m3u8
+#EXTINF:-1,Clubbing Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20916.m3u8
+#EXTINF:-1,Comedie plus
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/978.m3u8
+#EXTINF:-1,Crime District Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20928.m3u8
+#EXTINF:-1,D24Tv Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20890.m3u8
+#EXTINF:-1,D5Tv Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20880.m3u8
+#EXTINF:-1,Discovery hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/943.m3u8
+#EXTINF:-1,Discovery science fr hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/909.m3u8
+#EXTINF:-1,Disney Cinema Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20921.m3u8
+#EXTINF:-1,E!
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20905.m3u8
+#EXTINF:-1,Elle girl
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13055.m3u8
+#EXTINF:-1,Equidia live
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/300.m3u8
+#EXTINF:-1,Fashion TV
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20168.m3u8
+#EXTINF:-1,Fight Sports
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20884.m3u8
+#EXTINF:-1,France 2
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/303.m3u8
+#EXTINF:-1,France 3
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/302.m3u8
+#EXTINF:-1,France 4
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/313.m3u8
+#EXTINF:-1,France 5
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/304.m3u8
+#EXTINF:-1,France Info Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20925.m3u8
+#EXTINF:-1,France o
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/305.m3u8
+#EXTINF:-1,France o
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5054.m3u8
+#EXTINF:-1,France.24
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/21881.m3u8
+#EXTINF:-1,Game one
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5055.m3u8
+#EXTINF:-1,Generations Tv Fhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20904.m3u8
+#EXTINF:-1,Golf
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20144.m3u8
+#EXTINF:-1,Grand Lille Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20886.m3u8
+#EXTINF:-1,Gulli
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1103.m3u8
+#EXTINF:-1,Hit Tv Music Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20903.m3u8
+#EXTINF:-1,I24 Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20924.m3u8
+#EXTINF:-1,Il tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13057.m3u8
+#EXTINF:-1,Kto Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20902.m3u8
+#EXTINF:-1,La chaine normandie
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13058.m3u8
+#EXTINF:-1,La deux
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7004.m3u8
+#EXTINF:-1,La troi
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7005.m3u8
+#EXTINF:-1,La  une
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7003.m3u8
+#EXTINF:-1,Lci
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20883.m3u8
+#EXTINF:-1,Lcp Assemblee Nationale
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20901.m3u8
+#EXTINF:-1,Leman Bleu Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20887.m3u8
+#EXTINF:-1,Live Peppa Pig
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20900.m3u8
+#EXTINF:-1,Lucky Jack Tv Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20899.m3u8
+#EXTINF:-1,Luxe Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20898.m3u8
+#EXTINF:-1,M6
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/104.m3u8
+#EXTINF:-1,Mblive Tv Fhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20889.m3u8
+#EXTINF:-1,Men'S Up
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20896.m3u8
+#EXTINF:-1,Mezzo Live Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20919.m3u8
+#EXTINF:-1,Mouv Tv Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20907.m3u8
+#EXTINF:-1,My Cuisine Tv Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20911.m3u8
+#EXTINF:-1,National geo fr hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/898.m3u8
+#EXTINF:-1,National geo wild fr hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/914.m3u8
+#EXTINF:-1,Nickelodeon 4 Teens Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20922.m3u8
+#EXTINF:-1,Nrj 12
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/297.m3u8
+#EXTINF:-1,Nt1
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5048.m3u8
+#EXTINF:-1,Ocs choc
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/960.m3u8
+#EXTINF:-1,Ocs city
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/824.m3u8
+#EXTINF:-1,Ocs geant
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5045.m3u8
+#EXTINF:-1,Ocs go cine+1
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13027.m3u8
+#EXTINF:-1,Ocs go cine+2
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13028.m3u8
+#EXTINF:-1,Ocs go cine+3
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13029.m3u8
+#EXTINF:-1,Ocs go cine+4
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13030.m3u8
+#EXTINF:-1,Ocs go cine+5
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13031.m3u8
+#EXTINF:-1,Ocs max
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5044.m3u8
+#EXTINF:-1,Ofive Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20918.m3u8
+#EXTINF:-1,Ol Tv Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20909.m3u8
+#EXTINF:-1,Ol Tv Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20910.m3u8
+#EXTINF:-1,Orange cine+1
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13035.m3u8
+#EXTINF:-1,Orange cine+2
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13036.m3u8
+#EXTINF:-1,Orange cine+3
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13037.m3u8
+#EXTINF:-1,Orange cine+4
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13038.m3u8
+#EXTINF:-1,Orange cine+5
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13039.m3u8
+#EXTINF:-1,Ouatch Tv Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20888.m3u8
+#EXTINF:-1,POLAR
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20167.m3u8
+#EXTINF:-1,Paramount Channel
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20929.m3u8
+#EXTINF:-1,Paris premiere
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/951.m3u8
+#EXTINF:-1,Pitchoun Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20893.m3u8
+#EXTINF:-1,Planet ae
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/917.m3u8
+#EXTINF:-1,Planet ci fr
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/7051.m3u8
+#EXTINF:-1,Planet plus hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/901.m3u8
+#EXTINF:-1,Plug rtl
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/11100.m3u8
+#EXTINF:-1,Qvc Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20895.m3u8
+#EXTINF:-1,Radio Espace Live Tv Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20891.m3u8
+#EXTINF:-1,Rmc decouverte
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/979.m3u8
+#EXTINF:-1,Rouge Tv Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20881.m3u8
+#EXTINF:-1,Rtl 9
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1096.m3u8
+#EXTINF:-1,Science et vie tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1144.m3u8
+#EXTINF:-1,Season Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20923.m3u8
+#EXTINF:-1,Serie club
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/996.m3u8
+#EXTINF:-1,Srf 1 hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/949.m3u8
+#EXTINF:-1,Srf 2 hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/950.m3u8
+#EXTINF:-1,Sundance Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20885.m3u8
+#EXTINF:-1,Syfy
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/900.m3u8
+#EXTINF:-1,TV BREIZH
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/19881.m3u8
+#EXTINF:-1,Tcm cinema
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13060.m3u8
+#EXTINF:-1,Teva
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/944.m3u8
+#EXTINF:-1,Tf1
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/5041.m3u8
+#EXTINF:-1,Tf1 Series Films Hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20927.m3u8
+#EXTINF:-1,Tf1 hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/714.m3u8
+#EXTINF:-1,Tmc
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/298.m3u8
+#EXTINF:-1,Toonami Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20920.m3u8
+#EXTINF:-1,Tout histoire
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1094.m3u8
+#EXTINF:-1,Trace urban hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13061.m3u8
+#EXTINF:-1,Trek
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/1100.m3u8
+#EXTINF:-1,Tv5 monde orient
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/895.m3u8
+#EXTINF:-1,Tv7
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20879.m3u8
+#EXTINF:-1,Tvm3
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/13063.m3u8
+#EXTINF:-1,Ushuaia tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/908.m3u8
+#EXTINF:-1,Viceland Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20913.m3u8
+#EXTINF:-1,Vosges Tv
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20894.m3u8
+#EXTINF:-1,Voyage hd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/902.m3u8
+#EXTINF:-1,W9
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/315.m3u8
+#EXTINF:-1,Warner Tv Fullhd
+http://fserver.yellowiptv.com:80/live/hls/30:34:D2:59:6C:4A/20912.m3u8
