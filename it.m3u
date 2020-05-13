@@ -1,341 +1,633 @@
 #EXTM3U
-#EXTINF:-1,51 Radio TV
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1,AB Channel
-https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
-#EXTINF:-1,Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1,Antenna Sud
-http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
-#EXTINF:-1,Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1,Azzurra TV
-https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
-#EXTINF:-1,CafèTV24
-http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1,Canale 2 Altamura
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
-#EXTINF:-1,Canale 21 Campania
-http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1,Canale 21 Lazio
-http://live.sloode.com:1935/canale21/live2/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,Canale 8
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1,Canale 85 Puglia
-http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
-#EXTINF:-1,Canale 85 Puglia
-https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,Carina TV
-http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
-#EXTINF:-1,Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1,Company TV
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1,Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1,DMAX
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1,Elive TV Brescia
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,ETV Marche
-http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
-#EXTINF:-1,ETV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1,ETV Marche
-http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF:-1,Euro Indie Music Chart TV
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1,FM Italia TV
-http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1,Gold TV Roma
-http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,Icaro TV
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1,Italia 2 TV
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1,Julie Italia
-https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
-#EXTINF:-1,La Tr3
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
-#EXTINF:-1,La7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1,LaC TV
-http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1,Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1,Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
-#EXTINF:-1,Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1,Padre Pio TV
-https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
-#EXTINF:-1,Paradise TV
-https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
-#EXTINF:-1,Partenope TV
-https://live.puglia.net:8080/live/partenopetv/index.m3u8
-#EXTINF:-1,Pescara TV
-http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
-#EXTINF:-1,Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8
-#EXTINF:-1,Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8
-#EXTINF:-1,Prima TV
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1,Primocanale Liguria
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1,QVC
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-#EXTINF:-1,Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Bruno
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Radio Capital TV
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,Radio Freccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1,Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1,Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1,Radio Lombardia TV
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
-#EXTINF:-1,Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Piter Pan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Siena TV
-http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
-#EXTINF:-1,Radio Taormina
-http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1,Radio Zeta TV
-https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1,Radionorba TV
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1,Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Rai 5
-http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1,Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1,Rai Sport
-http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
-#EXTINF:-1,Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1,RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1,ReggioTV
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1,Retesole Lazio
-http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
-#EXTINF:-1,Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
-#EXTINF:-1,RMK TV Sciacca
-http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
-#EXTINF:-1,RMM TV
-http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
-#EXTINF:-1,RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
-#EXTINF:-1,RTC Telecalabria
-http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1,RTL 102.5 TV
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-#EXTINF:-1,RTP
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1,RTR 99 TV
-https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8
-#EXTINF:-1,RTTR
-http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1,RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
-#EXTINF:-1,Sardegna Uno
-https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
-#EXTINF:-1,Senato della Repubblica
-http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1,Skyline TV Radio &amp; Soul
-http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
-#EXTINF:-1,Sophia TV
-https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8
-#EXTINF:-1,Super TV Brescia
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Tele Arena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1,TELE MONTE NEVE
-http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
-#EXTINF:-1,TELE MONTE NEVE 3
-http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
-#EXTINF:-1,Tele One
-http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
-#EXTINF:-1,TeleBoario
-http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
-#EXTINF:-1,Telechiara
-http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1,Telecitta
-http://213.187.12.18/live/tv1.m3u8
-#EXTINF:-1,Telecitta
-http://213.187.12.18:80/live/tv1.m3u8
-#EXTINF:-1,Telecolor Lombardia
-https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1,Telefoggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1,Telefriuli
-http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1,Telegranda
-http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:-1,Telemantova
-https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1,TeleMia
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:-1,Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
-#EXTINF:-1,TeleMonteve
-http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1,TeleNordest
-http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8
-#EXTINF:-1,TeleNordest
-https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1,Teleonda
-https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8
-#EXTINF:-1,TeleQuattro
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
-#EXTINF:-1,TeleRama
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1,Teleromagna
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1,Teleromagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1,Telesud Trapani
-https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
-#EXTINF:-1,TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8
-#EXTINF:-1,TeleTicino
-https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
-#EXTINF:-1,Teletricolore
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1,Teleuniverso
-https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/chunklist_w1494799728.m3u8
-#EXTINF:-1,TeleVideo Agrigento
-https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
-#EXTINF:-1,Tevere TV
-https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
-#EXTINF:-1,TLN Tele Lazio Nord
-http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
-#EXTINF:-1,TR Mia
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1,TR24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1,TSN Livigno
-http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
-#EXTINF:-1,TSN Tele Sondrio News
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1,TV Campane 1 (Napoli)
-http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8
-#EXTINF:-1,Tv Luna
-http://live.sloode.com:1935/teleluna/live/playlist.m3u8
-#EXTINF:-1,TV Qui (Modena)
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1,TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,TV2000
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1,TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1,TV7 Triveneta
-http://217.61.26.46:8080/hls/triveneta.m3u8
-#EXTINF:-1,TVA (Vicenza)
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1,TVL Toscana
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
-#EXTINF:-1,TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1,Vera TV (Marche)
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1,Vera TV Marche
-http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
-#EXTINF:-1,VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1,Video Mediterraneo
-http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
-#EXTINF:-1,Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
-#EXTINF:-1,Videolina (Sardegna)
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1,Videostar TV (Lombardia)
-http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai 1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/922
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai 2 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/923
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai 3 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/924
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai 4
+http://iptvhit.live/hadrikou/RAMDAN/2020/925
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai 5
+http://iptvhit.live/hadrikou/RAMDAN/2020/926
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai News 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/927
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Italia 1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/928
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rete 4 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/929
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canale 5 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/930
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",La 5
+http://iptvhit.live/hadrikou/RAMDAN/2020/931
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",La 7 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/932
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RSI La 1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/933
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RSI La 2 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/934
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai Sport  HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/935
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai sport +HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/936
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai premium HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/937
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai Gulp
+http://iptvhit.live/hadrikou/RAMDAN/2020/938
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RAI Radiouno
+http://iptvhit.live/hadrikou/RAMDAN/2020/939
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai Scuola
+http://iptvhit.live/hadrikou/RAMDAN/2020/940
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai Storia HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/941
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai yoyo
+http://iptvhit.live/hadrikou/RAMDAN/2020/942
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Rai Movie HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/943
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport Uno HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/944
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport Arena HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/945
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport 24HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/946
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Supercalcio HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/947
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sport italia
+http://iptvhit.live/hadrikou/RAMDAN/2020/948
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport F1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/949
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Moto GP HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/950
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Cinema HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/951
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Cinema2 +24HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/952
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Crime HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/953
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Action HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/954
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Stories
+http://iptvhit.live/hadrikou/RAMDAN/2020/955
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Emotion
+http://iptvhit.live/hadrikou/RAMDAN/2020/956
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Energy HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/957
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Comedy
+http://iptvhit.live/hadrikou/RAMDAN/2020/958
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Crime 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/959
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Premium Studio Universal
+http://iptvhit.live/hadrikou/RAMDAN/2020/960
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fox HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/961
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fox Life HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/962
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fox Crime HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/963
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cielo HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/964
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Dmax HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/965
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",History HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/966
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",National Geo HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/967
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Nat Geo Wild HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/968
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cartoonito
+http://iptvhit.live/hadrikou/RAMDAN/2020/969
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Realtime HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/970
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fine Living
+http://iptvhit.live/hadrikou/RAMDAN/2020/971
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Deejay TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/972
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Boing
+http://iptvhit.live/hadrikou/RAMDAN/2020/973
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Alice
+http://iptvhit.live/hadrikou/RAMDAN/2020/974
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Cartoon Network
+http://iptvhit.live/hadrikou/RAMDAN/2020/975
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Caccia e Pesca
+http://iptvhit.live/hadrikou/RAMDAN/2020/976
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/977
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 2 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/978
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 3 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/979
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 4 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/980
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 6 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/981
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 5 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/982
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Primafila 6 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/983
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",===== VIP SKY IT ======
+http://iptvhit.live/hadrikou/RAMDAN/2020/984
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Duo+24 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/985
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Automoto TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/986
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Baby TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/987
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Bike HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/988
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Blaze HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/989
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Boing
+http://iptvhit.live/hadrikou/RAMDAN/2020/990
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Boomerang HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/991
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Telecolor Sicilia
+http://iptvhit.live/hadrikou/RAMDAN/2020/992
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Cartoon Network
+http://iptvhit.live/hadrikou/RAMDAN/2020/993
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Cartoonito
+http://iptvhit.live/hadrikou/RAMDAN/2020/994
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP CI Crime Investigation HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/995
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Cielo HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/996
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Comedy Central HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/997
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Granducato TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/998
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Dea Junior HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/999
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Dea Kids HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1000
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Deejay TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1001
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Discovery HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1002
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Discovery Science HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1003
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Discovery Travel & Living HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1004
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Disney Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1005
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Disney Junior
+http://iptvhit.live/hadrikou/RAMDAN/2020/1006
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Disney XD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1007
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Dmax HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1008
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Dove TV HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1009
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eurosport 1
+http://iptvhit.live/hadrikou/RAMDAN/2020/1010
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eurosport 2
+http://iptvhit.live/hadrikou/RAMDAN/2020/1011
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fine living
+http://iptvhit.live/hadrikou/RAMDAN/2020/1012
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fishing TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1013
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Focus
+http://iptvhit.live/hadrikou/RAMDAN/2020/1014
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Food Network
+http://iptvhit.live/hadrikou/RAMDAN/2020/1015
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP RTL 102.5
+http://iptvhit.live/hadrikou/RAMDAN/2020/1016
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fox Crime HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1017
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fox HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1018
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fox Life HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1019
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Frisbee
+http://iptvhit.live/hadrikou/RAMDAN/2020/1020
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP GAMBERRO ROSSO HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1021
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Giallo
+http://iptvhit.live/hadrikou/RAMDAN/2020/1022
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP History HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1023
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Inter Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1024
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Investigation Discovery
+http://iptvhit.live/hadrikou/RAMDAN/2020/1025
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Iris
+http://iptvhit.live/hadrikou/RAMDAN/2020/1026
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Italia 2 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1027
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Italian Fishing TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1028
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP K2
+http://iptvhit.live/hadrikou/RAMDAN/2020/1029
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP La7 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1030
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP La7d HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1031
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Laeffe HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1032
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Lei HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1033
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP M2O TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1034
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP MANGA
+http://iptvhit.live/hadrikou/RAMDAN/2020/1035
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP M4C
+http://iptvhit.live/hadrikou/RAMDAN/2020/1036
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Mediaset 20
+http://iptvhit.live/hadrikou/RAMDAN/2020/1037
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Mediaset Extra
+http://iptvhit.live/hadrikou/RAMDAN/2020/1038
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Motor Trend SD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1039
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP MTV HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1040
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Nat Geographic HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1041
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP NatGeo Wild HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1042
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Nautical HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1043
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Nickelodeon HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1044
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Nove HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1045
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Paramount
+http://iptvhit.live/hadrikou/RAMDAN/2020/1046
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Real Time HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1047
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Roma Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1048
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Uno HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1049
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Arte HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1050
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Atlantic HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1051
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Uno HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1052
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Due HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1053
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Comedy HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1054
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Drama HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1055
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Family HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1056
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Collection HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1057
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Action HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1058
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Suspance HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1059
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Romance HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1060
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Cinema Uno+24 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1061
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport 24 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1062
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport Uno HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1063
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport Arena HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1064
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport F1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1065
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport Football HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1066
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport Collection HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1067
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport MotoGP HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1068
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport NBA HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1069
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Sport Seria A FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1070
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Super Calcio HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1071
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Calcio 1 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1072
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Calcio 2 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1073
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Calcio 3 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1074
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Calcio 4 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1075
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky Calcio 5 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1076
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sky TG 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/1077
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Cine Sony
+http://iptvhit.live/hadrikou/RAMDAN/2020/1078
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sport italia
+http://iptvhit.live/hadrikou/RAMDAN/2020/1079
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Super
+http://iptvhit.live/hadrikou/RAMDAN/2020/1080
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Supertennis HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1081
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TG Norba 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/1082
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TGCOM 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/1083
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Top Calcio 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/1084
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Top Crime
+http://iptvhit.live/hadrikou/RAMDAN/2020/1085
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TV 2000
+http://iptvhit.live/hadrikou/RAMDAN/2020/1086
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TV8
+http://iptvhit.live/hadrikou/RAMDAN/2020/1087
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Uniresat HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1088
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",===== Regional IT =======
+http://iptvhit.live/hadrikou/RAMDAN/2020/1089
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP AB Channel (Abruzzo)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1090
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Alpa Uno TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1091
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Alto Adige
+http://iptvhit.live/hadrikou/RAMDAN/2020/1092
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Antenna Sicilia HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1093
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Caffe Tv 24
+http://iptvhit.live/hadrikou/RAMDAN/2020/1094
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP CAMPANE GOLD 1
+http://iptvhit.live/hadrikou/RAMDAN/2020/1095
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Canale 7 Ita
+http://iptvhit.live/hadrikou/RAMDAN/2020/1096
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Canale 8 (Campania)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1097
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Canale 85 (Basilicata)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1098
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Canale10
+http://iptvhit.live/hadrikou/RAMDAN/2020/1099
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Canale8
+http://iptvhit.live/hadrikou/RAMDAN/2020/1100
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Carina TV (Basilicata)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1101
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Cremona 1
+http://iptvhit.live/hadrikou/RAMDAN/2020/1102
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Di TV 3
+http://iptvhit.live/hadrikou/RAMDAN/2020/1103
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Di.TV 90
+http://iptvhit.live/hadrikou/RAMDAN/2020/1104
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Donna TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1105
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Esperia TV (Calabria)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1106
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP eTV Marche
+http://iptvhit.live/hadrikou/RAMDAN/2020/1107
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Euronews Live HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1108
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fano TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1109
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP GOLD TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1110
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Hunting (Caccia)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1111
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Il Meteo Italia Domani
+http://iptvhit.live/hadrikou/RAMDAN/2020/1112
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Il Meteo Italia Dopodomani
+http://iptvhit.live/hadrikou/RAMDAN/2020/1113
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Il Meteo Italia Oggi
+http://iptvhit.live/hadrikou/RAMDAN/2020/1114
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Julie Italia (Campania)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1115
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP La Nuova TV  HD (Basilicata)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1116
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP LAZIO TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1117
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Lucania.TV (Basilicata)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1118
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Lupin III Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1119
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP m2o (musica)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1120
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP MEDIASPORT
+http://iptvhit.live/hadrikou/RAMDAN/2020/1121
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Motor Trend HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1122
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Napoli Canale 21 TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1123
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Napoli Icaro TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1124
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Onda TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1125
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP One TV Emilia HD (EmiliaRomagna)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1126
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Orler TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1127
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Pesca e Caccia
+http://iptvhit.live/hadrikou/RAMDAN/2020/1128
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Primocanale TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1129
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Quarta Rete TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1130
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP QVC Italia
+http://iptvhit.live/hadrikou/RAMDAN/2020/1131
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Rai Nettuno
+http://iptvhit.live/hadrikou/RAMDAN/2020/1132
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP ReteBiella TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1133
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP ReteSole Lazio
+http://iptvhit.live/hadrikou/RAMDAN/2020/1134
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP ReteSole Umbria
+http://iptvhit.live/hadrikou/RAMDAN/2020/1135
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Rossini TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1136
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP RTL 102.5 TV (musica)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1137
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP RTV 105
+http://iptvhit.live/hadrikou/RAMDAN/2020/1138
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP San Marino RTV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1139
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP San Marino RTV Sport
+http://iptvhit.live/hadrikou/RAMDAN/2020/1140
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sardegna Uno TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1141
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sport Italia Live24
+http://iptvhit.live/hadrikou/RAMDAN/2020/1142
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sport Italia Motori
+http://iptvhit.live/hadrikou/RAMDAN/2020/1143
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Sport Italia Solo Calcio
+http://iptvhit.live/hadrikou/RAMDAN/2020/1144
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Studio 100
+http://iptvhit.live/hadrikou/RAMDAN/2020/1145
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Super J HD (Abruzzo)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1146
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Super TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1147
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Arena Siena
+http://iptvhit.live/hadrikou/RAMDAN/2020/1148
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Boario
+http://iptvhit.live/hadrikou/RAMDAN/2020/1149
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Chiara
+http://iptvhit.live/hadrikou/RAMDAN/2020/1150
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Occidente
+http://iptvhit.live/hadrikou/RAMDAN/2020/1151
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Padova Telecitt
+http://iptvhit.live/hadrikou/RAMDAN/2020/1152
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Pordenone
+http://iptvhit.live/hadrikou/RAMDAN/2020/1153
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Sirio (Abruzzo)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1154
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tele Video Agrigento
+http://iptvhit.live/hadrikou/RAMDAN/2020/1155
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleBari Tv
+http://iptvhit.live/hadrikou/RAMDAN/2020/1156
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Telecentro 2
+http://iptvhit.live/hadrikou/RAMDAN/2020/1157
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleColore (Campania)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1158
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleDehonTV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1159
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Teleliguria Sud
+http://iptvhit.live/hadrikou/RAMDAN/2020/1160
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleMIa (Calabria)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1161
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleMonteNeve
+http://iptvhit.live/hadrikou/RAMDAN/2020/1162
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleMonteNeve3
+http://iptvhit.live/hadrikou/RAMDAN/2020/1163
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleNorba TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1164
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TelePace Tv
+http://iptvhit.live/hadrikou/RAMDAN/2020/1165
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Telepavia
+http://iptvhit.live/hadrikou/RAMDAN/2020/1166
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleRadioSciacca
+http://iptvhit.live/hadrikou/RAMDAN/2020/1167
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Teleromagna (EmiliaRomagna)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1168
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleSondrio Livigno
+http://iptvhit.live/hadrikou/RAMDAN/2020/1169
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleSondrioNews
+http://iptvhit.live/hadrikou/RAMDAN/2020/1170
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleStar1
+http://iptvhit.live/hadrikou/RAMDAN/2020/1171
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleTibur
+http://iptvhit.live/hadrikou/RAMDAN/2020/1172
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Televaldarno RTV38
+http://iptvhit.live/hadrikou/RAMDAN/2020/1173
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TeleVenezia
+http://iptvhit.live/hadrikou/RAMDAN/2020/1174
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TR Mia
+http://iptvhit.live/hadrikou/RAMDAN/2020/1175
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TR Mia (EmiliaRomagna)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1176
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Trentino TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1177
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TRM TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1178
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TSD TV Arezzo
+http://iptvhit.live/hadrikou/RAMDAN/2020/1179
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tv 6 (Abruzzo)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1180
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tv Avicenza
+http://iptvhit.live/hadrikou/RAMDAN/2020/1181
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TV CAMPANE GOLD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1182
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TV Luna
+http://iptvhit.live/hadrikou/RAMDAN/2020/1183
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Tv Luna Sport (Campania)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1184
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TV Qui Modena (EmiliaRomagna)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1185
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TV2000 qHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1186
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP TVRS
+http://iptvhit.live/hadrikou/RAMDAN/2020/1187
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Umbria TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1188
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Unire Sat
+http://iptvhit.live/hadrikou/RAMDAN/2020/1189
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Vera TV
+http://iptvhit.live/hadrikou/RAMDAN/2020/1190
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Aldo Giovanni e Giacomo Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1191
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Fantozzi Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1192
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Totò Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1193
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Scuola di Polizia Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1194
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP La Casa di Topolino Channel
+http://iptvhit.live/hadrikou/RAMDAN/2020/1195
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP EAGLE 4K
+http://iptvhit.live/hadrikou/RAMDAN/2020/1196
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle American Dad 24H
+http://iptvhit.live/hadrikou/RAMDAN/2020/1197
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Brickleberry FHD 24H
+http://iptvhit.live/hadrikou/RAMDAN/2020/1198
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema 007 HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1199
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Animazione FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1200
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Avventura FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1201
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Azione FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1202
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Biografico FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1203
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Bud Spencer HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1204
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Comico Cult FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1205
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Commedia FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1206
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Drammatico FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1207
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Famiglia FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1208
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Fantascienza FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1209
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Fantastico FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1210
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Film in Sala  HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1211
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Horror FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1212
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Mitologia HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1213
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Passione FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1214
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Prima Visione FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1215
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Religion HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1216
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Sorriso FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1217
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Spaghetti Western FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1218
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Storico FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1219
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Thriller FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1220
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinema Western FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1221
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Cinepanettone HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1222
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Disney Topolino Paperino e Pippo HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1223
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Fiabe Magiche HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1224
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Gomorra Stagione 1 FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1225
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Gomorra Stagione 2 FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1226
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Gomorra Stagione 3 FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1227
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Gomorra Stagione 4 FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1228
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Le Fiabe Disney
+http://iptvhit.live/hadrikou/RAMDAN/2020/1229
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Looney Toons HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1230
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Masha e Orso HD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1231
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Nature Discovery 4K (double audio)
+http://iptvhit.live/hadrikou/RAMDAN/2020/1232
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Nature Explorer FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1233
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Peppa Pig FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1234
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Peter Griffin 24H
+http://iptvhit.live/hadrikou/RAMDAN/2020/1235
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle Super Pigiamini FHD
+http://iptvhit.live/hadrikou/RAMDAN/2020/1236
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP Eagle The Cleveland Show 24H
+http://iptvhit.live/hadrikou/RAMDAN/2020/1237
