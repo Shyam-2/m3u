@@ -1,29 +1,37 @@
 #EXTM3U
-#EXTINF:-1 ,bein1
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 ,bein2
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1 ,bein3
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1 ,BEIN SPORT 1 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 ,BEIN SPORT 2 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1 ,BEIN SPORT 3 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1 ,BEIN SPORT 4 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1 ,BEIN SPORT 5 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-#EXTINF:-1 ,beIN Sports 1 Arab
-http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 ,beIN Sports 2 Arab
-http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 ,beIN Sports 3 Arab
-http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 ,beIN Sports 4 Arab
-http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 ,beIN Sports 5 Arab
-http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 ,beIN Sports 6 Arab
-http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1,FR009:Bein Sport 4 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2857
+#EXTINF:-1,FR011:Bein Sport 5 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2855
+#EXTINF:-1,FR012:Bein Sport 6 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2854
+#EXTINF:-1,FR013:Bein Sport 7 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2853
+#EXTINF:-1,FR014:Bein Sport 8 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2852
+#EXTINF:-1,FR015:Bein Sport 9 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2851
+#EXTINF:-1,FR010:Bein Sport 10 Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2856
+#EXTINF:-1,FR017:Bein Sport 1
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2849
+#EXTINF:-1,FR018:Bein Sport  2
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2848
+#EXTINF:-1,FR016:Bein Sport 3
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2850
+#EXTINF:-1,FR052:France 2
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2814
+#EXTINF:-1,FR054:France 3
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2812
+#EXTINF:-1,FR055:France 4
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2811
+#EXTINF:-1,FR056:France 5
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2810
+#EXTINF:-1,FR057:France O
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2809
+#EXTINF:-1,FR261:NICKELODEON 4TEEN
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28048
+#EXTINF:-1,FR301:NICKELODEON JUNIOR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28008
+#EXTINF:-1,FR181:FRANCE 24
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28128
