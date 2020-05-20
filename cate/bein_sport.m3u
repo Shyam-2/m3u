@@ -1,49 +1,733 @@
 #EXTM3U
-#EXTINF:0,Band Sports
-http://a.srvbr.me:8880/f10050/f10050/889
-#EXTINF:0,Band Sports HD
-http://a.srvbr.me:8880/f10050/f10050/888
-#EXTINF:0,Band Sports [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1831
-#EXTINF:0,ESPN
-http://a.srvbr.me:8880/f10050/f10050/4643
-#EXTINF:0,ESPN HD
-http://a.srvbr.me:8880/f10050/f10050/848
-#EXTINF:0,ESPN Full HD
-http://a.srvbr.me:8880/f10050/f10050/5458
-#EXTINF:0,ESPN HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1839
-#EXTINF:0,ESPN +  HD
-http://a.srvbr.me:8880/f10050/f10050/851
-#EXTINF:0,ESPN EXTRA HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1837
-#EXTINF:0,ESPN Brasil
-http://a.srvbr.me:8880/f10050/f10050/850
-#EXTINF:0,ESPN Brasil HD
-http://a.srvbr.me:8880/f10050/f10050/849
-#EXTINF:0,ESPN Brasil Full HD
-http://a.srvbr.me:8880/f10050/f10050/5459
-#EXTINF:0,ESPN Brasil HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1838
-#EXTINF:0,Espn Extra
-http://a.srvbr.me:8880/f10050/f10050/5321
-#EXTINF:0,Espn Extra HD
-http://a.srvbr.me:8880/f10050/f10050/5320
-#EXTINF:0,ESPN Extra Full HD
-http://a.srvbr.me:8880/f10050/f10050/5457
-#EXTINF:0,Fox Sports
-http://a.srvbr.me:8880/f10050/f10050/837
-#EXTINF:0,Fox Sports HD
-http://a.srvbr.me:8880/f10050/f10050/838
-#EXTINF:0,Fox Sports Full HD
-http://a.srvbr.me:8880/f10050/f10050/5418
-#EXTINF:0,Fox Sports HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1844
-#EXTINF:0,Fox Sports 2
-http://a.srvbr.me:8880/f10050/f10050/836
-#EXTINF:0,FOX Sports 2 HD
-http://a.srvbr.me:8880/f10050/f10050/835
-#EXTINF:0,Fox Sports 2 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5456
-#EXTINF:0,FOX Sports 2 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1843
+#EXTINF:-1,beIN SPORTS 1 FHD TR (HVEC 265 50 FPS)
+http://vip1080.us:8000/live/Hakan/asdfghj/32293.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/7706.m3u8
+#EXTINF:-1,BeIN SPORTS 1 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/446.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD TR (TTNET-OZEL)
+http://vip1080.us:8000/live/Hakan/asdfghj/37847.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD TR. (VODAFONE-TURKCELL-TURKIYE)
+http://vip1080.us:8000/live/Hakan/asdfghj/403.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/7707.m3u8
+#EXTINF:-1,BeIN SPORTS 2 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/112.m3u8
+#EXTINF:-1,beIN SPORTS 2 SD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/23688.m3u8
+#EXTINF:-1,beIN SPORTS 2 SD TR.
+http://vip1080.us:8000/live/Hakan/asdfghj/404.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/7708.m3u8
+#EXTINF:-1,BeIN SPORTS 3 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/205.m3u8
+#EXTINF:-1,beIN SPORTS 3 SD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/23689.m3u8
+#EXTINF:-1,beIN SPORTS 3 SD TR.
+http://vip1080.us:8000/live/Hakan/asdfghj/405.m3u8
+#EXTINF:-1,beIN SPORTS 4 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/8046.m3u8
+#EXTINF:-1,BeIN SPORTS 4 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/206.m3u8
+#EXTINF:-1,beIN SPORTS 4 SD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/23690.m3u8
+#EXTINF:-1,beIN SPORTS 4 SD TR.
+http://vip1080.us:8000/live/Hakan/asdfghj/406.m3u8
+#EXTINF:-1,beIN SPORTS MAX 1 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/23691.m3u8
+#EXTINF:-1,beIN SPORTS MAX 1 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/1730.m3u8
+#EXTINF:-1,beIN SPORTS MAX 2 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/23692.m3u8
+#EXTINF:-1,beIN SPORTS MAX 2 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/7514.m3u8
+#EXTINF:-1,beIN SPORTS HABER FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/26886.m3u8
+#EXTINF:-1,TiviBu Spor 1 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/22.m3u8
+#EXTINF:-1,Tivibu Spor 1 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/1734.m3u8
+#EXTINF:-1,TiviBu Spor 2 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/367.m3u8
+#EXTINF:-1,Tivibu Spor 2 SD
+http://vip1080.us:8000/live/Hakan/asdfghj/1733.m3u8
+#EXTINF:-1,TiviBu Spor 3 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/1273.m3u8
+#EXTINF:-1,Tivibu Spor 3 SD
+http://vip1080.us:8000/live/Hakan/asdfghj/1735.m3u8
+#EXTINF:-1,SMART SPOR 1 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/7486.m3u8
+#EXTINF:-1,Eurosport 1 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/1245.m3u8
+#EXTINF:-1,Eurosport 2 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/1246.m3u8
+#EXTINF:-1,A SPOR FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/8100.m3u8
+#EXTINF:-1,A SPOR HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/17433.m3u8
+#EXTINF:-1,A SPOR SD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/196.m3u8
+#EXTINF:-1,TRT SPOR FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/8101.m3u8
+#EXTINF:-1,TRT SPOR HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/46.m3u8
+#EXTINF:-1,GS TV HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/232.m3u8
+#EXTINF:-1,FB TV HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/156.m3u8
+#EXTINF:-1,SPORTS TV HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/60.m3u8
+#EXTINF:-1,NBA TV HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/4535.m3u8
+#EXTINF:-1,DMAX FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/56671.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/50800.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/50801.m3u8
+#EXTINF:-1,Fightbox HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/76051.m3u8
+#EXTINF:-1,FIGHTBOX FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/50804.m3u8
+#EXTINF:-1,NBA TV FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/50824.m3u8
+#EXTINF:-1,SPOR SMART FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/50827.m3u8
+#EXTINF:-1,S SPORT HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/385.m3u8
+#EXTINF:-1,S SPORT FHD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/50826.m3u8
+#EXTINF:-1,S Sports 2 HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/34663.m3u8
+#EXTINF:-1,TAY TV HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/62464.m3u8
+#EXTINF:-1,VOO SPORT 1 HD BE
+http://vip1080.us:8000/live/Hakan/asdfghj/30669.m3u8
+#EXTINF:-1,VOO SPORT 3 HD BE
+http://vip1080.us:8000/live/Hakan/asdfghj/30671.m3u8
+#EXTINF:-1,VOO SPORT WORLD 1 HD BE
+http://vip1080.us:8000/live/Hakan/asdfghj/62526.m3u8
+#EXTINF:-1,VOO SPORT WORLD 2 HD BE
+http://vip1080.us:8000/live/Hakan/asdfghj/62528.m3u8
+#EXTINF:-1,VOO SPORT WORLD 3 HD BE
+http://vip1080.us:8000/live/Hakan/asdfghj/62529.m3u8
+#EXTINF:-1,INFOSPORT + FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38790.m3u8
+#EXTINF:-1,RMC SPORT NEWS FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38793.m3u8
+#EXTINF:-1,-- FR | Sport --
+http://vip1080.us:8000/live/Hakan/asdfghj/4365.m3u8
+#EXTINF:-1,FOOT +24 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1022.m3u8
+#EXTINF:-1,L'EQUIPE 21 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/45475.m3u8
+#EXTINF:-1,EQUIDIA LIVE HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/4595.m3u8
+#EXTINF:-1,INFOSPORT + HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1021.m3u8
+#EXTINF:-1,Eurosport 1 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/379.m3u8
+#EXTINF:-1,Eurosport 2 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/378.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38791.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38792.m3u8
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1729.m3u8
+#EXTINF:-1,RMC SPORT 2 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1728.m3u8
+#EXTINF:-1,RMC SPORT 3 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1739.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 1 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/22773.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 2 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/22774.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 3 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/22775.m3u8
+#EXTINF:-1,RMC SPORT ACCESS 4 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/22776.m3u8
+#EXTINF:-1,BEINSPORT 1 SD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/7380.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/115.m3u8
+#EXTINF:-1,BEINSPORT 2 SD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/7381.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/114.m3u8
+#EXTINF:-1,BEINSPORT 3 SD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/7382.m3u8
+#EXTINF:-1,beIN SPORTS 3 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/113.m3u8
+#EXTINF:-1,BEINSPORT 4 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/2118.m3u8
+#EXTINF:-1,beIN SPORTS  5 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/2119.m3u8
+#EXTINF:-1,beIN SPORTS 6 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/2120.m3u8
+#EXTINF:-1,beIN SPORTS 7 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/2121.m3u8
+#EXTINF:-1,BEINSPORT MAX 8 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/7796.m3u8
+#EXTINF:-1,BEINSPORT MAX 9 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/7797.m3u8
+#EXTINF:-1,BEINSPORT MAX 10 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/7798.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38816.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38817.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38818.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38794.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38795.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38796.m3u8
+#EXTINF:-1,RMC SPORTS ACCES 1 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128708.m3u8
+#EXTINF:-1,RMC SPORTS ACCES 2 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128709.m3u8
+#EXTINF:-1,RMC SPORTS ACCES 3 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128710.m3u8
+#EXTINF:-1,RMC SPORT 4 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38798.m3u8
+#EXTINF:-1,RMC SPORT 4 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38797.m3u8
+#EXTINF:-1,RMC SPORT 5 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38799.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38801.m3u8
+#EXTINF:-1,RMC SPORT 6 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38802.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38803.m3u8
+#EXTINF:-1,beIN SPORTS 8 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38826.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38804.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38805.m3u8
+#EXTINF:-1,beIN SPORTS 9 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38827.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38806.m3u8
+#EXTINF:-1,beIN SPORTS 10 MAX HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38828.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38807.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38808.m3u8
+#EXTINF:-1,RMC SPORT LIVE 13 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38809.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38810.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38811.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 FHD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/38812.m3u8
+#EXTINF:-1,MULTISPORTS 1 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128711.m3u8
+#EXTINF:-1,MULTISPORTS 2 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128712.m3u8
+#EXTINF:-1,MULTISPORTS 3 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128713.m3u8
+#EXTINF:-1,MULTISPORTS 4 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128714.m3u8
+#EXTINF:-1,MULTISPORTS 5 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128715.m3u8
+#EXTINF:-1,MULTISPORTS 6 FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/128716.m3u8
+#EXTINF:-1,CANAL + SPORT HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/143.m3u8
+#EXTINF:-1,CANAL + SPORT FHD FR [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/38869.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/1138.m3u8
+#EXTINF:-1,Ziggo Sport Golf HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4328.m3u8
+#EXTINF:-1,Ziggo Sport Racing HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4327.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4326.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 1 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4330.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 2 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4329.m3u8
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD N NLL
+http://vip1080.us:8000/live/Hakan/asdfghj/74083.m3u8
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74084.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74085.m3u8
+#EXTINF:-1,ZIGGO SPORT HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74086.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74087.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74088.m3u8
+#EXTINF:-1,FOX SPORTS 1 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/264.m3u8
+#EXTINF:-1,FOX SPORTS 1 FHD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/38919.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/265.m3u8
+#EXTINF:-1,FOX SPORTS 2 FHD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/38920.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/266.m3u8
+#EXTINF:-1,FOX SPORTS 4 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/267.m3u8
+#EXTINF:-1,FOX SPORTS 5 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/268.m3u8
+#EXTINF:-1,Fox Sports 6 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4331.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104419.m3u8
+#EXTINF:-1,ZIGGO SPORT RACING FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104418.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104417.m3u8
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104416.m3u8
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104415.m3u8
+#EXTINF:-1,ZIGGO SPORT FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104414.m3u8
+#EXTINF:-1,FOX SPORTS 6 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104377.m3u8
+#EXTINF:-1,FOX SPORTS 5 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104376.m3u8
+#EXTINF:-1,FOX SPORTS 4 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104375.m3u8
+#EXTINF:-1,FOX SPORTS 3 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104374.m3u8
+#EXTINF:-1,FOX SPORTS 2 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104373.m3u8
+#EXTINF:-1,FOX SPORTS 1 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104372.m3u8
+#EXTINF:-1,EXTREME SPORTS [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104364.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104363.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD NL [H265]
+http://vip1080.us:8000/live/Hakan/asdfghj/104362.m3u8
+#EXTINF:-1,(DK) TV 2 SPORT (HD)
+http://vip1080.us:8000/live/Hakan/asdfghj/6863.m3u8
+#EXTINF:-1,TV3 SPORT 1 HD DK
+http://vip1080.us:8000/live/Hakan/asdfghj/18342.m3u8
+#EXTINF:-1,(DK)  TV3 SPORT 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7099.m3u8
+#EXTINF:-1,(DK)  TV3 SPORT 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7098.m3u8
+#EXTINF:-1,(DK) EUROSPORT 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/8018.m3u8
+#EXTINF:-1,(DK) EUROSPORT 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/8001.m3u8
+#EXTINF:-1,(SW) EUROSPORT 1 FHD
+http://vip1080.us:8000/live/Hakan/asdfghj/8115.m3u8
+#EXTINF:-1,(SW) EUROSPORT 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/8116.m3u8
+#EXTINF:-1,(SW) TV 3 SPORT HD
+http://vip1080.us:8000/live/Hakan/asdfghj/8123.m3u8
+#EXTINF:-1,(SW) TV 4 SPORT HD
+http://vip1080.us:8000/live/Hakan/asdfghj/8110.m3u8
+#EXTINF:-1,(SW) C More Live HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7090.m3u8
+#EXTINF:-1,(SW) C More Live 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7089.m3u8
+#EXTINF:-1,(SW) C More Live 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7088.m3u8
+#EXTINF:-1,(SW) C More Live 4 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7087.m3u8
+#EXTINF:-1,(SW) C More Sport HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7085.m3u8
+#EXTINF:-1,(SW) C MORE FOOTBALL HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7802.m3u8
+#EXTINF:-1,(SW) C More Fotboll HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7086.m3u8
+#EXTINF:-1,(SW) C More Hockey HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7083.m3u8
+#EXTINF:-1,(SW) C More Golf HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7084.m3u8
+#EXTINF:-1,SW:Viasat Sport HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7588.m3u8
+#EXTINF:-1,SW:Viasat Golf HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7570.m3u8
+#EXTINF:-1,(SW) Viasat Golf HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7074.m3u8
+#EXTINF:-1,SW:Viasat Football HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7587.m3u8
+#EXTINF:-1,(SW) Viasat Fotboll HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7076.m3u8
+#EXTINF:-1,(SW) Viasat Motor HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7073.m3u8
+#EXTINF:-1,(SW) Viasat Hockey HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7075.m3u8
+#EXTINF:-1,(SW) Viasat sport premium
+http://vip1080.us:8000/live/Hakan/asdfghj/8248.m3u8
+#EXTINF:-1,SW:Viasat Sport Premium HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7589.m3u8
+#EXTINF:-1,SPORT PLUS FHD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/24103.m3u8
+#EXTINF:-1,EUROSPORT 1 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/23091.m3u8
+#EXTINF:-1,EUROSPORT 2 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/4320.m3u8
+#EXTINF:-1,NOVA SPORT HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/4323.m3u8
+#EXTINF:-1,DIEMA SPORT 1 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/4324.m3u8
+#EXTINF:-1,DIEMA SPORT 2 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/4325.m3u8
+#EXTINF:-1,MAX SPORT 1 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/23197.m3u8
+#EXTINF:-1,MAX SPORT 2 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/23198.m3u8
+#EXTINF:-1,MAX SPORT 4 HD BG
+http://vip1080.us:8000/live/Hakan/asdfghj/38881.m3u8
+#EXTINF:-1,Trace Sport Stars FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128465.m3u8
+#EXTINF:-1,Sportal FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128464.m3u8
+#EXTINF:-1,RING.BG FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128463.m3u8
+#EXTINF:-1,Nova Sport FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128462.m3u8
+#EXTINF:-1,MAX Sport 4 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128461.m3u8
+#EXTINF:-1,MAX Sport 3 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128460.m3u8
+#EXTINF:-1,MAX Sport 2 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128459.m3u8
+#EXTINF:-1,MAX Sport 1 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128458.m3u8
+#EXTINF:-1,FightBox FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128457.m3u8
+#EXTINF:-1,Eurosport 2 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128456.m3u8
+#EXTINF:-1,Eurosport 1 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128455.m3u8
+#EXTINF:-1,EDGESport FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128454.m3u8
+#EXTINF:-1,Diema Sport 2 FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128453.m3u8
+#EXTINF:-1,Diema Sport  FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128452.m3u8
+#EXTINF:-1,Auto Motor Sport FHD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128451.m3u8
+#EXTINF:-1,MAX Sport 3 SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128556.m3u8
+#EXTINF:-1,MAX Sport 2 SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128555.m3u8
+#EXTINF:-1,MAX Sport 1 SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128554.m3u8
+#EXTINF:-1,Extreme Sports SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128530.m3u8
+#EXTINF:-1,Eurosport 2 SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128529.m3u8
+#EXTINF:-1,Eurosport 1 SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128528.m3u8
+#EXTINF:-1,Diema Sport 2 SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128519.m3u8
+#EXTINF:-1,Diema Sport SD BG+Cable
+http://vip1080.us:8000/live/Hakan/asdfghj/128518.m3u8
+#EXTINF:-1,RO:Sport Klub 1
+http://vip1080.us:8000/live/Hakan/asdfghj/2174.m3u8
+#EXTINF:-1,RO:Sport Klub 2
+http://vip1080.us:8000/live/Hakan/asdfghj/2173.m3u8
+#EXTINF:-1,RO:Sport Klub 3
+http://vip1080.us:8000/live/Hakan/asdfghj/2172.m3u8
+#EXTINF:-1,RO:DIGI SPORT 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1334.m3u8
+#EXTINF:-1,RO:DIGI SPORT 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1337.m3u8
+#EXTINF:-1,RO:DIGI SPORT 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1335.m3u8
+#EXTINF:-1,RO:DIGI SPORT 4 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1336.m3u8
+#EXTINF:-1,BEIN SPORT 1 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46657.m3u8
+#EXTINF:-1,Bein Sports 2 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46658.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46659.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46660.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46661.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46662.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46663.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46664.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46665.m3u8
+#EXTINF:-1,BEIN SPORTS 10 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50724.m3u8
+#EXTINF:-1,BEIN SPORTS 11 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50725.m3u8
+#EXTINF:-1,BEIN SPORTS 12 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50726.m3u8
+#EXTINF:-1,BEIN SPORTS 13 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50727.m3u8
+#EXTINF:-1,KSA Sport 1 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46655.m3u8
+#EXTINF:-1,Teleclub Sport 1 FHD CH
+http://vip1080.us:8000/live/Hakan/asdfghj/30917.m3u8
+#EXTINF:-1,CH:TELECLUB SPORT 1
+http://vip1080.us:8000/live/Hakan/asdfghj/7491.m3u8
+#EXTINF:-1,CH:TELECLUB SPORT 2
+http://vip1080.us:8000/live/Hakan/asdfghj/7492.m3u8
+#EXTINF:-1,PT:EUROSPORT 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1526.m3u8
+#EXTINF:-1,PT:EUROSPORT 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1527.m3u8
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/500.m3u8
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/499.m3u8
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/498.m3u8
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/497.m3u8
+#EXTINF:-1,PT:SPORT TV 5 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1644.m3u8
+#EXTINF:-1,PT:SPORTING TV HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1705.m3u8
+#EXTINF:-1,Tring Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2763.m3u8
+#EXTINF:-1,Tring Sport 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2762.m3u8
+#EXTINF:-1,TRING SPORT 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2761.m3u8
+#EXTINF:-1,TRING SPORT 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2760.m3u8
+#EXTINF:-1,K Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/8371.m3u8
+#EXTINF:-1,K Sport 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/8370.m3u8
+#EXTINF:-1,SS Kosova 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/20579.m3u8
+#EXTINF:-1,SS Kosova 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/20580.m3u8
+#EXTINF:-1,Super Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2225.m3u8
+#EXTINF:-1,Super Sport 2 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2226.m3u8
+#EXTINF:-1,Super Sport 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2227.m3u8
+#EXTINF:-1,Super Sport 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2224.m3u8
+#EXTINF:-1,Super Sport 5 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/2771.m3u8
+#EXTINF:-1,K sport 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/63776.m3u8
+#EXTINF:-1,K Sport 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/63777.m3u8
+#EXTINF:-1,EuroSport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76898.m3u8
+#EXTINF:-1,RTSH Sport FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76899.m3u8
+#EXTINF:-1,Super Sport 1 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76900.m3u8
+#EXTINF:-1,Super Sport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76901.m3u8
+#EXTINF:-1,Super Sport 3 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76902.m3u8
+#EXTINF:-1,Super Sport 4 HD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76903.m3u8
+#EXTINF:-1,Tring Sport 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76906.m3u8
+#EXTINF:-1,Tring Sport 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76908.m3u8
+#EXTINF:-1,Art Sport 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76910.m3u8
+#EXTINF:-1,Art Sport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76911.m3u8
+#EXTINF:-1,Art Sport 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76912.m3u8
+#EXTINF:-1,Super Sport Kosova 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76913.m3u8
+#EXTINF:-1,Super Sport Kosova 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76914.m3u8
+#EXTINF:-1,Super Sport Kosova 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76915.m3u8
+#EXTINF:-1,Super Sport 1 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76916.m3u8
+#EXTINF:-1,Super Sport 2 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76917.m3u8
+#EXTINF:-1,Super Sport 3 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76918.m3u8
+#EXTINF:-1,Super Sport 4 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76919.m3u8
+#EXTINF:-1,Super Sport 6 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76921.m3u8
+#EXTINF:-1,Super Sport 7 FHD AL
+http://vip1080.us:8000/live/Hakan/asdfghj/76922.m3u8
+#EXTINF:-1,RAI SPORT HD IT
+http://vip1080.us:8000/live/Hakan/asdfghj/4951.m3u8
+#EXTINF:-1,SPORT ITALIA HD IT
+http://vip1080.us:8000/live/Hakan/asdfghj/50763.m3u8
+#EXTINF:-1,(IT) EUROSPORT 1
+http://vip1080.us:8000/live/Hakan/asdfghj/4913.m3u8
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23705.m3u8
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23703.m3u8
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23708.m3u8
+#EXTINF:-1,IT: Sky Sport Football HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23704.m3u8
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23707.m3u8
+#EXTINF:-1,UK:BT SPORT 1
+http://vip1080.us:8000/live/Hakan/asdfghj/4758.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://vip1080.us:8000/live/Hakan/asdfghj/4759.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://vip1080.us:8000/live/Hakan/asdfghj/4760.m3u8
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1512.m3u8
+#EXTINF:-1,UK | EVELEVEN SPORTS 1
+http://vip1080.us:8000/live/Hakan/asdfghj/32749.m3u8
+#EXTINF:-1,UK | PREMIERE SPORTS
+http://vip1080.us:8000/live/Hakan/asdfghj/32743.m3u8
+#EXTINF:-1,UK | SETANTA/PREMIERE SPORTS
+http://vip1080.us:8000/live/Hakan/asdfghj/32754.m3u8
+#EXTINF:-1,UK:SETANTA SPORTS HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1501.m3u8
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1016.m3u8
+#EXTINF:-1,UK:SKY SPORT CRICKET HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1017.m3u8
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1018.m3u8
+#EXTINF:-1,UK:SKY SPORTS GOLF HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1019.m3u8
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1020.m3u8
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://vip1080.us:8000/live/Hakan/asdfghj/22754.m3u8
+#EXTINF:-1,UK:Sky Sports Premier League
+http://vip1080.us:8000/live/Hakan/asdfghj/22755.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1
+http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2
+http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
+#EXTINF:-1,USA | ESPN 1
+http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://vip1080.us:8000/live/Hakan/asdfghj/9483.m3u8
+#EXTINF:-1,USA | ESPN U
+http://vip1080.us:8000/live/Hakan/asdfghj/32690.m3u8
+#EXTINF:-1,USA | SEC NETWORK
+http://vip1080.us:8000/live/Hakan/asdfghj/32783.m3u8
+#EXTINF:-1,USA | TENNIS CHANNEL
+http://vip1080.us:8000/live/Hakan/asdfghj/32725.m3u8
+#EXTINF:-1,USA | NBC SPORTS
+http://vip1080.us:8000/live/Hakan/asdfghj/32710.m3u8
+#EXTINF:-1,USA | NHL NETWORK
+http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
+#EXTINF:-1,USA | NFL NETWORK
+http://vip1080.us:8000/live/Hakan/asdfghj/32726.m3u8
+#EXTINF:-1,USA | MLB NETWORK
+http://vip1080.us:8000/live/Hakan/asdfghj/20401.m3u8
+#EXTINF:-1,USA | ELEVEN SPORTS
+http://vip1080.us:8000/live/Hakan/asdfghj/32781.m3u8
+#EXTINF:-1,USA | BEIN SPORT
+http://vip1080.us:8000/live/Hakan/asdfghj/32705.m3u8
+#EXTINF:-1,USA | NBC GOLF
+http://vip1080.us:8000/live/Hakan/asdfghj/9453.m3u8
+#EXTINF:-1,USA | UFC FIGHT PASS
+http://vip1080.us:8000/live/Hakan/asdfghj/32776.m3u8
+#EXTINF:-1,CA | SPORTSNET WORLD
+http://vip1080.us:8000/live/Hakan/asdfghj/9442.m3u8
+#EXTINF:-1,CA | TSN 1
+http://vip1080.us:8000/live/Hakan/asdfghj/9444.m3u8
+#EXTINF:-1,CA | TSN 2
+http://vip1080.us:8000/live/Hakan/asdfghj/22782.m3u8
+#EXTINF:-1,CA | TSN 3
+http://vip1080.us:8000/live/Hakan/asdfghj/22783.m3u8
+#EXTINF:-1,CA | TSN 4
+http://vip1080.us:8000/live/Hakan/asdfghj/32756.m3u8
+#EXTINF:-1,CA | TSN 5
+http://vip1080.us:8000/live/Hakan/asdfghj/32742.m3u8
+#EXTINF:-1,VIASAT SPORT HD RU
+http://vip1080.us:8000/live/Hakan/asdfghj/20632.m3u8
+#EXTINF:-1,MATCH  FOOTBAALL 1  HD RU
+http://vip1080.us:8000/live/Hakan/asdfghj/20611.m3u8
+#EXTINF:-1,MATCH FOOTBAALL 2 HD RU
+http://vip1080.us:8000/live/Hakan/asdfghj/20612.m3u8
+#EXTINF:-1,MATCH FOOTBAALL 3 HD RU
+http://vip1080.us:8000/live/Hakan/asdfghj/20613.m3u8
+#EXTINF:-1,Canal+ Sport FHD PL
+http://vip1080.us:8000/live/Hakan/asdfghj/20541.m3u8
+#EXTINF:-1,Canal + Sport 2 FHD PL
+http://vip1080.us:8000/live/Hakan/asdfghj/30582.m3u8
+#EXTINF:-1,EXYU: ARENA SPORT 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7335.m3u8
+#EXTINF:-1,EXYU: Arena Sport 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7334.m3u8
+#EXTINF:-1,EXYU: Arena Sport 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7333.m3u8
+#EXTINF:-1,EXYU: Arena Sport 4 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7332.m3u8
+#EXTINF:-1,EXYU:Arena Sport 5
+http://vip1080.us:8000/live/Hakan/asdfghj/8165.m3u8
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 1 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/8209.m3u8
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 2 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/8210.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 1
+http://vip1080.us:8000/live/Hakan/asdfghj/7338.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 2
+http://vip1080.us:8000/live/Hakan/asdfghj/7337.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7336.m3u8
+#EXTINF:-1,EXYU: SPORT TV 1 HD (SLO)
+http://vip1080.us:8000/live/Hakan/asdfghj/7911.m3u8
+#EXTINF:-1,EXYU: SPORT TV 2 HD (SLO)
+http://vip1080.us:8000/live/Hakan/asdfghj/7912.m3u8
+#EXTINF:-1,EXYU: SPORT TV 3 HD (SLO)
+http://vip1080.us:8000/live/Hakan/asdfghj/7913.m3u8
+#EXTINF:-1,HR:Sport Klub 1 HD HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17567.m3u8
+#EXTINF:-1,HR:Sport Klub 2 HD HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17566.m3u8
+#EXTINF:-1,HR:Sport Klub 3 HD HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17565.m3u8
+#EXTINF:-1,HR:Sport Klub 4 HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17564.m3u8
+#EXTINF:-1,HR:Sport Klub 5 HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17563.m3u8
+#EXTINF:-1,HR:Sport Klub 6 HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17562.m3u8
+#EXTINF:-1,HR:ARENA SPORT 1 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17573.m3u8
+#EXTINF:-1,HR:ARENA SPORT 2 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17572.m3u8
+#EXTINF:-1,HR:ARENA SPORT 3 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17571.m3u8
+#EXTINF:-1,HR:ARENA SPORT 4 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17570.m3u8
+#EXTINF:-1,HR:ARENA SPORT 5 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17569.m3u8
+#EXTINF:-1,OTE Sports 1 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20754.m3u8
+#EXTINF:-1,OTE Sports 2 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20755.m3u8
+#EXTINF:-1,OTE Sports 3 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20756.m3u8
+#EXTINF:-1,OTE Sports 4 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20757.m3u8
+#EXTINF:-1,OTE Sports 5 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20758.m3u8
+#EXTINF:-1,OTE Sports 6 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20759.m3u8
+#EXTINF:-1,OTE Sports 7 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20760.m3u8
+#EXTINF:-1,OTE Sports 8 HD GR
+http://vip1080.us:8000/live/Hakan/asdfghj/20761.m3u8
