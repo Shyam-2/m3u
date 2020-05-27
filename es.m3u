@@ -1,171 +1,127 @@
 #EXTM3U
-#EXTINF:-1,#0
-http://linux-app.tv:6204/13198479324830/12735198377764/10021
-#EXTINF:-1,24 HORAS
-http://linux-app.tv:6204/13198479324830/12735198377764/10020
-#EXTINF:-1,A&E
-http://linux-app.tv:6204/13198479324830/12735198377764/10019
-#EXTINF:-1,AMC
-http://linux-app.tv:6204/13198479324830/12735198377764/10018
-#EXTINF:-1,ANTENA 3
-http://linux-app.tv:6204/13198479324830/12735198377764/10017
-#EXTINF:-1,AXN
-http://linux-app.tv:6204/13198479324830/12735198377764/10016
-#EXTINF:-1,AXN WHITE
-http://linux-app.tv:6204/13198479324830/12735198377764/10015
-#EXTINF:-1,BARCA TV
-http://linux-app.tv:6204/13198479324830/12735198377764/33578
-#EXTINF:-1,BOING
-http://linux-app.tv:6204/13198479324830/12735198377764/10011
-#EXTINF:-1,CALLE 13
-http://linux-app.tv:6204/13198479324830/12735198377764/10010
-#EXTINF:-1,CANAL COCINA
-http://linux-app.tv:6204/13198479324830/12735198377764/10009
-#EXTINF:-1,CANAL DECASA
-http://linux-app.tv:6204/13198479324830/12735198377764/10008
-#EXTINF:-1,CANAL ODISEA
-http://linux-app.tv:6204/13198479324830/12735198377764/10007
-#EXTINF:-1,CAZA Y PESCA
-http://linux-app.tv:6204/13198479324830/12735198377764/10006
-#EXTINF:-1,CLAN TVE
-http://linux-app.tv:6204/13198479324830/12735198377764/10005
-#EXTINF:-1,COMEDY CENTRAL
-http://linux-app.tv:6204/13198479324830/12735198377764/10004
-#EXTINF:-1,COSMO
-http://linux-app.tv:6204/13198479324830/12735198377764/10003
-#EXTINF:-1,CUATRO
-http://linux-app.tv:6204/13198479324830/12735198377764/10001
-#EXTINF:-1,DISCOVERY
-http://linux-app.tv:6204/13198479324830/12735198377764/10000
-#EXTINF:-1,DISNEY CHANNEL HD
-http://linux-app.tv:6204/13198479324830/12735198377764/9999
-#EXTINF:-1,DISNEY JR
-http://linux-app.tv:6204/13198479324830/12735198377764/9998
-#EXTINF:-1,DISNEY XD
-http://linux-app.tv:6204/13198479324830/12735198377764/9997
-#EXTINF:-1,DIVINITY
-http://linux-app.tv:6204/13198479324830/12735198377764/9996
-#EXTINF:-1,ENERGY
-http://linux-app.tv:6204/13198479324830/12735198377764/9995
-#EXTINF:-1,EUROSPORT 1
-http://linux-app.tv:6204/13198479324830/12735198377764/33579
-#EXTINF:-1,EUROSPORT 2
-http://linux-app.tv:6204/13198479324830/12735198377764/33580
-#EXTINF:-1,FOX
-http://linux-app.tv:6204/13198479324830/12735198377764/9992
-#EXTINF:-1,FOX LIFE
-http://linux-app.tv:6204/13198479324830/12735198377764/9991
-#EXTINF:-1,GOL TV
-http://linux-app.tv:6204/13198479324830/12735198377764/33581
-#EXTINF:-1,HISTORIA
-http://linux-app.tv:6204/13198479324830/12735198377764/9989
-#EXTINF:-1,HOLLYWOOD
-http://linux-app.tv:6204/13198479324830/12735198377764/9988
-#EXTINF:-1,LA 1
-http://linux-app.tv:6204/13198479324830/12735198377764/9986
-#EXTINF:-1,LA 2
-http://linux-app.tv:6204/13198479324830/12735198377764/9985
-#EXTINF:-1,LA SEXTA
-http://linux-app.tv:6204/13198479324830/12735198377764/9984
-#EXTINF:-1,LALIGA TV BAR
-http://linux-app.tv:6204/13198479324830/12735198377764/33582
-#EXTINF:-1,M.ACCION
-http://linux-app.tv:6204/13198479324830/12735198377764/9982
-#EXTINF:-1,M.CINE ESPANOL
-http://linux-app.tv:6204/13198479324830/12735198377764/9981
-#EXTINF:-1,M.COMEDIA
-http://linux-app.tv:6204/13198479324830/12735198377764/9980
-#EXTINF:-1,M.DEP 1
-http://linux-app.tv:6204/13198479324830/12735198377764/9978
-#EXTINF:-1,M.DEP 2
-http://linux-app.tv:6204/13198479324830/12735198377764/9977
-#EXTINF:-1,M.ESTRENOS
-http://linux-app.tv:6204/13198479324830/12735198377764/9976
-#EXTINF:-1,M.FORMULA 1
-http://linux-app.tv:6204/13198479324830/12735198377764/33583
-#EXTINF:-1,M.FUTBOL
-http://linux-app.tv:6204/13198479324830/12735198377764/33584
-#EXTINF:-1,M.GOLF
-http://linux-app.tv:6204/13198479324830/12735198377764/33585
-#EXTINF:-1,M.MOTOGP
-http://linux-app.tv:6204/13198479324830/12735198377764/9972
-#EXTINF:-1,M.SERIES
-http://linux-app.tv:6204/13198479324830/12735198377764/9971
-#EXTINF:-1,M.SERIESXTRA
-http://linux-app.tv:6204/13198479324830/12735198377764/9970
-#EXTINF:-1,Canal Sur Andalucia
-http://linux-app.tv:6204/13198479324830/12735198377764/30781
-#EXTINF:-1,FDF
-http://linux-app.tv:6204/13198479324830/12735198377764/30782
-#EXTINF:-1,MEGA TV HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30783
+#EXTINF:-1,24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1,Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1,Be Mad
-http://linux-app.tv:6204/13198479324830/12735198377764/30784
-#EXTINF:-1,#0 HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30785
-#EXTINF:-1,Aragon
-http://linux-app.tv:6204/13198479324830/12735198377764/30786
-#EXTINF:-1,Canal Once
-http://linux-app.tv:6204/13198479324830/12735198377764/30787
-#EXTINF:-1,VAMOS HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30788
-#EXTINF:-1,BABY TV
-http://linux-app.tv:6204/13198479324830/12735198377764/30789
-#EXTINF:-1,Nick Jr HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30790
-#EXTINF:-1,Canal Panda
-http://linux-app.tv:6204/13198479324830/12735198377764/30791
-#EXTINF:-1,CLASSICA
-http://linux-app.tv:6204/13198479324830/12735198377764/30792
-#EXTINF:-1,M. DRAMA HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30793
-#EXTINF:-1,M. Cinedoc&Roll HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30794
-#EXTINF:-1,M.SERIESMANIA HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30795
-#EXTINF:-1,MEZZO LIVE HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30796
-#EXTINF:-1, MTV
-http://linux-app.tv:6204/13198479324830/12735198377764/30797
-#EXTINF:-1,Cultura 24 TV
-http://linux-app.tv:6204/13198479324830/12735198377764/30798
-#EXTINF:-1,BLAZE HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30799
-#EXTINF:-1,CRIMEN+INVES
-http://linux-app.tv:6204/13198479324830/12735198377764/30800
-#EXTINF:-1,CANAL IBERALIA
-http://linux-app.tv:6204/13198479324830/12735198377764/30801
-#EXTINF:-1,VIAJAR HD
-http://linux-app.tv:6204/13198479324830/12735198377764/30802
-#EXTINF:-1,24/7 Canal de Noticias
-http://linux-app.tv:6204/13198479324830/12735198377764/30803
-#EXTINF:-1,M.XTRA
-http://linux-app.tv:6204/13198479324830/12735198377764/9969
-#EXTINF:-1,NAT GEO WILD
-http://linux-app.tv:6204/13198479324830/12735198377764/9967
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://linux-app.tv:6204/13198479324830/12735198377764/9966
-#EXTINF:-1,NEOX
-http://linux-app.tv:6204/13198479324830/12735198377764/9965
-#EXTINF:-1,NICKELODEON
-http://linux-app.tv:6204/13198479324830/12735198377764/9964
-#EXTINF:-1,NOVA
-http://linux-app.tv:6204/13198479324830/12735198377764/9962
-#EXTINF:-1,PARAMOUNT
-http://linux-app.tv:6204/13198479324830/12735198377764/9961
-#EXTINF:-1,Real Madrid TV
-http://linux-app.tv:6204/13198479324830/12735198377764/33586
-#EXTINF:-1,SUNDANCE
-http://linux-app.tv:6204/13198479324830/12735198377764/9959
-#EXTINF:-1,SYFY
-http://linux-app.tv:6204/13198479324830/12735198377764/9958
-#EXTINF:-1,TCM
-http://linux-app.tv:6204/13198479324830/12735198377764/9957
-#EXTINF:-1,TELECINCO
-http://linux-app.tv:6204/13198479324830/12735198377764/9956
-#EXTINF:-1,TELEDEPORTE
-http://linux-app.tv:6204/13198479324830/12735198377764/9955
-#EXTINF:-1,TNT
-http://linux-app.tv:6204/13198479324830/12735198377764/9954
-#EXTINF:-1,TOROS TV
-http://linux-app.tv:6204/13198479324830/12735198377764/33587
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-1,Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Cancionero TV
+http://89.140.99.41/hls/1080.m3u8?
+#EXTINF:-1,Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+#EXTINF:-1,Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1,Fight Time
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1,Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1,Imas TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+#EXTINF:-1,Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,LifeTV
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,Miami TV Espana
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
+#EXTINF:-1,Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1,Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,Navarra TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:0,PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1,RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1,Vega Baja TV
+http://185.29.68.24/tvb.m3u8
