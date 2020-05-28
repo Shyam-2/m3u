@@ -1,123 +1,227 @@
 #EXTM3U
-#EXTINF:-1,ZDFinfo
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2584.m3u8
-#EXTINF:-1,Zee One HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2585.m3u8
-#EXTINF:-1,ZDF HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2586.m3u8
-#EXTINF:-1,Vox HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2587.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2588.m3u8
-#EXTINF:-1,TNT Serie HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2589.m3u8
-#EXTINF:-1,TNT Film HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2590.m3u8
-#EXTINF:-1,TLC HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2591.m3u8
-#EXTINF:-1,SyFy HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2592.m3u8
-#EXTINF:-1,Super RTL HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2593.m3u8
-#EXTINF:-1,Sport 1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2594.m3u8
-#EXTINF:-1,Sport +1  HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2595.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2596.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2597.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2598.m3u8
-#EXTINF:-1,Sky Krimi HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2599.m3u8
-#EXTINF:-1,Sky Emotion HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2600.m3u8
-#EXTINF:-1,Sky Comedy HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2601.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2602.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2603.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2604.m3u8
-#EXTINF:-1,Sky Cinema  24 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2605.m3u8
-#EXTINF:-1,Sky Cinema  1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2606.m3u8
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2607.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2608.m3u8
-#EXTINF:-1,N-TV
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2609.m3u8
-#EXTINF:-1,Sky Action HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2610.m3u8
-#EXTINF:-1,Sixx HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2611.m3u8
-#EXTINF:-1,Sat.1 Gold HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2612.m3u8
-#EXTINF:-1,Sat 1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2613.m3u8
-#EXTINF:-1,RTL Passion HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2614.m3u8
-#EXTINF:-1,RTL Crime
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2615.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2616.m3u8
+#EXTINF:-1,ARD ONE HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23778
+#EXTINF:-1,ZDF
+http://iptvpro.premium-itv.com:8789/1100/0011/23777
+#EXTINF:-1,PROSIEBEN HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23776
+#EXTINF:-1,SAT 1 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23775
 #EXTINF:-1,RTL HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2617.m3u8
+http://iptvpro.premium-itv.com:8789/1100/0011/23774
 #EXTINF:-1,RTL 2 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2618.m3u8
-#EXTINF:-1,Romance TV HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2619.m3u8
-#EXTINF:-1,Pro 7 Maxx HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2620.m3u8
-#EXTINF:-1,PRO 7 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2621.m3u8
-#EXTINF:-1,Boomerang
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2622.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2623.m3u8
-#EXTINF:-1,National Geographic HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2624.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2625.m3u8
-#EXTINF:-1,E Entertaiment
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2626.m3u8
-#EXTINF:-1,N24 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2627.m3u8
-#EXTINF:-1,Kika HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2628.m3u8
-#EXTINF:-1,Kabel 1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2629.m3u8
-#EXTINF:-1,Spiegel Geschichte
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2630.m3u8
-#EXTINF:-1,History Channel HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2631.m3u8
-#EXTINF:-1,FOX HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2632.m3u8
-#EXTINF:-1,EUROSPORT 2 HD XTRA
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2633.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2634.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2635.m3u8
-#EXTINF:-1,Disney Channel HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2636.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2637.m3u8
-#EXTINF:-1,Das Erste HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2638.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2639.m3u8
-#EXTINF:-1,Arte HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2640.m3u8
-#EXTINF:-1,Animal Planet HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2641.m3u8
-#EXTINF:-1,A&E HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2642.m3u8
-#EXTINF:-1,3Sat HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2643.m3u8
-#EXTINF:-1,13th Street HD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2644.m3u8
+http://iptvpro.premium-itv.com:8789/1100/0011/23773
+#EXTINF:-1,RTL Nitro
+http://iptvpro.premium-itv.com:8789/1100/0011/23772
+#EXTINF:-1,RTL PLUS
+http://iptvpro.premium-itv.com:8789/1100/0011/23771
+#EXTINF:-1,RTL2 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23770
+#EXTINF:-1,SIXX HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23769
+#EXTINF:-1,ARTE TV
+http://iptvpro.premium-itv.com:8789/1100/0011/23768
+#EXTINF:-1,KABEL EINS
+http://iptvpro.premium-itv.com:8789/1100/0011/23767
+#EXTINF:-1,VOX
+http://iptvpro.premium-itv.com:8789/1100/0011/23766
+#EXTINF:-1,SUPER RTL
+http://iptvpro.premium-itv.com:8789/1100/0011/23765
+#EXTINF:-1,DAS ERSTE HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23764
+#EXTINF:-1,PRO 7 MAXX
+http://iptvpro.premium-itv.com:8789/1100/0011/23763
+#EXTINF:-1,MUNCHEN TV
+http://iptvpro.premium-itv.com:8789/1100/0011/23761
+#EXTINF:-1,AXN HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23760
+#EXTINF:-1,FOX-HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23759
+#EXTINF:-1,KINOWELT
+http://iptvpro.premium-itv.com:8789/1100/0011/23758
+#EXTINF:-1,ANIXE
+http://iptvpro.premium-itv.com:8789/1100/0011/23757
+#EXTINF:-1,N-TV
+http://iptvpro.premium-itv.com:8789/1100/0011/23756
+#EXTINF:-1,ZDF INFO
+http://iptvpro.premium-itv.com:8789/1100/0011/23755
+#EXTINF:-1,DE|*****KINO*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23754
+#EXTINF:-1,SKY CINEMA HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23753
+#EXTINF:-1,SKY CINEMA  24 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23751
+#EXTINF:-1,SKY CINEMA 1 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23750
+#EXTINF:-1,SKY ACTION HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23749
+#EXTINF:-1,SKY COMEDY HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23746
+#EXTINF:-1,SKY CINEMA FAMILY
+http://iptvpro.premium-itv.com:8789/1100/0011/23745
+#EXTINF:-1,MGM
+http://iptvpro.premium-itv.com:8789/1100/0011/23744
+#EXTINF:-1,SKY EMOTION HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23743
+#EXTINF:-1,SKY CINEMA HITS
+http://iptvpro.premium-itv.com:8789/1100/0011/23742
+#EXTINF:-1,SKY HITS HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23741
+#EXTINF:-1,UNIVERSAL HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23740
+#EXTINF:-1,TNT COMEDY HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23738
+#EXTINF:-1,HEIMATKANAL
+http://iptvpro.premium-itv.com:8789/1100/0011/23737
+#EXTINF:-1,DE|*****PPV*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23736
+#EXTINF:-1,SKY SELECT HD1
+http://iptvpro.premium-itv.com:8789/1100/0011/23735
+#EXTINF:-1,SKY SELECT HD2
+http://iptvpro.premium-itv.com:8789/1100/0011/23734
+#EXTINF:-1,SKY SELECT HD3
+http://iptvpro.premium-itv.com:8789/1100/0011/23733
+#EXTINF:-1,SKY SELECT HD4
+http://iptvpro.premium-itv.com:8789/1100/0011/23732
+#EXTINF:-1,SKY SELECT HD5
+http://iptvpro.premium-itv.com:8789/1100/0011/23731
+#EXTINF:-1,SKY SELECT HD6
+http://iptvpro.premium-itv.com:8789/1100/0011/23730
+#EXTINF:-1,SKY SELECT HD7
+http://iptvpro.premium-itv.com:8789/1100/0011/23729
+#EXTINF:-1,SKY SELECT HD8
+http://iptvpro.premium-itv.com:8789/1100/0011/23728
+#EXTINF:-1,SKY SELECT 9HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23727
+#EXTINF:-1,SKY SELECT 10HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23726
+#EXTINF:-1,DE|*****UNTERHALTUNG*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23725
+#EXTINF:-1,SKY 1HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23724
+#EXTINF:-1,SYFY HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23723
+#EXTINF:-1,SYFY
+http://iptvpro.premium-itv.com:8789/1100/0011/23722
+#EXTINF:-1,E!
+http://iptvpro.premium-itv.com:8789/1100/0011/23721
+#EXTINF:-1,TLC
+http://iptvpro.premium-itv.com:8789/1100/0011/23720
+#EXTINF:-1,SKY ATLANTIC  HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23719
+#EXTINF:-1,AXN
+http://iptvpro.premium-itv.com:8789/1100/0011/23717
+#EXTINF:-1,SKY KRIMI
+http://iptvpro.premium-itv.com:8789/1100/0011/23716
+#EXTINF:-1,13TH STREET
+http://iptvpro.premium-itv.com:8789/1100/0011/23715
+#EXTINF:-1,13TH STREET HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23714
+#EXTINF:-1,TNT SERIES
+http://iptvpro.premium-itv.com:8789/1100/0011/23713
+#EXTINF:-1,SAT1 GOLD HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23712
+#EXTINF:-1,RTL PASSION
+http://iptvpro.premium-itv.com:8789/1100/0011/23711
+#EXTINF:-1,RTL LIVING
+http://iptvpro.premium-itv.com:8789/1100/0011/23710
+#EXTINF:-1,RTL CRIME HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23709
+#EXTINF:-1,ROMANCE TV
+http://iptvpro.premium-itv.com:8789/1100/0011/23708
+#EXTINF:-1,DE|*****SPORT*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23707
+#EXTINF:-1,SKY SPORT NEWS HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23706
+#EXTINF:-1,SKY SPORT 1HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23705
+#EXTINF:-1,DE|SKY SPORT 2
+http://iptvpro.premium-itv.com:8789/1100/0011/23702
+#EXTINF:-1,SKY SPORT 3HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23701
+#EXTINF:-1,SKY SPORT 4HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23700
+#EXTINF:-1,SKY SPORT 5HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23699
+#EXTINF:-1,SKY SPORT 6HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23698
+#EXTINF:-1,SKY SPORT 7HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23697
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23696
+#EXTINF:-1,SKY BUNDESLIGA 2HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23695
+#EXTINF:-1,SKY BUNDESLIGA 3HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23694
+#EXTINF:-1,SKY BUNDESLIGA 4HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23693
+#EXTINF:-1,SKY BUNDESLIGA 5HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23692
+#EXTINF:-1,SKY BUNDESLIGA 6HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23691
+#EXTINF:-1,SKY BUNDESLIGA 7HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23690
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23689
+#EXTINF:-1,EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23688
+#EXTINF:-1,SPORT 1
+http://iptvpro.premium-itv.com:8789/1100/0011/23687
+#EXTINF:-1,SPORT 1   HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23686
+#EXTINF:-1,AUTO MOTOR SPORT
+http://iptvpro.premium-itv.com:8789/1100/0011/23685
+#EXTINF:-1,DE|*****KULTUR*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23684
+#EXTINF:-1,DISCOVERY HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23683
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23682
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23681
+#EXTINF:-1,NAT GEO WILD HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23680
+#EXTINF:-1,SKY ARTS HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23679
+#EXTINF:-1,DE|Sky_Discovery
+http://iptvpro.premium-itv.com:8789/1100/0011/23678
+#EXTINF:-1,DMAX HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23677
+#EXTINF:-1,HISTORY HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23676
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://iptvpro.premium-itv.com:8789/1100/0011/23675
+#EXTINF:-1,SPIEGEL TV WISSEN
+http://iptvpro.premium-itv.com:8789/1100/0011/23674
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/1100/0011/23673
+#EXTINF:-1,DE|*****NIEUWS*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23672
+#EXTINF:-1,DW
+http://iptvpro.premium-itv.com:8789/1100/0011/23670
+#EXTINF:-1,N24
+http://iptvpro.premium-itv.com:8789/1100/0011/23669
+#EXTINF:-1,DE|AUSTRIA 24 TV
+http://iptvpro.premium-itv.com:8789/1100/0011/23668
+#EXTINF:-1,DE|*****KINDER*****|DE|
+http://iptvpro.premium-itv.com:8789/1100/0011/23667
+#EXTINF:-1,DISNEY CINEMAGIC
+http://iptvpro.premium-itv.com:8789/1100/0011/23666
+#EXTINF:-1,DISNEY XD
+http://iptvpro.premium-itv.com:8789/1100/0011/23665
+#EXTINF:-1,JUNIOR
+http://iptvpro.premium-itv.com:8789/1100/0011/23664
+#EXTINF:-1,Nickelodeon
+http://iptvpro.premium-itv.com:8789/1100/0011/23663
+#EXTINF:-1,BOOMERANG
+http://iptvpro.premium-itv.com:8789/1100/0011/23662
+#EXTINF:-1,DE|Cartoon-Network
+http://iptvpro.premium-itv.com:8789/1100/0011/23661
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvpro.premium-itv.com:8789/1100/0011/23660
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/1100/0011/23659
+#EXTINF:-1,KIKA HD
+http://iptvpro.premium-itv.com:8789/1100/0011/23658
+#EXTINF:-1,Sonnenklar TV HD
+http://iptvpro.premium-itv.com:8789/1100/0011/49324
