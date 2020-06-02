@@ -1,201 +1,51 @@
 #EXTM3U
-#EXTINF:-1,ALE KINO HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6284.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6269.m3u8
-#EXTINF:-1,CAFE HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6283.m3u8
-#EXTINF:-1,CANAL  FAMILY HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6268.m3u8
-#EXTINF:-1,CANAL  FILM HD 1080
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6267.m3u8
-#EXTINF:-1,CANAL SERIALE HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6266.m3u8
-#EXTINF:-1,CANAL SPORT HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6282.m3u8
-#EXTINF:-1,CANAL SPORTS 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6265.m3u8
-#EXTINF:-1,CINEMAX HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6281.m3u8
-#EXTINF:-1,COMEDY CENTERAL
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6264.m3u8
-#EXTINF:-1,DISCOVERY TURBO XTRA
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6263.m3u8
-#EXTINF:-1,DISNEY
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6262.m3u8
-#EXTINF:-1,Eleven Extra HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6289.m3u8
-#EXTINF:-1,ELEVEN HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6280.m3u8
-#EXTINF:-1,Eleven FHD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6288.m3u8
-#EXTINF:-1,ELEVEN SPORTS HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6279.m3u8
-#EXTINF:-1,Eleven Sports FHD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6287.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6286.m3u8
-#EXTINF:-1,Fightbox FHD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6285.m3u8
-#EXTINF:-1,FILMBOX EXTRA
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6260.m3u8
-#EXTINF:-1,FOX COMEDY
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6259.m3u8
-#EXTINF:-1,HBO HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6258.m3u8
-#EXTINF:-1,HBO 2 HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6257.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6255.m3u8
-#EXTINF:-1,PLAY HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6273.m3u8
-#EXTINF:-1,POLSAT 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6254.m3u8
-#EXTINF:-1,POLSAT FILM
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6253.m3u8
-#EXTINF:-1,POLSAT PLAY
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6252.m3u8
-#EXTINF:-1,POLSAT SPORTS
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6251.m3u8
-#EXTINF:-1,Polsat Sport Extra
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6250.m3u8
-#EXTINF:-1,TV4 HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6271.m3u8
-#EXTINF:-1,TVN 24
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6249.m3u8
+#EXTINF:-1,TVP 1
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63497
 #EXTINF:-1,TVP 1 HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6274.m3u8
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63498
+#EXTINF:-1,TVP 2
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63499
 #EXTINF:-1,TVP 2 HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6248.m3u8
-#EXTINF:-1,TVP HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6272.m3u8
-#EXTINF:-1,TVP SPORT HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6276.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6275.m3u8
-#EXTINF:-1,VIVA POLSKA
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6247.m3u8
-#EXTINF:-1,4 Fun Hits
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6379.m3u8
-#EXTINF:-1,4 Fun TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6380.m3u8
-#EXTINF:-1,Baby TV HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6373.m3u8
-#EXTINF:-1,Canal  1 HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6374.m3u8
-#EXTINF:-1,Canal  HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6375.m3u8
-#EXTINF:-1,Canal Discovery HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6369.m3u8
-#EXTINF:-1,Discovery HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6372.m3u8
-#EXTINF:-1,DISNEY J
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6376.m3u8
-#EXTINF:-1,Domo  HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6377.m3u8
-#EXTINF:-1,Eurosport 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6378.m3u8
-#EXTINF:-1,Extreme Sports HD 1080
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6383.m3u8
-#EXTINF:-1,History
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6371.m3u8
-#EXTINF:-1,Nat Geographic
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6370.m3u8
-#EXTINF:-1,Nsport
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6382.m3u8
-#EXTINF:-1,Polsat News
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6381.m3u8
-#EXTINF:-1,Tvn Fabula HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6384.m3u8
-#EXTINF:-1,Tvn Style
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6368.m3u8
-#EXTINF:-1,AXN Black
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6856.m3u8
-#EXTINF:-1,AXN HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6855.m3u8
-#EXTINF:-1,AXN White
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6854.m3u8
-#EXTINF:-1,ANIMAL PLANET HD 1080
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6867.m3u8
-#EXTINF:-1,BBC EARTH
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6868.m3u8
-#EXTINF:-1,BBC HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6869.m3u8
-#EXTINF:-1,BOOMERANG
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6870.m3u8
-#EXTINF:-1,Canal  1 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6871.m3u8
-#EXTINF:-1,CANAL SERIALE
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6872.m3u8
-#EXTINF:-1,Canal Family HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6873.m3u8
-#EXTINF:-1,Canal Film HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6874.m3u8
-#EXTINF:-1,Canal HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6875.m3u8
-#EXTINF:-1,Canal Seriale HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6876.m3u8
-#EXTINF:-1,Canal Sport 2 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6877.m3u8
-#EXTINF:-1,Discovery Historia
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6878.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6879.m3u8
-#EXTINF:-1,Disney Channel
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6880.m3u8
-#EXTINF:-1,EUROSPORT 1HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6881.m3u8
-#EXTINF:-1,Extreme Sports 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6882.m3u8
-#EXTINF:-1,Filmbox Action
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6883.m3u8
-#EXTINF:-1,HBO 2 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6884.m3u8
-#EXTINF:-1,HBO 3 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6885.m3u8
-#EXTINF:-1,HBO HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6886.m3u8
-#EXTINF:-1,History HD 
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6887.m3u8
-#EXTINF:-1,Kuchnia  HD HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6890.m3u8
-#EXTINF:-1,Nat Geo HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6896.m3u8
-#EXTINF:-1,Nsport HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6897.m3u8
-#EXTINF:-1,Polsat 2 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6900.m3u8
-#EXTINF:-1,Polsat Cafe HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6901.m3u8
-#EXTINF:-1,Polsat Film HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6902.m3u8
-#EXTINF:-1,Polsat HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6903.m3u8
-#EXTINF:-1,Polsat Jim Jam
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6904.m3u8
-#EXTINF:-1,Polsat Play HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6905.m3u8
-#EXTINF:-1,Polsat Sport News HD 1080
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6907.m3u8
-#EXTINF:-1,TLC HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6912.m3u8
-#EXTINF:-1,TVN Fabula HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6917.m3u8
-#EXTINF:-1,TVN HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6918.m3u8
-#EXTINF:-1,TVN Style HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6920.m3u8
-#EXTINF:-1,TVP 1 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6922.m3u8
-#EXTINF:-1,TVP 2 HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6923.m3u8
-#EXTINF:-1,TVP INFO
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6925.m3u8
-#EXTINF:-1,TVP KULTURA
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6926.m3u8
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63500
+#EXTINF:-1,TVP 3
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63501
+#EXTINF:-1,TVP INFO HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63503
+#EXTINF:-1,TVP ROZRYWKA
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63504
 #EXTINF:-1,TVP SERIALE
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6927.m3u8
-#EXTINF:-1,TVP Sport HD 1080P
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6928.m3u8
-#EXTINF:-1,TVP3
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6929.m3u8
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63505
+#EXTINF:-1, POLSAT 2 HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63506
+#EXTINF:-1,POLSAT HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63507
+#EXTINF:-1,POLSAT CAFE HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63508
+#EXTINF:-1,POLSAT NEWS HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63509
+#EXTINF:-1,POLSAT PLAY HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63510
+#EXTINF:-1,POLSAT SPORT HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63511
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63512
+#EXTINF:-1,TVN HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63513
+#EXTINF:-1,TVN 7 HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63514
+#EXTINF:-1, TVN FABULA HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63515
+#EXTINF:-1,TVN STYLE HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63516
+#EXTINF:-1,TVN TURBO HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63517
+#EXTINF:-1,TVP ABC
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63518
+#EXTINF:-1,KUCHNIA+ HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63519
+#EXTINF:-1,TV REPUBLIKA
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63520
+#EXTINF:-1,FOOD NETWORK HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63525
+#EXTINF:-1,CINEMAX 2 HD
+http://23.237.100.130:8080/w9mNEBeKqV/26PNRu2qNG/63526
