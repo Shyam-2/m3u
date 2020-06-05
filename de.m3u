@@ -1,111 +1,229 @@
 #EXTM3U
+#EXTINF:-1,Das Erste HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27627
+#EXTINF:-1,RTL 1HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27637
+#EXTINF:-1,RTL 1SD
+http://linux-app.tv:6204/60400655844704/32991126026152/36673
+#EXTINF:-1,RTL 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27638
+#EXTINF:-1,RTL 2SD
+http://linux-app.tv:6204/60400655844704/32991126026152/36674
+#EXTINF:-1,RTL Plus
+http://linux-app.tv:6204/60400655844704/32991126026152/27636
+#EXTINF:-1,RTL Plus SD
+http://linux-app.tv:6204/60400655844704/32991126026152/36675
+#EXTINF:-1,NITRO
+http://linux-app.tv:6204/60400655844704/32991126026152/27639
+#EXTINF:-1,ZDF HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27634
+#EXTINF:-1,ZDF Info HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27633
+#EXTINF:-1,ZDF Neo HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27632
+#EXTINF:-1,Sixx HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27643
+#EXTINF:-1,Sixx SD
+http://linux-app.tv:6204/60400655844704/32991126026152/36676
+#EXTINF:-1,Pro 7HD
+http://linux-app.tv:6204/60400655844704/32991126026152/28434
+#EXTINF:-1,Pro 7SD
+http://linux-app.tv:6204/60400655844704/32991126026152/27646
+#EXTINF:-1,Pro 7 Fun HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27644
+#EXTINF:-1,Pro 7 Maxx HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27645
+#EXTINF:-1,SAT 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27648
+#EXTINF:-1,SAT 1 Gold HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27647
+#EXTINF:-1,Sat 1 Emotions HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27619
 #EXTINF:-1,VOX HD
-http://fisek1.sveokpro.com:7990/test/test/1390
-#EXTINF:-1,Sat 1 HD
-http://fisek1.sveokpro.com:7990/test/test/1391
-#EXTINF:-1,Sat gold 1 HD
-http://fisek1.sveokpro.com:7990/test/test/1392
-#EXTINF:-1,RTL
-http://fisek1.sveokpro.com:7990/test/test/1393
-#EXTINF:-1,RTL 2
-http://fisek1.sveokpro.com:7990/test/test/1394
-#EXTINF:-1,RTL crime
-http://fisek1.sveokpro.com:7990/test/test/1395
-#EXTINF:-1,RTL nitro
-http://fisek1.sveokpro.com:7990/test/test/1396
+http://linux-app.tv:6204/60400655844704/32991126026152/27642
+#EXTINF:-1,Puls 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27654
+#EXTINF:-1,3 SAT HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27631
+#EXTINF:-1,Arte HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27641
+#EXTINF:-1,Universal Channel
+http://linux-app.tv:6204/60400655844704/32991126026152/27657
+#EXTINF:-1,Phoenix HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27600
 #EXTINF:-1,Kabel 1
-http://fisek1.sveokpro.com:7990/test/test/1397
-#EXTINF:-1,Prosieben
-http://fisek1.sveokpro.com:7990/test/test/1398
-#EXTINF:-1,Prosieben MAX
-http://fisek1.sveokpro.com:7990/test/test/1399
-#EXTINF:-1,Sixx
-http://fisek1.sveokpro.com:7990/test/test/1400
-#EXTINF:-1,3 Sat
-http://fisek1.sveokpro.com:7990/test/test/1401
-#EXTINF:-1,Kika
-http://fisek1.sveokpro.com:7990/test/test/1402
-#EXTINF:-1,Dmax
-http://fisek1.sveokpro.com:7990/test/test/1403
-#EXTINF:-1,Romance
-http://fisek1.sveokpro.com:7990/test/test/1404
+http://linux-app.tv:6204/60400655844704/32991126026152/27640
+#EXTINF:-1,Kabel 1 Doku
+http://linux-app.tv:6204/60400655844704/32991126026152/27609
+#EXTINF:-1,Kabel 1 Classics HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27804
+#EXTINF:-1,ARD Alpha
+http://linux-app.tv:6204/60400655844704/32991126026152/27590
+#EXTINF:-1,ONE HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27635
+#EXTINF:-1,TELE 5 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27615
+#EXTINF:-1,Anixe HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27618
+#EXTINF:-1,SYFY HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27656
+#EXTINF:-1,TNT Serie HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27661
+#EXTINF:-1,RTL Crime HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27653
+#EXTINF:-1,RTL Passion HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27650
+#EXTINF:-1,13th Street
+http://linux-app.tv:6204/60400655844704/32991126026152/27660
+#EXTINF:-1,Heimat Kanal
+http://linux-app.tv:6204/60400655844704/32991126026152/27616
+#EXTINF:-1,Kinowelt TV
+http://linux-app.tv:6204/60400655844704/32991126026152/27655
+#EXTINF:-1,ROMANCE TV
+http://linux-app.tv:6204/60400655844704/32991126026152/27620
+#EXTINF:-1,ZEE ONE HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27649
 #EXTINF:-1,Boomerang
-http://fisek1.sveokpro.com:7990/test/test/1405
-#EXTINF:-1,Disney Channel
-http://fisek1.sveokpro.com:7990/test/test/1406
+http://linux-app.tv:6204/60400655844704/32991126026152/27625
+#EXTINF:-1,Cartoon Network HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27624
+#EXTINF:-1,KIKA HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27602
+#EXTINF:-1,DISNEY CHANNEL HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27593
 #EXTINF:-1,Disney Junior
-http://fisek1.sveokpro.com:7990/test/test/1407
-#EXTINF:-1,National Geographic
-http://fisek1.sveokpro.com:7990/test/test/1408
-#EXTINF:-1,National Geographic Wild
-http://fisek1.sveokpro.com:7990/test/test/1409
-#EXTINF:-1,Discovery
-http://fisek1.sveokpro.com:7990/test/test/1410
-#EXTINF:-1,History
-http://fisek1.sveokpro.com:7990/test/test/1411
-#EXTINF:-1,Sky Select 1
-http://fisek1.sveokpro.com:7990/test/test/1412
-#EXTINF:-1,Sky Select 5
-http://fisek1.sveokpro.com:7990/test/test/1413
-#EXTINF:-1,Sky Cinema
-http://fisek1.sveokpro.com:7990/test/test/1414
-#EXTINF:-1,Sky Cinema 24
-http://fisek1.sveokpro.com:7990/test/test/1415
-#EXTINF:-1,Sky Cinema Hits
-http://fisek1.sveokpro.com:7990/test/test/1416
-#EXTINF:-1,Sky Cinema Action
-http://fisek1.sveokpro.com:7990/test/test/1417
-#EXTINF:-1,FOX
-http://fisek1.sveokpro.com:7990/test/test/1418
-#EXTINF:-1,Sky Cinema Comedy
-http://fisek1.sveokpro.com:7990/test/test/1419
-#EXTINF:-1,TNT film
-http://fisek1.sveokpro.com:7990/test/test/1420
-#EXTINF:-1,TNT comedy
-http://fisek1.sveokpro.com:7990/test/test/1421
-#EXTINF:-1,TNT serie
-http://fisek1.sveokpro.com:7990/test/test/1422
-#EXTINF:-1,SPORT 1
-http://fisek1.sveokpro.com:7990/test/test/1447
-#EXTINF:-1,DAZN 1
-http://fisek1.sveokpro.com:7990/test/test/1423
-#EXTINF:-1,DAZN 2
-http://fisek1.sveokpro.com:7990/test/test/1424
-#EXTINF:-1,Sky Sport 1
-http://fisek1.sveokpro.com:7990/test/test/1425
-#EXTINF:-1,Sky sport 2
-http://fisek1.sveokpro.com:7990/test/test/1426
-#EXTINF:-1,Bundesliga 1
-http://fisek1.sveokpro.com:7990/test/test/1427
-#EXTINF:-1,Bundesliga 2
-http://fisek1.sveokpro.com:7990/test/test/1428
-#EXTINF:-1,Bundesliga 3
-http://fisek1.sveokpro.com:7990/test/test/1429
-#EXTINF:-1,Bundesliga 4
-http://fisek1.sveokpro.com:7990/test/test/1430
-#EXTINF:-1,Bundesliga 5
-http://fisek1.sveokpro.com:7990/test/test/1431
-#EXTINF:-1,ORF 1 
-http://fisek1.sveokpro.com:7990/test/test/1432
-#EXTINF:-1,ORF 2
-http://fisek1.sveokpro.com:7990/test/test/1433
-#EXTINF:-1,ORF sport
-http://fisek1.sveokpro.com:7990/test/test/1434
-#EXTINF:-1,Eurosport 1
-http://fisek1.sveokpro.com:7990/test/test/1435
-#EXTINF:-1,Eurosport 2
-http://fisek1.sveokpro.com:7990/test/test/1436
-#EXTINF:-1,Eurosport 2 xtra
-http://fisek1.sveokpro.com:7990/test/test/1437
-#EXTINF:-1,Bein sports 1 
-http://fisek1.sveokpro.com:7990/test/test/1438
-#EXTINF:-1,Bein sports 2
-http://fisek1.sveokpro.com:7990/test/test/1439
-#EXTINF:-1,Bein sport 3 
-http://fisek1.sveokpro.com:7990/test/test/1440
-#EXTINF:-1,SPORT TV 1
-http://fisek1.sveokpro.com:7990/test/test/1444
-#EXTINF:-1,SPORT TV 2
-http://fisek1.sveokpro.com:7990/test/test/1445
-#EXTINF:-1,SPORT TV 3
-http://fisek1.sveokpro.com:7990/test/test/1446
+http://linux-app.tv:6204/60400655844704/32991126026152/27621
+#EXTINF:-1,Disney Cinemagic HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27623
+#EXTINF:-1,Sky Disney Junior
+http://linux-app.tv:6204/60400655844704/32991126026152/27630
+#EXTINF:-1,Nickelodeon
+http://linux-app.tv:6204/60400655844704/32991126026152/27626
+#EXTINF:-1,Baby TV
+http://linux-app.tv:6204/60400655844704/32991126026152/27589
+#EXTINF:-1,Super RTL
+http://linux-app.tv:6204/60400655844704/32991126026152/27629
+#EXTINF:-1,TOGGO Plus
+http://linux-app.tv:6204/60400655844704/32991126026152/27628
+#EXTINF:-1,DAZN Bar 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33382
+#EXTINF:-1,DAZN Bar 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33383
+#EXTINF:-1,Sky Sport News HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33379
+#EXTINF:-1,Sky Sport 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33368
+#EXTINF:-1,Sky Sport 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33369
+#EXTINF:-1,Sky Sport 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33370
+#EXTINF:-1,Sky Sport 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33371
+#EXTINF:-1,Sky Sport 5 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33372
+#EXTINF:-1,Sky Sport 6 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33373
+#EXTINF:-1,Sky Sport 7 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33374
+#EXTINF:-1,Sky Sport 8 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33375
+#EXTINF:-1,Sky Sport 9 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33376
+#EXTINF:-1,Sky Sport 10 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33377
+#EXTINF:-1,Sky Sport 11 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33378
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33359
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33360
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33361
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33362
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33363
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33364
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33365
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33366
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33367
+#EXTINF:-1,EuroSport 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33380
+#EXTINF:-1,EuroSport 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33381
+#EXTINF:-1,Eurosport 2 HD XTRA
+http://linux-app.tv:6204/60400655844704/32991126026152/33203
+#EXTINF:-1,Sport 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33384
+#EXTINF:-1,Sky Sport Austria HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33358
+#EXTINF:-1,JukeBox HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27597
+#EXTINF:-1,Classica
+http://linux-app.tv:6204/60400655844704/32991126026152/27617
+#EXTINF:-1,MTV
+http://linux-app.tv:6204/60400655844704/32991126026152/27596
+#EXTINF:-1,MTV Dance
+http://linux-app.tv:6204/60400655844704/32991126026152/27595
+#EXTINF:-1,Deluxe Music HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27591
+#EXTINF:-1,Discovery Channel
+http://linux-app.tv:6204/60400655844704/32991126026152/27612
+#EXTINF:-1,E! Entertainment HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27599
+#EXTINF:-1,History HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27610
+#EXTINF:-1,National Geographic HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27606
+#EXTINF:-1,RTL Living HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27651
+#EXTINF:-1,Animal Planet
+http://linux-app.tv:6204/60400655844704/32991126026152/27613
+#EXTINF:-1,Nat Geo Wild HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27607
+#EXTINF:-1,DMAX HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27611
+#EXTINF:-1,Planet HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27953
+#EXTINF:-1,TLC HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27604
+#EXTINF:-1,NTV
+http://linux-app.tv:6204/60400655844704/32991126026152/27601
+#EXTINF:-1,N24 Doku
+http://linux-app.tv:6204/60400655844704/32991126026152/27608
+#EXTINF:-1,AXN
+http://linux-app.tv:6204/60400655844704/32991126026152/27658
+#EXTINF:-1,Welt HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27603
+#EXTINF:-1,Tagesschau24 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27586
+#EXTINF:-1,Spiegel TV Wissen HD
+http://linux-app.tv:6204/60400655844704/32991126026152/27605
+#EXTINF:-1,Baden Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21471
+#EXTINF:-1,Wdr Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21470
+#EXTINF:-1,Deutsches Musik
+http://linux-app.tv:6204/60400655844704/32991126026152/21469
+#EXTINF:-1,Douna Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21468
+#EXTINF:-1,Franken Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21472
+#EXTINF:-1,Hr Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21466
+#EXTINF:-1,Munchen Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21473
+#EXTINF:-1,Oberpfalz Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21478
+#EXTINF:-1,Ran 1Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21476
+#EXTINF:-1,Rbw Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21475
+#EXTINF:-1,Trp 1Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21477
+#EXTINF:-1,Tva Tv
+http://linux-app.tv:6204/60400655844704/32991126026152/21467
