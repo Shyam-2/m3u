@@ -1,4 +1,58 @@
 #EXTM3U
+#EXTINF:-1,France 2
+http://m-iptv.net:6204/95025267076109/65839594001441/8044
+#EXTINF:-1,France 3
+http://m-iptv.net:6204/95025267076109/65839594001441/8042
+#EXTINF:-1,France 4
+http://m-iptv.net:6204/95025267076109/65839594001441/8041
+#EXTINF:-1,National Geo HD
+http://m-iptv.net:6204/95025267076109/65839594001441/8028
+#EXTINF:-1,National Geo Wild HD
+http://m-iptv.net:6204/95025267076109/65839594001441/8027
+#EXTINF:-1,Discovery channel HD
+http://m-iptv.net:6204/95025267076109/65839594001441/8056
+#EXTINF:-1,Discovery Science HD
+http://m-iptv.net:6204/95025267076109/65839594001441/8054
+#EXTINF:-1,Discovery Investigation HD
+http://m-iptv.net:6204/95025267076109/65839594001441/8055
+#EXTINF:-1,Disney Channel FR
+http://m-iptv.net:6204/95025267076109/65839594001441/8053
+#EXTINF:-1,Disney XD FR
+http://m-iptv.net:6204/95025267076109/65839594001441/8050
+#EXTINF:-1,Nickelodeon Junior
+http://m-iptv.net:6204/95025267076109/65839594001441/8025
+#EXTINF:-1,Disney Junior FR
+http://m-iptv.net:6204/95025267076109/65839594001441/8051
+#EXTINF:-1,Nickelodeon HD
+http://m-iptv.net:6204/95025267076109/65839594001441/8026
+#EXTINF:-1,Euronews
+http://m-iptv.net:6204/95025267076109/65839594001441/8047
+#EXTINF:-1,France 5
+http://m-iptv.net:6204/95025267076109/65839594001441/8040
+#EXTINF:-1,France O
+http://m-iptv.net:6204/95025267076109/65839594001441/8039
+#EXTINF:-1,BEIN SPORT 1 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33516
+#EXTINF:-1,BEIN SPORT 2 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33517
+#EXTINF:-1,BEIN SPORT 3 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33518
+#EXTINF:-1,BEIN MAX 4 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33519
+#EXTINF:-1,BEIN MAX 5 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33520
+#EXTINF:-1,BEIN MAX 6 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33521
+#EXTINF:-1,BEIN MAX 7 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33522
+#EXTINF:-1,BEIN MAX 8 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33523
+#EXTINF:-1,Bein Sport MAX 6 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33236
+#EXTINF:-1,Bein Sport MAX 7 HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33235
+#EXTINF:-1,BEIN SPORT MAX 10
+http://m-iptv.net:6204/95025267076109/65839594001441/33197
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
@@ -66,7 +120,7 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+http://live.lachainenormande.80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
