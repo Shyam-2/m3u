@@ -1,119 +1,923 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
-https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",FTV
-http://ott-cdn.ucom.am/s30/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MCM Top
-http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="",Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="",Persiana 2 Cinema
-http://51.15.193.156/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="",Persiana 3 Junior
-http://51.158.74.129/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="",Persiana 4 Iranian
-http://51.158.97.214/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="",Persiana 5 Documentary
-http://163.172.174.60/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="",Persiana 6 Music
-http://163.172.147.113/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
-http://51.15.193.127/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
-http://51.15.254.60/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
-https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
-https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="",Salamat Tube TV
-http://51.158.116.146/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" group-title="Sport",Sport en France
-https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
-https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png" group-title="Local",TV78
-https://origin2.dvmr.fr/hls/tvfil78/tvfil78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1,CANAL SPORT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/39203
+#EXTINF:-1,CANAL SPORT HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15191
+#EXTINF:-1,CANAL SPORT FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9326
+#EXTINF:-1,CANAL SPORT FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51166
+#EXTINF:-1,BEIN SPORT 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15204
+#EXTINF:-1,BEIN SPORT 1 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9340
+#EXTINF:-1,BEIN SPORT 1 HD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9345
+#EXTINF:-1,BEIN SPORT 1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9589
+#EXTINF:-1,BEIN SPORT 1 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51102
+#EXTINF:-1,BEIN SPORT 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15203
+#EXTINF:-1,BEIN SPORT 2 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9339
+#EXTINF:-1,BEIN SPORT 2 HD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9344
+#EXTINF:-1,BEIN SPORT 2 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9588
+#EXTINF:-1,BEIN SPORT 2 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51101
+#EXTINF:-1,BEIN SPORT 3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15202
+#EXTINF:-1, BEIN SPORT 3 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9341
+#EXTINF:-1,BEIN SPORT 3 HD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9343
+#EXTINF:-1,BEIN SPORT 3 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9587
+#EXTINF:-1,BEIN SPORT 3 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51100
+#EXTINF:-1,BEIN SPORT MAX 4 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15210
+#EXTINF:-1,BEIN SPORT MAX 5 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15209
+#EXTINF:-1,BEIN SPORT MAX 6 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15208
+#EXTINF:-1,BEIN SPORT MAX 7 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15207
+#EXTINF:-1,BEIN SPORT MAX 8 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15206
+#EXTINF:-1,BEIN SPORT MAX 9 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15205
+#EXTINF:-1,BEIN SPORT MAX 10 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15211
+#EXTINF:-1,RMC SPORT NEWS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59873
+#EXTINF:-1,RMC SPORT NEWS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40482
+#EXTINF:-1,RMC SPORT NEWS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40481
+#EXTINF:-1,RMC SPORT 4K
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40469
+#EXTINF:-1,RMC SPORT 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15127
+#EXTINF:-1,RMC SPORT 1 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9218
+#EXTINF:-1,RMC SPORT 1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9502
+#EXTINF:-1,RMC SPORT 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15126
+#EXTINF:-1,RMC SPORT 2 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9217
+#EXTINF:-1,RMC SPORT 2 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9501
+#EXTINF:-1,RMC SPORT 3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15125
+#EXTINF:-1,RMC SPORT 3 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9216
+#EXTINF:-1,RMC SPORT 3 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9500
+#EXTINF:-1,RMC SPORT 4
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15124
+#EXTINF:-1,RMC SPORT 4 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9215
+#EXTINF:-1,RMC SPORT 4 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9499
+#EXTINF:-1,RMC SPORT LIVE 5 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40480
+#EXTINF:-1,RMC SPORT LIVE 6 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40479
+#EXTINF:-1,RMC SPORT LIVE 7 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40478
+#EXTINF:-1,RMC SPORT LIVE 8 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40477
+#EXTINF:-1,RMC SPORT LIVE 9 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40476
+#EXTINF:-1,RMC SPORT LIVE 10 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40475
+#EXTINF:-1,RMC SPORT LIVE 11 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40474
+#EXTINF:-1,RMC SPORT LIVE 12 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40473
+#EXTINF:-1,RMC SPORT LIVE 13 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40472
+#EXTINF:-1,RMC SPORT LIVE 14 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40471
+#EXTINF:-1,RMC SPORT LIVE 15 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40470
+#EXTINF:-1,RMC SPORT ACCESS 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40484
+#EXTINF:-1,RMC SPORT ACCESS 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40483
+#EXTINF:-1,EUROSPORT 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15172
+#EXTINF:-1,EUROSPORT 1 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9281
+#EXTINF:-1,EUROSPORT 1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9549
+#EXTINF:-1,EUROSPORT 1 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51105
+#EXTINF:-1,EUROSPORT 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9279
+#EXTINF:-1,EUROSPORT 2 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9280
+#EXTINF:-1,EUROSPORT 2 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9548
+#EXTINF:-1,EUROSPORT 2 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51106
+#EXTINF:-1,INFOSPORT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9265
+#EXTINF:-1,INFOSPORT HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15156
+#EXTINF:-1,INFOSPORT FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9534
+#EXTINF:-1,FOOT+ 24/24
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/32819
+#EXTINF:-1,FOOT+ 24/24 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51104
+#EXTINF:-1,LEQUIPE 21
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9264
+#EXTINF:-1,LEQUIPE 21 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15155
+#EXTINF:-1,LEQUIPE 21 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9533
+#EXTINF:-1,MOTORSPORT TV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15147
+#EXTINF:-1,MOTORSPORT TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9526
+#EXTINF:-1,GOLF+
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9270
+#EXTINF:-1,GOLF+ HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15161
+#EXTINF:-1,GOLF+ FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9540
+#EXTINF:-1,GOLF CHANNEL
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9378
+#EXTINF:-1,GOLF CHANNEL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15162
+#EXTINF:-1,GOLF CHANNEL FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9539
+#EXTINF:-1,EQUIDIA LIVE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9282
+#EXTINF:-1,EQUIDIA LIVE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15173
+#EXTINF:-1,EQUIDIA LIVE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9550
+#EXTINF:-1,EXTREME SPORTS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15227
+#EXTINF:-1,AB MOTEUR
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9359
+#EXTINF:-1,AUTOMOTO LA CHAINE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62915
+#EXTINF:-1,EXTREME SPORTS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62916
+#EXTINF:-1,OLTV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30599
+#EXTINF:-1,TF1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9211
+#EXTINF:-1,TF1 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15121
+#EXTINF:-1,TF1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9210
+#EXTINF:-1,TF1 4K
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62897
+#EXTINF:-1,TF1+1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51178
+#EXTINF:-1,TF1+1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51179
+#EXTINF:-1,TF1 SERIES FILMS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51148
+#EXTINF:-1,TF1 SERIES FILMS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51169
+#EXTINF:-1,TF1 SERIES FILMS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51172
+#EXTINF:-1,FRANCE 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9277
+#EXTINF:-1,FRANCE 2 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15226
+#EXTINF:-1,FRANCE 2 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9546
+#EXTINF:-1,FRANCE 3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9276
+#EXTINF:-1,FRANCE 3 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15169
+#EXTINF:-1,FRANCE 3 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9545
+#EXTINF:-1,FRANCE 3 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51177
+#EXTINF:-1,FRANCE 4 
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9274
+#EXTINF:-1,FRANCE 4 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15168
+#EXTINF:-1,FRANCE 4 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9544
+#EXTINF:-1,FRANCE 4 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51176
+#EXTINF:-1,FRANCE 5
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9273
+#EXTINF:-1,FRANCE 5 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15167
+#EXTINF:-1,FRANCE 5 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9543
+#EXTINF:-1,FRANCE 5 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51175
+#EXTINF:-1,M6
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9260
+#EXTINF:-1,M6 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15154
+#EXTINF:-1,M6 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9531
+#EXTINF:-1,M6 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51174
+#EXTINF:-1,ARTE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9354
+#EXTINF:-1,ARTE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15212
+#EXTINF:-1,ARTE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9590
+#EXTINF:-1,C8
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9293
+#EXTINF:-1,C8 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15232
+#EXTINF:-1,C8 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9574
+#EXTINF:-1,C8 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51171
+#EXTINF:-1,W9
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9372
+#EXTINF:-1,W9 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15111
+#EXTINF:-1,W9 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9488
+#EXTINF:-1,TFX
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50639
+#EXTINF:-1,TFX HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50640
+#EXTINF:-1,TFX FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50641
+#EXTINF:-1,TFX FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51168
+#EXTINF:-1,CSTAR
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15182
+#EXTINF:-1,CSTAR HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9561
+#EXTINF:-1,CSTAR FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51151
+#EXTINF:-1,FRANCE O
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9272
+#EXTINF:-1,FRANCE O HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15165
+#EXTINF:-1,FRANCE O FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9542
+#EXTINF:-1,6TER
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9364
+#EXTINF:-1,6TER HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15216
+#EXTINF:-1,6TER FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9595
+#EXTINF:-1,CHERIE 25
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9313
+#EXTINF:-1,CHERIE 25 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15188
+#EXTINF:-1,CHERIE 25 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9572
+#EXTINF:-1,PARIS PREMIERE FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51129
+#EXTINF:-1,ARTE FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51154
+#EXTINF:-1,HD 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15159
+#EXTINF:-1,CANAL SD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/32155
+#EXTINF:-1,CANAL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9324
+#EXTINF:-1,CANAL FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9579
+#EXTINF:-1,CANAL FHD H265
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51165
+#EXTINF:-1,CANAL CINEMA
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9332
+#EXTINF:-1,CANAL CINEMA HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15195
+#EXTINF:-1,CANAL CINEMA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9582
+#EXTINF:-1,CANAL DECALE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9331
+#EXTINF:-1,CANAL DECALE  HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15194
+#EXTINF:-1,CANAL DECALE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9581
+#EXTINF:-1,CANAL FAMILY
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9330
+#EXTINF:-1,CANAL FAMILY HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15193
+#EXTINF:-1,CANAL FAMILY FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9580
+#EXTINF:-1,CANAL SERIE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9328
+#EXTINF:-1,CANAL SERIE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15192
+#EXTINF:-1,CANAL SERIE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9578
+#EXTINF:-1,ALTICE STUDIO
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40882
+#EXTINF:-1,ALTICE STUDIO HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40881
+#EXTINF:-1,ALTICE STUDIO FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40880
+#EXTINF:-1,OCS CHOC
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9247
+#EXTINF:-1,OCS CHOC HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15140
+#EXTINF:-1,OCS CHOC FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9518
+#EXTINF:-1,OCS CITY
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9246
+#EXTINF:-1,OCS CITY HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15223
+#EXTINF:-1,OCS CITY FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9517
+#EXTINF:-1,OCS GEANT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9245
+#EXTINF:-1,OCS GEANTS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15139
+#EXTINF:-1,OCS GEANTS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9516
+#EXTINF:-1,OCS MAX
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9244
+#EXTINF:-1,OCS MAX HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15222
+#EXTINF:-1,OCS MAX FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9515
+#EXTINF:-1,CANAL PLAY 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9322
+#EXTINF:-1,CANAL PLAY 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9321
+#EXTINF:-1,CANAL PLAY 3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9320
+#EXTINF:-1,CANAL PLAY 4
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9319
+#EXTINF:-1,CANAL PLAY 5
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9318
+#EXTINF:-1,CANAL PLAY 6
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9317
+#EXTINF:-1,CANAL PLAY 7
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9316
+#EXTINF:-1,CINE CLASSIC
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9311
+#EXTINF:-1,CINE CLASSIC HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15187
+#EXTINF:-1,CINE CLASSIC FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9570
+#EXTINF:-1,CINE EMOTION
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9309
+#EXTINF:-1,CINE EMOTION HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15186
+#EXTINF:-1,CINE EMOTION FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9568
+#EXTINF:-1,CINE FAMIZ
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9307
+#EXTINF:-1,CINE FAMIZ HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9306
+#EXTINF:-1,CINE FAMIZ FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9567
+#EXTINF:-1,CINE FRISSON
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9304
+#EXTINF:-1,CINE FRISSON HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15185
+#EXTINF:-1,CINE FRISSON FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9303
+#EXTINF:-1,CINE FRISSON FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9566
+#EXTINF:-1,CINE FX
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9302
+#EXTINF:-1,CINE FX FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9565
+#EXTINF:-1,CINE POLAR
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9301
+#EXTINF:-1,CINE POLAR FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9564
+#EXTINF:-1,CINE PREMIER
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9300
+#EXTINF:-1,CINE PREMIER HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15230
+#EXTINF:-1,CINE PREMIER FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9571
+#EXTINF:-1,CINE PREMIER FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9299
+#EXTINF:-1,ACTION
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9356
+#EXTINF:-1,ACTION HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15214
+#EXTINF:-1,ACTION FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9592
+#EXTINF:-1,TMC
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9194
+#EXTINF:-1,TMC FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15119
+#EXTINF:-1,TMC+1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9494
+#EXTINF:-1,TCM CINEMA
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59874
+#EXTINF:-1,TCM CINEMA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9195
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9240
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15138
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9514
+#EXTINF:-1,CINE CLASSIC FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50886
+#EXTINF:-1,CANAL+ HD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15196
+#EXTINF:-1,CINE CLUB FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50883
+#EXTINF:-1,CINE CLUB FULL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9569
+#EXTINF:-1,ORANGE CINE 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15247
+#EXTINF:-1,ORANGE CINE 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15246
+#EXTINF:-1,ORANGE CINE 3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15245
+#EXTINF:-1,ORANGE CINE 4
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15244
+#EXTINF:-1,ORANGE CINE 5
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15243
+#EXTINF:-1,ORANGE CINE ACTION HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15239
+#EXTINF:-1,ORANGE CINE AVENTURE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15238
+#EXTINF:-1,ORANGE CINE AVENTURE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15237
+#EXTINF:-1,A LA CARTE 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9201
+#EXTINF:-1,A LA CARTE 2
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9242
+#EXTINF:-1,A LA CARTE 3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9200
+#EXTINF:-1,A LA CARTE 4
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9199
+#EXTINF:-1,A LA CARTE 5
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9203
+#EXTINF:-1,A LA CARTE 6
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9202
+#EXTINF:-1,A LA CARTE 7
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9362
+#EXTINF:-1,A LA CARTE 8
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9361
+#EXTINF:-1,A LA CARTE 9
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9360
+#EXTINF:-1,A LA CARTE 10
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9363
+#EXTINF:-1,NRJ12
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15142
+#EXTINF:-1, NRJ12 HD.
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9366
+#EXTINF:-1,NRJ12 FULL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9521
+#EXTINF:-1,TV5 MONDE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51170
+#EXTINF:-1,TEVA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9212
+#EXTINF:-1,PARIS PREMIERE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15137
+#EXTINF:-1,PARIS PREMIERE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9238
+#EXTINF:-1,RTL9
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9374
+#EXTINF:-1,RTL9 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15130
+#EXTINF:-1,RTL9 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9507
+#EXTINF:-1,TV BREIZH
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9206
+#EXTINF:-1,TV BREIZH HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15116
+#EXTINF:-1,TV BREIZH FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9491
+#EXTINF:-1,TV BREIZH FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51119
+#EXTINF:-1,BET ETOILE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51153
+#EXTINF:-1,AB1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15233
+#EXTINF:-1,AB1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9594
+#EXTINF:-1,AB3
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9357
+#EXTINF:-1,AB3 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15215
+#EXTINF:-1,AB3 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9593
+#EXTINF:-1,SERIE CLUB HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9226
+#EXTINF:-1,13EME RUE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9365
+#EXTINF:-1,13EME RUE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15217
+#EXTINF:-1,13EME RUE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9596
+#EXTINF:-1,SYFY
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9214
+#EXTINF:-1,SYFY HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15123
+#EXTINF:-1,SYFY FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9498
+#EXTINF:-1,SYFY FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9213
+#EXTINF:-1,E! ENTERTAINMENT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15175
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9285
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9553
+#EXTINF:-1,MY CUISINE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30818
+#EXTINF:-1,COMEDIE PLUS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9297
+#EXTINF:-1,COMEDIE PLUS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15183
+#EXTINF:-1,COMEDIE PLUS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9563
+#EXTINF:-1,TEVA
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/49805
+#EXTINF:-1,TEVA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/49804
+#EXTINF:-1,WARNER TV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9268
+#EXTINF:-1,WARNER TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9267
+#EXTINF:-1,MELODY TV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/48042
+#EXTINF:-1,MELODY TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62227
+#EXTINF:-1,SUNDANCE TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51122
+#EXTINF:-1,MY CUISINE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/57358
+#EXTINF:-1,NOVELAS TV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62893
+#EXTINF:-1, LA CHAINE DU PERE NOEL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62896
+#EXTINF:-1,MY COMEDY TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62914
+#EXTINF:-1,FASHION TV UHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62918
+#EXTINF:-1,MY ZEN TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62919
+#EXTINF:-1,RTS DEUX FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9506
+#EXTINF:-1,KTO TV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/63011
+#EXTINF:-1,NON STOP PEOPLE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/63169
+#EXTINF:-1,VICELAND FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30762
+#EXTINF:-1,ONE TV HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/69203
+#EXTINF:-1,W9 FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51173
+#EXTINF:-1,BABY TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62903
+#EXTINF:-1,DISNEY+ FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/83635
+#EXTINF:-1,DISNEY CHANNEL
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9290
+#EXTINF:-1,DISNEY CHANNEL HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15178
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9557
+#EXTINF:-1,DISNEY CHANNEL +1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62898
+#EXTINF:-1,DISNEY JUNIOR
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9369
+#EXTINF:-1,DISNEY JUNIOR HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15177
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9287
+#EXTINF:-1,DISNEY JUNIOR FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9555
+#EXTINF:-1,DISNEY CINEMA
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9288
+#EXTINF:-1,DISNEY CINEMA HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15229
+#EXTINF:-1,DISNEY CINEMA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9556
+#EXTINF:-1,DISNEY XD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9286
+#EXTINF:-1,DISNEY XD HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15176
+#EXTINF:-1,DISNEY XD FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9554
+#EXTINF:-1,NICKELODEON
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9251
+#EXTINF:-1,NICKELODEON HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15143
+#EXTINF:-1,NICKELODEON FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9522
+#EXTINF:-1,NICKELODEON +1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62899
+#EXTINF:-1,NICKELODEON JUNIOR
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9250
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9252
+#EXTINF:-1,NICKELODEON JUNIOR FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15225
+#EXTINF:-1,NICKELODEON 4 TEEN
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/49802
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/49801
+#EXTINF:-1,TELETOON +
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9373
+#EXTINF:-1,TELETOON + FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9496
+#EXTINF:-1,PIWI
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9237
+#EXTINF:-1,PIWI HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15136
+#EXTINF:-1,PIWI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9513
+#EXTINF:-1,CANAL J
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9323
+#EXTINF:-1,CANAL J HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15231
+#EXTINF:-1,CANAL J FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9576
+#EXTINF:-1,TIJI
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9209
+#EXTINF:-1,TIJI HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15120
+#EXTINF:-1,TIJI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9495
+#EXTINF:-1,BOOMERANG
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9334
+#EXTINF:-1,BOOMERANG HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15198
+#EXTINF:-1,BOOMERANG FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9583
+#EXTINF:-1,BOING
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9335
+#EXTINF:-1,BOING HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15199
+#EXTINF:-1,BOING FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9584
+#EXTINF:-1,CARTOON NETWORK
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9315
+#EXTINF:-1,CARTOON NETWORK HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9371
+#EXTINF:-1,CARTOON NETWORK FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15190
+#EXTINF:-1,CARTOON NETWORK FHD BKP
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9573
+#EXTINF:-1,GAME ONE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9271
+#EXTINF:-1,GAME ONE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15163
+#EXTINF:-1,GAME ONE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9541
+#EXTINF:-1,GULLI
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9269
+#EXTINF:-1,GULLI HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15160
+#EXTINF:-1,GULLI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9538
+#EXTINF:-1,MANGAS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9257
+#EXTINF:-1,MANGAS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15152
+#EXTINF:-1,MANGA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9530
+#EXTINF:-1,MANGAS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51137
+#EXTINF:-1,J ONE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30600
+#EXTINF:-1,TOONAMI
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/46532
+#EXTINF:-1,TOONAMI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50674
+#EXTINF:-1,GAME ONE +1 FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62910
+#EXTINF:-1,PLANETE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9236
+#EXTINF:-1,PLANETE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15135
+#EXTINF:-1,PLANETE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9512
+#EXTINF:-1,PLANETE A&E
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9235
+#EXTINF:-1,PLANETE A&E HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15134
+#EXTINF:-1,PLANETE A&E FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9511
+#EXTINF:-1,PLANETE CI
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9234
+#EXTINF:-1,PLANETE CI HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15133
+#EXTINF:-1,PLANETE CI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9510
+#EXTINF:-1,DISCOVERY INVESTIGATION
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51141
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9559
+#EXTINF:-1,DISCOVERY INVESTIGATION FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51142
+#EXTINF:-1,DISCOVERY
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9292
+#EXTINF:-1,DISCOVERY HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15180
+#EXTINF:-1,DISCOVERY FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9560
+#EXTINF:-1,DISCOVERY FAMILY
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51144
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30662
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51143
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9291
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15179
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9558
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9368
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15144
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9523
+#EXTINF:-1,NATIONAL GEO WILD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9367
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15145
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9524
+#EXTINF:-1,SCIENCES ET VIE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9228
+#EXTINF:-1,SCIENCES ET VIE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15129
+#EXTINF:-1,SCIENCES ET VIE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9504
+#EXTINF:-1,ANIMAUX
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9355
+#EXTINF:-1,ANIMAUX HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15213
+#EXTINF:-1,ANIMAUX FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9591
+#EXTINF:-1,USHUAIA
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9205
+#EXTINF:-1,USHUAIA HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15115
+#EXTINF:-1,USHUAIA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9490
+#EXTINF:-1,RMC DECOUVERTE 
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15131
+#EXTINF:-1,RMC DECOUVERTE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9233
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9508
+#EXTINF:-1,VOYAGE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9191
+#EXTINF:-1,VOYAGE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15112
+#EXTINF:-1,VOYAGE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9489
+#EXTINF:-1,TREK
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9193
+#EXTINF:-1,TREK HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15117
+#EXTINF:-1,TREK FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9492
+#EXTINF:-1,CHASSE & PECHE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15189
+#EXTINF:-1,CHASSE & PECHE HD BKP.
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9314
+#EXTINF:-1,CHASSE & PECHE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51149
+#EXTINF:-1,SEASON
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9227
+#EXTINF:-1,SEASON HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15128
+#EXTINF:-1,SEASON FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9503
+#EXTINF:-1,CRIME DISTRICT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9296
+#EXTINF:-1,CRIME DISTRICT FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9562
+#EXTINF:-1,HISTOIRE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15158
+#EXTINF:-1,HISTOIRE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9536
+#EXTINF:-1,TOUTE LHISTOIRE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15118
+#EXTINF:-1,TOUTE LHISTOIRE FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9208
+#EXTINF:-1,CRIME DISTRICT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51136
+#EXTINF:-1,CRIME DISTRICT HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51145
+#EXTINF:-1,ORANGE ENQUETE EXCLUSIVE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9241
+#EXTINF:-1,ORANGE COMMENT C'EST FAIT
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15236
+#EXTINF:-1,VICELAND FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51117
+#EXTINF:-1,MUSEUM CHANNEL
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62894
+#EXTINF:-1,TV5 MONDE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9192
+#EXTINF:-1,EURONEWS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9376
+#EXTINF:-1,EURONEWS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51147
+#EXTINF:-1,FRANCE 24
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9197
+#EXTINF:-1,FRANCE 24 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15164
+#EXTINF:-1,FRANCE INFO
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15166
+#EXTINF:-1,FRANCE INFO FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/43444
+#EXTINF:-1,I24 NEWS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/97583
+#EXTINF:-1,I24 NEWS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9535
+#EXTINF:-1,BFM TV
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9336
+#EXTINF:-1,BFM TV HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15201
+#EXTINF:-1,BFM TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9585
+#EXTINF:-1,BFM BUSINESS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9338
+#EXTINF:-1,BFM BUSINESS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15200
+#EXTINF:-1,BFM BUSINESS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9586
+#EXTINF:-1,LCI
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9261
+#EXTINF:-1,LCI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9532
+#EXTINF:-1,LCP ASSEMBLEE NATIONALE
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51139
+#EXTINF:-1,C NEWS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15197
+#EXTINF:-1,C NEWS
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9575
+#EXTINF:-1,M6 MUSIC FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15153
+#EXTINF:-1,TRACE NAIJA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9207
+#EXTINF:-1,TRACE TOCA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15218
+#EXTINF:-1,TRACE MZIKI FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9493
+#EXTINF:-1,MTV HITS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15146
+#EXTINF:-1,MTV HITS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9525
+#EXTINF:-1,MCM HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15151
+#EXTINF:-1,MCM TOP HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9255
+#EXTINF:-1,RFM TV HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15132
+#EXTINF:-1,RFM TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9509
+#EXTINF:-1,NRJ HITS HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51113
+#EXTINF:-1,NRJ HITS FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9249
+#EXTINF:-1,MEZZO HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15149
+#EXTINF:-1,MEZZO LIVE HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/15148
+#EXTINF:-1,CLUBBING TV HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/49803
+#EXTINF:-1,NRJ 12 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51134
+#EXTINF:-1,BET
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9256
+#EXTINF:-1,BET FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/9529
+#EXTINF:-1,MTV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51108
+#EXTINF:-1,MTV HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51109
+#EXTINF:-1,MCM TOP FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51111
+#EXTINF:-1,CLIQUE TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/57520
+#EXTINF:-1,TRACE LATINA FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62920
+#EXTINF:-1,OKLM FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62921
+#EXTINF:-1,VH1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62922
+#EXTINF:-1,VH1 CLASSIC
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62923
+#EXTINF:-1,MELODY HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/51115
+#EXTINF:-1,DJAZZ TV FHD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/62924
