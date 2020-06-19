@@ -1,109 +1,199 @@
 #EXTM3U
-#EXTINF:-1,Boa Vontade TV
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
-#EXTINF:-1,Canal Ricos
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1,Canção Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1,Canção Nova
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-#EXTINF:-1,Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,FM O Dia
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,In Paradise TV
-https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8?fluxustv.m3u8
-#EXTINF:-1,Itú TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1,Novo Tempo
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1,Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1,Novo Tempo
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1,RCI
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1,Rede Metropole
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
-#EXTINF:-1,Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1,Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
-#EXTINF:-1,Rede Século 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1,Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1,RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1,RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-#EXTINF:-1,RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1,RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1,RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1,RedeTV!
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1,SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1,Sesc TV
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
-#EXTINF:-1,Summer TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
-#EXTINF:-1,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
-#EXTINF:-1,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
-#EXTINF:-1,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
-#EXTINF:-1,TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-#EXTINF:-1,TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1,TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1,TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8
-#EXTINF:-1,TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
-#EXTINF:-1,TV Educativa de Porto Alegre
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,TV Faap
-http://bit.ly/2CyHmr0
-#EXTINF:-1,TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1,TV Gidoes
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-#EXTINF:-1,TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1,TV Paraná
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,TV Transamérica
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8
-#EXTINF:-1,TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1,TVCI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1,TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,Web TV Minas
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1,A&E HD
+http://uruguayiptv.com:25461/Enrique/enrique/11309
+#EXTINF:-1,ANIMAL PLANET HD
+http://uruguayiptv.com:25461/Enrique/enrique/11310
+#EXTINF:-1,ARTE 1 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11311
+#EXTINF:-1,AXN HD
+http://uruguayiptv.com:25461/Enrique/enrique/11312
+#EXTINF:-1,BAND HD
+http://uruguayiptv.com:25461/Enrique/enrique/11313
+#EXTINF:-1,BAND NEWS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11314
+#EXTINF:-1,BAND SPORTS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11315
+#EXTINF:-1,BIS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11316
+#EXTINF:-1,BOOMERANG HD
+http://uruguayiptv.com:25461/Enrique/enrique/11317
+#EXTINF:-1,CANAL BRASIL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11318
+#EXTINF:-1,NOVO TEMPO
+http://uruguayiptv.com:25461/Enrique/enrique/11319
+#EXTINF:-1,CARTOON NETWORK HD
+http://uruguayiptv.com:25461/Enrique/enrique/11320
+#EXTINF:-1,CINEMAX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11321
+#EXTINF:-1,COMEDY CENTRAL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11322
+#EXTINF:-1,CURTA! HD
+http://uruguayiptv.com:25461/Enrique/enrique/11323
+#EXTINF:-1,DISCOVERY CH. HD
+http://uruguayiptv.com:25461/Enrique/enrique/11324
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://uruguayiptv.com:25461/Enrique/enrique/11325
+#EXTINF:-1,DISCOVERY H&H HD
+http://uruguayiptv.com:25461/Enrique/enrique/11326
+#EXTINF:-1,DISCOVERY ID HD
+http://uruguayiptv.com:25461/Enrique/enrique/11327
+#EXTINF:-1,DISCOVERY KIDS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11328
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11329
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://uruguayiptv.com:25461/Enrique/enrique/11330
+#EXTINF:-1,DISCOVERY TURBO HD
+http://uruguayiptv.com:25461/Enrique/enrique/11331
+#EXTINF:-1,DISCOVERY WORLD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11332
+#EXTINF:-1,DISNEY CHANNEL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11333
+#EXTINF:-1,DISNEY JUNIOR HD
+http://uruguayiptv.com:25461/Enrique/enrique/11334
+#EXTINF:-1,DISNEY XD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11335
+#EXTINF:-1,E! HD
+http://uruguayiptv.com:25461/Enrique/enrique/11336
+#EXTINF:-1,ESPN 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11337
+#EXTINF:-1,ESPN HD
+http://uruguayiptv.com:25461/Enrique/enrique/11338
+#EXTINF:-1,FISH TV HD
+http://uruguayiptv.com:25461/Enrique/enrique/11339
+#EXTINF:-1,FOX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11340
+#EXTINF:-1,FOX LIFE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11341
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11342
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11343
+#EXTINF:-1,FOX SPORTS 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11344
+#EXTINF:-1,FUTURA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11345
+#EXTINF:-1,FX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11346
+#EXTINF:-1, RIO  FHD
+http://uruguayiptv.com:25461/Enrique/enrique/11347
+#EXTINF:-1,GLOOB HD
+http://uruguayiptv.com:25461/Enrique/enrique/11348
+#EXTINF:-1,GNT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11349
+#EXTINF:-1,HBO 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11350
+#EXTINF:-1,HBO FAMILY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11351
+#EXTINF:-1,HBO HD
+http://uruguayiptv.com:25461/Enrique/enrique/11352
+#EXTINF:-1,HBO PLUS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11353
+#EXTINF:-1,HBO SIGNATURE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11354
+#EXTINF:-1,HISTORY 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11355
+#EXTINF:-1,HISTORY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11356
+#EXTINF:-1,LIFETIME HD
+http://uruguayiptv.com:25461/Enrique/enrique/11357
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11358
+#EXTINF:-1,MAX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11359
+#EXTINF:-1,MAX PRIME HD
+http://uruguayiptv.com:25461/Enrique/enrique/11360
+#EXTINF:-1,MAX UP HD
+http://uruguayiptv.com:25461/Enrique/enrique/11361
+#EXTINF:-1,MEGAPIX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11362
+#EXTINF:-1,MULTISHOW HD
+http://uruguayiptv.com:25461/Enrique/enrique/11364
+#EXTINF:-1,NAT GEO KIDS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11365
+#EXTINF:-1,NAT GEO WILD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11366
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://uruguayiptv.com:25461/Enrique/enrique/11367
+#EXTINF:-1,NICK JR HD
+http://uruguayiptv.com:25461/Enrique/enrique/11368
+#EXTINF:-1,NICKELODEON HD
+http://uruguayiptv.com:25461/Enrique/enrique/11369
+#EXTINF:-1,OFF HD
+http://uruguayiptv.com:25461/Enrique/enrique/11370
+#EXTINF:-1,PARAMOUNT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11371
+#EXTINF:-1,PREMIERE 1 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11373
+#EXTINF:-1,PREMIERE 3 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11374
+#EXTINF:-1,PREMIERE 6 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11375
+#EXTINF:-1,PREMIERE 7 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11376
+#EXTINF:-1,PREMIERE 8 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11377
+#EXTINF:-1,RECORD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11379
+#EXTINF:-1,RECORD NEWS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11380
+#EXTINF:-1,REDE TV HD
+http://uruguayiptv.com:25461/Enrique/enrique/11382
+#EXTINF:-1,REDE VIDA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11383
+#EXTINF:-1,SBT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11384
+#EXTINF:-1,SONY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11385
+#EXTINF:-1,SPACE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11386
+#EXTINF:-1,SPORTV 3 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11387
+#EXTINF:-1,SPORTV HD
+http://uruguayiptv.com:25461/Enrique/enrique/11388
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11389
+#EXTINF:-1,SYFY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11390
+#EXTINF:-1,TBS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11391
+#EXTINF:-1,TCM HD
+http://uruguayiptv.com:25461/Enrique/enrique/11392
+#EXTINF:-1,TELECINE ACTION HD
+http://uruguayiptv.com:25461/Enrique/enrique/11393
+#EXTINF:-1,TELECINE CULT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11394
+#EXTINF:-1,TELECINE FUN HD
+http://uruguayiptv.com:25461/Enrique/enrique/11395
+#EXTINF:-1,TELECINE PIPOCA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11396
+#EXTINF:-1,TELECINE PREMIUM HD
+http://uruguayiptv.com:25461/Enrique/enrique/11397
+#EXTINF:-1,TELECINE TOUCH HD
+http://uruguayiptv.com:25461/Enrique/enrique/11398
+#EXTINF:-1,TLC HD
+http://uruguayiptv.com:25461/Enrique/enrique/11399
+#EXTINF:-1,TNT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11400
+#EXTINF:-1,TNT SERIES HD
+http://uruguayiptv.com:25461/Enrique/enrique/11401
+#EXTINF:-1,TOONCAST HD
+http://uruguayiptv.com:25461/Enrique/enrique/11402
+#EXTINF:-1,TRAVEL BOX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11403
+#EXTINF:-1,TV CÂMARA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11405
+#EXTINF:-1,TV ESCOLA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11407
+#EXTINF:-1,TV GAZETA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11408
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11409
+#EXTINF:-1,VH1
+http://uruguayiptv.com:25461/Enrique/enrique/11410
+#EXTINF:-1,VIVA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11411
+#EXTINF:-1,WARNER HD
+http://uruguayiptv.com:25461/Enrique/enrique/11412
+#EXTINF:-1,WOOHOO HD
+http://uruguayiptv.com:25461/Enrique/enrique/11413
