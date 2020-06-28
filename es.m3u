@@ -1,127 +1,189 @@
 #EXTM3U
-#EXTINF:-1,24 Horas
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-#EXTINF:-1,25 Televisio
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-#EXTINF:-1,3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1,7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,13 TV
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-#EXTINF:-1,13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1,A Punt
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-#EXTINF:-1,Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?
-#EXTINF:-1,Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1,Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1,Beteve
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-#EXTINF:-1,Betis TV
-http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
-#EXTINF:-1,Canaria SAT
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1,Cancionero TV
-http://89.140.99.41/hls/1080.m3u8?
-#EXTINF:-1,Ceuta TV
-http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:-1,Costa del Sol TV
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:-1,Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-#EXTINF:-1,Emporda TV
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1,Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:-1,ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1,Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
-#EXTINF:-1,Fight Time
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?
-#EXTINF:-1,Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1,Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-#EXTINF:-1,IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:-1,Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1,Imas TV
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:-1,Informacion TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1,La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:-1,La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1,La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1,Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,#0 SD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51609
+#EXTINF:-1,#0 FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51610
+#EXTINF:-1,#VAMOS
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51678
+#EXTINF:-1,La 1 HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/358
+#EXTINF:-1,La 1 FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48665
+#EXTINF:-1,La 2 HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/359
+#EXTINF:-1,Antena 3 HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2253
+#EXTINF:-1,Antena 3 FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48666
+#EXTINF:-1,CUATRO HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2254
+#EXTINF:-1,Cuatro FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48667
+#EXTINF:-1,TELECINCO HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2255
+#EXTINF:-1,Telecinco FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48668
+#EXTINF:-1,LA SEXTA HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2256
+#EXTINF:-1,LA SEXTA FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/49863
+#EXTINF:-1,Movistar Accion HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51574
+#EXTINF:-1,Movistar Accion FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51569
+#EXTINF:-1,Movistar Drama HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51573
+#EXTINF:-1,Movistar Drama FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51572
+#EXTINF:-1,MOVISTAR SERIES HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/361
+#EXTINF:-1,MOVISTAR SERIES FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/50078
+#EXTINF:-1,MOVISTAR DCINE HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/364
+#EXTINF:-1,Movistar CineN HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/4225
+#EXTINF:-1,Disney Channel FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/50080
+#EXTINF:-1,Movistar Estrenos HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/363
+#EXTINF:-1,Movistar Estrenos FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/52044
+#EXTINF:-1,MOVISTAR CineDoc&Roll HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1221
+#EXTINF:-1,MOVISTAR CineDoc&Roll FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/50081
+#EXTINF:-1,Movistar Comedia FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51570
+#EXTINF:-1,Movistar Seriesmania FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51571
+#EXTINF:-1,MOVISTAR F1 FulHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/353
+#EXTINF:-1,Movistar Golf
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/350
+#EXTINF:-1,Movistar Deportes 1
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/351
+#EXTINF:-1,Movistar DEPORTES 2
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1211
+#EXTINF:-1,Canal+ COCINA
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/367
+#EXTINF:-1,CANAL ORBE21 SD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/4402
+#EXTINF:-1,CANAL PANDA
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/4401
+#EXTINF:-1,Canal+ Toros
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/366
+#EXTINF:-1,LIGA TV BAR
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/348
+#EXTINF:-1,FOX HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1224
+#EXTINF:-1,FOX LIFE HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1223
+#EXTINF:-1,FOX NEWS
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/4403
+#EXTINF:-1,Comedy Central HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1225
+#EXTINF:-1,Comedy Central FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48513
+#EXTINF:-1,CALLE 13 HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1222
+#EXTINF:-1,CALLE 13 FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48427
+#EXTINF:-1,Hollywood HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1219
+#EXTINF:-1,Hollywood FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48430
+#EXTINF:-1,Syfy HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/368
+#EXTINF:-1,Syfy FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48432
+#EXTINF:-1,TNT HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2380
+#EXTINF:-1,TNT FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48434
+#EXTINF:-1,NOVA
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/49742
+#EXTINF:-1,Mega
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/49743
+#EXTINF:-1,ANDALUCIA TV
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/50087
+#EXTINF:-1,Gol TV
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/50089
+#EXTINF:-1,A3SERIES FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/49744
+#EXTINF:-1,Odisea HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2381
+#EXTINF:-1,National Geographic HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2382
+#EXTINF:-1,National Geographic FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48437
+#EXTINF:-1,NatGeo Wild HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2383
+#EXTINF:-1,Nat Geo Wild FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48439
+#EXTINF:-1,AMC FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/50088
+#EXTINF:-1,AXN HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2388
+#EXTINF:-1,AXN FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48443
+#EXTINF:-1,AXN White HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2387
+#EXTINF:-1,AXN White FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48441
+#EXTINF:-1,Bein Sports España HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1210
+#EXTINF:-1,Bein Sports España FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48447
+#EXTINF:-1,Bein LaLiga bar HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2010
+#EXTINF:-1,Bein LaLiga bar FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/48445
+#EXTINF:-1,Real Madrid HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1214
+#EXTINF:-1,BARCA TV HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1215
+#EXTINF:-1,TCM FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1217
+#EXTINF:-1,NEOX HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1212
+#EXTINF:-1,Paramount Channel
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/1213
+#EXTINF:-1,Taquilla 1
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/391
+#EXTINF:-1,Taquilla 2
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/392
+#EXTINF:-1,Taquilla 3
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/393
+#EXTINF:-1,Taquilla 4
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/394
+#EXTINF:-1,Taquilla 5
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/395
+#EXTINF:-1,Taquilla 6
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/396
+#EXTINF:-1,Taquilla 7
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/397
+#EXTINF:-1,Taquilla 8
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/398
+#EXTINF:-1,Taquilla 9
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/2590
 #EXTINF:-1,Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1,LifeTV
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF:-1,Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:-1,Miami TV Espana
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
-#EXTINF:-1,Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1,Navarra TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1,Navarra TV
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1,Onda Algeciras
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:0,PequeRadio TV
-http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
-#EXTINF:-1,RMadrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Ribera TV
-http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:-1,RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1,RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1,San Roque TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1,Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1,TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1,TeleBilbao
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:-1,TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1,Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1,TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1,TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1,TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1,TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1,TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1,TV Galicia America
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0,TVG Xabarin
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-#EXTINF:-1,Vega Baja TV
-http://185.29.68.24/tvb.m3u8
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51567
+#EXTINF:-1,HISTORIA HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51568
+#EXTINF:-1,7RM FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51575
+#EXTINF:-1,BEMAD FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51576
+#EXTINF:-1,CLAN TV FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51577
+#EXTINF:-1,COSMO FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51578
+#EXTINF:-1,RTVC
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51579
+#EXTINF:-1,7RM HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51680
+#EXTINF:-1,24 HORAS
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51679
+#EXTINF:-1,La 2 FullHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/52206
