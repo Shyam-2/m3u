@@ -1,53 +1,225 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Legislative",ARTV | Canal Parlamento
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (HQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (LQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (MQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (Backup)
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional (Backup)
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" group-title="",RTP Memória [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General",RTP2 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV (Backup)
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1,24 Kitchen
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23801
+#EXTINF:-1,A&E
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23780
+#EXTINF:-1,ARTV PARLAMENTO
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23777
+#EXTINF:-1,CANAL Q
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23773
+#EXTINF:-1,CBS REALITY
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23771
+#EXTINF:-1,E! ENTERTAINMENT
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23768
+#EXTINF:-1,GLOBO NOW
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23876
+#EXTINF:-1,RTP 1 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23883
+#EXTINF:-1,RTP 2 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23881
+#EXTINF:-1,SIC MULHER HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23866
+#EXTINF:-1,SIC RADICAL
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23864
+#EXTINF:-1,TLC
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23753
+#EXTINF:-1,GLOBO TV HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23875
+#EXTINF:-1,TV RECORD PORTUGAL
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23874
+#EXTINF:-1,TVI
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23877
+#EXTINF:-1,TVI HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23878
+#EXTINF:-1,TVI REALITY
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23871
+#EXTINF:-1,BLOOMBERG
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23774
+#EXTINF:-1,CMTV HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23770
+#EXTINF:-1,CNN
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23769
+#EXTINF:-1,Euronews
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23767
+#EXTINF:-1,RECORD NEWS
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23873
+#EXTINF:-1,RTP ACORES
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23870
+#EXTINF:-1,RTP AFRICA
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23869
+#EXTINF:-1,RTP MADEIRA
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23868
+#EXTINF:-1,RTP MEMORIA
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23867
+#EXTINF:-1,RTP 3 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23862
+#EXTINF:-1,SIC HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23879
+#EXTINF:-1,SIC CARAS HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88856
+#EXTINF:-1,SIC NOTICIAS HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23863
+#EXTINF:-1,TVI 24h
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23752
+#EXTINF:-1,TVI 24
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23861
+#EXTINF:-1,A BOLA TV
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23842
+#EXTINF:-1,BENFICA TV 1
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23843
+#EXTINF:-1,BENFICA TV 1 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23845
+#EXTINF:-1,BENFICA TV 1 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23844
+#EXTINF:-1,EUROSPORT 1
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23838
+#EXTINF:-1,EUROSPORT 1 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23839
+#EXTINF:-1,EUROSPORT 2
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23837
+#EXTINF:-1,FUEL TV HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23763
+#EXTINF:-1,KOMBAT SPORT
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23761
+#EXTINF:-1,MOTORSPORT.TV
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23757
+#EXTINF:-1,MOTORVISION
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23756
+#EXTINF:-1,PFC
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23835
+#EXTINF:-1,Real Madrid TV
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23836
+#EXTINF:-1,SPORT TV NBA HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23759
+#EXTINF:-1,SPORTING TV HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23840
+#EXTINF:-1,SPORTV 1
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88863
+#EXTINF:-1,SPORTV 1 FHD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23860
+#EXTINF:-1,SPORTV 2
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88862
+#EXTINF:-1,SPORTV 2 FHD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23859
+#EXTINF:-1,SPORTV 3
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88861
+#EXTINF:-1,SPORTV 3 FHD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23851
+#EXTINF:-1,SPORTV 4
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88860
+#EXTINF:-1,SPORTV 4 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88859
+#EXTINF:-1,SPORTV 4 FHD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23857
+#EXTINF:-1,SPORTV 5
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88858
+#EXTINF:-1,SPORTV 5 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88857
+#EXTINF:-1,SPORTV 5 FHD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23856
+#EXTINF:-1,SPORTV+ HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23858
+#EXTINF:-1,Eleven Sport 1 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/71093
+#EXTINF:-1,Eleven Sport 2 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/71094
+#EXTINF:-1,Eleven Sport 3 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/71095
+#EXTINF:-1,Eleven Sport 4 HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/71096
+#EXTINF:-1,Eleven Sport 5
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/71097
+#EXTINF:-1,Eleven Sport 6
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/71098
+#EXTINF:-1,TOROS TV
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23766
+#EXTINF:-1,AMC HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23779
+#EXTINF:-1,AXN BLACK HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23817
+#EXTINF:-1,AXN HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23822
+#EXTINF:-1,AXN WHITE HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23816
+#EXTINF:-1,CINEMUNDO HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23813
+#EXTINF:-1,Fox Comedy HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23811
+#EXTINF:-1,FOX COMEDY
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23821
+#EXTINF:-1,FOX CRIME
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23820
+#EXTINF:-1,FOX HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23819
+#EXTINF:-1,FOX LIFE
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23823
+#EXTINF:-1,FOX MOVIES HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23818
+#EXTINF:-1,HOLLYWOD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23824
+#EXTINF:-1,SYFY HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23825
+#EXTINF:-1,TV CINE 1
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23809
+#EXTINF:-1,TV CINE 2
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23808
+#EXTINF:-1,TV CINE 3
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23807
+#EXTINF:-1,TV CINE 4
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23826
+#EXTINF:-1,TV CINE EDITION HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23827
+#EXTINF:-1,TV CINE ACTION HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23829
+#EXTINF:-1,TV CINE EMOTION HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23828
+#EXTINF:-1,TV CINE TOP HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/88864
+#EXTINF:-1,TV SERIES
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23831
+#EXTINF:-1,BABY TV
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23794
+#EXTINF:-1,CANAL PANDA
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23795
+#EXTINF:-1,DISNEY CHANNEL
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23790
+#EXTINF:-1,DISNEY JUNIOR
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23789
+#EXTINF:-1,JIM JAM
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23788
+#EXTINF:-1,NICKELODEON
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23786
+#EXTINF:-1,BIGGS
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23787
+#EXTINF:-1,SIC KIDS HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23792
+#EXTINF:-1,AFRO MUSIC
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23785
+#EXTINF:-1,MCM POP
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23760
+#EXTINF:-1,MTV Portugal
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23762
+#EXTINF:-1,TRACE URBAN
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23781
+#EXTINF:-1,VH1
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23783
+#EXTINF:-1,CACA E PESCA
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23798
+#EXTINF:-1,CACA VISION
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23796
+#EXTINF:-1,CANAL HISTORIA
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23797
+#EXTINF:-1,DISCOVERY CHANNEL
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23800
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23799
+#EXTINF:-1,NAT GEO WILD HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23805
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23804
+#EXTINF:-1,ODISSEIA HD
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23802
+#EXTINF:-1,TRAVEL CHANNEL
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23803
+#EXTINF:-1,Cancao Nova
+http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/23772
