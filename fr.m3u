@@ -1,7 +1,109 @@
 #EXTM3U
+#EXTINF:-1,TF1 FHD
+http://mytv.fun:8080/vesko/1234321f/12857
+#EXTINF:-1,TF1 HD
+http://mytv.fun:8080/vesko/1234321f/5610
+#EXTINF:-1,France 2 FHD
+http://mytv.fun:8080/vesko/1234321f/5669
+#EXTINF:-1,France 3 FHD
+http://mytv.fun:8080/vesko/1234321f/12858
+#EXTINF:-1,France 4 FHD
+http://mytv.fun:8080/vesko/1234321f/5667
+#EXTINF:-1,M6 FHD
+http://mytv.fun:8080/vesko/1234321f/5653
+#EXTINF:-1,6Ter FHD
+http://mytv.fun:8080/vesko/1234321f/13004
+#EXTINF:-1,France 5 FHD
+http://mytv.fun:8080/vesko/1234321f/5666
+#EXTINF:-1,France O
+http://mytv.fun:8080/vesko/1234321f/5664
+#EXTINF:-1,Discovery FHD
+http://mytv.fun:8080/vesko/1234321f/12997
+#EXTINF:-1,Discovery Family FHD
+http://mytv.fun:8080/vesko/1234321f/16921
+#EXTINF:-1,Discovery Investigation FHD
+http://mytv.fun:8080/vesko/1234321f/9034
+#EXTINF:-1,Discovery Science FHD
+http://mytv.fun:8080/vesko/1234321f/5682
+#EXTINF:-1,Nat Geo Wild FHD
+http://mytv.fun:8080/vesko/1234321f/16906
+#EXTINF:-1,National Geographic FHD
+http://mytv.fun:8080/vesko/1234321f/16905
+#EXTINF:-1,Disney Channel +1
+http://mytv.fun:8080/vesko/1234321f/12947
+#EXTINF:-1,Disney Channel FHD
+http://mytv.fun:8080/vesko/1234321f/5681
+#EXTINF:-1,Disney Cinema FHD
+http://mytv.fun:8080/vesko/1234321f/12946
+#EXTINF:-1,Disney Junior FHD
+http://mytv.fun:8080/vesko/1234321f/5679
+#EXTINF:-1,Disney XD FHD
+http://mytv.fun:8080/vesko/1234321f/16920
+#EXTINF:-1,Nickelodeon +1 FHD
+http://mytv.fun:8080/vesko/1234321f/16904
+#EXTINF:-1,Nickelodeon 4 Teen FHD
+http://mytv.fun:8080/vesko/1234321f/16903
+#EXTINF:-1,Nickelodeon FHD
+http://mytv.fun:8080/vesko/1234321f/16902
+#EXTINF:-1,Nickelodeon Junior
+http://mytv.fun:8080/vesko/1234321f/5642
+#EXTINF:-1,Discovery HD
+http://mytv.fun:8080/vesko/1234321f/5683
+#EXTINF:-1,Disney Cinema HD
+http://mytv.fun:8080/vesko/1234321f/8617
+#EXTINF:-1,Disney Junior HD
+http://mytv.fun:8080/vesko/1234321f/12945
+#EXTINF:-1,France 24
+http://mytv.fun:8080/vesko/1234321f/5665
+#EXTINF:-1,France 24 News
+http://mytv.fun:8080/vesko/1234321f/8630
+#EXTINF:-1,France 24 English
+http://mytv.fun:8080/vesko/1234321f/8559
+#EXTINF:-1,France 3 HD
+http://mytv.fun:8080/vesko/1234321f/5668
+#EXTINF:-1,France Info
+http://mytv.fun:8080/vesko/1234321f/12971
+#EXTINF:-1,Nat Geo HD
+http://mytv.fun:8080/vesko/1234321f/8632
+#EXTINF:-1,Nat Geo Wild HD
+http://mytv.fun:8080/vesko/1234321f/5645
+#EXTINF:-1,National Geo FHD
+http://mytv.fun:8080/vesko/1234321f/12999
+#EXTINF:-1,National Geographic HD
+http://mytv.fun:8080/vesko/1234321f/5644
+#EXTINF:-1,Nickelodeon
+http://mytv.fun:8080/vesko/1234321f/5643
+#EXTINF:-1,beIN Sports 1 FHD
+http://mytv.fun:8080/vesko/1234321f/5710
+#EXTINF:-1,beIN Sports 1 HD
+http://mytv.fun:8080/vesko/1234321f/12961
+#EXTINF:-1,beIN Sports 2 FHD
+http://mytv.fun:8080/vesko/1234321f/12958
+#EXTINF:-1,beIN Sports 2
+http://mytv.fun:8080/vesko/1234321f/12959
+#EXTINF:-1,beIN Sports 2 HD
+http://mytv.fun:8080/vesko/1234321f/5709
+#EXTINF:-1,beIN Sports 3 FHD
+http://mytv.fun:8080/vesko/1234321f/5708
+#EXTINF:-1,beIN Sports 3 HD
+http://mytv.fun:8080/vesko/1234321f/12957
+#EXTINF:-1,beIN Sports 4 Max
+http://mytv.fun:8080/vesko/1234321f/8562
+#EXTINF:-1,beIN Sports MAX 6 FHD
+http://mytv.fun:8080/vesko/1234321f/8538
+#EXTINF:-1,beIN Sports 7 Max
+http://mytv.fun:8080/vesko/1234321f/8537
+#EXTINF:-1,beIN Sports Max 10
+http://mytv.fun:8080/vesko/1234321f/12953
+#EXTINF:-1,beIN Sports Max 8
+http://mytv.fun:8080/vesko/1234321f/12956
+#EXTINF:-1,beIN Sports Max 8 HD
+http://mytv.fun:8080/vesko/1234321f/12955
+#EXTINF:-1,beIN Sports Max 9
+http://mytv.fun:8080/vesko/1234321f/12954
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
+#EXTINF:-1 tvg-id="BFM Business" tvg-name="BFM Business" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
@@ -51,7 +153,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24ench
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
@@ -63,11 +165,11 @@ https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
 https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
+#EXTINF:-1 tvg-id="KTO" tvg-name="KTO" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
+#EXTINF:-1 tvg-id="La Chaine Normande TV" tvg-name="La Chaine Normande TV" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
+#EXTINF:-1 tvg-id="La Chaine Normande TV" tvg-name="La Chaine Normande TV" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
@@ -91,17 +193,17 @@ http://163.172.174.60/hls/stream.m3u8
 http://163.172.147.113/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TVance
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RTance
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="",Salamat Tube TV
 http://51.158.116.146/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" group-title="Sport",Sport en France
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" group-title="Sport",Sport enance
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
