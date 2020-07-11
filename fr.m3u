@@ -1,4 +1,92 @@
 #EXTM3U
+#EXTINF:-1,TF1 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1021
+#EXTINF:-1,TF1 HD
+http://iptv.nonoip.com:7000/karam/karam123/7
+#EXTINF:-1,France 2 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1030
+#EXTINF:-1,France 2 HD
+http://iptv.nonoip.com:7000/karam/karam123/8
+#EXTINF:-1,France 3 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1029
+#EXTINF:-1,France 3 HD
+http://iptv.nonoip.com:7000/karam/karam123/9
+#EXTINF:-1,France 4 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1028
+#EXTINF:-1,France 4 HD
+http://iptv.nonoip.com:7000/karam/karam123/10
+#EXTINF:-1,France 5 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1027
+#EXTINF:-1,France 5 HD
+http://iptv.nonoip.com:7000/karam/karam123/11
+#EXTINF:-1,France O Vip
+http://iptv.nonoip.com:7000/karam/karam123/1016
+#EXTINF:-1,France O HD
+http://iptv.nonoip.com:7000/karam/karam123/12
+#EXTINF:-1,France 24 Vip
+http://iptv.nonoip.com:7000/karam/karam123/984
+#EXTINF:-1,W9 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1024
+#EXTINF:-1,W9 HD
+http://iptv.nonoip.com:7000/karam/karam123/247
+#EXTINF:-1,Discovery Science Vip
+http://iptv.nonoip.com:7000/karam/karam123/1087
+#EXTINF:-1,Discovery Science HD
+http://iptv.nonoip.com:7000/karam/karam123/275
+#EXTINF:-1,Discovery Vip
+http://iptv.nonoip.com:7000/karam/karam123/1879
+#EXTINF:-1,Discovery HD
+http://iptv.nonoip.com:7000/karam/karam123/274
+#EXTINF:-1,Discovery Family Vip
+http://iptv.nonoip.com:7000/karam/karam123/423
+#EXTINF:-1,Discovery Family HD
+http://iptv.nonoip.com:7000/karam/karam123/117
+#EXTINF:-1,Discovery Investigation Vip
+http://iptv.nonoip.com:7000/karam/karam123/256
+#EXTINF:-1,Sport 1 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1095
+#EXTINF:-1,Sport 1 HD
+http://iptv.nonoip.com:7000/karam/karam123/208
+#EXTINF:-1,Sport 2 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1096
+#EXTINF:-1,Sport 2 HD
+http://iptv.nonoip.com:7000/karam/karam123/209
+#EXTINF:-1,Sport 3 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1097
+#EXTINF:-1,Sport 3 HD
+http://iptv.nonoip.com:7000/karam/karam123/210
+#EXTINF:-1,Eurosport 1 Vip
+http://iptv.nonoip.com:7000/karam/karam123/220
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.nonoip.com:7000/karam/karam123/139
+#EXTINF:-1,Eurosport 2 Vip
+http://iptv.nonoip.com:7000/karam/karam123/221
+#EXTINF:-1,Disney Channel Vip
+http://iptv.nonoip.com:7000/karam/karam123/1003
+#EXTINF:-1,Disney Channel HD
+http://iptv.nonoip.com:7000/karam/karam123/1267
+#EXTINF:-1,Disney Channel +1 Vip
+http://iptv.nonoip.com:7000/karam/karam123/1073
+#EXTINF:-1,Disney Channel +1 HD
+http://iptv.nonoip.com:7000/karam/karam123/263
+#EXTINF:-1,Disney XD Vip
+http://iptv.nonoip.com:7000/karam/karam123/1940
+#EXTINF:-1,Disney XD HD
+http://iptv.nonoip.com:7000/karam/karam123/264
+#EXTINF:-1,Disney Junior Vip
+http://iptv.nonoip.com:7000/karam/karam123/1939
+#EXTINF:-1,Disney Junior HD
+http://iptv.nonoip.com:7000/karam/karam123/1268
+#EXTINF:-1,Disney Cinema Vip
+http://iptv.nonoip.com:7000/karam/karam123/1938
+#EXTINF:-1,Disney Cinema HD
+http://iptv.nonoip.com:7000/karam/karam123/265
+#EXTINF:-1,MTV Pulse HD
+http://iptv.nonoip.com:7000/karam/karam123/299
+#EXTINF:-1,MTV Base HD
+http://iptv.nonoip.com:7000/karam/karam123/300
+#EXTINF:-1,MTV Hits HD
+http://iptv.nonoip.com:7000/karam/karam123/298
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
