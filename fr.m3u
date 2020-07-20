@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1,6Ter
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2864
+#EXTINF:-1,Discovery
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2824
+#EXTINF:-1,Discovery Science
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2823
+#EXTINF:-1,France 2
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2814
+#EXTINF:-1,France 3
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2812
+#EXTINF:-1,France 4
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2811
+#EXTINF:-1,France 5
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2810
+#EXTINF:-1,France O
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2809
+#EXTINF:-1,FRANCE INFO
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/28094
+#EXTINF:-1,MTV BASE
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/28072
+#EXTINF:-1,MTV DANCE
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/28071
+#EXTINF:-1,MTV HITS
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/28070
+#EXTINF:-1,Bein Sport 4 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2857
+#EXTINF:-1,Bein Sport 10 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2856
+#EXTINF:-1,Bein Sport 5 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2855
+#EXTINF:-1,Bein Sport 6 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2854
+#EXTINF:-1,Bein Sport 7 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2853
+#EXTINF:-1,Bein Sport 8 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2852
+#EXTINF:-1,Bein Sport 9 Max
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2851
+#EXTINF:-1,Bein Sport 3
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2850
+#EXTINF:-1,Bein Sport 1
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2849
+#EXTINF:-1,Bein Sport  2
+http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/2848
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
@@ -68,7 +112,7 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+http://live.lachainenormande.80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MCM Top
