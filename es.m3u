@@ -1,187 +1,453 @@
 #EXTM3U
-#EXTINF:-1,#0 HD
-http://thex.tv:8000/Eugenio/Eugenio01/1212
-#EXTINF:-1,24H
-http://thex.tv:8000/Eugenio/Eugenio01/1213
-#EXTINF:-1,A&E HD
-http://thex.tv:8000/Eugenio/Eugenio01/1215
-#EXTINF:-1,A3 SERIES HD
-http://thex.tv:8000/Eugenio/Eugenio01/1216
-#EXTINF:-1,AMC HD
-http://thex.tv:8000/Eugenio/Eugenio01/1268
-#EXTINF:-1,ANDALUCIA TV
-http://thex.tv:8000/Eugenio/Eugenio01/1267
+#EXTINF:-1,La 1 HD
+http://alired.eu:8080/salvador/salvador/4275
+#EXTINF:-1,La 1
+http://alired.eu:8080/salvador/salvador/4276
+#EXTINF:-1,La 2 HD
+http://alired.eu:8080/salvador/salvador/4277
+#EXTINF:-1,La 2
+http://alired.eu:8080/salvador/salvador/4278
 #EXTINF:-1,ANTENA 3 HD
-http://thex.tv:8000/Eugenio/Eugenio01/1291
-#EXTINF:-1,ARAGON TV
-http://thex.tv:8000/Eugenio/Eugenio01/1266
-#EXTINF:-1,AXN HD
-http://thex.tv:8000/Eugenio/Eugenio01/1265
-#EXTINF:-1,AXN WHITE HD
-http://thex.tv:8000/Eugenio/Eugenio01/1264
-#EXTINF:-1,BABY TV
-http://thex.tv:8000/Eugenio/Eugenio01/1217
-#EXTINF:-1,BE MAD HD
-http://thex.tv:8000/Eugenio/Eugenio01/1263
-#EXTINF:-1,BLAZE
-http://thex.tv:8000/Eugenio/Eugenio01/1218
-#EXTINF:-1,BLOOMBERG
-http://thex.tv:8000/Eugenio/Eugenio01/1219
-#EXTINF:-1,CALLE 13 HD
-http://thex.tv:8000/Eugenio/Eugenio01/1262
-#EXTINF:-1,CANAL CASA
-http://thex.tv:8000/Eugenio/Eugenio01/1256
-#EXTINF:-1,CANAL COCINA
-http://thex.tv:8000/Eugenio/Eugenio01/1259
-#EXTINF:-1,CANAL EXTREMADURA
-http://thex.tv:8000/Eugenio/Eugenio01/1220
-#EXTINF:-1,CANAL MALAGA
-http://thex.tv:8000/Eugenio/Eugenio01/1221
-#EXTINF:-1,CANAL ODISEA
-http://thex.tv:8000/Eugenio/Eugenio01/1222
-#EXTINF:-1,CANAL ORBE 21
-http://thex.tv:8000/Eugenio/Eugenio01/1261
-#EXTINF:-1,CANAL SUR
-http://thex.tv:8000/Eugenio/Eugenio01/1223
-#EXTINF:-1,CAZA Y PESCA HD
-http://thex.tv:8000/Eugenio/Eugenio01/1260
-#EXTINF:-1,CLASSICA EUROPE
-http://thex.tv:8000/Eugenio/Eugenio01/1245
-#EXTINF:-1,COMEDY CENTRAL HD
-http://thex.tv:8000/Eugenio/Eugenio01/1258
-#EXTINF:-1,COMEDY CENTRAL HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1305
-#EXTINF:-1,COSMO HD
-http://thex.tv:8000/Eugenio/Eugenio01/1257
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://thex.tv:8000/Eugenio/Eugenio01/1224
+http://alired.eu:8080/salvador/salvador/4279
+#EXTINF:-1,ANTENA 3
+http://alired.eu:8080/salvador/salvador/4280
 #EXTINF:-1,CUATRO HD
-http://thex.tv:8000/Eugenio/Eugenio01/1290
-#EXTINF:-1,DISCOVERY CHANNELHD
-http://thex.tv:8000/Eugenio/Eugenio01/1225
-#EXTINF:-1,DISNEY CHANEL HD
-http://thex.tv:8000/Eugenio/Eugenio01/1253
-#EXTINF:-1,DISNEY JR
-http://thex.tv:8000/Eugenio/Eugenio01/1255
-#EXTINF:-1,DISNEY XD
-http://thex.tv:8000/Eugenio/Eugenio01/1254
-#EXTINF:-1,DIVINITY HD
-http://thex.tv:8000/Eugenio/Eugenio01/1252
-#EXTINF:-1,DKISS
-http://thex.tv:8000/Eugenio/Eugenio01/1251
-#EXTINF:-1,DMAX
-http://thex.tv:8000/Eugenio/Eugenio01/1226
-#EXTINF:-1,E!
-http://thex.tv:8000/Eugenio/Eugenio01/1227
-#EXTINF:-1,EURONEWS HD
-http://thex.tv:8000/Eugenio/Eugenio01/1228
-#EXTINF:-1,FDF
-http://thex.tv:8000/Eugenio/Eugenio01/1250
-#EXTINF:-1,FOX HD
-http://thex.tv:8000/Eugenio/Eugenio01/1249
-#EXTINF:-1,FOX HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1304
-#EXTINF:-1,FOX LIFE HD
-http://thex.tv:8000/Eugenio/Eugenio01/1248
-#EXTINF:-1,FOX LIFE HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1303
-#EXTINF:-1,FOX NEWS
-http://thex.tv:8000/Eugenio/Eugenio01/1229
-#EXTINF:-1,GALICIA TV
-http://thex.tv:8000/Eugenio/Eugenio01/1230
-#EXTINF:-1,HOLLYWOOD HD
-http://thex.tv:8000/Eugenio/Eugenio01/1270
-#EXTINF:-1,HOLLYWOOD HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1302
-#EXTINF:-1,IBERALIA TV
-http://thex.tv:8000/Eugenio/Eugenio01/1244
-#EXTINF:-1,INTERECONOMIA
-http://thex.tv:8000/Eugenio/Eugenio01/1232
-#EXTINF:-1,LA SEXTA HD
-http://thex.tv:8000/Eugenio/Eugenio01/1289
-#EXTINF:-1,MADRID TV HD
-http://thex.tv:8000/Eugenio/Eugenio01/1243
-#EXTINF:-1,MEGA HD
-http://thex.tv:8000/Eugenio/Eugenio01/1247
-#EXTINF:-1,MEZZO LIVE HD
-http://thex.tv:8000/Eugenio/Eugenio01/1246
-#EXTINF:-1,MEZZO LIVE HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1297
-#EXTINF:-1,MOVISTAR  ACCION HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1301
-#EXTINF:-1,MOVISTAR ACCION HD
-http://thex.tv:8000/Eugenio/Eugenio01/1288
-#EXTINF:-1,MOVISTAR CINE N
-http://thex.tv:8000/Eugenio/Eugenio01/1286
-#EXTINF:-1,MOVISTAR CINE ROCK&ROLL HD
-http://thex.tv:8000/Eugenio/Eugenio01/1233
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://thex.tv:8000/Eugenio/Eugenio01/1234
-#EXTINF:-1,MOVISTAR COMEDIA HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1298
-#EXTINF:-1,MOVISTAR DISNEY HD
-http://thex.tv:8000/Eugenio/Eugenio01/1287
-#EXTINF:-1,MOVISTAR DRAMA HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1300
-#EXTINF:-1,MOVISTAR ESTRENOS HD
-http://thex.tv:8000/Eugenio/Eugenio01/1235
-#EXTINF:-1,MOVISTAR ESTRENOS HD
-http://thex.tv:8000/Eugenio/Eugenio01/1285
-#EXTINF:-1,MOVISTAR SERIE HD
-http://thex.tv:8000/Eugenio/Eugenio01/1236
-#EXTINF:-1,MOVISTAR SERIE MANIA HD
-http://thex.tv:8000/Eugenio/Eugenio01/1237
-#EXTINF:-1,MOVISTAR SERIES HD
-http://thex.tv:8000/Eugenio/Eugenio01/1299
-#EXTINF:-1,MTV
-http://thex.tv:8000/Eugenio/Eugenio01/1284
-#EXTINF:-1,NAT GEO HD
-http://thex.tv:8000/Eugenio/Eugenio01/1283
-#EXTINF:-1,NAT GEO WILD HD
-http://thex.tv:8000/Eugenio/Eugenio01/1282
-#EXTINF:-1,NATIONAL GEO WILD HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1296
-#EXTINF:-1,NOVA
-http://thex.tv:8000/Eugenio/Eugenio01/1269
-#EXTINF:-1,NRJ TV
-http://thex.tv:8000/Eugenio/Eugenio01/1238
-#EXTINF:-1,PANDA
-http://thex.tv:8000/Eugenio/Eugenio01/1280
-#EXTINF:-1,PARAMOUNT NETWORK
-http://thex.tv:8000/Eugenio/Eugenio01/1279
-#EXTINF:-1,SOMOS
-http://thex.tv:8000/Eugenio/Eugenio01/1278
-#EXTINF:-1,SUNDANCE HD
-http://thex.tv:8000/Eugenio/Eugenio01/1277
-#EXTINF:-1,SYFY HD
-http://thex.tv:8000/Eugenio/Eugenio01/1276
-#EXTINF:-1,SYFY HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1295
-#EXTINF:-1,TCM HD
-http://thex.tv:8000/Eugenio/Eugenio01/1275
-#EXTINF:-1,TCM HD HEVC
-http://thex.tv:8000/Eugenio/Eugenio01/1294
-#EXTINF:-1,TELEMADRID HD
-http://thex.tv:8000/Eugenio/Eugenio01/1274
-#EXTINF:-1,TELEMAX HD
-http://thex.tv:8000/Eugenio/Eugenio01/1239
-#EXTINF:-1,TELESUR
-http://thex.tv:8000/Eugenio/Eugenio01/1240
-#EXTINF:-1,TNT HD
-http://thex.tv:8000/Eugenio/Eugenio01/1273
-#EXTINF:-1,TV3 CATALUNYAHD
-http://thex.tv:8000/Eugenio/Eugenio01/1241
-#EXTINF:-1,TVE 24H
-http://thex.tv:8000/Eugenio/Eugenio01/1242
-#EXTINF:-1,TVE LA 1 HD
-http://thex.tv:8000/Eugenio/Eugenio01/1293
-#EXTINF:-1,TVE LA 2 HD
-http://thex.tv:8000/Eugenio/Eugenio01/1292
-#EXTINF:-1,VIAJAR HD
-http://thex.tv:8000/Eugenio/Eugenio01/1272
-#EXTINF:-1,XTRM
-http://thex.tv:8000/Eugenio/Eugenio01/1271
+http://alired.eu:8080/salvador/salvador/4281
+#EXTINF:-1,CUATRO
+http://alired.eu:8080/salvador/salvador/4282
+#EXTINF:-1,TELECINCO HD
+http://alired.eu:8080/salvador/salvador/4283
 #EXTINF:-1,TELECINCO
-http://thex.tv:8000/Eugenio/Eugenio01/2490
+http://alired.eu:8080/salvador/salvador/4284
+#EXTINF:-1,LA SEXTA HD
+http://alired.eu:8080/salvador/salvador/4285
+#EXTINF:-1,LA SEXTA
+http://alired.eu:8080/salvador/salvador/4286
+#EXTINF:-1,7RM
+http://alired.eu:8080/salvador/salvador/4287
+#EXTINF:-1,LA OTRA
+http://alired.eu:8080/salvador/salvador/4288
+#EXTINF:-1,DIVINITY
+http://alired.eu:8080/salvador/salvador/4289
+#EXTINF:-1,NOVA HD
+http://alired.eu:8080/salvador/salvador/4290
+#EXTINF:-1,NOVA
+http://alired.eu:8080/salvador/salvador/4291
+#EXTINF:-1,BEMAD TV HD
+http://alired.eu:8080/salvador/salvador/4292
+#EXTINF:-1,BE MAD
+http://alired.eu:8080/salvador/salvador/4293
+#EXTINF:-1,MEGA 720
+http://alired.eu:8080/salvador/salvador/5626
+#EXTINF:-1,FDF
+http://alired.eu:8080/salvador/salvador/4294
+#EXTINF:-1,NEOX
+http://alired.eu:8080/salvador/salvador/4295
+#EXTINF:-1,ATRESSERIES HD
+http://alired.eu:8080/salvador/salvador/4296
+#EXTINF:-1,ENERGY
+http://alired.eu:8080/salvador/salvador/4297
+#EXTINF:-1,24 HORAS
+http://alired.eu:8080/salvador/salvador/4298
+#EXTINF:-1,24H
+http://alired.eu:8080/salvador/salvador/4299
+#EXTINF:-1,#0 HD
+http://alired.eu:8080/salvador/salvador/4327
+#EXTINF:-1,#0
+http://alired.eu:8080/salvador/salvador/4328
+#EXTINF:-1,MOVISTARESTRENOS HD
+http://alired.eu:8080/salvador/salvador/4300
+#EXTINF:-1,MOVISTAR ESTRENOS HD (720)
+http://alired.eu:8080/salvador/salvador/5607
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://alired.eu:8080/salvador/salvador/4301
+#EXTINF:-1,MOVISTAR ACCIAON HD
+http://alired.eu:8080/salvador/salvador/4302
+#EXTINF:-1,MOVISTAR ACCION HD (720)
+http://alired.eu:8080/salvador/salvador/5609
+#EXTINF:-1,MOVISTAR ACCION
+http://alired.eu:8080/salvador/salvador/4303
+#EXTINF:-1,MOVISTARCOMEDIA HD
+http://alired.eu:8080/salvador/salvador/4304
+#EXTINF:-1,MOVISTAR COMEDIA HD (720)
+http://alired.eu:8080/salvador/salvador/5610
+#EXTINF:-1,MOVISTAR COMEDIA
+http://alired.eu:8080/salvador/salvador/4305
+#EXTINF:-1,MOVISTAR DRAMA HD
+http://alired.eu:8080/salvador/salvador/4306
+#EXTINF:-1,MOVISTAR DRAMA HD (720)
+http://alired.eu:8080/salvador/salvador/5608
+#EXTINF:-1,MOVISTAR DRAMA
+http://alired.eu:8080/salvador/salvador/4307
+#EXTINF:-1,MOVISTAR Cine Español
+http://alired.eu:8080/salvador/salvador/4308
+#EXTINF:-1,MOVISTARCINEDOCROLL HD
+http://alired.eu:8080/salvador/salvador/4309
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD (720)
+http://alired.eu:8080/salvador/salvador/5612
+#EXTINF:-1,MOVISTARCINEDOCROLL
+http://alired.eu:8080/salvador/salvador/4310
+#EXTINF:-1,MOVISTAR DISNEY
+http://alired.eu:8080/salvador/salvador/4311
+#EXTINF:-1,TCM HD
+http://alired.eu:8080/salvador/salvador/4313
+#EXTINF:-1,TCM HD (720)
+http://alired.eu:8080/salvador/salvador/5613
+#EXTINF:-1,TCM
+http://alired.eu:8080/salvador/salvador/4314
+#EXTINF:-1,HOLLYWOOD HD
+http://alired.eu:8080/salvador/salvador/4315
+#EXTINF:-1,HOLLYWOOD HD (720)
+http://alired.eu:8080/salvador/salvador/5611
+#EXTINF:-1,HOLLYWOOD
+http://alired.eu:8080/salvador/salvador/4316
+#EXTINF:-1,SUNDANCE TV
+http://alired.eu:8080/salvador/salvador/4317
+#EXTINF:-1,DARK
+http://alired.eu:8080/salvador/salvador/4318
+#EXTINF:-1,TEN
+http://alired.eu:8080/salvador/salvador/4319
+#EXTINF:-1,PARAMOUNT
+http://alired.eu:8080/salvador/salvador/4320
+#EXTINF:-1,Canal de las Estrellas
+http://alired.eu:8080/salvador/salvador/4321
+#EXTINF:-1,SOMOS
+http://alired.eu:8080/salvador/salvador/4322
+#EXTINF:-1,Telenovelas
+http://alired.eu:8080/salvador/salvador/4324
+#EXTINF:-1,XTRM
+http://alired.eu:8080/salvador/salvador/4325
+#EXTINF:-1,De Pelicula
+http://alired.eu:8080/salvador/salvador/4326
+#EXTINF:-1,MOVISTAR SERIES HD
+http://alired.eu:8080/salvador/salvador/4329
+#EXTINF:-1,MOVISTAR SERIES HD (720)
+http://alired.eu:8080/salvador/salvador/5620
+#EXTINF:-1,MOVISTAR SERIES
+http://alired.eu:8080/salvador/salvador/4330
+#EXTINF:-1,MOVISTARSERIEMANIA HD
+http://alired.eu:8080/salvador/salvador/4331
+#EXTINF:-1,MOVISTAR SERIESMANIA HD (720)
+http://alired.eu:8080/salvador/salvador/5621
+#EXTINF:-1,MOVISTAR SERIESMANIA
+http://alired.eu:8080/salvador/salvador/4332
+#EXTINF:-1,FOX HD
+http://alired.eu:8080/salvador/salvador/4333
+#EXTINF:-1,FOX HD (720)
+http://alired.eu:8080/salvador/salvador/5622
+#EXTINF:-1,FOX
+http://alired.eu:8080/salvador/salvador/4334
+#EXTINF:-1,AXN HD
+http://alired.eu:8080/salvador/salvador/4335
+#EXTINF:-1,AXN HD (720)
+http://alired.eu:8080/salvador/salvador/5618
+#EXTINF:-1,AXN
+http://alired.eu:8080/salvador/salvador/4336
+#EXTINF:-1,TNT HD
+http://alired.eu:8080/salvador/salvador/4337
+#EXTINF:-1,TNT HD (720)
+http://alired.eu:8080/salvador/salvador/5615
+#EXTINF:-1,TNT
+http://alired.eu:8080/salvador/salvador/4338
+#EXTINF:-1,COMEDY CENTRAL HD
+http://alired.eu:8080/salvador/salvador/4339
+#EXTINF:-1,COMEDY CENTRAL HD (720)
+http://alired.eu:8080/salvador/salvador/5616
+#EXTINF:-1,COMEDY CENTRAL
+http://alired.eu:8080/salvador/salvador/4340
+#EXTINF:-1,CALLE 13 HD
+http://alired.eu:8080/salvador/salvador/4341
+#EXTINF:-1,CALLE 13 HD (720)
+http://alired.eu:8080/salvador/salvador/5617
+#EXTINF:-1,CALLE 13
+http://alired.eu:8080/salvador/salvador/4342
+#EXTINF:-1,COSMO HD
+http://alired.eu:8080/salvador/salvador/4343
+#EXTINF:-1,COSMO
+http://alired.eu:8080/salvador/salvador/4344
+#EXTINF:-1,AMC HD
+http://alired.eu:8080/salvador/salvador/4345
+#EXTINF:-1,AMC 720
+http://alired.eu:8080/salvador/salvador/5625
+#EXTINF:-1,AMC
+http://alired.eu:8080/salvador/salvador/4346
+#EXTINF:-1,FOX LIFE HD
+http://alired.eu:8080/salvador/salvador/4347
+#EXTINF:-1,FOX LIFE HD (720)
+http://alired.eu:8080/salvador/salvador/5623
+#EXTINF:-1,FOX LIFE
+http://alired.eu:8080/salvador/salvador/4348
+#EXTINF:-1,AXN WHITE HD
+http://alired.eu:8080/salvador/salvador/4349
+#EXTINF:-1,AXN WHITE HD (720)
+http://alired.eu:8080/salvador/salvador/5619
+#EXTINF:-1,AXN WHITE
+http://alired.eu:8080/salvador/salvador/4350
+#EXTINF:-1,SYFY HD
+http://alired.eu:8080/salvador/salvador/4351
+#EXTINF:-1,SYFY HD (720)
+http://alired.eu:8080/salvador/salvador/5614
+#EXTINF:-1,SYFY
+http://alired.eu:8080/salvador/salvador/4352
+#EXTINF:-1,CAZAyPESCA HD
+http://alired.eu:8080/salvador/salvador/4353
+#EXTINF:-1,CAZAyPESCA HD (720)
+http://alired.eu:8080/salvador/salvador/5604
+#EXTINF:-1,CAZA Y PESCA
+http://alired.eu:8080/salvador/salvador/4354
+#EXTINF:-1,IBERALIA TV
+http://alired.eu:8080/salvador/salvador/4355
+#EXTINF:-1,TOROS HD
+http://alired.eu:8080/salvador/salvador/4356
+#EXTINF:-1,TOROS TV FHD (720)
+http://alired.eu:8080/salvador/salvador/5603
+#EXTINF:-1,TOROS
+http://alired.eu:8080/salvador/salvador/4357
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://alired.eu:8080/salvador/salvador/4358
+#EXTINF:-1,NAT GEO HD (720)
+http://alired.eu:8080/salvador/salvador/5605
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://alired.eu:8080/salvador/salvador/4359
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://alired.eu:8080/salvador/salvador/4360
+#EXTINF:-1,NAT GEO WILD HD (720)
+http://alired.eu:8080/salvador/salvador/5606
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://alired.eu:8080/salvador/salvador/4361
 #EXTINF:-1,HISTORIA
-http://thex.tv:8000/Eugenio/Eugenio01/2499
+http://alired.eu:8080/salvador/salvador/4363
+#EXTINF:-1,DISCOVERY
+http://alired.eu:8080/salvador/salvador/4364
+#EXTINF:-1,CANAL ODISEA
+http://alired.eu:8080/salvador/salvador/4365
+#EXTINF:-1,BLAZE
+http://alired.eu:8080/salvador/salvador/4367
+#EXTINF:-1,VIAJAR HD
+http://alired.eu:8080/salvador/salvador/4368
+#EXTINF:-1,Viajar 720
+http://alired.eu:8080/salvador/salvador/5624
+#EXTINF:-1,VIAJAR
+http://alired.eu:8080/salvador/salvador/4369
+#EXTINF:-1,Discovery Max
+http://alired.eu:8080/salvador/salvador/4371
+#EXTINF:-1,CAZAVISION
+http://alired.eu:8080/salvador/salvador/4372
+#EXTINF:-1,CRIMEN INVES
+http://alired.eu:8080/salvador/salvador/4373
+#EXTINF:-1,CANAL COCINA
+http://alired.eu:8080/salvador/salvador/4374
+#EXTINF:-1,CANAL DECASA
+http://alired.eu:8080/salvador/salvador/4375
+#EXTINF:-1,DKISS
+http://alired.eu:8080/salvador/salvador/4376
+#EXTINF:-1,CANAL ORBE21
+http://alired.eu:8080/salvador/salvador/4377
+#EXTINF:-1,MOVISTAR LaLiga HD (1080)
+http://alired.eu:8080/salvador/salvador/4378
+#EXTINF:-1,MOVISTAR LaLiga HD (720)
+http://alired.eu:8080/salvador/salvador/4886
+#EXTINF:-1,MOVISTAR LaLiga
+http://alired.eu:8080/salvador/salvador/4379
+#EXTINF:-1,MOVISTAR LaLiga 1 HD (1080)
+http://alired.eu:8080/salvador/salvador/4380
+#EXTINF:-1,MOVISTAR LaLiga 1
+http://alired.eu:8080/salvador/salvador/4381
+#EXTINF:-1,MOVISTAR LaLiga 2 HD (1080)
+http://alired.eu:8080/salvador/salvador/4382
+#EXTINF:-1,MOVISTAR LaLiga 2
+http://alired.eu:8080/salvador/salvador/4383
+#EXTINF:-1,MOVISTAR LaLiga 3 HD (1080)
+http://alired.eu:8080/salvador/salvador/4384
+#EXTINF:-1,MOVISTAR LaLiga 3
+http://alired.eu:8080/salvador/salvador/4385
+#EXTINF:-1,MOVISTAR 4 LaLiga HD (1080)
+http://alired.eu:8080/salvador/salvador/4891
+#EXTINF:-1,MOVISTAR LaLiga 4
+http://alired.eu:8080/salvador/salvador/4386
+#EXTINF:-1,MOVISTAR LaLiga 5 HD (1080)
+http://alired.eu:8080/salvador/salvador/4892
+#EXTINF:-1,MOVISTAR LaLiga 5
+http://alired.eu:8080/salvador/salvador/4387
+#EXTINF:-1,MOVISTAR LaLiga 6
+http://alired.eu:8080/salvador/salvador/4388
+#EXTINF:-1,MOVISTAR LaLiga 7
+http://alired.eu:8080/salvador/salvador/4389
+#EXTINF:-1,MOVISTAR LaLiga 8
+http://alired.eu:8080/salvador/salvador/4390
+#EXTINF:-1,MOVISTAR LaLiga 9
+http://alired.eu:8080/salvador/salvador/4391
+#EXTINF:-1,MOVISTAR LaLiga 10
+http://alired.eu:8080/salvador/salvador/4392
+#EXTINF:-1,LALIGATV BAR HD (1080)
+http://alired.eu:8080/salvador/salvador/4895
+#EXTINF:-1,LALIGATV BAR
+http://alired.eu:8080/salvador/salvador/4398
+#EXTINF:-1,LALIGATV BAR 1
+http://alired.eu:8080/salvador/salvador/4399
+#EXTINF:-1,LALIGATV BAR 2
+http://alired.eu:8080/salvador/salvador/4400
+#EXTINF:-1,LALIGATV BAR 3
+http://alired.eu:8080/salvador/salvador/4401
+#EXTINF:-1,LALIGATV BAR 4
+http://alired.eu:8080/salvador/salvador/4402
+#EXTINF:-1,Movistar Liga de Campeones HD (1080)
+http://alired.eu:8080/salvador/salvador/4403
+#EXTINF:-1,Movistar Liga De Campeones HD (720)
+http://alired.eu:8080/salvador/salvador/4887
+#EXTINF:-1,MovistarLiga de Campeones 1 HD (1080)
+http://alired.eu:8080/salvador/salvador/4893
+#EXTINF:-1,Movistar Liga de Campeones 1
+http://alired.eu:8080/salvador/salvador/4404
+#EXTINF:-1,Movistar Liga de Campeones 2 HD (1080)
+http://alired.eu:8080/salvador/salvador/4894
+#EXTINF:-1,Movistar Liga de Campeones 2
+http://alired.eu:8080/salvador/salvador/4405
+#EXTINF:-1,Movistar Liga de Campeones 3
+http://alired.eu:8080/salvador/salvador/4406
+#EXTINF:-1,Movistar Liga de Campeones 4
+http://alired.eu:8080/salvador/salvador/4407
+#EXTINF:-1,Movistar Liga de Campeones 5
+http://alired.eu:8080/salvador/salvador/4408
+#EXTINF:-1,Movistar Liga de Campeones 6
+http://alired.eu:8080/salvador/salvador/4409
+#EXTINF:-1,Movistar Liga de Campeones 7
+http://alired.eu:8080/salvador/salvador/4410
+#EXTINF:-1,Movistar Liga de Campeones 8
+http://alired.eu:8080/salvador/salvador/4411
+#EXTINF:-1,#VAMOSHD
+http://alired.eu:8080/salvador/salvador/4412
+#EXTINF:-1,Vamos HD (720)
+http://alired.eu:8080/salvador/salvador/4890
+#EXTINF:-1,#VAMOS
+http://alired.eu:8080/salvador/salvador/4413
+#EXTINF:-1,VAMOS BAR
+http://alired.eu:8080/salvador/salvador/4414
+#EXTINF:-1,VAMOS BAR1
+http://alired.eu:8080/salvador/salvador/4415
+#EXTINF:-1,VAMOS BAR2
+http://alired.eu:8080/salvador/salvador/4416
+#EXTINF:-1,M.FORMULA1HD
+http://alired.eu:8080/salvador/salvador/4417
+#EXTINF:-1,Movistar F1 HD (720)
+http://alired.eu:8080/salvador/salvador/4889
+#EXTINF:-1,M.FORMULA1
+http://alired.eu:8080/salvador/salvador/4418
+#EXTINF:-1,DAZN Multi 1080
+http://alired.eu:8080/salvador/salvador/4888
+#EXTINF:-1,DAZN MOTO GP FHD
+http://alired.eu:8080/salvador/salvador/4419
+#EXTINF:-1,DAZN MOTO GP HD
+http://alired.eu:8080/salvador/salvador/4420
+#EXTINF:-1,M. GOLF HD
+http://alired.eu:8080/salvador/salvador/4421
+#EXTINF:-1,MOVISTAR GOLF HD (720)
+http://alired.eu:8080/salvador/salvador/5602
+#EXTINF:-1,M. GOLF
+http://alired.eu:8080/salvador/salvador/4422
+#EXTINF:-1,EUROSPORT 1
+http://alired.eu:8080/salvador/salvador/4423
+#EXTINF:-1,EUROSPORT 2
+http://alired.eu:8080/salvador/salvador/4424
+#EXTINF:-1,GOL
+http://alired.eu:8080/salvador/salvador/4425
+#EXTINF:-1,TELEDEPORTE
+http://alired.eu:8080/salvador/salvador/4426
+#EXTINF:-1,TDP HD
+http://alired.eu:8080/salvador/salvador/4427
+#EXTINF:-1,TDP
+http://alired.eu:8080/salvador/salvador/4428
+#EXTINF:-1,REAL MADRID TV HD
+http://alired.eu:8080/salvador/salvador/4429
+#EXTINF:-1,REAL MADRID TV
+http://alired.eu:8080/salvador/salvador/4430
+#EXTINF:-1,BARCA TV
+http://alired.eu:8080/salvador/salvador/4431
+#EXTINF:-1,M. F.TBOL 2
+http://alired.eu:8080/salvador/salvador/4432
+#EXTINF:-1,SPORT
+http://alired.eu:8080/salvador/salvador/4433
+#EXTINF:-1,UBEAT HD
+http://alired.eu:8080/salvador/salvador/4434
+#EXTINF:-1,MULTIDEPORTE
+http://alired.eu:8080/salvador/salvador/4435
+#EXTINF:-1,MULTIFUT. 1
+http://alired.eu:8080/salvador/salvador/4436
+#EXTINF:-1,M. DEPORTESHD
+http://alired.eu:8080/salvador/salvador/4437
+#EXTINF:-1,M. DEPORTES
+http://alired.eu:8080/salvador/salvador/4438
+#EXTINF:-1,M. DEPORTES1
+http://alired.eu:8080/salvador/salvador/4439
+#EXTINF:-1,M. DEPORTES2
+http://alired.eu:8080/salvador/salvador/4440
+#EXTINF:-1,M. DEPORTES3
+http://alired.eu:8080/salvador/salvador/4441
+#EXTINF:-1,M. DEPORTES4
+http://alired.eu:8080/salvador/salvador/4442
+#EXTINF:-1,M. DEPORTES5
+http://alired.eu:8080/salvador/salvador/4443
+#EXTINF:-1,M. DEPORTES6
+http://alired.eu:8080/salvador/salvador/4444
+#EXTINF:-1,M. DEPORTES7
+http://alired.eu:8080/salvador/salvador/4445
+#EXTINF:-1,BABY TV
+http://alired.eu:8080/salvador/salvador/4446
+#EXTINF:-1,DISNEY JR
+http://alired.eu:8080/salvador/salvador/4447
+#EXTINF:-1,CANAL PANDA
+http://alired.eu:8080/salvador/salvador/4448
+#EXTINF:-1,NICK JR
+http://alired.eu:8080/salvador/salvador/4449
+#EXTINF:-1,NICKELODEONHD
+http://alired.eu:8080/salvador/salvador/4450
+#EXTINF:-1,NICKELODEON
+http://alired.eu:8080/salvador/salvador/4451
+#EXTINF:-1,DISNEY XD
+http://alired.eu:8080/salvador/salvador/4452
+#EXTINF:-1,DISNEY CH HD
+http://alired.eu:8080/salvador/salvador/4453
+#EXTINF:-1,DISNEY CH.
+http://alired.eu:8080/salvador/salvador/4454
+#EXTINF:-1,Disney Channel
+http://alired.eu:8080/salvador/salvador/4455
+#EXTINF:-1,BOING
+http://alired.eu:8080/salvador/salvador/4456
+#EXTINF:-1,BOM
+http://alired.eu:8080/salvador/salvador/4457
+#EXTINF:-1,CLAN HD
+http://alired.eu:8080/salvador/salvador/4458
+#EXTINF:-1,CLAN
+http://alired.eu:8080/salvador/salvador/4459
+#EXTINF:-1,CLAN  TVE
+http://alired.eu:8080/salvador/salvador/4460
+#EXTINF:-1,MTV ESPANA
+http://alired.eu:8080/salvador/salvador/4461
+#EXTINF:-1,MEZZO LIVE HD
+http://alired.eu:8080/salvador/salvador/4462
+#EXTINF:-1,MEZZO
+http://alired.eu:8080/salvador/salvador/4463
+#EXTINF:-1,CLASSICA
+http://alired.eu:8080/salvador/salvador/4464
+#EXTINF:-1,Clasico TV
+http://alired.eu:8080/salvador/salvador/4465
+#EXTINF:-1,Ritmoson
+http://alired.eu:8080/salvador/salvador/4466
+#EXTINF:-1,SOL
+http://alired.eu:8080/salvador/salvador/4467
+#EXTINF:-1,DKISS
+http://alired.eu:8080/salvador/salvador/1434
+#EXTINF:-1,VH1
+http://alired.eu:8080/salvador/salvador/3937
+#EXTINF:-1,Mezzo FHD
+http://alired.eu:8080/salvador/salvador/3935
+#EXTINF:-1,MTV ESP
+http://alired.eu:8080/salvador/salvador/1440
+#EXTINF:-1,Canal Sur Turismo
+http://alired.eu:8080/salvador/salvador/1472
+#EXTINF:-1,INTERECONOMIA
+http://alired.eu:8080/salvador/salvador/3934
+#EXTINF:-1,Canal San Roque
+http://alired.eu:8080/salvador/salvador/1480
+#EXTINF:-1,Canal Sur La Banda
+http://alired.eu:8080/salvador/salvador/1482
