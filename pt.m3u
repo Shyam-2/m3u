@@ -1,53 +1,307 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Legislative",ARTV | Canal Parlamento
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (HQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (LQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (MQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (Backup)
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional (Backup)
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" group-title="",RTP Memória [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General",RTP2 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV (Backup)
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1,A Bola TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3248
+#EXTINF:-1,Afro Music
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3247
+#EXTINF:-1,ARTV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3245
+#EXTINF:-1,Canal Panda
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3235
+#EXTINF:-1,Casa E Pesca
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3233
+#EXTINF:-1,CBS Reality
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3232
+#EXTINF:-1,E! Entertainment
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3226
+#EXTINF:-1,Fox Comedy
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3222
+#EXTINF:-1,Fox Crime
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3221
+#EXTINF:-1,Fox
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3220
+#EXTINF:-1,Fox Life
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3219
+#EXTINF:-1,Fuel TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3217
+#EXTINF:-1,Globo
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3216
+#EXTINF:-1,MTV Portuga
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3207
+#EXTINF:-1,PFC
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3201
+#EXTINF:-1,Porto Canal
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3200
+#EXTINF:-1,RTP 1
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3199
+#EXTINF:-1,RTP 2
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3198
+#EXTINF:-1,RTP 3
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3197
+#EXTINF:-1,Sic
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3196
+#EXTINF:-1,SIC Mulher
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3195
+#EXTINF:-1,SIC Noticias
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3194
+#EXTINF:-1,SIC Radical
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3193
+#EXTINF:-1,SYFY
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3185
+#EXTINF:-1,TLC
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3184
+#EXTINF:-1,Travel Channel
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3182
+#EXTINF:-1,TV Galicia
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3177
+#EXTINF:-1,TVI
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3173
+#EXTINF:-1,TVI 24
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3172
+#EXTINF:-1,VH1
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3171
+#EXTINF:-1,VH1 Classic
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3170
+#EXTINF:-1,TVI REALITY
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29409
+#EXTINF:-1,TVC HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29408
+#EXTINF:-1,Foods Network
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29407
+#EXTINF:-1,TVI Reality HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29406
+#EXTINF:-1,RTP MEMóRIA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29405
+#EXTINF:-1,RTP áFRICA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29404
+#EXTINF:-1,RTP ACORES
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29403
+#EXTINF:-1,RTP MADEIRA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29402
+#EXTINF:-1,NICKELODEON
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29401
+#EXTINF:-1,CM TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29396
+#EXTINF:-1,CANAL PANDA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29395
+#EXTINF:-1,CANAL Q
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29394
+#EXTINF:-1,24 KITCHEN
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29393
+#EXTINF:-1,Blaze
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29384
+#EXTINF:-1,CACA E PESCA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29382
+#EXTINF:-1,TVI FICCAO HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29381
+#EXTINF:-1,MCM POP
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29380
+#EXTINF:-1,Trace Urban
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29379
+#EXTINF:-1,MCM TOP
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29378
+#EXTINF:-1,TVCINE 2
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29375
+#EXTINF:-1,TPA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29372
+#EXTINF:-1,CHELSEA TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29367
+#EXTINF:-1,DOG TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29365
+#EXTINF:-1,EURONEWS
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29364
+#EXTINF:-1,CACAVISION
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29363
+#EXTINF:-1,FINE LIVING
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29362
+#EXTINF:-1,RTP INTERNACIONAL
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29361
+#EXTINF:-1,Euronews
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29360
+#EXTINF:-1,TVCINE 1 HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29359
+#EXTINF:-1,Globo Now HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29358
+#EXTINF:-1,A Bola TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29357
+#EXTINF:-1,MOTORVISION TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29355
+#EXTINF:-1,RTP Acores
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29353
+#EXTINF:-1,MEZZO HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29352
+#EXTINF:-1,MTV HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29351
+#EXTINF:-1,ZAP VIVA HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29350
+#EXTINF:-1,Localvisao
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29348
+#EXTINF:-1,Globo TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29347
+#EXTINF:-1,PFC INTERNACIONAL
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29346
+#EXTINF:-1,PANDA HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29345
+#EXTINF:-1,TCV CABO VERDE
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29344
+#EXTINF:-1,CBS Reality
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29343
+#EXTINF:-1,CHELSEA TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29342
+#EXTINF:-1,AFRO MUSIC CHANNEL
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29340
+#EXTINF:-1,RTP Memoria
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29339
+#EXTINF:-1,TV FATIMA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29338
+#EXTINF:-1,SIC CARAS FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29337
+#EXTINF:-1,TVCINE 4
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29335
+#EXTINF:-1,AMC
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3246
+#EXTINF:-1,AXN
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3244
+#EXTINF:-1,AXN Black
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3243
+#EXTINF:-1,AXN White
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3242
+#EXTINF:-1,Cine Mundo
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3231
+#EXTINF:-1,Fox Movies
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3218
+#EXTINF:-1,Hollywood
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3214
+#EXTINF:-1,MCS Extreme
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3212
+#EXTINF:-1,MOV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3211
+#EXTINF:-1,TV Cine 1
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3181
+#EXTINF:-1,TV Cine 2
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3180
+#EXTINF:-1,TV Cine 3
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3179
+#EXTINF:-1,TV Cine 4
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3178
+#EXTINF:-1,TV Globo Premium
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3176
+#EXTINF:-1,TVC Series
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3174
+#EXTINF:-1,BIGGS
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29399
+#EXTINF:-1,NOS Studios
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29398
+#EXTINF:-1,A&E
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3249
+#EXTINF:-1,Canal Historia
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3236
+#EXTINF:-1,Discovery Channel
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3230
+#EXTINF:-1,Discovery Showcase
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3229
+#EXTINF:-1,Historia
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3215
+#EXTINF:-1,NAT GEO Wild
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3206
+#EXTINF:-1,NAT GEO
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3205
+#EXTINF:-1,Odisseia
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3203
+#EXTINF:-1,TV Record
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3175
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29400
+#EXTINF:-1,CMTV FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29377
+#EXTINF:-1,Crime & Investigation
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29374
+#EXTINF:-1,DISCOVERY CHANNEL
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29373
+#EXTINF:-1,Benfica TV 1 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3239
+#EXTINF:-1,Benfica TV 1 HD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3238
+#EXTINF:-1,Benfica TV 1 SD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3237
+#EXTINF:-1,Euro Sport 1
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3225
+#EXTINF:-1,Euro Sport 2
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3224
+#EXTINF:-1,Euro Sport News
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3223
+#EXTINF:-1,Motors TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3210
+#EXTINF:-1,Motor Vision
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3209
+#EXTINF:-1,Kombat Sports
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3208
+#EXTINF:-1,Sport TV 1
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3192
+#EXTINF:-1,Sport TV 2
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3191
+#EXTINF:-1,Sport TV 3
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3190
+#EXTINF:-1,Sport TV 4
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3189
+#EXTINF:-1,Sport TV 5
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3188
+#EXTINF:-1,SPORT TV+
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3187
+#EXTINF:-1,Sporting TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3186
+#EXTINF:-1,Toros TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3183
+#EXTINF:-1,EUROSPORT
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29397
+#EXTINF:-1,Cancao Nova
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29376
+#EXTINF:-1,SPORT TV 1 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29392
+#EXTINF:-1,SPORT TV 2 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29391
+#EXTINF:-1,SPORT TV 3 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29390
+#EXTINF:-1,SPORT TV 4 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29389
+#EXTINF:-1,SPORT TV 1 SD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29388
+#EXTINF:-1,SPORT TV 2 SD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29387
+#EXTINF:-1,SPORT TV 3 SD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29386
+#EXTINF:-1,SPORT TV 4 SD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29385
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29371
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29370
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29369
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29368
+#EXTINF:-1,Sport TV NBA
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29366
+#EXTINF:-1,NBA FHD
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29349
+#EXTINF:-1,Eleven Sports 5
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29334
+#EXTINF:-1,Baby First
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3241
+#EXTINF:-1,Baby TV
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3240
+#EXTINF:-1,Jim Jam
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3213
+#EXTINF:-1,Nickelodeon
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3204
+#EXTINF:-1,Panda Biggs
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/3202
+#EXTINF:-1,BLOOMBERG
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29383
+#EXTINF:-1,JIMJAM
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29356
+#EXTINF:-1,Nick Jr
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29354
+#EXTINF:-1,SIC K
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29341
+#EXTINF:-1,SIC Kids
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/29336
