@@ -1,127 +1,297 @@
 #EXTM3U
-#EXTINF:-1,BTV 1
-http://148.69.189.5:8000/play/a08s/index.m3u8
-#EXTINF:-1,BTV 1 HD NOS
-http://148.69.189.5:8000/play/a08r/index.m3u8
-#EXTINF:-1,BTV HD MEO
-http://148.69.189.5:8000/play/a08t/index.m3u8
-#EXTINF:-1,CMTV
-http://148.69.189.5:8000/play/a08q/index.m3u8
-#EXTINF:-1,Canal 11 HD
-http://148.69.189.5:8000/play/a089/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://148.69.189.5:8000/play/a07x/index.m3u8
-#EXTINF:-1,Eleven Sports 1
-http://148.69.189.5:8000/play/a08g/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://148.69.189.5:8000/play/a07u/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://148.69.189.5:8000/play/a08p/index.m3u8
-#EXTINF:-1,Globo
-http://148.69.189.5:8000/play/a07q/index.m3u8
-#EXTINF:-1,Histðria
-http://148.69.189.5:8000/play/a07w/index.m3u8
-#EXTINF:-1,Hollywood
-http://148.69.189.5:8000/play/a07v/index.m3u8
-#EXTINF:-1,NOS Studios HD
-http://148.69.189.5:8000/play/a08a/index.m3u8
-#EXTINF:-1,Odisseia
-http://148.69.189.5:8000/play/a07y/index.m3u8
-#EXTINF:-1,Porto Canal
-http://148.69.189.5:8000/play/a08n/index.m3u8
+#EXTINF:-1,RTP 1
+http://iptv.iptv1980.com:8000/john123/john123/52040
 #EXTINF:-1,RTP 1 HD
-http://148.69.189.5:8000/play/a080/index.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52041
+#EXTINF:-1,RTP 1 FHD
+http://iptv.iptv1980.com:8000/john123/john123/52042
+#EXTINF:-1,RTP 2
+http://iptv.iptv1980.com:8000/john123/john123/52043
 #EXTINF:-1,RTP 2 HD
-http://148.69.189.5:8000/play/a081/index.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52044
+#EXTINF:-1,RTP 2 FHD
+http://iptv.iptv1980.com:8000/john123/john123/52045
 #EXTINF:-1,RTP 3
-http://148.69.189.5:8000/play/a082/index.m3u8
-#EXTINF:-1,RTP Memðria
-http://148.69.189.5:8000/play/a08o/index.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52046
+#EXTINF:-1,RTP 3 HD
+http://iptv.iptv1980.com:8000/john123/john123/52047
+#EXTINF:-1,RTP 3 FHD
+http://iptv.iptv1980.com:8000/john123/john123/52048
+#EXTINF:-1,RTP ACORES
+http://iptv.iptv1980.com:8000/john123/john123/52049
+#EXTINF:-1,RTP MADEIRA
+http://iptv.iptv1980.com:8000/john123/john123/52050
+#EXTINF:-1,RTP MEMORIA
+http://iptv.iptv1980.com:8000/john123/john123/52051
+#EXTINF:-1,RTP Africa
+http://iptv.iptv1980.com:8000/john123/john123/52052
+#EXTINF:-1,AMC
+http://iptv.iptv1980.com:8000/john123/john123/52053
+#EXTINF:-1,Nat Geo
+http://iptv.iptv1980.com:8000/john123/john123/52054
+#EXTINF:-1,AXN Black
+http://iptv.iptv1980.com:8000/john123/john123/52055
+#EXTINF:-1,AXN White
+http://iptv.iptv1980.com:8000/john123/john123/52056
+#EXTINF:-1,Fox Comedy
+http://iptv.iptv1980.com:8000/john123/john123/52057
+#EXTINF:-1,Fox Crime
+http://iptv.iptv1980.com:8000/john123/john123/52058
+#EXTINF:-1,Fox Life
+http://iptv.iptv1980.com:8000/john123/john123/52059
+#EXTINF:-1,Fox Movies
+http://iptv.iptv1980.com:8000/john123/john123/52060
+#EXTINF:-1,Sic Noticias
+http://iptv.iptv1980.com:8000/john123/john123/52061
+#EXTINF:-1,CMTV
+http://iptv.iptv1980.com:8000/john123/john123/52062
+#EXTINF:-1,Sic Mulher
+http://iptv.iptv1980.com:8000/john123/john123/52063
+#EXTINF:-1,SIC Caras
+http://iptv.iptv1980.com:8000/john123/john123/52064
+#EXTINF:-1,SIC Radical
+http://iptv.iptv1980.com:8000/john123/john123/52065
+#EXTINF:-1,TVCINE TOP
+http://iptv.iptv1980.com:8000/john123/john123/52066
+#EXTINF:-1,TVCINE EDITION
+http://iptv.iptv1980.com:8000/john123/john123/52067
+#EXTINF:-1,TVCINE 3 EMOTION
+http://iptv.iptv1980.com:8000/john123/john123/52068
+#EXTINF:-1,TV SERIES
+http://iptv.iptv1980.com:8000/john123/john123/52070
+#EXTINF:-1,HOLLYWOOD
+http://iptv.iptv1980.com:8000/john123/john123/52071
+#EXTINF:-1,ARTV
+http://iptv.iptv1980.com:8000/john123/john123/52072
+#EXTINF:-1,BIGGS
+http://iptv.iptv1980.com:8000/john123/john123/52073
+#EXTINF:-1,SYFY
+http://iptv.iptv1980.com:8000/john123/john123/52074
+#EXTINF:-1,11 HD
+http://iptv.iptv1980.com:8000/john123/john123/52075
+#EXTINF:-1,24 KITCHEN HD
+http://iptv.iptv1980.com:8000/john123/john123/52076
+#EXTINF:-1,A BOLA TV
+http://iptv.iptv1980.com:8000/john123/john123/52077
+#EXTINF:-1,AFRO MUSIC
+http://iptv.iptv1980.com:8000/john123/john123/52078
+#EXTINF:-1,AMC HD
+http://iptv.iptv1980.com:8000/john123/john123/52079
+#EXTINF:-1,AXN BLACK HD
+http://iptv.iptv1980.com:8000/john123/john123/52080
+#EXTINF:-1,AXN HD
+http://iptv.iptv1980.com:8000/john123/john123/52081
+#EXTINF:-1,AXN WHITE HD
+http://iptv.iptv1980.com:8000/john123/john123/52082
+#EXTINF:-1,BABY TV
+http://iptv.iptv1980.com:8000/john123/john123/52083
+#EXTINF:-1,BLAZE
+http://iptv.iptv1980.com:8000/john123/john123/52084
+#EXTINF:-1,BTV
+http://iptv.iptv1980.com:8000/john123/john123/52085
+#EXTINF:-1,BTV HD
+http://iptv.iptv1980.com:8000/john123/john123/52086
+#EXTINF:-1,CA�A E PESCA
+http://iptv.iptv1980.com:8000/john123/john123/52087
+#EXTINF:-1,CA�AVISION
+http://iptv.iptv1980.com:8000/john123/john123/52088
+#EXTINF:-1,CANAL HISTORIA
+http://iptv.iptv1980.com:8000/john123/john123/52089
+#EXTINF:-1,CANAL PANDA
+http://iptv.iptv1980.com:8000/john123/john123/52090
+#EXTINF:-1,CANAL Q
+http://iptv.iptv1980.com:8000/john123/john123/52091
+#EXTINF:-1,CBS REALITY
+http://iptv.iptv1980.com:8000/john123/john123/52093
+#EXTINF:-1,CINEMUNDO HD
+http://iptv.iptv1980.com:8000/john123/john123/52094
+#EXTINF:-1,CMTV HD
+http://iptv.iptv1980.com:8000/john123/john123/52095
+#EXTINF:-1,DISCOVERY
+http://iptv.iptv1980.com:8000/john123/john123/52096
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.iptv1980.com:8000/john123/john123/52097
+#EXTINF:-1,DISNEY JUNIOR
+http://iptv.iptv1980.com:8000/john123/john123/52098
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptv.iptv1980.com:8000/john123/john123/52099
+#EXTINF:-1,ELEVEN  2 HD
+http://iptv.iptv1980.com:8000/john123/john123/52100
+#EXTINF:-1,ELEVEN 3 HD
+http://iptv.iptv1980.com:8000/john123/john123/52101
+#EXTINF:-1,ELEVEN 5 HD
+http://iptv.iptv1980.com:8000/john123/john123/52102
+#EXTINF:-1,ELEVEN 6 HD
+http://iptv.iptv1980.com:8000/john123/john123/52103
+#EXTINF:-1,ELEVEN 1 HD
+http://iptv.iptv1980.com:8000/john123/john123/52104
+#EXTINF:-1,ELEVEN 4 HD
+http://iptv.iptv1980.com:8000/john123/john123/52105
+#EXTINF:-1,EUROSPORT  1 HD
+http://iptv.iptv1980.com:8000/john123/john123/52106
+#EXTINF:-1,FOOD NETWORK HD
+http://iptv.iptv1980.com:8000/john123/john123/52107
+#EXTINF:-1,FOX COMEDY HD
+http://iptv.iptv1980.com:8000/john123/john123/52108
+#EXTINF:-1,FOX CRIME HD
+http://iptv.iptv1980.com:8000/john123/john123/52109
+#EXTINF:-1,FOX HD
+http://iptv.iptv1980.com:8000/john123/john123/52110
+#EXTINF:-1,FOX LIFE HD
+http://iptv.iptv1980.com:8000/john123/john123/52111
+#EXTINF:-1,FOX MOVIES HD
+http://iptv.iptv1980.com:8000/john123/john123/52112
+#EXTINF:-1,FUEL TV
+http://iptv.iptv1980.com:8000/john123/john123/52113
+#EXTINF:-1,GLOBO PORTUGAL
+http://iptv.iptv1980.com:8000/john123/john123/52114
+#EXTINF:-1,GLOBO PORTUGAL HD
+http://iptv.iptv1980.com:8000/john123/john123/52115
+#EXTINF:-1,HOLLYWOOD HD
+http://iptv.iptv1980.com:8000/john123/john123/52116
+#EXTINF:-1,JIM JAM
+http://iptv.iptv1980.com:8000/john123/john123/52117
+#EXTINF:-1,KOMBAT SPORT
+http://iptv.iptv1980.com:8000/john123/john123/52118
+#EXTINF:-1,MCM POP
+http://iptv.iptv1980.com:8000/john123/john123/52119
+#EXTINF:-1,MCM TOP
+http://iptv.iptv1980.com:8000/john123/john123/52120
+#EXTINF:-1,MEZZO-LIVE HD
+http://iptv.iptv1980.com:8000/john123/john123/52121
+#EXTINF:-1,MOTORVISION HD
+http://iptv.iptv1980.com:8000/john123/john123/52122
+#EXTINF:-1,MTV PORTUGAL HD
+http://iptv.iptv1980.com:8000/john123/john123/52123
+#EXTINF:-1,NAT GEO HD
+http://iptv.iptv1980.com:8000/john123/john123/52124
+#EXTINF:-1,NAT GEO WILD
+http://iptv.iptv1980.com:8000/john123/john123/52125
+#EXTINF:-1,NAT GEO WILD HD
+http://iptv.iptv1980.com:8000/john123/john123/52126
+#EXTINF:-1,NICK JR.
+http://iptv.iptv1980.com:8000/john123/john123/52127
+#EXTINF:-1,NICKELODEON
+http://iptv.iptv1980.com:8000/john123/john123/52128
+#EXTINF:-1,NOS STUDIOS HD
+http://iptv.iptv1980.com:8000/john123/john123/52129
+#EXTINF:-1,ODISSEIA HD
+http://iptv.iptv1980.com:8000/john123/john123/52130
+#EXTINF:-1,PANDA BIGSS
+http://iptv.iptv1980.com:8000/john123/john123/52131
+#EXTINF:-1,PFC
+http://iptv.iptv1980.com:8000/john123/john123/52132
+#EXTINF:-1,SIC
+http://iptv.iptv1980.com:8000/john123/john123/52134
+#EXTINF:-1,SIC CARAS HD
+http://iptv.iptv1980.com:8000/john123/john123/52135
 #EXTINF:-1,SIC HD
-http://148.69.189.5:8000/play/a085/index.m3u8
-#EXTINF:-1,SIC NotŦcias
-http://148.69.189.5:8000/play/a083/index.m3u8
-#EXTINF:-1,SPORT TV 1 MEO
-http://148.69.189.5:8000/play/a08m/index.m3u8
-#EXTINF:-1,SPORT TV+
-http://148.69.189.5:8000/play/a08b/index.m3u8
-#EXTINF:-1,Sport TV 1 Nos
-http://148.69.189.5:8000/play/a07z/index.m3u8
-#EXTINF:-1,Sport TV 2
-http://148.69.189.5:8000/play/a07p/index.m3u8
-#EXTINF:-1,Sport TV 3
-http://148.69.189.5:8000/play/a07s/index.m3u8
-#EXTINF:-1,Sport TV 4
-http://148.69.189.5:8000/play/a07t/index.m3u8
-#EXTINF:-1,Sport TV 5
-http://148.69.189.5:8000/play/a08c/index.m3u8
-#EXTINF:-1,Sport TV NBA
-http://148.69.189.5:8000/play/a08f/index.m3u8
-#EXTINF:-1,Sporting TV
-http://148.69.189.5:8000/play/a08e/index.m3u8
-#EXTINF:-1,TVCine ACTION HD
-http://148.69.189.5:8000/play/a087/index.m3u8
-#EXTINF:-1,TVCine EDITION HD
-http://148.69.189.5:8000/play/a08i/index.m3u8
-#EXTINF:-1,TVCine EMOTION HD
-http://148.69.189.5:8000/play/a08h/index.m3u8
-#EXTINF:-1,TVCine TOP HD
-http://148.69.189.5:8000/play/a088/index.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52136
+#EXTINF:-1,SIC Kids
+http://iptv.iptv1980.com:8000/john123/john123/52137
+#EXTINF:-1,Sic Kids HD
+http://iptv.iptv1980.com:8000/john123/john123/52138
+#EXTINF:-1,SIC MULHER HD
+http://iptv.iptv1980.com:8000/john123/john123/52139
+#EXTINF:-1,SIC NOTICIAS HD
+http://iptv.iptv1980.com:8000/john123/john123/52140
+#EXTINF:-1,SIC RADICAL HD
+http://iptv.iptv1980.com:8000/john123/john123/52141
+#EXTINF:-1,SPORTING TV HD
+http://iptv.iptv1980.com:8000/john123/john123/52142
+#EXTINF:-1,SYFY-HD
+http://iptv.iptv1980.com:8000/john123/john123/52143
+#EXTINF:-1,TLC
+http://iptv.iptv1980.com:8000/john123/john123/52144
+#EXTINF:-1,TOROS TV HD
+http://iptv.iptv1980.com:8000/john123/john123/52145
+#EXTINF:-1,TPA
+http://iptv.iptv1980.com:8000/john123/john123/52146
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptv.iptv1980.com:8000/john123/john123/52147
+#EXTINF:-1,TV RECORD HD
+http://iptv.iptv1980.com:8000/john123/john123/52148
+#EXTINF:-1,TV SERIES HD
+http://iptv.iptv1980.com:8000/john123/john123/52149
+#EXTINF:-1,TVCINE TOP HD
+http://iptv.iptv1980.com:8000/john123/john123/52150
+#EXTINF:-1,TVCINE EDITION HD
+http://iptv.iptv1980.com:8000/john123/john123/52151
+#EXTINF:-1,TVCINE EMOTION HD
+http://iptv.iptv1980.com:8000/john123/john123/52152
+#EXTINF:-1,TVCINE ACTION HD
+http://iptv.iptv1980.com:8000/john123/john123/52153
 #EXTINF:-1,TVI
-http://148.69.189.5:8000/play/a08l/index.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52154
 #EXTINF:-1,TVI 24
-http://148.69.189.5:8000/play/a07r/index.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52155
+#EXTINF:-1,TVI FICCAO
+http://iptv.iptv1980.com:8000/john123/john123/52156
 #EXTINF:-1,TVI HD
-http://148.69.189.5:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Legislative",ARTV | Canal Parlamento
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (HQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (LQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (MQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (Backup)
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional (Backup)
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" group-title="",RTP Memória [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General",RTP2 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV (Backup)
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+http://iptv.iptv1980.com:8000/john123/john123/52157
+#EXTINF:-1,TVI REALITY
+http://iptv.iptv1980.com:8000/john123/john123/52158
+#EXTINF:-1,VH1
+http://iptv.iptv1980.com:8000/john123/john123/52159
+#EXTINF:-1,DISCOVERY HD
+http://iptv.iptv1980.com:8000/john123/john123/52161
+#EXTINF:-1,ODISSEIA
+http://iptv.iptv1980.com:8000/john123/john123/52162
+#EXTINF:-1,AXN
+http://iptv.iptv1980.com:8000/john123/john123/52163
+#EXTINF:-1,Cinemundo
+http://iptv.iptv1980.com:8000/john123/john123/52164
+#EXTINF:-1,MTV Portugal
+http://iptv.iptv1980.com:8000/john123/john123/52165
+#EXTINF:-1,ZAP VIVA HD
+http://iptv.iptv1980.com:8000/john123/john123/52166
+#EXTINF:-1,GLOBO NOW HD
+http://iptv.iptv1980.com:8000/john123/john123/52167
+#EXTINF:-1,MY CUISINE
+http://iptv.iptv1980.com:8000/john123/john123/52168
+#EXTINF:-1,TV RECORD
+http://iptv.iptv1980.com:8000/john123/john123/52169
+#EXTINF:-1,Porto Canal
+http://iptv.iptv1980.com:8000/john123/john123/52170
+#EXTINF:-1,Sporting TV
+http://iptv.iptv1980.com:8000/john123/john123/52171
+#EXTINF:-1,SPORT TV + HD
+http://iptv.iptv1980.com:8000/john123/john123/52172
+#EXTINF:-1,SPORT TV 1
+http://iptv.iptv1980.com:8000/john123/john123/52173
+#EXTINF:-1,SPORT TV 1 HD
+http://iptv.iptv1980.com:8000/john123/john123/52174
+#EXTINF:-1,SPORT TV 2
+http://iptv.iptv1980.com:8000/john123/john123/52175
+#EXTINF:-1,SPORT TV 2 HD
+http://iptv.iptv1980.com:8000/john123/john123/52176
+#EXTINF:-1,SPORT TV 3
+http://iptv.iptv1980.com:8000/john123/john123/52177
+#EXTINF:-1,SPORT TV 3 HD
+http://iptv.iptv1980.com:8000/john123/john123/52178
+#EXTINF:-1,SPORT TV 4
+http://iptv.iptv1980.com:8000/john123/john123/52179
+#EXTINF:-1,SPORT TV 4 HD
+http://iptv.iptv1980.com:8000/john123/john123/52180
+#EXTINF:-1,SPORT TV 5
+http://iptv.iptv1980.com:8000/john123/john123/52181
+#EXTINF:-1,SPORT TV 5 HD
+http://iptv.iptv1980.com:8000/john123/john123/52182
+#EXTINF:-1,SPORT TV NBA  HD
+http://iptv.iptv1980.com:8000/john123/john123/52183
+#EXTINF:-1,Eurosport 1
+http://iptv.iptv1980.com:8000/john123/john123/52184
+#EXTINF:-1,Eurosport 2
+http://iptv.iptv1980.com:8000/john123/john123/52185
+#EXTINF:-1,Eleven Sports 3
+http://iptv.iptv1980.com:8000/john123/john123/52186
+#EXTINF:-1,Eleven Sports 6
+http://iptv.iptv1980.com:8000/john123/john123/52187
+#EXTINF:-1,Eleven Sports 5
+http://iptv.iptv1980.com:8000/john123/john123/52188
+#EXTINF:-1,Eleven Sports 4
+http://iptv.iptv1980.com:8000/john123/john123/52189
+#EXTINF:-1,Eleven Sports 2
+http://iptv.iptv1980.com:8000/john123/john123/52190
+#EXTINF:-1,Eleven Sports 1
+http://iptv.iptv1980.com:8000/john123/john123/52191
