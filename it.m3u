@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1,RAI 1 HD
+http://epiciptvrestreamer.com:8000/kami/kami/247
+#EXTINF:-1,RAI 2 HD
+http://epiciptvrestreamer.com:8000/kami/kami/248
+#EXTINF:-1,RAI 3 HD
+http://epiciptvrestreamer.com:8000/kami/kami/249
+#EXTINF:-1,RAI 4 HD
+http://epiciptvrestreamer.com:8000/kami/kami/250
+#EXTINF:-1,RETE 4 HD
+http://epiciptvrestreamer.com:8000/kami/kami/251
+#EXTINF:-1,FOX HD
+http://epiciptvrestreamer.com:8000/kami/kami/281
+#EXTINF:-1,FOX LIFE HD
+http://epiciptvrestreamer.com:8000/kami/kami/282
+#EXTINF:-1,FOX ANIMATION HD
+http://epiciptvrestreamer.com:8000/kami/kami/283
+#EXTINF:-1,FOX COMEDY HD
+http://epiciptvrestreamer.com:8000/kami/kami/284
+#EXTINF:-1,FOX CRIME HD
+http://epiciptvrestreamer.com:8000/kami/kami/285
+#EXTINF:-1,PESCA E CACCIA HD
+http://epiciptvrestreamer.com:8000/kami/kami/286
+#EXTINF:-1,DISCOVERY HD
+http://epiciptvrestreamer.com:8000/kami/kami/287
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://epiciptvrestreamer.com:8000/kami/kami/288
+#EXTINF:-1,DISCOVERY TRAVEL&LIVING HD
+http://epiciptvrestreamer.com:8000/kami/kami/289
+#EXTINF:-1,NATIONAL GEO HD
+http://epiciptvrestreamer.com:8000/kami/kami/290
+#EXTINF:-1,NAT GEO WILD HD
+http://epiciptvrestreamer.com:8000/kami/kami/291
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://epiciptvrestreamer.com:8000/kami/kami/292
+#EXTINF:-1,HISTORY CHANNEL
+http://epiciptvrestreamer.com:8000/kami/kami/293
+#EXTINF:-1,ANIMAL PLANET
+http://epiciptvrestreamer.com:8000/kami/kami/294
+#EXTINF:-1,REAL TIME
+http://epiciptvrestreamer.com:8000/kami/kami/295
+#EXTINF:-1,GIALLO
+http://epiciptvrestreamer.com:8000/kami/kami/296
+#EXTINF:-1,FOCUS
+http://epiciptvrestreamer.com:8000/kami/kami/297
+#EXTINF:-1,EURONEWS
+http://epiciptvrestreamer.com:8000/kami/kami/300
+#EXTINF:-1,BOING HD
+http://epiciptvrestreamer.com:8000/kami/kami/301
+#EXTINF:-1,CARTOON NETWORK HD
+http://epiciptvrestreamer.com:8000/kami/kami/302
+#EXTINF:-1,CARTOONITO HD
+http://epiciptvrestreamer.com:8000/kami/kami/303
+#EXTINF:-1,DISNEY JUNIOR HD
+http://epiciptvrestreamer.com:8000/kami/kami/304
+#EXTINF:-1,DISNEY  FHD
+http://epiciptvrestreamer.com:8000/kami/kami/305
+#EXTINF:-1,FRISBEE
+http://epiciptvrestreamer.com:8000/kami/kami/306
+#EXTINF:-1,CIELO HD
+http://epiciptvrestreamer.com:8000/kami/kami/307
+#EXTINF:-1,Italia 1
+http://s3.smashmalta.com:82/live/smash/smash/51.ts
+#EXTINF:-1,Canale 5
+http://s3.smashmalta.com:82/live/smash/smash/52.ts
+#EXTINF:-1,Rete 4
+http://s3.smashmalta.com:82/live/smash/smash/53.ts
+#EXTINF:-1,Rai 1
+http://s3.smashmalta.com:82/live/smash/smash/54.ts
+#EXTINF:-1,Rai 2
+http://s3.smashmalta.com:82/live/smash/smash/55.ts
+#EXTINF:-1,Rai 3
+http://s3.smashmalta.com:82/live/smash/smash/56.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/d4/Ab_channel_i_logo.png" group-title="",AB Channel
