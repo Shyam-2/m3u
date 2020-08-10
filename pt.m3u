@@ -1,53 +1,487 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Legislative",ARTV | Canal Parlamento
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (HQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (LQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caca Vision PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby",Caçavision (MQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="Music",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (Backup)
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional (Backup)
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memoria PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" group-title="",RTP Memória [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP Africa PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General",RTP2 [not 24/7]
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV (Backup)
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1,PT: RTP 1
+http://x.xtv.life:80/sever2020/2020sever/10045957
+#EXTINF:-1,PT: RTP 1 HD
+http://x.xtv.life:80/sever2020/2020sever/10045956
+#EXTINF:-1,PT: RTP 1 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045955
+#EXTINF:-1,PT: RTP 2
+http://x.xtv.life:80/sever2020/2020sever/10045954
+#EXTINF:-1,PT: RTP 2 HD
+http://x.xtv.life:80/sever2020/2020sever/10045953
+#EXTINF:-1,PT: RTP 2 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045952
+#EXTINF:-1,PT: SIC
+http://x.xtv.life:80/sever2020/2020sever/10045951
+#EXTINF:-1,PT: SIC HD
+http://x.xtv.life:80/sever2020/2020sever/10045950
+#EXTINF:-1,PT: SIC FHD
+http://x.xtv.life:80/sever2020/2020sever/10045949
+#EXTINF:-1,PT: TVI HD
+http://x.xtv.life:80/sever2020/2020sever/10045948
+#EXTINF:-1,PT: TVI FHD
+http://x.xtv.life:80/sever2020/2020sever/10045947
+#EXTINF:-1,PT: CMTV
+http://x.xtv.life:80/sever2020/2020sever/10045946
+#EXTINF:-1,PT: CMTV FHD
+http://x.xtv.life:80/sever2020/2020sever/10045945
+#EXTINF:-1,PT: RTP 3
+http://x.xtv.life:80/sever2020/2020sever/10045944
+#EXTINF:-1,PT: RTP 3 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045943
+#EXTINF:-1,PT: TVI 24
+http://x.xtv.life:80/sever2020/2020sever/10045942
+#EXTINF:-1,PT: TVI 24 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045941
+#EXTINF:-1,PT: SIC NOTICIAS
+http://x.xtv.life:80/sever2020/2020sever/10045940
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://x.xtv.life:80/sever2020/2020sever/10045939
+#EXTINF:-1,PT: SIC MULHER HD
+http://x.xtv.life:80/sever2020/2020sever/10045938
+#EXTINF:-1,PT: SIC MULHER FHD
+http://x.xtv.life:80/sever2020/2020sever/10045937
+#EXTINF:-1,PT: SIC CARAS
+http://x.xtv.life:80/sever2020/2020sever/10045936
+#EXTINF:-1,PT: SIC CARAS FHD
+http://x.xtv.life:80/sever2020/2020sever/10045935
+#EXTINF:-1,PT: SIC RADICAL
+http://x.xtv.life:80/sever2020/2020sever/10045934
+#EXTINF:-1,PT: SIC RADICAL FHD
+http://x.xtv.life:80/sever2020/2020sever/10045933
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://x.xtv.life:80/sever2020/2020sever/10045932
+#EXTINF:-1,PT: 24 KITCHEN FHD
+http://x.xtv.life:80/sever2020/2020sever/10045931
+#EXTINF:-1,PT: CASA E COZINHA HD
+http://x.xtv.life:80/sever2020/2020sever/10045930
+#EXTINF:-1,PT: CASA E COZINHA FHD
+http://x.xtv.life:80/sever2020/2020sever/10045929
+#EXTINF:-1,PT: PORTO CANAL
+http://x.xtv.life:80/sever2020/2020sever/10045928
+#EXTINF:-1,PT: PORTO CANAL FHD
+http://x.xtv.life:80/sever2020/2020sever/10045927
+#EXTINF:-1,PT: GLOBO PORTUGAL FHD
+http://x.xtv.life:80/sever2020/2020sever/10045926
+#EXTINF:-1,PT: GLOBO NOW
+http://x.xtv.life:80/sever2020/2020sever/10045925
+#EXTINF:-1,PT: GLOBO
+http://x.xtv.life:80/sever2020/2020sever/10045924
+#EXTINF:-1,PT: RTP MEMORIA
+http://x.xtv.life:80/sever2020/2020sever/10045923
+#EXTINF:-1,PT: RTP MADEIRA
+http://x.xtv.life:80/sever2020/2020sever/10045922
+#EXTINF:-1,PT: RTP AFRICA
+http://x.xtv.life:80/sever2020/2020sever/10045921
+#EXTINF:-1,PT: RTP ACORES
+http://x.xtv.life:80/sever2020/2020sever/10045920
+#EXTINF:-1,PT: TVI REALITY
+http://x.xtv.life:80/sever2020/2020sever/10045919
+#EXTINF:-1,PT: TVI REALITY FHD
+http://x.xtv.life:80/sever2020/2020sever/10045918
+#EXTINF:-1,******* EXCLUSIVO **********
+http://x.xtv.life:80/sever2020/2020sever/10045917
+#EXTINF:-1,PT: TOM CRUISE MOVIES (EX)
+http://x.xtv.life:80/sever2020/2020sever/10045910
+#EXTINF:-1,PT: WESTERN MOVIES (EX)
+http://x.xtv.life:80/sever2020/2020sever/10045909
+#EXTINF:-1,PT: CLASSIC MOVIES (EX)
+http://x.xtv.life:80/sever2020/2020sever/10045908
+#EXTINF:-1,PT: WWE 24 HOURS ( EX)
+http://x.xtv.life:80/sever2020/2020sever/10045904
+#EXTINF:-1,PT: PI100PE (EX)
+http://x.xtv.life:80/sever2020/2020sever/10045903
+#EXTINF:-1,************** FILMES/SERIES **************
+http://x.xtv.life:80/sever2020/2020sever/10045902
+#EXTINF:-1,PT: TV CINE TOP HD
+http://x.xtv.life:80/sever2020/2020sever/10045901
+#EXTINF:-1,PT: TV CINE TOP FHD
+http://x.xtv.life:80/sever2020/2020sever/10045900
+#EXTINF:-1,PT: TV CINE EDITION HD
+http://x.xtv.life:80/sever2020/2020sever/10045899
+#EXTINF:-1,PT: TV CINE EDITION FHD
+http://x.xtv.life:80/sever2020/2020sever/10045898
+#EXTINF:-1,PT: TV CINE EMOTION HD
+http://x.xtv.life:80/sever2020/2020sever/10045897
+#EXTINF:-1,PT: TV CINE EMOTION FHD
+http://x.xtv.life:80/sever2020/2020sever/10045896
+#EXTINF:-1,PT: TV CINE ACTION HD
+http://x.xtv.life:80/sever2020/2020sever/10045895
+#EXTINF:-1,PT: TV CINE ACTION FHD
+http://x.xtv.life:80/sever2020/2020sever/10045894
+#EXTINF:-1,PT: NOS STUDIO HD
+http://x.xtv.life:80/sever2020/2020sever/10045893
+#EXTINF:-1,PT: NOS STUDIO FHD
+http://x.xtv.life:80/sever2020/2020sever/10045892
+#EXTINF:-1,PT: AMC HD
+http://x.xtv.life:80/sever2020/2020sever/10045891
+#EXTINF:-1,PT: AMC FHD
+http://x.xtv.life:80/sever2020/2020sever/10045890
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://x.xtv.life:80/sever2020/2020sever/10045889
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://x.xtv.life:80/sever2020/2020sever/10045888
+#EXTINF:-1,PT: CINEMUNDO
+http://x.xtv.life:80/sever2020/2020sever/10045887
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://x.xtv.life:80/sever2020/2020sever/10045886
+#EXTINF:-1,PT: TV SERIES HD
+http://x.xtv.life:80/sever2020/2020sever/10045885
+#EXTINF:-1,PT: TV SERIES FHD
+http://x.xtv.life:80/sever2020/2020sever/10045884
+#EXTINF:-1,PT: SYFY
+http://x.xtv.life:80/sever2020/2020sever/10045883
+#EXTINF:-1,PT: SYFY FHD
+http://x.xtv.life:80/sever2020/2020sever/10045882
+#EXTINF:-1,PT: AXN HD
+http://x.xtv.life:80/sever2020/2020sever/10045881
+#EXTINF:-1,PT: AXN FHD
+http://x.xtv.life:80/sever2020/2020sever/10045880
+#EXTINF:-1,PT: AXN WHITE HD
+http://x.xtv.life:80/sever2020/2020sever/10045879
+#EXTINF:-1,PT: AXN WHITE FHD
+http://x.xtv.life:80/sever2020/2020sever/10045878
+#EXTINF:-1,PT: AXN MOVIES HD
+http://x.xtv.life:80/sever2020/2020sever/10045877
+#EXTINF:-1,PT: AXN MOVIES FHD
+http://x.xtv.life:80/sever2020/2020sever/10045876
+#EXTINF:-1,PT: FOX HD
+http://x.xtv.life:80/sever2020/2020sever/10045875
+#EXTINF:-1,PT: FOX FHD
+http://x.xtv.life:80/sever2020/2020sever/10045874
+#EXTINF:-1,PT: FOX MOVIES
+http://x.xtv.life:80/sever2020/2020sever/10045873
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://x.xtv.life:80/sever2020/2020sever/10045872
+#EXTINF:-1,PT: FOX LIFE HD
+http://x.xtv.life:80/sever2020/2020sever/10045871
+#EXTINF:-1,PT: FOX LIFE FHD
+http://x.xtv.life:80/sever2020/2020sever/10045870
+#EXTINF:-1,PT: FOX CRIME HD
+http://x.xtv.life:80/sever2020/2020sever/10045869
+#EXTINF:-1,PT: FOX CRIME FHD
+http://x.xtv.life:80/sever2020/2020sever/10045868
+#EXTINF:-1,PT: FOX COMEDY
+http://x.xtv.life:80/sever2020/2020sever/10045867
+#EXTINF:-1,PT: FOX COMEDY HD
+http://x.xtv.life:80/sever2020/2020sever/10045866
+#EXTINF:-1,PT: TVI FICCAO
+http://x.xtv.life:80/sever2020/2020sever/10045865
+#EXTINF:-1,PT: TVI FICCAO FHD
+http://x.xtv.life:80/sever2020/2020sever/10045864
+#EXTINF:-1,PT: CANAL Q
+http://x.xtv.life:80/sever2020/2020sever/10045863
+#EXTINF:-1,PT: EUROCHANNEL
+http://x.xtv.life:80/sever2020/2020sever/10045862
+#EXTINF:-1,**************DESPORTO******************
+http://x.xtv.life:80/sever2020/2020sever/10045861
+#EXTINF:-1,PT: CANAL 11 HD
+http://x.xtv.life:80/sever2020/2020sever/10045860
+#EXTINF:-1,PT: CANAL 11 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045859
+#EXTINF:-1,PT: SPORT TV +
+http://x.xtv.life:80/sever2020/2020sever/10045858
+#EXTINF:-1,PT: SPORT TV + FHD
+http://x.xtv.life:80/sever2020/2020sever/10045857
+#EXTINF:-1,PT: SPORT TV 1
+http://x.xtv.life:80/sever2020/2020sever/10045856
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://x.xtv.life:80/sever2020/2020sever/10045855
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045854
+#EXTINF:-1,PT: SPORT TV 2
+http://x.xtv.life:80/sever2020/2020sever/10045853
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://x.xtv.life:80/sever2020/2020sever/10045852
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045851
+#EXTINF:-1,PT: SPORT TV 3
+http://x.xtv.life:80/sever2020/2020sever/10045850
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://x.xtv.life:80/sever2020/2020sever/10045849
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045848
+#EXTINF:-1,PT: SPORT TV 4
+http://x.xtv.life:80/sever2020/2020sever/10045847
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://x.xtv.life:80/sever2020/2020sever/10045846
+#EXTINF:-1,PT: SPORT TV 5
+http://x.xtv.life:80/sever2020/2020sever/10045845
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://x.xtv.life:80/sever2020/2020sever/10045844
+#EXTINF:-1,PT: SPORT TV NBA
+http://x.xtv.life:80/sever2020/2020sever/10045843
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://x.xtv.life:80/sever2020/2020sever/10045842
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://x.xtv.life:80/sever2020/2020sever/10045841
+#EXTINF:-1,PT: ELEVEN SPORT 1 LOW
+http://x.xtv.life:80/sever2020/2020sever/10045840
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://x.xtv.life:80/sever2020/2020sever/10045839
+#EXTINF:-1,PT: ELEVEN SPORTS 1  FHD
+http://x.xtv.life:80/sever2020/2020sever/10045838
+#EXTINF:-1,PT: ELEVEN SPORT 2 LOW
+http://x.xtv.life:80/sever2020/2020sever/10045837
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://x.xtv.life:80/sever2020/2020sever/10045836
+#EXTINF:-1,PT: ELEVEN SPORTS 2  FHD
+http://x.xtv.life:80/sever2020/2020sever/10045835
+#EXTINF:-1,PT: ELEVEN SPORT 3 LOW
+http://x.xtv.life:80/sever2020/2020sever/10045834
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://x.xtv.life:80/sever2020/2020sever/10045833
+#EXTINF:-1,PT: ELEVEN SPORTS  3 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045832
+#EXTINF:-1,PT: ELEVEN SPORT 4 LOW
+http://x.xtv.life:80/sever2020/2020sever/10045831
+#EXTINF:-1,PT: ELEVEN SPORT 4 HD
+http://x.xtv.life:80/sever2020/2020sever/10045830
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045829
+#EXTINF:-1,PT: ELEVEN SPORT 5 LOW
+http://x.xtv.life:80/sever2020/2020sever/10045828
+#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+http://x.xtv.life:80/sever2020/2020sever/10045827
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045826
+#EXTINF:-1,PT: ELEVEN SPORT 6 LOW
+http://x.xtv.life:80/sever2020/2020sever/10045825
+#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+http://x.xtv.life:80/sever2020/2020sever/10045824
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045823
+#EXTINF:-1,PT: BTV 1
+http://x.xtv.life:80/sever2020/2020sever/10045822
+#EXTINF:-1,PT: BTV 1 HD
+http://x.xtv.life:80/sever2020/2020sever/10045821
+#EXTINF:-1,PT: BTV 1 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045820
+#EXTINF:-1,PT: SPORTING TV
+http://x.xtv.life:80/sever2020/2020sever/10045819
+#EXTINF:-1,PT: SPORTING TV FHD
+http://x.xtv.life:80/sever2020/2020sever/10045818
+#EXTINF:-1,PT: ABOLA TV
+http://x.xtv.life:80/sever2020/2020sever/10045817
+#EXTINF:-1,PT: A BOLA TV FHD
+http://x.xtv.life:80/sever2020/2020sever/10045816
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://x.xtv.life:80/sever2020/2020sever/10045815
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://x.xtv.life:80/sever2020/2020sever/10045814
+#EXTINF:-1,PT: EUROSPORT 2
+http://x.xtv.life:80/sever2020/2020sever/10045813
+#EXTINF:-1,PT: PFC
+http://x.xtv.life:80/sever2020/2020sever/10045812
+#EXTINF:-1,PT: NBA TV
+http://x.xtv.life:80/sever2020/2020sever/10045811
+#EXTINF:-1,PT: MOTORVISION
+http://x.xtv.life:80/sever2020/2020sever/10045810
+#EXTINF:-1,PT: KOMBAT SPORT
+http://x.xtv.life:80/sever2020/2020sever/10045809
+#EXTINF:-1,PT: FIGHT NETWORK FHD
+http://x.xtv.life:80/sever2020/2020sever/10045808
+#EXTINF:-1,PT: CACA E PESCA
+http://x.xtv.life:80/sever2020/2020sever/10045807
+#EXTINF:-1,PT: CACAVISION
+http://x.xtv.life:80/sever2020/2020sever/10045806
+#EXTINF:-1,PT: TOROS TV
+http://x.xtv.life:80/sever2020/2020sever/10045805
+#EXTINF:-1,************* CULTURA ************
+http://x.xtv.life:80/sever2020/2020sever/10045804
+#EXTINF:-1,PT: NATIONAL GEPGRAPHIC HD
+http://x.xtv.life:80/sever2020/2020sever/10045803
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC FHD
+http://x.xtv.life:80/sever2020/2020sever/10045802
+#EXTINF:-1,PT: NAT GEO WILD
+http://x.xtv.life:80/sever2020/2020sever/10045801
+#EXTINF:-1,PT: NAT GEO WILD FHD
+http://x.xtv.life:80/sever2020/2020sever/10045800
+#EXTINF:-1,PT: DISCOVERY CHANNEL  HD
+http://x.xtv.life:80/sever2020/2020sever/10045799
+#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
+http://x.xtv.life:80/sever2020/2020sever/10045798
+#EXTINF:-1,PT:  ID INVESTIGATION DISCOVERY HD
+http://x.xtv.life:80/sever2020/2020sever/10045797
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY FHD
+http://x.xtv.life:80/sever2020/2020sever/10045796
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://x.xtv.life:80/sever2020/2020sever/10045795
+#EXTINF:-1,PT: TRAVEL CHANNEL FHD
+http://x.xtv.life:80/sever2020/2020sever/10045794
+#EXTINF:-1,PT: CRIME   INVESTIGATION
+http://x.xtv.life:80/sever2020/2020sever/10045793
+#EXTINF:-1,PT: ODISSEIA FHD
+http://x.xtv.life:80/sever2020/2020sever/10045792
+#EXTINF:-1,PT: BLAZE TV FHD
+http://x.xtv.life:80/sever2020/2020sever/10045791
+#EXTINF:-1,PT: HISTORIA
+http://x.xtv.life:80/sever2020/2020sever/10045790
+#EXTINF:-1,PT: HISTORIA FHD
+http://x.xtv.life:80/sever2020/2020sever/10045789
+#EXTINF:-1,PT: CBS REALITY
+http://x.xtv.life:80/sever2020/2020sever/10045788
+#EXTINF:-1,PT: FOOD NETWORK FHD
+http://x.xtv.life:80/sever2020/2020sever/10045787
+#EXTINF:-1,PT: FINE LIVING NETWORK FHD
+http://x.xtv.life:80/sever2020/2020sever/10045786
+#EXTINF:-1,PT: LUXE TV HD
+http://x.xtv.life:80/sever2020/2020sever/10045785
+#EXTINF:-1,PT: FASHION TV
+http://x.xtv.life:80/sever2020/2020sever/10045784
+#EXTINF:-1,PT: DOG TV FHD
+http://x.xtv.life:80/sever2020/2020sever/10045783
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://x.xtv.life:80/sever2020/2020sever/10045782
+#EXTINF:-1,PT: E! ENTERTAINMENT FHD
+http://x.xtv.life:80/sever2020/2020sever/10045781
+#EXTINF:-1,PT: TLC
+http://x.xtv.life:80/sever2020/2020sever/10045780
+#EXTINF:-1,PT: FUEL TV FHD
+http://x.xtv.life:80/sever2020/2020sever/10045779
+#EXTINF:-1,************* INFANTIL ************
+http://x.xtv.life:80/sever2020/2020sever/10045778
+#EXTINF:-1,PT: SIC K
+http://x.xtv.life:80/sever2020/2020sever/10045777
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://x.xtv.life:80/sever2020/2020sever/10045776
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://x.xtv.life:80/sever2020/2020sever/10045775
+#EXTINF:-1,PT: CARTOON NETWORK
+http://x.xtv.life:80/sever2020/2020sever/10045774
+#EXTINF:-1,PT: CANAL PANDA
+http://x.xtv.life:80/sever2020/2020sever/10045773
+#EXTINF:-1,PT: BIGGS
+http://x.xtv.life:80/sever2020/2020sever/10045772
+#EXTINF:-1,PT: NICKELODEON
+http://x.xtv.life:80/sever2020/2020sever/10045771
+#EXTINF:-1,PT: NICK JR.
+http://x.xtv.life:80/sever2020/2020sever/10045770
+#EXTINF:-1,PT: BOOMERANG
+http://x.xtv.life:80/sever2020/2020sever/10045769
+#EXTINF:-1,PT: BABY TV
+http://x.xtv.life:80/sever2020/2020sever/10045768
+#EXTINF:-1,PT: JIM JAM
+http://x.xtv.life:80/sever2020/2020sever/10045767
+#EXTINF:-1,************* MUSICA ************
+http://x.xtv.life:80/sever2020/2020sever/10045766
+#EXTINF:-1,PT: VH1
+http://x.xtv.life:80/sever2020/2020sever/10045765
+#EXTINF:-1,PT: MTV PORTUGAL
+http://x.xtv.life:80/sever2020/2020sever/10045764
+#EXTINF:-1,PT: TRACE URBAN
+http://x.xtv.life:80/sever2020/2020sever/10045763
+#EXTINF:-1,PT: AFRO MUSIC
+http://x.xtv.life:80/sever2020/2020sever/10045762
+#EXTINF:-1,PT: MCM POP
+http://x.xtv.life:80/sever2020/2020sever/10045761
+#EXTINF:-1,PT: C MUSIC TV PT
+http://x.xtv.life:80/sever2020/2020sever/10045760
+#EXTINF:-1,PT: MEZZO
+http://x.xtv.life:80/sever2020/2020sever/10045759
+#EXTINF:-1,***********INTERNACIONAIS**************
+http://x.xtv.life:80/sever2020/2020sever/10045758
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://x.xtv.life:80/sever2020/2020sever/10045757
+#EXTINF:-1,PT: TCV CABO VERDE
+http://x.xtv.life:80/sever2020/2020sever/10045756
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://x.xtv.life:80/sever2020/2020sever/10045755
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://x.xtv.life:80/sever2020/2020sever/10045754
+#EXTINF:-1,PT: BLOOMBERG
+http://x.xtv.life:80/sever2020/2020sever/10045753
+#EXTINF:-1,PT: CNN
+http://x.xtv.life:80/sever2020/2020sever/10045752
+#EXTINF:-1,PT: TV RECORD
+http://x.xtv.life:80/sever2020/2020sever/10045751
+#EXTINF:-1,PT: ZAP VIVA HD
+http://x.xtv.life:80/sever2020/2020sever/10045750
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://x.xtv.life:80/sever2020/2020sever/10045749
+#EXTINF:-1,PT: FATIMA TV
+http://x.xtv.life:80/sever2020/2020sever/10045748
+#EXTINF:-1,CNN
+http://x.xtv.life:80/sever2020/2020sever/18885
+#EXTINF:-1,ELEVEN SPORTS 1
+http://x.xtv.life:80/sever2020/2020sever/18806
+#EXTINF:-1,ELEVEN SPORTS 2
+http://x.xtv.life:80/sever2020/2020sever/18805
+#EXTINF:-1,ELEVEN SPORTS 3
+http://x.xtv.life:80/sever2020/2020sever/18804
+#EXTINF:-1,ELEVEN SPORTS 4
+http://x.xtv.life:80/sever2020/2020sever/18803
+#EXTINF:-1,FOX CRIME HD
+http://x.xtv.life:80/sever2020/2020sever/18759
+#EXTINF:-1,GLOBO
+http://x.xtv.life:80/sever2020/2020sever/18867
+#EXTINF:-1,GLOBO HD
+http://x.xtv.life:80/sever2020/2020sever/18754
+#EXTINF:-1,RTP 1 HD
+http://x.xtv.life:80/sever2020/2020sever/7052
+#EXTINF:-1,RTP 1 HD²
+http://x.xtv.life:80/sever2020/2020sever/18841
+#EXTINF:-1,SIC
+http://x.xtv.life:80/sever2020/2020sever/7046
+#EXTINF:-1,SPORT TV 1 HD
+http://x.xtv.life:80/sever2020/2020sever/18787
+#EXTINF:-1,SPORT TV 2 HD
+http://x.xtv.life:80/sever2020/2020sever/18785
+#EXTINF:-1,SPORT TV 4 HD
+http://x.xtv.life:80/sever2020/2020sever/10027055
+#EXTINF:-1,SPORT+ TV
+http://x.xtv.life:80/sever2020/2020sever/18789
+#EXTINF:-1,TVI 24
+http://x.xtv.life:80/sever2020/2020sever/18776
+#EXTINF:-1,TVI HD
+http://x.xtv.life:80/sever2020/2020sever/18818
+#EXTINF:-1,ELEVEN SPORST 2 HD
+http://x.xtv.life:80/sever2020/2020sever/10040679
+#EXTINF:-1,ELEVEN SPORTS 1
+http://x.xtv.life:80/sever2020/2020sever/10040684
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://x.xtv.life:80/sever2020/2020sever/10040678
+#EXTINF:-1,ELEVEN SPORTS 2
+http://x.xtv.life:80/sever2020/2020sever/10040685
+#EXTINF:-1,ELEVEN SPORTS 3
+http://x.xtv.life:80/sever2020/2020sever/10040686
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://x.xtv.life:80/sever2020/2020sever/10040680
+#EXTINF:-1,ELEVEN SPORTS 4
+http://x.xtv.life:80/sever2020/2020sever/10040687
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://x.xtv.life:80/sever2020/2020sever/10040681
+#EXTINF:-1,ELEVEN SPORTS 5
+http://x.xtv.life:80/sever2020/2020sever/10040688
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://x.xtv.life:80/sever2020/2020sever/10040682
+#EXTINF:-1,ELEVEN SPORTS 6
+http://x.xtv.life:80/sever2020/2020sever/10040689
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://x.xtv.life:80/sever2020/2020sever/10040683
+#EXTINF:-1,SPORT TV +
+http://x.xtv.life:80/sever2020/2020sever/10040690
+#EXTINF:-1,SPORT TV 1
+http://x.xtv.life:80/sever2020/2020sever/10040691
+#EXTINF:-1,SPORT TV 1²
+http://x.xtv.life:80/sever2020/2020sever/10040696
+#EXTINF:-1,SPORT TV 2
+http://x.xtv.life:80/sever2020/2020sever/10040692
+#EXTINF:-1,SPORT TV 2²
+http://x.xtv.life:80/sever2020/2020sever/10040697
+#EXTINF:-1,SPORT TV 3
+http://x.xtv.life:80/sever2020/2020sever/10040693
+#EXTINF:-1,SPORT TV 3²
+http://x.xtv.life:80/sever2020/2020sever/10040698
+#EXTINF:-1,SPORT TV 4
+http://x.xtv.life:80/sever2020/2020sever/10040694
+#EXTINF:-1,SPORT TV 4²
+http://x.xtv.life:80/sever2020/2020sever/10040699
+#EXTINF:-1,SPORT TV 5
+http://x.xtv.life:80/sever2020/2020sever/10040695
+#EXTINF:-1,SPORT TV 5²
+http://x.xtv.life:80/sever2020/2020sever/10040700
+#EXTINF:-1,SPORT TV+²
+http://x.xtv.life:80/sever2020/2020sever/10040701
+#EXTINF:-1,SPORTING TV
+http://x.xtv.life:80/sever2020/2020sever/10040702
