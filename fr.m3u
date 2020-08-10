@@ -1,26 +1,68 @@
 #EXTM3U
-#EXTINF:-1,RTI1
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6147
-#EXTINF:-1,RTI 2
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6146
-#EXTINF:-1,TF1 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6230
-#EXTINF:-1,France 5 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6235
-#EXTINF:-1,France 4 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6236
-#EXTINF:-1,France 3 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6237
-#EXTINF:-1,M6
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6224
-#EXTINF:-1,France 2 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6240
-#EXTINF:-1,Euronews fr
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6223
-#EXTINF:-1,RTL9
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6227
-#EXTINF:-1,Arte
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6151
+#EXTINF:-1,W9 HD
+http://epiciptvrestreamer.com:8000/kami/kami/103
+#EXTINF:-1,SPORT 1HD
+http://epiciptvrestreamer.com:8000/kami/kami/220
+#EXTINF:-1,SPORT 2HD
+http://epiciptvrestreamer.com:8000/kami/kami/221
+#EXTINF:-1,SPORT 3HD
+http://epiciptvrestreamer.com:8000/kami/kami/222
+#EXTINF:-1,Sports MAX 4
+http://epiciptvrestreamer.com:8000/kami/kami/223
+#EXTINF:-1,Sports MAX 5
+http://epiciptvrestreamer.com:8000/kami/kami/224
+#EXTINF:-1,Sports MAX 6
+http://epiciptvrestreamer.com:8000/kami/kami/225
+#EXTINF:-1,Sports MAX 7
+http://epiciptvrestreamer.com:8000/kami/kami/226
+#EXTINF:-1,Sports MAX 8
+http://epiciptvrestreamer.com:8000/kami/kami/227
+#EXTINF:-1,Sports MAX 9
+http://epiciptvrestreamer.com:8000/kami/kami/228
+#EXTINF:-1,Sports MAX 10
+http://epiciptvrestreamer.com:8000/kami/kami/229
+#EXTINF:-1,NICKELODEON JUN HD
+http://epiciptvrestreamer.com:8000/kami/kami/154
+#EXTINF:-1,NICKELODEON HD
+http://epiciptvrestreamer.com:8000/kami/kami/155
+#EXTINF:-1,NATIONAL GEO HD
+http://epiciptvrestreamer.com:8000/kami/kami/156
+#EXTINF:-1,NAT GEO WILD HD
+http://epiciptvrestreamer.com:8000/kami/kami/157
+#EXTINF:-1,FRANCE O HD
+http://epiciptvrestreamer.com:8000/kami/kami/174
+#EXTINF:-1,FRANCE 5HD
+http://epiciptvrestreamer.com:8000/kami/kami/175
+#EXTINF:-1,FRANCE 4HD
+http://epiciptvrestreamer.com:8000/kami/kami/176
+#EXTINF:-1,FRANCE 3HD
+http://epiciptvrestreamer.com:8000/kami/kami/177
+#EXTINF:-1,FRANCE 2HD
+http://epiciptvrestreamer.com:8000/kami/kami/178
+#EXTINF:-1,FRANCE 24 HD
+http://epiciptvrestreamer.com:8000/kami/kami/179
+#EXTINF:-1,EURONEWS HD
+http://epiciptvrestreamer.com:8000/kami/kami/180
+#EXTINF:-1,DISNEY XD HD
+http://epiciptvrestreamer.com:8000/kami/kami/184
+#EXTINF:-1,DISNEY JUNIOR HD
+http://epiciptvrestreamer.com:8000/kami/kami/185
+#EXTINF:-1,DISNEY CINEMA HD
+http://epiciptvrestreamer.com:8000/kami/kami/186
+#EXTINF:-1,DISCOVERY SCi HD
+http://epiciptvrestreamer.com:8000/kami/kami/188
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://epiciptvrestreamer.com:8000/kami/kami/189
+#EXTINF:-1,DISCOVERY HD
+http://epiciptvrestreamer.com:8000/kami/kami/190
+#EXTINF:-1,DISCOVERY FAMLIY HD
+http://epiciptvrestreamer.com:8000/kami/kami/191
+#EXTINF:-1,SPORTS 1 FHD
+http://epiciptvrestreamer.com:8000/kami/kami/3208
+#EXTINF:-1,SPORTS 2 FHD
+http://epiciptvrestreamer.com:8000/kami/kami/3209
+#EXTINF:-1,SPORTS 3 FHD
+http://epiciptvrestreamer.com:8000/kami/kami/3210
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
@@ -90,7 +132,7 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+http://live.lachainenormande.80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MCM Top
