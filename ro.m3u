@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1,TVR HD
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7438.m3u8
+#EXTINF:-1,TVR 1
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7439.m3u8
+#EXTINF:-1,TVR 2
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7440.m3u8
+#EXTINF:-1,TVR 3
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7441.m3u8
+#EXTINF:-1,TVR CLUJ
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7442.m3u8
+#EXTINF:-1,TVR CRAIOVA
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7443.m3u8
+#EXTINF:-1,B1
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7444.m3u8
+#EXTINF:-1,ANTENA COMEDY
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7445.m3u8
+#EXTINF:-1,ANTENA COOK AND PLAY
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7446.m3u8
+#EXTINF:-1,ANTENA MONDEN
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7447.m3u8
+#EXTINF:-1,TVR TIMISOARA
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7448.m3u8
+#EXTINF:-1,1 MUSIC CHANNEL
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7449.m3u8
+#EXTINF:-1,ALFA OMEGA
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7450.m3u8
+#EXTINF:-1,BIT TV
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7451.m3u8
+#EXTINF:-1,BUCOVINA
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7452.m3u8
+#EXTINF:-1,CANAL 33
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7453.m3u8
+#EXTINF:-1,CREDO TV
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7454.m3u8
+#EXTINF:-1,INFO
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7455.m3u8
+#EXTINF:-1,INTERMEDIA
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7456.m3u8
+#EXTINF:-1,KAPITAL TV
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7457.m3u8
+#EXTINF:-1,PRO X
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7458.m3u8
+#EXTINF:-1,PROFIT
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7459.m3u8
+#EXTINF:-1,REALITATEA TV
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7460.m3u8
+#EXTINF:-1,SANGEORZ TV
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7461.m3u8
+#EXTINF:-1,TELESTAR 1
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7462.m3u8
+#EXTINF:-1,TV SE
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7463.m3u8
+#EXTINF:-1,TRAVEL MIX
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7464.m3u8
+#EXTINF:-1,TV PLUS SUCEAVA
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7465.m3u8
+#EXTINF:-1,TV SAT
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7466.m3u8
+#EXTINF:-1,VP TV
+http://5.226.139.184:7000/live/Ekmecic/Ekmecic/7467.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASEVENTV" tvg-language="Romanian" tvg-logo="" group-title="",A7 TV
