@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1,ARB: BEIN SPORTS 1
+http://mlsh1.com:2086/live/jared/jared/773.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 10
+http://mlsh1.com:2086/live/jared/jared/782.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 11
+http://mlsh1.com:2086/live/jared/jared/783.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 12
+http://mlsh1.com:2086/live/jared/jared/791.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 13
+http://mlsh1.com:2086/live/jared/jared/784.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 2 
+http://mlsh1.com:2086/live/jared/jared/774.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 3 
+http://mlsh1.com:2086/live/jared/jared/775.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 4 
+http://mlsh1.com:2086/live/jared/jared/776.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 5
+http://mlsh1.com:2086/live/jared/jared/777.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 6
+http://mlsh1.com:2086/live/jared/jared/778.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 7 
+http://mlsh1.com:2086/live/jared/jared/779.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 8
+http://mlsh1.com:2086/live/jared/jared/780.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 9
+http://mlsh1.com:2086/live/jared/jared/781.m3u8
+#EXTINF:-1,AU: ESPN
+http://mlsh1.com:2086/live/jared/jared/5333.m3u8
+#EXTINF:-1,AU: ESPN 2
+http://mlsh1.com:2086/live/jared/jared/5332.m3u8
+#EXTINF:-1,AU: FOX SPORTS 501
+http://mlsh1.com:2086/live/jared/jared/5335.m3u8
+#EXTINF:-1,AU: FOX SPORTS 502
+http://mlsh1.com:2086/live/jared/jared/5336.m3u8
+#EXTINF:-1,AU: FOX SPORTS 503
+http://mlsh1.com:2086/live/jared/jared/5337.m3u8
+#EXTINF:-1,AU: FOX SPORTS 504
+http://mlsh1.com:2086/live/jared/jared/5338.m3u8
+#EXTINF:-1,AU: FOX SPORTS 505
+http://mlsh1.com:2086/live/jared/jared/5339.m3u8
+#EXTINF:-1,AU: FOX SPORTS 506
+http://mlsh1.com:2086/live/jared/jared/5340.m3u8
+#EXTINF:-1,AU: FOX SPORTS 507
+http://mlsh1.com:2086/live/jared/jared/5341.m3u8
+#EXTINF:-1,AU: FOX SPORTS NEWS
+http://mlsh1.com:2086/live/jared/jared/5334.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" tvg-country="TR" tvg-url="" group-title="Sport",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
