@@ -1,68 +1,246 @@
 #EXTM3U
-#EXTINF:-1,W9 HD
-http://epiciptvrestreamer.com:8000/kami/kami/103
-#EXTINF:-1,SPORT 1HD
-http://epiciptvrestreamer.com:8000/kami/kami/220
-#EXTINF:-1,SPORT 2HD
-http://epiciptvrestreamer.com:8000/kami/kami/221
-#EXTINF:-1,SPORT 3HD
-http://epiciptvrestreamer.com:8000/kami/kami/222
-#EXTINF:-1,Sports MAX 4
-http://epiciptvrestreamer.com:8000/kami/kami/223
-#EXTINF:-1,Sports MAX 5
-http://epiciptvrestreamer.com:8000/kami/kami/224
-#EXTINF:-1,Sports MAX 6
-http://epiciptvrestreamer.com:8000/kami/kami/225
-#EXTINF:-1,Sports MAX 7
-http://epiciptvrestreamer.com:8000/kami/kami/226
-#EXTINF:-1,Sports MAX 8
-http://epiciptvrestreamer.com:8000/kami/kami/227
-#EXTINF:-1,Sports MAX 9
-http://epiciptvrestreamer.com:8000/kami/kami/228
-#EXTINF:-1,Sports MAX 10
-http://epiciptvrestreamer.com:8000/kami/kami/229
-#EXTINF:-1,NICKELODEON JUN HD
-http://epiciptvrestreamer.com:8000/kami/kami/154
-#EXTINF:-1,NICKELODEON HD
-http://epiciptvrestreamer.com:8000/kami/kami/155
-#EXTINF:-1,NATIONAL GEO HD
-http://epiciptvrestreamer.com:8000/kami/kami/156
-#EXTINF:-1,NAT GEO WILD HD
-http://epiciptvrestreamer.com:8000/kami/kami/157
-#EXTINF:-1,FRANCE O HD
-http://epiciptvrestreamer.com:8000/kami/kami/174
-#EXTINF:-1,FRANCE 5HD
-http://epiciptvrestreamer.com:8000/kami/kami/175
-#EXTINF:-1,FRANCE 4HD
-http://epiciptvrestreamer.com:8000/kami/kami/176
-#EXTINF:-1,FRANCE 3HD
-http://epiciptvrestreamer.com:8000/kami/kami/177
-#EXTINF:-1,FRANCE 2HD
-http://epiciptvrestreamer.com:8000/kami/kami/178
-#EXTINF:-1,FRANCE 24 HD
-http://epiciptvrestreamer.com:8000/kami/kami/179
-#EXTINF:-1,EURONEWS HD
-http://epiciptvrestreamer.com:8000/kami/kami/180
-#EXTINF:-1,DISNEY XD HD
-http://epiciptvrestreamer.com:8000/kami/kami/184
-#EXTINF:-1,DISNEY JUNIOR HD
-http://epiciptvrestreamer.com:8000/kami/kami/185
-#EXTINF:-1,DISNEY CINEMA HD
-http://epiciptvrestreamer.com:8000/kami/kami/186
-#EXTINF:-1,DISCOVERY SCi HD
-http://epiciptvrestreamer.com:8000/kami/kami/188
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://epiciptvrestreamer.com:8000/kami/kami/189
-#EXTINF:-1,DISCOVERY HD
-http://epiciptvrestreamer.com:8000/kami/kami/190
-#EXTINF:-1,DISCOVERY FAMLIY HD
-http://epiciptvrestreamer.com:8000/kami/kami/191
-#EXTINF:-1,SPORTS 1 FHD
-http://epiciptvrestreamer.com:8000/kami/kami/3208
-#EXTINF:-1,SPORTS 2 FHD
-http://epiciptvrestreamer.com:8000/kami/kami/3209
-#EXTINF:-1,SPORTS 3 FHD
-http://epiciptvrestreamer.com:8000/kami/kami/3210
+#EXTINF:-1,W9
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2330.m3u8
+#EXTINF:-1,Voyages
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2331.m3u8
+#EXTINF:-1,Ushuaïa
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2332.m3u8
+#EXTINF:-1,TV.Breizh
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2333.m3u8
+#EXTINF:-1,TREK
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2334.m3u8
+#EXTINF:-1,Toute.histoire
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2335.m3u8
+#EXTINF:-1,toonami
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2336.m3u8
+#EXTINF:-1,TMC
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2337.m3u8
+#EXTINF:-1,tiji
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2338.m3u8
+#EXTINF:-1,TFX
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2339.m3u8
+#EXTINF:-1,TF1.F.S
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2340.m3u8
+#EXTINF:-1,TF1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2341.m3u8
+#EXTINF:-1,Teva SD
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2342.m3u8
+#EXTINF:-1,TéléTOON
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2343.m3u8
+#EXTINF:-1,TCM.Cinema
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2344.m3u8
+#EXTINF:-1,Syfy.SD
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2345.m3u8
+#EXTINF:-1,sundance
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2346.m3u8
+#EXTINF:-1,Serie.Club
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2347.m3u8
+#EXTINF:-1,Seasons
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2348.m3u8
+#EXTINF:-1,Science.et.Vie
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2349.m3u8
+#EXTINF:-1,RTL9
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2350.m3u8
+#EXTINF:-1,Rmc.Story
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2351.m3u8
+#EXTINF:-1,RMC.Sport4
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2352.m3u8
+#EXTINF:-1,RMC.Sport3
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2353.m3u8
+#EXTINF:-1,RMC.Sport2
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2354.m3u8
+#EXTINF:-1,RMC.Sport1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2355.m3u8
+#EXTINF:-1,Rmc.Sport.News
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2356.m3u8
+#EXTINF:-1,RMC.decouverte
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2357.m3u8
+#EXTINF:-1,Planete.CI
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2358.m3u8
+#EXTINF:-1,Planete.AE
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2359.m3u8
+#EXTINF:-1,Planete
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2360.m3u8
+#EXTINF:-1,Piwi
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2361.m3u8
+#EXTINF:-1,Paris.Premiere
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2362.m3u8
+#EXTINF:-1,Paramount.channel
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2363.m3u8
+#EXTINF:-1,OL.tv
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2364.m3u8
+#EXTINF:-1,Ocs.Max
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2365.m3u8
+#EXTINF:-1,Ocs.Geants
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2366.m3u8
+#EXTINF:-1,Ocs.City
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2367.m3u8
+#EXTINF:-1,Ocs.Choc
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2368.m3u8
+#EXTINF:-1,NRJ12
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2369.m3u8
+#EXTINF:-1,NRJ.Hits
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2370.m3u8
+#EXTINF:-1,Nickelodeon1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2371.m3u8
+#EXTINF:-1,Nickelodeon.Junior
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2372.m3u8
+#EXTINF:-1,Nickelodeon
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2373.m3u8
+#EXTINF:-1,nick4teens
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2374.m3u8
+#EXTINF:-1,Natgeo
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2375.m3u8
+#EXTINF:-1,Nat.geo.wild
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2376.m3u8
+#EXTINF:-1,MCM.TOP
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2377.m3u8
+#EXTINF:-1,MCM
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2378.m3u8
+#EXTINF:-1,Mangas
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2379.m3u8
+#EXTINF:-1,M6
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2380.m3u8
+#EXTINF:-1,LCP
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2381.m3u8
+#EXTINF:-1,LCI
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2382.m3u8
+#EXTINF:-1,j.one
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2383.m3u8
+#EXTINF:-1,INFOSPORT
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2384.m3u8
+#EXTINF:-1,Gulli
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2385.m3u8
+#EXTINF:-1,Golf.channel
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2386.m3u8
+#EXTINF:-1,gameone1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2387.m3u8
+#EXTINF:-1,GameOne
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2388.m3u8
+#EXTINF:-1,FranceO
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2389.m3u8
+#EXTINF:-1,Franceinfo
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2390.m3u8
+#EXTINF:-1,France5
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2391.m3u8
+#EXTINF:-1,France4
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2392.m3u8
+#EXTINF:-1,France3
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2393.m3u8
+#EXTINF:-1,France2
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2394.m3u8
+#EXTINF:-1,Eurosport2
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2395.m3u8
+#EXTINF:-1,Equipe21
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2396.m3u8
+#EXTINF:-1,Equidia.Live
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2397.m3u8
+#EXTINF:-1,e.enter
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2398.m3u8
+#EXTINF:-1,Disney.XD
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2399.m3u8
+#EXTINF:-1,DISNEY.Junior
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2400.m3u8
+#EXTINF:-1,Disney.Cinema
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2401.m3u8
+#EXTINF:-1,Disney.Channel1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2402.m3u8
+#EXTINF:-1,Disney.Channel
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2403.m3u8
+#EXTINF:-1,Discovery.science
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2404.m3u8
+#EXTINF:-1,Discovery.investigation
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2405.m3u8
+#EXTINF:-1,Discovery.family
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2406.m3u8
+#EXTINF:-1,Discovery
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2407.m3u8
+#EXTINF:-1,CStar
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2408.m3u8
+#EXTINF:-1,Crime.District
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2409.m3u8
+#EXTINF:-1,Comedie
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2410.m3u8
+#EXTINF:-1,CNews
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2411.m3u8
+#EXTINF:-1,CinéPremier
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2412.m3u8
+#EXTINF:-1,Cinéfrisson
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2413.m3u8
+#EXTINF:-1,CinéFamiz
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2414.m3u8
+#EXTINF:-1,CineEmotion
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2415.m3u8
+#EXTINF:-1,CineClub
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2416.m3u8
+#EXTINF:-1,CinéClassic
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2417.m3u8
+#EXTINF:-1,Cherie25
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2418.m3u8
+#EXTINF:-1,Chasse.et.Pêche
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2419.m3u8
+#EXTINF:-1,Cartoon.Network
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2420.m3u8
+#EXTINF:-1,canalj
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2421.m3u8
+#EXTINF:-1,Canal.Sport
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2422.m3u8
+#EXTINF:-1,Canal.Series
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2423.m3u8
+#EXTINF:-1,Canal.Family
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2424.m3u8
+#EXTINF:-1,Canal.Cinema
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2425.m3u8
+#EXTINF:-1,CANAL
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2426.m3u8
+#EXTINF:-1,C8
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2427.m3u8
+#EXTINF:-1,boomerang1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2428.m3u8
+#EXTINF:-1,Boomerang
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2429.m3u8
+#EXTINF:-1,Boing
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2430.m3u8
+#EXTINF:-1,BFMTV
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2431.m3u8
+#EXTINF:-1,beinsports9
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2432.m3u8
+#EXTINF:-1,beinsports8
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2433.m3u8
+#EXTINF:-1,beinsports7
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2434.m3u8
+#EXTINF:-1,beinsports6
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2435.m3u8
+#EXTINF:-1,beinsports5
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2436.m3u8
+#EXTINF:-1,beinsports4
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2437.m3u8
+#EXTINF:-1,beinsports3
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2438.m3u8
+#EXTINF:-1,beinsports2
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2439.m3u8
+#EXTINF:-1,beinsports10
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2440.m3u8
+#EXTINF:-1,beinsport1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2441.m3u8
+#EXTINF:-1,ARTE
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2442.m3u8
+#EXTINF:-1,Animaux
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2443.m3u8
+#EXTINF:-1,altice.studio
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2444.m3u8
+#EXTINF:-1,Action
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2445.m3u8
+#EXTINF:-1,AB3
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2446.m3u8
+#EXTINF:-1,AB1
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2447.m3u8
+#EXTINF:-1,AB.Moteurs
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2448.m3u8
+#EXTINF:-1,6ter
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2449.m3u8
+#EXTINF:-1,13eme.rue
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
