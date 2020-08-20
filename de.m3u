@@ -1,45 +1,449 @@
 #EXTM3U
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/3" tvg-id="1cff636b0a69a1b5e765e2d8e13e7e06" tvg-chno="1",Das Erste HD
-http://79.230.174.129:9981/stream/channelid/1801715484?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/4" tvg-id="d9ac3cb5e85ebdde9ffaee6fa1685aa9" tvg-chno="2",ZDF HD
-http://79.230.174.129:9981/stream/channelid/893168857?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/5" tvg-id="186a6c0f3724e5656704a69169588b43" tvg-chno="3",RTL
-http://79.230.174.129:9981/stream/channelid/258763288?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/6" tvg-id="d0418ea0db3c2c1146bdda88dc930365" tvg-chno="4",Sat1
-http://79.230.174.129:9981/stream/channelid/546193872?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/7" tvg-id="b0a308819a6e50a159fcc5c91773f5d1" tvg-chno="5",Pro7
-http://79.230.174.129:9981/stream/channelid/17343408?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/8" tvg-id="cdb747d390b06c825c7216c75299a1a5" tvg-chno="6",VOX
-http://79.230.174.129:9981/stream/channelid/1397209037?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/9" tvg-id="d72c624c14fb280c75897e3ed52f8d74" tvg-chno="7",Kabel1
-http://79.230.174.129:9981/stream/channelid/1281502423?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/10" tvg-id="f32458159015016caf158470d6bd3844" tvg-chno="8",RTL2
-http://79.230.174.129:9981/stream/channelid/358098163?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/11" tvg-id="efca9c991204f6235edcf2254fcec598" tvg-chno="9",WDR
-http://79.230.174.129:9981/stream/channelid/429705967?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/12" tvg-id="46f3b2f9d24e3e09111848ee562b9a9a" tvg-chno="10",WDR Aachen
-http://79.230.174.129:9981/stream/channelid/2041770822?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/13" tvg-id="db941747b8e0c731fef090387d7dde24" tvg-chno="11",NDR
-http://79.230.174.129:9981/stream/channelid/1192727771?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/14" tvg-id="6f60154b645d2008eeb3d4135be6dbad" tvg-chno="12",ZDF info
-http://79.230.174.129:9981/stream/channelid/1259692143?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/15" tvg-id="d0abfc3266aa5199bbb087523f450e3a" tvg-chno="13",ZDF neo
-http://79.230.174.129:9981/stream/channelid/855419856?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/16" tvg-id="6d4e5cc916a892246d4bbd21be8ee30a" tvg-chno="14",PHOENIX
-http://79.230.174.129:9981/stream/channelid/1230786157?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/17" tvg-id="6fca86b9bd1378513cfadf76dc7390c3" tvg-chno="15",3Sat
-http://79.230.174.129:9981/stream/channelid/965134959?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/18" tvg-id="499f7ae84e796820b53f3fa8e9f19402" tvg-chno="16",ARTE
-http://79.230.174.129:9981/stream/channelid/1752866633?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/19" tvg-id="80735a1505e6d234033c3e8e32d468da" tvg-chno="17",NTV
-http://79.230.174.129:9981/stream/channelid/358249344?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/20" tvg-id="5536956a38def00579f3ecb468fe317d" tvg-chno="18",ONE
-http://79.230.174.129:9981/stream/channelid/1788163669?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/21" tvg-id="a6ed29ee3940a4d049a5015cccaaa6c4" tvg-chno="19",RTL Nitro
-http://79.230.174.129:9981/stream/channelid/1848241574?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/22" tvg-id="f4d2262aa200b8f301a767e7fb4d1293" tvg-chno="20",Tagesschau24
-http://79.230.174.129:9981/stream/channelid/707187444?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/23" tvg-id="55be7d491dd8b4693ce73072c902adb3" tvg-chno="21",KIKA
-http://79.230.174.129:9981/stream/channelid/1232977493?profile=pass
-#EXTINF:-1 logo="http://79.230.174.129:9981/imagecache/24" tvg-id="fe3e2532e73f81ae0f3bbecdb7d25b36" tvg-chno="22",Super RTL
-http://79.230.174.129:9981/stream/channelid/841301758?profile=pass
+#EXTINF:-1,13th Street HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/80
+#EXTINF:-1,3sat HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2565
+#EXTINF:-1,Crime Investigation+
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12394
+#EXTINF:-1,ARD Alpha
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/107
+#EXTINF:-1,AXN HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/105
+#EXTINF:-1,ANIXE FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2563
+#EXTINF:-1,Animal Planet HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2564
+#EXTINF:-1,arte
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/106
+#EXTINF:-1,Astro TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5432
+#EXTINF:-1,Augsburg TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/103
+#EXTINF:-1,BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5431
+#EXTINF:-1,Baby TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/104
+#EXTINF:-1,Boomerang
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/13783
+#EXTINF:-1,Boomerang SD+
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3185
+#EXTINF:-1,Sky Movies BoxOffice 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12464
+#EXTINF:-1,Sky Movies BoxOffice 2 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12463
+#EXTINF:-1,Sky Movies BoxOffice 3 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12462
+#EXTINF:-1,Sky Movies BoxOffice 4 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12461
+#EXTINF:-1,CINE FILM CLUB 5 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12460
+#EXTINF:-1,DMAX HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/101
+#EXTINF:-1,Das Erste
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2562
+#EXTINF:-1,Deluxe Music
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3184
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5430
+#EXTINF:-1,Discovery Channel HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/59
+#EXTINF:-1,Cartoon Network
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/16366
+#EXTINF:-1,Disney Channel
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/99
+#EXTINF:-1,Sky Cinema Special HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3183
+#EXTINF:-1,Disney Junior FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/58
+#EXTINF:-1,Nick Jr. HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/16367
+#EXTINF:-1,TOGGO plus
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3851
+#EXTINF:-1,TOGGO plus von Super RTL
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2549
+#EXTINF:-1,E!
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5429
+#EXTINF:-1,Eurosport 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1316
+#EXTINF:-1,Eurosport 2
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/97
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/7430
+#EXTINF:-1,FC Bayern TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/6491
+#EXTINF:-1,FOX HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2556
+#EXTINF:-1,MediaShop
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5426
+#EXTINF:-1,FOX
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5425
+#EXTINF:-1,HR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5422
+#EXTINF:-1,Heimatikanal
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3182
+#EXTINF:-1,History HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/95
+#EXTINF:-1,Jukebox
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3854
+#EXTINF:-1,Junior
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3850
+#EXTINF:-1,kabel eins HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/92
+#EXTINF:-1,kabel eins CLASSICS FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/94
+#EXTINF:-1,kabel eins Doku
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/93
+#EXTINF:-1,KiKa
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/91
+#EXTINF:-1,KinoweltTV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/90
+#EXTINF:-1,MDR HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/89
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12475
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12474
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12473
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12472
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12471
+#EXTINF:-1,MTV Dance
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3853
+#EXTINF:-1,Motorvision TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3181
+#EXTINF:-1,Welt HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/88
+#EXTINF:-1,N24 Doku
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5415
+#EXTINF:-1,NDR HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/86
+#EXTINF:-1,National Geographic
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5414
+#EXTINF:-1,National Geographic HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/87
+#EXTINF:-1,Nat Geo Wild
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2561
+#EXTINF:-1,Nickelodeon HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3852
+#EXTINF:-1,n-tv HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/85
+#EXTINF:-1,ORF eins HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2559
+#EXTINF:-1,ORF 2 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2558
+#EXTINF:-1,Phoenix HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3186
+#EXTINF:-1,ProSieben
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3180
+#EXTINF:-1,ProSieben HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83
+#EXTINF:-1,ProSieben MAXX HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82
+#EXTINF:-1,QVC
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5412
+#EXTINF:-1,QVC Beauty & Style
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5411
+#EXTINF:-1,rbb
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5410
+#EXTINF:-1,rbb HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5409
+#EXTINF:-1,RTL
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/81
+#EXTINF:-1,RTL II
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/9348
+#EXTINF:-1,RTL II HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/79
+#EXTINF:-1,RTL Crime
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/77
+#EXTINF:-1,RTL Living HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/76
+#EXTINF:-1,RTL Nitro HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/75
+#EXTINF:-1,RTL Passion HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/74
+#EXTINF:-1,RTL plus
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/13971
+#EXTINF:-1,Romance TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3177
+#EXTINF:-1,SAT.1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/72
+#EXTINF:-1,SAT.1 GOLD HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/71
+#EXTINF:-1,SAT.1 emotions
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/73
+#EXTINF:-1,Servus TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/70
+#EXTINF:-1,Silverline Movie Channel HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5490
+#EXTINF:-1,SIXX HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/69
+#EXTINF:-1,Sky Atlantic HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/66
+#EXTINF:-1,Sky Cinema Premieren HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/62
+#EXTINF:-1,Sky Cinema Thriller HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/65
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/64
+#EXTINF:-1,Sky Cinema Action HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/67
+#EXTINF:-1,Sky Cinema Fun HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/60
+#EXTINF:-1,Sky Cinema Family HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/63
+#EXTINF:-1,Sky Cinema Best Of HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2555
+#EXTINF:-1,Sky Cinema Classics
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3178
+#EXTINF:-1,Sky Krimi
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3179
+#EXTINF:-1,Sky Popcorn Select 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8530
+#EXTINF:-1,Sky Popcorn Select 2 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8529
+#EXTINF:-1,Sky Popcorn Select 3 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8528
+#EXTINF:-1,Sky Popcorn Select 4 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8527
+#EXTINF:-1,Sky Popcorn Select 5 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8526
+#EXTINF:-1,Sky Popcorn Select 6 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8525
+#EXTINF:-1,SKY SELECT 1
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12470
+#EXTINF:-1,Sky Select 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1339
+#EXTINF:-1,SKY SELECT 1 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12491
+#EXTINF:-1,SKY SELECT 2
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12469
+#EXTINF:-1,Sky Select 2 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1338
+#EXTINF:-1,SKY SELECT 2 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12490
+#EXTINF:-1,SKY SELECT 3
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12468
+#EXTINF:-1,Sky Select 3 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1337
+#EXTINF:-1,SKY SELECT 3 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12489
+#EXTINF:-1,SKY SELECT 4
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12467
+#EXTINF:-1,Sky Select 4 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1336
+#EXTINF:-1,SKY SELECT 4 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12488
+#EXTINF:-1,SKY SELECT 5
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12466
+#EXTINF:-1,Sky Select 5 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1335
+#EXTINF:-1,SKY SELECT 5 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12487
+#EXTINF:-1,SKY SELECT 6
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12465
+#EXTINF:-1,Sky Select 6 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1334
+#EXTINF:-1,Sky Select 7 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1333
+#EXTINF:-1,Sky Select 8 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1332
+#EXTINF:-1,Sky Sport 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12697
+#EXTINF:-1,Sky Sport 2 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12696
+#EXTINF:-1,Sky Sport 3 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1323
+#EXTINF:-1,Sky Sport 4 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1322
+#EXTINF:-1,Sky Sport 5 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12695
+#EXTINF:-1,Sky Sport 6 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1320
+#EXTINF:-1,Sky Sport 7 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1319
+#EXTINF:-1,Sky Sport 8 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12694
+#EXTINF:-1,Sky Sport 9 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8693
+#EXTINF:-1,Sky Sport Austria HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3176
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12700
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1330
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12699
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1328
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/12698
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event)
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1326
+#EXTINF:-1,Sky Sport News
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/24381
+#EXTINF:-1,Sky Sport News HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/1315
+#EXTINF:-1,Sony TV FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5433
+#EXTINF:-1,SPIEGEL Geschichte
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3174
+#EXTINF:-1,Spiegel TV Wissen HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/8789
+#EXTINF:-1,Sport1 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/9271
+#EXTINF:-1,SportDigital HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3187
+#EXTINF:-1,SWR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5403
+#EXTINF:-1,SWR HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5402
+#EXTINF:-1,Syfy
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3173
+#EXTINF:-1,Tele 5 HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3172
+#EXTINF:-1,TLC
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3171
+#EXTINF:-1,TNT Comedy HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3848
+#EXTINF:-1,TNT Film HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/4388
+#EXTINF:-1,TNT Serie HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3175
+#EXTINF:-1,Tom and Jerry HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/10557
+#EXTINF:-1,Tagesschau 24
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5401
+#EXTINF:-1,Universal Channel HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3170
+#EXTINF:-1,Comedy Central
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3169
+#EXTINF:-1,VOX
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/100
+#EXTINF:-1,WDR HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2551
+#EXTINF:-1,WWE
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/7795
+#EXTINF:-1,Weltr Wunder
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/5399
+#EXTINF:-1,ZDF FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/2550
+#EXTINF:-1,ZDFinfo
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3856
+#EXTINF:-1,ZDFneo
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/3855
+#EXTINF:-1,RTL Zwei HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/75471
+#EXTINF:-1,RTL Zwei FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/75472
+#EXTINF:-1,VoxUp
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78138
+#EXTINF:-1,Bibel TV Impuls
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78202
+#EXTINF:-1,Bibel TV Musik
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78203
+#EXTINF:-1,Kingdom HD 24/7 VIP
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78487
+#EXTINF:-1,RTL HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78522
+#EXTINF:-1,Planet FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78574
+#EXTINF:-1,Planet HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78575
+#EXTINF:-1,Super RTL HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78578
+#EXTINF:-1,Comedy Central HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78579
+#EXTINF:-1,Tele 5
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78580
+#EXTINF:-1,Tele 5 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78581
+#EXTINF:-1,Bon Gusto HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78598
+#EXTINF:-1,Geo TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78601
+#EXTINF:-1,Die Neue Zeit TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78658
+#EXTINF:-1,Mainfranken Würzburg TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78659
+#EXTINF:-1,Franken HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78660
+#EXTINF:-1,Oberpfalz TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78663
+#EXTINF:-1,Allgäu TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78665
+#EXTINF:-1,EWTN
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78668
+#EXTINF:-1,QVC 2 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78669
+#EXTINF:-1,1-2-3 TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78670
+#EXTINF:-1,Folx TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78671
+#EXTINF:-1,Melodie TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78673
+#EXTINF:-1,Channel 21
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78674
+#EXTINF:-1,Schau TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78676
+#EXTINF:-1,RFO HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78683
+#EXTINF:-1,HSE24
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/79728
+#EXTINF:-1,HSE24 EXTRA
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/79729
+#EXTINF:-1,DMAX
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/79815
+#EXTINF:-1,DMAX FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/79816
+#EXTINF:-1,ProSieben FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/4171
+#EXTINF:-1,Health TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78672
+#EXTINF:-1,Munchen TV FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78664
+#EXTINF:-1,TVA Ostbayern HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/78661
+#EXTINF:-1,Genius Plus TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/80917
+#EXTINF:-1,Kinowelt TV HD VIP
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/80972
+#EXTINF:-1,MAX SELECT 1 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82723
+#EXTINF:-1,MAX SELECT 2 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82724
+#EXTINF:-1,MAX SELECT 3 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82725
+#EXTINF:-1,MAX SELECT 4 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82726
+#EXTINF:-1,MAX SELECT 5 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82727
+#EXTINF:-1,MAX SELECT 6 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82728
+#EXTINF:-1,MAX SELECT 7 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82729
+#EXTINF:-1,Baden TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82764
+#EXTINF:-1,Eagle Entdeckernatur 4K UHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/82773
+#EXTINF:-1,MAGIC BOX KINO 1 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83191
+#EXTINF:-1,MAGIC BOX KINO 2 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83192
+#EXTINF:-1,MAGIC BOX KINO 3 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83193
+#EXTINF:-1,MAGIC BOX KINO 4 FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83194
+#EXTINF:-1,HGTV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83209
+#EXTINF:-1,Sky Comedy FHD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83210
+#EXTINF:-1,Sky Comedy HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83211
+#EXTINF:-1,TV OBERFRANKEN HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/83518
+#EXTINF:-1,Radio Bremen TV
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/89978
+#EXTINF:-1,Radio Bremen TV HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/89979

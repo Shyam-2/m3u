@@ -1,107 +1,85 @@
 #EXTM3U
-#EXTINF:-1,RAI 1
-http://jockeriptv.com:8080/navaro/navaro/12676
-#EXTINF:-1,RAI 2
-http://jockeriptv.com:8080/navaro/navaro/12677
-#EXTINF:-1,RAI 3
-http://jockeriptv.com:8080/navaro/navaro/12678
-#EXTINF:-1,RAI 4
-http://jockeriptv.com:8080/navaro/navaro/12679
-#EXTINF:-1,RAI 5
-http://jockeriptv.com:8080/navaro/navaro/12680
-#EXTINF:-1,RETE 4
-http://jockeriptv.com:8080/navaro/navaro/12681
-#EXTINF:-1,ITALIA 1
-http://jockeriptv.com:8080/navaro/navaro/12683
-#EXTINF:-1,MEDIASET EXTRA
-http://jockeriptv.com:8080/navaro/navaro/12684
-#EXTINF:-1,RAI MOVIE
-http://jockeriptv.com:8080/navaro/navaro/12685
-#EXTINF:-1,RAI PREMIUM
-http://jockeriptv.com:8080/navaro/navaro/12686
-#EXTINF:-1,RAI STORIA
-http://jockeriptv.com:8080/navaro/navaro/12687
-#EXTINF:-1,IRIS
-http://jockeriptv.com:8080/navaro/navaro/12688
-#EXTINF:-1,LA5
-http://jockeriptv.com:8080/navaro/navaro/12689
-#EXTINF:-1,LA 7 
-http://jockeriptv.com:8080/navaro/navaro/12690
-#EXTINF:-1,RSI LA 2HD
-http://jockeriptv.com:8080/navaro/navaro/12691
-#EXTINF:-1,RSI LA 1HD
-http://jockeriptv.com:8080/navaro/navaro/12692
-#EXTINF:-1,RAI NEWS 24
-http://jockeriptv.com:8080/navaro/navaro/12693
-#EXTINF:-1,FOX LIFE
-http://jockeriptv.com:8080/navaro/navaro/12718
-#EXTINF:-1,PARAMOUNT NETWORK
-http://jockeriptv.com:8080/navaro/navaro/12720
-#EXTINF:-1,TOP CRIME
-http://jockeriptv.com:8080/navaro/navaro/12721
-#EXTINF:-1,ALICE
-http://jockeriptv.com:8080/navaro/navaro/12722
-#EXTINF:-1,GAMBERO ROSSO
-http://jockeriptv.com:8080/navaro/navaro/12723
-#EXTINF:-1,FOCUS TV
-http://jockeriptv.com:8080/navaro/navaro/12725
-#EXTINF:-1,DMAX
-http://jockeriptv.com:8080/navaro/navaro/12726
-#EXTINF:-1,PREMIUM COMEDY HD
-http://jockeriptv.com:8080/navaro/navaro/12727
-#EXTINF:-1,CIELO
-http://jockeriptv.com:8080/navaro/navaro/12728
-#EXTINF:-1,CRIME NVESTIGATION
-http://jockeriptv.com:8080/navaro/navaro/12729
-#EXTINF:-1,DISCOVERY
-http://jockeriptv.com:8080/navaro/navaro/12731
-#EXTINF:-1,DISCOVERY SCIENCE
-http://jockeriptv.com:8080/navaro/navaro/12732
-#EXTINF:-1,FRISBEE
-http://jockeriptv.com:8080/navaro/navaro/12733
-#EXTINF:-1,NATGEO WILD HD
-http://jockeriptv.com:8080/navaro/navaro/12734
-#EXTINF:-1,NATGEO
-http://jockeriptv.com:8080/navaro/navaro/12735
-#EXTINF:-1,PESCA E CACCIA
-http://jockeriptv.com:8080/navaro/navaro/12737
-#EXTINF:-1,  PESCARA TV
-http://jockeriptv.com:8080/navaro/navaro/12738
-#EXTINF:-1,HISTORY
-http://jockeriptv.com:8080/navaro/navaro/12739
-#EXTINF:-1,ANIMAL PLANET
-http://jockeriptv.com:8080/navaro/navaro/12740
-#EXTINF:-1,FOOD NETWORK
-http://jockeriptv.com:8080/navaro/navaro/12741
-#EXTINF:-1,ITALIAN FISHING
-http://jockeriptv.com:8080/navaro/navaro/12743
-#EXTINF:-1,CACCIA
-http://jockeriptv.com:8080/navaro/navaro/12744
-#EXTINF:-1,LEI
-http://jockeriptv.com:8080/navaro/navaro/12745
-#EXTINF:-1,UNIRESAT
-http://jockeriptv.com:8080/navaro/navaro/12746
-#EXTINF:-1,BOOME RANG
-http://jockeriptv.com:8080/navaro/navaro/12751
-#EXTINF:-1,BOING
-http://jockeriptv.com:8080/navaro/navaro/12752
-#EXTINF:-1,CARTOON NETWORK
-http://jockeriptv.com:8080/navaro/navaro/12753
-#EXTINF:-1,CARTOONITO
-http://jockeriptv.com:8080/navaro/navaro/12754
-#EXTINF:-1,RTL 102.5
-http://jockeriptv.com:8080/navaro/navaro/12757
-#EXTINF:-1,RADIO M20 TV
-http://jockeriptv.com:8080/navaro/navaro/12758
-#EXTINF:-1,RAI YOYO
-http://jockeriptv.com:8080/navaro/navaro/12760
-#EXTINF:-1,RAI GULP
-http://jockeriptv.com:8080/navaro/navaro/12761
-#EXTINF:-1,RTV Reggio
-http://jockeriptv.com:8080/navaro/navaro/12808
-#EXTINF:-1,ITALIA 2 HD
-http://jockeriptv.com:8080/navaro/navaro/12809
-#EXTINF:-1,DISCOVERY FOCUS
-http://jockeriptv.com:8080/navaro/navaro/12813
+#EXTINF:-1,RAI 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10609
+#EXTINF:-1,Rai 1 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10610
+#EXTINF:-1,RAI 1 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39513
+#EXTINF:-1,RAI 1 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39514
+#EXTINF:-1,RAI 2 HD
+http://seeyoutv.net:2300/parigi/parigi/10606
+#EXTINF:-1,RAI 2 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10607
+#EXTINF:-1,RAI 2 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39515
+#EXTINF:-1,RAI 2 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39516
+#EXTINF:-1,RAI 3 HD
+http://seeyoutv.net:2300/parigi/parigi/10603
+#EXTINF:-1,RAI 3 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10604
+#EXTINF:-1,RAI 3 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39517
+#EXTINF:-1,RAI 3 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39518
+#EXTINF:-1,RETE 4 HD
+http://seeyoutv.net:2300/parigi/parigi/10577
+#EXTINF:-1,RETE 4 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10578
+#EXTINF:-1,RETE 4 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39519
+#EXTINF:-1,RETE 4 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39520
 #EXTINF:-1,CANALE 5 HD
-http://jockeriptv.com:8080/navaro/navaro/12814
+http://seeyoutv.net:2300/parigi/parigi/10706
+#EXTINF:-1,CANALE 5 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10707
+#EXTINF:-1,CANALE 5 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39509
+#EXTINF:-1,CANALE 5 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39510
+#EXTINF:-1,ITALIA 1 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39512
+#EXTINF:-1,ITALIA 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10655
+#EXTINF:-1,ITALIA 1 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10656
+#EXTINF:-1,ITALIA 1 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39511
+#EXTINF:-1,RAI 4 HD
+http://seeyoutv.net:2300/parigi/parigi/10600
+#EXTINF:-1,RAI 4 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10601
+#EXTINF:-1,RAI 5 HD
+http://seeyoutv.net:2300/parigi/parigi/10598
+#EXTINF:-1,RAI 5 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10599
+#EXTINF:-1,LA 5
+http://seeyoutv.net:2300/parigi/parigi/10650
+#EXTINF:-1,LA 7
+http://seeyoutv.net:2300/parigi/parigi/10649
+#EXTINF:-1,LA 7 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10648
+#EXTINF:-1,LA 7D
+http://seeyoutv.net:2300/parigi/parigi/10647
+#EXTINF:-1,LA 7d FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10646
+#EXTINF:-1,TV 8
+http://seeyoutv.net:2300/parigi/parigi/10361
+#EXTINF:-1,NOVE
+http://seeyoutv.net:2300/parigi/parigi/10637
+#EXTINF:-1,NOVE FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10636
+#EXTINF:-1,ITALIA 2
+http://seeyoutv.net:2300/parigi/parigi/10653
+#EXTINF:-1,RAI MOVIE HD
+http://seeyoutv.net:2300/parigi/parigi/10594
+#EXTINF:-1,IRIS
+http://seeyoutv.net:2300/parigi/parigi/10657
+#EXTINF:-1,RAI MOVIE FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10595
+#EXTINF:-1,RAI PREMIUM HD
+http://seeyoutv.net:2300/parigi/parigi/10591
+#EXTINF:-1,RAI PREMIUM FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10592
