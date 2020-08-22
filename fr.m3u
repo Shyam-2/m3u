@@ -1,95 +1,87 @@
 #EXTM3U
+#EXTINF:-1,TF1 FHD
+http://main.realiptv.to:25461/admin/admin/93962
 #EXTINF:-1,TF1 HD
-http://jockeriptv.com:8080/navaro/navaro/530
-#EXTINF:-1,M6 HD
-http://jockeriptv.com:8080/navaro/navaro/533
-#EXTINF:-1,RTL9  HD
-http://jockeriptv.com:8080/navaro/navaro/534
+http://main.realiptv.to:25461/admin/admin/93963
+#EXTINF:-1,TF1
+http://main.realiptv.to:25461/admin/admin/93964
 #EXTINF:-1,FRANCE 2 FHD
-http://jockeriptv.com:8080/navaro/navaro/511
+http://main.realiptv.to:25461/admin/admin/93973
+#EXTINF:-1,FRANCE 2 HD
+http://main.realiptv.to:25461/admin/admin/93974
+#EXTINF:-1,FRANCE2
+http://main.realiptv.to:25461/admin/admin/93975
 #EXTINF:-1,FRANCE 3 FHD
-http://jockeriptv.com:8080/navaro/navaro/512
+http://main.realiptv.to:25461/admin/admin/93976
+#EXTINF:-1,FRANCE 3 HD
+http://main.realiptv.to:25461/admin/admin/93977
+#EXTINF:-1,FRANCE3
+http://main.realiptv.to:25461/admin/admin/93978
 #EXTINF:-1,FRANCE 4 FHD
-http://jockeriptv.com:8080/navaro/navaro/513
-#EXTINF:-1,France 5 FHD
-http://jockeriptv.com:8080/navaro/navaro/514
+http://main.realiptv.to:25461/admin/admin/93979
+#EXTINF:-1,FRANCE 4 HD
+http://main.realiptv.to:25461/admin/admin/93980
+#EXTINF:-1,FRANCE4
+http://main.realiptv.to:25461/admin/admin/93981
+#EXTINF:-1,FRANCE 5 FHD
+http://main.realiptv.to:25461/admin/admin/93982
+#EXTINF:-1,FRANCE 5 HD
+http://main.realiptv.to:25461/admin/admin/93983
+#EXTINF:-1,FRANCE5
+http://main.realiptv.to:25461/admin/admin/93984
 #EXTINF:-1,FRANCE O FHD
-http://jockeriptv.com:8080/navaro/navaro/515
-#EXTINF:-1,FRANCE INFO HD
-http://jockeriptv.com:8080/navaro/navaro/516
-#EXTINF:-1,NATIONAL GEO FR
-http://jockeriptv.com:8080/navaro/navaro/553
+http://main.realiptv.to:25461/admin/admin/93985
+#EXTINF:-1,FRANCE O HD
+http://main.realiptv.to:25461/admin/admin/93986
+#EXTINF:-1,FRANCE O
+http://main.realiptv.to:25461/admin/admin/93987
+#EXTINF:-1,NAT GEO WILD HD
+http://main.realiptv.to:25461/admin/admin/94075
+#EXTINF:-1,NAT GEO WILD
+http://main.realiptv.to:25461/admin/admin/94076
+#EXTINF:-1,NATIONAL GEO HD
+http://main.realiptv.to:25461/admin/admin/94077
+#EXTINF:-1,NATIONAL GEO
+http://main.realiptv.to:25461/admin/admin/94078
 #EXTINF:-1,DISCOVERY HD
-http://jockeriptv.com:8080/navaro/navaro/571
+http://main.realiptv.to:25461/admin/admin/94079
+#EXTINF:-1,DISCOVERY
+http://main.realiptv.to:25461/admin/admin/94080
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://jockeriptv.com:8080/navaro/navaro/572
-#EXTINF:-1,DISNEY CHANNEL
-http://jockeriptv.com:8080/navaro/navaro/607
-#EXTINF:-1,DISNEY CINEMA HD
-http://jockeriptv.com:8080/navaro/navaro/600
-#EXTINF:-1,DISNEY JUNIOR HD
-http://jockeriptv.com:8080/navaro/navaro/599
-#EXTINF:-1,DISNEY XD HD
-http://jockeriptv.com:8080/navaro/navaro/602
-#EXTINF:-1,NICKELODEON HD
-http://jockeriptv.com:8080/navaro/navaro/593
-#EXTINF:-1,NICKELODEON JUNIOR
-http://jockeriptv.com:8080/navaro/navaro/608
-#EXTINF:-1,SPORT  1 FHD
-http://jockeriptv.com:8080/navaro/navaro/616
-#EXTINF:-1,SPORT  2 FHD
-http://jockeriptv.com:8080/navaro/navaro/617
-#EXTINF:-1,SPORT  3 FHD
-http://jockeriptv.com:8080/navaro/navaro/618
-#EXTINF:-1,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1,BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1,BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1,France 24 (ENG)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1,France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1,France 24 Arabic
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1,France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1,France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,France 24 French
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1,RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1,TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1,TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1,TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1,TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1,TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1,TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1,TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1,TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1,TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1,TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1,TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1,TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1,TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+http://main.realiptv.to:25461/admin/admin/94081
+#EXTINF:-1,DISCOVERY SCIENCE
+http://main.realiptv.to:25461/admin/admin/94082
+#EXTINF:-1,EuroSport 1 HD
+http://main.realiptv.to:25461/admin/admin/94134
+#EXTINF:-1,EuroSport 1
+http://main.realiptv.to:25461/admin/admin/94135
+#EXTINF:-1,EuroSport 2 HD
+http://main.realiptv.to:25461/admin/admin/94136
+#EXTINF:-1,EuroSport 2
+http://main.realiptv.to:25461/admin/admin/94137
+#EXTINF:-1,Infosport HD
+http://main.realiptv.to:25461/admin/admin/94138
+#EXTINF:-1,Infosport
+http://main.realiptv.to:25461/admin/admin/94139
+#EXTINF:-1,Foot24 HD
+http://main.realiptv.to:25461/admin/admin/94140
+#EXTINF:-1,Foot24
+http://main.realiptv.to:25461/admin/admin/94141
+#EXTINF:-1,SPORTS 1 SD
+http://main.realiptv.to:25461/admin/admin/94273
+#EXTINF:-1,SPORTS 1 HD
+http://main.realiptv.to:25461/admin/admin/94274
+#EXTINF:-1,SPORTS 1 FHD
+http://main.realiptv.to:25461/admin/admin/94275
+#EXTINF:-1,SPORTS 2 SD
+http://main.realiptv.to:25461/admin/admin/94276
+#EXTINF:-1,SPORTS 2 HD
+http://main.realiptv.to:25461/admin/admin/94277
+#EXTINF:-1,SPORTS 2 FHD
+http://main.realiptv.to:25461/admin/admin/94278
+#EXTINF:-1,SPORTS 3 SD
+http://main.realiptv.to:25461/admin/admin/94279
+#EXTINF:-1,SPORTS 3 HD
+http://main.realiptv.to:25461/admin/admin/94280
+#EXTINF:-1,SPORTS 3 FHD
+http://main.realiptv.to:25461/admin/admin/94281
