@@ -1,143 +1,645 @@
 #EXTM3U
-#EXTINF:-1,max 4
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2865
-#EXTINF:-1,FR : EURONEWS
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1550
-#EXTINF:-1,FRANCE 3
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/529
-#EXTINF:-1,RTL9
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/246
-#EXTINF:-1,Discovery Science HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1528
-#EXTINF:-1, Disney Jr Fr
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1546
-#EXTINF:-1, Nat Geo HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1535
-#EXTINF:-1, Nat Geo Wild  HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1534
-#EXTINF:-1,Sport Max 9 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5622
-#EXTINF:-1,Sport Max 8
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5621
-#EXTINF:-1,Sport Max 7
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5620
-#EXTINF:-1,Sport Max 6
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5619
-#EXTINF:-1,Sport Max 5
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5618
-#EXTINF:-1,Sport Max 10
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5623
-#EXTINF:-1,France O  HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/532
-#EXTINF:-1,France 5 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/531
-#EXTINF:-1,France 4  HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/530
-#EXTINF:-1,FRANCE 2 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/528
-#EXTINF:-1,EUROSPORT2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1542
-#EXTINF:-1,Eurosport 2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4975
-#EXTINF:-1,Eurosport 1
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1541
-#EXTINF:-1,Disney XD HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1553
-#EXTINF:-1,DISNEY CHANNEL
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1544
-#EXTINF:-1,SPORTS 1 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8310
-#EXTINF:-1,SPORTS 2 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8309
-#EXTINF:-1,SPORTS 3 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8308
-#EXTINF:-1,France 02 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8341
-#EXTINF:-1,France 03 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8340
 #EXTINF:-1,TF1 FHD
-http://main.realiptv.to:25461/admin/admin/93962
+http://main.realiptv.to:25461/live/admin/admin/93962.m3u8
 #EXTINF:-1,TF1 HD
-http://main.realiptv.to:25461/admin/admin/93963
+http://main.realiptv.to:25461/live/admin/admin/93963.m3u8
 #EXTINF:-1,TF1
-http://main.realiptv.to:25461/admin/admin/93964
+http://main.realiptv.to:25461/live/admin/admin/93964.m3u8
+#EXTINF:-1,TF1 +1 HD
+http://main.realiptv.to:25461/live/admin/admin/93965.m3u8
+#EXTINF:-1,TF1 +1
+http://main.realiptv.to:25461/live/admin/admin/93966.m3u8
+#EXTINF:-1,TF1 Series Films FHD
+http://main.realiptv.to:25461/live/admin/admin/93967.m3u8
+#EXTINF:-1,TF1 Series Film HD
+http://main.realiptv.to:25461/live/admin/admin/93968.m3u8
+#EXTINF:-1,TF1 Series Films
+http://main.realiptv.to:25461/live/admin/admin/93969.m3u8
+#EXTINF:-1,M6 FHD
+http://main.realiptv.to:25461/live/admin/admin/93970.m3u8
+#EXTINF:-1,M6 HD
+http://main.realiptv.to:25461/live/admin/admin/93971.m3u8
+#EXTINF:-1,M6
+http://main.realiptv.to:25461/live/admin/admin/93972.m3u8
 #EXTINF:-1,FRANCE 2 FHD
-http://main.realiptv.to:25461/admin/admin/93973
+http://main.realiptv.to:25461/live/admin/admin/93973.m3u8
 #EXTINF:-1,FRANCE 2 HD
-http://main.realiptv.to:25461/admin/admin/93974
+http://main.realiptv.to:25461/live/admin/admin/93974.m3u8
 #EXTINF:-1,FRANCE2
-http://main.realiptv.to:25461/admin/admin/93975
+http://main.realiptv.to:25461/live/admin/admin/93975.m3u8
 #EXTINF:-1,FRANCE 3 FHD
-http://main.realiptv.to:25461/admin/admin/93976
+http://main.realiptv.to:25461/live/admin/admin/93976.m3u8
 #EXTINF:-1,FRANCE 3 HD
-http://main.realiptv.to:25461/admin/admin/93977
+http://main.realiptv.to:25461/live/admin/admin/93977.m3u8
 #EXTINF:-1,FRANCE3
-http://main.realiptv.to:25461/admin/admin/93978
+http://main.realiptv.to:25461/live/admin/admin/93978.m3u8
 #EXTINF:-1,FRANCE 4 FHD
-http://main.realiptv.to:25461/admin/admin/93979
+http://main.realiptv.to:25461/live/admin/admin/93979.m3u8
 #EXTINF:-1,FRANCE 4 HD
-http://main.realiptv.to:25461/admin/admin/93980
+http://main.realiptv.to:25461/live/admin/admin/93980.m3u8
 #EXTINF:-1,FRANCE4
-http://main.realiptv.to:25461/admin/admin/93981
+http://main.realiptv.to:25461/live/admin/admin/93981.m3u8
 #EXTINF:-1,FRANCE 5 FHD
-http://main.realiptv.to:25461/admin/admin/93982
+http://main.realiptv.to:25461/live/admin/admin/93982.m3u8
 #EXTINF:-1,FRANCE 5 HD
-http://main.realiptv.to:25461/admin/admin/93983
+http://main.realiptv.to:25461/live/admin/admin/93983.m3u8
 #EXTINF:-1,FRANCE5
-http://main.realiptv.to:25461/admin/admin/93984
+http://main.realiptv.to:25461/live/admin/admin/93984.m3u8
 #EXTINF:-1,FRANCE O FHD
-http://main.realiptv.to:25461/admin/admin/93985
+http://main.realiptv.to:25461/live/admin/admin/93985.m3u8
 #EXTINF:-1,FRANCE O HD
-http://main.realiptv.to:25461/admin/admin/93986
+http://main.realiptv.to:25461/live/admin/admin/93986.m3u8
 #EXTINF:-1,FRANCE O
-http://main.realiptv.to:25461/admin/admin/93987
+http://main.realiptv.to:25461/live/admin/admin/93987.m3u8
+#EXTINF:-1,6ter FHD
+http://main.realiptv.to:25461/live/admin/admin/93988.m3u8
+#EXTINF:-1,6Ter HD
+http://main.realiptv.to:25461/live/admin/admin/93989.m3u8
+#EXTINF:-1,6Ter
+http://main.realiptv.to:25461/live/admin/admin/93990.m3u8
+#EXTINF:-1,W9 FHD
+http://main.realiptv.to:25461/live/admin/admin/93991.m3u8
+#EXTINF:-1,W9 HD
+http://main.realiptv.to:25461/live/admin/admin/93992.m3u8
+#EXTINF:-1,W9
+http://main.realiptv.to:25461/live/admin/admin/93993.m3u8
+#EXTINF:-1,ARTE FHD
+http://main.realiptv.to:25461/live/admin/admin/93994.m3u8
+#EXTINF:-1,ARTE HD
+http://main.realiptv.to:25461/live/admin/admin/93995.m3u8
+#EXTINF:-1,ARTE
+http://main.realiptv.to:25461/live/admin/admin/93996.m3u8
+#EXTINF:-1,Cherie25 FHD
+http://main.realiptv.to:25461/live/admin/admin/93997.m3u8
+#EXTINF:-1,CHERIE25 HD
+http://main.realiptv.to:25461/live/admin/admin/93998.m3u8
+#EXTINF:-1,CHERIE 25
+http://main.realiptv.to:25461/live/admin/admin/93999.m3u8
+#EXTINF:-1,NRJ12 FHD
+http://main.realiptv.to:25461/live/admin/admin/94000.m3u8
+#EXTINF:-1,NRJ12 HD
+http://main.realiptv.to:25461/live/admin/admin/94001.m3u8
+#EXTINF:-1,NRJ12
+http://main.realiptv.to:25461/live/admin/admin/94002.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://main.realiptv.to:25461/live/admin/admin/94003.m3u8
+#EXTINF:-1,TV5 MONDE
+http://main.realiptv.to:25461/live/admin/admin/94004.m3u8
+#EXTINF:-1,C8 HD
+http://main.realiptv.to:25461/live/admin/admin/94005.m3u8
+#EXTINF:-1,C8
+http://main.realiptv.to:25461/live/admin/admin/94006.m3u8
+#EXTINF:-1,CStar HD
+http://main.realiptv.to:25461/live/admin/admin/94007.m3u8
+#EXTINF:-1,CStar
+http://main.realiptv.to:25461/live/admin/admin/94008.m3u8
+#EXTINF:-1,CANAL PLUS FHD
+http://main.realiptv.to:25461/live/admin/admin/94009.m3u8
+#EXTINF:-1,CANAL PLUS HD
+http://main.realiptv.to:25461/live/admin/admin/94010.m3u8
+#EXTINF:-1,CANAL PLUS
+http://main.realiptv.to:25461/live/admin/admin/94011.m3u8
+#EXTINF:-1,CANAL PLUS CINEMA FHD
+http://main.realiptv.to:25461/live/admin/admin/94012.m3u8
+#EXTINF:-1,CANAL PLUS CINEMA HD
+http://main.realiptv.to:25461/live/admin/admin/94013.m3u8
+#EXTINF:-1,CANAL PLUS CINEMA
+http://main.realiptv.to:25461/live/admin/admin/94014.m3u8
+#EXTINF:-1,CANAL PLUS DECALE FHD
+http://main.realiptv.to:25461/live/admin/admin/94015.m3u8
+#EXTINF:-1,CANAL PLUS DECALE HD
+http://main.realiptv.to:25461/live/admin/admin/94016.m3u8
+#EXTINF:-1,CANAL PLUS DECALE
+http://main.realiptv.to:25461/live/admin/admin/94017.m3u8
+#EXTINF:-1,CANAL PLUS FAMILY FHD
+http://main.realiptv.to:25461/live/admin/admin/94018.m3u8
+#EXTINF:-1,CANAL PLUS FAMILY HD
+http://main.realiptv.to:25461/live/admin/admin/94019.m3u8
+#EXTINF:-1,CANAL PLUS FAMILY
+http://main.realiptv.to:25461/live/admin/admin/94020.m3u8
+#EXTINF:-1,CANAL PLUS SERIES FHD
+http://main.realiptv.to:25461/live/admin/admin/94021.m3u8
+#EXTINF:-1,CANAL PLUS SERIES HD
+http://main.realiptv.to:25461/live/admin/admin/94022.m3u8
+#EXTINF:-1,CANAL PLUS SERIES
+http://main.realiptv.to:25461/live/admin/admin/94023.m3u8
+#EXTINF:-1,CANAL PLUS SPORT FHD
+http://main.realiptv.to:25461/live/admin/admin/94024.m3u8
+#EXTINF:-1,CINE CLUB HD
+http://main.realiptv.to:25461/live/admin/admin/94025.m3u8
+#EXTINF:-1,CINE CLUB
+http://main.realiptv.to:25461/live/admin/admin/94026.m3u8
+#EXTINF:-1,CINE CLASSIC HD
+http://main.realiptv.to:25461/live/admin/admin/94027.m3u8
+#EXTINF:-1,CINE CLASSIC
+http://main.realiptv.to:25461/live/admin/admin/94028.m3u8
+#EXTINF:-1,CINE FAMIZ HD
+http://main.realiptv.to:25461/live/admin/admin/94029.m3u8
+#EXTINF:-1,CINE FAMIZ
+http://main.realiptv.to:25461/live/admin/admin/94030.m3u8
+#EXTINF:-1,CINE FRISSON HD
+http://main.realiptv.to:25461/live/admin/admin/94031.m3u8
+#EXTINF:-1,CINE  FRISSON
+http://main.realiptv.to:25461/live/admin/admin/94032.m3u8
+#EXTINF:-1,CINE POLAR HD
+http://main.realiptv.to:25461/live/admin/admin/94033.m3u8
+#EXTINF:-1,CINE POLAR
+http://main.realiptv.to:25461/live/admin/admin/94034.m3u8
+#EXTINF:-1,CINE EMOTION HD
+http://main.realiptv.to:25461/live/admin/admin/94035.m3u8
+#EXTINF:-1,CINE EMOTION
+http://main.realiptv.to:25461/live/admin/admin/94036.m3u8
+#EXTINF:-1,CINE PREMIERE HD
+http://main.realiptv.to:25461/live/admin/admin/94037.m3u8
+#EXTINF:-1,CINE PREMIERE
+http://main.realiptv.to:25461/live/admin/admin/94038.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://main.realiptv.to:25461/live/admin/admin/94039.m3u8
+#EXTINF:-1,PARIS PREMIERE
+http://main.realiptv.to:25461/live/admin/admin/94040.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://main.realiptv.to:25461/live/admin/admin/94041.m3u8
+#EXTINF:-1,OCS CHOC
+http://main.realiptv.to:25461/live/admin/admin/94042.m3u8
+#EXTINF:-1,OCS CITY HD
+http://main.realiptv.to:25461/live/admin/admin/94043.m3u8
+#EXTINF:-1,OCS CITY
+http://main.realiptv.to:25461/live/admin/admin/94044.m3u8
+#EXTINF:-1,OCS MAX HD
+http://main.realiptv.to:25461/live/admin/admin/94045.m3u8
+#EXTINF:-1,OCS MAX
+http://main.realiptv.to:25461/live/admin/admin/94046.m3u8
+#EXTINF:-1,OCS Geants HD
+http://main.realiptv.to:25461/live/admin/admin/94047.m3u8
+#EXTINF:-1,OCS Geants
+http://main.realiptv.to:25461/live/admin/admin/94048.m3u8
+#EXTINF:-1,ACTION HD
+http://main.realiptv.to:25461/live/admin/admin/94049.m3u8
+#EXTINF:-1,ACTION
+http://main.realiptv.to:25461/live/admin/admin/94050.m3u8
+#EXTINF:-1,13eme RUE HD
+http://main.realiptv.to:25461/live/admin/admin/94051.m3u8
+#EXTINF:-1,13eme RUE
+http://main.realiptv.to:25461/live/admin/admin/94052.m3u8
+#EXTINF:-1,TFX HD
+http://main.realiptv.to:25461/live/admin/admin/94053.m3u8
+#EXTINF:-1,TFX
+http://main.realiptv.to:25461/live/admin/admin/94054.m3u8
+#EXTINF:-1,RTL9 HD
+http://main.realiptv.to:25461/live/admin/admin/94055.m3u8
+#EXTINF:-1,RTL9
+http://main.realiptv.to:25461/live/admin/admin/94056.m3u8
+#EXTINF:-1,SYFY HD
+http://main.realiptv.to:25461/live/admin/admin/94057.m3u8
+#EXTINF:-1,SYFY
+http://main.realiptv.to:25461/live/admin/admin/94058.m3u8
+#EXTINF:-1,TMC HD
+http://main.realiptv.to:25461/live/admin/admin/94059.m3u8
+#EXTINF:-1,TMC
+http://main.realiptv.to:25461/live/admin/admin/94060.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://main.realiptv.to:25461/live/admin/admin/94061.m3u8
+#EXTINF:-1,TCM CINEMA
+http://main.realiptv.to:25461/live/admin/admin/94062.m3u8
+#EXTINF:-1,SERIE CLUB FHD
+http://main.realiptv.to:25461/live/admin/admin/94063.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://main.realiptv.to:25461/live/admin/admin/94064.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://main.realiptv.to:25461/live/admin/admin/94065.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://main.realiptv.to:25461/live/admin/admin/94066.m3u8
+#EXTINF:-1,CANAL PLUS SPORT HD
+http://main.realiptv.to:25461/live/admin/admin/94067.m3u8
+#EXTINF:-1,CANAL PLUS SPORT
+http://main.realiptv.to:25461/live/admin/admin/94068.m3u8
+#EXTINF:-1,ROUGE TV HD
+http://main.realiptv.to:25461/live/admin/admin/94069.m3u8
+#EXTINF:-1,ROUGE TV
+http://main.realiptv.to:25461/live/admin/admin/94070.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://main.realiptv.to:25461/live/admin/admin/94071.m3u8
+#EXTINF:-1,ANIMAUX
+http://main.realiptv.to:25461/live/admin/admin/94072.m3u8
+#EXTINF:-1,Ushuaia HD
+http://main.realiptv.to:25461/live/admin/admin/94073.m3u8
+#EXTINF:-1,Ushuaia
+http://main.realiptv.to:25461/live/admin/admin/94074.m3u8
 #EXTINF:-1,NAT GEO WILD HD
-http://main.realiptv.to:25461/admin/admin/94075
+http://main.realiptv.to:25461/live/admin/admin/94075.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://main.realiptv.to:25461/admin/admin/94076
+http://main.realiptv.to:25461/live/admin/admin/94076.m3u8
 #EXTINF:-1,NATIONAL GEO HD
-http://main.realiptv.to:25461/admin/admin/94077
+http://main.realiptv.to:25461/live/admin/admin/94077.m3u8
 #EXTINF:-1,NATIONAL GEO
-http://main.realiptv.to:25461/admin/admin/94078
+http://main.realiptv.to:25461/live/admin/admin/94078.m3u8
 #EXTINF:-1,DISCOVERY HD
-http://main.realiptv.to:25461/admin/admin/94079
+http://main.realiptv.to:25461/live/admin/admin/94079.m3u8
 #EXTINF:-1,DISCOVERY
-http://main.realiptv.to:25461/admin/admin/94080
+http://main.realiptv.to:25461/live/admin/admin/94080.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://main.realiptv.to:25461/admin/admin/94081
+http://main.realiptv.to:25461/live/admin/admin/94081.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
-http://main.realiptv.to:25461/admin/admin/94082
+http://main.realiptv.to:25461/live/admin/admin/94082.m3u8
+#EXTINF:-1,PLANET PLUS HD
+http://main.realiptv.to:25461/live/admin/admin/94083.m3u8
+#EXTINF:-1,PLANET PLUS
+http://main.realiptv.to:25461/live/admin/admin/94084.m3u8
+#EXTINF:-1,PLANETE CI HD
+http://main.realiptv.to:25461/live/admin/admin/94085.m3u8
+#EXTINF:-1,PLANETE CI
+http://main.realiptv.to:25461/live/admin/admin/94086.m3u8
+#EXTINF:-1,PLANETE A&E HD
+http://main.realiptv.to:25461/live/admin/admin/94087.m3u8
+#EXTINF:-1,PLANETE A&E
+http://main.realiptv.to:25461/live/admin/admin/94088.m3u8
+#EXTINF:-1,RMC STORY HD
+http://main.realiptv.to:25461/live/admin/admin/94089.m3u8
+#EXTINF:-1,RMC STORY
+http://main.realiptv.to:25461/live/admin/admin/94090.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://main.realiptv.to:25461/live/admin/admin/94091.m3u8
+#EXTINF:-1,RMC Decouverte
+http://main.realiptv.to:25461/live/admin/admin/94092.m3u8
+#EXTINF:-1,SCIENCE ET VIE HD
+http://main.realiptv.to:25461/live/admin/admin/94093.m3u8
+#EXTINF:-1,SCIENCE ET VIE
+http://main.realiptv.to:25461/live/admin/admin/94094.m3u8
+#EXTINF:-1,VOYAGE HD
+http://main.realiptv.to:25461/live/admin/admin/94095.m3u8
+#EXTINF:-1,VOYAGE
+http://main.realiptv.to:25461/live/admin/admin/94096.m3u8
+#EXTINF:-1,SEASON HD
+http://main.realiptv.to:25461/live/admin/admin/94097.m3u8
+#EXTINF:-1,SEASON
+http://main.realiptv.to:25461/live/admin/admin/94098.m3u8
+#EXTINF:-1,CHASSE&PECHE HD
+http://main.realiptv.to:25461/live/admin/admin/94099.m3u8
+#EXTINF:-1,CHASSE&PECHE
+http://main.realiptv.to:25461/live/admin/admin/94100.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://main.realiptv.to:25461/live/admin/admin/94101.m3u8
+#EXTINF:-1,HISTOIRE
+http://main.realiptv.to:25461/live/admin/admin/94102.m3u8
+#EXTINF:-1,TOUTE_L'HISTOIRE HD
+http://main.realiptv.to:25461/live/admin/admin/94103.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE
+http://main.realiptv.to:25461/live/admin/admin/94104.m3u8
+#EXTINF:-1,Trek HD
+http://main.realiptv.to:25461/live/admin/admin/94105.m3u8
+#EXTINF:-1,Trek
+http://main.realiptv.to:25461/live/admin/admin/94106.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://main.realiptv.to:25461/live/admin/admin/94107.m3u8
+#EXTINF:-1,CRIME DISTRICT
+http://main.realiptv.to:25461/live/admin/admin/94108.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://main.realiptv.to:25461/live/admin/admin/94109.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION
+http://main.realiptv.to:25461/live/admin/admin/94110.m3u8
+#EXTINF:-1,RMC Sport News HD
+http://main.realiptv.to:25461/live/admin/admin/94111.m3u8
+#EXTINF:-1,RMC Sport Live 1 HD
+http://main.realiptv.to:25461/live/admin/admin/94112.m3u8
+#EXTINF:-1,RMC Sport Live 1
+http://main.realiptv.to:25461/live/admin/admin/94113.m3u8
+#EXTINF:-1,RMC Sport Access 1 HD
+http://main.realiptv.to:25461/live/admin/admin/94114.m3u8
+#EXTINF:-1,RMC Sport Live 2 HD
+http://main.realiptv.to:25461/live/admin/admin/94115.m3u8
+#EXTINF:-1,RMC Sport Live 2
+http://main.realiptv.to:25461/live/admin/admin/94116.m3u8
+#EXTINF:-1,RMC Sport Access 2 HD
+http://main.realiptv.to:25461/live/admin/admin/94117.m3u8
+#EXTINF:-1,RMC Sport Live 3 HD
+http://main.realiptv.to:25461/live/admin/admin/94118.m3u8
+#EXTINF:-1,RMC Sport Live 3
+http://main.realiptv.to:25461/live/admin/admin/94119.m3u8
+#EXTINF:-1,RMC Sport Access 3 HD
+http://main.realiptv.to:25461/live/admin/admin/94120.m3u8
+#EXTINF:-1,RMC Sport Live 4 HD
+http://main.realiptv.to:25461/live/admin/admin/94121.m3u8
+#EXTINF:-1,RMC Sport Live 5 HD
+http://main.realiptv.to:25461/live/admin/admin/94122.m3u8
+#EXTINF:-1,RMC Sport Live 6 HD
+http://main.realiptv.to:25461/live/admin/admin/94123.m3u8
+#EXTINF:-1,RMC Sport Live 7 HD
+http://main.realiptv.to:25461/live/admin/admin/94124.m3u8
+#EXTINF:-1,RMC Sport Live 8 HD
+http://main.realiptv.to:25461/live/admin/admin/94125.m3u8
+#EXTINF:-1,RMC Sport Live 9 HD
+http://main.realiptv.to:25461/live/admin/admin/94126.m3u8
+#EXTINF:-1,RMC Sport Live 10 HD
+http://main.realiptv.to:25461/live/admin/admin/94127.m3u8
+#EXTINF:-1,RMC Sport Live 11 HD
+http://main.realiptv.to:25461/live/admin/admin/94128.m3u8
+#EXTINF:-1,RMC Sport Live 12 HD
+http://main.realiptv.to:25461/live/admin/admin/94129.m3u8
+#EXTINF:-1,RMC Sport Live 13 HD
+http://main.realiptv.to:25461/live/admin/admin/94130.m3u8
+#EXTINF:-1,RMC Sport Live 14 HD
+http://main.realiptv.to:25461/live/admin/admin/94131.m3u8
+#EXTINF:-1,RMC Sport Live 15 HD
+http://main.realiptv.to:25461/live/admin/admin/94132.m3u8
+#EXTINF:-1,RMC Sport Live 16 HD
+http://main.realiptv.to:25461/live/admin/admin/94133.m3u8
 #EXTINF:-1,EuroSport 1 HD
-http://main.realiptv.to:25461/admin/admin/94134
+http://main.realiptv.to:25461/live/admin/admin/94134.m3u8
 #EXTINF:-1,EuroSport 1
-http://main.realiptv.to:25461/admin/admin/94135
+http://main.realiptv.to:25461/live/admin/admin/94135.m3u8
 #EXTINF:-1,EuroSport 2 HD
-http://main.realiptv.to:25461/admin/admin/94136
+http://main.realiptv.to:25461/live/admin/admin/94136.m3u8
 #EXTINF:-1,EuroSport 2
-http://main.realiptv.to:25461/admin/admin/94137
+http://main.realiptv.to:25461/live/admin/admin/94137.m3u8
 #EXTINF:-1,Infosport HD
-http://main.realiptv.to:25461/admin/admin/94138
+http://main.realiptv.to:25461/live/admin/admin/94138.m3u8
 #EXTINF:-1,Infosport
-http://main.realiptv.to:25461/admin/admin/94139
+http://main.realiptv.to:25461/live/admin/admin/94139.m3u8
 #EXTINF:-1,Foot24 HD
-http://main.realiptv.to:25461/admin/admin/94140
+http://main.realiptv.to:25461/live/admin/admin/94140.m3u8
 #EXTINF:-1,Foot24
-http://main.realiptv.to:25461/admin/admin/94141
-#EXTINF:-1,SPORTS 1 SD
-http://main.realiptv.to:25461/admin/admin/94273
-#EXTINF:-1,SPORTS 1 HD
-http://main.realiptv.to:25461/admin/admin/94274
-#EXTINF:-1,SPORTS 1 FHD
-http://main.realiptv.to:25461/admin/admin/94275
-#EXTINF:-1,SPORTS 2 SD
-http://main.realiptv.to:25461/admin/admin/94276
-#EXTINF:-1,SPORTS 2 HD
-http://main.realiptv.to:25461/admin/admin/94277
-#EXTINF:-1,SPORTS 2 FHD
-http://main.realiptv.to:25461/admin/admin/94278
-#EXTINF:-1,SPORTS 3 SD
-http://main.realiptv.to:25461/admin/admin/94279
-#EXTINF:-1,SPORTS 3 HD
-http://main.realiptv.to:25461/admin/admin/94280
-#EXTINF:-1,SPORTS 3 FHD
-http://main.realiptv.to:25461/admin/admin/94281
+http://main.realiptv.to:25461/live/admin/admin/94141.m3u8
+#EXTINF:-1,Equipe21 HD
+http://main.realiptv.to:25461/live/admin/admin/94142.m3u8
+#EXTINF:-1,Equipe 21
+http://main.realiptv.to:25461/live/admin/admin/94143.m3u8
+#EXTINF:-1,Golf Plus HD
+http://main.realiptv.to:25461/live/admin/admin/94144.m3u8
+#EXTINF:-1,Golf Plus
+http://main.realiptv.to:25461/live/admin/admin/94145.m3u8
+#EXTINF:-1,Golf Channel HD
+http://main.realiptv.to:25461/live/admin/admin/94146.m3u8
+#EXTINF:-1,Golf Channel
+http://main.realiptv.to:25461/live/admin/admin/94147.m3u8
+#EXTINF:-1,Equidia Live HD
+http://main.realiptv.to:25461/live/admin/admin/94148.m3u8
+#EXTINF:-1,Equidia Live
+http://main.realiptv.to:25461/live/admin/admin/94149.m3u8
+#EXTINF:-1,EQUIDIA LIFE HD
+http://main.realiptv.to:25461/live/admin/admin/94150.m3u8
+#EXTINF:-1,EQUIDIA LIFE
+http://main.realiptv.to:25461/live/admin/admin/94151.m3u8
+#EXTINF:-1,AB Moteur HD
+http://main.realiptv.to:25461/live/admin/admin/94152.m3u8
+#EXTINF:-1,AB Moteurs
+http://main.realiptv.to:25461/live/admin/admin/94153.m3u8
+#EXTINF:-1,KOMBAT SPORT HD
+http://main.realiptv.to:25461/live/admin/admin/94154.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://main.realiptv.to:25461/live/admin/admin/94155.m3u8
+#EXTINF:-1,BFM sportHD
+http://main.realiptv.to:25461/live/admin/admin/94156.m3u8
+#EXTINF:-1,BFM SPORT
+http://main.realiptv.to:25461/live/admin/admin/94157.m3u8
+#EXTINF:-1,EXTREME SPORTS HD
+http://main.realiptv.to:25461/live/admin/admin/94158.m3u8
+#EXTINF:-1,J-ONE HD
+http://main.realiptv.to:25461/live/admin/admin/94159.m3u8
+#EXTINF:-1,J-ONE
+http://main.realiptv.to:25461/live/admin/admin/94160.m3u8
+#EXTINF:-1,Piwi HD
+http://main.realiptv.to:25461/live/admin/admin/94161.m3u8
+#EXTINF:-1,Piwi
+http://main.realiptv.to:25461/live/admin/admin/94162.m3u8
+#EXTINF:-1,TIJI HD
+http://main.realiptv.to:25461/live/admin/admin/94163.m3u8
+#EXTINF:-1,TIJI
+http://main.realiptv.to:25461/live/admin/admin/94164.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://main.realiptv.to:25461/live/admin/admin/94165.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://main.realiptv.to:25461/live/admin/admin/94166.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://main.realiptv.to:25461/live/admin/admin/94167.m3u8
+#EXTINF:-1,DISNEY CINEMA
+http://main.realiptv.to:25461/live/admin/admin/94168.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://main.realiptv.to:25461/live/admin/admin/94169.m3u8
+#EXTINF:-1,DISNEY XD
+http://main.realiptv.to:25461/live/admin/admin/94170.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://main.realiptv.to:25461/live/admin/admin/94171.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://main.realiptv.to:25461/live/admin/admin/94172.m3u8
+#EXTINF:-1,TELETOON HD
+http://main.realiptv.to:25461/live/admin/admin/94173.m3u8
+#EXTINF:-1,TELETOON
+http://main.realiptv.to:25461/live/admin/admin/94174.m3u8
+#EXTINF:-1,TELETOON PLUS HD
+http://main.realiptv.to:25461/live/admin/admin/94175.m3u8
+#EXTINF:-1,TELETOON PLUS
+http://main.realiptv.to:25461/live/admin/admin/94176.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://main.realiptv.to:25461/live/admin/admin/94177.m3u8
+#EXTINF:-1,NICKELODEON
+http://main.realiptv.to:25461/live/admin/admin/94178.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN HD
+http://main.realiptv.to:25461/live/admin/admin/94179.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN
+http://main.realiptv.to:25461/live/admin/admin/94180.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://main.realiptv.to:25461/live/admin/admin/94181.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR
+http://main.realiptv.to:25461/live/admin/admin/94182.m3u8
+#EXTINF:-1,CartoonNetwork HD
+http://main.realiptv.to:25461/live/admin/admin/94183.m3u8
+#EXTINF:-1,CartoonNetwork
+http://main.realiptv.to:25461/live/admin/admin/94184.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://main.realiptv.to:25461/live/admin/admin/94185.m3u8
+#EXTINF:-1,BOOMERANG
+http://main.realiptv.to:25461/live/admin/admin/94186.m3u8
+#EXTINF:-1,BOING HD
+http://main.realiptv.to:25461/live/admin/admin/94187.m3u8
+#EXTINF:-1,BOING
+http://main.realiptv.to:25461/live/admin/admin/94188.m3u8
+#EXTINF:-1,CANAL J HD
+http://main.realiptv.to:25461/live/admin/admin/94189.m3u8
+#EXTINF:-1,CANAL J
+http://main.realiptv.to:25461/live/admin/admin/94190.m3u8
+#EXTINF:-1,GULLI HD
+http://main.realiptv.to:25461/live/admin/admin/94191.m3u8
+#EXTINF:-1,GULLI
+http://main.realiptv.to:25461/live/admin/admin/94192.m3u8
+#EXTINF:-1,MANGAS TV HD
+http://main.realiptv.to:25461/live/admin/admin/94193.m3u8
+#EXTINF:-1,MANGAS TV
+http://main.realiptv.to:25461/live/admin/admin/94194.m3u8
+#EXTINF:-1,Toonami HD
+http://main.realiptv.to:25461/live/admin/admin/94195.m3u8
+#EXTINF:-1,Toonami
+http://main.realiptv.to:25461/live/admin/admin/94196.m3u8
+#EXTINF:-1,GAME ONE HD
+http://main.realiptv.to:25461/live/admin/admin/94197.m3u8
+#EXTINF:-1,GAME ONE
+http://main.realiptv.to:25461/live/admin/admin/94198.m3u8
+#EXTINF:-1,Discovery Family HD
+http://main.realiptv.to:25461/live/admin/admin/94199.m3u8
+#EXTINF:-1,Discovery Family
+http://main.realiptv.to:25461/live/admin/admin/94200.m3u8
+#EXTINF:-1,TEVA HD
+http://main.realiptv.to:25461/live/admin/admin/94201.m3u8
+#EXTINF:-1,TEVA
+http://main.realiptv.to:25461/live/admin/admin/94202.m3u8
+#EXTINF:-1,Tv Breizh HD
+http://main.realiptv.to:25461/live/admin/admin/94203.m3u8
+#EXTINF:-1,Tv Breizh
+http://main.realiptv.to:25461/live/admin/admin/94204.m3u8
+#EXTINF:-1,Comedie HD
+http://main.realiptv.to:25461/live/admin/admin/94205.m3u8
+#EXTINF:-1,Comedie
+http://main.realiptv.to:25461/live/admin/admin/94206.m3u8
+#EXTINF:-1,AB1 HD
+http://main.realiptv.to:25461/live/admin/admin/94207.m3u8
+#EXTINF:-1,AB1
+http://main.realiptv.to:25461/live/admin/admin/94208.m3u8
+#EXTINF:-1,WEO HD
+http://main.realiptv.to:25461/live/admin/admin/94209.m3u8
+#EXTINF:-1,WEO
+http://main.realiptv.to:25461/live/admin/admin/94210.m3u8
+#EXTINF:-1,BFM Business HD
+http://main.realiptv.to:25461/live/admin/admin/94211.m3u8
+#EXTINF:-1,BFM Business
+http://main.realiptv.to:25461/live/admin/admin/94212.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://main.realiptv.to:25461/live/admin/admin/94213.m3u8
+#EXTINF:-1,E! Entertainment
+http://main.realiptv.to:25461/live/admin/admin/94214.m3u8
+#EXTINF:-1,TRACE Urban HD
+http://main.realiptv.to:25461/live/admin/admin/94215.m3u8
+#EXTINF:-1,TRACE Urban
+http://main.realiptv.to:25461/live/admin/admin/94216.m3u8
+#EXTINF:-1,My Cuisine
+http://main.realiptv.to:25461/live/admin/admin/94217.m3u8
+#EXTINF:-1,My Cuisine HD
+http://main.realiptv.to:25461/live/admin/admin/94218.m3u8
+#EXTINF:-1,BET HD
+http://main.realiptv.to:25461/live/admin/admin/94219.m3u8
+#EXTINF:-1,BRAVA HD
+http://main.realiptv.to:25461/live/admin/admin/94220.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://main.realiptv.to:25461/live/admin/admin/94221.m3u8
+#EXTINF:-1,IL-TV HD
+http://main.realiptv.to:25461/live/admin/admin/94222.m3u8
+#EXTINF:-1,ONE TV HD
+http://main.realiptv.to:25461/live/admin/admin/94223.m3u8
+#EXTINF:-1,RFM TV HD
+http://main.realiptv.to:25461/live/admin/admin/94224.m3u8
+#EXTINF:-1,TVM3 HD
+http://main.realiptv.to:25461/live/admin/admin/94225.m3u8
+#EXTINF:-1,LCI HD
+http://main.realiptv.to:25461/live/admin/admin/94226.m3u8
+#EXTINF:-1,LCI
+http://main.realiptv.to:25461/live/admin/admin/94227.m3u8
+#EXTINF:-1,LCP HD
+http://main.realiptv.to:25461/live/admin/admin/94228.m3u8
+#EXTINF:-1,LCP
+http://main.realiptv.to:25461/live/admin/admin/94229.m3u8
+#EXTINF:-1,BFM HD
+http://main.realiptv.to:25461/live/admin/admin/94230.m3u8
+#EXTINF:-1,BFM
+http://main.realiptv.to:25461/live/admin/admin/94231.m3u8
+#EXTINF:-1,C NEWS HD
+http://main.realiptv.to:25461/live/admin/admin/94232.m3u8
+#EXTINF:-1,C NEWS
+http://main.realiptv.to:25461/live/admin/admin/94233.m3u8
+#EXTINF:-1,FRANCE.24 HD
+http://main.realiptv.to:25461/live/admin/admin/94234.m3u8
+#EXTINF:-1,FRANCE.24
+http://main.realiptv.to:25461/live/admin/admin/94235.m3u8
+#EXTINF:-1,EURONEWS HD
+http://main.realiptv.to:25461/live/admin/admin/94236.m3u8
+#EXTINF:-1,EURONEWS
+http://main.realiptv.to:25461/live/admin/admin/94237.m3u8
+#EXTINF:-1,FRANCE INFO HD
+http://main.realiptv.to:25461/live/admin/admin/94238.m3u8
+#EXTINF:-1,M6 MUSIC HD
+http://main.realiptv.to:25461/live/admin/admin/94239.m3u8
+#EXTINF:-1,M6 MUSIC
+http://main.realiptv.to:25461/live/admin/admin/94240.m3u8
+#EXTINF:-1,MCM HD
+http://main.realiptv.to:25461/live/admin/admin/94241.m3u8
+#EXTINF:-1,MCM
+http://main.realiptv.to:25461/live/admin/admin/94242.m3u8
+#EXTINF:-1,MCM TOP HD
+http://main.realiptv.to:25461/live/admin/admin/94243.m3u8
+#EXTINF:-1,MCM TOP
+http://main.realiptv.to:25461/live/admin/admin/94244.m3u8
+#EXTINF:-1,MTV Base HD
+http://main.realiptv.to:25461/live/admin/admin/94245.m3u8
+#EXTINF:-1,MTV Base
+http://main.realiptv.to:25461/live/admin/admin/94246.m3u8
+#EXTINF:-1,MTV FRANCE HD
+http://main.realiptv.to:25461/live/admin/admin/94247.m3u8
+#EXTINF:-1,MTV FRANCE
+http://main.realiptv.to:25461/live/admin/admin/94248.m3u8
+#EXTINF:-1,MTV Hits HD
+http://main.realiptv.to:25461/live/admin/admin/94249.m3u8
+#EXTINF:-1,MTV Hits
+http://main.realiptv.to:25461/live/admin/admin/94250.m3u8
+#EXTINF:-1,MTV Dance HD
+http://main.realiptv.to:25461/live/admin/admin/94251.m3u8
+#EXTINF:-1,MTV Dance
+http://main.realiptv.to:25461/live/admin/admin/94252.m3u8
+#EXTINF:-1,MEZZO FR HD
+http://main.realiptv.to:25461/live/admin/admin/94253.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://main.realiptv.to:25461/live/admin/admin/94254.m3u8
+#EXTINF:-1, A LA CARTE 9
+http://main.realiptv.to:25461/live/admin/admin/94255.m3u8
+#EXTINF:-1,A LA CARTE 10
+http://main.realiptv.to:25461/live/admin/admin/94256.m3u8
+#EXTINF:-1,A LA CARTE 08
+http://main.realiptv.to:25461/live/admin/admin/94257.m3u8
+#EXTINF:-1,A LA CARTE 07
+http://main.realiptv.to:25461/live/admin/admin/94258.m3u8
+#EXTINF:-1,A LA CARTE 06
+http://main.realiptv.to:25461/live/admin/admin/94259.m3u8
+#EXTINF:-1,A LA CARTE 05
+http://main.realiptv.to:25461/live/admin/admin/94260.m3u8
+#EXTINF:-1,A LA CARTE 04
+http://main.realiptv.to:25461/live/admin/admin/94261.m3u8
+#EXTINF:-1,A LA CARTE 03
+http://main.realiptv.to:25461/live/admin/admin/94262.m3u8
+#EXTINF:-1,A LA CARTE 02
+http://main.realiptv.to:25461/live/admin/admin/94263.m3u8
+#EXTINF:-1,A LA CARTE 01
+http://main.realiptv.to:25461/live/admin/admin/94264.m3u8
+#EXTINF:-1,CANAL PLAY 08
+http://main.realiptv.to:25461/live/admin/admin/94265.m3u8
+#EXTINF:-1,CANAL PLAY 07
+http://main.realiptv.to:25461/live/admin/admin/94266.m3u8
+#EXTINF:-1,CANAL PLAY 06
+http://main.realiptv.to:25461/live/admin/admin/94267.m3u8
+#EXTINF:-1,CANAL PLAY 05
+http://main.realiptv.to:25461/live/admin/admin/94268.m3u8
+#EXTINF:-1,CANAL PLAY 04
+http://main.realiptv.to:25461/live/admin/admin/94269.m3u8
+#EXTINF:-1,CANAL PLAY 03
+http://main.realiptv.to:25461/live/admin/admin/94270.m3u8
+#EXTINF:-1,CANAL PLAY 02
+http://main.realiptv.to:25461/live/admin/admin/94271.m3u8
+#EXTINF:-1,CANAL PLAY 01
+http://main.realiptv.to:25461/live/admin/admin/94272.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD
+http://main.realiptv.to:25461/live/admin/admin/94273.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD
+http://main.realiptv.to:25461/live/admin/admin/94274.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://main.realiptv.to:25461/live/admin/admin/94275.m3u8
+#EXTINF:-1,beIN SPORTS 2 SD
+http://main.realiptv.to:25461/live/admin/admin/94276.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD
+http://main.realiptv.to:25461/live/admin/admin/94277.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://main.realiptv.to:25461/live/admin/admin/94278.m3u8
+#EXTINF:-1,beIN SPORTS 3 SD
+http://main.realiptv.to:25461/live/admin/admin/94279.m3u8
+#EXTINF:-1,beIN SPORTS 3 HD
+http://main.realiptv.to:25461/live/admin/admin/94280.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://main.realiptv.to:25461/live/admin/admin/94281.m3u8
+#EXTINF:-1,DISNEY+ FHD
+http://main.realiptv.to:25461/live/admin/admin/94282.m3u8
+#EXTINF:-1,MCM TOP HD
+http://main.realiptv.to:25461/live/admin/admin/102604.m3u8
