@@ -1,143 +1,445 @@
 #EXTM3U
-#EXTINF:-1,max 4
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2865
-#EXTINF:-1,FR : EURONEWS
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1550
-#EXTINF:-1,FRANCE 3
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/529
-#EXTINF:-1,RTL9
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/246
-#EXTINF:-1,Discovery Science HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1528
-#EXTINF:-1, Disney Jr Fr
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1546
-#EXTINF:-1, Nat Geo HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1535
-#EXTINF:-1, Nat Geo Wild  HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1534
-#EXTINF:-1,Sport Max 9 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5622
-#EXTINF:-1,Sport Max 8
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5621
-#EXTINF:-1,Sport Max 7
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5620
-#EXTINF:-1,Sport Max 6
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5619
-#EXTINF:-1,Sport Max 5
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5618
-#EXTINF:-1,Sport Max 10
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5623
-#EXTINF:-1,France O  HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/532
-#EXTINF:-1,France 5 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/531
-#EXTINF:-1,France 4  HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/530
-#EXTINF:-1,FRANCE 2 HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/528
-#EXTINF:-1,EUROSPORT2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1542
-#EXTINF:-1,Eurosport 2
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4975
-#EXTINF:-1,Eurosport 1
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1541
-#EXTINF:-1,Disney XD HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1553
-#EXTINF:-1,DISNEY CHANNEL
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1544
-#EXTINF:-1,SPORTS 1 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8310
-#EXTINF:-1,SPORTS 2 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8309
-#EXTINF:-1,SPORTS 3 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8308
-#EXTINF:-1,France 02 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8341
-#EXTINF:-1,France 03 FHD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/8340
-#EXTINF:-1,TF1 FHD
-http://main.realiptv.to:25461/admin/admin/93962
-#EXTINF:-1,TF1 HD
-http://main.realiptv.to:25461/admin/admin/93963
+#EXTINF:-1,RTS Un HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/424.m3u8
+#EXTINF:-1,RTS Deux HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/423.m3u8
 #EXTINF:-1,TF1
-http://main.realiptv.to:25461/admin/admin/93964
-#EXTINF:-1,FRANCE 2 FHD
-http://main.realiptv.to:25461/admin/admin/93973
-#EXTINF:-1,FRANCE 2 HD
-http://main.realiptv.to:25461/admin/admin/93974
-#EXTINF:-1,FRANCE2
-http://main.realiptv.to:25461/admin/admin/93975
-#EXTINF:-1,FRANCE 3 FHD
-http://main.realiptv.to:25461/admin/admin/93976
-#EXTINF:-1,FRANCE 3 HD
-http://main.realiptv.to:25461/admin/admin/93977
-#EXTINF:-1,FRANCE3
-http://main.realiptv.to:25461/admin/admin/93978
-#EXTINF:-1,FRANCE 4 FHD
-http://main.realiptv.to:25461/admin/admin/93979
-#EXTINF:-1,FRANCE 4 HD
-http://main.realiptv.to:25461/admin/admin/93980
-#EXTINF:-1,FRANCE4
-http://main.realiptv.to:25461/admin/admin/93981
-#EXTINF:-1,FRANCE 5 FHD
-http://main.realiptv.to:25461/admin/admin/93982
-#EXTINF:-1,FRANCE 5 HD
-http://main.realiptv.to:25461/admin/admin/93983
-#EXTINF:-1,FRANCE5
-http://main.realiptv.to:25461/admin/admin/93984
-#EXTINF:-1,FRANCE O FHD
-http://main.realiptv.to:25461/admin/admin/93985
-#EXTINF:-1,FRANCE O HD
-http://main.realiptv.to:25461/admin/admin/93986
-#EXTINF:-1,FRANCE O
-http://main.realiptv.to:25461/admin/admin/93987
-#EXTINF:-1,NAT GEO WILD HD
-http://main.realiptv.to:25461/admin/admin/94075
-#EXTINF:-1,NAT GEO WILD
-http://main.realiptv.to:25461/admin/admin/94076
-#EXTINF:-1,NATIONAL GEO HD
-http://main.realiptv.to:25461/admin/admin/94077
-#EXTINF:-1,NATIONAL GEO
-http://main.realiptv.to:25461/admin/admin/94078
-#EXTINF:-1,DISCOVERY HD
-http://main.realiptv.to:25461/admin/admin/94079
-#EXTINF:-1,DISCOVERY
-http://main.realiptv.to:25461/admin/admin/94080
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://main.realiptv.to:25461/admin/admin/94081
-#EXTINF:-1,DISCOVERY SCIENCE
-http://main.realiptv.to:25461/admin/admin/94082
-#EXTINF:-1,EuroSport 1 HD
-http://main.realiptv.to:25461/admin/admin/94134
-#EXTINF:-1,EuroSport 1
-http://main.realiptv.to:25461/admin/admin/94135
-#EXTINF:-1,EuroSport 2 HD
-http://main.realiptv.to:25461/admin/admin/94136
-#EXTINF:-1,EuroSport 2
-http://main.realiptv.to:25461/admin/admin/94137
-#EXTINF:-1,Infosport HD
-http://main.realiptv.to:25461/admin/admin/94138
-#EXTINF:-1,Infosport
-http://main.realiptv.to:25461/admin/admin/94139
-#EXTINF:-1,Foot24 HD
-http://main.realiptv.to:25461/admin/admin/94140
-#EXTINF:-1,Foot24
-http://main.realiptv.to:25461/admin/admin/94141
-#EXTINF:-1,SPORTS 1 SD
-http://main.realiptv.to:25461/admin/admin/94273
-#EXTINF:-1,SPORTS 1 HD
-http://main.realiptv.to:25461/admin/admin/94274
-#EXTINF:-1,SPORTS 1 FHD
-http://main.realiptv.to:25461/admin/admin/94275
-#EXTINF:-1,SPORTS 2 SD
-http://main.realiptv.to:25461/admin/admin/94276
-#EXTINF:-1,SPORTS 2 HD
-http://main.realiptv.to:25461/admin/admin/94277
-#EXTINF:-1,SPORTS 2 FHD
-http://main.realiptv.to:25461/admin/admin/94278
-#EXTINF:-1,SPORTS 3 SD
-http://main.realiptv.to:25461/admin/admin/94279
-#EXTINF:-1,SPORTS 3 HD
-http://main.realiptv.to:25461/admin/admin/94280
-#EXTINF:-1,SPORTS 3 FHD
-http://main.realiptv.to:25461/admin/admin/94281
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/440.m3u8
+#EXTINF:-1,TF1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/441.m3u8
+#EXTINF:-1,France 2
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/438.m3u8
+#EXTINF:-1,France 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/439.m3u8
+#EXTINF:-1,France 3
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/436.m3u8
+#EXTINF:-1,France 3 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/437.m3u8
+#EXTINF:-1,France 4 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/435.m3u8
+#EXTINF:-1,France 5
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/434.m3u8
+#EXTINF:-1,M6
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/431.m3u8
+#EXTINF:-1,M6 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/432.m3u8
+#EXTINF:-1,Syfy
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1447.m3u8
+#EXTINF:-1,TFX FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1406.m3u8
+#EXTINF:-1,TFX
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1446.m3u8
+#EXTINF:-1,W9 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/430.m3u8
+#EXTINF:-1,HD1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1473.m3u8
+#EXTINF:-1,C-8 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/428.m3u8
+#EXTINF:-1,C-Star
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1401.m3u8
+#EXTINF:-1,C-Star HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1381.m3u8
+#EXTINF:-1,6ter
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/425.m3u8
+#EXTINF:-1,6ter HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/426.m3u8
+#EXTINF:-1,RTL 9
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1442.m3u8
+#EXTINF:-1,Chérie 25
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1444.m3u8
+#EXTINF:-1,13eme Rue
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1452.m3u8
+#EXTINF:-1,AB1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1405.m3u8
+#EXTINF:-1,AB3
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4077.m3u8
+#EXTINF:-1,NRJ 12 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1443.m3u8
+#EXTINF:-1,E!
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1379.m3u8
+#EXTINF:-1,Elle Girl HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/8785.m3u8
+#EXTINF:-1,Seasons HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1433.m3u8
+#EXTINF:-1,serieclub
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1449.m3u8
+#EXTINF:-1,Comédie+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1410.m3u8
+#EXTINF:-1,CANAL+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1471.m3u8
+#EXTINF:-1,CANAL+ Cinema HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1470.m3u8
+#EXTINF:-1,CANAL+ Decale HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1469.m3u8
+#EXTINF:-1,CANAL+ Family HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1468.m3u8
+#EXTINF:-1,CANAL+ Series HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1466.m3u8
+#EXTINF:-1,Ciné+ Classic HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1462.m3u8
+#EXTINF:-1,Ciné FX HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1459.m3u8
+#EXTINF:-1,Ciné Polar HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1460.m3u8
+#EXTINF:-1,Ciné+ Emotion HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1464.m3u8
+#EXTINF:-1,Ciné+ Famiz
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1467.m3u8
+#EXTINF:-1,Ciné+ Famiz HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4102.m3u8
+#EXTINF:-1,Ciné+isson HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1465.m3u8
+#EXTINF:-1,Ciné+ Premier HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1463.m3u8
+#EXTINF:-1,Canal Play 1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4126.m3u8
+#EXTINF:-1,Canal Play 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4125.m3u8
+#EXTINF:-1,Canal Play 3 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4124.m3u8
+#EXTINF:-1,Canal Play 4 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4123.m3u8
+#EXTINF:-1,Canal Play 5 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4122.m3u8
+#EXTINF:-1,À La Carte 1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4141.m3u8
+#EXTINF:-1,À La Carte 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4140.m3u8
+#EXTINF:-1,À La Carte 3 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4139.m3u8
+#EXTINF:-1,À La Carte 4 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4138.m3u8
+#EXTINF:-1,À La Carte 5 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4137.m3u8
+#EXTINF:-1,OCS Choc FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1454.m3u8
+#EXTINF:-1,OCS City
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1455.m3u8
+#EXTINF:-1,OCS Geants
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1456.m3u8
+#EXTINF:-1,OCS Max
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1458.m3u8
+#EXTINF:-1,OCS Go Cinema 1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4131.m3u8
+#EXTINF:-1,OCS Go Cinema 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4130.m3u8
+#EXTINF:-1,OCS Go Cinema 4 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4128.m3u8
+#EXTINF:-1,OCS Go Cinema 5 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4127.m3u8
+#EXTINF:-1,Orange Cinema 1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4136.m3u8
+#EXTINF:-1,Orange Cinema 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4135.m3u8
+#EXTINF:-1,Orange Cinema 3 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4134.m3u8
+#EXTINF:-1,Orange Cinema 4 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4133.m3u8
+#EXTINF:-1,Orange Cinema 5 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4132.m3u8
+#EXTINF:-1,Orange Cinema Action HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4066.m3u8
+#EXTINF:-1,Orange Cinema Aventure HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4067.m3u8
+#EXTINF:-1,Orange Cinema HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4068.m3u8
+#EXTINF:-1,Orange Cinema Horreur HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4069.m3u8
+#EXTINF:-1,Orange Comment C'Est Fait HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4064.m3u8
+#EXTINF:-1,Orange Documentaire HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4063.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4050.m3u8
+#EXTINF:-1,TCM Cinéma HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1461.m3u8
+#EXTINF:-1,TMC FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1448.m3u8
+#EXTINF:-1,Boing
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1408.m3u8
+#EXTINF:-1,Boomerang FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4052.m3u8
+#EXTINF:-1,Cartoon Network
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1412.m3u8
+#EXTINF:-1,Gulli
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1417.m3u8
+#EXTINF:-1,Piwi+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1418.m3u8
+#EXTINF:-1,téléTOON+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1416.m3u8
+#EXTINF:-1,Tiji FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1419.m3u8
+#EXTINF:-1,Canal J FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1420.m3u8
+#EXTINF:-1,Disney Channel HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1411.m3u8
+#EXTINF:-1,Disney Channel +1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4053.m3u8
+#EXTINF:-1,Disney Cinema
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1413.m3u8
+#EXTINF:-1,Disney Cinema HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1414.m3u8
+#EXTINF:-1,Disney Junior HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1415.m3u8
+#EXTINF:-1,Disney XD HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1376.m3u8
+#EXTINF:-1,Mangas HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1409.m3u8
+#EXTINF:-1,J-One
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1438.m3u8
+#EXTINF:-1,Game One
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1400.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1423.m3u8
+#EXTINF:-1,Discovery Science HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1424.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1422.m3u8
+#EXTINF:-1,Planète+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1431.m3u8
+#EXTINF:-1,Planète+ Aventure Expérience HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1429.m3u8
+#EXTINF:-1,Planète+ Crime+Investigation HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1430.m3u8
+#EXTINF:-1,National Geographic HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1425.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1426.m3u8
+#EXTINF:-1,Action
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1453.m3u8
+#EXTINF:-1,Animaux HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1435.m3u8
+#EXTINF:-1,Arte
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1440.m3u8
+#EXTINF:-1,AUTOMOTO TV
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1385.m3u8
+#EXTINF:-1,Chasse et Pêche
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1434.m3u8
+#EXTINF:-1,KTO
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4041.m3u8
+#EXTINF:-1,M6 Music
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1397.m3u8
+#EXTINF:-1,MCM HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1395.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4080.m3u8
+#EXTINF:-1,MTV
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4055.m3u8
+#EXTINF:-1,MTV Base
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4056.m3u8
+#EXTINF:-1,MTV Hits
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4057.m3u8
+#EXTINF:-1,MTV Music
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4058.m3u8
+#EXTINF:-1,NRJ Hits HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4059.m3u8
+#EXTINF:-1,Trace Urban
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4075.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/417.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD+
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/7538.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/418.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/415.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/416.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/413.m3u8
+#EXTINF:-1,beIN SPORTS 3 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/414.m3u8
+#EXTINF:-1,beIN SPORTS MAX 4 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4090.m3u8
+#EXTINF:-1,beIN SPORTS MAX 5 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4089.m3u8
+#EXTINF:-1,beIN SPORTS MAX 6 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4088.m3u8
+#EXTINF:-1,beIN SPORTS MAX 7 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4087.m3u8
+#EXTINF:-1,beIN SPORTS MAX 8
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/7536.m3u8
+#EXTINF:-1,beIN SPORTS MAX 8 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/7537.m3u8
+#EXTINF:-1,Equidia HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1402.m3u8
+#EXTINF:-1,Equidia
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1386.m3u8
+#EXTINF:-1,CANAL+ Sport HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1392.m3u8
+#EXTINF:-1,Eurosport 1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1389.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1388.m3u8
+#EXTINF:-1,FOOT+ 24/24
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1390.m3u8
+#EXTINF:-1,GOLF+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/8786.m3u8
+#EXTINF:-1,InfoSport+ HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4047.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1170.m3u8
+#EXTINF:-1,RMC Sport 2 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1169.m3u8
+#EXTINF:-1,RMC Sport 3 HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1168.m3u8
+#EXTINF:-1,C-News
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/422.m3u8
+#EXTINF:-1,Euronews
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/420.m3u8
+#EXTINF:-1,France 24
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/419.m3u8
+#EXTINF:-1,France Info
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1398.m3u8
+#EXTINF:-1,France Ô
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/433.m3u8
+#EXTINF:-1,i24NEWS
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4062.m3u8
+#EXTINF:-1,Africa 24
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1404.m3u8
+#EXTINF:-1,Alsace 20
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4070.m3u8
+#EXTINF:-1,Histoire
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1437.m3u8
+#EXTINF:-1,Canal Alpha JU
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4079.m3u8
+#EXTINF:-1,L'Equipe 21
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1387.m3u8
+#EXTINF:-1,BFM Business HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/8788.m3u8
+#EXTINF:-1,BFM TV HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/421.m3u8
+#EXTINF:-1,Bet HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/8784.m3u8
+#EXTINF:-1,Weo HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1441.m3u8
+#EXTINF:-1,La Chaîne Normande TV
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4073.m3u8
+#EXTINF:-1,La Une HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1382.m3u8
+#EXTINF:-1,Numéro 23
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1450.m3u8
+#EXTINF:-1,OL TV HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4048.m3u8
+#EXTINF:-1,Paris Premiere HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1457.m3u8
+#EXTINF:-1,RFM TV HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1380.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1384.m3u8
+#EXTINF:-1,Science & Vie TV FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1428.m3u8
+#EXTINF:-1,Stingray Brava
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1403.m3u8
+#EXTINF:-1,Toute l'Histoire
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1427.m3u8
+#EXTINF:-1,Trek HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4119.m3u8
+#EXTINF:-1,TVBreizh FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4076.m3u8
+#EXTINF:-1,TVBreizh
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1451.m3u8
+#EXTINF:-1,TV5 Monde HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1439.m3u8
+#EXTINF:-1,téva
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1445.m3u8
+#EXTINF:-1,téva HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/4114.m3u8
+#EXTINF:-1,Ushuaïa TV
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1436.m3u8
+#EXTINF:-1,Voyage
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1432.m3u8
+#EXTINF:-1,Vosges Télévision HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/1421.m3u8
+#EXTINF:-1,MULTISPORTS 1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/77675.m3u8
+#EXTINF:-1,MULTISPORTS 2
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/77676.m3u8
+#EXTINF:-1,MULTISPORTS 3
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/77677.m3u8
+#EXTINF:-1,MULTISPORTS 4
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/77678.m3u8
+#EXTINF:-1,MULTISPORTS 5
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/77679.m3u8
+#EXTINF:-1,MULTISPORTS 6
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/77680.m3u8
+#EXTINF:-1,LCI FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/78592.m3u8
+#EXTINF:-1,LCI HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/78593.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80104.m3u8
+#EXTINF:-1,GAME ONE+1 FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80165.m3u8
+#EXTINF:-1,MY COMEDY TV HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80166.m3u8
+#EXTINF:-1,EXTRÊME SPORTS FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80167.m3u8
+#EXTINF:-1,CLIQUE TV HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80168.m3u8
+#EXTINF:-1,TRACE LATINA HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80169.m3u8
+#EXTINF:-1,TRACE GOSPEL
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80170.m3u8
+#EXTINF:-1,TRACE MZIKI HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80171.m3u8
+#EXTINF:-1,TRACE NAIJA HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80172.m3u8
+#EXTINF:-1,TRACE TOCA HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80173.m3u8
+#EXTINF:-1,OKLM HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80174.m3u8
+#EXTINF:-1,VH1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80175.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80176.m3u8
+#EXTINF:-1,OLYMPIA HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80177.m3u8
+#EXTINF:-1,DJAZZ TV FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80178.m3u8
+#EXTINF:-1,STINGRAY CLASSICA FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80179.m3u8
+#EXTINF:-1,M6 BOUTIQUE & CO HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80180.m3u8
+#EXTINF:-1,FRANCE 3 NOA FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80181.m3u8
+#EXTINF:-1,LUCKY JACK TV FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80182.m3u8
+#EXTINF:-1,LA CHAINE METEO FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80185.m3u8
+#EXTINF:-1,BFM PARIS FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80186.m3u8
+#EXTINF:-1,BFM LYON FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80187.m3u8
+#EXTINF:-1,CNEWS FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80188.m3u8
+#EXTINF:-1,BFM GRAND LITTORAL FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80189.m3u8
+#EXTINF:-1,DEMAIN ! IDF FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80190.m3u8
+#EXTINF:-1,C-STAR HITS FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/80191.m3u8
+#EXTINF:-1,TV5 MONDE INFO FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/83212.m3u8
+#EXTINF:-1,WARNER TV FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/83571.m3u8
+#EXTINF:-1,WARNER TV HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/83572.m3u8
+#EXTINF:-1,CGTNançais
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/83573.m3u8
+#EXTINF:-1,RTANCE HD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/83574.m3u8
+#EXTINF:-1,MEZZO
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89977.m3u8
+#EXTINF:-1,France 4
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89980.m3u8
+#EXTINF:-1,France 4 FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89981.m3u8
+#EXTINF:-1,TF1 +1
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89987.m3u8
+#EXTINF:-1,TMC +1 FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89988.m3u8
+#EXTINF:-1,Clubbing TV
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89989.m3u8
+#EXTINF:-1,ES1 FHD
+http://client.vpnuser.ws:8080/live/xKsHNoip1S/BAiULpe45q/89991.m3u8
