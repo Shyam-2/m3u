@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1,TV5_MONDE
+http://mhiptv.com:8888/ka5/ka5/2920
+#EXTINF:-1,FR:France_24
+http://mhiptv.com:8888/ka5/ka5/2934
+#EXTINF:-1,TF1
+http://mhiptv.com:8888/ka5/ka5/2921
+#EXTINF:-1,France_2
+http://mhiptv.com:8888/ka5/ka5/2933
+#EXTINF:-1,France_3
+http://mhiptv.com:8888/ka5/ka5/2932
+#EXTINF:-1,France_4
+http://mhiptv.com:8888/ka5/ka5/2931
+#EXTINF:-1,France_5
+http://mhiptv.com:8888/ka5/ka5/2930
+#EXTINF:-1,France_O
+http://mhiptv.com:8888/ka5/ka5/2929
+#EXTINF:-1,Nat.geo.wild
+http://mhiptv.com:8888/ka5/ka5/2489
+#EXTINF:-1,Nickelodeon
+http://mhiptv.com:8888/ka5/ka5/4882
+#EXTINF:-1,BeIN_SPORTS_1_HD
+http://mhiptv.com:8888/ka5/ka5/669
+#EXTINF:-1,BeIN_SPORTS_2_HD
+http://mhiptv.com:8888/ka5/ka5/670
+#EXTINF:-1,BeIN_SPORTS_3_HD
+http://mhiptv.com:8888/ka5/ka5/671
+#EXTINF:-1,BeIN_SPORT_MAX4
+http://mhiptv.com:8888/ka5/ka5/4695
+#EXTINF:-1,BeIN_SPORT_Max5
+http://mhiptv.com:8888/ka5/ka5/4694
+#EXTINF:-1,BeIN_SPORT_Max6
+http://mhiptv.com:8888/ka5/ka5/4693
+#EXTINF:-1,BeIN_SPORT_Max7
+http://mhiptv.com:8888/ka5/ka5/4692
+#EXTINF:-1,BeIN_SPORT_Max8
+http://mhiptv.com:8888/ka5/ka5/4691
+#EXTINF:-1,BeIN_SPORT_Max9
+http://mhiptv.com:8888/ka5/ka5/4690
+#EXTINF:-1,BeIN_SPORT_Max10
+http://mhiptv.com:8888/ka5/ka5/4689
+#EXTINF:-1,FR:Trace urban
+http://mhiptv.com:8888/ka5/ka5/6968
+#EXTINF:-1,FR:MTV Dance
+http://mhiptv.com:8888/ka5/ka5/19134
+#EXTINF:-1,FR:MTV France
+http://mhiptv.com:8888/ka5/ka5/19135
+#EXTINF:-1,FR:MTV Hits
+http://mhiptv.com:8888/ka5/ka5/19136
+#EXTINF:-1,FR:MTV Live
+http://mhiptv.com:8888/ka5/ka5/19137
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
