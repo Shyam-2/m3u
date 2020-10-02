@@ -1,265 +1,377 @@
 #EXTM3U
-#EXTINF:-1,ZDF NEO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15721
-#EXTINF:-1,ZDF INFO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15720
-#EXTINF:-1,ZDF HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15719
-#EXTINF:-1,ZDF
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15718
-#EXTINF:-1,WELT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15717
-#EXTINF:-1,VOX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15716
-#EXTINF:-1,VOX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15715
-#EXTINF:-1,SIXX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15638
-#EXTINF:-1,SAT 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15632
-#EXTINF:-1,NITRO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15616
-#EXTINF:-1,KABEL EINS
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15600
-#EXTINF:-1,DAS ERSTE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15568
-#EXTINF:-1,ARTE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15561
-#EXTINF:-1,3SAT HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15556
-#EXTINF:-1,3SAT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15555
-#EXTINF:-1,ZEE ONE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/17138
-#EXTINF:-1,TOGGO PLUS HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15713
-#EXTINF:-1,SPIEGEL GESCHICHTE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15697
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15696
-#EXTINF:-1,ROMANCE TV
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15625
-#EXTINF:-1,PROSIEBEN HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15624
-#EXTINF:-1,KIKA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15601
-#EXTINF:-1,CLASSICA HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15566
-#EXTINF:-1,SUPER RTL HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15700
-#EXTINF:-1,Super RTL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15699
-#EXTINF:-1,RTL PASSION HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15630
-#EXTINF:-1,RTL HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15629
-#EXTINF:-1,RTL 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15628
-#EXTINF:-1,RTL 2
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15627
-#EXTINF:-1,RTL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15626
-#EXTINF:-1,DAZN 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16243
+##EXTINF:-1, ARD HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79657
+#EXTINF:-1, TLC HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79627
+#EXTINF:-1,13TH  STREET HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79590
+#EXTINF:-1,13th Street HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79606
+#EXTINF:-1,3Sat
+http://31.220.40.44:80/Ung_debernardi123/mag322/79612
+#EXTINF:-1,A&E HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79621
+#EXTINF:-1,ANIMAL PLANET HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79625
+#EXTINF:-1,Bernard Bär
+http://31.220.40.44:80/Ung_debernardi123/mag322/79522
+#EXTINF:-1,BOMMERANG HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79528
+#EXTINF:-1,Boomerang
+http://31.220.40.44:80/Ung_debernardi123/mag322/79586
+#EXTINF:-1,BUNDESLIGA 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79568
+#EXTINF:-1,BUNDESLIGA 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79566
+#EXTINF:-1,BUNDESLIGA 1 HD (LOCAL)
+http://31.220.40.44:80/Ung_debernardi123/mag322/79567
+#EXTINF:-1,BUNDESLIGA 10
+http://31.220.40.44:80/Ung_debernardi123/mag322/79555
+#EXTINF:-1,BUNDESLIGA 2
+http://31.220.40.44:80/Ung_debernardi123/mag322/79564
+#EXTINF:-1,BUNDESLIGA 2 HD (LOCAL)
+http://31.220.40.44:80/Ung_debernardi123/mag322/79565
+#EXTINF:-1,BUNDESLIGA 3
+http://31.220.40.44:80/Ung_debernardi123/mag322/79562
+#EXTINF:-1,BUNDESLIGA 3 HD (LOCAL)
+http://31.220.40.44:80/Ung_debernardi123/mag322/79563
+#EXTINF:-1,BUNDESLIGA 4 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79561
+#EXTINF:-1,BUNDESLIGA 5 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79560
+#EXTINF:-1,BUNDESLIGA 6 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79559
+#EXTINF:-1,BUNDESLIGA 7 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79558
+#EXTINF:-1,BUNDESLIGA 8 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79557
+#EXTINF:-1,BUNDESLIGA 9 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79556
+#EXTINF:-1,Caillou TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79465
+#EXTINF:-1,CLASSIC HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79596
+#EXTINF:-1,COMEDY CENTRAL
+http://31.220.40.44:80/Ung_debernardi123/mag322/79585
+#EXTINF:-1,DAS ERSTE HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79656
 #EXTINF:-1,DAZN 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16237
-#EXTINF:-1,DAZN 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16244
+http://31.220.40.44:80/Ung_debernardi123/mag322/79584
+#EXTINF:-1,DAZN 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79582
 #EXTINF:-1,DAZN 2
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16238
-#EXTINF:-1,MOTORVISION TV HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15606
-#EXTINF:-1,MOTORVISION HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15605
-#EXTINF:-1,MOTORVISION
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15604
-#EXTINF:-1,EUROSPORT 2 XTRA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15592
-#EXTINF:-1,EUROSPORT 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15589
-#EXTINF:-1,EUROSPORT 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15588
-#EXTINF:-1,NICKELODEON HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15615
-#EXTINF:-1,NICKELODEON
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15614
-#EXTINF:-1,KINOWELT TV HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15603
-#EXTINF:-1,KINOWELT TV
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15602
-#EXTINF:-1,DISNEY JUNIOR HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15583
-#EXTINF:-1,DISNEY JR
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15582
-#EXTINF:-1,DISNEY XD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15584
-#EXTINF:-1,DISNEY CINEMAGIC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15581
-#EXTINF:-1,DISNEY CHANNEL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15580
-#EXTINF:-1,CARTOON NETWORK HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15567
-#EXTINF:-1,JUKEBOX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15599
-#EXTINF:-1,NAT GEO WILD HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15612
-#EXTINF:-1,NAT GEO WILD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15611
-#EXTINF:-1,DISCOVERY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15579
+http://31.220.40.44:80/Ung_debernardi123/mag322/79583
+#EXTINF:-1,DAZN 2 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79581
+#EXTINF:-1,Deluxe Music
+http://31.220.40.44:80/Ung_debernardi123/mag322/79605
+#EXTINF:-1,Die Helden der Stadt
+http://31.220.40.44:80/Ung_debernardi123/mag322/79519
 #EXTINF:-1,DISCOVERY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15578
-#EXTINF:-1,DMAX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15586
-#EXTINF:-1,DMAX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15585
-#EXTINF:-1,HISTORY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15598
-#EXTINF:-1,HISTORY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15597
-#EXTINF:-1,SYFY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15703
-#EXTINF:-1,SYFY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15702
-#EXTINF:-1,13TH STREET HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15553
-#EXTINF:-1,13TH STREET
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15554
+http://31.220.40.44:80/Ung_debernardi123/mag322/79591
+#EXTINF:-1,DISNEY CHANNEL HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79531
+#EXTINF:-1,DISNEY CINEMAGIC
+http://31.220.40.44:80/Ung_debernardi123/mag322/79532
+#EXTINF:-1,DISNEY HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79529
+#EXTINF:-1,DISNEY JUNIOR
+http://31.220.40.44:80/Ung_debernardi123/mag322/79530
+#EXTINF:-1,DISNEY XD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79526
+#EXTINF:-1,E! ENTERTAINMENT
+http://31.220.40.44:80/Ung_debernardi123/mag322/79588
+#EXTINF:-1,EURO NEWS
+http://31.220.40.44:80/Ung_debernardi123/mag322/79610
+#EXTINF:-1,EUROSPORT 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79545
+#EXTINF:-1,EUROSPORT 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79546
+#EXTINF:-1,EUROSPORT 2
+http://31.220.40.44:80/Ung_debernardi123/mag322/79544
+#EXTINF:-1,EUROSPORT 2 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79543
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79542
+#EXTINF:-1,FEUERWEHRMANN SAM Tv
+http://31.220.40.44:80/Ung_debernardi123/mag322/79520
+#EXTINF:-1,GEO HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79601
 #EXTINF:-1,HEIMATKANAL HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15596
-#EXTINF:-1,HEIMAT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15595
-#EXTINF:-1,BOOMERANG HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15563
-#EXTINF:-1,BOOMERANG
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15562
-#EXTINF:-1,NAT GEO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15610
-#EXTINF:-1,UNIVERSAL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15714
-#EXTINF:-1,TLC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15706
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15681
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15680
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15684
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15683
-#EXTINF:-1,SKY SPORT BUNDESLIGA 3 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15685
-#EXTINF:-1,SKY SPORT BUNDESLIGA 3 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15686
-#EXTINF:-1,SKY SPORT BUNDESLIGA 4 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15688
-#EXTINF:-1,SKY SPORT BUNDESLIGA 4 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15687
-#EXTINF:-1,SKY SPORT BUNDESLIGA 5 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15689
-#EXTINF:-1,SKY SPORT BUNDESLIGA 5 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15690
-#EXTINF:-1,SKY CINEMA NOSTALGIE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15654
-#EXTINF:-1,SKY CINEMA NOSTALGIE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15653
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15651
-#EXTINF:-1,SKY CINEMA FAMILY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15650
-#EXTINF:-1,SKY CINEMA EMOTION
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15648
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15647
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15646
-#EXTINF:-1,SKY CINEMA ACTION
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15645
-#EXTINF:-1,SKY ATLANTIC HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15640
-#EXTINF:-1,SKY ATLANTIC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15639
-#EXTINF:-1,SKY KRIMI HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15656
-#EXTINF:-1,SKY KRIMI
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15655
-#EXTINF:-1,SKY CINEMA HITS
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15652
-#EXTINF:-1,SKY CINEMA 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15644
-#EXTINF:-1,TNT SERIE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15712
-#EXTINF:-1,TNT SERIE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15711
-#EXTINF:-1,TNT FILM HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15710
-#EXTINF:-1,PRO 7 MAXX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15623
-#EXTINF:-1,PRO 7 MAXX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15622
+http://31.220.40.44:80/Ung_debernardi123/mag322/79617
+#EXTINF:-1,HISTORY
+http://31.220.40.44:80/Ung_debernardi123/mag322/79592
+#EXTINF:-1,Jukebox
+http://31.220.40.44:80/Ung_debernardi123/mag322/79602
+#EXTINF:-1,KABEL 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79631
+#EXTINF:-1,KABEL 1 CLASSIC HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79629
+#EXTINF:-1,KABEL 1 DOKU
+http://31.220.40.44:80/Ung_debernardi123/mag322/79630
+#EXTINF:-1,KABEL 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79632
+#EXTINF:-1,KIKA
+http://31.220.40.44:80/Ung_debernardi123/mag322/79523
+#EXTINF:-1,KINDER Anime HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79534
+#EXTINF:-1,KINDERMÄRCHEN
+http://31.220.40.44:80/Ung_debernardi123/mag322/79518
+#EXTINF:-1,Kinobox Abenteuer
+http://31.220.40.44:80/Ung_debernardi123/mag322/79468
+#EXTINF:-1,KinoBox Action
+http://31.220.40.44:80/Ung_debernardi123/mag322/79473
+#EXTINF:-1,Kinobox Animation
+http://31.220.40.44:80/Ung_debernardi123/mag322/79475
+#EXTINF:-1,Kinobox Biography
+http://31.220.40.44:80/Ung_debernardi123/mag322/79467
+#EXTINF:-1,Kinobox Drama
+http://31.220.40.44:80/Ung_debernardi123/mag322/79474
+#EXTINF:-1,Kinobox Familie
+http://31.220.40.44:80/Ung_debernardi123/mag322/79469
+#EXTINF:-1,Kinobox Horrhor
+http://31.220.40.44:80/Ung_debernardi123/mag322/79472
+#EXTINF:-1,Kinobox Krimi
+http://31.220.40.44:80/Ung_debernardi123/mag322/79476
+#EXTINF:-1,Kinobox Romanze
+http://31.220.40.44:80/Ung_debernardi123/mag322/79471
+#EXTINF:-1,Kinobox Thriller
+http://31.220.40.44:80/Ung_debernardi123/mag322/79466
+#EXTINF:-1,Kinobox Western
+http://31.220.40.44:80/Ung_debernardi123/mag322/79470
+#EXTINF:-1,KINOWELT TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79487
+#EXTINF:-1,LEGO NINJAGO
+http://31.220.40.44:80/Ung_debernardi123/mag322/79517
+#EXTINF:-1,Litte Baby Bum Kinderreime
+http://31.220.40.44:80/Ung_debernardi123/mag322/79516
+#EXTINF:-1,Mascha und der Bär
+http://31.220.40.44:80/Ung_debernardi123/mag322/79515
+#EXTINF:-1,MICKY UND DIE FLINKE FLITZER
+http://31.220.40.44:80/Ung_debernardi123/mag322/79514
+#EXTINF:-1,MOTORVISION TV HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79539
+#EXTINF:-1,MR.BEAN TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79521
+#EXTINF:-1,MTV HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79604
+#EXTINF:-1,N-TV HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79618
+#EXTINF:-1,N24 Docu HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79613
+#EXTINF:-1,N24 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79615
+#EXTINF:-1,NAT GEO HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79593
+#EXTINF:-1,NAT GEO WILD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79594
+#EXTINF:-1,Ndr HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79614
+#EXTINF:-1,NICK JR
+http://31.220.40.44:80/Ung_debernardi123/mag322/79525
+#EXTINF:-1,NICKELODEON
+http://31.220.40.44:80/Ung_debernardi123/mag322/79533
+#EXTINF:-1,NRJ TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79603
+#EXTINF:-1,ONE HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79623
+#EXTINF:-1,PAW Patrol
+http://31.220.40.44:80/Ung_debernardi123/mag322/79513
+#EXTINF:-1,PLANET HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79600
 #EXTINF:-1,PRO 7
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15621
-#EXTINF:-1,SKY SPORT 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15667
-#EXTINF:-1,SKY SPORT 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15666
-#EXTINF:-1,SKY SPORT 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15671
-#EXTINF:-1,SKY SPORT 2
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15670
-#EXTINF:-1,SKY SPORT 3 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15672
-#EXTINF:-1,SKY SPORT 4 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15673
-#EXTINF:-1,SKY SPORT 5 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15674
-#EXTINF:-1,SKY SPORT 6 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15675
-#EXTINF:-1,SKY SPORT 7 (Matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15676
-#EXTINF:-1,SKY SPORT 8 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15677
-#EXTINF:-1,SKY SPORT 9 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15678
-#EXTINF:-1,SKY SPORT NEWS HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15694
-#EXTINF:-1,SKY SPORT NEWS
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15693
-#EXTINF:-1,SKY SPORT AUSTRIA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15679
+http://31.220.40.44:80/Ung_debernardi123/mag322/79650
+#EXTINF:-1,Pro 7 Fun
+http://31.220.40.44:80/Ung_debernardi123/mag322/79620
+#EXTINF:-1,PRO 7 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79649
+#EXTINF:-1,PRO 7 MAXX
+http://31.220.40.44:80/Ung_debernardi123/mag322/79648
+#EXTINF:-1,PRO 7 MAXX HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79647
+#EXTINF:-1,ROMANCE TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79598
+#EXTINF:-1,RTL
+http://31.220.40.44:80/Ung_debernardi123/mag322/79646
+#EXTINF:-1,RTL  PLUS
+http://31.220.40.44:80/Ung_debernardi123/mag322/79637
+#EXTINF:-1,RTL 2
+http://31.220.40.44:80/Ung_debernardi123/mag322/79643
+#EXTINF:-1,RTL 2 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79642
+#EXTINF:-1,RTL CRIME
+http://31.220.40.44:80/Ung_debernardi123/mag322/79634
+#EXTINF:-1,RTL CRIME HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79635
+#EXTINF:-1,RTL HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79644
+#EXTINF:-1,RTL Living
+http://31.220.40.44:80/Ung_debernardi123/mag322/79633
+#EXTINF:-1,RTL LIVING HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79640
+#EXTINF:-1,RTL NITRO
+http://31.220.40.44:80/Ung_debernardi123/mag322/79641
+#EXTINF:-1,RTL NITRO HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79645
+#EXTINF:-1,RTL PASSION
+http://31.220.40.44:80/Ung_debernardi123/mag322/79638
+#EXTINF:-1,RTL PASSION HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79639
+#EXTINF:-1,RTL PLUS HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79636
+#EXTINF:-1,SAT 1 GOLD HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79651
+#EXTINF:-1,SAT 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79652
+#EXTINF:-1,SKY 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79509
+#EXTINF:-1,SKY ACTION
+http://31.220.40.44:80/Ung_debernardi123/mag322/79501
+#EXTINF:-1,SKY ATLANTIC
+http://31.220.40.44:80/Ung_debernardi123/mag322/79497
+#EXTINF:-1,SKY ATLANTIC HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79495
+#EXTINF:-1,SKY AXN
+http://31.220.40.44:80/Ung_debernardi123/mag322/79492
+#EXTINF:-1,SKY CINEMA  1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79504
+#EXTINF:-1,SKY CINEMA  24
+http://31.220.40.44:80/Ung_debernardi123/mag322/79508
+#EXTINF:-1,SKY CINEMA 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79505
+#EXTINF:-1,SKY CINEMA 24
+http://31.220.40.44:80/Ung_debernardi123/mag322/79507
+#EXTINF:-1,SKY CINEMA FAMILY
+http://31.220.40.44:80/Ung_debernardi123/mag322/79502
+#EXTINF:-1,SKY CINEMA HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79506
+#EXTINF:-1,SKY CINEMA HITS
+http://31.220.40.44:80/Ung_debernardi123/mag322/79498
+#EXTINF:-1,SKY COMEDY
+http://31.220.40.44:80/Ung_debernardi123/mag322/79499
+#EXTINF:-1,SKY EMOTION
+http://31.220.40.44:80/Ung_debernardi123/mag322/79500
+#EXTINF:-1,SKY FOX
+http://31.220.40.44:80/Ung_debernardi123/mag322/79493
+#EXTINF:-1,SKY JUNIOR
+http://31.220.40.44:80/Ung_debernardi123/mag322/79524
+#EXTINF:-1,SKY KRIMI
+http://31.220.40.44:80/Ung_debernardi123/mag322/79494
+#EXTINF:-1,SKY NOSTALGIE
+http://31.220.40.44:80/Ung_debernardi123/mag322/79496
 #EXTINF:-1,SKY SELECT 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15657
+http://31.220.40.44:80/Ung_debernardi123/mag322/79486
+#EXTINF:-1,SKY SELECT 10 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79477
 #EXTINF:-1,SKY SELECT 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15658
+http://31.220.40.44:80/Ung_debernardi123/mag322/79485
 #EXTINF:-1,SKY SELECT 3 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15659
+http://31.220.40.44:80/Ung_debernardi123/mag322/79484
 #EXTINF:-1,SKY SELECT 4 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15660
+http://31.220.40.44:80/Ung_debernardi123/mag322/79483
 #EXTINF:-1,SKY SELECT 5 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15661
+http://31.220.40.44:80/Ung_debernardi123/mag322/79482
 #EXTINF:-1,SKY SELECT 6 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15662
+http://31.220.40.44:80/Ung_debernardi123/mag322/79481
 #EXTINF:-1,SKY SELECT 7 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15663
+http://31.220.40.44:80/Ung_debernardi123/mag322/79480
 #EXTINF:-1,SKY SELECT 8 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15664
+http://31.220.40.44:80/Ung_debernardi123/mag322/79479
 #EXTINF:-1,SKY SELECT 9 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15665
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15613
-#EXTINF:-1,SAT 1 GOLD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15633
-#EXTINF:-1,CLASSICA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15565
-#EXTINF:-1,DAS ERSTE HEVC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15569
-#EXTINF:-1,E! HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/17139
-#EXTINF:-1,SKY SPORT BUNDESLIGA 6 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42468
-#EXTINF:-1,SKY SPORT BUNDESLIGA 6 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42469
-#EXTINF:-1,SKY SPORT BUNDESLIGA 7 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42470
-#EXTINF:-1,SKY SPORT BUNDESLIGA 7 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42471
+http://31.220.40.44:80/Ung_debernardi123/mag322/79478
+#EXTINF:-1,SKY SPORT 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79579
+#EXTINF:-1,SKY SPORT 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79580
+#EXTINF:-1,SKY SPORT 1 HD (TELEKOM)
+http://31.220.40.44:80/Ung_debernardi123/mag322/79578
+#EXTINF:-1,SKY SPORT 2 (TELEKOM)
+http://31.220.40.44:80/Ung_debernardi123/mag322/79576
+#EXTINF:-1,SKY SPORT 2 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79577
+#EXTINF:-1,SKY SPORT 3
+http://31.220.40.44:80/Ung_debernardi123/mag322/79574
+#EXTINF:-1,SKY SPORT 3 HD (Ersatz)
+http://31.220.40.44:80/Ung_debernardi123/mag322/79575
+#EXTINF:-1,SKY SPORT 4 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79573
+#EXTINF:-1,SKY SPORT 5 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79572
+#EXTINF:-1,SKY SPORT 6 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79571
+#EXTINF:-1,SKY SPORT 7 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79570
+#EXTINF:-1,SKY SPORT 8 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79569
+#EXTINF:-1,SKY SPORT AUSTRIA 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79536
+#EXTINF:-1,SKY SPORT NEWS
+http://31.220.40.44:80/Ung_debernardi123/mag322/79538
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://31.220.40.44:80/Ung_debernardi123/mag322/79595
+#EXTINF:-1,SPORT 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79541
+#EXTINF:-1,SPORT 1 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79540
+#EXTINF:-1,SPORT DİGİTAL HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79537
+#EXTINF:-1,SPY KIDS
+http://31.220.40.44:80/Ung_debernardi123/mag322/79512
+#EXTINF:-1,SUPER RTL HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79535
+#EXTINF:-1,SyFy HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79607
+#EXTINF:-1,TAGESSCHAU 24 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79611
+#EXTINF:-1,Tele 5 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79622
+#EXTINF:-1,TELEKOM SPORT 1
+http://31.220.40.44:80/Ung_debernardi123/mag322/79554
+#EXTINF:-1,TELEKOM SPORT 2
+http://31.220.40.44:80/Ung_debernardi123/mag322/79553
+#EXTINF:-1,TELEKOM SPORT 3
+http://31.220.40.44:80/Ung_debernardi123/mag322/79551
+#EXTINF:-1,TELEKOM SPORT 4
+http://31.220.40.44:80/Ung_debernardi123/mag322/79552
+#EXTINF:-1,TELEKOM SPORT 5
+http://31.220.40.44:80/Ung_debernardi123/mag322/79550
+#EXTINF:-1,TELEKOM SPORT 6
+http://31.220.40.44:80/Ung_debernardi123/mag322/79549
+#EXTINF:-1,TELEKOM SPORT 7
+http://31.220.40.44:80/Ung_debernardi123/mag322/79548
+#EXTINF:-1,TELEKOM SPORT 8
+http://31.220.40.44:80/Ung_debernardi123/mag322/79547
+#EXTINF:-1,TNT COMEDY
+http://31.220.40.44:80/Ung_debernardi123/mag322/79489
+#EXTINF:-1,TNT COMEDY HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79488
+#EXTINF:-1,TNT SERIE
+http://31.220.40.44:80/Ung_debernardi123/mag322/79491
+#EXTINF:-1,TuTiTu Tv
+http://31.220.40.44:80/Ung_debernardi123/mag322/79511
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://31.220.40.44:80/Ung_debernardi123/mag322/79624
+#EXTINF:-1,Universal Channel HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79608
+#EXTINF:-1,VOX
+http://31.220.40.44:80/Ung_debernardi123/mag322/79616
+#EXTINF:-1,VOX HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79628
+#EXTINF:-1,WDR HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79626
+#EXTINF:-1,WELT DER WUNDER TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79609
+#EXTINF:-1,ZDF
+http://31.220.40.44:80/Ung_debernardi123/mag322/79619
+#EXTINF:-1,ZDF HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79655
+#EXTINF:-1,ZDF INFO HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79653
+#EXTINF:-1,ZDF NEO HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79654
+#EXTINF:-1,ZEE ONE HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79597
+#EXTINF:-1,DMAX
+http://31.220.40.44:80/Ung_debernardi123/mag322/79587
+#EXTINF:-1,SYFY
+http://31.220.40.44:80/Ung_debernardi123/mag322/79589
