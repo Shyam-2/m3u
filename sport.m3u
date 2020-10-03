@@ -1,603 +1,79 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 1
-http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
-#EXTINF:-1,BEIN SPORTS 2
-http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1,BEIN SPORTS 3
-http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
-#EXTINF:-1,BEIN SPORTS 4
-http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
-#EXTINF:-1,BEIN SPORTS 5
-http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
-#EXTINF:-1,BEIN SPORTS 6
-http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
-#EXTINF:-1,BEIN SPORTS 7
-http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
-#EXTINF:-1,BEIN SPORTS 8
-http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
-#EXTINF:-1,BEIN SPORTS 9
-http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
-#EXTINF:-1,BEIN SPORTS 10
-http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
-#EXTINF:-1,BEIN SPORTS 1 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
-#EXTINF:-1,BEIN SPORTS 2 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
-#EXTINF:-1,BEIN SPORTS 3 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
-#EXTINF:-1,BEIN SPORTS 4 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
-#EXTINF:-1,BEIN SPORTS 5 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
-#EXTINF:-1,BEIN SPORTS 6 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
-#EXTINF:-1,BEIN SPORTS 7 *
-http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
-#EXTINF:-1,BEIN SPORTS 9 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
-#EXTINF:-1,BEIN SPORTS 10 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
-#EXTINF:-1,WWE
-http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
-#EXTINF:-1 ,ERT HD HD
-http://212.8.243.157:8089/erthd/video.m3u8?token=test
-#EXTINF:-1 ,EUROSPORT 1
-http://188.35.9.11:21111/udp/173e
-#EXTINF:-1 ,EUROSPORT 1
-http://51.15.215.116:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1 ,EUROSPORT 1
-http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
-#EXTINF:-1 ,Edge Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
-#EXTINF:-1 ,Eurosport 1 HD HD
-http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
-#EXTINF:-1 ,Eurosport 1 HD
-http://188.35.9.11:21081/udp/098t
-#EXTINF:-1 ,Eurosport 2 HD
-http://188.35.9.14:21151/udp/192c
-#EXTINF:-1 ,Eurosport 2 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id340_NBN_SG--Eurosport2HD/04/plst.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://163.172.179.78:8081/tv/eurosport-2/chunks.m3u8
-#EXTINF:-1 ,Eurosport 4K HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,Extreme Sports TV HD
-http://188.35.9.11:21151/udp/189r
-#EXTINF:-1 ,FOX SPORTS 5 Australia
-http://45.58.62.92:8080
-#EXTINF:-1 ,Fox Sports News HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,NOVA Sport 1 HD HD
-http://188.35.9.11:21161/udp/220q
-#EXTINF:-1 ,Olympic Channel 4 HD
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 ,Olympic Channel 5 HD
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 ,PTV Sports HD
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 ,t.me/tvlab Polsat Sport HD
-http://188.35.9.8:21161/udp/172r
-#EXTINF:-1 ,RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 ,SPORT 2 HD
-http://srb.00387.info/GER:SKYSPORT2UHD/index.m3u8?token=test
-#EXTINF:-1 ,Sport 1 Украина international
-http://persik.by/stream/6606/411484/270.m3u8
-#EXTINF:-1 ,Sportklub HD HD
-http://188.35.9.8:21161/udp/170z
-#EXTINF:-1 ,Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 ,VIASAT SPORT
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 ,Viasat Sport
-http://109.239.208.82:80/viasatshd/index.m3u8
-#EXTINF:-1 ,tsn1 HD
-http://62.112.9.63:88/tsn1/index.m3u8?token=test
-#EXTINF:-1 ,tsn2 HD
-http://62.112.9.63:88/tsn2/index.m3u8?token=test
-#EXTINF:-1 ,tsn3 HD
-http://62.112.9.63:88/tsn3/index.m3u8?token=test
-#EXTINF:-1 ,tsn4
-http://62.112.9.63:88/tsn4/index.m3u8?token=test
-#EXTINF:-1 ,tsn5 HD
-http://62.112.9.63:88/tsn5/index.m3u8?token=test
-#EXTINF:-1 ,Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 ,Беларусь 5 HD
-http://persik.by/stream/6606/411484/10408.m3u8
-#EXTINF:-1 ,Беларусь 5
-http://persik.by/stream/6606/411484/932.m3u8
-#EXTINF:-1 ,Беларусь 5
-http://persik.tv/stream/6299/10/10300.m3u8
-#EXTINF:-1 ,МАТЧ! HD
-http://77.89.204.107:8000/play/a04l/copy/index.m3u8
-#EXTINF:-1 ,МАТЧ!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
-#EXTINF:-1 ,МАТЧ! АРЕНА
-http://178.217.72.66/225.201.2.4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Матч! HD
-http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
-#EXTINF:-1 ,Матч!
-http://persik.tv/stream/6299/10/276.m3u8
-#EXTINF:-1 ,Матч!
-http://persik.by/stream/6606/411484/276.m3u8
-#EXTINF:-1 ,Матч!
-http://persik.by/stream/6606/411484/1077.m3u8
-#EXTINF:-1 ,Матч!
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 ,Матч!
-http://217.25.226.215:4022/udp/235.1.10.3:10000
-#EXTINF:-1 ,Матч!
-http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
-#EXTINF:-1 ,Матч!
-http://live02-cdn.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://persik.by/stream/6606/411484/261.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://persik.by/stream/6606/411484/724.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
-#EXTINF:-1 ,Матч! Игра HD
-http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 ,Матч! Игра
-http://persik.by/stream/6606/411484/10270.m3u8
-#EXTINF:-1 ,Матч! Игра
-http://persik.tv/stream/6299/10/10270.m3u8
-#EXTINF:-1 ,Матч! Наш Спорт
-http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
-#EXTINF:-1 ,Матч! Наш Спорт
-http://188.35.9.5:10007/stolen/124n/parasite.install
-#EXTINF:-1 ,Матч! Наш Спорт
-http://live02-cdn.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
-#EXTINF:-1 ,Спорт 1
-http://persik.tv/stream/6299/10/270.m3u8
-#EXTINF:-1 ,Спорт 2
-http://persik.by/stream/6606/411484/309.m3u8
-#EXTINF:-1 ,Спорт 2
-http://persik.tv/stream/6299/10/309.m3u8
-#EXTINF:-1 ,Спорт 2 Украина
-http://persik.by/stream/6606/411484/91.m3u8
-#EXTINF:-1 ,Спорт 2 Украина
-http://persik.by/stream/6606/411484/144.m3u8
-#EXTINF:-1 ,Старт HD HD
-http://live03-cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8
-#EXTINF:-1 ,GOL TV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-#EXTINF:-1 ,Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1 HD
-http://188.35.9.11:2010
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://178.217.72.66/225.201.2.53/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://188.35.9.11:2025
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://178.217.72.66:80/225.201.2.100/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://178.217.72.66:80/225.201.2.102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Матч! Премьер HD
-http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:-1 ,Матч! Премьер HD
-http://persik.by/stream/6606/411484/10294.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://persik.tv/stream/6299/10/10264.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://persik.by/stream/6606/411484/284.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://persik.by/stream/6606/411484/10264.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://persik.by/stream/6606/411484/10266.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://persik.tv/stream/6299/10/10266.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-http://persik.tv/stream/6299/10/346.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-http://188.35.9.11:2025?checkedby:iptvcat.com
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://persik.tv/stream/6299/10/10267.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://persik.by/stream/6606/411484/10267.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://persik.by/stream/6606/411484/10268.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://persik.tv/stream/6299/10/10268.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
-#EXTINF:-1 ,Матч! Футбол 3
-http://persik.by/stream/6606/411484/10218.m3u8
-#EXTINF:-1 ,ФУТБОЛ 0027
-http://persik.tv/stream/6299/10/440.m3u8
-#EXTINF:-1 ,ФУТБОЛ 0025
-http://178.57.121.38:8080/football/index.m3u8
-#EXTINF:-1 ,Футбол HD 0028
-http://93.94.155.151/footballhd/mono.m3u8
-#EXTINF:-1 ,Футбол
-http://persik.by/stream/6606/411484/440.m3u8
-#EXTINF:-1 ,Футбол
-http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
-#EXTINF:-1 ,КХЛ HD HD
-http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
-#EXTINF:-1 ,КХЛ HD HD
-http://persik.by/stream/6606/411484/10242.m3u8
-#EXTINF:-1 ,КХЛ ТВ HD
-http://persik.by/stream/6606/411484/604.m3u8
-#EXTINF:-1 ,КХЛ ТВ
-http://persik.by/stream/6606/411484/485.m3u8
-#EXTINF:-1 ,КХЛ ТВ
-http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
-#EXTINF:-1 ,Super Tennis HD
-http://188.35.9.11:21111/udp/161f
-#EXTINF:-1 ,Tennis Channel HD 1
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 ,Tennis Channel HD 2
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 ,Мир Баскетбола
-http://live02-cdn.tv.ti.ru:80/dtv/id1140_NBN_SG--MirBasketbola/03/plst.m3u8
-#EXTINF:-1 ,BOX NATION
-http://62.112.9.63:88/box_nation/index.m3u8?token=test
-#EXTINF:-1 ,DSports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 ,Extreme Sport
-http://hlstv.kem.211.ru/239.211.211.47/stream.m3u8
-#EXTINF:-1 ,M-1 Global
-http://live02-cdn.tv.ti.ru:80/dtv/id1068_NBN_SG--M1global/03/plst.m3u8
-#EXTINF:-1 ,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,RMC SPORT 4 HD
-http://www.iptvgafsa.tn:8000/987654321/123456789/304
-#EXTINF:-1 ,Russian Extreme Ultra HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,UFC ТВ HD
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://78.107.248.201:4022/udp/233.33.221.61:5050
-#EXTINF:-1 ,Бокс ТВ
-http://live02-cdn.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://persik.by/stream/6606/411484/595.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://persik.by/stream/6606/411484/310.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://live02-cdn.tv.ti.ru:80/dtv/id1089_NBN_SG--MatchBoec/03/plst.m3u8
-#EXTINF:-1 ,TVS BOXING HD
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 ,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 ,Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-#EXTINF:-1 ,Конный Мир
-http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,MOTORS TV
-http://45.58.62.92:8084
-#EXTINF:-1 ,ONE GOLF HD
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,Rugby TV HD
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1,Arena Sport 1 SRB
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/19
-#EXTINF:-1,Arena sport 2 SRB
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/34
-#EXTINF:-1,Arena Sport 3 SRB
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/125
-#EXTINF:-1,Arena Sport 4 SRB
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/126
-#EXTINF:-1,Arena Sport 5 SRB 
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/127
-#EXTINF:-1,Arena Sport 1 HD CRO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/120
-#EXTINF:-1,Arena Sport 2 HD CRO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/121
-#EXTINF:-1,Arena Sport 3 HD CRO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/122
-#EXTINF:-1,Arena Sport 4 HD CRO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/123
-#EXTINF:-1,Arena Sport 5 HD CRO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/124
-#EXTINF:-1,Sport Klub HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/85
-#EXTINF:-1,Sport Klub 1 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/86
-#EXTINF:-1,Sport Klub 2 HD 
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/87
-#EXTINF:-1,Sport Klub 3 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/88
-#EXTINF:-1,Sport Klub 4
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/373
-#EXTINF:-1,Nova Sport HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/443
-#EXTINF:-1,Zvezda TV SRB
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/329
-#EXTINF:-1,Eurosport 1 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/375
-#EXTINF:-1,Eurosport 2 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/283
-#EXTINF:-1,Eurosport 2 Xtra  DE 
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/284
-#EXTINF:-1,SPORT SLO 1 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/2705
-#EXTINF:-1,DIGI Sport 1 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/219
-#EXTINF:-1,DIGI Sport 2 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/221
-#EXTINF:-1,Super Tennis HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/458
-#EXTINF:-1,World Fight Channel
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/1006
-#EXTINF:-1,Tring Sport 1 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/197
-#EXTINF:-1,Tring Sport 2 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/198
-#EXTINF:-1,Tring Sport 3 HD
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/199
-#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" tvg-country="TR" tvg-url="" group-title="Sport",A Spor
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-country="BR" tvg-url="" group-title="Sport",ALL Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" tvg-country="SE" tvg-url="" group-title="Sport",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="" group-title="Sport",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="" group-title="Sport",Bahrain Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" tvg-country="IN" tvg-url="" group-title="Sport",D Sport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Sport",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" tvg-country="IN" tvg-url="" group-title="Sport",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" tvg-country="IN" tvg-url="" group-title="Sport",DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="Sport",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" tvg-country="BR" tvg-url="" group-title="Sport",ESPN
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="ES" tvg-url="" group-title="Sport",Esport Club
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29sgDw.png" tvg-country="BR" tvg-url="" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-country="US" tvg-url="" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-country="US" tvg-url="" group-title="Sport",Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" tvg-country="BR" tvg-url="" group-title="Sport",Fox Sports
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" tvg-country="UY" tvg-url="" group-title="Sport",GOLTV
-https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jt6g1Jt.png" tvg-country="UK" tvg-url="" group-title="Sport",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",IPTV5+
-http://117.156.28.119/270000001111/1110000054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRIB Varzesh" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" tvg-country="IR" tvg-url="" group-title="Sport",IRIB Varzesh
-https://livetv.persianleague.com/live/varzesh/playlist.m3u8
-#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="" group-title="Sport",Jordan Sport TV
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
-#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="" group-title="Sport",Jordan Sport TV
-http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="KSA Sports" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" tvg-country="SA" tvg-url="" group-title="Sport",KSA Sports
-https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KSA Sports" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" tvg-country="SA" tvg-url="" group-title="Sport",KSA Sports
-https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-country="KW" tvg-url="" group-title="Sport",KTV Sport
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042838.png" tvg-country="INT" tvg-url="" group-title="Sport",MOTOR SPORT
-http://45.58.62.92:8084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-country="JP" tvg-url="" group-title="Sport",New Japan Pro Wrestling World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" tvg-country="CN" tvg-url="" group-title="Sport",NewTV未来电视 精品体育
-http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="Sport",NewTV未来电视 超级体育
-http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" tvg-country="US" tvg-url="" group-title="Sport",Olympic Channel (HD)
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" tvg-country="US" tvg-url="" group-title="Sport",Olympic Channel (UHD)
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" tvg-country="OM" tvg-url="" group-title="Sport",Oman Sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tuGkZsJ.png" tvg-country="RO" tvg-url="" group-title="Sport",Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-country="PK" tvg-url="" group-title="Sport",PTV Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" tvg-country="IT" tvg-url="" group-title="Sport",Rai Sport
-https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="ES" tvg-url="" group-title="Sport",Real Madrid
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" tvg-country="ES" tvg-url="" group-title="Sport",Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" tvg-country="ES" tvg-url="" group-title="Sport",Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lsg8u59.png" tvg-country="CL" tvg-url="" group-title="Sport",Real Madrid TV
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
-https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
-https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://127.0.0.1/" tvg-country="AL" tvg-url="" group-title="Sport",RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/c5s5l3n.png" tvg-country="IT" tvg-url="" group-title="Sport",RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/85D9kPy.png" tvg-country="GE" tvg-url="" group-title="Sport",Rugby TV
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="" group-title="Sport",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" tvg-country="FR" tvg-url="" group-title="Sport",Sport en France
-https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Sport",Sport אתר ספורט 5
-https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" tvg-country="CH" tvg-url="" group-title="Sport",Sportal HD
-https://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" tvg-country="US" tvg-url="" group-title="Sport",Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg" tvg-country="JM" tvg-url="" group-title="Sport",SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sport",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",Super Tennis
-https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-country="CO" tvg-url="" group-title="Sport",Telecaribe Deportes
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="" tvg-country="TM" tvg-url="" group-title="Sport",Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="" tvg-country="TM" tvg-url="" group-title="Sport",Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="" tvg-country="TM" tvg-url="" group-title="Sport",Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="" tvg-country="TM" tvg-url="" group-title="Sport",Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" tvg-country="TM" tvg-url="" group-title="Sport",Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV
-http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 2" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 2
-http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 3" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 4" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Viasat Sport East
-https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="Sport",World Of Free Sports TV
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.ktrk.kg/images/channels/nav/sport.png" tvg-country="KG" tvg-url="" group-title="Sport",КТРК Спорт
-http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч!
-http://176.114.16.54:80/match/index.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Матч!
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/sila-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Сила
-http://gcore.silatv.ru/streams/3431_1488/480n/index.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/sila-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Сила
-https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/sila-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Сила
-https://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Старт
-https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" tvg-country="TW" tvg-url="" group-title="Sport",博斯魅力
-https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/xuIAbqy.png" tvg-country="CN" tvg-url="" group-title="Sport",百视通 BesTV超级体育
-http://39.134.52.180/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/xuIAbqy.png" tvg-country="CN" tvg-url="" group-title="Sport",百视通 BesTV超级体育 (Backup)
-http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-country="TW" tvg-url="" group-title="Sport",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:-1,BoxNation FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11457
+#EXTINF:-1,BoxNation FHD BU
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11456
+#EXTINF:-1,Eurosport 1  FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11455
+#EXTINF:-1,Eurosport 2  FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11454
+#EXTINF:-1,Eleven 1 SD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11432
+#EXTINF:-1,Eleven 2 SD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11431
+#EXTINF:-1,Eleven Sports 1 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11438
+#EXTINF:-1,Eleven Sports 2 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11437
+#EXTINF:-1,Eleven Sports 3 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11436
+#EXTINF:-1,Eleven Sports 4 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11435
+#EXTINF:-1,Eleven Sports 5 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11434
+#EXTINF:-1,Eleven Sports 6 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11433
+#EXTINF:-1,Eleven Sports La liga 24/7 UK
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11430
+#EXTINF:-1,Free Sports
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11451
+#EXTINF:-1,GINXeSportsTV
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11450
+#EXTINF:-1,NRL 24/7
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11429
+#EXTINF:-1,NRL LIVE 1
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11428
+#EXTINF:-1,NRL LIVE 2
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11427
+#EXTINF:-1,NRL LIVE 3
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11426
+#EXTINF:-1,NRL LIVE 4
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11425
+#EXTINF:-1,NRL LIVE 5
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11424
+#EXTINF:-1,NRL LIVE 6
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11423
+#EXTINF:-1,NRL LIVE 7
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11422
+#EXTINF:-1,NRL LIVE 8
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11421
+#EXTINF:-1,NRL LIVE 9
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11420
+#EXTINF:-1,Premier Sports 1 FHD
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11453
+#EXTINF:-1,Premier Sports 2
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11452
+#EXTINF:-1,Ziggo Sport Extra 1 576P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11448
+#EXTINF:-1,Ziggo Sport Extra 2 576P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11447
+#EXTINF:-1,Ziggo Sport Golf 576P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11446
+#EXTINF:-1,Ziggo Sport Golf HD  1080P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11445
+#EXTINF:-1,Ziggo Sport Racing HD  1080P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11444
+#EXTINF:-1,Ziggo Sport Racing HD 720P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11443
+#EXTINF:-1,ZIGGO SPORT SELECT
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11449
+#EXTINF:-1,Ziggo Sport Select HD  1080P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11442
+#EXTINF:-1,Ziggo Sport Select HD 720P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11441
+#EXTINF:-1,Ziggo Sport Voetbal 576P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11440
+#EXTINF:-1,Ziggo Sport Voetbal HD  1080P
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/11439
+#EXTINF:-1,Extreme Sports
+http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/330570
