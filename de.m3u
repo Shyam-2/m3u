@@ -1,1107 +1,965 @@
 #EXTM3U
-#EXTINF:-1,1-2-3 TV
-http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1,13 TH STREET HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2869
-#EXTINF:-1,13H STREET GR HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2682
-#EXTINF:-1,13th Street FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5098
-#EXTINF:-1,13th Street HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8198
-#EXTINF:-1,3 SAT
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1378
-#EXTINF:-1,3+ HD
-http://176.10.117.3:5000/play/a03x
-#EXTINF:-1,3Sat FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16289
-#EXTINF:-1,3sat HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100025
-#EXTINF:-1,3sat HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6265
-#EXTINF:-1,4+ HD
-http://176.10.117.3:5000/play/a03y
-#EXTINF:-1,5+ HD
-http://176.10.117.3:5000/play/a03z
-#EXTINF:-1,6+ HD
-http://176.10.117.3:5000/play/a040
-#EXTINF:-1,A&E DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100120
-#EXTINF:-1,A&E-GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/13210
-#EXTINF:-1,ANIXE GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2684
-#EXTINF:-1,ARD HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108907
-#EXTINF:-1,ARTE
-http://dinamikiptv.com:7777/adalet/adalet123/6987
-#EXTINF:-1,AXN FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5097
-#EXTINF:-1,AXN HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6259
-#EXTINF:-1,Alpacino
-http://dinamikiptv.com:7777/adalet/adalet123/49667
-#EXTINF:-1,Alpha HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13171
-#EXTINF:-1,Angelina Jolie
-http://dinamikiptv.com:7777/adalet/adalet123/49668
-#EXTINF:-1,Animal Planet FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8196
-#EXTINF:-1,Animal Planet HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13173
-#EXTINF:-1,Anixe HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6264
-#EXTINF:-1,Anixe HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100039
-#EXTINF:-1,Arnold Schwarzenegger
-http://dinamikiptv.com:7777/adalet/adalet123/49676
-#EXTINF:-1,Arte DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6261
-#EXTINF:-1,Arte HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13172
-#EXTINF:-1,Austria : Dorf TV HD, dorf tv
-https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1,Auto Motor Sport FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9132
+#EXTINF:-1,7 MAXX HD
+http://ky-iptv.com:25461/live/oscar/1234/182577.m3u8
+#EXTINF:-1,1-2-3 TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182578.m3u8
+#EXTINF:-1,13th Street FHD
+http://ky-iptv.com:25461/live/oscar/1234/182579.m3u8
+#EXTINF:-1,3sat
+http://ky-iptv.com:25461/live/oscar/1234/182580.m3u8
+#EXTINF:-1,A&E FHD
+http://ky-iptv.com:25461/live/oscar/1234/182581.m3u8
+#EXTINF:-1,Alex Berlin HD
+http://ky-iptv.com:25461/live/oscar/1234/182582.m3u8
+#EXTINF:-1,Allg
+http://ky-iptv.com:25461/live/oscar/1234/182583.m3u8
+#EXTINF:-1,ANIMAL PLANET FHD
+http://ky-iptv.com:25461/live/oscar/1234/182585.m3u8
+#EXTINF:-1,ANIXE +
+http://ky-iptv.com:25461/live/oscar/1234/182586.m3u8
+#EXTINF:-1,ANIXE FHD
+http://ky-iptv.com:25461/live/oscar/1234/182587.m3u8
+#EXTINF:-1,ANIXE Serie HD
+http://ky-iptv.com:25461/live/oscar/1234/182588.m3u8
+#EXTINF:-1,ARD Alpha
+http://ky-iptv.com:25461/live/oscar/1234/182589.m3u8
+#EXTINF:-1,ARD FHD
+http://ky-iptv.com:25461/live/oscar/1234/182590.m3u8
+#EXTINF:-1,ARD ONE HD
+http://ky-iptv.com:25461/live/oscar/1234/182591.m3u8
+#EXTINF:-1,ARTE HD
+http://ky-iptv.com:25461/live/oscar/1234/182592.m3u8
+#EXTINF:-1,Astro TV
+http://ky-iptv.com:25461/live/oscar/1234/182593.m3u8
+#EXTINF:-1,ATV
+http://ky-iptv.com:25461/live/oscar/1234/182594.m3u8
+#EXTINF:-1,Augsburg TV
+http://ky-iptv.com:25461/live/oscar/1234/182595.m3u8
 #EXTINF:-1,Auto Motor Sport HD
-http://dinamikiptv.com:7777/adalet/adalet123/36217
-#EXTINF:-1,BLK TV
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1,BLK TV
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1,BOBDER
-http://dinamikiptv.com:7777/adalet/adalet123/19160
-#EXTINF:-1,BR
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108912
-#EXTINF:-1,BR DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13168
-#EXTINF:-1,BR FERNSEHEN
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1,BR FERNSEHEN HD
-http://c2.abcnew.site:8880/XHCN5VJgcs/h3B3e8NrZb/29132
-#EXTINF:-1,BUNDESLIGA 1
-http://31.220.40.44:80/Ung_debernardi123/mag322/79568
-#EXTINF:-1,BW Family TV FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6246
-#EXTINF:-1,BW Family TV HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23772
-#EXTINF:-1,Baby TV DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13169
-#EXTINF:-1,Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1,Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1,Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1,Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1,Baden TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1,Bibel TV HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/677497
-#EXTINF:-1,Bon Gusto HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/683175
-#EXTINF:-1,Boomerang HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6258
-#EXTINF:-1,Breaking Bad
-http://dinamikiptv.com:7777/adalet/adalet123/49690
-#EXTINF:-1,CAR CITY
-http://dinamikiptv.com:7777/adalet/adalet123/19162
-#EXTINF:-1,CARTOON NETWORK GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2689
-#EXTINF:-1,CONNI
-http://dinamikiptv.com:7777/adalet/adalet123/19163
-#EXTINF:-1,Cameron Diaz
-http://dinamikiptv.com:7777/adalet/adalet123/49677
-#EXTINF:-1,Campus TV Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:-1,Campus-TV-Magdeburg+
-http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
-#EXTINF:-1,Cartoon Network FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6257
-#EXTINF:-1,Chemnitz Fernsehen
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1,Classic Radio FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679834
-#EXTINF:-1,Classica HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13167
-#EXTINF:-1,Comedy Central FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6154
-#EXTINF:-1,Comedy Central HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100130
-#EXTINF:-1,Crime & Investigation FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6263
-#EXTINF:-1,Crime & Investigation HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8197
-#EXTINF:-1,DAZN 1 BAR HD
-http://dinamikiptv.com:7777/adalet/adalet123/36145
-#EXTINF:-1,DAZN 1 BAR HD+
-http://dinamikiptv.com:7777/adalet/adalet123/36144
-#EXTINF:-1,DAZN 1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/661090
-#EXTINF:-1,DAZN 1 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/13211
-#EXTINF:-1,DAZN 1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/625243
-#EXTINF:-1,DAZN 1 [B] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/661088
-#EXTINF:-1,DAZN 2 BAR HD
-http://dinamikiptv.com:7777/adalet/adalet123/36147
-#EXTINF:-1,DAZN 2 BAR HD+
-http://dinamikiptv.com:7777/adalet/adalet123/36146
-#EXTINF:-1,DAZN 2 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/661089
-#EXTINF:-1,DAZN 2 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/13212
-#EXTINF:-1,DAZN 2 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/50775
-#EXTINF:-1,DE | Deutsche Welle Arabic, Deutsche Welle Arabic, DW (AR), DW Arabia
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
-#EXTINF:-1,DE | Deutsche Welle Español, Deutsche Welle Español, DW Español, DW Espaсol
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1,DE | HSE 24, HSE 24
-https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
-#EXTINF:-1,DE | Sophia TV, Sophia TV
-https://edge-1192-ch-gv.filmon.com/live/4721.high.stream/playlist.m3u8
-#EXTINF:-1,DE-Deutsche-Welle+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1,DE-Deutsche-Welle+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1,DE-HR-Fernsehen+, HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:-1,DE-Offener-Kanal-Magdeburg+
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
-#EXTINF:-1,DE-tagesschau24+, tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1,DELUXE MUSIC TV
-http://dinamikiptv.com:7777/adalet/adalet123/6994
-#EXTINF:-1,DISNEY CHANNEL
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1374
-#EXTINF:-1,DISNEY CHANNEL HD
-http://dinamikiptv.com:7777/adalet/adalet123/6950
-#EXTINF:-1,DISNEY JIUNIOR GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2686
-#EXTINF:-1,DISNEY JUNIOR HD
-http://dinamikiptv.com:7777/adalet/adalet123/6952
-#EXTINF:-1,DISNEY XD HD
-http://dinamikiptv.com:7777/adalet/adalet123/6953
-#EXTINF:-1,DMAX HD
-http://dinamikiptv.com:7777/adalet/adalet123/6986
-#EXTINF:-1,DW, DW CHANNEL, DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1,DW
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1,DW
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1,DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
-#EXTINF:-1,DW, DW CHANNEL, DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1,DW
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1,DW (EN), DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1,Deutsche Welle (EN), DW English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1,DW English
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1,DW English
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8
-#EXTINF:-1,DW Español, DW Espaсol
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8
-#EXTINF:-1,Das Erste
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/4478
-#EXTINF:-1,Das Erste (B) DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6262
-#EXTINF:-1,Das Erste DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6256
-#EXTINF:-1,Das Erste HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/1370
-#EXTINF:-1,Das Erste HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13166
-#EXTINF:-1,Das Erste HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100023
-#EXTINF:-1,Deluxe Music HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6255
-#EXTINF:-1,Deutsche Welle
-https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
-#EXTINF:-1,Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+http://ky-iptv.com:25461/live/oscar/1234/182597.m3u8
+#EXTINF:-1,Auto Motor und Sport HD
+http://ky-iptv.com:25461/live/oscar/1234/182598.m3u8
+#EXTINF:-1,AXN FHD
+http://ky-iptv.com:25461/live/oscar/1234/182599.m3u8
+#EXTINF:-1,B LIGA 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182600.m3u8
+#EXTINF:-1,B LIGA 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182601.m3u8
+#EXTINF:-1,Baby TV
+http://ky-iptv.com:25461/live/oscar/1234/182602.m3u8
+#EXTINF:-1,BADEN TV
+http://ky-iptv.com:25461/live/oscar/1234/182603.m3u8
+#EXTINF:-1,Bayerisches Fernsehen Süd HD
+http://ky-iptv.com:25461/live/oscar/1234/182605.m3u8
+#EXTINF:-1,Bibel TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182606.m3u8
+#EXTINF:-1,Bibel TV Impuls HD
+http://ky-iptv.com:25461/live/oscar/1234/182607.m3u8
+#EXTINF:-1,BLK Regional TV
+http://ky-iptv.com:25461/live/oscar/1234/182609.m3u8
+#EXTINF:-1,Boomerang FHD
+http://ky-iptv.com:25461/live/oscar/1234/182610.m3u8
+#EXTINF:-1,BOSS Movies 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182611.m3u8
+#EXTINF:-1,BOSS Movies 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182612.m3u8
+#EXTINF:-1,BOSS Movies 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182613.m3u8
+#EXTINF:-1,BOSS Movies 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182614.m3u8
+#EXTINF:-1,BR ALPHA
+http://ky-iptv.com:25461/live/oscar/1234/182615.m3u8
+#EXTINF:-1,BR HD
+http://ky-iptv.com:25461/live/oscar/1234/182616.m3u8
+#EXTINF:-1,Brandnite TV Music
+http://ky-iptv.com:25461/live/oscar/1234/182617.m3u8
+#EXTINF:-1,C TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182618.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://ky-iptv.com:25461/live/oscar/1234/182619.m3u8
+#EXTINF:-1,Chaula Music HD
+http://ky-iptv.com:25461/live/oscar/1234/182620.m3u8
+#EXTINF:-1,CINE 1
+http://ky-iptv.com:25461/live/oscar/1234/182621.m3u8
+#EXTINF:-1,CINE 2
+http://ky-iptv.com:25461/live/oscar/1234/182622.m3u8
+#EXTINF:-1,CINE 3
+http://ky-iptv.com:25461/live/oscar/1234/182623.m3u8
+#EXTINF:-1,CINE 4
+http://ky-iptv.com:25461/live/oscar/1234/182624.m3u8
+#EXTINF:-1,CINE FILM CLUB 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182628.m3u8
+#EXTINF:-1,CINE SELECT 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182629.m3u8
+#EXTINF:-1,CINE SELECT 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182631.m3u8
+#EXTINF:-1,CINE SELECT 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182632.m3u8
+#EXTINF:-1,CINE SELECT 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182633.m3u8
+#EXTINF:-1,Cinedome Action
+http://ky-iptv.com:25461/live/oscar/1234/182634.m3u8
+#EXTINF:-1,Cinedome Animation
+http://ky-iptv.com:25461/live/oscar/1234/182635.m3u8
+#EXTINF:-1,Cinedome Cinema
+http://ky-iptv.com:25461/live/oscar/1234/182636.m3u8
+#EXTINF:-1,Cinedome Comedy
+http://ky-iptv.com:25461/live/oscar/1234/182637.m3u8
+#EXTINF:-1,Cinedome Familie
+http://ky-iptv.com:25461/live/oscar/1234/182638.m3u8
+#EXTINF:-1,Cinedome Hits
+http://ky-iptv.com:25461/live/oscar/1234/182639.m3u8
+#EXTINF:-1,Cinedome Horror
+http://ky-iptv.com:25461/live/oscar/1234/182640.m3u8
+#EXTINF:-1,Cinedome Marvel
+http://ky-iptv.com:25461/live/oscar/1234/182641.m3u8
+#EXTINF:-1,CiNEMA 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182642.m3u8
+#EXTINF:-1,CiNEMA 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182643.m3u8
+#EXTINF:-1,CiNEMA 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182644.m3u8
+#EXTINF:-1,Cinema 24
+http://ky-iptv.com:25461/live/oscar/1234/182645.m3u8
+#EXTINF:-1,Cinema Collection 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182646.m3u8
+#EXTINF:-1,Classica HD
+http://ky-iptv.com:25461/live/oscar/1234/182647.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://ky-iptv.com:25461/live/oscar/1234/182648.m3u8
+#EXTINF:-1,Crime+ Investigation HD
+http://ky-iptv.com:25461/live/oscar/1234/182649.m3u8
+#EXTINF:-1,DAS ERSTE FHD
+http://ky-iptv.com:25461/live/oscar/1234/182650.m3u8
+#EXTINF:-1,DAZN 1 Bar HD
+http://ky-iptv.com:25461/live/oscar/1234/182651.m3u8
+#EXTINF:-1,DAZN 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182652.m3u8
+#EXTINF:-1,DAZN 2 Bar HD
+http://ky-iptv.com:25461/live/oscar/1234/182653.m3u8
+#EXTINF:-1,DAZN 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182654.m3u8
+#EXTINF:-1,DAZN BAR 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182655.m3u8
+#EXTINF:-1,DAZN Bar 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182656.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://ky-iptv.com:25461/live/oscar/1234/182657.m3u8
 #EXTINF:-1,Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13165
-#EXTINF:-1,Discovery FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13570
-#EXTINF:-1,Discovery HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5096
-#EXTINF:-1,Disney Channel FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6253
-#EXTINF:-1,Disney Junior FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13568
-#EXTINF:-1,Disney Junior HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6251
-#EXTINF:-1,Dmax
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/3004
-#EXTINF:-1,Dmax FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6249
-#EXTINF:-1,Dresden Fernsehen
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1,Dwayne Johnson
-http://dinamikiptv.com:7777/adalet/adalet123/49678
-#EXTINF:-1,DİSNEY CHANEL 4
-http://dinamikiptv.com:7777/adalet/adalet123/49665
-#EXTINF:-1,DİSNEY CHANEL 5
-http://dinamikiptv.com:7777/adalet/adalet123/49666
-#EXTINF:-1,E! ENTERTAIMENT
-http://dinamikiptv.com:7777/adalet/adalet123/6954
-#EXTINF:-1,E! Entertainment DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5095
-#EXTINF:-1,E! Entertainment FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13569
-#EXTINF:-1,E! Entertainment HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9137
-#EXTINF:-1,ELBEKANAL
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1,ELBEKANAL
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-#EXTINF:-1,EOTV
-https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
-#EXTINF:-1,ERF 1
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8
-#EXTINF:-1,ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
-#EXTINF:-1,ERF 1
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8
-#EXTINF:-1,ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
-#EXTINF:-1,EURO SPORT GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2678
-#EXTINF:-1,EUROSPORT 2 HD.
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/3924
-#EXTINF:-1,EUROSPORT 2XTRA HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/3922
+http://ky-iptv.com:25461/live/oscar/1234/182658.m3u8
+#EXTINF:-1,DEUTSCHLAND
+http://ky-iptv.com:25461/live/oscar/1234/182659.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://ky-iptv.com:25461/live/oscar/1234/182660.m3u8
+#EXTINF:-1,Disney Channel FHD
+http://ky-iptv.com:25461/live/oscar/1234/182661.m3u8
+#EXTINF:-1,Disney Cinemagic FHD
+http://ky-iptv.com:25461/live/oscar/1234/182662.m3u8
+#EXTINF:-1,Disney JIUNIOR FHD
+http://ky-iptv.com:25461/live/oscar/1234/182663.m3u8
+#EXTINF:-1,Disney Junior HD
+http://ky-iptv.com:25461/live/oscar/1234/182664.m3u8
+#EXTINF:-1,Disney XD HD
+http://ky-iptv.com:25461/live/oscar/1234/182665.m3u8
+#EXTINF:-1,DMAX FHD
+http://ky-iptv.com:25461/live/oscar/1234/182666.m3u8
+#EXTINF:-1,DMAX HQ
+http://ky-iptv.com:25461/live/oscar/1234/182667.m3u8
+#EXTINF:-1,DONAU TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182668.m3u8
+#EXTINF:-1,DRF 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182669.m3u8
+#EXTINF:-1,DW TV
+http://ky-iptv.com:25461/live/oscar/1234/182671.m3u8
+#EXTINF:-1,E! FHD
+http://ky-iptv.com:25461/live/oscar/1234/182672.m3u8
+#EXTINF:-1,EAGLE CINEMA
+http://ky-iptv.com:25461/live/oscar/1234/182673.m3u8
+#EXTINF:-1,Eagle Cinema 007 HD
+http://ky-iptv.com:25461/live/oscar/1234/182674.m3u8
+#EXTINF:-1,Eagle Cinema Abenteuer FHD
+http://ky-iptv.com:25461/live/oscar/1234/182675.m3u8
+#EXTINF:-1,Eagle Cinema Aktion FHD
+http://ky-iptv.com:25461/live/oscar/1234/182676.m3u8
+#EXTINF:-1,Eagle Cinema Animation FHD
+http://ky-iptv.com:25461/live/oscar/1234/182677.m3u8
+#EXTINF:-1,Eagle Cinema Biografie FHD
+http://ky-iptv.com:25461/live/oscar/1234/182678.m3u8
+#EXTINF:-1,Eagle Cinema Drama FHD
+http://ky-iptv.com:25461/live/oscar/1234/182679.m3u8
+#EXTINF:-1,Eagle Cinema Geschichte FHD
+http://ky-iptv.com:25461/live/oscar/1234/182680.m3u8
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://ky-iptv.com:25461/live/oscar/1234/182681.m3u8
+#EXTINF:-1,Eagle Cinema Komodie FHD
+http://ky-iptv.com:25461/live/oscar/1234/182682.m3u8
+#EXTINF:-1,Eagle Cinema Lächeln FHD
+http://ky-iptv.com:25461/live/oscar/1234/182683.m3u8
+#EXTINF:-1,Eagle Cinema Mythologie FHD
+http://ky-iptv.com:25461/live/oscar/1234/182684.m3u8
+#EXTINF:-1,Eagle Cinema Premiere FHD
+http://ky-iptv.com:25461/live/oscar/1234/182685.m3u8
+#EXTINF:-1,Eagle Cinema Romantisch FHD
+http://ky-iptv.com:25461/live/oscar/1234/182687.m3u8
+#EXTINF:-1,Eagle Cinema sci-fi FHD
+http://ky-iptv.com:25461/live/oscar/1234/182688.m3u8
+#EXTINF:-1,Eagle Cinema Thriller HD
+http://ky-iptv.com:25461/live/oscar/1234/182689.m3u8
+#EXTINF:-1,Elbekanal TV
+http://ky-iptv.com:25461/live/oscar/1234/182690.m3u8
+#EXTINF:-1,ERF 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182691.m3u8
+#EXTINF:-1,eSports 1 TV
+http://ky-iptv.com:25461/live/oscar/1234/182692.m3u8
+#EXTINF:-1,euronews HD
+http://ky-iptv.com:25461/live/oscar/1234/182693.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182694.m3u8
+#EXTINF:-1,EUROSPORT 2 Exra
+http://ky-iptv.com:25461/live/oscar/1234/182695.m3u8
+#EXTINF:-1,EUROSPORT 2 EXTRA FHD
+http://ky-iptv.com:25461/live/oscar/1234/182696.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182697.m3u8
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://ky-iptv.com:25461/live/oscar/1234/182698.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://ky-iptv.com:25461/live/oscar/1234/182699.m3u8
+#EXTINF:-1,EUROSPORT Xtra 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182700.m3u8
+#EXTINF:-1,eutsches Musik Fernsehen HD
+http://ky-iptv.com:25461/live/oscar/1234/182701.m3u8
 #EXTINF:-1,EWTN katholisches TV
-http://d3j0n5al39mfyd.cloudfront.net/p/GERG_1920x1080_4000k.m3u8
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681939
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681941
-#EXTINF:-1,Eagle Cinema Horror FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681942
-#EXTINF:-1,Eagle Cinema Lächeln HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681944
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681945
-#EXTINF:-1,Eagle Cinema Premiere FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681946
-#EXTINF:-1,Eagle Cinema Thriller FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681950
-#EXTINF:-1,Euronews DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6248
-#EXTINF:-1,Eurosport 1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8218
-#EXTINF:-1,Eurosport 1 HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100069
-#EXTINF:-1,Eurosport 2 HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100070
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9130
-#EXTINF:-1,Event - Covid Info FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679845
-#EXTINF:-1,FC BAYERN TV HD
-http://dinamikiptv.com:7777/adalet/adalet123/36196
-#EXTINF:-1,FC Bayern TV HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9128
-#EXTINF:-1,Filstalwelle
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
-#EXTINF:-1,Fix & Foxi DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23771
-#EXTINF:-1,Fox DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23770
-#EXTINF:-1,Fox FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13567
-#EXTINF:-1,Fox HD
-http://dinamikiptv.com:7777/adalet/adalet123/27535
-#EXTINF:-1,Fox HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6245
-#EXTINF:-1,H1
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
-#EXTINF:-1,HEIMAT KANAL
-http://dinamikiptv.com:7777/adalet/adalet123/6993
-#EXTINF:-1,HISTORY GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2867
-#EXTINF:-1,HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:-1,HR FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13150
-#EXTINF:-1,HR Fernsehen
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:-1,HR Fernsehen
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
-#EXTINF:-1,HR Fernsehen HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8225
+http://ky-iptv.com:25461/live/oscar/1234/182702.m3u8
+#EXTINF:-1,Family TV
+http://ky-iptv.com:25461/live/oscar/1234/182703.m3u8
+#EXTINF:-1,FC Bayern HD
+http://ky-iptv.com:25461/live/oscar/1234/182704.m3u8
+#EXTINF:-1,Folx TV
+http://ky-iptv.com:25461/live/oscar/1234/182705.m3u8
+#EXTINF:-1,FOX FHD
+http://ky-iptv.com:25461/live/oscar/1234/182706.m3u8
+#EXTINF:-1,Fox Series HD
+http://ky-iptv.com:25461/live/oscar/1234/182707.m3u8
+#EXTINF:-1,Franken Fernsehen HD
+http://ky-iptv.com:25461/live/oscar/1234/182708.m3u8
+#EXTINF:-1,Genius Teleshopping HD
+http://ky-iptv.com:25461/live/oscar/1234/182709.m3u8
+#EXTINF:-1,GOLDSTAR TV
+http://ky-iptv.com:25461/live/oscar/1234/182710.m3u8
+#EXTINF:-1,Halle TV
+http://ky-iptv.com:25461/live/oscar/1234/182711.m3u8
+#EXTINF:-1,Heimat kanal HD
+http://ky-iptv.com:25461/live/oscar/1234/182712.m3u8
+#EXTINF:-1,HiperCinema
+http://ky-iptv.com:25461/live/oscar/1234/182713.m3u8
+#EXTINF:-1,HiperCinema 1
+http://ky-iptv.com:25461/live/oscar/1234/182714.m3u8
+#EXTINF:-1,Histori
+http://ky-iptv.com:25461/live/oscar/1234/182715.m3u8
+#EXTINF:-1,HR Fernsehen HD
+http://ky-iptv.com:25461/live/oscar/1234/182716.m3u8
+#EXTINF:-1,HR FREE
+http://ky-iptv.com:25461/live/oscar/1234/182717.m3u8
 #EXTINF:-1,HR HD
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8
-#EXTINF:-1,HR HD
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:-1,HR HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100128
-#EXTINF:-1,HR HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6243
-#EXTINF:-1,HSE24
-https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
-#EXTINF:-1,HaRZ SUED TV rtm
-rtmp://62.113.210.250/medienasa-live/punktum_high
-#EXTINF:-1,Halle, TV Halle
-http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
-#EXTINF:-1,Health TV, health.tv
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1,History Channel FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6244
-#EXTINF:-1,How I Met Your Mother
-http://dinamikiptv.com:7777/adalet/adalet123/49691
-#EXTINF:-1,Isar TV
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1,JET LI
-http://dinamikiptv.com:7777/adalet/adalet123/49683
-#EXTINF:-1,JUNIOR GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2687
-#EXTINF:-1,Jackie Chan
-http://dinamikiptv.com:7777/adalet/adalet123/49679
-#EXTINF:-1,Jason Statham
-http://dinamikiptv.com:7777/adalet/adalet123/49682
-#EXTINF:-1,Jean-Claude Van Damme
-http://dinamikiptv.com:7777/adalet/adalet123/49685
-#EXTINF:-1,Jukebox DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13148
-#EXTINF:-1,Junior DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6239
+http://ky-iptv.com:25461/live/oscar/1234/182718.m3u8
+#EXTINF:-1,HSE 24
+http://ky-iptv.com:25461/live/oscar/1234/182719.m3u8
+#EXTINF:-1,HSE 24 Extra
+http://ky-iptv.com:25461/live/oscar/1234/182720.m3u8
+#EXTINF:-1,HSE 24 Trend
+http://ky-iptv.com:25461/live/oscar/1234/182721.m3u8
+#EXTINF:-1,HyperCinema 2
+http://ky-iptv.com:25461/live/oscar/1234/182722.m3u8
+#EXTINF:-1,HyperCInema 3
+http://ky-iptv.com:25461/live/oscar/1234/182723.m3u8
+#EXTINF:-1,HyperCinema 4
+http://ky-iptv.com:25461/live/oscar/1234/182724.m3u8
+#EXTINF:-1,HyperCinema 6
+http://ky-iptv.com:25461/live/oscar/1234/182725.m3u8
+#EXTINF:-1,HyperCinema 7
+http://ky-iptv.com:25461/live/oscar/1234/182726.m3u8
+#EXTINF:-1,HyperCinema 8
+http://ky-iptv.com:25461/live/oscar/1234/182727.m3u8
+#EXTINF:-1,HyperCinema 9
+http://ky-iptv.com:25461/live/oscar/1234/182728.m3u8
+#EXTINF:-1,HyperCinema 10
+http://ky-iptv.com:25461/live/oscar/1234/182729.m3u8
+#EXTINF:-1,HyperCinema Boxset
+http://ky-iptv.com:25461/live/oscar/1234/182730.m3u8
+#EXTINF:-1,HyperCinema INFO
+http://ky-iptv.com:25461/live/oscar/1234/182731.m3u8
+#EXTINF:-1,ISAR TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182732.m3u8
+#EXTINF:-1,Jukebox HD
+http://ky-iptv.com:25461/live/oscar/1234/182733.m3u8
+#EXTINF:-1,JUNIOR HD
+http://ky-iptv.com:25461/live/oscar/1234/182734.m3u8
 #EXTINF:-1,K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1,KIKA
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1368
-#EXTINF:-1,KIKA
-http://dinamikiptv.com:7777/adalet/adalet123/6995
-#EXTINF:-1,KINDER Anime HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79534
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9151
-#EXTINF:-1,Kabel 1 Doku DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679843
-#EXTINF:-1,Kabel 1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6242
-#EXTINF:-1,Kabel Eins Classica HD
-http://dinamikiptv.com:7777/adalet/adalet123/6989
-#EXTINF:-1,Kabel Eins Classics HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679844
-#EXTINF:-1,Kabel Eins Doku FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13147
-#EXTINF:-1,KiKa DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679839
-#EXTINF:-1,Kids Tom&Jerry DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679840
-#EXTINF:-1,Kika HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6241
-#EXTINF:-1,Kinobox Thriller
-http://31.220.40.44:80/Ung_debernardi123/mag322/79466
-#EXTINF:-1,Kinowelt DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/672086
-#EXTINF:-1,Kinowelt HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6240
-#EXTINF:-1,Kronehit FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14200
-#EXTINF:-1,La Casa De Papel
-http://dinamikiptv.com:7777/adalet/adalet123/49692
-#EXTINF:-1,Leipzig Fernsehen
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1,Light Channel
-http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1,Luxe TV FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/676714
-#EXTINF:-1,M4TV
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1,MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1,MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
-#EXTINF:-1,MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1,MDR HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6238
-#EXTINF:-1,MDR S-Anhalt HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8240
-#EXTINF:-1,MDR Sachsen HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8239
-#EXTINF:-1,MR BEAN
-http://dinamikiptv.com:7777/adalet/adalet123/19168
-#EXTINF:-1,MR.BEAN TV
-http://31.220.40.44:80/Ung_debernardi123/mag322/79521
-#EXTINF:-1,MTV +1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679793
-#EXTINF:-1,MTV Brand New DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/638079
-#EXTINF:-1,MTV FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/35466
-#EXTINF:-1,Motorvision HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8222
-#EXTINF:-1,Motorvision TV DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100074
-#EXTINF:-1,Munchen TV DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6229
-#EXTINF:-1,MyTVplus
-rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
-#EXTINF:-1,N-TV DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13566
-#EXTINF:-1,N-TV FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13149
-#EXTINF:-1,N-TV HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8195
-#EXTINF:-1,N24 Doku HD
-http://dinamikiptv.com:7777/adalet/adalet123/6990
-#EXTINF:-1,N24 HD
-http://dinamikiptv.com:7777/adalet/adalet123/6981
-#EXTINF:-1,N24 HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100134
-#EXTINF:-1,NAT GEO WILD HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1397
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1366
+http://ky-iptv.com:25461/live/oscar/1234/182735.m3u8
+#EXTINF:-1,Kabel 1 Classic HD
+http://ky-iptv.com:25461/live/oscar/1234/182736.m3u8
+#EXTINF:-1,Kabel 1 Docu HD
+http://ky-iptv.com:25461/live/oscar/1234/182737.m3u8
+#EXTINF:-1,Kabel 1 DOKU FHD
+http://ky-iptv.com:25461/live/oscar/1234/182738.m3u8
+#EXTINF:-1,Kabel 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182739.m3u8
+#EXTINF:-1,Kabel eins Classics FHD
+http://ky-iptv.com:25461/live/oscar/1234/182740.m3u8
+#EXTINF:-1,Kabel Eins FHD
+http://ky-iptv.com:25461/live/oscar/1234/182742.m3u8
+#EXTINF:-1,Kabel enis Classic HD
+http://ky-iptv.com:25461/live/oscar/1234/182743.m3u8
+#EXTINF:-1,Kanal Avrupa
+http://ky-iptv.com:25461/live/oscar/1234/182744.m3u8
+#EXTINF:-1,KaufBei TV Web
+http://ky-iptv.com:25461/live/oscar/1234/182745.m3u8
+#EXTINF:-1,Kiel TV
+http://ky-iptv.com:25461/live/oscar/1234/182746.m3u8
+#EXTINF:-1,KIKA FHD
+http://ky-iptv.com:25461/live/oscar/1234/182747.m3u8
+#EXTINF:-1,Kino WELT HD
+http://ky-iptv.com:25461/live/oscar/1234/182748.m3u8
+#EXTINF:-1,KiNOBOX 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182749.m3u8
+#EXTINF:-1,KiNOBOX 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182750.m3u8
+#EXTINF:-1,KiNOBOX 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182751.m3u8
+#EXTINF:-1,KiNOBOX 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182752.m3u8
+#EXTINF:-1,KiNOBOX 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182753.m3u8
+#EXTINF:-1,KiNOBOX 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/182754.m3u8
+#EXTINF:-1,KiNOBOX 7 HD
+http://ky-iptv.com:25461/live/oscar/1234/182755.m3u8
+#EXTINF:-1,KiNOBOX 8 HD
+http://ky-iptv.com:25461/live/oscar/1234/182756.m3u8
+#EXTINF:-1,KiNOBOX 9 HD
+http://ky-iptv.com:25461/live/oscar/1234/182757.m3u8
+#EXTINF:-1,KiNOBOX 10 HD
+http://ky-iptv.com:25461/live/oscar/1234/182758.m3u8
+#EXTINF:-1,KiNOBOX ANIMATION HD
+http://ky-iptv.com:25461/live/oscar/1234/182759.m3u8
+#EXTINF:-1,KiNOBOX HORROR HD
+http://ky-iptv.com:25461/live/oscar/1234/182760.m3u8
+#EXTINF:-1,KiNOBOX KRIMI HD
+http://ky-iptv.com:25461/live/oscar/1234/182761.m3u8
+#EXTINF:-1,KiNOBOX VISION HD
+http://ky-iptv.com:25461/live/oscar/1234/182762.m3u8
+#EXTINF:-1,Kombat Sport
+http://ky-iptv.com:25461/live/oscar/1234/182763.m3u8
+#EXTINF:-1,Luxe Music
+http://ky-iptv.com:25461/live/oscar/1234/182764.m3u8
+#EXTINF:-1,Magente Sport Eishockey 7 HD
+http://ky-iptv.com:25461/live/oscar/1234/182765.m3u8
+#EXTINF:-1,MAGIC BOX KINO 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182766.m3u8
+#EXTINF:-1,MAGIC BOX KINO 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182767.m3u8
+#EXTINF:-1,MAGIC BOX KINO 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182768.m3u8
+#EXTINF:-1,MAGIC BOX KINO 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182769.m3u8
+#EXTINF:-1,MAIN FRANKEN HD
+http://ky-iptv.com:25461/live/oscar/1234/182770.m3u8
+#EXTINF:-1,MAX Select 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182771.m3u8
+#EXTINF:-1,MAX Select 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182772.m3u8
+#EXTINF:-1,MAX Select 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182773.m3u8
+#EXTINF:-1,MAX Select 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182774.m3u8
+#EXTINF:-1,MAX Select 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/182775.m3u8
+#EXTINF:-1,Max Select HD 5
+http://ky-iptv.com:25461/live/oscar/1234/182776.m3u8
+#EXTINF:-1,Max Select HD 7
+http://ky-iptv.com:25461/live/oscar/1234/182777.m3u8
+#EXTINF:-1,MDR HD
+http://ky-iptv.com:25461/live/oscar/1234/182778.m3u8
+#EXTINF:-1,MediaShop TV
+http://ky-iptv.com:25461/live/oscar/1234/182779.m3u8
+#EXTINF:-1,MGM HD
+http://ky-iptv.com:25461/live/oscar/1234/182780.m3u8
+#EXTINF:-1,Motor Vision HD
+http://ky-iptv.com:25461/live/oscar/1234/182781.m3u8
+#EXTINF:-1,MoviesINEMA GERMAN 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182782.m3u8
+#EXTINF:-1,MoviesINEMA GERMAN 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182783.m3u8
+#EXTINF:-1,MoviesINEMA GERMAN 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182784.m3u8
+#EXTINF:-1,MoviesINEMA GERMAN 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182785.m3u8
+#EXTINF:-1,MoviesINEMA GERMAN 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182786.m3u8
+#EXTINF:-1,MTV Dance
+http://ky-iptv.com:25461/live/oscar/1234/182787.m3u8
+#EXTINF:-1,MTV FHD
+http://ky-iptv.com:25461/live/oscar/1234/182788.m3u8
+#EXTINF:-1,MUENCHEN TV
+http://ky-iptv.com:25461/live/oscar/1234/182789.m3u8
+#EXTINF:-1,Munchen TV FHD
+http://ky-iptv.com:25461/live/oscar/1234/182790.m3u8
+#EXTINF:-1,Music TV 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182791.m3u8
+#EXTINF:-1,N-TV FHD
+http://ky-iptv.com:25461/live/oscar/1234/182792.m3u8
+#EXTINF:-1,N24 Doku
+http://ky-iptv.com:25461/live/oscar/1234/182793.m3u8
+#EXTINF:-1,N24 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182794.m3u8
+#EXTINF:-1,NAT GEO FHD
+http://ky-iptv.com:25461/live/oscar/1234/182795.m3u8
+#EXTINF:-1,NAT GEO Wild FHD
+http://ky-iptv.com:25461/live/oscar/1234/182796.m3u8
+#EXTINF:-1,NDR Fernsehen Mecklenburg Vorpommern HD
+http://ky-iptv.com:25461/live/oscar/1234/182798.m3u8
+#EXTINF:-1,NDR Fernsehen Niedersachsen HD
+http://ky-iptv.com:25461/live/oscar/1234/182799.m3u8
 #EXTINF:-1,NDR HD
-http://dinamikiptv.com:7777/adalet/adalet123/23206
-#EXTINF:-1,NDR HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/5475
-#EXTINF:-1,NDR HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6225
-#EXTINF:-1,NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-b.m3u8
-#EXTINF:-1,NDR Hamburg HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
-#EXTINF:-1,NDR Mecklenburg-Vorpommern
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-b.m3u8
-#EXTINF:-1,NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
-#EXTINF:-1,NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-#EXTINF:-1,NDR Schleswig-Holstein
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8
-#EXTINF:-1,NDR Schleswig-Holstein HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
-#EXTINF:-1,NICK JR
-http://31.220.40.44:80/Ung_debernardi123/mag322/79525
+http://ky-iptv.com:25461/live/oscar/1234/182800.m3u8
+#EXTINF:-1,NEIDER
+http://ky-iptv.com:25461/live/oscar/1234/182801.m3u8
+#EXTINF:-1,NICK / MTV
+http://ky-iptv.com:25461/live/oscar/1234/182802.m3u8
+#EXTINF:-1,Nick Junior HD
+http://ky-iptv.com:25461/live/oscar/1234/182803.m3u8
+#EXTINF:-1,Nick/Comedy Central
+http://ky-iptv.com:25461/live/oscar/1234/182804.m3u8
+#EXTINF:-1,nickelodeon HD
+http://ky-iptv.com:25461/live/oscar/1234/182805.m3u8
+#EXTINF:-1,Niederbayern tv
+http://ky-iptv.com:25461/live/oscar/1234/182806.m3u8
+#EXTINF:-1,Niederbayern TV Deggendorf FHD
+http://ky-iptv.com:25461/live/oscar/1234/182807.m3u8
+#EXTINF:-1,Niederbayern TV Landshut FHD
+http://ky-iptv.com:25461/live/oscar/1234/182808.m3u8
+#EXTINF:-1,Niederbayern TV Passau
+http://ky-iptv.com:25461/live/oscar/1234/182809.m3u8
+#EXTINF:-1,Nitro FHD
+http://ky-iptv.com:25461/live/oscar/1234/182810.m3u8
 #EXTINF:-1,NO4A
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2706
-#EXTINF:-1,NRD Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8
-#EXTINF:-1,NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:-1,NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
-#EXTINF:-1,NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
-#EXTINF:-1,Nat Geo Wild DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5085
-#EXTINF:-1,Nat Geo Wild HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9136
-#EXTINF:-1,Nat Geo wild FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6227
-#EXTINF:-1,National Geographic DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6226
-#EXTINF:-1,National Geographic HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100079
-#EXTINF:-1,National Geographic HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8194
+http://ky-iptv.com:25461/live/oscar/1234/182811.m3u8
 #EXTINF:-1,Noa 4 Hamburg
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1,Noa 4 Hamburg
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1,Noa 4 Norderstedt
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,Noa 4 Norderstedt
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,OK MAGDEBURG HD
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8
-#EXTINF:-1,OK Salzwedel TV
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/chunklist_w623677241.m3u8
-#EXTINF:-1,OK-Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1,ORF 1 HD
-http://dinamikiptv.com:7777/adalet/adalet123/6982
-#EXTINF:-1,ORF 2 HD
-http://dinamikiptv.com:7777/adalet/adalet123/6983
-#EXTINF:-1,Oberpfalz TV
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1,Offener Kanal Dessau, pop10
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1,Offener Kanal Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
-#EXTINF:-1,Offener Kanal Magdeburg
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
-#EXTINF:-1,Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8
-#EXTINF:-1,Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
-#EXTINF:-1,One HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9147
-#EXTINF:-1,PEEPA PIG
-http://dinamikiptv.com:7777/adalet/adalet123/19169
-#EXTINF:-1,PETER HASE
-http://dinamikiptv.com:7777/adalet/adalet123/19014
-#EXTINF:-1,PHOENIX
-http://dinamikiptv.com:7777/adalet/adalet123/6977
-#EXTINF:-1,PLANET HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79600
-#EXTINF:-1,PRO 7 HD
-http://dinamikiptv.com:7777/adalet/adalet123/6969
-#EXTINF:-1,Phoenix HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6221
-#EXTINF:-1,Planet HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679846
-#EXTINF:-1,PopCorn Select 1 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23778
-#EXTINF:-1,PopCorn Select 2 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23777
-#EXTINF:-1,PopCorn Select 3 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23776
-#EXTINF:-1,PopCorn Select 4 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/23775
-#EXTINF:-1,Pro 7 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6220
-#EXTINF:-1,Pro 7 Fun
-http://31.220.40.44:80/Ung_debernardi123/mag322/79620
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6219
-#EXTINF:-1,Pro 7 Fun HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13145
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6218
-#EXTINF:-1,Pro Sieben
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1395
-#EXTINF:-1,Pro Sieben FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8235
-#EXTINF:-1,Pro Sieben Fun HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13142
-#EXTINF:-1,Pro Sieben HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13144
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8234
-#EXTINF:-1,Pro Sieben Maxx HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13143
-#EXTINF:-1,QVC Beauty & Style DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13141
-#EXTINF:-1,QVC HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13140
-#EXTINF:-1,RAN1 Regionalfernsehen
-http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1,RBB Berlin HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6217
-#EXTINF:-1,RNF
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1,RNF
-http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1,ROMANCE TV HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/3921
-#EXTINF:-1,RTL
-http://31.220.40.44:80/Ung_debernardi123/mag322/79646
-#EXTINF:-1,RTL 2
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1394
-#EXTINF:-1,RTL 2 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6215
-#EXTINF:-1,RTL 2 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13136
-#EXTINF:-1,RTL CRIME
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1362
-#EXTINF:-1,RTL CRIME
-http://31.220.40.44:80/Ung_debernardi123/mag322/79634
-#EXTINF:-1,RTL Crime FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6214
-#EXTINF:-1,RTL Crime HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/17012
-#EXTINF:-1,RTL FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13565
-#EXTINF:-1,RTL HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1393
-#EXTINF:-1,RTL HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79644
-#EXTINF:-1,RTL HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108966
-#EXTINF:-1,RTL HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6216
-#EXTINF:-1,RTL Living FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6150
-#EXTINF:-1,RTL Living HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6213
-#EXTINF:-1,RTL Nitro
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1391
-#EXTINF:-1,RTL Nitro FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6212
-#EXTINF:-1,RTL Nitro HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100029
-#EXTINF:-1,RTL Nitro HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13137
-#EXTINF:-1,RTL PLUS HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79636
-#EXTINF:-1,RTL Passion
-http://dinamikiptv.com:7777/adalet/adalet123/27527
-#EXTINF:-1,RTL Passion FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8219
-#EXTINF:-1,RTL Plus
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108970
-#EXTINF:-1,RTL Plus DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9152
-#EXTINF:-1,Radio 21 TV
-http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1,Radio 21 TV
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1,Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1,Rheinmain TV
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
-#EXTINF:-1,Romance TV
-http://dinamikiptv.com:7777/adalet/adalet123/6992
-#EXTINF:-1,Romance TV DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6211
-#EXTINF:-1,Rtl Passion HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108969
-#EXTINF:-1,SAM
-http://dinamikiptv.com:7777/adalet/adalet123/19164
-#EXTINF:-1,SIXX GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2692
-#EXTINF:-1,SIXX HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100030
-#EXTINF:-1,SKY 1 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2868
-#EXTINF:-1,SKY 1HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108979
-#EXTINF:-1,SKY ACTION
-http://31.220.40.44:80/Ung_debernardi123/mag322/79501
-#EXTINF:-1,SKY ATLANTIC HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79495
-#EXTINF:-1,SKY AXN
-http://31.220.40.44:80/Ung_debernardi123/mag322/79492
-#EXTINF:-1,SKY SELECT 2 HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109005
-#EXTINF:-1,SKY SELECT 5 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79482
-#EXTINF:-1,SKY SPORT 1
-http://31.220.40.44:80/Ung_debernardi123/mag322/79579
-#EXTINF:-1,SKY SPORT 1 HD (TELEKOM)
-http://31.220.40.44:80/Ung_debernardi123/mag322/79578
-#EXTINF:-1,SKY SPORT 1 SD
-http://dinamikiptv.com:7777/adalet/adalet123/36151
-#EXTINF:-1,SKY SPORT 2 (TELEKOM)
-http://31.220.40.44:80/Ung_debernardi123/mag322/79576
-#EXTINF:-1,SKY SPORT 2 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79577
-#EXTINF:-1,SPIEGEL GESCHICHTE HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2683
-#EXTINF:-1,SPORT1+ HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2677
-#EXTINF:-1,SRF 1 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6170
-#EXTINF:-1,SRF 1 HD
-http://dinamikiptv.com:7777/adalet/adalet123/23209
-#EXTINF:-1,SRF info HD
-http://176.10.117.3:5000/play/a03w
-#EXTINF:-1,SUPER RTL
-http://dinamikiptv.com:7777/adalet/adalet123/6946
-#EXTINF:-1,SWR HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6165
-#EXTINF:-1,SYFY HD GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2681
-#EXTINF:-1,Saarland 1, Saarland Fernsehen 1
-http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1,Saarland Fernsehen 1
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1,Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1,Sat 1 Gold
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100034
-#EXTINF:-1,Sat.1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6210
-#EXTINF:-1,Sat1 Emotion DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13135
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6209
-#EXTINF:-1,Servus TV HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6208
-#EXTINF:-1,Sixx FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6207
-#EXTINF:-1,Sky 13TH Street HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7365
-#EXTINF:-1,Sky Action DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6205
-#EXTINF:-1,Sky Action HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5093
-#EXTINF:-1,Sky Arts FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5091
-#EXTINF:-1,Sky Arts HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9139
-#EXTINF:-1,Sky Atlantic +1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13134
-#EXTINF:-1,Sky Atlantic DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6204
-#EXTINF:-1,Sky Atlantic HD
-http://dinamikiptv.com:7777/adalet/adalet123/27522
-#EXTINF:-1,Sky Atlantic HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108982
-#EXTINF:-1,Sky Atlantic HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7367
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2728
-#EXTINF:-1,Sky Bundesliga 1 HD (Only Available on Match Times)
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108983
-#EXTINF:-1,Sky Bundesliga 3 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2726
-#EXTINF:-1,Sky Bundesliga 4 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2725
-#EXTINF:-1,Sky Bundesliga 5 HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2724
-#EXTINF:-1,Sky Cinema 24
-http://dinamikiptv.com:7777/adalet/adalet123/27501
-#EXTINF:-1,Sky Cinema 24 HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/108993
-#EXTINF:-1,Sky Cinema Action DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9146
-#EXTINF:-1,Sky Cinema Action HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7370
-#EXTINF:-1,Sky Cinema Best Of FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7368
-#EXTINF:-1,Sky Cinema Best Of HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8223
-#EXTINF:-1,Sky Cinema Best of DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5088
-#EXTINF:-1,Sky Cinema Classics DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6186
-#EXTINF:-1,Sky Cinema Classics HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13131
-#EXTINF:-1,Sky Cinema Comedy
-http://dinamikiptv.com:7777/adalet/adalet123/27516
-#EXTINF:-1,Sky Cinema Emotion DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13132
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9145
-#EXTINF:-1,Sky Cinema Family HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7369
-#EXTINF:-1,Sky Cinema Fun DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6190
-#EXTINF:-1,Sky Cinema Fun HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9144
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13133
-#EXTINF:-1,Sky Cinema Premieren FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6194
-#EXTINF:-1,Sky Cinema Premieren HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7373
-#EXTINF:-1,Sky Cinema Special FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8217
-#EXTINF:-1,Sky Cinema Special HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6252
-#EXTINF:-1,Sky Cinema Thriller DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6193
-#EXTINF:-1,Sky Cinema Thriller FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5089
-#EXTINF:-1,Sky Cinema Thriller HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7372
-#EXTINF:-1,Sky Classica DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6191
-#EXTINF:-1,Sky Emotion DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6189
-#EXTINF:-1,Sky Heimat Kanal DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6188
-#EXTINF:-1,Sky Heimat Kanal [B] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/678481
-#EXTINF:-1,Sky Krimi HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8220
-#EXTINF:-1,Sky One FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9138
-#EXTINF:-1,Sky Select 1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/655131
-#EXTINF:-1,Sky Select 1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7375
-#EXTINF:-1,Sky Select 2 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/655130
-#EXTINF:-1,Sky Select 2 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7376
-#EXTINF:-1,Sky Select 3 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/655129
-#EXTINF:-1,Sky Select 3 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7377
-#EXTINF:-1,Sky Select 4 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/655128
-#EXTINF:-1,Sky Select 4 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7378
-#EXTINF:-1,Sky Select 5 HD (demnächst) DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/655127
-#EXTINF:-1,Sky Select 5 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8977
-#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/655126
-#EXTINF:-1,Sky Select 6 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8976
-#EXTINF:-1,Sky Select 7 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8975
-#EXTINF:-1,Sky Select 8 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8974
-#EXTINF:-1,Sky Serien & Shows FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681935
-#EXTINF:-1,Sky Sport 1 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9125
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13564
+http://ky-iptv.com:25461/live/oscar/1234/182812.m3u8
+#EXTINF:-1,NOA 4 Norderstedt FHD
+http://ky-iptv.com:25461/live/oscar/1234/182813.m3u8
+#EXTINF:-1,OBERPFALZ HD
+http://ky-iptv.com:25461/live/oscar/1234/182814.m3u8
+#EXTINF:-1,Oe24 TV
+http://ky-iptv.com:25461/live/oscar/1234/182815.m3u8
+#EXTINF:-1,OK TV
+http://ky-iptv.com:25461/live/oscar/1234/182816.m3u8
+#EXTINF:-1,ONE HD
+http://ky-iptv.com:25461/live/oscar/1234/182817.m3u8
+#EXTINF:-1,One Music HD
+http://ky-iptv.com:25461/live/oscar/1234/182818.m3u8
+#EXTINF:-1,PEARL TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182819.m3u8
+#EXTINF:-1,Phoenix HD
+http://ky-iptv.com:25461/live/oscar/1234/182820.m3u8
+#EXTINF:-1,PLANET FHD
+http://ky-iptv.com:25461/live/oscar/1234/182821.m3u8
+#EXTINF:-1,POPCORN SELECT 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182822.m3u8
+#EXTINF:-1,POPCORN SELECT 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182823.m3u8
+#EXTINF:-1,POPCORN SELECT 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182824.m3u8
+#EXTINF:-1,POPCORN SELECT 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182825.m3u8
+#EXTINF:-1,POPCORN SELECT 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182826.m3u8
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/182827.m3u8
+#EXTINF:-1,POPCORN SELECT 7 HD
+http://ky-iptv.com:25461/live/oscar/1234/182828.m3u8
+#EXTINF:-1,POPCORN SELECT 8 HD
+http://ky-iptv.com:25461/live/oscar/1234/182829.m3u8
+#EXTINF:-1,POPCORN SELECT 9 HD
+http://ky-iptv.com:25461/live/oscar/1234/182830.m3u8
+#EXTINF:-1,Pro 7 Fun FHD
+http://ky-iptv.com:25461/live/oscar/1234/182831.m3u8
+#EXTINF:-1,Pro 7 HD
+http://ky-iptv.com:25461/live/oscar/1234/182832.m3u8
+#EXTINF:-1,PRO 7 MAX HD
+http://ky-iptv.com:25461/live/oscar/1234/182833.m3u8
+#EXTINF:-1,PRO 7 MAXX HD
+http://ky-iptv.com:25461/live/oscar/1234/182834.m3u8
+#EXTINF:-1,ProSieben FHD
+http://ky-iptv.com:25461/live/oscar/1234/182835.m3u8
+#EXTINF:-1,ProSieben FUN HD
+http://ky-iptv.com:25461/live/oscar/1234/182836.m3u8
+#EXTINF:-1,ProSieben Maxx FHD
+http://ky-iptv.com:25461/live/oscar/1234/182837.m3u8
+#EXTINF:-1,QVC 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182838.m3u8
+#EXTINF:-1,QVC Beauty & Style
+http://ky-iptv.com:25461/live/oscar/1234/182839.m3u8
+#EXTINF:-1,QVC HD
+http://ky-iptv.com:25461/live/oscar/1234/182840.m3u8
+#EXTINF:-1,QVC Plus
+http://ky-iptv.com:25461/live/oscar/1234/182841.m3u8
+#EXTINF:-1,rbb HD
+http://ky-iptv.com:25461/live/oscar/1234/182842.m3u8
+#EXTINF:-1,Regio TV Bodensee
+http://ky-iptv.com:25461/live/oscar/1234/182843.m3u8
+#EXTINF:-1,Regio TV Schwaben FHD
+http://ky-iptv.com:25461/live/oscar/1234/182844.m3u8
+#EXTINF:-1,Regio TV Stuttgart FHD
+http://ky-iptv.com:25461/live/oscar/1234/182845.m3u8
+#EXTINF:-1,RFO HD
+http://ky-iptv.com:25461/live/oscar/1234/182846.m3u8
+#EXTINF:-1,Rhein Neckar Fernsehen
+http://ky-iptv.com:25461/live/oscar/1234/182847.m3u8
+#EXTINF:-1,RiC TV
+http://ky-iptv.com:25461/live/oscar/1234/182848.m3u8
+#EXTINF:-1,RNF TV
+http://ky-iptv.com:25461/live/oscar/1234/182849.m3u8
+#EXTINF:-1,ro News
+http://ky-iptv.com:25461/live/oscar/1234/182850.m3u8
+#EXTINF:-1,Romance HD
+http://ky-iptv.com:25461/live/oscar/1234/182851.m3u8
+#EXTINF:-1,RTL 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182852.m3u8
+#EXTINF:-1,RTL 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182853.m3u8
+#EXTINF:-1,RTL 2 Luxemburg HD
+http://ky-iptv.com:25461/live/oscar/1234/182854.m3u8
+#EXTINF:-1,RTL Crime FHD
+http://ky-iptv.com:25461/live/oscar/1234/182855.m3u8
+#EXTINF:-1,RTL FHD
+http://ky-iptv.com:25461/live/oscar/1234/182856.m3u8
+#EXTINF:-1,RTL Living FHD
+http://ky-iptv.com:25461/live/oscar/1234/182857.m3u8
+#EXTINF:-1,RTL Nitro FHD
+http://ky-iptv.com:25461/live/oscar/1234/182858.m3u8
+#EXTINF:-1,RTL Passion FHD
+http://ky-iptv.com:25461/live/oscar/1234/182859.m3u8
+#EXTINF:-1,RTL plus FHD
+http://ky-iptv.com:25461/live/oscar/1234/182860.m3u8
+#EXTINF:-1,RTL zwei FHD
+http://ky-iptv.com:25461/live/oscar/1234/182861.m3u8
+#EXTINF:-1,RTLII HD
+http://ky-iptv.com:25461/live/oscar/1234/182862.m3u8
+#EXTINF:-1,RTLIME
+http://ky-iptv.com:25461/live/oscar/1234/182863.m3u8
+#EXTINF:-1,Sat 1 Emotions HD
+http://ky-iptv.com:25461/live/oscar/1234/182864.m3u8
+#EXTINF:-1,Sat 1 Gold HD
+http://ky-iptv.com:25461/live/oscar/1234/182865.m3u8
+#EXTINF:-1,Sat 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182866.m3u8
+#EXTINF:-1,Servus HD
+http://ky-iptv.com:25461/live/oscar/1234/182867.m3u8
+#EXTINF:-1,SILVERLINE
+http://ky-iptv.com:25461/live/oscar/1234/182868.m3u8
+#EXTINF:-1,Sixx FHD
+http://ky-iptv.com:25461/live/oscar/1234/182869.m3u8
+#EXTINF:-1,Sky 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182870.m3u8
+#EXTINF:-1,SKY 13 STREET FHD
+http://ky-iptv.com:25461/live/oscar/1234/182871.m3u8
+#EXTINF:-1,Sky Action FHD
+http://ky-iptv.com:25461/live/oscar/1234/182872.m3u8
+#EXTINF:-1,Sky Atlantic +1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182873.m3u8
+#EXTINF:-1,Sky Atlantic FHD
+http://ky-iptv.com:25461/live/oscar/1234/182874.m3u8
+#EXTINF:-1,SKY AXN HD
+http://ky-iptv.com:25461/live/oscar/1234/182875.m3u8
+#EXTINF:-1,Sky Box Nation
+http://ky-iptv.com:25461/live/oscar/1234/182876.m3u8
+#EXTINF:-1,Sky Cinema +1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182877.m3u8
+#EXTINF:-1,Sky Cinema +24 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182878.m3u8
+#EXTINF:-1,Sky Cinema 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182879.m3u8
+#EXTINF:-1,SKY CINEMA 1+
+http://ky-iptv.com:25461/live/oscar/1234/182880.m3u8
+#EXTINF:-1,Sky Cinema 24 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182881.m3u8
+#EXTINF:-1,SKY Cinema Action FHD
+http://ky-iptv.com:25461/live/oscar/1234/182882.m3u8
+#EXTINF:-1,Sky Cinema Alien
+http://ky-iptv.com:25461/live/oscar/1234/182883.m3u8
+#EXTINF:-1,Sky Cinema Atlantic FHD
+http://ky-iptv.com:25461/live/oscar/1234/182884.m3u8
+#EXTINF:-1,Sky Cinema Best Of HD
+http://ky-iptv.com:25461/live/oscar/1234/182885.m3u8
+#EXTINF:-1,Sky Cinema Classics HD
+http://ky-iptv.com:25461/live/oscar/1234/182886.m3u8
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://ky-iptv.com:25461/live/oscar/1234/182887.m3u8
+#EXTINF:-1,Sky Cinema Comic Helden
+http://ky-iptv.com:25461/live/oscar/1234/182888.m3u8
+#EXTINF:-1,Sky Cinema Emotion FHD
+http://ky-iptv.com:25461/live/oscar/1234/182889.m3u8
+#EXTINF:-1,Sky Cinema Family FHD
+http://ky-iptv.com:25461/live/oscar/1234/182890.m3u8
+#EXTINF:-1,Sky Cinema FHD
+http://ky-iptv.com:25461/live/oscar/1234/182891.m3u8
+#EXTINF:-1,Sky Cinema Fun HD
+http://ky-iptv.com:25461/live/oscar/1234/182892.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD
+http://ky-iptv.com:25461/live/oscar/1234/182893.m3u8
+#EXTINF:-1,SKY CINEMA MITTELERDE
+http://ky-iptv.com:25461/live/oscar/1234/182894.m3u8
+#EXTINF:-1,Sky Cinema Nostalgie FHD
+http://ky-iptv.com:25461/live/oscar/1234/182895.m3u8
+#EXTINF:-1,Sky Cinema Premiere +24 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182896.m3u8
+#EXTINF:-1,Sky Cinema Premiere FHD
+http://ky-iptv.com:25461/live/oscar/1234/182897.m3u8
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://ky-iptv.com:25461/live/oscar/1234/182898.m3u8
+#EXTINF:-1,Sky Cinema Premieren HD
+http://ky-iptv.com:25461/live/oscar/1234/182899.m3u8
+#EXTINF:-1,Sky Cinema Special HD
+http://ky-iptv.com:25461/live/oscar/1234/182900.m3u8
+#EXTINF:-1,Sky Cinema Spezial HD
+http://ky-iptv.com:25461/live/oscar/1234/182901.m3u8
+#EXTINF:-1,Sky Cinema Thriller HD
+http://ky-iptv.com:25461/live/oscar/1234/182902.m3u8
+#EXTINF:-1,Sky Cinema TLC
+http://ky-iptv.com:25461/live/oscar/1234/182903.m3u8
+#EXTINF:-1,SKY Cinema WESTERN HD
+http://ky-iptv.com:25461/live/oscar/1234/182904.m3u8
+#EXTINF:-1,SKY COMEDY FHD
+http://ky-iptv.com:25461/live/oscar/1234/182905.m3u8
+#EXTINF:-1,Sky Discovery Channel HD
+http://ky-iptv.com:25461/live/oscar/1234/182906.m3u8
+#EXTINF:-1,Sky Disney Channel HD
+http://ky-iptv.com:25461/live/oscar/1234/182907.m3u8
+#EXTINF:-1,SKY Emotion HD
+http://ky-iptv.com:25461/live/oscar/1234/182908.m3u8
+#EXTINF:-1,SKY FAMILY FHD
+http://ky-iptv.com:25461/live/oscar/1234/182909.m3u8
+#EXTINF:-1,Sky Fox HD
+http://ky-iptv.com:25461/live/oscar/1234/182910.m3u8
+#EXTINF:-1,Sky Germany A&E HD
+http://ky-iptv.com:25461/live/oscar/1234/182911.m3u8
+#EXTINF:-1,Sky History HD
+http://ky-iptv.com:25461/live/oscar/1234/182912.m3u8
+#EXTINF:-1,Sky Hits FHD
+http://ky-iptv.com:25461/live/oscar/1234/182913.m3u8
+#EXTINF:-1,Sky Junior HD
+http://ky-iptv.com:25461/live/oscar/1234/182914.m3u8
+#EXTINF:-1,SKY KINOWELT TV HD
+http://ky-iptv.com:25461/live/oscar/1234/182915.m3u8
+#EXTINF:-1,Sky Krimi FHD
+http://ky-iptv.com:25461/live/oscar/1234/182916.m3u8
+#EXTINF:-1,Sky NAT GEO HD
+http://ky-iptv.com:25461/live/oscar/1234/182917.m3u8
+#EXTINF:-1,SKY Nostalgie HD
+http://ky-iptv.com:25461/live/oscar/1234/182918.m3u8
+#EXTINF:-1,Sky PopCorn 2
+http://ky-iptv.com:25461/live/oscar/1234/182919.m3u8
+#EXTINF:-1,Sky PopCorn 4
+http://ky-iptv.com:25461/live/oscar/1234/182920.m3u8
+#EXTINF:-1,Sky PopCorn 5
+http://ky-iptv.com:25461/live/oscar/1234/182921.m3u8
+#EXTINF:-1,SKY POPCORN SELECT 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182922.m3u8
+#EXTINF:-1,SKY POPCORN SELECT 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182923.m3u8
+#EXTINF:-1,SKY POPCORN SELECT 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182924.m3u8
+#EXTINF:-1,SKY POPCORN SELECT 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182925.m3u8
+#EXTINF:-1,SKY POPCORN SELECT 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182926.m3u8
+#EXTINF:-1,Sky Popcorn Select 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/182927.m3u8
+#EXTINF:-1,Sky Romance TV
+http://ky-iptv.com:25461/live/oscar/1234/182928.m3u8
+#EXTINF:-1,SKY RTL PASSION
+http://ky-iptv.com:25461/live/oscar/1234/182929.m3u8
+#EXTINF:-1,SKY SELECT 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182930.m3u8
+#EXTINF:-1,Sky Select 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182931.m3u8
+#EXTINF:-1,Sky Select 3 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182932.m3u8
+#EXTINF:-1,Sky Select 4 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182933.m3u8
+#EXTINF:-1,Sky Select 5 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182934.m3u8
+#EXTINF:-1,SKY SELECT 6 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182935.m3u8
+#EXTINF:-1,SKY SELECT 7 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182936.m3u8
+#EXTINF:-1,Sky Select 8 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182937.m3u8
+#EXTINF:-1,Sky Select 9 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182938.m3u8
+#EXTINF:-1,Sky Select 10 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182939.m3u8
+#EXTINF:-1,Sky Select 11 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182940.m3u8
+#EXTINF:-1,Sky Select 12 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182941.m3u8
+#EXTINF:-1,Sky Select 13 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182942.m3u8
+#EXTINF:-1,Sky Select 14 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182943.m3u8
+#EXTINF:-1,Sky Select 15 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182944.m3u8
+#EXTINF:-1,Sky Select 16 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182945.m3u8
+#EXTINF:-1,Sky Select 17 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182946.m3u8
+#EXTINF:-1,Sky Select HD
+http://ky-iptv.com:25461/live/oscar/1234/182947.m3u8
+#EXTINF:-1,Sky Select Super HD
+http://ky-iptv.com:25461/live/oscar/1234/182948.m3u8
+#EXTINF:-1,Sky Select Premiere Vitrine HD
+http://ky-iptv.com:25461/live/oscar/1234/182949.m3u8
+#EXTINF:-1,Sky Sport 1 +
+http://ky-iptv.com:25461/live/oscar/1234/182950.m3u8
+#EXTINF:-1,Sky Sport 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182951.m3u8
 #EXTINF:-1,Sky Sport 1 HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109012
-#EXTINF:-1,Sky Sport 1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6184
-#EXTINF:-1,Sky Sport 1 [B] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/52533
-#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6177
-#EXTINF:-1,Sky Sport 2 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/61835
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7362
+http://ky-iptv.com:25461/live/oscar/1234/182952.m3u8
+#EXTINF:-1,Sky Sport 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182953.m3u8
 #EXTINF:-1,Sky Sport 2 HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109015
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6182
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13562
-#EXTINF:-1,Sky Sport 4 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9127
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13561
-#EXTINF:-1,Sky Sport 5 HD ( During Games only )
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109018
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6179
-#EXTINF:-1,Sky Sport 9 HD ( During Games only )
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109022
-#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6178
-#EXTINF:-1,Sky Sport Bundesliga 1 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/73136
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/620245
-#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13538
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6195
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/135258
-#EXTINF:-1,Sky Sport Bundesliga 2 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/62223
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/62002
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/135335
-#EXTINF:-1,Sky Sport Bundesliga 6 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6198
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6196
-#EXTINF:-1,Sky Sports News FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13555
-#EXTINF:-1,Sky Sports News HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109024
-#EXTINF:-1,Sky Sports News HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6176
-#EXTINF:-1,Sony Channel HD
-http://drmbx.net:1962/hakan2019/2019hakan/23860
-#EXTINF:-1,Sony HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6167
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6174
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100123
-#EXTINF:-1,Spiegel TV Wissen HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9135
-#EXTINF:-1,Sport 1 HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100073
-#EXTINF:-1,Sport Digital FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8244
-#EXTINF:-1,Sport Digital HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6171
-#EXTINF:-1,Sport1 FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6173
-#EXTINF:-1,Sport1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8221
-#EXTINF:-1,Sport1 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8226
-#EXTINF:-1,Sport1+ FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679847
-#EXTINF:-1,Sport1+ HD [B] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679848
-#EXTINF:-1,Super RTL
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2245
-#EXTINF:-1,Super RTL FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13554
-#EXTINF:-1,Super RTL HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6166
-#EXTINF:-1,Syfy DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6164
-#EXTINF:-1,Syfy FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7364
-#EXTINF:-1,Syfy HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5087
-#EXTINF:-1,Sylvester Stallone
-http://dinamikiptv.com:7777/adalet/adalet123/49684
-#EXTINF:-1,Südthüringer Regionalfernsehen
-http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1,TELE 5 HD
-http://dinamikiptv.com:7777/adalet/adalet123/6985
-#EXTINF:-1,TLC GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2696
-#EXTINF:-1,TLC HD
-http://dinamikiptv.com:7777/adalet/adalet123/7003
-#EXTINF:-1,TLC HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8224
-#EXTINF:-1,TNT COMEDY
-http://31.220.40.44:80/Ung_debernardi123/mag322/79489
-#EXTINF:-1,TNT Comedy FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6157
-#EXTINF:-1,TNT Film FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6156
-#EXTINF:-1,TNT SERIES HD
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1385
-#EXTINF:-1,TNT Serie DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13154
-#EXTINF:-1,TNT Serie FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5084
-#EXTINF:-1,TNT Serie HD
-http://dinamikiptv.com:7777/adalet/adalet123/27533
-#EXTINF:-1,TNT Serie HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6155
-#EXTINF:-1,TV Allgäu rtm
-rtmp://tvallgaeu.iptv-playoutcenter.de/tvallgaeu/tvallgaeu.stream
-#EXTINF:-1,TV Würzburg
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1,TVA
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1,TVO
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1,Tagesschau 24, tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
-#EXTINF:-1,Tagesschau 24 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6163
-#EXTINF:-1,Tele 5 HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9150
-#EXTINF:-1,Tele M1 HD
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
-#EXTINF:-1,TeleBärn HD
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679676
-#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679821
-#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679822
-#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679823
-#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679824
-#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679825
-#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679826
-#EXTINF:-1,The Big Bang Theory
-http://dinamikiptv.com:7777/adalet/adalet123/49693
-#EXTINF:-1,Toggo Plus DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9133
-#EXTINF:-1,Toggo Plus HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5086
-#EXTINF:-1,Universal FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5265
-#EXTINF:-1,Universal TV HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100129
-#EXTINF:-1,Unserding
-http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
-#EXTINF:-1,VH1 Classic DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/638080
-#EXTINF:-1,VOX
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1384
-#EXTINF:-1,VOX DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6153
-#EXTINF:-1,VOX FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13553
-#EXTINF:-1,VOX UP DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679836
-#EXTINF:-1,WDR
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109060
-#EXTINF:-1,WDR HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6152
-#EXTINF:-1,Welt HD
-http://dinamikiptv.com:7777/adalet/adalet123/27586
-#EXTINF:-1,Welt HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6228
-#EXTINF:-1,Welt der Wunder DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13129
-#EXTINF:-1,Wesley Snipes
-http://dinamikiptv.com:7777/adalet/adalet123/49686
-#EXTINF:-1,Will Smith
-http://dinamikiptv.com:7777/adalet/adalet123/49687
-#EXTINF:-1,World Of Free Sports TV
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1,ZDF
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/1382
-#EXTINF:-1,ZDF FHD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6151
-#EXTINF:-1,ZDF HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109064
-#EXTINF:-1,ZDF HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/17011
-#EXTINF:-1,ZDF Info HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9148
-#EXTINF:-1,ZDF Neo HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/17304
-#EXTINF:-1,ZDF info
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100122
-#EXTINF:-1,ZEE ONE HD GR
-http://x12tv.co:80/new-line-local/7wdIVc7ivH/2695
-#EXTINF:-1,a.tv
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1,arte HD DE
-http://sharkiptvpro.live:80/Ian1234/Ian1234/100024
-#EXTINF:-1,eSports1 [En] HD DE
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6172
-#EXTINF:-1,kulturmdTV
-http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-#EXTINF:-1,münchen.tv
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1,oe24 TV, oe24.TV
-https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1,tagesschau 24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1,tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+http://ky-iptv.com:25461/live/oscar/1234/182954.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/182955.m3u8
+#EXTINF:-1,Sky Sport 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182956.m3u8
+#EXTINF:-1,Sky Sport 5 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182957.m3u8
+#EXTINF:-1,Sky Sport 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/182958.m3u8
+#EXTINF:-1,Sky Sport 6 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182959.m3u8
+#EXTINF:-1,Sky Sport 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/182960.m3u8
+#EXTINF:-1,Sky Sport 7 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182961.m3u8
+#EXTINF:-1,Sky Sport 7 HD
+http://ky-iptv.com:25461/live/oscar/1234/182962.m3u8
+#EXTINF:-1,Sky Sport 8 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182963.m3u8
+#EXTINF:-1,Sky Sport 8 HD
+http://ky-iptv.com:25461/live/oscar/1234/182964.m3u8
+#EXTINF:-1,Sky Sport 9 HD
+http://ky-iptv.com:25461/live/oscar/1234/182965.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://ky-iptv.com:25461/live/oscar/1234/182966.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/182967.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182968.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182970.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/182972.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182973.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/182975.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD
+http://ky-iptv.com:25461/live/oscar/1234/182976.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://ky-iptv.com:25461/live/oscar/1234/182978.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://ky-iptv.com:25461/live/oscar/1234/182979.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://ky-iptv.com:25461/live/oscar/1234/182980.m3u8
+#EXTINF:-1,Sky Sport Bundesliga HD
+http://ky-iptv.com:25461/live/oscar/1234/182981.m3u8
+#EXTINF:-1,Sky Sport DAZN 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/182982.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://ky-iptv.com:25461/live/oscar/1234/182984.m3u8
+#EXTINF:-1,Sky Super Select 1 4K
+http://ky-iptv.com:25461/live/oscar/1234/182985.m3u8
+#EXTINF:-1,Sky Super Select Vitrine FHD
+http://ky-iptv.com:25461/live/oscar/1234/182986.m3u8
+#EXTINF:-1,SKY SYFY HD
+http://ky-iptv.com:25461/live/oscar/1234/182987.m3u8
+#EXTINF:-1,SKY TNT COMEDY
+http://ky-iptv.com:25461/live/oscar/1234/182988.m3u8
+#EXTINF:-1,Sky TNT Film HD
+http://ky-iptv.com:25461/live/oscar/1234/182989.m3u8
+#EXTINF:-1,SKY TNT Series HD
+http://ky-iptv.com:25461/live/oscar/1234/182990.m3u8
+#EXTINF:-1,Sky Universal Channel HD
+http://ky-iptv.com:25461/live/oscar/1234/182991.m3u8
+#EXTINF:-1,Skylantic HD
+http://ky-iptv.com:25461/live/oscar/1234/182993.m3u8
+#EXTINF:-1,SONNEKLAR TV
+http://ky-iptv.com:25461/live/oscar/1234/182994.m3u8
+#EXTINF:-1,SONNENKLAR HD
+http://ky-iptv.com:25461/live/oscar/1234/182995.m3u8
+#EXTINF:-1,Sony AXN HD
+http://ky-iptv.com:25461/live/oscar/1234/182996.m3u8
+#EXTINF:-1,SONY Channel
+http://ky-iptv.com:25461/live/oscar/1234/182997.m3u8
+#EXTINF:-1,Sony Enterainment HD
+http://ky-iptv.com:25461/live/oscar/1234/182998.m3u8
+#EXTINF:-1,SONY ENTERTAINMENT
+http://ky-iptv.com:25461/live/oscar/1234/182999.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://ky-iptv.com:25461/live/oscar/1234/183000.m3u8
+#EXTINF:-1,SPIEGEL TV WISSEN HD
+http://ky-iptv.com:25461/live/oscar/1234/183001.m3u8
+#EXTINF:-1,Sport 1 FHD
+http://ky-iptv.com:25461/live/oscar/1234/183002.m3u8
+#EXTINF:-1,Sport 1+ FHD
+http://ky-iptv.com:25461/live/oscar/1234/183003.m3u8
+#EXTINF:-1,Sport Digital FHD
+http://ky-iptv.com:25461/live/oscar/1234/183004.m3u8
+#EXTINF:-1,Sportdigital Fußball FHD
+http://ky-iptv.com:25461/live/oscar/1234/183005.m3u8
+#EXTINF:-1,SPORTS 1 USA HD
+http://ky-iptv.com:25461/live/oscar/1234/183006.m3u8
+#EXTINF:-1,SR FHD
+http://ky-iptv.com:25461/live/oscar/1234/183007.m3u8
+#EXTINF:-1,SRF 2 FHD
+http://ky-iptv.com:25461/live/oscar/1234/183008.m3u8
+#EXTINF:-1,SRF Info FHD
+http://ky-iptv.com:25461/live/oscar/1234/183009.m3u8
+#EXTINF:-1,Stendal TV
+http://ky-iptv.com:25461/live/oscar/1234/183010.m3u8
+#EXTINF:-1,SUPER RTL FHD
+http://ky-iptv.com:25461/live/oscar/1234/183011.m3u8
+#EXTINF:-1,SWR BW
+http://ky-iptv.com:25461/live/oscar/1234/183012.m3u8
+#EXTINF:-1,SWR Fernsehen HD
+http://ky-iptv.com:25461/live/oscar/1234/183013.m3u8
+#EXTINF:-1,SWR HD
+http://ky-iptv.com:25461/live/oscar/1234/183014.m3u8
+#EXTINF:-1,SYFY FHD
+http://ky-iptv.com:25461/live/oscar/1234/183015.m3u8
+#EXTINF:-1,TAGESSCHAU 24 HD
+http://ky-iptv.com:25461/live/oscar/1234/183016.m3u8
+#EXTINF:-1,TELE 5 FHD
+http://ky-iptv.com:25461/live/oscar/1234/183017.m3u8
+#EXTINF:-1,TELECLUB CINEMA FHD
+http://ky-iptv.com:25461/live/oscar/1234/183019.m3u8
+#EXTINF:-1,Teleclub Sport 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/183020.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/183021.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/183022.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 3 HD
+http://ky-iptv.com:25461/live/oscar/1234/183023.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/183024.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/183025.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 6 HD
+http://ky-iptv.com:25461/live/oscar/1234/183026.m3u8
+#EXTINF:-1,TELEKOM BUNDESLIGA 7 HD
+http://ky-iptv.com:25461/live/oscar/1234/183027.m3u8
+#EXTINF:-1,TELEKOM DEL SPORT 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/183028.m3u8
+#EXTINF:-1,TELEKOM DEL SPORT 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/183029.m3u8
+#EXTINF:-1,TELEKOM DEL Sport 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/183030.m3u8
+#EXTINF:-1,TELEKOM DEL Sport 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/183031.m3u8
+#EXTINF:-1,Telekom Fussbal 1 HD
+http://ky-iptv.com:25461/live/oscar/1234/183032.m3u8
+#EXTINF:-1,Telekom Fussbal 2 HD
+http://ky-iptv.com:25461/live/oscar/1234/183033.m3u8
+#EXTINF:-1,Telekom Fussbal 4 HD
+http://ky-iptv.com:25461/live/oscar/1234/183034.m3u8
+#EXTINF:-1,Telekom Fussbal 5 HD
+http://ky-iptv.com:25461/live/oscar/1234/183035.m3u8
+#EXTINF:-1,TLC FHD
+http://ky-iptv.com:25461/live/oscar/1234/183036.m3u8
+#EXTINF:-1,TNT COMEDY FHD
+http://ky-iptv.com:25461/live/oscar/1234/183037.m3u8
+#EXTINF:-1,TNT Film FHD
+http://ky-iptv.com:25461/live/oscar/1234/183038.m3u8
+#EXTINF:-1,TNT Serie FHD
+http://ky-iptv.com:25461/live/oscar/1234/183039.m3u8
+#EXTINF:-1,TOGGO
+http://ky-iptv.com:25461/live/oscar/1234/183040.m3u8
+#EXTINF:-1,TOGGO PLUS FHD
+http://ky-iptv.com:25461/live/oscar/1234/183041.m3u8
+#EXTINF:-1,TOGGO plus von Super RTL
+http://ky-iptv.com:25461/live/oscar/1234/183042.m3u8
+#EXTINF:-1,Tom & Jerry HD
+http://ky-iptv.com:25461/live/oscar/1234/183043.m3u8
+#EXTINF:-1,Travel Channel HD
+http://ky-iptv.com:25461/live/oscar/1234/183044.m3u8
+#EXTINF:-1,TV A
+http://ky-iptv.com:25461/live/oscar/1234/183045.m3u8
+#EXTINF:-1,TV Aktuell
+http://ky-iptv.com:25461/live/oscar/1234/183046.m3u8
+#EXTINF:-1,TV Berlin
+http://ky-iptv.com:25461/live/oscar/1234/183047.m3u8
+#EXTINF:-1,TV Halle
+http://ky-iptv.com:25461/live/oscar/1234/183048.m3u8
+#EXTINF:-1,TV Ingolstadt
+http://ky-iptv.com:25461/live/oscar/1234/183049.m3u8
+#EXTINF:-1,TV Kiel
+http://ky-iptv.com:25461/live/oscar/1234/183050.m3u8
+#EXTINF:-1,TV Mainfranken
+http://ky-iptv.com:25461/live/oscar/1234/183051.m3u8
+#EXTINF:-1,TV OBERFRANKEN HD
+http://ky-iptv.com:25461/live/oscar/1234/183052.m3u8
+#EXTINF:-1,TV Rus
+http://ky-iptv.com:25461/live/oscar/1234/183053.m3u8
+#EXTINF:-1,TV Touring Fernsehen
+http://ky-iptv.com:25461/live/oscar/1234/183054.m3u8
+#EXTINF:-1,TV Touring Wurzburg
+http://ky-iptv.com:25461/live/oscar/1234/183055.m3u8
+#EXTINF:-1,TVA OSTBAYERN HD
+http://ky-iptv.com:25461/live/oscar/1234/183056.m3u8
+#EXTINF:-1,TVO Oberfranken
+http://ky-iptv.com:25461/live/oscar/1234/183057.m3u8
+#EXTINF:-1,UNIVERSAL Channel FHD
+http://ky-iptv.com:25461/live/oscar/1234/183058.m3u8
+#EXTINF:-1,utsches Musik Fernsehen
+http://ky-iptv.com:25461/live/oscar/1234/183059.m3u8
+#EXTINF:-1,VIVA / Comedy Central
+http://ky-iptv.com:25461/live/oscar/1234/183060.m3u8
+#EXTINF:-1,VIVA Comedy
+http://ky-iptv.com:25461/live/oscar/1234/183061.m3u8
+#EXTINF:-1,Viyana TV
+http://ky-iptv.com:25461/live/oscar/1234/183062.m3u8
+#EXTINF:-1,VOX FHD
+http://ky-iptv.com:25461/live/oscar/1234/183063.m3u8
+#EXTINF:-1,VOX UP
+http://ky-iptv.com:25461/live/oscar/1234/183064.m3u8
+#EXTINF:-1,WDR Fernsehen HD
+http://ky-iptv.com:25461/live/oscar/1234/183065.m3u8
+#EXTINF:-1,WDR Fernsehen Köln HD
+http://ky-iptv.com:25461/live/oscar/1234/183066.m3u8
+#EXTINF:-1,WDR FHD
+http://ky-iptv.com:25461/live/oscar/1234/183067.m3u8
+#EXTINF:-1,Welt der Wunder TV
+http://ky-iptv.com:25461/live/oscar/1234/183068.m3u8
+#EXTINF:-1,WELT FHD
+http://ky-iptv.com:25461/live/oscar/1234/183069.m3u8
+#EXTINF:-1,Welt N24 HD
+http://ky-iptv.com:25461/live/oscar/1234/183070.m3u8
+#EXTINF:-1,WILD HD
+http://ky-iptv.com:25461/live/oscar/1234/183071.m3u8
+#EXTINF:-1,WWE HD
+http://ky-iptv.com:25461/live/oscar/1234/183072.m3u8
+#EXTINF:-1,ZDF FHD
+http://ky-iptv.com:25461/live/oscar/1234/183073.m3u8
+#EXTINF:-1,ZDF Info HD
+http://ky-iptv.com:25461/live/oscar/1234/183074.m3u8
+#EXTINF:-1,ZDF neo FHD
+http://ky-iptv.com:25461/live/oscar/1234/183075.m3u8
+#EXTINF:-1,Zee Neo HD
+http://ky-iptv.com:25461/live/oscar/1234/183076.m3u8
+#EXTINF:-1,ZEE One FHD
+http://ky-iptv.com:25461/live/oscar/1234/183077.m3u8
