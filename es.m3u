@@ -1,305 +1,159 @@
 #EXTM3U
+#EXTINF:-1,VIP beIN SPORTS Ñ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/46233.m3u8
+#EXTINF:-1,#Vamos HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/77435.m3u8
+#EXTINF:-1,Movistar Fórmula 1 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16150.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2085.m3u8
+#EXTINF:-1,Eurosport 1 FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30216.m3u8
+#EXTINF:-1,#0 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16124.m3u8
+#EXTINF:-1,TVE La 1 FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30206.m3u8
+#EXTINF:-1,TVE La 1 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30207.m3u8
+#EXTINF:-1,TVE La 2
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30205.m3u8
 #EXTINF:-1,24 HORAS
-http://185.232.53.5:2086/gennaro/gennaro/88757
-#EXTINF:-1,A&E
-http://185.232.53.5:2086/gennaro/gennaro/88669
-#EXTINF:-1,A3SERIES
-http://185.232.53.5:2086/gennaro/gennaro/88775
-#EXTINF:-1,AMC
-http://185.232.53.5:2086/gennaro/gennaro/88671
-#EXTINF:-1,ANIMAL PLANET
-http://185.232.53.5:2086/gennaro/gennaro/88672
-#EXTINF:-1,ANTENA 3
-http://185.232.53.5:2086/gennaro/gennaro/88673
-#EXTINF:-1,AXN
-http://185.232.53.5:2086/gennaro/gennaro/88675
-#EXTINF:-1,AZ CORAZON
-http://185.232.53.5:2086/gennaro/gennaro/88676
-#EXTINF:-1,AZ MUNDO
-http://185.232.53.5:2086/gennaro/gennaro/88677
-#EXTINF:-1,BABY TV
-http://185.232.53.5:2086/gennaro/gennaro/88678
-#EXTINF:-1,BARCA TV
-http://185.232.53.5:2086/gennaro/gennaro/88779
-#EXTINF:-1,BOOMERANG
-http://185.232.53.5:2086/gennaro/gennaro/88682
-#EXTINF:-1,CABLE NOTICIAS
-http://185.232.53.5:2086/gennaro/gennaro/88684
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61153.m3u8
+#EXTINF:-1,La Sexta HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30204.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61164.m3u8
+#EXTINF:-1,Canal Extremadura
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61165.m3u8
+#EXTINF:-1,FDF
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/5023.m3u8
+#EXTINF:-1,Divinity
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7829.m3u8
+#EXTINF:-1,Movistar Cine Español
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30194.m3u8
+#EXTINF:-1,Movistar Comedia HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30193.m3u8
+#EXTINF:-1,Movistar DCine FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30190.m3u8
+#EXTINF:-1,Movistar DCine
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30191.m3u8
+#EXTINF:-1,Movistar Series HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30175.m3u8
+#EXTINF:-1,Movistar Seriesmanía HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30173.m3u8
+#EXTINF:-1,Movistar Estrenos HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30185.m3u8
+#EXTINF:-1,TCM FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30158.m3u8
+#EXTINF:-1,TCM HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30159.m3u8
+#EXTINF:-1,AMC HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16127.m3u8
 #EXTINF:-1,CALLE 13
-http://185.232.53.5:2086/gennaro/gennaro/88680
-#EXTINF:-1,CANAL CARACOL CO
-http://185.232.53.5:2086/gennaro/gennaro/88690
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://185.232.53.5:2086/gennaro/gennaro/88732
-#EXTINF:-1,CANAL RCN
-http://185.232.53.5:2086/gennaro/gennaro/88808
-#EXTINF:-1,CANAL UNO
-http://185.232.53.5:2086/gennaro/gennaro/88689
-#EXTINF:-1,CARACOL
-http://185.232.53.5:2086/gennaro/gennaro/88685
-#EXTINF:-1,CGTN
-http://185.232.53.5:2086/gennaro/gennaro/88697
-#EXTINF:-1,CINE CANAL
-http://185.232.53.5:2086/gennaro/gennaro/88693
-#EXTINF:-1,CINE LATINO
-http://185.232.53.5:2086/gennaro/gennaro/88694
-#EXTINF:-1,CINE SONY
-http://185.232.53.5:2086/gennaro/gennaro/88695
-#EXTINF:-1,CITY TV
-http://185.232.53.5:2086/gennaro/gennaro/88698
-#EXTINF:-1,CNN EN ESPANOL
-http://185.232.53.5:2086/gennaro/gennaro/88701
-#EXTINF:-1,CNN INTERNACIONAL
-http://185.232.53.5:2086/gennaro/gennaro/88702
-#EXTINF:-1,COMEDY CENTRAL
-http://185.232.53.5:2086/gennaro/gennaro/88703
-#EXTINF:-1,COSMO
-http://185.232.53.5:2086/gennaro/gennaro/88686
-#EXTINF:-1,COSMOVISION
-http://185.232.53.5:2086/gennaro/gennaro/88705
-#EXTINF:-1,CUATRO
-http://185.232.53.5:2086/gennaro/gennaro/88699
-#EXTINF:-1,DE PELÍCULA CLASSICO
-http://185.232.53.5:2086/gennaro/gennaro/88708
-#EXTINF:-1,DE PELÍCULA PLUS
-http://185.232.53.5:2086/gennaro/gennaro/88709
-#EXTINF:-1,DIGITAL QUINCE
-http://185.232.53.5:2086/gennaro/gennaro/88710
-#EXTINF:-1,DIRECTTV SPORT
-http://185.232.53.5:2086/gennaro/gennaro/88707
-#EXTINF:-1,DIRECTTV SPORT 1
-http://185.232.53.5:2086/gennaro/gennaro/88706
-#EXTINF:-1,DIRECTTV SPORT 2
-http://185.232.53.5:2086/gennaro/gennaro/88704
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/88712
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://185.232.53.5:2086/gennaro/gennaro/88713
-#EXTINF:-1,DISCOVERY FAMALIA
-http://185.232.53.5:2086/gennaro/gennaro/88700
-#EXTINF:-1,DISCOVERY HOME AND HEALTH
-http://185.232.53.5:2086/gennaro/gennaro/88714
-#EXTINF:-1,DISCOVERY KIDS
-http://185.232.53.5:2086/gennaro/gennaro/88715
-#EXTINF:-1,DISCOVERY SCIENCE
-http://185.232.53.5:2086/gennaro/gennaro/88716
-#EXTINF:-1,DISCOVERY THEATER
-http://185.232.53.5:2086/gennaro/gennaro/88717
-#EXTINF:-1,DISCOVERY TURBO
-http://185.232.53.5:2086/gennaro/gennaro/88718
-#EXTINF:-1,DISCOVERY WORLD
-http://185.232.53.5:2086/gennaro/gennaro/88719
-#EXTINF:-1,DISNEY
-http://185.232.53.5:2086/gennaro/gennaro/88720
-#EXTINF:-1,DISNEY JUNIOR
-http://185.232.53.5:2086/gennaro/gennaro/88721
-#EXTINF:-1,DISNEY XD
-http://185.232.53.5:2086/gennaro/gennaro/88722
-#EXTINF:-1,DISTRITO COMEDIA
-http://185.232.53.5:2086/gennaro/gennaro/88724
-#EXTINF:-1,E! ENTERTAINMENT
-http://185.232.53.5:2086/gennaro/gennaro/88725
-#EXTINF:-1,EL GOURMET
-http://185.232.53.5:2086/gennaro/gennaro/88764
-#EXTINF:-1,ENERGY
-http://185.232.53.5:2086/gennaro/gennaro/88670
-#EXTINF:-1,ESPN 3
-http://185.232.53.5:2086/gennaro/gennaro/88729
-#EXTINF:-1,ESPN DEPORTES
-http://185.232.53.5:2086/gennaro/gennaro/88723
-#EXTINF:-1,ESTRELLAS
-http://185.232.53.5:2086/gennaro/gennaro/88828
-#EXTINF:-1,FILM AND ARTS
-http://185.232.53.5:2086/gennaro/gennaro/88735
-#EXTINF:-1,FORO
-http://185.232.53.5:2086/gennaro/gennaro/88726
-#EXTINF:-1,FOX
-http://185.232.53.5:2086/gennaro/gennaro/88751
-#EXTINF:-1,FOX LIFE
-http://185.232.53.5:2086/gennaro/gennaro/88752
-#EXTINF:-1,FOX PREMIUM ACTION
-http://185.232.53.5:2086/gennaro/gennaro/88737
-#EXTINF:-1,FOX PREMIUM CLASSICS
-http://185.232.53.5:2086/gennaro/gennaro/88749
-#EXTINF:-1,FOX PREMIUM COMEDY
-http://185.232.53.5:2086/gennaro/gennaro/88750
-#EXTINF:-1,FOX PREMIUM FAMILY
-http://185.232.53.5:2086/gennaro/gennaro/88738
-#EXTINF:-1,FOX PREMIUM MOVIES
-http://185.232.53.5:2086/gennaro/gennaro/88740
-#EXTINF:-1,FOX PREMIUM SERIES
-http://185.232.53.5:2086/gennaro/gennaro/88736
-#EXTINF:-1,FOX SPORTS
-http://185.232.53.5:2086/gennaro/gennaro/88755
-#EXTINF:-1,FOX SPORTS 2
-http://185.232.53.5:2086/gennaro/gennaro/88753
-#EXTINF:-1,FOX SPORTS 3
-http://185.232.53.5:2086/gennaro/gennaro/88754
-#EXTINF:-1,GALAVISION TV
-http://185.232.53.5:2086/gennaro/gennaro/88756
-#EXTINF:-1,GARAGE TV
-http://185.232.53.5:2086/gennaro/gennaro/88762
-#EXTINF:-1,GLITZ
-http://185.232.53.5:2086/gennaro/gennaro/88760
-#EXTINF:-1,GOL TV
-http://185.232.53.5:2086/gennaro/gennaro/88758
-#EXTINF:-1,GOLDEN
-http://185.232.53.5:2086/gennaro/gennaro/88761
-#EXTINF:-1,GOLDEN PLUS
-http://185.232.53.5:2086/gennaro/gennaro/88759
-#EXTINF:-1,GOLF CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/88763
-#EXTINF:-1,HBO
-http://185.232.53.5:2086/gennaro/gennaro/88768
-#EXTINF:-1,HBO 2
-http://185.232.53.5:2086/gennaro/gennaro/88766
-#EXTINF:-1,HBO FAMILY ESTE
-http://185.232.53.5:2086/gennaro/gennaro/88767
-#EXTINF:-1,HBO PLUS ESTE
-http://185.232.53.5:2086/gennaro/gennaro/88769
-#EXTINF:-1,HBO SIGNATURE
-http://185.232.53.5:2086/gennaro/gennaro/88770
-#EXTINF:-1,HISTORY 2
-http://185.232.53.5:2086/gennaro/gennaro/88765
-#EXTINF:-1,HISTORY CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/88772
-#EXTINF:-1,HOLA
-http://185.232.53.5:2086/gennaro/gennaro/88773
-#EXTINF:-1,HOLLYWOOD
-http://185.232.53.5:2086/gennaro/gennaro/88811
-#EXTINF:-1,ID
-http://185.232.53.5:2086/gennaro/gennaro/88776
-#EXTINF:-1,INDIEPLEX
-http://185.232.53.5:2086/gennaro/gennaro/88777
-#EXTINF:-1,LAS ESTRELLAS
-http://185.232.53.5:2086/gennaro/gennaro/88771
-#EXTINF:-1,LIFETIME
-http://185.232.53.5:2086/gennaro/gennaro/88780
-#EXTINF:-1,MAS CHIC
-http://185.232.53.5:2086/gennaro/gennaro/88781
-#EXTINF:-1,MAX UP
-http://185.232.53.5:2086/gennaro/gennaro/88784
-#EXTINF:-1,MEGA
-http://185.232.53.5:2086/gennaro/gennaro/88687
-#EXTINF:-1,MOREMAX
-http://185.232.53.5:2086/gennaro/gennaro/88782
-#EXTINF:-1,MOVIEPLEX
-http://185.232.53.5:2086/gennaro/gennaro/88788
-#EXTINF:-1,MTV
-http://185.232.53.5:2086/gennaro/gennaro/88785
-#EXTINF:-1,MTV HITS
-http://185.232.53.5:2086/gennaro/gennaro/88786
-#EXTINF:-1,MTV LIVE
-http://185.232.53.5:2086/gennaro/gennaro/88787
-#EXTINF:-1,NAT GEO
-http://185.232.53.5:2086/gennaro/gennaro/88791
-#EXTINF:-1,NAT GEO KIDS
-http://185.232.53.5:2086/gennaro/gennaro/88792
-#EXTINF:-1,NAT GEO WILD
-http://185.232.53.5:2086/gennaro/gennaro/88794
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/5159.m3u8
+#EXTINF:-1,Sundance
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/22241.m3u8
+#EXTINF:-1,FOX FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30213.m3u8
+#EXTINF:-1,FOX HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16128.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16129.m3u8
+#EXTINF:-1,Syfy FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30160.m3u8
+#EXTINF:-1,SyFy HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16132.m3u8
+#EXTINF:-1,AXN HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16131.m3u8
+#EXTINF:-1,AXN White FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30228.m3u8
+#EXTINF:-1,AXN White HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8569.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16133.m3u8
+#EXTINF:-1,TNT HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8567.m3u8
+#EXTINF:-1,CLAN TVE
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16142.m3u8
+#EXTINF:-1,SOMOS FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30221.m3u8
+#EXTINF:-1,Factoria de Ficción
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30215.m3u8
+#EXTINF:-1,TV3 CAT
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/5046.m3u8
+#EXTINF:-1,TELECINCO HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8864.m3u8
+#EXTINF:-1,Canal Cocina
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/5164.m3u8
+#EXTINF:-1,Energy
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8570.m3u8
 #EXTINF:-1,NEOX
-http://185.232.53.5:2086/gennaro/gennaro/88674
-#EXTINF:-1,NEXT TV
-http://185.232.53.5:2086/gennaro/gennaro/88795
-#EXTINF:-1,NICK 2
-http://185.232.53.5:2086/gennaro/gennaro/88798
-#EXTINF:-1,NICK JR
-http://185.232.53.5:2086/gennaro/gennaro/88800
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16163.m3u8
+#EXTINF:-1,TOROS HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16158.m3u8
+#EXTINF:-1,VIAJAR HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16149.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16140.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16139.m3u8
+#EXTINF:-1,Nickelodeon FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30165.m3u8
 #EXTINF:-1,NICKELODEON
-http://185.232.53.5:2086/gennaro/gennaro/88796
-#EXTINF:-1,NICKTOONS
-http://185.232.53.5:2086/gennaro/gennaro/88797
-#EXTINF:-1,NOS PAIS
-http://185.232.53.5:2086/gennaro/gennaro/88802
-#EXTINF:-1,NTN 24
-http://185.232.53.5:2086/gennaro/gennaro/88801
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/88804
-#EXTINF:-1,PASIONES
-http://185.232.53.5:2086/gennaro/gennaro/88805
-#EXTINF:-1,RCN TELE NOVELAS
-http://185.232.53.5:2086/gennaro/gennaro/88809
-#EXTINF:-1,REAL MADRID TV
-http://185.232.53.5:2086/gennaro/gennaro/88842
-#EXTINF:-1,RTE 7
-http://185.232.53.5:2086/gennaro/gennaro/88803
-#EXTINF:-1,SHOWTIME BEYOND
-http://185.232.53.5:2086/gennaro/gennaro/88807
-#EXTINF:-1,SONY
-http://185.232.53.5:2086/gennaro/gennaro/88812
-#EXTINF:-1,SPACE
-http://185.232.53.5:2086/gennaro/gennaro/88813
-#EXTINF:-1,STARZ BLACK
-http://185.232.53.5:2086/gennaro/gennaro/88820
-#EXTINF:-1,STARZ COMEDY
-http://185.232.53.5:2086/gennaro/gennaro/88823
-#EXTINF:-1,STARZ EDGE
-http://185.232.53.5:2086/gennaro/gennaro/88826
-#EXTINF:-1,STARZ ENCORE
-http://185.232.53.5:2086/gennaro/gennaro/88835
-#EXTINF:-1,STARZ ENCORE ACTION
-http://185.232.53.5:2086/gennaro/gennaro/88839
-#EXTINF:-1,STARZ ENCORE BLACK
-http://185.232.53.5:2086/gennaro/gennaro/88837
-#EXTINF:-1,STARZ ENCORE CLASSIC
-http://185.232.53.5:2086/gennaro/gennaro/88840
-#EXTINF:-1,STARZ ENCORE FAMILY
-http://185.232.53.5:2086/gennaro/gennaro/88843
-#EXTINF:-1,STARZ ENCORE SUSPENSE
-http://185.232.53.5:2086/gennaro/gennaro/88845
-#EXTINF:-1,STARZ ENCORE WESTERN
-http://185.232.53.5:2086/gennaro/gennaro/88679
-#EXTINF:-1,STARZ FAMILY
-http://185.232.53.5:2086/gennaro/gennaro/88741
-#EXTINF:-1,STARZ KIDS AND FAMILY
-http://185.232.53.5:2086/gennaro/gennaro/88827
-#EXTINF:-1,STUDIO UNIVERSAL
-http://185.232.53.5:2086/gennaro/gennaro/88814
-#EXTINF:-1,SUNDANCE
-http://185.232.53.5:2086/gennaro/gennaro/88815
-#EXTINF:-1,SYFY
-http://185.232.53.5:2086/gennaro/gennaro/88816
-#EXTINF:-1,TBS
-http://185.232.53.5:2086/gennaro/gennaro/88818
-#EXTINF:-1,TCM
-http://185.232.53.5:2086/gennaro/gennaro/88819
-#EXTINF:-1,TELE CAFE
-http://185.232.53.5:2086/gennaro/gennaro/88822
-#EXTINF:-1,TELE HIT
-http://185.232.53.5:2086/gennaro/gennaro/88824
-#EXTINF:-1,TELEMUNDO
-http://185.232.53.5:2086/gennaro/gennaro/88825
-#EXTINF:-1,TL NOVELAS
-http://185.232.53.5:2086/gennaro/gennaro/88831
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16137.m3u8
+#EXTINF:-1,HISTORIA
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16147.m3u8
+#EXTINF:-1,National Geographic FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30169.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16143.m3u8
+#EXTINF:-1,National Geographic Wild FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30167.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30168.m3u8
+#EXTINF:-1,CAZA y PESCA HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16161.m3u8
+#EXTINF:-1,ODISSEIA HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16146.m3u8
 #EXTINF:-1,TLC
-http://185.232.53.5:2086/gennaro/gennaro/88829
-#EXTINF:-1,TNT
-http://185.232.53.5:2086/gennaro/gennaro/88832
-#EXTINF:-1,TNT SERIES
-http://185.232.53.5:2086/gennaro/gennaro/88833
-#EXTINF:-1,TOONCAST
-http://185.232.53.5:2086/gennaro/gennaro/88834
-#EXTINF:-1,TRUTV
-http://185.232.53.5:2086/gennaro/gennaro/88836
-#EXTINF:-1,TUDN ZONA FUTBOL
-http://185.232.53.5:2086/gennaro/gennaro/88728
-#EXTINF:-1,TVE
-http://185.232.53.5:2086/gennaro/gennaro/88838
-#EXTINF:-1,UNIMAS
-http://185.232.53.5:2086/gennaro/gennaro/88742
-#EXTINF:-1,UNIVERSAL
-http://185.232.53.5:2086/gennaro/gennaro/88841
-#EXTINF:-1,UNIVISION
-http://185.232.53.5:2086/gennaro/gennaro/88734
-#EXTINF:-1,UNIVISION DEPORTES
-http://185.232.53.5:2086/gennaro/gennaro/88733
-#EXTINF:-1,VH1
-http://185.232.53.5:2086/gennaro/gennaro/88844
-#EXTINF:-1,WAPA
-http://185.232.53.5:2086/gennaro/gennaro/88730
-#EXTINF:-1,WARNER CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/88846
-#EXTINF:-1,WIN SPORTS
-http://185.232.53.5:2086/gennaro/gennaro/88847
-#EXTINF:-1,ZOOM
-http://185.232.53.5:2086/gennaro/gennaro/88848
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30208.m3u8
+#EXTINF:-1,CRIMEN+INVES
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30219.m3u8
+#EXTINF:-1,3/24
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/24140.m3u8
+#EXTINF:-1,FOX News
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/15009.m3u8
+#EXTINF:-1,DKISS
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/24145.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/24138.m3u8
+#EXTINF:-1,MTV ESPAÑA
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30200.m3u8
+#EXTINF:-1,MTV ROCKS
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30199.m3u8
+#EXTINF:-1,Canal Orbe 21
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30240.m3u8
+#EXTINF:-1,8TV
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30239.m3u8
+#EXTINF:-1,Condavision
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/39968.m3u8
+#EXTINF:-1,TVGA FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/39974.m3u8
+#EXTINF:-1,HIT TV
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/30210.m3u8
+#EXTINF:-1,ARAGON TV INT
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/42335.m3u8
+#EXTINF:-1,Canal Andalucia
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/42338.m3u8
+#EXTINF:-1,A3SERIES HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/42334.m3u8
+#EXTINF:-1,DECASA FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/42337.m3u8
+#EXTINF:-1,TVE La 2 FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/42340.m3u8
+#EXTINF:-1,DE PELICULA
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61178.m3u8
+#EXTINF:-1,Super3
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61173.m3u8
+#EXTINF:-1,Movistar CineDoc&Roll HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61166.m3u8

@@ -1,82 +1,194 @@
 #EXTM3U
-#EXTINF:-1,TF1 HD
-http://163.172.17.196:80/307210016401/307210016401/79132
-#EXTINF:-1,FRANCE 2 HD
-http://163.172.17.196:80/307210016401/307210016401/79131
+#EXTINF:-1,TF1 SD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7371.m3u8
+#EXTINF:-1,M6 SD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7372.m3u8
 #EXTINF:-1,FRANCE 3 HD
-http://163.172.17.196:80/307210016401/307210016401/79130
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1825.m3u8
 #EXTINF:-1,FRANCE 4 HD
-http://163.172.17.196:80/307210016401/307210016401/79129
-#EXTINF:-1,FRANCE 5 HD
-http://163.172.17.196:80/307210016401/307210016401/79128
-#EXTINF:-1,FRANCE O HD
-http://163.172.17.196:80/307210016401/307210016401/79127
-#EXTINF:-1,6TER HD
-http://163.172.17.196:80/307210016401/307210016401/79126
-#EXTINF:-1,M6 HD
-http://163.172.17.196:80/307210016401/307210016401/79125
-#EXTINF:-1,FRANCE 3 NOA HD
-http://163.172.17.196:80/307210016401/307210016401/79124
-#EXTINF:-1,TF1 SERIES-FILMS HD
-http://163.172.17.196:80/307210016401/307210016401/79123
-#EXTINF:-1,BEIN SPORT 1 HD
-http://163.172.17.196:80/307210016401/307210016401/79044
-#EXTINF:-1,BEIN SPORT 2 HD
-http://163.172.17.196:80/307210016401/307210016401/79043
-#EXTINF:-1,BEIN SPORT 3 HD
-http://163.172.17.196:80/307210016401/307210016401/79042
-#EXTINF:-1,EUROSPORT 1 HD
-http://163.172.17.196:80/307210016401/307210016401/79041
-#EXTINF:-1,EUROSPORT 2 HD
-http://163.172.17.196:80/307210016401/307210016401/79040
-#EXTINF:-1,DISCOVERY HD
-http://163.172.17.196:80/307210016401/307210016401/79004
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://163.172.17.196:80/307210016401/307210016401/79003
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1944.m3u8
+#EXTINF:-1,France Ô HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1946.m3u8
+#EXTINF:-1,CANAL+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/9437.m3u8
+#EXTINF:-1,ARTE HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/12448.m3u8
+#EXTINF:-1,Canal + Sport FHD*
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/100300.m3u8
+#EXTINF:-1,Canal + Sport HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1957.m3u8
+#EXTINF:-1,Cine + Famiz HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31427.m3u8
+#EXTINF:-1,Cine + Club HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/52487.m3u8
+#EXTINF:-1,Cine + Classic HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4043.m3u8
+#EXTINF:-1,OCS Geants HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38457.m3u8
+#EXTINF:-1,TCM Cinéma HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31443.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/95279.m3u8
+#EXTINF:-1,WARNER TV HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/95281.m3u8
+#EXTINF:-1,Comédie + HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31436.m3u8
+#EXTINF:-1,Polar+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38473.m3u8
+#EXTINF:-1,Syfy HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4041.m3u8
+#EXTINF:-1,Série Club HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38470.m3u8
+#EXTINF:-1,13ème Rue HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/43732.m3u8
+#EXTINF:-1,Game One +1
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31391.m3u8
+#EXTINF:-1,Game One HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38438.m3u8
+#EXTINF:-1,J-one HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/28619.m3u8
+#EXTINF:-1,TOONAMI HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/46574.m3u8
+#EXTINF:-1,Mangas HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4976.m3u8
+#EXTINF:-1,AB1 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31416.m3u8
+#EXTINF:-1,AB3 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8609.m3u8
+#EXTINF:-1,Téva HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/100321.m3u8
+#EXTINF:-1,C8 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2879.m3u8
+#EXTINF:-1,W9 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1947.m3u8
+#EXTINF:-1,TMC HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1453.m3u8
+#EXTINF:-1,TFX HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2876.m3u8
+#EXTINF:-1,NRJ 12 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2979.m3u8
+#EXTINF:-1,TF1 SERIES FILMS HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31422.m3u8
+#EXTINF:-1,6ter HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4879.m3u8
+#EXTINF:-1,Chérie 25 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4610.m3u8
+#EXTINF:-1,NOVELAS HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38588.m3u8
+#EXTINF:-1,Nollywood
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38474.m3u8
+#EXTINF:-1,Africa 24
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/28908.m3u8
 #EXTINF:-1,DISCOVERY FAMILY HD
-http://163.172.17.196:80/307210016401/307210016401/79002
-#EXTINF:-1,DISCOVERY ID HD
-http://163.172.17.196:80/307210016401/307210016401/79001
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://163.172.17.196:80/307210016401/307210016401/79000
-#EXTINF:-1,FRANCE INFO HD
-http://163.172.17.196:80/307210016401/307210016401/78981
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/37374.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/28905.m3u8
+#EXTINF:-1,Planète+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31430.m3u8
+#EXTINF:-1,Planète+ Action & Experience HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/6625.m3u8
+#EXTINF:-1,Planète+ Crime Investigation HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31425.m3u8
+#EXTINF:-1,VICE TV HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/52491.m3u8
+#EXTINF:-1,Toute Histoire HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2982.m3u8
+#EXTINF:-1,Science & Vie HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/6242.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/100339.m3u8
+#EXTINF:-1,Trek HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7474.m3u8
+#EXTINF:-1,RMC Découverte HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/3519.m3u8
+#EXTINF:-1,CNews HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31444.m3u8
+#EXTINF:-1,BFM TV HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2084.m3u8
+#EXTINF:-1,BFM Business HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31417.m3u8
+#EXTINF:-1,LCP HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8615.m3u8
+#EXTINF:-1,France Info HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/33840.m3u8
 #EXTINF:-1,FRANCE 24 HD
-http://163.172.17.196:80/307210016401/307210016401/78980
-#EXTINF:-1,EURONEWS FRENCH HD
-http://163.172.17.196:80/307210016401/307210016401/78979
-#EXTINF:-1,TF1 HD
-http://163.172.17.196:80/307210016401/307210016401/78492
-#EXTINF:-1,FRANCE 2 HD
-http://163.172.17.196:80/307210016401/307210016401/78491
-#EXTINF:-1,FRANCE 3 HD
-http://163.172.17.196:80/307210016401/307210016401/78490
-#EXTINF:-1,FRANCE 4 HD
-http://163.172.17.196:80/307210016401/307210016401/78489
-#EXTINF:-1,FRANCE 5 HD
-http://163.172.17.196:80/307210016401/307210016401/78488
-#EXTINF:-1,FRANCE O HD
-http://163.172.17.196:80/307210016401/307210016401/78487
-#EXTINF:-1,FRANCE 3 NOA HD
-http://163.172.17.196:80/307210016401/307210016401/78486
-#EXTINF:-1,FR|HVEC| CORONA VIRUS INFO
-http://163.172.17.196:80/307210016401/307210016401/78814
-#EXTINF:-1,TF1
-http://163.172.17.196:80/307210016401/307210016401/78813
-#EXTINF:-1,FRANCE 2
-http://163.172.17.196:80/307210016401/307210016401/78812
-#EXTINF:-1,FRANCE 3
-http://163.172.17.196:80/307210016401/307210016401/78811
-#EXTINF:-1,FRANCE 4
-http://163.172.17.196:80/307210016401/307210016401/78810
-#EXTINF:-1,FRANCE 5
-http://163.172.17.196:80/307210016401/307210016401/78809
-#EXTINF:-1,FRANCE O
-http://163.172.17.196:80/307210016401/307210016401/78808
-#EXTINF:-1,6TER
-http://163.172.17.196:80/307210016401/307210016401/78807
-#EXTINF:-1,M6
-http://163.172.17.196:80/307210016401/307210016401/78806
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/36597.m3u8
+#EXTINF:-1,I24News
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38439.m3u8
+#EXTINF:-1,Foot+ 24 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2188.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1883.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/37389.m3u8
+#EXTINF:-1,BEIN Sports MAX 4 HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7215.m3u8
+#EXTINF:-1,BEIN Sports MAX 5
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7216.m3u8
+#EXTINF:-1,BEIN Sports MAX 6
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7217.m3u8
+#EXTINF:-1,BEIN Sports MAX 7
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7218.m3u8
+#EXTINF:-1,GOLF CHANNEL HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/7219.m3u8
+#EXTINF:-1,BEIN Sports MAX 9
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16309.m3u8
+#EXTINF:-1,BEIN Sports MAX 10
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16306.m3u8
+#EXTINF:-1,InfoSport+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31452.m3u8
+#EXTINF:-1,OL TV HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/37287.m3u8
+#EXTINF:-1,GOLF+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2906.m3u8
+#EXTINF:-1,EQUIDIA HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4538.m3u8
+#EXTINF:-1,MotorSport Tv HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/100530.m3u8
+#EXTINF:-1,Piwi+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31445.m3u8
+#EXTINF:-1,Tiji HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/8589.m3u8
+#EXTINF:-1,TéléToon+ HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31404.m3u8
+#EXTINF:-1,Disney Channel HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31381.m3u8
+#EXTINF:-1,Disney Junior HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16596.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31387.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2985.m3u8
+#EXTINF:-1,CANAL J HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/4618.m3u8
+#EXTINF:-1,Boing HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/31401.m3u8
+#EXTINF:-1,Gulli HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/1454.m3u8
+#EXTINF:-1,Melody
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/47230.m3u8
+#EXTINF:-1,TRACE KITOKO FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/37338.m3u8
+#EXTINF:-1,M6 Music HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/2905.m3u8
+#EXTINF:-1,OKLM FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38451.m3u8
+#EXTINF:-1,NRJ Hits HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38447.m3u8
+#EXTINF:-1,BFM GRAND LILLE TV FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/61473.m3u8
+#EXTINF:-1,ONE TV FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/37351.m3u8
+#EXTINF:-1,KTO
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38440.m3u8
+#EXTINF:-1,MY COMEDY TV FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38441.m3u8
+#EXTINF:-1,Vosges Télévision HD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/38472.m3u8
+#EXTINF:-1,Kombat sport
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/16953.m3u8
+#EXTINF:-1,WEO FHD
+http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/97061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
